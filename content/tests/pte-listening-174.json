@@ -93,17 +93,25 @@
           "id": "pte-listening-174-q4",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Which picture shows the correct location of the Administration office? ______",
+          "prompt": "Which picture shows the correct location of the Administration office?",
           "answer": "A",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "undergraduate parking allowed"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "postgraduate parking allowed"
+            },
+            {
+              "id": "C",
+              "text": "staff parking only allowed"
+            },
+            {
+              "id": "D",
+              "text": "no student parking allowed"
             }
           ]
         },
@@ -185,7 +193,7 @@
           "id": "pte-listening-174-q12",
           "skill": "listening",
           "type": "short",
-          "prompt": "Where must the sticker be displayed? ______",
+          "prompt": "Where must the sticker be displayed?",
           "answer": "window",
           "difficulty": 2
         },

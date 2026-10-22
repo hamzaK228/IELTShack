@@ -139,7 +139,7 @@
           "id": "pte-listening-148-q11",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 11. ______",
+          "prompt": "Label 11 on the diagram.",
           "answer": "B",
           "difficulty": 2,
           "options": [
@@ -151,13 +151,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-148-block-11-2.png"
         },
         {
           "id": "pte-listening-148-q12",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 12. ______",
+          "prompt": "Label 12 on the diagram.",
           "answer": "C",
           "difficulty": 2,
           "options": [
@@ -173,13 +174,14 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-148-block-11-2.png"
         },
         {
           "id": "pte-listening-148-q13",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 13. ______",
+          "prompt": "Label 13 on the diagram.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -203,7 +205,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-148-block-11-2.png"
         },
         {
           "id": "pte-listening-148-q14",
@@ -483,7 +486,7 @@
           "id": "pte-listening-148-q26",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How did the students do their practical sessions? ______",
+          "prompt": "How did the students do their practical sessions?",
           "answer": "groups",
           "difficulty": 2
         },
@@ -491,7 +494,7 @@
           "id": "pte-listening-148-q27",
           "skill": "listening",
           "type": "gap",
-          "prompt": "In the second semester how often did Kira work in a hospital? ______",
+          "prompt": "In the second semester how often did Kira work in a hospital?",
           "answer": "every 2 days",
           "difficulty": 2
         },
@@ -499,7 +502,7 @@
           "id": "pte-listening-148-q28",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How much full-time work did Kira do during the year? ______",
+          "prompt": "How much full-time work did Kira do during the year?",
           "answer": "2 weeks",
           "difficulty": 2
         },
@@ -507,7 +510,7 @@
           "id": "pte-listening-148-q29",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Having completed the year, how does Kira feel? ______",
+          "prompt": "Having completed the year, how does Kira feel?",
           "answer": "confident",
           "difficulty": 2
         },
@@ -515,7 +518,7 @@
           "id": "pte-listening-148-q30",
           "skill": "listening",
           "type": "gap",
-          "prompt": "In addition to the language, what do overseas students need to become familiar with? ______",
+          "prompt": "In addition to the language, what do overseas students need to become familiar with?",
           "answer": "education system",
           "difficulty": 2
         },

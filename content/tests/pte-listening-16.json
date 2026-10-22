@@ -175,25 +175,37 @@
           "id": "pte-listening-16-q21",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 21. ______",
+          "prompt": "Which THREE examples of space junk are mentioned by the speaker?",
           "answer": "D",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "cans"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "cooling tanks"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "metal plates"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "metal screws"
+            },
+            {
+              "id": "E",
+              "text": "paint"
+            },
+            {
+              "id": "F",
+              "text": "satellites"
+            },
+            {
+              "id": "G",
+              "text": "whole rackets"
             }
           ]
         },
@@ -201,29 +213,37 @@
           "id": "pte-listening-16-q22",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 22. ______",
+          "prompt": "Which THREE examples of space junk are mentioned by the speaker?",
           "answer": "E",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "cans"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "cooling tanks"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "metal plates"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "metal screws"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "paint"
+            },
+            {
+              "id": "F",
+              "text": "satellites"
+            },
+            {
+              "id": "G",
+              "text": "whole rackets"
             }
           ]
         },
@@ -231,33 +251,37 @@
           "id": "pte-listening-16-q23",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 23. ______",
+          "prompt": "Which THREE examples of space junk are mentioned by the speaker?",
           "answer": "F",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "cans"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "cooling tanks"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "metal plates"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "metal screws"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "paint"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "satellites"
+            },
+            {
+              "id": "G",
+              "text": "whole rackets"
             }
           ]
         },

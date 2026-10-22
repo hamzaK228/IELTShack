@@ -21,11 +21,19 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "wallet, pens and novel"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "papers and wallet"
+            },
+            {
+              "id": "C",
+              "text": "pens and novel"
+            },
+            {
+              "id": "D",
+              "text": "papers, pen and novel"
             }
           ]
         },
@@ -39,15 +47,19 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "wallet, pens and novel"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "papers and wallet"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "pens and novel"
+            },
+            {
+              "id": "D",
+              "text": "papers, pen and novel"
             }
           ]
         },
@@ -87,19 +99,19 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "wallet, pens and novel"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "papers and wallet"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "pens and novel"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "papers, pen and novel"
             }
           ]
         },

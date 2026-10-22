@@ -15,7 +15,7 @@
           "id": "pte-listening-97-q1",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What does Matt suggest they do? ______",
+          "prompt": "What does Matt suggest they do?",
           "answer": "have a coffee",
           "difficulty": 2
         },
@@ -23,7 +23,7 @@
           "id": "pte-listening-97-q2",
           "skill": "listening",
           "type": "gap",
-          "prompt": "In which month is the party going to take place? ______",
+          "prompt": "In which month is the party going to take place?",
           "answer": "september",
           "difficulty": 2
         },
@@ -31,7 +31,7 @@
           "id": "pte-listening-97-q3",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Where is Niki? ______",
+          "prompt": "Where is Niki?",
           "answer": "on holiday",
           "difficulty": 2
         },
@@ -39,7 +39,7 @@
           "id": "pte-listening-97-q4",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How long is Matt going to be away for? ______",
+          "prompt": "How long is Matt going to be away for?",
           "answer": "two weeks",
           "difficulty": 2
         },
@@ -47,7 +47,7 @@
           "id": "pte-listening-97-q5",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What day of the week is the party going to be held? ______",
+          "prompt": "What day of the week is the party going to be held?",
           "answer": "saturday",
           "difficulty": 2
         },
@@ -61,11 +61,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "a bridge over the river"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "a large swimming pool"
+            },
+            {
+              "id": "C",
+              "text": "gardens leading down to the river"
             }
           ]
         },

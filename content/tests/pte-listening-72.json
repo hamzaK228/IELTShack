@@ -525,11 +525,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "be reviewed by two examiners"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "be added to the final grade"
+            },
+            {
+              "id": "C",
+              "text": "be returned with feedback"
             }
           ]
         },

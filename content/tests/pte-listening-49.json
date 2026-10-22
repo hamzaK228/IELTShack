@@ -37,21 +37,21 @@
           "id": "pte-listening-49-q2",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Which of the items below does Harry want to sell? ______",
+          "prompt": "Which of the items below does Harry want to sell?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "may not pay well"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "may not take your goods"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "may only take free goods"
             }
           ]
         },

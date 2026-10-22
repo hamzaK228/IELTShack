@@ -323,7 +323,7 @@
           "id": "pte-listening-101-q21",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 21. ______",
+          "prompt": "Complete the timetable. Question 21.",
           "answer": "G",
           "difficulty": 2,
           "options": [
@@ -355,13 +355,14 @@
               "id": "G",
               "text": "Option G"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-101-block-21-5.png"
         },
         {
           "id": "pte-listening-101-q22",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 22. ______",
+          "prompt": "Complete the timetable. Question 22.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -385,13 +386,14 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-101-block-21-5.png"
         },
         {
           "id": "pte-listening-101-q23",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 23. ______",
+          "prompt": "Complete the timetable. Question 23.",
           "answer": "C",
           "difficulty": 2,
           "options": [
@@ -407,13 +409,14 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-101-block-21-5.png"
         },
         {
           "id": "pte-listening-101-q24",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 24. ______",
+          "prompt": "Complete the timetable. Question 24.",
           "answer": "A",
           "difficulty": 2,
           "options": [
@@ -425,7 +428,8 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-101-block-21-5.png"
         },
         {
           "id": "pte-listening-101-q25",

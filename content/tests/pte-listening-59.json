@@ -95,7 +95,7 @@
           "id": "pte-listening-59-q11",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Who is Mrs Sutton worried about? ______",
+          "prompt": "Who is Mrs Sutton worried about?",
           "answer": "her daughter Anna",
           "difficulty": 2
         },
@@ -103,7 +103,7 @@
           "id": "pte-listening-59-q12",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What is the name for a group of family doctors working in the same building together? ______",
+          "prompt": "What is the name for a group of family doctors working in the same building together?",
           "answer": "a practice",
           "difficulty": 2
         },
@@ -255,17 +255,21 @@
           "id": "pte-listening-59-q31",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Which column of the bar chart represents the figures quoted? ______",
+          "prompt": "Which column of the bar chart represents the figures quoted?",
           "answer": "A",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "pain killers"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "relaxation therapy"
+            },
+            {
+              "id": "C",
+              "text": "exercise routines"
             }
           ]
         },

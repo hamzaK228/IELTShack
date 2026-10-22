@@ -117,17 +117,21 @@
           "id": "pte-listening-111-q12",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "What does the speaker say about the outside area of the mine? ______",
+          "prompt": "What does the speaker say about the outside area of the mine?",
           "answer": "A",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "can ask for help"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "have access to all areas"
+            },
+            {
+              "id": "C",
+              "text": "can make use of ramp"
             }
           ]
         },

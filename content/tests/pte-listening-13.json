@@ -287,7 +287,7 @@
           "id": "pte-listening-13-q21",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What do Sharon and Xiao Li agree was the strongest aspect of their presentation? ______",
+          "prompt": "What do Sharon and Xiao Li agree was the strongest aspect of their presentation?",
           "answer": "technique",
           "difficulty": 2
         },
@@ -295,7 +295,7 @@
           "id": "pte-listening-13-q22",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Which part of their presentation was Xiao Li least happy with? ______",
+          "prompt": "Which part of their presentation was Xiao Li least happy with?",
           "answer": "questions",
           "difficulty": 2
         },
@@ -303,7 +303,7 @@
           "id": "pte-listening-13-q23",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Which section does Sharon feel they should have discussed in more depth? ______",
+          "prompt": "Which section does Sharon feel they should have discussed in more depth?",
           "answer": "solutions",
           "difficulty": 2
         },
@@ -377,7 +377,7 @@
           "id": "pte-listening-13-q27",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Which bar chart represents the marks given by the tutor? ______",
+          "prompt": "Which bar chart represents the marks given by the tutor?",
           "answer": "C",
           "difficulty": 2,
           "options": [

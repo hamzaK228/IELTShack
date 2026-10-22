@@ -391,7 +391,8 @@
               "id": "I",
               "text": "Option I"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-185-map-15.png"
         },
         {
           "id": "pte-listening-185-q20",
@@ -439,7 +440,7 @@
           "id": "pte-listening-185-q21",
           "skill": "listening",
           "type": "multi",
-          "prompt": "Choose TWO letters, A-E. Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "prompt": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
           "options": [
             {
               "id": "A",
@@ -472,7 +473,7 @@
           "id": "pte-listening-185-q22",
           "skill": "listening",
           "type": "multi",
-          "prompt": "Choose TWO letters, A-E. Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
+          "prompt": "Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?",
           "options": [
             {
               "id": "A",
@@ -505,7 +506,7 @@
           "id": "pte-listening-185-q23",
           "skill": "listening",
           "type": "multi",
-          "prompt": "Choose TWO letters, A-E. In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "prompt": "In which TWO ways do both Jess and Tom decide to change their proposals?",
           "options": [
             {
               "id": "A",
@@ -538,7 +539,7 @@
           "id": "pte-listening-185-q24",
           "skill": "listening",
           "type": "multi",
-          "prompt": "Choose TWO letters, A-E. In which TWO ways do both Jess and Tom decide to change their proposals?",
+          "prompt": "In which TWO ways do both Jess and Tom decide to change their proposals?",
           "options": [
             {
               "id": "A",

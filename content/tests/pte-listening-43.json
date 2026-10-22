@@ -71,21 +71,37 @@
           "id": "pte-listening-43-q8",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 8. ______",
+          "prompt": "Which THREE features does the owner say make his car worth buying?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "lots of registration"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "being highly manoeuvrable"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "being easy to park"
+            },
+            {
+              "id": "D",
+              "text": "fuel efficiency"
+            },
+            {
+              "id": "E",
+              "text": "quick acceleration"
+            },
+            {
+              "id": "F",
+              "text": "good resale potential"
+            },
+            {
+              "id": "G",
+              "text": "smoothly running engine"
             }
           ]
         },
@@ -93,17 +109,37 @@
           "id": "pte-listening-43-q9",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 9. ______",
+          "prompt": "Which THREE features does the owner say make his car worth buying?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "lots of registration"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "being highly manoeuvrable"
+            },
+            {
+              "id": "C",
+              "text": "being easy to park"
+            },
+            {
+              "id": "D",
+              "text": "fuel efficiency"
+            },
+            {
+              "id": "E",
+              "text": "quick acceleration"
+            },
+            {
+              "id": "F",
+              "text": "good resale potential"
+            },
+            {
+              "id": "G",
+              "text": "smoothly running engine"
             }
           ]
         },
@@ -111,33 +147,37 @@
           "id": "pte-listening-43-q10",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 10. ______",
+          "prompt": "Which THREE features does the owner say make his car worth buying?",
           "answer": "F",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "lots of registration"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "being highly manoeuvrable"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "being easy to park"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "fuel efficiency"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "quick acceleration"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "good resale potential"
+            },
+            {
+              "id": "G",
+              "text": "smoothly running engine"
             }
           ]
         },
@@ -369,7 +409,8 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-43-block-17-5.png"
         },
         {
           "id": "pte-listening-43-q18",
@@ -399,7 +440,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-43-block-17-5.png"
         },
         {
           "id": "pte-listening-43-q19",
@@ -445,7 +487,8 @@
               "id": "I",
               "text": "Option I"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-43-block-17-5.png"
         },
         {
           "id": "pte-listening-43-q20",
@@ -483,7 +526,8 @@
               "id": "G",
               "text": "Option G"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-43-block-17-5.png"
         },
         {
           "id": "pte-listening-43-q21",

@@ -417,17 +417,21 @@
           "id": "pte-listening-128-q35",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Which pie chart shows the percentage of respondents who experienced a problem in the supermarket? ______",
+          "prompt": "Which pie chart shows the percentage of respondents who experienced a problem in the supermarket?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "greater support from management"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "less chance of unfair complaints"
+            },
+            {
+              "id": "C",
+              "text": "greater cooperation between staff"
             }
           ]
         },
@@ -435,21 +439,21 @@
           "id": "pte-listening-128-q36",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 36. ______",
+          "prompt": "How might the students’ website help the supermarket, according to the manager?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "greater support from management"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "less chance of unfair complaints"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "greater cooperation between staff"
             }
           ]
         },

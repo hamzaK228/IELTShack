@@ -151,21 +151,37 @@
           "id": "pte-listening-122-q18",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 18. ______",
+          "prompt": "Which THREE pieces of advice does the first-aid office say are most important?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "have proper equipment"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "give regular first-aid training"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "have a safety officer"
+            },
+            {
+              "id": "D",
+              "text": "instill safe behavior"
+            },
+            {
+              "id": "E",
+              "text": "put posters on walls"
+            },
+            {
+              "id": "F",
+              "text": "have safety meetings"
+            },
+            {
+              "id": "G",
+              "text": "have first-aid boxes"
             }
           ]
         },
@@ -173,25 +189,37 @@
           "id": "pte-listening-122-q19",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 19. ______",
+          "prompt": "Which THREE pieces of advice does the first-aid office say are most important?",
           "answer": "D",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "have proper equipment"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "give regular first-aid training"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "have a safety officer"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "instill safe behavior"
+            },
+            {
+              "id": "E",
+              "text": "put posters on walls"
+            },
+            {
+              "id": "F",
+              "text": "have safety meetings"
+            },
+            {
+              "id": "G",
+              "text": "have first-aid boxes"
             }
           ]
         },
@@ -199,33 +227,37 @@
           "id": "pte-listening-122-q20",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 20. ______",
+          "prompt": "Which THREE pieces of advice does the first-aid office say are most important?",
           "answer": "F",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "have proper equipment"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "give regular first-aid training"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "have a safety officer"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "instill safe behavior"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "put posters on walls"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "have safety meetings"
+            },
+            {
+              "id": "G",
+              "text": "have first-aid boxes"
             }
           ]
         },

@@ -151,7 +151,7 @@
           "id": "pte-listening-131-q18",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Where is the suggestion box found at the health centre? ______",
+          "prompt": "Where is the suggestion box found at the health centre?",
           "answer": "reception",
           "difficulty": 2
         },
@@ -159,7 +159,7 @@
           "id": "pte-listening-131-q19",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Who will deal with any complaints made? ______",
+          "prompt": "Who will deal with any complaints made?",
           "answer": "(practice) manager",
           "difficulty": 2
         },
@@ -167,7 +167,7 @@
           "id": "pte-listening-131-q20",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What area is closed off during the open morning? ______",
+          "prompt": "What area is closed off during the open morning?",
           "answer": "(practice) offices",
           "difficulty": 2
         },
@@ -181,11 +181,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "Not satisfied"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "Quite satisfied"
+            },
+            {
+              "id": "C",
+              "text": "Very satisfied"
             }
           ]
         },
@@ -199,11 +203,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "Not satisfied"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "Quite satisfied"
+            },
+            {
+              "id": "C",
+              "text": "Very satisfied"
             }
           ]
         },
@@ -217,15 +225,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "Not satisfied"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "Quite satisfied"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "Very satisfied"
             }
           ]
         },
@@ -239,11 +247,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "Not satisfied"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "Quite satisfied"
+            },
+            {
+              "id": "C",
+              "text": "Very satisfied"
             }
           ]
         },
@@ -301,7 +313,8 @@
               "id": "F",
               "text": "Option F"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-131-map-26.png"
         },
         {
           "id": "pte-listening-131-q27",
@@ -343,7 +356,8 @@
               "id": "H",
               "text": "Option H"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-131-map-26.png"
         },
         {
           "id": "pte-listening-131-q28",
@@ -389,7 +403,8 @@
               "id": "I",
               "text": "Option I"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-131-map-26.png"
         },
         {
           "id": "pte-listening-131-q29",
@@ -407,7 +422,8 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-131-map-26.png"
         },
         {
           "id": "pte-listening-131-q30",

@@ -47,7 +47,7 @@
           "id": "pte-listening-39-q5",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Special offer? Yes, from ______ company",
+          "prompt": "Special offer?",
           "answer": "credit card",
           "difficulty": 2
         },
@@ -55,7 +55,7 @@
           "id": "pte-listening-39-q6",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Insurance? Yes, had ______ Policy",
+          "prompt": "Insurance?",
           "answer": "gold star",
           "difficulty": 2
         },
@@ -95,7 +95,7 @@
           "id": "pte-listening-39-q11",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 11. ______",
+          "prompt": "Complete the table below. Question 11.",
           "answer": "D",
           "difficulty": 2,
           "options": [
@@ -115,13 +115,14 @@
               "id": "D",
               "text": "Option D"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-11-1.png"
         },
         {
           "id": "pte-listening-39-q12",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 12. ______",
+          "prompt": "Complete the table below. Question 12.",
           "answer": "A",
           "difficulty": 2,
           "options": [
@@ -133,13 +134,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-11-1.png"
         },
         {
           "id": "pte-listening-39-q13",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 13. ______",
+          "prompt": "Complete the table below. Question 13.",
           "answer": "C",
           "difficulty": 2,
           "options": [
@@ -155,13 +157,14 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-11-1.png"
         },
         {
           "id": "pte-listening-39-q14",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 14. ______",
+          "prompt": "Complete the table below. Question 14.",
           "answer": "F",
           "difficulty": 2,
           "options": [
@@ -189,13 +192,14 @@
               "id": "F",
               "text": "Option F"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-11-1.png"
         },
         {
           "id": "pte-listening-39-q15",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 15. ______",
+          "prompt": "Complete the table below. Question 15.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -219,7 +223,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-11-1.png"
         },
         {
           "id": "pte-listening-39-q16",
@@ -313,7 +318,7 @@
           "id": "pte-listening-39-q27",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 27. ______",
+          "prompt": "Complete the timetable below. Question 27.",
           "answer": "H",
           "difficulty": 2,
           "options": [
@@ -349,13 +354,14 @@
               "id": "H",
               "text": "Option H"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-27-4.png"
         },
         {
           "id": "pte-listening-39-q28",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 28. ______",
+          "prompt": "Complete the timetable below. Question 28.",
           "answer": "B",
           "difficulty": 2,
           "options": [
@@ -367,13 +373,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-27-4.png"
         },
         {
           "id": "pte-listening-39-q29",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 29. ______",
+          "prompt": "Complete the timetable below. Question 29.",
           "answer": "G",
           "difficulty": 2,
           "options": [
@@ -405,13 +412,14 @@
               "id": "G",
               "text": "Option G"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-27-4.png"
         },
         {
           "id": "pte-listening-39-q30",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 30. ______",
+          "prompt": "Complete the timetable below. Question 30.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -435,7 +443,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-39-block-27-4.png"
         },
         {
           "id": "pte-listening-39-q31",

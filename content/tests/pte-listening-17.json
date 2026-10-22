@@ -21,15 +21,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "taxed at a higher rate"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "unable to work"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "liable for medicare contributions"
             }
           ]
         },
@@ -87,11 +87,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "taxed at a higher rate"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "unable to work"
+            },
+            {
+              "id": "C",
+              "text": "liable for medicare contributions"
             }
           ]
         },

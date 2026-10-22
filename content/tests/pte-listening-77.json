@@ -365,7 +365,7 @@
           "id": "pte-listening-77-q17",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 17. ______",
+          "prompt": "Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
           "answer": "F",
           "difficulty": 2,
           "options": [
@@ -399,7 +399,7 @@
           "id": "pte-listening-77-q18",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 18. ______",
+          "prompt": "Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
           "answer": "H",
           "difficulty": 2,
           "options": [
@@ -441,21 +441,29 @@
           "id": "pte-listening-77-q19",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 19. ______",
+          "prompt": "Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "They had all won prizes for their music"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "They had all made music recordings"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "They were all under 27 years old"
+            },
+            {
+              "id": "D",
+              "text": "They had all toured internationally"
+            },
+            {
+              "id": "E",
+              "text": "They all played a string instrument"
             }
           ]
         },
@@ -463,17 +471,29 @@
           "id": "pte-listening-77-q20",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 20. ______",
+          "prompt": "Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "They had all won prizes for their music"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "They had all made music recordings"
+            },
+            {
+              "id": "C",
+              "text": "They were all under 27 years old"
+            },
+            {
+              "id": "D",
+              "text": "They had all toured internationally"
+            },
+            {
+              "id": "E",
+              "text": "They all played a string instrument"
             }
           ]
         },

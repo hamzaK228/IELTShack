@@ -47,17 +47,37 @@
           "id": "pte-listening-132-q5",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 5. ______",
+          "prompt": "Which THREE things are included for free with every property for rent from Easylet?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "heating bills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "kitchen equipment"
+            },
+            {
+              "id": "C",
+              "text": "plates and glasses"
+            },
+            {
+              "id": "D",
+              "text": "sheets and towels"
+            },
+            {
+              "id": "E",
+              "text": "telephone"
+            },
+            {
+              "id": "F",
+              "text": "television"
+            },
+            {
+              "id": "G",
+              "text": "water bill"
             }
           ]
         },
@@ -65,33 +85,37 @@
           "id": "pte-listening-132-q6",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 6. ______",
+          "prompt": "Which THREE things are included for free with every property for rent from Easylet?",
           "answer": "F",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "heating bills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "kitchen equipment"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "plates and glasses"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "sheets and towels"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "telephone"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "television"
+            },
+            {
+              "id": "G",
+              "text": "water bill"
             }
           ]
         },
@@ -99,37 +123,37 @@
           "id": "pte-listening-132-q7",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 7. ______",
+          "prompt": "Which THREE things are included for free with every property for rent from Easylet?",
           "answer": "G",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "heating bills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "kitchen equipment"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "plates and glasses"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "sheets and towels"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "telephone"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "television"
             },
             {
               "id": "G",
-              "text": "Option G"
+              "text": "water bill"
             }
           ]
         },
@@ -311,7 +335,7 @@
           "id": "pte-listening-132-q17",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 17. ______",
+          "prompt": "Label 17 on the map.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -335,13 +359,14 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-132-block-17-5.png"
         },
         {
           "id": "pte-listening-132-q18",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 18. ______",
+          "prompt": "Label 18 on the map.",
           "answer": "F",
           "difficulty": 2,
           "options": [
@@ -369,13 +394,14 @@
               "id": "F",
               "text": "Option F"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-132-block-17-5.png"
         },
         {
           "id": "pte-listening-132-q19",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 19. ______",
+          "prompt": "Label 19 on the map.",
           "answer": "A",
           "difficulty": 2,
           "options": [
@@ -387,13 +413,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-132-block-17-5.png"
         },
         {
           "id": "pte-listening-132-q20",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 20. ______",
+          "prompt": "Label 20 on the map.",
           "answer": "D",
           "difficulty": 2,
           "options": [
@@ -413,7 +440,8 @@
               "id": "D",
               "text": "Option D"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-132-block-17-5.png"
         },
         {
           "id": "pte-listening-132-q21",
@@ -513,23 +541,35 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "get feedback from teaching staff"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "do more reading"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "get help from school supporting staff"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "get help for nursing problems"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
             }
           ]
         },
@@ -543,31 +583,35 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "get feedback from teaching staff"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "do more reading"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "get help from school supporting staff"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "get help for nursing problems"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "manage time properly"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "be well prepared"
             },
             {
               "id": "G",
-              "text": "Option G"
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
             }
           ]
         },
@@ -581,15 +625,35 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "get feedback from teaching staff"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "do more reading"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
             }
           ]
         },
@@ -603,11 +667,35 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "get feedback from teaching staff"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
             }
           ]
         },
@@ -621,11 +709,35 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "get feedback from teaching staff"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
             }
           ]
         },

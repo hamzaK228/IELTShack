@@ -347,17 +347,21 @@
           "id": "pte-listening-53-q22",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "What kind of skill will the student gain in the course? ______",
+          "prompt": "What kind of skill will the student gain in the course?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "good future"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "good pay"
+            },
+            {
+              "id": "C",
+              "text": "parents’ will 22.What kind of skill will the student gain in the course?"
             }
           ]
         },
@@ -437,23 +441,27 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "limited value"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "useful"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "relevant to career"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "flexible admission"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "intensive"
+            },
+            {
+              "id": "F",
+              "text": "improving leadership"
             }
           ]
         },

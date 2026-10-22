@@ -185,7 +185,7 @@
           "id": "pte-listening-2-q17",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 17. ______",
+          "prompt": "questions 17-20. Question 17.",
           "answer": "A",
           "difficulty": 2,
           "options": [
@@ -197,13 +197,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-2-block-17-4.png"
         },
         {
           "id": "pte-listening-2-q18",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 18. ______",
+          "prompt": "questions 17-20. Question 18.",
           "answer": "I",
           "difficulty": 2,
           "options": [
@@ -243,13 +244,14 @@
               "id": "I",
               "text": "Option I"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-2-block-17-4.png"
         },
         {
           "id": "pte-listening-2-q19",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 19. ______",
+          "prompt": "questions 17-20. Question 19.",
           "answer": "F",
           "difficulty": 2,
           "options": [
@@ -277,13 +279,14 @@
               "id": "F",
               "text": "Option F"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-2-block-17-4.png"
         },
         {
           "id": "pte-listening-2-q20",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 20. ______",
+          "prompt": "questions 17-20. Question 20.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -307,7 +310,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-2-block-17-4.png"
         },
         {
           "id": "pte-listening-2-q21",

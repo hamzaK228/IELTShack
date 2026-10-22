@@ -159,7 +159,7 @@
           "id": "pte-listening-154-q19",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How often do the Top Bus Company tours run? ______",
+          "prompt": "How often do the Top Bus Company tours run?",
           "answer": "every 20 minutes",
           "difficulty": 2
         },
@@ -167,7 +167,7 @@
           "id": "pte-listening-154-q20",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Where can you catch a Number One Sightseeing Tour from? ______",
+          "prompt": "Where can you catch a Number One Sightseeing Tour from?",
           "answer": "central station",
           "difficulty": 2
         },
@@ -455,11 +455,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "know nothing about the influence of handedness"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "focus on the wrong aspects of performance"
+            },
+            {
+              "id": "C",
+              "text": "underestimate what science has to offer sport 34"
             }
           ]
         },

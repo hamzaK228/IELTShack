@@ -71,7 +71,7 @@
           "id": "pte-listening-114-q8",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 8. ______",
+          "prompt": "Label 8 on the map.",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -95,13 +95,14 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-114-block-8-1.png"
         },
         {
           "id": "pte-listening-114-q9",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 9. ______",
+          "prompt": "Label 9 on the map.",
           "answer": "A",
           "difficulty": 2,
           "options": [
@@ -113,13 +114,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-114-block-8-1.png"
         },
         {
           "id": "pte-listening-114-q10",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 10. ______",
+          "prompt": "Label 10 on the map.",
           "answer": "C",
           "difficulty": 2,
           "options": [
@@ -135,7 +137,8 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-114-block-8-1.png"
         },
         {
           "id": "pte-listening-114-q11",
@@ -303,7 +306,7 @@
           "id": "pte-listening-114-q26",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Where should you sit when you attend a lecture? ______",
+          "prompt": "Where should you sit when you attend a lecture?",
           "answer": "at the front",
           "difficulty": 2
         },
@@ -311,7 +314,7 @@
           "id": "pte-listening-114-q27",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What should you do if you miss an important point? ______",
+          "prompt": "What should you do if you miss an important point?",
           "answer": "leave a space",
           "difficulty": 2
         },
@@ -319,7 +322,7 @@
           "id": "pte-listening-114-q28",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Why must your notes be easy to read? ______",
+          "prompt": "Why must your notes be easy to read?",
           "answer": "it saves time",
           "difficulty": 2
         },
@@ -327,7 +330,7 @@
           "id": "pte-listening-114-q29",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What do we call expressions which indicate what is coming next? ______",
+          "prompt": "What do we call expressions which indicate what is coming next?",
           "answer": "signpost words",
           "difficulty": 2
         },
@@ -335,7 +338,7 @@
           "id": "pte-listening-114-q30",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Where does Carlos write summing up points on his notes? ______",
+          "prompt": "Where does Carlos write summing up points on his notes?",
           "answer": "B",
           "difficulty": 2,
           "options": [

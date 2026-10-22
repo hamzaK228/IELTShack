@@ -151,21 +151,37 @@
           "id": "pte-listening-54-q18",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 18. ______",
+          "prompt": "Which THREE pieces of advice does the police officer give?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "avoid dangerous areas"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "avoid strangers"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "carry a personal siren"
+            },
+            {
+              "id": "D",
+              "text": "do not stay out late"
+            },
+            {
+              "id": "E",
+              "text": "stay in well lit areas"
+            },
+            {
+              "id": "F",
+              "text": "use common sense"
+            },
+            {
+              "id": "G",
+              "text": "carry pepper spray"
             }
           ]
         },
@@ -173,29 +189,37 @@
           "id": "pte-listening-54-q19",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 19. ______",
+          "prompt": "Which THREE pieces of advice does the police officer give?",
           "answer": "E",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "avoid dangerous areas"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "avoid strangers"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "carry a personal siren"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "do not stay out late"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "stay in well lit areas"
+            },
+            {
+              "id": "F",
+              "text": "use common sense"
+            },
+            {
+              "id": "G",
+              "text": "carry pepper spray"
             }
           ]
         },
@@ -203,33 +227,37 @@
           "id": "pte-listening-54-q20",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 20. ______",
+          "prompt": "Which THREE pieces of advice does the police officer give?",
           "answer": "F",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "avoid dangerous areas"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "avoid strangers"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "carry a personal siren"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "do not stay out late"
             },
             {
               "id": "E",
-              "text": "Option E"
+              "text": "stay in well lit areas"
             },
             {
               "id": "F",
-              "text": "Option F"
+              "text": "use common sense"
+            },
+            {
+              "id": "G",
+              "text": "carry pepper spray"
             }
           ]
         },

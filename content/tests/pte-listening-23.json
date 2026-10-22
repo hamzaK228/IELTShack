@@ -225,11 +225,15 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "recycled"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "inexpensive"
+            },
+            {
+              "id": "C",
+              "text": "available in the lab 23"
             }
           ]
         },
@@ -337,7 +341,7 @@
           "id": "pte-listening-23-q31",
           "skill": "listening",
           "type": "gap",
-          "prompt": "When did Mt. Pinatubo erupt for the first time? ______",
+          "prompt": "When did Mt. Pinatubo erupt for the first time?",
           "answer": "5500 years ago",
           "difficulty": 2
         },
@@ -345,7 +349,7 @@
           "id": "pte-listening-23-q32",
           "skill": "listening",
           "type": "gap",
-          "prompt": "When was the earthquake measuring 7.8 recorded? ______",
+          "prompt": "When was the earthquake measuring 7.8 recorded?",
           "answer": "July 1990",
           "difficulty": 2
         },
@@ -353,7 +357,7 @@
           "id": "pte-listening-23-q33",
           "skill": "listening",
           "type": "gap",
-          "prompt": "When did the experts begin to study Mt. Pinatubo? ______",
+          "prompt": "When did the experts begin to study Mt. Pinatubo?",
           "answer": "mid-march 1991",
           "difficulty": 2
         },
@@ -361,7 +365,7 @@
           "id": "pte-listening-23-q34",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What fell on the local villages on 2nd April? ______",
+          "prompt": "What fell on the local villages on 2nd April?",
           "answer": "ash",
           "difficulty": 2
         },
@@ -369,7 +373,7 @@
           "id": "pte-listening-23-q35",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What does a 'level 5' alert mean? ______",
+          "prompt": "What does a 'level 5' alert mean?",
           "answer": "eruption in progress",
           "difficulty": 2
         },

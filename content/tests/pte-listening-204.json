@@ -222,19 +222,23 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "improved fine motor skills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "improved memory"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "improved concentration"
             },
             {
               "id": "D",
-              "text": "Option D"
+              "text": "improved imagination"
+            },
+            {
+              "id": "E",
+              "text": "improved spatial awareness"
             }
           ]
         },
@@ -282,11 +286,23 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "improved fine motor skills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "improved memory"
+            },
+            {
+              "id": "C",
+              "text": "improved concentration"
+            },
+            {
+              "id": "D",
+              "text": "improved imagination"
+            },
+            {
+              "id": "E",
+              "text": "improved spatial awareness"
             }
           ]
         },
@@ -342,15 +358,23 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "improved fine motor skills"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "improved memory"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "improved concentration"
+            },
+            {
+              "id": "D",
+              "text": "improved imagination"
+            },
+            {
+              "id": "E",
+              "text": "improved spatial awareness"
             }
           ]
         },
@@ -635,21 +659,21 @@
           "id": "pte-listening-204-q30",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "How do the students feel about their own handwriting? ______",
+          "prompt": "How do the students feel about their own handwriting?",
           "answer": "C",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "concerned they are unable to write quickly"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "embarrassed by comments made about it"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "regretful that they have lost the habit"
             }
           ]
         },

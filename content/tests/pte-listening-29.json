@@ -23,7 +23,7 @@
           "id": "pte-listening-29-q2",
           "skill": "listening",
           "type": "gap",
-          "prompt": "9.30 am Talk by the ______",
+          "prompt": "30 am Talk by the ______",
           "answer": "social organiser",
           "difficulty": 2
         },
@@ -47,7 +47,7 @@
           "id": "pte-listening-29-q5",
           "skill": "listening",
           "type": "gap",
-          "prompt": "12.30 am ______Lunch",
+          "prompt": "30 am ______Lunch",
           "answer": "(indian) restaurant",
           "difficulty": 2
         },
@@ -91,13 +91,14 @@
               "id": "B",
               "text": "Option B"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-29-block-6-1.png"
         },
         {
           "id": "pte-listening-29-q10",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 10. ______",
+          "prompt": "Label 10 on the map.",
           "answer": "C",
           "difficulty": 2,
           "options": [
@@ -113,7 +114,8 @@
               "id": "C",
               "text": "Option C"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-listening-29-block-6-1.png"
         },
         {
           "id": "pte-listening-29-q11",

@@ -47,17 +47,37 @@
           "id": "pte-listening-104-q5",
           "skill": "listening",
           "type": "mcq",
-          "prompt": "Listen to the recording and answer question 5. ______",
+          "prompt": "Which additional cover does Liam want?",
           "answer": "B",
           "difficulty": 2,
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "legal"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "14 day cover courtesy car"
+            },
+            {
+              "id": "C",
+              "text": "driver injury"
+            },
+            {
+              "id": "D",
+              "text": "protected no claim bonus"
+            },
+            {
+              "id": "E",
+              "text": "breakdown"
+            },
+            {
+              "id": "F",
+              "text": "lost car key"
+            },
+            {
+              "id": "G",
+              "text": "windscreen"
             }
           ]
         },
@@ -149,7 +169,7 @@
           "id": "pte-listening-104-q10",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How did the customer hear about Hartline? ______",
+          "prompt": "How did the customer hear about Hartline?",
           "answer": "on the internet",
           "difficulty": 2
         },
@@ -357,7 +377,7 @@
           "id": "pte-listening-104-q21",
           "skill": "listening",
           "type": "gap",
-          "prompt": "When do Elaine and Adam decide to meet for revision? ______",
+          "prompt": "When do Elaine and Adam decide to meet for revision?",
           "answer": "monday and thursday",
           "difficulty": 2
         },
@@ -365,7 +385,7 @@
           "id": "pte-listening-104-q22",
           "skill": "listening",
           "type": "gap",
-          "prompt": "What item does Adam think will help them work independently on revision? ______",
+          "prompt": "What item does Adam think will help them work independently on revision?",
           "answer": "timetable",
           "difficulty": 2
         },
@@ -373,7 +393,7 @@
           "id": "pte-listening-104-q23",
           "skill": "listening",
           "type": "gap",
-          "prompt": "How does Elaine suggest they spend their revision time between meetings? ______",
+          "prompt": "How does Elaine suggest they spend their revision time between meetings?",
           "answer": "arranging materials",
           "difficulty": 2
         },

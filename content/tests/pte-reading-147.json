@@ -620,33 +620,37 @@
           "id": "pte-reading-147-q28",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 28. ______",
+          "prompt": "Label the diagram below — question 28.",
           "answer": "Hammer",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-147-source-1.webp"
         },
         {
           "id": "pte-reading-147-q29",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 29. ______",
+          "prompt": "Label the diagram below — question 29.",
           "answer": "Massive",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-147-source-1.webp"
         },
         {
           "id": "pte-reading-147-q30",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 30. ______",
+          "prompt": "Label the diagram below — question 30.",
           "answer": "Pad",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-147-source-1.webp"
         },
         {
           "id": "pte-reading-147-q31",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 31. ______",
+          "prompt": "Label the diagram below — question 31.",
           "answer": "Sinus cavities",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-147-source-1.webp"
         }
       ],
       "passage": {

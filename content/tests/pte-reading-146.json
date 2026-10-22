@@ -1033,41 +1033,46 @@
           "id": "pte-reading-146-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 36. ______",
+          "prompt": "Label the diagram below — question 36.",
           "answer": "(a/tiny) fuel tank",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-146-source-1.png"
         },
         {
           "id": "pte-reading-146-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "prompt": "Label the diagram below — question 37.",
           "answer": "Openings",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-146-source-1.png"
         },
         {
           "id": "pte-reading-146-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Label the diagram below — question 38.",
           "answer": "Handle",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-146-source-1.png"
         },
         {
           "id": "pte-reading-146-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 39. ______",
+          "prompt": "Label the diagram below — question 39.",
           "answer": "propane and butane",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-146-source-1.png"
         },
         {
           "id": "pte-reading-146-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 40. ______",
+          "prompt": "Label the diagram below — question 40.",
           "answer": "double flame",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-146-source-1.png"
         }
       ],
       "passage": {

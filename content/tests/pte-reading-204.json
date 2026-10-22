@@ -709,25 +709,28 @@
           "id": "pte-reading-204-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "prompt": "Label the diagram below — question 33.",
           "answer": "Asphalt",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-204-source-1.png"
         },
         {
           "id": "pte-reading-204-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "prompt": "Label the diagram below — question 34.",
           "answer": "9/ nine",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-204-source-1.png"
         },
         {
           "id": "pte-reading-204-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 35. ______",
+          "prompt": "Label the diagram below — question 35.",
           "answer": "Concrete",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-204-source-1.png"
         },
         {
           "id": "pte-reading-204-q36",

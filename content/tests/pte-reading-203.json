@@ -265,25 +265,28 @@
           "id": "pte-reading-203-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Label the diagram below using NO MORE THAN TWO WORDS from the passage for each answer. Questions 9-13 Complete the sentences below — diagram question 6 in the image.",
           "answer": "compressed",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-203-source-1.png"
         },
         {
           "id": "pte-reading-203-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Label the diagram below using NO MORE THAN TWO WORDS from the passage for each answer. Questions 9-13 Complete the sentences below — diagram question 7 in the image.",
           "answer": "(tiny) droplets",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-203-source-1.png"
         },
         {
           "id": "pte-reading-203-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Label the diagram below using NO MORE THAN TWO WORDS from the passage for each answer. Questions 9-13 Complete the sentences below — diagram question 8 in the image.",
           "answer": "ice crystals",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-203-source-1.png"
         },
         {
           "id": "pte-reading-203-q9",

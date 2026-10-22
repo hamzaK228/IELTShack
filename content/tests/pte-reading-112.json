@@ -147,33 +147,37 @@
           "id": "pte-reading-112-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "prompt": "Filling the blanks in diagram of treadle pump’s each parts — diagram question 7 in the image.",
           "answer": "bamboo",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-112-source-1.png"
         },
         {
           "id": "pte-reading-112-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "prompt": "Filling the blanks in diagram of treadle pump’s each parts — diagram question 8 in the image.",
           "answer": "cylinders",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-112-source-1.png"
         },
         {
           "id": "pte-reading-112-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "prompt": "Filling the blanks in diagram of treadle pump’s each parts — diagram question 9 in the image.",
           "answer": "piston",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-112-source-1.png"
         },
         {
           "id": "pte-reading-112-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "prompt": "Filling the blanks in diagram of treadle pump’s each parts — diagram question 10 in the image.",
           "answer": "7",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-112-source-1.png"
         },
         {
           "id": "pte-reading-112-q11",
@@ -770,9 +774,10 @@
           "skill": "reading",
           "type": "short",
           "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 40. (Answer key unavailable on the source page.)",
+          "prompt": "Use the table or diagram in the image to answer question 40.",
           "answer": "",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-112-source-block.png"
         }
       ],
       "passage": {

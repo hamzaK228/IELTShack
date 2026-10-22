@@ -14,98 +14,38 @@
         {
           "id": "pte-gt-reading-1-q1",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 1. ______",
+          "type": "gap",
+          "prompt": "Match the pictures below to the appropriate section in the instructions — question 1.",
           "answer": "D",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            }
-          ]
+          "image": "/assets/questions/pte-gt-reading-1-source-1.png"
         },
         {
           "id": "pte-gt-reading-1-q2",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 2. ______",
+          "type": "gap",
+          "prompt": "Match the pictures below to the appropriate section in the instructions — question 2.",
           "answer": "A",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            }
-          ]
+          "image": "/assets/questions/pte-gt-reading-1-source-1.png"
         },
         {
           "id": "pte-gt-reading-1-q3",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "type": "gap",
+          "prompt": "Match the pictures below to the appropriate section in the instructions — question 3.",
           "answer": "C",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            }
-          ]
+          "image": "/assets/questions/pte-gt-reading-1-source-1.png"
         },
         {
           "id": "pte-gt-reading-1-q4",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "type": "gap",
+          "prompt": "Match the pictures below to the appropriate section in the instructions — question 4.",
           "answer": "E",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            }
-          ]
+          "image": "/assets/questions/pte-gt-reading-1-source-1.png"
         },
         {
           "id": "pte-gt-reading-1-q5",

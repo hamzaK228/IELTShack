@@ -791,102 +791,38 @@
         {
           "id": "pte-reading-72-q24",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 24. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 24.",
           "answer": "F",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-72-source-block.png"
         },
         {
           "id": "pte-reading-72-q25",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 25. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 25.",
           "answer": "B",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-72-source-block.png"
         },
         {
           "id": "pte-reading-72-q26",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 26. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 26.",
           "answer": "D",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-72-source-block.png"
         },
         {
           "id": "pte-reading-72-q27",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 27. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 27.",
           "answer": "C",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-72-source-block.png"
         }
       ],
       "passage": {
@@ -1095,7 +1031,7 @@
           "id": "pte-reading-72-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Much needed iron for plant life is transported to the ocean by______",
+          "prompt": "Much needed iron for plant life is transported to the ocean by ______",
           "answer": "wind(s)",
           "difficulty": 2
         },
@@ -1103,7 +1039,7 @@
           "id": "pte-reading-72-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "An increase in greenhouse gasses is due to a decrease in______",
+          "prompt": "An increase in greenhouse gasses is due to a decrease in ______",
           "answer": "phytoplankton",
           "difficulty": 2
         },
@@ -1111,7 +1047,7 @@
           "id": "pte-reading-72-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Phytoplankton forms the______of the food web.",
+          "prompt": "Phytoplankton forms the ______of the food web.",
           "answer": "base",
           "difficulty": 2
         },
@@ -1119,7 +1055,7 @@
           "id": "pte-reading-72-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The technical term used when a piece of ice detached from the main block is______",
+          "prompt": "The technical term used when a piece of ice detached from the main block is ______",
           "answer": "calved",
           "difficulty": 2
         },

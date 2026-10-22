@@ -23,7 +23,7 @@
           "id": "pte-reading-58-q2",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Ancient Egyptians worked as both ______ .",
+          "prompt": "Ancient Egyptians worked as both ______.",
           "answer": "craftsmen and artists",
           "difficulty": 2
         },
@@ -39,33 +39,37 @@
           "id": "pte-reading-58-q4",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "prompt": "Use the table or diagram in the image to answer question 4.",
           "answer": "grand gallery",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-58-source-block.png"
         },
         {
           "id": "pte-reading-58-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "prompt": "Use the table or diagram in the image to answer question 5.",
           "answer": "481 feet",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-58-source-block.png"
         },
         {
           "id": "pte-reading-58-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Use the table or diagram in the image to answer question 6.",
           "answer": "queen’s chamber",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-58-source-block.png"
         },
         {
           "id": "pte-reading-58-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Use the table or diagram in the image to answer question 7.",
           "answer": "air channels",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-58-source-block.png"
         },
         {
           "id": "pte-reading-58-q8",
@@ -967,7 +971,7 @@
           "id": "pte-reading-58-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of ______ . The idea is that while one group of randomly selected criminals undergoes the usual (34) ______ , the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______ . It is yet to be seen whether this system, known as (36) ______ , will work.",
+          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of ______. The idea is that while one group of randomly selected criminals undergoes the usual (34) ______, the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______. It is yet to be seen whether this system, known as (36) ______, will work.",
           "answer": "re-offending",
           "difficulty": 2
         },
@@ -975,7 +979,7 @@
           "id": "pte-reading-58-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______ . The idea is that while one group of randomly selected criminals undergoes the usual ______ , the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______ . It is yet to be seen whether this system, known as (36) ______ , will work.",
+          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______. The idea is that while one group of randomly selected criminals undergoes the usual ______, the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______. It is yet to be seen whether this system, known as (36) ______, will work.",
           "answer": "sentencing",
           "difficulty": 2
         },
@@ -983,7 +987,7 @@
           "id": "pte-reading-58-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______ . The idea is that while one group of randomly selected criminals undergoes the usual (34) ______ , the other group will discuss the possibility of making some repayment for the crime by meeting the ______ . It is yet to be seen whether this system, known as (36) ______ , will work.",
+          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______. The idea is that while one group of randomly selected criminals undergoes the usual (34) ______, the other group will discuss the possibility of making some repayment for the crime by meeting the ______. It is yet to be seen whether this system, known as (36) ______, will work.",
           "answer": "victim",
           "difficulty": 2
         },
@@ -991,7 +995,7 @@
           "id": "pte-reading-58-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______ . The idea is that while one group of randomly selected criminals undergoes the usual (34) ______ , the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______ . It is yet to be seen whether this system, known as ______ , will work.",
+          "prompt": "Some criminals in England are agreeing to take part in a trial designed to help reduce their chances of (33) ______. The idea is that while one group of randomly selected criminals undergoes the usual (34) ______, the other group will discuss the possibility of making some repayment for the crime by meeting the (35) ______. It is yet to be seen whether this system, known as ______, will work.",
           "answer": "restorative justice",
           "difficulty": 2
         },

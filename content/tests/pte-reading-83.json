@@ -452,39 +452,43 @@
           "id": "pte-reading-83-q19",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 19. ______",
+          "prompt": "Label the diagram below — question 19.",
           "answer": "factory",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-83-source-1.png"
         },
         {
           "id": "pte-reading-83-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Label the diagram below — question 20.",
           "answer": "flooring/ floor",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-83-source-1.png"
         },
         {
           "id": "pte-reading-83-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Label the diagram below — question 21.",
           "answer": "colums",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-83-source-1.png"
         },
         {
           "id": "pte-reading-83-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 22. ______",
+          "prompt": "Label the diagram below — question 22.",
           "answer": "concrete",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-83-source-1.png"
         },
         {
           "id": "pte-reading-83-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Zhang refers to his business as a______",
+          "prompt": "Zhang refers to his business as a ______",
           "answer": "structural revolution",
           "difficulty": 2
         },
@@ -492,7 +496,7 @@
           "id": "pte-reading-83-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The first products Broad manufactured were______",
+          "prompt": "The first products Broad manufactured were ______",
           "answer": "boilers",
           "difficulty": 2
         },
@@ -508,7 +512,7 @@
           "id": "pte-reading-83-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "In addition to power and cost benefits, Broad's AC units improve______",
+          "prompt": "In addition to power and cost benefits, Broad's AC units improve ______",
           "answer": "climate control",
           "difficulty": 2
         }

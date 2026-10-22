@@ -15,49 +15,55 @@
           "id": "pte-reading-165-q1",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 1. ______",
+          "prompt": "Label the diagram below — question 1.",
           "answer": "Mirrors",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q2",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 2. ______",
+          "prompt": "Label the diagram below — question 2.",
           "answer": "93.3 meters",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q3",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "prompt": "Label the diagram below — question 3.",
           "answer": "Office",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q4",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "prompt": "Label the diagram below — question 4.",
           "answer": "(electrical) current",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "prompt": "Label the diagram below — question 5.",
           "answer": "An airlock",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Label the diagram below — question 6.",
           "answer": "Moisture",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-165-source-1.png"
         },
         {
           "id": "pte-reading-165-q7",

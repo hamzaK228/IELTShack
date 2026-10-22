@@ -204,7 +204,7 @@
           "id": "pte-gt-reading-77-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The most energy efficient temperature for ensuring food stays frozen is______degrees Celsius.",
+          "prompt": "The most energy efficient temperature for ensuring food stays frozen is ______degrees Celsius.",
           "answer": "MINUS 16/ -16",
           "difficulty": 2
         },
@@ -212,7 +212,7 @@
           "id": "pte-gt-reading-77-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "You can get your clothes clean quite economically by washing them in water no hotter than______degrees Celsius.",
+          "prompt": "You can get your clothes clean quite economically by washing them in water no hotter than ______degrees Celsius.",
           "answer": "20",
           "difficulty": 2
         },
@@ -220,7 +220,7 @@
           "id": "pte-gt-reading-77-q12",
           "skill": "reading",
           "type": "gap",
-          "prompt": "On a cold night you can save energy and still stay warm by setting your heater's thermostat at______degrees Celsius.",
+          "prompt": "On a cold night you can save energy and still stay warm by setting your heater's thermostat at ______degrees Celsius.",
           "answer": "12",
           "difficulty": 2
         },
@@ -228,7 +228,7 @@
           "id": "pte-gt-reading-77-q13",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Letting your dishes______saves energy.",
+          "prompt": "Letting your dishes ______saves energy.",
           "answer": "AIR DRY",
           "difficulty": 2
         },
@@ -236,7 +236,7 @@
           "id": "pte-gt-reading-77-q14",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Buying______light bulbs costs less in the long term.",
+          "prompt": "Buying ______light bulbs costs less in the long term.",
           "answer": "(COMPACT) FLOURESCENT",
           "difficulty": 2
         }
@@ -465,7 +465,7 @@
           "skill": "reading",
           "type": "gap",
           "prompt": "Step 7: Try to resolve the situation but don't promise what you can't ______",
-          "answer": "DELIVER 28 – 31 IN ANY ORDER – A, D, G, I",
+          "answer": "DELIVER",
           "difficulty": 2
         }
       ],
@@ -484,8 +484,8 @@
         {
           "id": "pte-gt-reading-77-q28",
           "skill": "reading",
-          "type": "multi",
-          "prompt": "Which FOUR of the following uses are mentioned by the writer of the text?",
+          "type": "matching",
+          "prompt": "Which FOUR of the following uses are mentioned by the writer? (choice 1 of 4)",
           "options": [
             {
               "id": "A",
@@ -528,40 +528,158 @@
               "text": "dumping toxic waste products"
             }
           ],
-          "answer": [
-            "A",
-            "D",
-            "G",
-            "I"
-          ],
+          "answer": "A",
           "difficulty": 2
         },
         {
           "id": "pte-gt-reading-77-q29",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 29. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "matching",
+          "prompt": "Which FOUR of the following uses are mentioned by the writer? (choice 2 of 4)",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "maintaining recreational areas"
+            },
+            {
+              "id": "B",
+              "text": "helping sewer systems function"
+            },
+            {
+              "id": "C",
+              "text": "providing opportunities for underground adventure sports"
+            },
+            {
+              "id": "D",
+              "text": "supporting wildlife habitats"
+            },
+            {
+              "id": "E",
+              "text": "storing excess amounts of surface water in cities"
+            },
+            {
+              "id": "F",
+              "text": "naturally removing salt content from water"
+            },
+            {
+              "id": "G",
+              "text": "personal household use"
+            },
+            {
+              "id": "H",
+              "text": "forming hot springs for bathing"
+            },
+            {
+              "id": "I",
+              "text": "providing water for animals"
+            },
+            {
+              "id": "J",
+              "text": "dumping toxic waste products"
+            }
+          ]
         },
         {
           "id": "pte-gt-reading-77-q30",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 30. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "matching",
+          "prompt": "Which FOUR of the following uses are mentioned by the writer? (choice 3 of 4)",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "maintaining recreational areas"
+            },
+            {
+              "id": "B",
+              "text": "helping sewer systems function"
+            },
+            {
+              "id": "C",
+              "text": "providing opportunities for underground adventure sports"
+            },
+            {
+              "id": "D",
+              "text": "supporting wildlife habitats"
+            },
+            {
+              "id": "E",
+              "text": "storing excess amounts of surface water in cities"
+            },
+            {
+              "id": "F",
+              "text": "naturally removing salt content from water"
+            },
+            {
+              "id": "G",
+              "text": "personal household use"
+            },
+            {
+              "id": "H",
+              "text": "forming hot springs for bathing"
+            },
+            {
+              "id": "I",
+              "text": "providing water for animals"
+            },
+            {
+              "id": "J",
+              "text": "dumping toxic waste products"
+            }
+          ]
         },
         {
           "id": "pte-gt-reading-77-q31",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 31. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "matching",
+          "prompt": "Which FOUR of the following uses are mentioned by the writer? (choice 4 of 4)",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "maintaining recreational areas"
+            },
+            {
+              "id": "B",
+              "text": "helping sewer systems function"
+            },
+            {
+              "id": "C",
+              "text": "providing opportunities for underground adventure sports"
+            },
+            {
+              "id": "D",
+              "text": "supporting wildlife habitats"
+            },
+            {
+              "id": "E",
+              "text": "storing excess amounts of surface water in cities"
+            },
+            {
+              "id": "F",
+              "text": "naturally removing salt content from water"
+            },
+            {
+              "id": "G",
+              "text": "personal household use"
+            },
+            {
+              "id": "H",
+              "text": "forming hot springs for bathing"
+            },
+            {
+              "id": "I",
+              "text": "providing water for animals"
+            },
+            {
+              "id": "J",
+              "text": "dumping toxic waste products"
+            }
+          ]
         },
         {
           "id": "pte-gt-reading-77-q32",

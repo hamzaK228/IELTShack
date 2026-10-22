@@ -533,25 +533,28 @@
           "id": "pte-gt-reading-113-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Label the diagram below — question 38.",
           "answer": "(fine) gravel",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-113-source-1.png"
         },
         {
           "id": "pte-gt-reading-113-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 39. ______",
+          "prompt": "Label the diagram below — question 39.",
           "answer": "Animals",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-113-source-1.png"
         },
         {
           "id": "pte-gt-reading-113-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 40. ______",
+          "prompt": "Label the diagram below — question 40.",
           "answer": "(crushed) brick",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-113-source-1.png"
         }
       ],
       "passage": {

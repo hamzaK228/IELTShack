@@ -14,8 +14,8 @@
         {
           "id": "pte-reading-4-q1",
           "skill": "reading",
-          "type": "mcq",
-          "prompt": "Section B 2 Section C 3 Section D 4 Section E 5 Section F",
+          "type": "matching",
+          "prompt": "Choose the correct heading for Section B.",
           "options": [
             {
               "id": "i",
@@ -61,71 +61,185 @@
           "id": "pte-reading-4-q2",
           "skill": "reading",
           "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 2. ______",
-          "answer": "I",
+          "prompt": "Choose the correct heading for Section C.",
+          "answer": "i",
           "difficulty": 2,
           "options": [
             {
-              "id": "A",
-              "text": "Option A"
+              "id": "i",
+              "text": "The influence of Monbusho"
             },
             {
-              "id": "B",
-              "text": "Option B"
+              "id": "ii",
+              "text": "Helping less successful students"
             },
             {
-              "id": "C",
-              "text": "Option C"
+              "id": "iii",
+              "text": "The success of compulsory education"
             },
             {
-              "id": "D",
-              "text": "Option D"
+              "id": "iv",
+              "text": "Research findings concerning achievements in maths"
             },
             {
-              "id": "E",
-              "text": "Option E"
+              "id": "v",
+              "text": "The typical format of a maths lesson"
             },
             {
-              "id": "F",
-              "text": "Option F"
+              "id": "vi",
+              "text": "Comparative expenditure on maths education"
             },
             {
-              "id": "G",
-              "text": "Option G"
+              "id": "vii",
+              "text": "Background to middle-years education in Japan"
             },
             {
-              "id": "H",
-              "text": "Option H"
+              "id": "viii",
+              "text": "The key to Japanese successes in maths education"
             },
             {
-              "id": "I",
-              "text": "Option I"
+              "id": "ix",
+              "text": "The role of homework correction"
             }
           ]
         },
         {
           "id": "pte-reading-4-q3",
           "skill": "reading",
-          "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "type": "matching",
+          "prompt": "Choose the correct heading for Section D.",
           "answer": "v",
-          "difficulty": 2
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "i",
+              "text": "The influence of Monbusho"
+            },
+            {
+              "id": "ii",
+              "text": "Helping less successful students"
+            },
+            {
+              "id": "iii",
+              "text": "The success of compulsory education"
+            },
+            {
+              "id": "iv",
+              "text": "Research findings concerning achievements in maths"
+            },
+            {
+              "id": "v",
+              "text": "The typical format of a maths lesson"
+            },
+            {
+              "id": "vi",
+              "text": "Comparative expenditure on maths education"
+            },
+            {
+              "id": "vii",
+              "text": "Background to middle-years education in Japan"
+            },
+            {
+              "id": "viii",
+              "text": "The key to Japanese successes in maths education"
+            },
+            {
+              "id": "ix",
+              "text": "The role of homework correction"
+            }
+          ]
         },
         {
           "id": "pte-reading-4-q4",
           "skill": "reading",
-          "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "type": "matching",
+          "prompt": "Choose the correct heading for Section E.",
           "answer": "ii",
-          "difficulty": 2
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "i",
+              "text": "The influence of Monbusho"
+            },
+            {
+              "id": "ii",
+              "text": "Helping less successful students"
+            },
+            {
+              "id": "iii",
+              "text": "The success of compulsory education"
+            },
+            {
+              "id": "iv",
+              "text": "Research findings concerning achievements in maths"
+            },
+            {
+              "id": "v",
+              "text": "The typical format of a maths lesson"
+            },
+            {
+              "id": "vi",
+              "text": "Comparative expenditure on maths education"
+            },
+            {
+              "id": "vii",
+              "text": "Background to middle-years education in Japan"
+            },
+            {
+              "id": "viii",
+              "text": "The key to Japanese successes in maths education"
+            },
+            {
+              "id": "ix",
+              "text": "The role of homework correction"
+            }
+          ]
         },
         {
           "id": "pte-reading-4-q5",
           "skill": "reading",
-          "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "type": "matching",
+          "prompt": "Choose the correct heading for Section F.",
           "answer": "viii",
-          "difficulty": 2
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "i",
+              "text": "The influence of Monbusho"
+            },
+            {
+              "id": "ii",
+              "text": "Helping less successful students"
+            },
+            {
+              "id": "iii",
+              "text": "The success of compulsory education"
+            },
+            {
+              "id": "iv",
+              "text": "Research findings concerning achievements in maths"
+            },
+            {
+              "id": "v",
+              "text": "The typical format of a maths lesson"
+            },
+            {
+              "id": "vi",
+              "text": "Comparative expenditure on maths education"
+            },
+            {
+              "id": "vii",
+              "text": "Background to middle-years education in Japan"
+            },
+            {
+              "id": "viii",
+              "text": "The key to Japanese successes in maths education"
+            },
+            {
+              "id": "ix",
+              "text": "The role of homework correction"
+            }
+          ]
         },
         {
           "id": "pte-reading-4-q6",
@@ -863,33 +977,37 @@
           "id": "pte-reading-4-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "prompt": "Label the diagram below — diagram question 37 in the image.",
           "answer": "heat",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-4-source-1.png"
         },
         {
           "id": "pte-reading-4-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Label the diagram below — diagram question 38 in the image.",
           "answer": "leaf litter",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-4-source-1.png"
         },
         {
           "id": "pte-reading-4-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 39. ______",
+          "prompt": "Label the diagram below — diagram question 39 in the image.",
           "answer": "screen",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-4-source-1.png"
         },
         {
           "id": "pte-reading-4-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 40. ______",
+          "prompt": "Label the diagram below — diagram question 40 in the image.",
           "answer": "alcohol",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-4-source-1.png"
         }
       ],
       "passage": {

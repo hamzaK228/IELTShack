@@ -15,25 +15,28 @@
           "id": "pte-reading-215-q1",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 1. ______",
+          "prompt": "Label the diagram below — question 1.",
           "answer": "hot tar",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-215-source-1.png"
         },
         {
           "id": "pte-reading-215-q2",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 2. ______",
+          "prompt": "Label the diagram below — question 2.",
           "answer": "five centimetres/5 cm",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-215-source-1.png"
         },
         {
           "id": "pte-reading-215-q3",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "prompt": "Label the diagram below — question 3.",
           "answer": "water",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-215-source-1.png"
         },
         {
           "id": "pte-reading-215-q4",

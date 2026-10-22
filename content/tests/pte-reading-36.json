@@ -518,16 +518,16 @@
           "skill": "reading",
           "type": "gap",
           "prompt": "People working under a dominant boss are liable to ______",
-          "answer": "35. B",
-          "difficulty": 2
+          "answer": "",
+          "difficulty": 2,
+          "graded": false
         },
         {
           "id": "pte-reading-36-q35",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 35. (Answer key unavailable on the source page.)",
-          "answer": "",
+          "type": "gap",
+          "prompt": "Employees working in organisations with few rules are more likely to",
+          "answer": "B",
           "difficulty": 2
         },
         {

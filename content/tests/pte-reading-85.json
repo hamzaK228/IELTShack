@@ -365,7 +365,7 @@
           "id": "pte-reading-85-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The biggest trees in the world can be found in______",
+          "prompt": "The biggest trees in the world can be found in ______",
           "answer": "north america",
           "difficulty": 2
         },
@@ -373,7 +373,7 @@
           "id": "pte-reading-85-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some trees in northern Australia die because of______made worse by gamba grass.",
+          "prompt": "Some trees in northern Australia die because of ______made worse by gamba grass.",
           "answer": "(super hot) fires",
           "difficulty": 2
         },
@@ -381,7 +381,7 @@
           "id": "pte-reading-85-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The Clarks believe that the release of______from dead trees could lead to the death of more trees.",
+          "prompt": "The Clarks believe that the release of ______from dead trees could lead to the death of more trees.",
           "answer": "(stored) carbon",
           "difficulty": 2
         },
@@ -389,7 +389,7 @@
           "id": "pte-reading-85-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Strong______are capable of damaging tall trees in the Amazon.",
+          "prompt": "Strong ______are capable of damaging tall trees in the Amazon.",
           "answer": "winds",
           "difficulty": 2
         },
@@ -405,7 +405,7 @@
           "id": "pte-reading-85-q13",
           "skill": "reading",
           "type": "gap",
-          "prompt": "In western Northern America, a species of______has destroyed many trees.",
+          "prompt": "In western Northern America, a species of ______has destroyed many trees.",
           "answer": "beetle",
           "difficulty": 2
         }
@@ -458,33 +458,37 @@
           "id": "pte-reading-85-q18",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 18. ______",
+          "prompt": "Use the table or diagram in the image to answer question 18.",
           "answer": "sound waves",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-85-source-block.png"
         },
         {
           "id": "pte-reading-85-q19",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 19. ______",
+          "prompt": "Use the table or diagram in the image to answer question 19.",
           "answer": "nutients",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-85-source-block.png"
         },
         {
           "id": "pte-reading-85-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Use the table or diagram in the image to answer question 20.",
           "answer": "microbubbles",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-85-source-block.png"
         },
         {
           "id": "pte-reading-85-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Use the table or diagram in the image to answer question 21.",
           "answer": "blood",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-85-source-block.png"
         },
         {
           "id": "pte-reading-85-q22",

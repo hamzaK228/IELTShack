@@ -15,7 +15,7 @@
           "id": "pte-listening-150-q1",
           "skill": "listening",
           "type": "gap",
-          "prompt": "Address: 24 Mainly Street, ______ , Sydney",
+          "prompt": "Address: 24 Mainly Street, ______, Sydney",
           "answer": "milperra",
           "difficulty": 2
         },
@@ -63,7 +63,7 @@
           "id": "pte-listening-150-q7",
           "skill": "listening",
           "type": "gap",
-          "prompt": "The (5) ______cabinetthe (6) ______of the cabinet is damaged______",
+          "prompt": "The (5) ______cabinetthe (6) ______of the cabinet is damaged ______",
           "answer": "140",
           "difficulty": 2
         },
@@ -537,7 +537,7 @@
           "id": "pte-listening-150-q37",
           "skill": "listening",
           "type": "gap",
-          "prompt": "a person interviewed in the street______",
+          "prompt": "a person interviewed in the street ______",
           "answer": "B",
           "difficulty": 2
         },
@@ -545,7 +545,7 @@
           "id": "pte-listening-150-q38",
           "skill": "listening",
           "type": "gap",
-          "prompt": "an undergraduate at the university______",
+          "prompt": "an undergraduate at the university ______",
           "answer": "F",
           "difficulty": 2
         },
@@ -553,7 +553,7 @@
           "id": "pte-listening-150-q39",
           "skill": "listening",
           "type": "gap",
-          "prompt": "a colleague in her department______",
+          "prompt": "a colleague in her department ______",
           "answer": "D",
           "difficulty": 2
         },

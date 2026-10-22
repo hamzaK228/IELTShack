@@ -268,7 +268,7 @@
           "id": "pte-gt-reading-54-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "a similar fee structure to ______ College, but only ,(25) ______ may live there.",
+          "prompt": "a similar fee structure to ______ College, but only,(25) ______ may live there.",
           "answer": "Boronia",
           "difficulty": 2
         },
@@ -276,7 +276,7 @@
           "id": "pte-gt-reading-54-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "a similar fee structure to (24) ______ College, but only ,______ may live there.",
+          "prompt": "a similar fee structure to (24) ______ College, but only,______ may live there.",
           "answer": "Women",
           "difficulty": 2
         }
@@ -305,7 +305,7 @@
           "id": "pte-gt-reading-54-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "At the time of writing there were______ non-Aboriginal students at Kormilda College.",
+          "prompt": "At the time of writing there were ______ non-Aboriginal students at Kormilda College.",
           "answer": "280",
           "difficulty": 2
         },

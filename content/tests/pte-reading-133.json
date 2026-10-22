@@ -103,7 +103,7 @@
           "id": "pte-reading-133-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "1987Michael Huffman and Mohamedi Seifuchimpanzee______of Veronia(6) ______that can kill parasites",
+          "prompt": "1987Michael Huffman and Mohamedi Seifuchimpanzee ______of Veronia(6) ______that can kill parasites",
           "answer": "PITH",
           "difficulty": 2
         },
@@ -111,7 +111,7 @@
           "id": "pte-reading-133-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "1987Michael Huffman and Mohamedi Seifuchimpanzee(5) ______of Veronia______that can kill parasites",
+          "prompt": "1987Michael Huffman and Mohamedi Seifuchimpanzee(5) ______of Veronia ______that can kill parasites",
           "answer": "TERPENES",
           "difficulty": 2
         },
@@ -595,25 +595,28 @@
           "id": "pte-reading-133-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "prompt": "Use the diagram and sentence in the image to answer question 33.",
           "answer": "TAPPED",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-133-source-1.png"
         },
         {
           "id": "pte-reading-133-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "prompt": "Use the diagram and sentence in the image to answer question 34.",
           "answer": "EXPENSIVE",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-133-source-1.png"
         },
         {
           "id": "pte-reading-133-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 35. ______",
+          "prompt": "Use the diagram and sentence in the image to answer question 35.",
           "answer": "COMPETITIVE",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-133-source-1.png"
         },
         {
           "id": "pte-reading-133-q36",

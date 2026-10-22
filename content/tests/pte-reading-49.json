@@ -193,18 +193,48 @@
           "id": "pte-reading-49-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Increases in diabetes related heart problems are mainly seen in… A a healthy lifestyleB never suffer any ill effectsC womenD people also suffering strokes E body cellsF the pancreasG do not realise the factH injections ______",
-          "answer": "12. B",
-          "difficulty": 2
+          "prompt": "Increases in diabetes related heart problems are mainly seen in…",
+          "answer": "",
+          "difficulty": 2,
+          "graded": false
         },
         {
           "id": "pte-reading-49-q12",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 12. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "matching",
+          "prompt": "According to the text, which of the following are symptoms of diabetes? Choose THREE letters (A–G). It is one of the three answers.",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "hot flushes"
+            },
+            {
+              "id": "B",
+              "text": "muscle pains"
+            },
+            {
+              "id": "C",
+              "text": "nausea"
+            },
+            {
+              "id": "D",
+              "text": "losing consciousness"
+            },
+            {
+              "id": "E",
+              "text": "tiredness"
+            },
+            {
+              "id": "F",
+              "text": "bleeding gums"
+            },
+            {
+              "id": "G",
+              "text": "dilation of the eyes"
+            }
+          ]
         },
         {
           "id": "pte-reading-49-q13",

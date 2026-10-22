@@ -185,8 +185,8 @@
         {
           "id": "pte-gt-reading-2-q12",
           "skill": "reading",
-          "type": "mcq",
-          "prompt": "The college is also very popular with 16-18 year olds, who see it as a practical alternative to a further two years at school. They want to study in the more adult atmosphere the college provides. They can choose from a far wider range of subjects than it would be practical for a sixth form to offer. If they want to go straight into employment they can still study at college to gain qualifications relevant to the job, either on a day-release basis or through Network or the Modern Apprenticeship Scheme.",
+          "type": "matching",
+          "prompt": "You must consult your doctor at once if you find Borodine tablets cause ______ (first of the two answers).",
           "options": [
             {
               "id": "A",
@@ -227,6 +227,18 @@
             {
               "id": "J",
               "text": "a fungal infection."
+            },
+            {
+              "id": "K",
+              "text": "a feeling of sadness."
+            },
+            {
+              "id": "L",
+              "text": "shortness of breath."
+            },
+            {
+              "id": "M",
+              "text": "a woman expecting a child."
             }
           ],
           "answer": "E",
@@ -235,10 +247,64 @@
         {
           "id": "pte-gt-reading-2-q13",
           "skill": "reading",
-          "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 13. ______",
+          "type": "matching",
+          "prompt": "You must consult your doctor at once if you find Borodine tablets cause ______ (second of the two answers).",
           "answer": "K",
-          "difficulty": 2
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "children under 12 years of age."
+            },
+            {
+              "id": "B",
+              "text": "a headache."
+            },
+            {
+              "id": "C",
+              "text": "an uncomfortable feeling in your stomach."
+            },
+            {
+              "id": "D",
+              "text": "symptoms similar to a cold."
+            },
+            {
+              "id": "E",
+              "text": "a change in your skin colour."
+            },
+            {
+              "id": "F",
+              "text": "anything treated by a prescription medicine."
+            },
+            {
+              "id": "G",
+              "text": "a kidney complaint."
+            },
+            {
+              "id": "H",
+              "text": "a whitening of the eyes."
+            },
+            {
+              "id": "I",
+              "text": "sore or broken skin."
+            },
+            {
+              "id": "J",
+              "text": "a fungal infection."
+            },
+            {
+              "id": "K",
+              "text": "a feeling of sadness."
+            },
+            {
+              "id": "L",
+              "text": "shortness of breath."
+            },
+            {
+              "id": "M",
+              "text": "a woman expecting a child."
+            }
+          ]
         }
       ],
       "passage": {
@@ -472,7 +538,7 @@
           "id": "pte-gt-reading-2-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Herschel began investigating astronomy______",
+          "prompt": "Herschel began investigating astronomy ______",
           "answer": "1772",
           "difficulty": 2
         },
@@ -480,7 +546,7 @@
           "id": "pte-gt-reading-2-q28",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Discovery of the planet Uranus______",
+          "prompt": "Discovery of the planet Uranus ______",
           "answer": "1781",
           "difficulty": 2
         },
@@ -488,7 +554,7 @@
           "id": "pte-gt-reading-2-q29",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Discovery of the moons Titania and Oberon______",
+          "prompt": "Discovery of the moons Titania and Oberon ______",
           "answer": "1787",
           "difficulty": 2
         },
@@ -496,7 +562,7 @@
           "id": "pte-gt-reading-2-q30",
           "skill": "reading",
           "type": "gap",
-          "prompt": "First discovery of Uranus' rings______",
+          "prompt": "First discovery of Uranus' rings ______",
           "answer": "1977",
           "difficulty": 2
         },
@@ -504,7 +570,7 @@
           "id": "pte-gt-reading-2-q31",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Discovery of the last 10 moons of Uranus______",
+          "prompt": "Discovery of the last 10 moons of Uranus ______",
           "answer": "1986",
           "difficulty": 2
         },

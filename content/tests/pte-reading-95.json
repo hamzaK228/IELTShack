@@ -542,33 +542,37 @@
           "id": "pte-reading-95-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 23. ______",
+          "prompt": "Use the table or diagram in the image to answer question 23.",
           "answer": "heat",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-95-source-block.png"
         },
         {
           "id": "pte-reading-95-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 24. ______",
+          "prompt": "Use the table or diagram in the image to answer question 24.",
           "answer": "denser",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-95-source-block.png"
         },
         {
           "id": "pte-reading-95-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 25. ______",
+          "prompt": "Use the table or diagram in the image to answer question 25.",
           "answer": "great ocean conveyor",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-95-source-block.png"
         },
         {
           "id": "pte-reading-95-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 26. ______",
+          "prompt": "Use the table or diagram in the image to answer question 26.",
           "answer": "fresh water",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-95-source-block.png"
         }
       ],
       "passage": {

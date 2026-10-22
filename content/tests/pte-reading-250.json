@@ -859,7 +859,7 @@
           "id": "pte-reading-250-q29",
           "skill": "reading",
           "type": "matching",
-          "prompt": "……………..",
+          "prompt": "Label the diagrams on the following page — question 29.",
           "options": [
             {
               "id": "A",
@@ -879,13 +879,14 @@
             }
           ],
           "answer": "A",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q30",
           "skill": "reading",
           "type": "matching",
-          "prompt": "………………",
+          "prompt": "Label the diagrams on the following page — question 30.",
           "options": [
             {
               "id": "A",
@@ -905,127 +906,44 @@
             }
           ],
           "answer": "C",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q31",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 31. ______",
+          "type": "gap",
+          "prompt": "Label the diagrams on the following page — question 31.",
           "answer": "E",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q32",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "type": "gap",
+          "prompt": "Label the diagrams on the following page — question 32.",
           "answer": "B",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q33",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "type": "gap",
+          "prompt": "Label the diagrams on the following page — question 33.",
           "answer": "G",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            },
-            {
-              "id": "G",
-              "text": "Option G"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q34",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "type": "gap",
+          "prompt": "Label the diagrams on the following page — question 34.",
           "answer": "F",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-250-source-1.png"
         },
         {
           "id": "pte-reading-250-q35",

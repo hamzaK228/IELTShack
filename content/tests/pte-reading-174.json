@@ -103,41 +103,46 @@
           "id": "pte-reading-174-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "prompt": "Complete the diagram — question 5.",
           "answer": "Transparent",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-174-source-1.png"
         },
         {
           "id": "pte-reading-174-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Complete the diagram — question 6.",
           "answer": "Fluoride",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-174-source-1.png"
         },
         {
           "id": "pte-reading-174-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Complete the diagram — question 7.",
           "answer": "Enzymes",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-174-source-1.png"
         },
         {
           "id": "pte-reading-174-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Complete the diagram — question 8.",
           "answer": "Gills",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-174-source-1.png"
         },
         {
           "id": "pte-reading-174-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Complete the diagram — question 9.",
           "answer": "Phytoplankton",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-174-source-1.png"
         },
         {
           "id": "pte-reading-174-q10",
@@ -560,7 +565,7 @@
           "id": "pte-reading-174-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Life is______threatened by numerous (21) ______",
+          "prompt": "Life is ______threatened by numerous (21) ______",
           "answer": "stress-free and easy",
           "difficulty": 2
         },
@@ -576,7 +581,7 @@
           "id": "pte-reading-174-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Death is______brutalising and painful",
+          "prompt": "Death is ______brutalising and painful",
           "answer": "quick and clean",
           "difficulty": 2
         },
@@ -592,7 +597,7 @@
           "id": "pte-reading-174-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Vegetariansbean-sprout crowd______",
+          "prompt": "Vegetariansbean-sprout crowd ______",
           "answer": "green-eaters",
           "difficulty": 2
         },
@@ -600,7 +605,7 @@
           "id": "pte-reading-174-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Sheep and cattle______cud-chewing cousins",
+          "prompt": "Sheep and cattle ______cud-chewing cousins",
           "answer": "four-legged friends",
           "difficulty": 2
         },
@@ -608,7 +613,7 @@
           "id": "pte-reading-174-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Lazy peoplecouch potatoes______",
+          "prompt": "Lazy peoplecouch potatoes ______",
           "answer": "sofa sprouts",
           "difficulty": 2
         }

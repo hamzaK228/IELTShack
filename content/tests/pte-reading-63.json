@@ -225,57 +225,64 @@
           "id": "pte-reading-63-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Use the table or diagram in the image to answer question 6.",
           "answer": "usually",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Use the table or diagram in the image to answer question 7.",
           "answer": "alternately",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Use the table or diagram in the image to answer question 8.",
           "answer": "occasionally",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Use the table or diagram in the image to answer question 9.",
           "answer": "bigger",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 10. ______",
+          "prompt": "Use the table or diagram in the image to answer question 10.",
           "answer": "rotate",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 11. ______",
+          "prompt": "Use the table or diagram in the image to answer question 11.",
           "answer": "block",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q12",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 12. ______",
+          "prompt": "Use the table or diagram in the image to answer question 12.",
           "answer": "still",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-63-source-block.png"
         },
         {
           "id": "pte-reading-63-q13",
@@ -297,7 +304,7 @@
           "id": "pte-reading-63-q15",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The decrease in financial support for the Voice of Australia over the previous 10 years______",
+          "prompt": "The decrease in financial support for the Voice of Australia over the previous 10 years ______",
           "answer": "about one in six",
           "difficulty": 2
         },
@@ -305,7 +312,7 @@
           "id": "pte-reading-63-q16",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The shortfall in the numbers who entered teacher training______",
+          "prompt": "The shortfall in the numbers who entered teacher training ______",
           "answer": "less than half",
           "difficulty": 2
         },
@@ -313,7 +320,7 @@
           "id": "pte-reading-63-q17",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The long term increase in unemployment benefit______",
+          "prompt": "The long term increase in unemployment benefit ______",
           "answer": "about a third",
           "difficulty": 2
         },
@@ -321,7 +328,7 @@
           "id": "pte-reading-63-q18",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The reduction in the numbers eligible for unemployment benefit______",
+          "prompt": "The reduction in the numbers eligible for unemployment benefit ______",
           "answer": "one in five",
           "difficulty": 2
         },
@@ -337,7 +344,7 @@
           "id": "pte-reading-63-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The increase in state pensions______",
+          "prompt": "The increase in state pensions ______",
           "answer": "25%",
           "difficulty": 2
         },
@@ -345,7 +352,7 @@
           "id": "pte-reading-63-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The increase in per capita expenditure on schools______",
+          "prompt": "The increase in per capita expenditure on schools ______",
           "answer": "double",
           "difficulty": 2
         }

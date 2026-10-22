@@ -352,33 +352,37 @@
           "id": "pte-reading-32-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Use the table or diagram in the image to answer question 20.",
           "answer": "cells/ combs",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-32-source-block.png"
         },
         {
           "id": "pte-reading-32-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Use the table or diagram in the image to answer question 21.",
           "answer": "frames",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-32-source-block.png"
         },
         {
           "id": "pte-reading-32-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 22. ______",
+          "prompt": "Use the table or diagram in the image to answer question 22.",
           "answer": "screen",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-32-source-block.png"
         },
         {
           "id": "pte-reading-32-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 23. ______",
+          "prompt": "Use the table or diagram in the image to answer question 23.",
           "answer": "brood chamber",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-32-source-block.png"
         },
         {
           "id": "pte-reading-32-q24",
@@ -787,7 +791,7 @@
           "id": "pte-reading-32-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Our concept of tourism arises from______",
+          "prompt": "Our concept of tourism arises from ______",
           "answer": "D",
           "difficulty": 2
         },
@@ -795,7 +799,7 @@
           "id": "pte-reading-32-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The media can be used to enhance______",
+          "prompt": "The media can be used to enhance ______",
           "answer": "B",
           "difficulty": 2
         },
@@ -803,7 +807,7 @@
           "id": "pte-reading-32-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "People view tourist landscapes in a different way from______ List of Phrases",
+          "prompt": "People view tourist landscapes in a different way from ______ List of Phrases",
           "answer": "F",
           "difficulty": 2
         }

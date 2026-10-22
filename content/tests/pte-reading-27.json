@@ -125,65 +125,73 @@
           "id": "pte-reading-27-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown up in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently. ______",
+          "prompt": "Label the tunnels on the diagram below — question 6.",
           "answer": "South African",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown up in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently. ______",
+          "prompt": "Label the tunnels on the diagram below — question 7.",
           "answer": "French",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "It will undoubtedly mean more pressure to convert natural habitat into farmland. But it will also have many desirable environmental effects. The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish. Crops are more likely to be grown up in the environments to which they are naturally suited. And more farmers in poor countries will have the money and the incentive to manage their land in ways that are sustainable in the long run. That is important. To feed an increasingly hungry world, farmers need every incentive to use their soil and water effectively and efficiently. ______",
+          "prompt": "Label the tunnels on the diagram below — question 8.",
           "answer": "Spanish",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Use the table or diagram in the image to answer question 9.",
           "answer": "temperate",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 10. ______",
+          "prompt": "Use the table or diagram in the image to answer question 10.",
           "answer": "early spring",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 11. ______",
+          "prompt": "Use the table or diagram in the image to answer question 11.",
           "answer": "2 to 5",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q12",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 12. ______",
+          "prompt": "Use the table or diagram in the image to answer question 12.",
           "answer": "sub-tropical",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         },
         {
           "id": "pte-reading-27-q13",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 13. ______",
+          "prompt": "Use the table or diagram in the image to answer question 13.",
           "answer": "tunelling",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-27-source-1.png"
         }
       ],
       "passage": {
@@ -448,7 +456,7 @@
           "id": "pte-reading-27-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "More intensive farming______",
+          "prompt": "More intensive farming ______",
           "answer": "F",
           "difficulty": 2
         },
@@ -456,7 +464,7 @@
           "id": "pte-reading-27-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Expansion of monoculture______",
+          "prompt": "Expansion of monoculture ______",
           "answer": "B",
           "difficulty": 2
         },
@@ -756,7 +764,7 @@
           "id": "pte-reading-27-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "A new headmaster of a school who enlarges his office and puts in expensive carpeting is using the office as a______",
+          "prompt": "A new headmaster of a school who enlarges his office and puts in expensive carpeting is using the office as a ______",
           "answer": "role sign",
           "difficulty": 2
         },
@@ -764,7 +772,7 @@
           "id": "pte-reading-27-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The graduation ceremony in many universities is an important______",
+          "prompt": "The graduation ceremony in many universities is an important ______",
           "answer": "ritual",
           "difficulty": 2
         },
@@ -772,7 +780,7 @@
           "id": "pte-reading-27-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The wig which judges wear in UK courts is a______",
+          "prompt": "The wig which judges wear in UK courts is a ______",
           "answer": "role sign",
           "difficulty": 2
         },
@@ -780,7 +788,7 @@
           "id": "pte-reading-27-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The parents of students in a school are part of the headmaster's______",
+          "prompt": "The parents of students in a school are part of the headmaster's ______",
           "answer": "role set",
           "difficulty": 2
         },

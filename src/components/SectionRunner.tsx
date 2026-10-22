@@ -76,7 +76,14 @@ function QuestionBlock({
       </div>
 
       {question.image && (
-        <img className="q-image" src={question.image} alt="" loading="lazy" />
+        <figure className="q-figure">
+          <a className="q-image-link" href={question.image} target="_blank" rel="noreferrer" title="Open full size">
+            <img className="q-image" src={question.image} alt="Question diagram or table" loading="lazy" />
+          </a>
+          <a className="q-image-zoom" href={question.image} target="_blank" rel="noreferrer">
+            Open image full size ↗
+          </a>
+        </figure>
       )}
 
       {inline ? null : question.options?.length ? (

@@ -167,25 +167,28 @@
           "id": "pte-reading-173-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "prompt": "Label the diagram — question 5.",
           "answer": "Thorns",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-173-source-1.png"
         },
         {
           "id": "pte-reading-173-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Label the diagram — question 6.",
           "answer": "Pith",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-173-source-1.png"
         },
         {
           "id": "pte-reading-173-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Label the diagram — question 7.",
           "answer": "Pockets",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-173-source-1.png"
         },
         {
           "id": "pte-reading-173-q8",

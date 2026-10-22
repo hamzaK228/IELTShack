@@ -339,41 +339,46 @@
           "id": "pte-reading-30-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "The diagram below illustrates the information provided in paragraphs B-F of Reading Passage 1 Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space. Question 12 — question 7.",
           "answer": "existing",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-30-source-1.png"
         },
         {
           "id": "pte-reading-30-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "The diagram below illustrates the information provided in paragraphs B-F of Reading Passage 1 Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space. Question 12 — question 8.",
           "answer": "(related) phrases",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-30-source-1.png"
         },
         {
           "id": "pte-reading-30-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "The diagram below illustrates the information provided in paragraphs B-F of Reading Passage 1 Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space. Question 12 — question 9.",
           "answer": "meaning/ forms",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-30-source-1.png"
         },
         {
           "id": "pte-reading-30-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 10. ______",
+          "prompt": "The diagram below illustrates the information provided in paragraphs B-F of Reading Passage 1 Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space. Question 12 — question 10.",
           "answer": "spoken/ oral",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-30-source-1.png"
         },
         {
           "id": "pte-reading-30-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 11. ______",
+          "prompt": "The diagram below illustrates the information provided in paragraphs B-F of Reading Passage 1 Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space. Question 12 — question 11.",
           "answer": "noise and pauses",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-30-source-1.png"
         },
         {
           "id": "pte-reading-30-q12",
@@ -1295,7 +1300,7 @@
           "id": "pte-reading-30-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Returns from overburdened employees decreases with time because they lose______",
+          "prompt": "Returns from overburdened employees decreases with time because they lose ______",
           "answer": "efficiency",
           "difficulty": 2
         },
@@ -1303,7 +1308,7 @@
           "id": "pte-reading-30-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Employees give more work to their existing employees because for them it is______",
+          "prompt": "Employees give more work to their existing employees because for them it is ______",
           "answer": "profitable",
           "difficulty": 2
         }

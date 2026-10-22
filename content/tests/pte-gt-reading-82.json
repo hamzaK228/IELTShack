@@ -252,7 +252,7 @@
           "id": "pte-gt-reading-82-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Using a______can help workers keep their knees and hips aligned.",
+          "prompt": "Using a ______can help workers keep their knees and hips aligned.",
           "answer": "Footrest",
           "difficulty": 2
         },
@@ -260,7 +260,7 @@
           "id": "pte-gt-reading-82-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Workers who______their legs can suffer from difficulties with their posture.",
+          "prompt": "Workers who ______their legs can suffer from difficulties with their posture.",
           "answer": "Cross",
           "difficulty": 2
         },
@@ -268,7 +268,7 @@
           "id": "pte-gt-reading-82-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Workers should think about buying a______so that their computer screen is at eye level.",
+          "prompt": "Workers should think about buying a ______so that their computer screen is at eye level.",
           "answer": "Stand",
           "difficulty": 2
         },
@@ -276,7 +276,7 @@
           "id": "pte-gt-reading-82-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some workers use a______so that their wrists are at the same level as their keyboard.",
+          "prompt": "Some workers use a ______so that their wrists are at the same level as their keyboard.",
           "answer": "Rest",
           "difficulty": 2
         },
@@ -284,7 +284,7 @@
           "id": "pte-gt-reading-82-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Workers should push away their______when they are frequently using the mouse instead.",
+          "prompt": "Workers should push away their ______when they are frequently using the mouse instead.",
           "answer": "Keyboard",
           "difficulty": 2
         },
@@ -292,7 +292,7 @@
           "id": "pte-gt-reading-82-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Stopping bright sunlight getting through the windows can reduce______on workers' eyes from the computer screens.",
+          "prompt": "Stopping bright sunlight getting through the windows can reduce ______on workers' eyes from the computer screens.",
           "answer": "Glare",
           "difficulty": 2
         },
@@ -300,7 +300,7 @@
           "id": "pte-gt-reading-82-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Using______may result in workers putting their heads in awkward positions too often.",
+          "prompt": "Using ______may result in workers putting their heads in awkward positions too often.",
           "answer": "Bifocals",
           "difficulty": 2
         }
@@ -407,17 +407,19 @@
           "id": "pte-gt-reading-82-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "prompt": "Use the table or diagram in the image to answer question 37.",
           "answer": "(a) suspender",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-82-source-block.png"
         },
         {
           "id": "pte-gt-reading-82-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Use the table or diagram in the image to answer question 38.",
           "answer": "(a) (concrete) anchor",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-82-source-block.png"
         },
         {
           "id": "pte-gt-reading-82-q39",

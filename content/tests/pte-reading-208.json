@@ -55,33 +55,37 @@
           "id": "pte-reading-208-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Label the diagram below — question 6.",
           "answer": "(freeze-drying) chamber",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-208-source-1.webp"
         },
         {
           "id": "pte-reading-208-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Label the diagram below — question 7.",
           "answer": "Shelves",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-208-source-1.webp"
         },
         {
           "id": "pte-reading-208-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Label the diagram below — question 8.",
           "answer": "freezing coil",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-208-source-1.webp"
         },
         {
           "id": "pte-reading-208-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Label the diagram below — question 9.",
           "answer": "(refrigerator) compressor",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-208-source-1.webp"
         },
         {
           "id": "pte-reading-208-q10",

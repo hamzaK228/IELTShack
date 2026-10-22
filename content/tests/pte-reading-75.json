@@ -124,154 +124,38 @@
         {
           "id": "pte-reading-75-q6",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 6.",
           "answer": "H",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            },
-            {
-              "id": "G",
-              "text": "Option G"
-            },
-            {
-              "id": "H",
-              "text": "Option H"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-75-source-block.png"
         },
         {
           "id": "pte-reading-75-q7",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 7.",
           "answer": "E",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-75-source-block.png"
         },
         {
           "id": "pte-reading-75-q8",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 8.",
           "answer": "I",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            },
-            {
-              "id": "G",
-              "text": "Option G"
-            },
-            {
-              "id": "H",
-              "text": "Option H"
-            },
-            {
-              "id": "I",
-              "text": "Option I"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-75-source-block.png"
         },
         {
           "id": "pte-reading-75-q9",
           "skill": "reading",
-          "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "type": "gap",
+          "prompt": "Use the table or diagram in the image to answer question 9.",
           "answer": "F",
           "difficulty": 2,
-          "options": [
-            {
-              "id": "A",
-              "text": "Option A"
-            },
-            {
-              "id": "B",
-              "text": "Option B"
-            },
-            {
-              "id": "C",
-              "text": "Option C"
-            },
-            {
-              "id": "D",
-              "text": "Option D"
-            },
-            {
-              "id": "E",
-              "text": "Option E"
-            },
-            {
-              "id": "F",
-              "text": "Option F"
-            }
-          ]
+          "image": "/assets/questions/pte-reading-75-source-block.png"
         },
         {
           "id": "pte-reading-75-q10",

@@ -15,7 +15,7 @@
           "id": "pte-reading-78-q1",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some food plants, including______, are already grown indoors.",
+          "prompt": "Some food plants, including ______, are already grown indoors.",
           "answer": "tomatoes",
           "difficulty": 2
         },
@@ -23,7 +23,7 @@
           "id": "pte-reading-78-q2",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Vertical farms would be located in______, meaning that there would be less need to take them long distances to customers.",
+          "prompt": "Vertical farms would be located in ______, meaning that there would be less need to take them long distances to customers.",
           "answer": "urban centres",
           "difficulty": 2
         },
@@ -31,7 +31,7 @@
           "id": "pte-reading-78-q3",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Vertical farms could use methane from plants and animals to produce______",
+          "prompt": "Vertical farms could use methane from plants and animals to produce ______",
           "answer": "energy",
           "difficulty": 2
         },
@@ -39,7 +39,7 @@
           "id": "pte-reading-78-q4",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The consumption of______would be cut because agricultural vehicles would be unnecessary.",
+          "prompt": "The consumption of ______would be cut because agricultural vehicles would be unnecessary.",
           "answer": "fossil fuel",
           "difficulty": 2
         },
@@ -47,7 +47,7 @@
           "id": "pte-reading-78-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The fact that vertical farms would need______light is a disadvantage.",
+          "prompt": "The fact that vertical farms would need ______light is a disadvantage.",
           "answer": "artificial",
           "difficulty": 2
         },
@@ -55,7 +55,7 @@
           "id": "pte-reading-78-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "One form of vertical farming involves planting in______which are not fixed.",
+          "prompt": "One form of vertical farming involves planting in ______which are not fixed.",
           "answer": "(stacked) trays",
           "difficulty": 2
         },
@@ -63,7 +63,7 @@
           "id": "pte-reading-78-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The most probable development is that food will be grown on______in towns and cities.",
+          "prompt": "The most probable development is that food will be grown on ______in towns and cities.",
           "answer": "(urban) rooftops",
           "difficulty": 2
         },
@@ -334,57 +334,64 @@
           "id": "pte-reading-78-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Use the table or diagram in the image to answer question 20.",
           "answer": "gates",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Use the table or diagram in the image to answer question 21.",
           "answer": "clamp",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 22. ______",
+          "prompt": "Use the table or diagram in the image to answer question 22.",
           "answer": "axle",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 23. ______",
+          "prompt": "Use the table or diagram in the image to answer question 23.",
           "answer": "cogs",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 24. ______",
+          "prompt": "Use the table or diagram in the image to answer question 24.",
           "answer": "aqueduct",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 25. ______",
+          "prompt": "Use the table or diagram in the image to answer question 25.",
           "answer": "wall",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         },
         {
           "id": "pte-reading-78-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 26. ______",
+          "prompt": "Use the table or diagram in the image to answer question 26.",
           "answer": "locks",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-78-source-block.png"
         }
       ],
       "passage": {

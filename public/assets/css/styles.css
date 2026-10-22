@@ -586,10 +586,16 @@ section[id], div[id] { scroll-margin-top: 92px; }
 .qa-missing { color: var(--warn); font-weight: 800; }
 .qa-actions { display: flex; gap: .4rem; flex-wrap: wrap; }
 
+.q-figure { margin: .8rem 0; }
+.q-image-link { display: block; }
 .q-image {
-  display: block; max-width: 100%; height: auto;
-  margin: .8rem 0; border: 1px solid var(--border); border-radius: 8px;
-  background: #fff;
+  display: block; width: 100%; max-width: 100%; height: auto;
+  border: 1px solid var(--border); border-radius: 8px;
+  background: #fff; cursor: zoom-in;
+}
+.q-image-zoom {
+  display: inline-block; margin-top: .35rem; font-size: .72rem;
+  color: var(--accent); text-decoration: underline;
 }
 
 /* Comfy listening player */

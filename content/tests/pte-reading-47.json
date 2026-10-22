@@ -362,33 +362,37 @@
           "id": "pte-reading-47-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 27. ______",
+          "prompt": "Label the diagram below — question 27.",
           "answer": "balance",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-47-source-1.png"
         },
         {
           "id": "pte-reading-47-q28",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 28. ______",
+          "prompt": "Label the diagram below — question 28.",
           "answer": "5,000 revolutions per minute",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-47-source-1.png"
         },
         {
           "id": "pte-reading-47-q29",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 29. ______",
+          "prompt": "Label the diagram below — question 29.",
           "answer": "liquid nitrogen",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-47-source-1.png"
         },
         {
           "id": "pte-reading-47-q30",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 30. ______",
+          "prompt": "Label the diagram below — question 30.",
           "answer": "glass tube",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-47-source-1.png"
         }
       ],
       "passage": {

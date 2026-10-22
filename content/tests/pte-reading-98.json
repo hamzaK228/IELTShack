@@ -554,33 +554,37 @@
           "id": "pte-reading-98-q18",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 18. ______",
+          "prompt": "Use the table or diagram in the image to answer question 18.",
           "answer": "gauze",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-98-source-block.png"
         },
         {
           "id": "pte-reading-98-q19",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 19. ______",
+          "prompt": "Use the table or diagram in the image to answer question 19.",
           "answer": "nozzle",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-98-source-block.png"
         },
         {
           "id": "pte-reading-98-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Use the table or diagram in the image to answer question 20.",
           "answer": "powder",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-98-source-block.png"
         },
         {
           "id": "pte-reading-98-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Use the table or diagram in the image to answer question 21.",
           "answer": "rubber ball",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-98-source-block.png"
         },
         {
           "id": "pte-reading-98-q22",

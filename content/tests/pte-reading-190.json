@@ -15,25 +15,28 @@
           "id": "pte-reading-190-q1",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 1. ______",
+          "prompt": "Label the diagram below — question 1.",
           "answer": "10000",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-190-source-1.png"
         },
         {
           "id": "pte-reading-190-q2",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 2. ______",
+          "prompt": "Label the diagram below — question 2.",
           "answer": "10",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-190-source-1.png"
         },
         {
           "id": "pte-reading-190-q3",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "prompt": "Label the diagram below — question 3.",
           "answer": "Convection cells",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-190-source-1.png"
         },
         {
           "id": "pte-reading-190-q4",

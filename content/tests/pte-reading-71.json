@@ -389,33 +389,37 @@
           "id": "pte-reading-71-q14",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 14. ______",
+          "prompt": "Label the diagrams below — question 14.",
           "answer": "crochet hook",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-71-source-1.png"
         },
         {
           "id": "pte-reading-71-q15",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 15. ______",
+          "prompt": "Label the diagrams below — question 15.",
           "answer": "leaflets/ leaves",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-71-source-1.png"
         },
         {
           "id": "pte-reading-71-q16",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 16. ______",
+          "prompt": "Label the diagrams below — question 16.",
           "answer": "thorn",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-71-source-1.png"
         },
         {
           "id": "pte-reading-71-q17",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 17. ______",
+          "prompt": "Label the diagrams below — question 17.",
           "answer": "(tapered) steps",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-71-source-1.png"
         }
       ],
       "passage": {

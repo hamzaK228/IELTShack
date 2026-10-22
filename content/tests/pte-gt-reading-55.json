@@ -159,7 +159,7 @@
         {
           "id": "pte-gt-reading-55-q7",
           "skill": "reading",
-          "type": "multi",
+          "type": "matching",
           "prompt": "The zips on this cabin bag may be difficult to use.",
           "options": [
             {
@@ -183,20 +183,38 @@
               "text": "Paragraph E"
             }
           ],
-          "answer": [
-            "C",
-            "E"
-          ],
+          "answer": "C",
           "difficulty": 2
         },
         {
           "id": "pte-gt-reading-55-q8",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 8. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "matching",
+          "prompt": "This cabin bag may be badly damaged if it is dropped.",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ]
         },
         {
           "id": "pte-gt-reading-55-q9",

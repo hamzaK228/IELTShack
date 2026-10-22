@@ -16,7 +16,7 @@
           "skill": "writing",
           "type": "writing",
           "graded": false,
-          "prompt": "The table below shows the cinema viewing figures for films by country, in millions. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words. cinema viewing figures for films by country in millions Action Romance Comedy Horror Total India 8 7.5 6.5 2.5 24.5 Ireland 7.6 3.8 5.5 6.4 23.3 New Zealand 7.2 4.5 3.9 4.7 20.3 Japan 7.1 4.5 4.0 2.2 17.8 Total 29.9 20.3 19.9 15.8\n\nAction | Romance | Comedy | Horror | Total\nIndia | 8 | 7.5 | 6.5 | 2.5 | 24.5\nIreland | 7.6 | 3.8 | 5.5 | 6.4 | 23.3\nNew Zealand | 7.2 | 4.5 | 3.9 | 4.7 | 20.3\nJapan | 7.1 | 4.5 | 4.0 | 2.2 | 17.8\nTotal | 29.9 | 20.3 | 19.9 | 15.8",
+          "prompt": "The table below shows the cinema viewing figures for films by country, in millions. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words. cinema viewing figures for films by country in millions Action Romance Comedy Horror Total India 8 7.5 6.5 2.5 24.5 Ireland 7.6 3.8 5.5 6.4 23.3 New Zealand 7.2 4.5 3.9 4.7 20.3 Japan 7.1 4.5 4.0 2.2 17.8 Total 29.9 20.3 19.9 15.8 Action | Romance | Comedy | Horror | Total\nIndia | 8 | 7.5 | 6.5 | 2.5 | 24.5\nIreland | 7.6 | 3.8 | 5.5 | 6.4 | 23.3\nNew Zealand | 7.2 | 4.5 | 3.9 | 4.7 | 20.3\nJapan | 7.1 | 4.5 | 4.0 | 2.2 | 17.8\nTotal | 29.9 | 20.3 | 19.9 | 15.8",
           "answer": "",
           "difficulty": 2
         },

@@ -408,7 +408,7 @@
           "id": "pte-reading-55-q16",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Vision______yesprobably do not have stereoscopic vision",
+          "prompt": "Vision ______yesprobably do not have stereoscopic vision",
           "answer": "baleen whales",
           "difficulty": 2
         },
@@ -416,7 +416,7 @@
           "id": "pte-reading-55-q17",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Visiondolphins, porpoisesyesprobably have stereoscopic vision ______and______",
+          "prompt": "Visiondolphins, porpoisesyesprobably have stereoscopic vision ______and ______",
           "answer": "forward and downward",
           "difficulty": 2
         },
@@ -424,7 +424,7 @@
           "id": "pte-reading-55-q18",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Vision______yesprobably have stereoscopic vision forward and upward",
+          "prompt": "Vision ______yesprobably have stereoscopic vision forward and upward",
           "answer": "freshwater dolphins",
           "difficulty": 2
         },
@@ -448,7 +448,7 @@
           "id": "pte-reading-55-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Hearing______whales and ______ whalesyessong like",
+          "prompt": "Hearing ______whales and ______ whalesyessong like",
           "answer": "bowhead and humpback",
           "difficulty": 2
         },
@@ -587,7 +587,7 @@
           "id": "pte-reading-55-q30",
           "skill": "reading",
           "type": "matching",
-          "prompt": "Refer to the passage or diagram and answer question 30. ______",
+          "prompt": "Look at the diagram. Match diagram 30 to the type of movement below (A–E).",
           "answer": "E",
           "difficulty": 2,
           "options": [
@@ -611,7 +611,8 @@
               "id": "E",
               "text": "Option E"
             }
-          ]
+          ],
+          "image": "/assets/questions/pte-reading-55-source-1.png"
         },
         {
           "id": "pte-reading-55-q31",

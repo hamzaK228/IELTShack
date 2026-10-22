@@ -81,25 +81,28 @@
           "id": "pte-reading-169-q4",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "prompt": "Complete the diagram — question 4.",
           "answer": "Focal point",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-1.png"
         },
         {
           "id": "pte-reading-169-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "prompt": "Complete the diagram — question 5.",
           "answer": "Focal length",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-1.png"
         },
         {
           "id": "pte-reading-169-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "prompt": "Complete the diagram — question 6.",
           "answer": "Convex lenses",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-1.png"
         },
         {
           "id": "pte-reading-169-q7",
@@ -679,65 +682,73 @@
           "id": "pte-reading-169-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "prompt": "Complete the diagram — question 33.",
           "answer": "tectonic plate",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "prompt": "Complete the diagram — question 34.",
           "answer": "cools",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 35. ______",
+          "prompt": "Complete the diagram — question 35.",
           "answer": "rotation",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 36. ______",
+          "prompt": "Use the table or diagram in the image to answer question 36.",
           "answer": "Aegir Ridge",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "prompt": "Use the table or diagram in the image to answer question 37.",
           "answer": "Divergent (boundary)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Use the table or diagram in the image to answer question 38.",
           "answer": "continental collision",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 39. ______",
+          "prompt": "Use the table or diagram in the image to answer question 39.",
           "answer": "mighty rivers",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         },
         {
           "id": "pte-reading-169-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 40. ______",
+          "prompt": "Use the table or diagram in the image to answer question 40.",
           "answer": "subduction (zone)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-169-source-2.png"
         }
       ],
       "passage": {

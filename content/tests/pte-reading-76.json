@@ -511,7 +511,7 @@
           "id": "pte-reading-76-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "For centuries, both at home and in society, tea has had an important role in______",
+          "prompt": "For centuries, both at home and in society, tea has had an important role in ______",
           "answer": "rituals of hospitality/ hospitality",
           "difficulty": 2
         },
@@ -519,7 +519,7 @@
           "id": "pte-reading-76-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Falling tea prices in the nineteenth century meant that people could choose the______of the tea they could afford.",
+          "prompt": "Falling tea prices in the nineteenth century meant that people could choose the ______of the tea they could afford.",
           "answer": "grades and blends",
           "difficulty": 2
         },
@@ -527,7 +527,7 @@
           "id": "pte-reading-76-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Because it______Seventh-Day Adventists do not approve of the drinking of tea.",
+          "prompt": "Because it ______Seventh-Day Adventists do not approve of the drinking of tea.",
           "answer": "contains caffeine",
           "difficulty": 2
         },
@@ -535,7 +535,7 @@
           "id": "pte-reading-76-q12",
           "skill": "reading",
           "type": "gap",
-          "prompt": "In the desert, one group that is well known for its traditions of hospitality is the______",
+          "prompt": "In the desert, one group that is well known for its traditions of hospitality is the ______",
           "answer": "nomadic Bedouins",
           "difficulty": 2
         },
@@ -680,7 +680,7 @@
           "id": "pte-reading-76-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Once a text is finished, the writer needs to get the______of other people.",
+          "prompt": "Once a text is finished, the writer needs to get the ______of other people.",
           "answer": "appraisal",
           "difficulty": 2
         },
@@ -688,7 +688,7 @@
           "id": "pte-reading-76-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Some agents may reject the draft of a book, while others may offer______",
+          "prompt": "Some agents may reject the draft of a book, while others may offer ______",
           "answer": "invaluable advice",
           "difficulty": 2
         },
@@ -696,7 +696,7 @@
           "id": "pte-reading-76-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Apart from the need for a draft to conform to an in-house style, a publisher's changes to a text may include______",
+          "prompt": "Apart from the need for a draft to conform to an in-house style, a publisher's changes to a text may include ______",
           "answer": "redrafting",
           "difficulty": 2
         },
@@ -704,7 +704,7 @@
           "id": "pte-reading-76-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The publisher's alterations to a book are difficult for a writer, as is the______as the book grows.",
+          "prompt": "The publisher's alterations to a book are difficult for a writer, as is the ______as the book grows.",
           "answer": "creation period",
           "difficulty": 2
         }
@@ -802,17 +802,31 @@
           "skill": "reading",
           "type": "gap",
           "prompt": "Emerson ______",
-          "answer": "31. not given",
-          "difficulty": 2
+          "answer": "",
+          "difficulty": 2,
+          "graded": false
         },
         {
           "id": "pte-reading-76-q31",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 31. (Answer key unavailable on the source page.)",
-          "answer": "",
-          "difficulty": 2
+          "type": "tfng",
+          "prompt": "Further study into the science of voice production will cost considerable sums of money.",
+          "answer": "Not Given",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ]
         },
         {
           "id": "pte-reading-76-q32",

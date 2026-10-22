@@ -255,7 +255,7 @@
           "id": "pte-reading-64-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Spearman's suggested that intelligence was the ability to be good at______",
+          "prompt": "Spearman's suggested that intelligence was the ability to be good at ______",
           "answer": "variety of things",
           "difficulty": 2
         },
@@ -263,7 +263,7 @@
           "id": "pte-reading-64-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The idea that all politicians and lawyers are unintelligent is______",
+          "prompt": "The idea that all politicians and lawyers are unintelligent is ______",
           "answer": "contentious",
           "difficulty": 2
         },
@@ -271,7 +271,7 @@
           "id": "pte-reading-64-q11",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Spearman's ideas about intelligence are not______",
+          "prompt": "Spearman's ideas about intelligence are not ______",
           "answer": "conventional",
           "difficulty": 2
         },
@@ -279,7 +279,7 @@
           "id": "pte-reading-64-q12",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Sternberg suggests that in addition to academic ability, intelligence includes______",
+          "prompt": "Sternberg suggests that in addition to academic ability, intelligence includes ______",
           "answer": "people handling ability",
           "difficulty": 2
         },
@@ -287,7 +287,7 @@
           "id": "pte-reading-64-q13",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Sternberg also believes that intelligence is not affected by where______",
+          "prompt": "Sternberg also believes that intelligence is not affected by where ______",
           "answer": "it is located",
           "difficulty": 2
         }
@@ -484,49 +484,55 @@
           "id": "pte-reading-64-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 22. ______",
+          "prompt": "Use the table or diagram in the image to answer question 22.",
           "answer": "sporozoites",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         },
         {
           "id": "pte-reading-64-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 23. ______",
+          "prompt": "Use the table or diagram in the image to answer question 23.",
           "answer": "merozoites",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         },
         {
           "id": "pte-reading-64-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 24. ______",
+          "prompt": "Use the table or diagram in the image to answer question 24.",
           "answer": "blood",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         },
         {
           "id": "pte-reading-64-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 25. ______",
+          "prompt": "Use the table or diagram in the image to answer question 25.",
           "answer": "gametocytes",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         },
         {
           "id": "pte-reading-64-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 26. ______",
+          "prompt": "Use the table or diagram in the image to answer question 26.",
           "answer": "resistance",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         },
         {
           "id": "pte-reading-64-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 27. ______",
+          "prompt": "Use the table or diagram in the image to answer question 27.",
           "answer": "zygotes",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-64-source-block.png"
         }
       ],
       "passage": {

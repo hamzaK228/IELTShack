@@ -302,33 +302,37 @@
           "id": "pte-reading-161-q14",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 14. ______",
+          "prompt": "Complete the diagrams — question 14.",
           "answer": "Rips",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-161-source-1.png"
         },
         {
           "id": "pte-reading-161-q15",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 15. ______",
+          "prompt": "Complete the diagrams — question 15.",
           "answer": "Pandanus",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-161-source-1.png"
         },
         {
           "id": "pte-reading-161-q16",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 16. ______",
+          "prompt": "Complete the diagrams — question 16.",
           "answer": "Wide",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-161-source-1.png"
         },
         {
           "id": "pte-reading-161-q17",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 17. ______",
+          "prompt": "Complete the diagrams — question 17.",
           "answer": "Tapered",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-161-source-1.png"
         }
       ],
       "passage": {

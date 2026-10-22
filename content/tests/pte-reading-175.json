@@ -569,55 +569,61 @@
           "id": "pte-reading-175-q32",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 32 in the image.",
           "answer": "solar arrays",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q33",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 33 in the image.",
           "answer": "Harmony (module)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q34",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 34 in the image.",
           "answer": "Hydrogen",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q35",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 35. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 35 in the image.",
           "answer": "Unity (module)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q36",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 36. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 36 in the image.",
           "answer": "Zvezda (module)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q37",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "prompt": "Label the diagram with specific terms — diagram question 37 in the image.",
           "answer": "Chemical",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-175-source-1.png"
         },
         {
           "id": "pte-reading-175-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "ISS slowing downaerodynamic drag______",
+          "prompt": "ISS slowing downaerodynamic drag ______",
           "answer": "tidal forces",
           "difficulty": 2
         },
@@ -625,7 +631,7 @@
           "id": "pte-reading-175-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Apollo 1 fire______random spark",
+          "prompt": "Apollo 1 fire ______random spark",
           "answer": "pure oxygen",
           "difficulty": 2
         },
@@ -633,7 +639,7 @@
           "id": "pte-reading-175-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "ISS crew-member stressdifficult life______",
+          "prompt": "ISS crew-member stressdifficult life ______",
           "answer": "human isolation",
           "difficulty": 2
         }

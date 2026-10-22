@@ -15,7 +15,7 @@
           "id": "pte-gt-reading-83-q1",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Using the washing machine where it's too cold can affect its controls and can damage its______",
+          "prompt": "Using the washing machine where it's too cold can affect its controls and can damage its ______",
           "answer": "(water) hoses",
           "difficulty": 2
         },
@@ -31,7 +31,7 @@
           "id": "pte-gt-reading-83-q3",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Poorly attached drain lines can result in______",
+          "prompt": "Poorly attached drain lines can result in ______",
           "answer": "Flooding",
           "difficulty": 2
         },
@@ -39,7 +39,7 @@
           "id": "pte-gt-reading-83-q4",
           "skill": "reading",
           "type": "gap",
-          "prompt": "If the______is used properly in the washing machine, de-scaling should not be necessary.",
+          "prompt": "If the ______is used properly in the washing machine, de-scaling should not be necessary.",
           "answer": "Detergent",
           "difficulty": 2
         },
@@ -47,7 +47,7 @@
           "id": "pte-gt-reading-83-q5",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Clothing should be rinsed in______if it has been treated with any solvents before a washing cycle.",
+          "prompt": "Clothing should be rinsed in ______if it has been treated with any solvents before a washing cycle.",
           "answer": "(cold) water",
           "difficulty": 2
         },
@@ -55,7 +55,7 @@
           "id": "pte-gt-reading-83-q6",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Filling the washing machine to its recommended maximum for the appropriate programme will allow users to fulfill the machine's______",
+          "prompt": "Filling the washing machine to its recommended maximum for the appropriate programme will allow users to fulfill the machine's ______",
           "answer": "(full) potential",
           "difficulty": 2
         }
@@ -668,25 +668,28 @@
           "id": "pte-gt-reading-83-q38",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "prompt": "Label the diagram below — diagram question 38 in the image.",
           "answer": "Sediment",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-83-source-1.png"
         },
         {
           "id": "pte-gt-reading-83-q39",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 39. ______",
+          "prompt": "Label the diagram below — diagram question 39 in the image.",
           "answer": "(the) impact melt",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-83-source-1.png"
         },
         {
           "id": "pte-gt-reading-83-q40",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 40. ______",
+          "prompt": "Label the diagram below — diagram question 40 in the image.",
           "answer": "Gases",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-gt-reading-83-source-1.png"
         }
       ],
       "passage": {

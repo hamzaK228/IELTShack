@@ -936,16 +936,16 @@
           "skill": "reading",
           "type": "gap",
           "prompt": "Some companies require their employees to stop working ______",
-          "answer": "34. A",
-          "difficulty": 2
+          "answer": "",
+          "difficulty": 2,
+          "graded": false
         },
         {
           "id": "pte-reading-86-q34",
           "skill": "reading",
-          "type": "short",
-          "graded": false,
-          "prompt": "Refer to the passage or diagram and answer question 34. (Answer key unavailable on the source page.)",
-          "answer": "",
+          "type": "gap",
+          "prompt": "A team will function more successfully",
+          "answer": "A",
           "difficulty": 2
         },
         {

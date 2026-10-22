@@ -147,25 +147,28 @@
           "id": "pte-reading-185-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Label the diagram below — question 7.",
           "answer": "Sail",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-185-source-1.png"
         },
         {
           "id": "pte-reading-185-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Label the diagram below — question 8.",
           "answer": "Narrow",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-185-source-1.png"
         },
         {
           "id": "pte-reading-185-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Label the diagram below — question 9.",
           "answer": "Locomotion",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-185-source-1.png"
         },
         {
           "id": "pte-reading-185-q10",

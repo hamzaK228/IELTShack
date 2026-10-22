@@ -63,33 +63,37 @@
           "id": "pte-reading-164-q7",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "prompt": "Complete the diagram — question 7.",
           "answer": "wirelessly",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-164-source-1.png"
         },
         {
           "id": "pte-reading-164-q8",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "prompt": "Complete the diagram — question 8.",
           "answer": "paired spectrum",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-164-source-1.png"
         },
         {
           "id": "pte-reading-164-q9",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "prompt": "Complete the diagram — question 9.",
           "answer": "uplink",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-164-source-1.png"
         },
         {
           "id": "pte-reading-164-q10",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 10. ______",
+          "prompt": "Complete the diagram — question 10.",
           "answer": "downlink",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-164-source-1.png"
         },
         {
           "id": "pte-reading-164-q11",

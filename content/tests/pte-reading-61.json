@@ -233,49 +233,55 @@
           "id": "pte-reading-61-q16",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 16. ______",
+          "prompt": "Label the diagrams below — question 16.",
           "answer": "reservoir",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         },
         {
           "id": "pte-reading-61-q17",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 17. ______",
+          "prompt": "Label the diagrams below — question 17.",
           "answer": "(inlet) pipe",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         },
         {
           "id": "pte-reading-61-q18",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 18. ______",
+          "prompt": "Label the diagrams below — question 18.",
           "answer": "turbine",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         },
         {
           "id": "pte-reading-61-q19",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 19. ______",
+          "prompt": "Label the diagrams below — question 19.",
           "answer": "dam (wall)",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         },
         {
           "id": "pte-reading-61-q20",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "prompt": "Label the diagrams below — question 20.",
           "answer": "pelton turbine",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         },
         {
           "id": "pte-reading-61-q21",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "prompt": "Label the diagrams below — question 21.",
           "answer": "cross flow turbine",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-61-source-1.png"
         }
       ],
       "passage": {
@@ -294,7 +300,7 @@
           "id": "pte-reading-61-q22",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Using water power to move machinery is______than using it to generate electricity.",
+          "prompt": "Using water power to move machinery is ______than using it to generate electricity.",
           "answer": "less efficient",
           "difficulty": 2
         },
@@ -302,7 +308,7 @@
           "id": "pte-reading-61-q23",
           "skill": "reading",
           "type": "gap",
-          "prompt": "About 20% of energy______with smaller water turbines.",
+          "prompt": "About 20% of energy ______with smaller water turbines.",
           "answer": "is lost",
           "difficulty": 2
         },
@@ -310,7 +316,7 @@
           "id": "pte-reading-61-q24",
           "skill": "reading",
           "type": "gap",
-          "prompt": "All water turbines rely on water being______at great speed.",
+          "prompt": "All water turbines rely on water being ______at great speed.",
           "answer": "forced through pipes",
           "difficulty": 2
         },
@@ -318,7 +324,7 @@
           "id": "pte-reading-61-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "The main expense of hydro-electric projects lies in______",
+          "prompt": "The main expense of hydro-electric projects lies in ______",
           "answer": "high start-up costs",
           "difficulty": 2
         }

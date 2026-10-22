@@ -12,6 +12,11 @@ Set these on the server (`.env.local` locally, Vercel project settings in produc
 OPENAI_API_KEY=sk-...          # or AI_API_KEY
 AI_MODEL=gpt-4o-mini           # optional
 AI_BASE_URL=https://api.openai.com/v1   # optional (OpenRouter, Groq, etc.)
+
+# DeepSeek (OpenAI-compatible)
+AI_API_KEY=sk-...                       # key from platform.deepseek.com
+AI_BASE_URL=https://api.deepseek.com/v1
+AI_MODEL=deepseek-chat                  # or deepseek-reasoner
 ```
 
 The key is used only in the route handler; it is never sent to the browser.

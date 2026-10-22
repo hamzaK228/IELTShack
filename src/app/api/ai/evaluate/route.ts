@@ -1,5 +1,7 @@
 import type { NextRequest } from "next/server";
 
+export const maxDuration = 60;
+
 type Mode = "writing" | "speaking";
 
 type Criteria = Record<string, number>;

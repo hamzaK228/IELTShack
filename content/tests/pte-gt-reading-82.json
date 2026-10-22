@@ -178,7 +178,7 @@
       "passage": {
         "id": "p2",
         "title": "The Kenton Job Centre",
-        "text": "The Kenton Job Centre is a part of the Department of Work and Pensions. It has taken over from the Employment Service, which ran the previous Kenton Work Agency, Benefits Agency and Social Security office. The Kenton Job Centre provides employment and benefit services for people of working age. Personal advisors offer support and advice in your job search along with training provisions and benefit guidance. Whilst giving support to the unemployed, the personal advisors are also required to ensure that those claiming unemployment benefits are performing their obligations. If you need help writing your CV, interview tips or maybe you could do with improving your literacy or numeracy skills, speak to the consultants in the Kenton Job Centre Plus Office, who will be happy to advise you. You'll also find the touch screen, interactive job points very helpful in your search for employment. Kenton Job Centre also offers assistance to Kenton employers. By informing the centre of their employee needs, the centre can find suitable candidates for the posts and employers are able to fill their vacancies quickly and successfully. Many people today want to work from home and online jobs could be the perfect solution for you. The Kenton Job Centre offers tips and advice to help you work online and earn a decent income, avoid work from home tricks and maximise your earning potential."
+        "text": "The Kenton Job Centre is a part of the Department of Work and Pensions. It has taken over from the Employment Service, which ran the previous Kenton Work Agency, Benefits Agency and Social Security office. The Kenton Job Centre provides employment and benefit services for people of working age. Personal advisors offer support and advice in your job search along with training provisions and benefit guidance. Whilst giving support to the unemployed, the personal advisors are also required to ensure that those claiming unemployment benefits are performing their obligations.\n\nIf you need help writing your CV, interview tips or maybe you could do with improving your literacy or numeracy skills, speak to the consultants in the Kenton Job Centre Plus Office, who will be happy to advise you. You’ll also find the touch screen, interactive job points very helpful in your search for employment. Kenton Job Centre also offers assistance to Kenton employers. By informing the centre of their employee needs, the centre can find suitable candidates for the posts and employers are able to fill their vacancies quickly and successfully.\n\nMany people today want to work from home and online jobs could be the perfect solution for you. The Kenton Job Centre offers tips and advice to help you work online and earn a decent income, avoid work from home tricks and maximise your earning potential."
       }
     },
     {
@@ -239,7 +239,7 @@
       "passage": {
         "id": "p3",
         "title": "Making a complaint",
-        "text": "From time to time, we have employees who have the need to make a complaint about something that happens here at work. This is something that we take very seriously and so we have created a process that you can follow, so that you know what to do if there is something that you need to complain about. First of all, it's usually best to deal with a complaint informally. If you feel you can, speak to the person or people who are involved and try and work out an amicable solution. If that does not work, then a further stage can be tried. Speak to your line manager (if the line manager is involved, speak to the line manager above him or her) and explain. He or she will try and resolve the problem with the people involved. We find that nearly all the problems within our company get solved with these informal procedures. If the above two strategies do not work, you must begin the formal process of making a complaint. Our complaint procedure requires that a complaint should be made in writing and submitted to a member of the senior management. These people are clearly indicated on the company website. Employees should make clear the nature of their complaint, what they have already done informally to solve the problem and what would be their preferred solution. Employees must also supply their company email address. Once an official complaint has been made, the company grievance procedure goes into operation. The senior manager will review the complaint and write an email to the employee who complained before the end of twenty-four hours. The senior manager will explain how he or she will handle the complaint. Before the end of a week, the senior manager will write an email again with his decision. The employee can choose to accept or reject this decision. If the employee rejects the decision, he or she can appeal to the general manager, who will have been previously made aware of the complaint. The appeal should again be done in writing. The general manager will instigate a complaints meeting, where the employee can give his position verbally and in writing. The general manager and two other senior managers will listen and discuss the issue. Again, within a week, the general manager will send an email with the decision. If the employee still does not accept the decision, he or she can appeal again to the company director. If the director feels the appeal has merit, the case can be referred to an independent mediator. The employee and company must agree in writing before the mediation meeting to abide by the mediator's decision. This is the end of our complaints procedure. The managers involved are required to keep a written record of what happens during any complaint procedure. It is advised that employees do the same."
+        "text": "From time to time, we have employees who have the need to make a complaint about something that happens here at work. This is something that we take very seriously and so we have created a process that you can follow, so that you know what to do if there is something that you need to complain about.\n\nIf the above two strategies do not work, you must begin the formal process of making a complaint. Our complaint procedure requires that a complaint should be made in writing and submitted to a member of the senior management. These people are clearly indicated on the company website. Employees should make clear the nature of their complaint, what they have already done informally to solve the problem and what would be their preferred solution. Employees must also supply their company email address.\n\nOnce an official complaint has been made, the company grievance procedure goes into operation. The senior manager will review the complaint and write an email to the employee who complained before the end of twenty-four hours. The senior manager will explain how he or she will handle the complaint. Before the end of a week, the senior manager will write an email again with his decision. The employee can choose to accept or reject this decision. If the employee rejects the decision, he or she can appeal to the general manager, who will have been previously made aware of the complaint. The appeal should again be done in writing. The general manager will instigate a complaints meeting, where the employee can give his position verbally and in writing. The general manager and two other senior managers will listen and discuss the issue. Again, within a week, the general manager will send an email with the decision.\n\nIf the employee still does not accept the decision, he or she can appeal again to the company director. If the director feels the appeal has merit, the case can be referred to an independent mediator. The employee and company must agree in writing before the mediation meeting to abide by the mediator’s decision. This is the end of our complaints procedure. The managers involved are required to keep a written record of what happens during any complaint procedure. It is advised that employees do the same."
       }
     },
     {
@@ -359,15 +359,39 @@
           "options": [
             {
               "id": "A",
-              "text": "Option A"
+              "text": "sign an out-of-work declaration every two weeks"
             },
             {
               "id": "B",
-              "text": "Option B"
+              "text": "ensure people who receive unemployment benefit are fulfilling their responsibilities"
             },
             {
               "id": "C",
-              "text": "Option C"
+              "text": "ask the consultants in the Kenton Job Centre Plus Office for advice"
+            },
+            {
+              "id": "D",
+              "text": "are of the correct age for working"
+            },
+            {
+              "id": "E",
+              "text": "find training so that they can find new jobs"
+            },
+            {
+              "id": "F",
+              "text": "be a combination of different services"
+            },
+            {
+              "id": "G",
+              "text": "pass on their requirements to the Job Centre"
+            },
+            {
+              "id": "H",
+              "text": "spot the difference between proper work-from-home jobs and bad ones"
+            },
+            {
+              "id": "I",
+              "text": "are not responsible for being unemployed"
             }
           ]
         },

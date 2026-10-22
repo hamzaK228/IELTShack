@@ -250,6 +250,26 @@ function OptionsGroup({
   );
 }
 
+function readableParagraphs(text: string): string[] {
+  return text.split(/\n{2,}/).flatMap((block) => {
+    const trimmed = block.trim();
+    if (trimmed.length <= 650) return trimmed ? [trimmed] : [];
+    const sentences = trimmed.match(/[^.!?]+[.!?]+["']?|[^.!?]+$/g) ?? [trimmed];
+    const out: string[] = [];
+    let current = "";
+    for (const sentence of sentences) {
+      if (current && current.length + sentence.length > 480) {
+        out.push(current.trim());
+        current = sentence;
+      } else {
+        current += sentence;
+      }
+    }
+    if (current.trim()) out.push(current.trim());
+    return out;
+  });
+}
+
 export default function SectionRunner({
   test,
   mode,
@@ -267,6 +287,10 @@ export default function SectionRunner({
   const [finished, setFinished] = useState(false);
   const [savedAttempt, setSavedAttempt] = useState(false);
   const [startedAt, setStartedAt] = useState("");
+  const [focus, setFocus] = useState(false);
+  const [runMode, setRunMode] = useState<"exam" | "practice">(
+    (test.durationMinutes ?? 0) >= 30 ? "exam" : mode
+  );
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
@@ -275,9 +299,22 @@ export default function SectionRunner({
     return () => window.clearInterval(timer);
   }, [started, finished]);
 
+  const totalSeconds = runMode === "exam" && test.durationMinutes ? test.durationMinutes * 60 : 0;
+  const remaining = totalSeconds ? Math.max(0, totalSeconds - elapsed) : 0;
+
+  useEffect(() => {
+    if (totalSeconds && started && !finished && elapsed >= totalSeconds) setFinished(true);
+  }, [elapsed, totalSeconds, started, finished]);
+
+  useEffect(() => {
+    const onChange = () => setFocus(Boolean(document.fullscreenElement));
+    document.addEventListener("fullscreenchange", onChange);
+    return () => document.removeEventListener("fullscreenchange", onChange);
+  }, []);
+
   const section = test.sections[sectionIndex];
   const sectionSubmitted = Boolean(section && submittedSections[section.id]);
-  const reveal = mode === "practice" && sectionSubmitted;
+  const reveal = runMode === "practice" && sectionSubmitted;
   const isLast = sectionIndex === test.sections.length - 1;
 
   const offsets = useMemo(() => {
@@ -329,7 +366,7 @@ export default function SectionRunner({
       id: `attempt-${Date.now()}`,
       testId: test.id,
       testTitle: test.title,
-      mode,
+      mode: runMode,
       startedAt: startedAt || finishedAt,
       finishedAt,
       durationSeconds: elapsed,
@@ -340,9 +377,10 @@ export default function SectionRunner({
       total: results.total,
       missed: results.missed.map((m) => m.question.id),
     });
-  }, [finished, results, savedAttempt, test, mode, startedAt, elapsed, answers]);
+  }, [finished, results, savedAttempt, test, runMode, startedAt, elapsed, answers]);
 
-  function begin() {
+  function begin(nextMode: "exam" | "practice" = runMode) {
+    setRunMode(nextMode);
     setStartedAt(new Date().toISOString());
     setStarted(true);
   }
@@ -354,7 +392,34 @@ export default function SectionRunner({
   function submitSection() {
     if (!section) return;
     setSubmittedSections((prev) => ({ ...prev, [section.id]: true }));
-    if (mode === "exam") advance();
+  }
+
+  function submitTest() {
+    if (window.confirm("Submit the whole test and see your score?")) setFinished(true);
+  }
+
+  function goToSection(index: number) {
+    setSectionIndex(index);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    document.getElementById("session-shell")?.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  async function toggleFocus() {
+    const shell = document.getElementById("session-shell");
+    if (!focus) {
+      try {
+        await shell?.requestFullscreen();
+        setFocus(true);
+      } catch {
+        setFocus(true);
+      }
+      return;
+    }
+    try {
+      if (document.fullscreenElement) await document.exitFullscreen();
+    } finally {
+      setFocus(false);
+    }
   }
 
   function advance() {
@@ -362,8 +427,7 @@ export default function SectionRunner({
       setFinished(true);
       return;
     }
-    setSectionIndex((i) => i + 1);
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    goToSection(sectionIndex + 1);
   }
 
   if (!started) {
@@ -409,9 +473,22 @@ export default function SectionRunner({
           </ul>
         </div>
         <div style={{ display: "flex", gap: ".75rem", flexWrap: "wrap" }}>
-          <button className="btn btn-primary" onClick={begin}>Begin →</button>
+          <button className="btn btn-primary" onClick={() => begin(runMode)}>
+            {runMode === "exam" ? "Start exam →" : "Begin →"}
+          </button>
+          <button
+            className="btn btn-ghost"
+            onClick={() => begin(runMode === "exam" ? "practice" : "exam")}
+          >
+            {runMode === "exam" ? "Practice mode" : "Exam mode"}
+          </button>
           <Link className="btn btn-ghost" href="/dashboard">Back to dashboard</Link>
         </div>
+        <p className="attempt-meta" style={{ marginTop: ".6rem" }}>
+          {runMode === "exam"
+            ? `Exam mode: ${test.durationMinutes ?? 0}-minute timer for the whole test, switch sections freely, one submission.`
+            : "Practice mode: check answers after each section without a countdown."}
+        </p>
       </div>
     );
   }
@@ -523,17 +600,51 @@ export default function SectionRunner({
   const showTranscript = section.skill === "listening" && !section.audio && section.passage;
 
   return (
-    <div className="session-shell">
+    <div className={`session-shell${focus ? " focus-mode" : ""}`} id="session-shell">
       <div className="session-top">
         <div className="session-meta">
           <span className="session-qnum">Section {sectionIndex + 1} / {test.sections.length}</span>
           <span className="session-chip skill-chip">{SKILL_LABEL[section.skill]}</span>
           <span className="session-chip">{answeredCount}/{section.questions.length} answered</span>
-          <span className="session-timer" style={{ marginLeft: "auto" }}>⏱ {formatDuration(elapsed)}</span>
+          <span className="session-spacer" />
+          {totalSeconds ? (
+            <span className={`session-timer${remaining <= 300 ? " low" : ""}`} aria-label="Time remaining">
+              ⏱ {formatDuration(remaining)} left
+            </span>
+          ) : (
+            <span className="session-timer">⏱ {formatDuration(elapsed)}</span>
+          )}
+          <button
+            type="button"
+            className="btn btn-ghost focus-toggle"
+            onClick={toggleFocus}
+            aria-pressed={focus}
+          >
+            {focus ? "Exit focus" : "Focus mode"}
+          </button>
         </div>
         <div className="session-progress-bar" aria-hidden="true">
           <span style={{ width: `${((sectionIndex + 1) / test.sections.length) * 100}%` }} />
         </div>
+        {test.sections.length > 1 && (
+          <nav className="section-tabs" aria-label="Test sections">
+            {test.sections.map((s, i) => {
+              const answered = s.questions.filter((q) => isAnswered(q, answers[q.id])).length;
+              return (
+                <button
+                  key={s.id}
+                  type="button"
+                  className={`section-tab${i === sectionIndex ? " active" : ""}`}
+                  onClick={() => goToSection(i)}
+                  aria-current={i === sectionIndex ? "step" : undefined}
+                >
+                  <strong>Section {i + 1}</strong>
+                  <small>{answered}/{s.questions.length}</small>
+                </button>
+              );
+            })}
+          </nav>
+        )}
       </div>
 
       <div className="section-header">
@@ -587,7 +698,7 @@ export default function SectionRunner({
           <aside className="section-passage">
             <span className="session-pane-label">{section.passage?.title ?? "Passage"}</span>
             <div className="section-passage-text">
-              {(section.passage?.text ?? "").split("\n\n").map((paragraph, i) => (
+              {readableParagraphs(section.passage?.text ?? "").map((paragraph, i) => (
                 <p key={i}>{paragraph}</p>
               ))}
             </div>
@@ -740,18 +851,27 @@ export default function SectionRunner({
           </nav>
 
           <div className="session-actions">
-            {sectionSubmitted && mode === "practice" ? (
-              <button className="btn btn-primary" onClick={advance}>
-                {isLast ? "See results →" : "Next section →"}
-              </button>
+            {runMode === "practice" ? (
+              sectionSubmitted ? (
+                <button className="btn btn-primary" onClick={advance}>
+                  {isLast ? "See results →" : "Next section →"}
+                </button>
+              ) : (
+                <button className="btn btn-primary" onClick={submitSection} disabled={sectionSubmitted}>
+                  Submit section
+                </button>
+              )
             ) : (
-              <button
-                className="btn btn-primary"
-                onClick={submitSection}
-                disabled={sectionSubmitted}
-              >
-                {sectionSubmitted ? "Submitting…" : isLast ? "Submit test" : "Submit section"}
-              </button>
+              <>
+                {!isLast && (
+                  <button className="btn btn-ghost" onClick={advance}>
+                    Next section →
+                  </button>
+                )}
+                <button className="btn btn-primary" onClick={submitTest}>
+                  {isLast ? "Submit test" : "Submit test early"}
+                </button>
+              </>
             )}
           </div>
         </div>

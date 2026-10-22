@@ -6,6 +6,7 @@ import { bandForSkill, formatDuration, overallBand } from "@/lib/bands";
 import { isAnswered, isCorrect } from "@/lib/answers";
 import { cleanPrompt, groupQuestions, hasInlineBlank, splitInlineBlank } from "@/lib/prompt";
 import AiFeedback from "./AiFeedback";
+import { QuestionImage } from "./QuestionImage";
 import { saveAttempt } from "@/lib/storage";
 import {
   SKILL_LABEL,
@@ -75,16 +76,7 @@ function QuestionBlock({
         )}
       </div>
 
-      {question.image && (
-        <figure className="q-figure">
-          <a className="q-image-link" href={question.image} target="_blank" rel="noreferrer" title="Open full size">
-            <img className="q-image" src={question.image} alt="Question diagram or table" loading="lazy" />
-          </a>
-          <a className="q-image-zoom" href={question.image} target="_blank" rel="noreferrer">
-            Open image full size ↗
-          </a>
-        </figure>
-      )}
+      {question.image && <QuestionImage src={question.image} />}
 
       {inline ? null : question.options?.length ? (
         <div className="q-choices">
@@ -586,7 +578,11 @@ export default function SectionRunner({
         </div>
       )}
 
-      <div className={`section-grid${hasPassage || showTranscript ? " with-passage" : ""}`}>
+      <div
+        className={`section-grid${hasPassage || showTranscript ? " with-passage" : ""}${
+          section.questions.some((q) => q.image) ? " has-images" : ""
+        }`}
+      >
         {(hasPassage || showTranscript) && (
           <aside className="section-passage">
             <span className="session-pane-label">{section.passage?.title ?? "Passage"}</span>

@@ -2,7 +2,7 @@
   "id": "pte-reading-249",
   "title": "Academic Reading — Practice Test 249",
   "kind": "practice",
-  "description": "3 texts, 39 questions.",
+  "description": "3 texts, 40 questions.",
   "durationMinutes": 60,
   "sections": [
     {
@@ -542,25 +542,28 @@
           "id": "pte-reading-249-q25",
           "skill": "reading",
           "type": "gap",
-          "prompt": "Refer to the passage or diagram and answer question 25. ______",
+          "prompt": "Label 25 on the diagram.",
           "answer": "Headspace",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-249-source-1.png"
         },
         {
           "id": "pte-reading-249-q26",
           "skill": "reading",
           "type": "gap",
-          "prompt": "(Question 26) ______",
+          "prompt": "Label 26 on the diagram.",
           "answer": "Filters",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-249-source-1.png"
         },
         {
           "id": "pte-reading-249-q27",
           "skill": "reading",
           "type": "gap",
-          "prompt": "(Question 27) ______",
+          "prompt": "Label 27 on the diagram.",
           "answer": "Needle",
-          "difficulty": 2
+          "difficulty": 2,
+          "image": "/assets/questions/pte-reading-249-source-1.png"
         }
       ],
       "passage": {

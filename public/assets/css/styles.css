@@ -217,6 +217,31 @@ section[id], div[id] { scroll-margin-top: 92px; }
   background: var(--bg); color: var(--signal); font-weight: 800; flex-shrink: 0; margin-top: .15rem;
 }
 .plan-task.done .plan-check { background: #c6ff4a1a; border-color: var(--signal); }
+.plan-task > div { flex: 1 1 auto; min-width: 0; }
+.plan-task-link { margin-left: auto; white-space: nowrap; align-self: center; }
+.plan-task.compact { padding: .5rem 0; }
+.plan-days { display: grid; gap: .9rem; margin-top: 1rem; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+.plan-day { border: 1px solid var(--border); border-radius: 10px; background: var(--bg-2); padding: .7rem .9rem; }
+.plan-day-head { display: flex; align-items: baseline; justify-content: space-between; gap: .5rem; }
+
+/* Full mock exam */
+.dash-layout.exam-workspace { grid-template-columns: minmax(0, 1fr); }
+.dash-layout.exam-workspace .dash-sidebar { display: none; }
+.dash-layout.exam-workspace .dash-main { padding-top: 1rem; }
+.mock-page { max-width: 1400px; margin: 0 auto; }
+.mock-topbar { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: .7rem; }
+.mock-topbar > div:first-child { display: flex; flex-direction: column; gap: .15rem; }
+.mock-topbar-actions { display: flex; align-items: center; gap: .6rem; }
+.mock-steps { margin: 1rem 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: .6rem; }
+.mock-steps li { line-height: 1.5; }
+.mock-steps span { display: block; color: var(--ink-dim); font-size: .82rem; }
+.mock-actions { display: flex; gap: .6rem; flex-wrap: wrap; margin-top: 1rem; }
+.mock-note { margin: .2rem 0 .5rem; }
+.mock-break { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: .9rem; }
+.mock-break-time { font-size: clamp(3rem, 9vw, 6rem); line-height: 1; color: var(--signal); font-variant-numeric: tabular-nums; }
+.mock-result-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; margin-bottom: 1rem; }
+.mock-result-grid > div { display: flex; flex-direction: column; gap: .2rem; border: 1px solid var(--border); border-radius: 10px; padding: .8rem; background: var(--bg-2); }
+@media (max-width: 700px) { .mock-result-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 
 .field-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
 .chip.good { color: var(--ok); border-color: #4ade8066; }

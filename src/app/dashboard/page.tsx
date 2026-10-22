@@ -103,20 +103,15 @@ export default function DashboardHome() {
           <span className="dash-quick-title">Diagnostic</span>
           <span className="dash-quick-sub">Find your weak spots</span>
         </Link>
-        <Link className="dash-quick" href="/dashboard/question-bank">
-          <span className="dash-quick-icon" aria-hidden="true">▦</span>
-          <span className="dash-quick-title">Question bank</span>
-          <span className="dash-quick-sub">Browse by skill and type</span>
+        <Link className="dash-quick" href="/dashboard/mock">
+          <span className="dash-quick-icon" aria-hidden="true">◉</span>
+          <span className="dash-quick-title">Full mock exam</span>
+          <span className="dash-quick-sub">Listening, reading, writing, speaking</span>
         </Link>
-        <Link className="dash-quick" href="/dashboard/writing">
-          <span className="dash-quick-icon" aria-hidden="true">✍</span>
-          <span className="dash-quick-title">Writing</span>
-          <span className="dash-quick-sub">Timed tasks and model answers</span>
-        </Link>
-        <Link className="dash-quick" href="/dashboard/speaking">
-          <span className="dash-quick-icon" aria-hidden="true">🎤</span>
-          <span className="dash-quick-title">Speaking</span>
-          <span className="dash-quick-sub">Cue cards and self-rating</span>
+        <Link className="dash-quick" href="/dashboard/review">
+          <span className="dash-quick-icon" aria-hidden="true">↻</span>
+          <span className="dash-quick-title">Review queue</span>
+          <span className="dash-quick-sub">Every miss, one place</span>
         </Link>
       </div>
 

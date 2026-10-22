@@ -149,8 +149,7 @@ export default function AdminConsole({
         <div className="dash-card-head">
           <h2 className="dash-section-title">Content inventory</h2>
           <span style={{ display: "flex", gap: "1rem" }}>
-            <Link className="auth-link" href="/dashboard/admin/reading-qa">Reading QA →</Link>
-            <Link className="auth-link" href="/dashboard/admin">Import a test →</Link>
+            <Link className="auth-link" href="/dashboard/test">Practice tests →</Link>
           </span>
         </div>
         <p className="attempt-meta">

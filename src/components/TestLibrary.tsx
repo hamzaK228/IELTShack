@@ -47,15 +47,7 @@ export default function TestLibrary({ tests, hidden }: { tests: TestSummary[]; h
           <h1 className="dash-title">Practice tests</h1>
           <p className="dash-sub">
             {tests.length.toLocaleString()} tests ready. Start with a diagnostic if you are new.
-            {hidden > 0 && (
-              <>
-                {" "}
-                <Link className="auth-link" href="/dashboard/admin/reading-qa">
-                  {hidden} incomplete reading tests
-                </Link>{" "}
-                are hidden pending repair.
-              </>
-            )}
+            {hidden > 0 && <> {hidden} tests are hidden pending repair.</>}
           </p>
         </div>
       </div>

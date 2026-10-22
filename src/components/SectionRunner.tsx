@@ -270,23 +270,36 @@ function readableParagraphs(text: string): string[] {
   });
 }
 
+export type RunnerResults = {
+  perSkill: Partial<Record<Skill, { correct: number; total: number; band: number }>>;
+  missed: Array<{ section: Section; question: Question }>;
+  overall: number;
+  correct: number;
+  total: number;
+};
+
 export default function SectionRunner({
   test,
   mode,
   introTitle,
+  embedded = false,
+  onFinished,
 }: {
   test: Test;
   mode: "exam" | "practice";
   introTitle?: string;
+  embedded?: boolean;
+  onFinished?: (results: RunnerResults) => void;
 }) {
-  const [started, setStarted] = useState(false);
+  const [started, setStarted] = useState(embedded);
   const [sectionIndex, setSectionIndex] = useState(0);
   const [answers, setAnswers] = useState<Answers>({});
   const [submittedSections, setSubmittedSections] = useState<Record<string, boolean>>({});
   const [elapsed, setElapsed] = useState(0);
   const [finished, setFinished] = useState(false);
   const [savedAttempt, setSavedAttempt] = useState(false);
-  const [startedAt, setStartedAt] = useState("");
+  const [startedAt, setStartedAt] = useState(embedded ? new Date().toISOString() : "");
+  const reported = useRef(false);
   const [focus, setFocus] = useState(false);
   const [runMode, setRunMode] = useState<"exam" | "practice">(
     (test.durationMinutes ?? 0) >= 30 ? "exam" : mode
@@ -358,6 +371,13 @@ export default function SectionRunner({
   }, [finished, graded, answers]);
 
   useEffect(() => {
+    if (!embedded || !finished || !results || reported.current) return;
+    reported.current = true;
+    onFinished?.(results);
+  }, [embedded, finished, results, onFinished]);
+
+  useEffect(() => {
+    if (embedded) return;
     if (!finished || !results || savedAttempt) return;
     setSavedAttempt(true);
     if (results.total === 0) return;
@@ -377,7 +397,7 @@ export default function SectionRunner({
       total: results.total,
       missed: results.missed.map((m) => m.question.id),
     });
-  }, [finished, results, savedAttempt, test, runMode, startedAt, elapsed, answers]);
+  }, [embedded, finished, results, savedAttempt, test, runMode, startedAt, elapsed, answers]);
 
   function begin(nextMode: "exam" | "practice" = runMode) {
     setRunMode(nextMode);
@@ -395,7 +415,7 @@ export default function SectionRunner({
   }
 
   function submitTest() {
-    if (window.confirm("Submit the whole test and see your score?")) setFinished(true);
+    if (embedded || window.confirm("Submit the whole test and see your score?")) setFinished(true);
   }
 
   function goToSection(index: number) {
@@ -430,7 +450,7 @@ export default function SectionRunner({
     goToSection(sectionIndex + 1);
   }
 
-  if (!started) {
+  if (!started && !embedded) {
     return (
       <div className="dash-page">
         <div className="dash-head">
@@ -493,7 +513,7 @@ export default function SectionRunner({
     );
   }
 
-  if (finished && results) {
+  if (finished && results && !embedded) {
     const entries = graded;
     return (
       <div className="dash-page">
@@ -591,6 +611,7 @@ export default function SectionRunner({
     );
   }
 
+  if (embedded && finished) return null;
   if (!section) return null;
 
   const offset = offsets[section.id] ?? 0;
@@ -869,7 +890,7 @@ export default function SectionRunner({
                   </button>
                 )}
                 <button className="btn btn-primary" onClick={submitTest}>
-                  {isLast ? "Submit test" : "Submit test early"}
+                  {embedded ? "Finish section" : isLast ? "Submit test" : "Submit test early"}
                 </button>
               </>
             )}

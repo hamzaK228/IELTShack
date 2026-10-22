@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { getProfile, subscribe } from "@/lib/storage";
-import { getSupabaseUser, initRemoteSync, pullRemote, remoteEnabled } from "@/lib/remote";
+import { getSupabaseUser, initRemoteSync, isAdminRemote, pullRemote, remoteEnabled } from "@/lib/remote";
 import type { Profile } from "@/lib/types";
 
 const NAV = [
@@ -12,21 +12,15 @@ const NAV = [
   { href: "/dashboard/plan", label: "Study Plan", icon: "▤" },
   { href: "/dashboard/session", label: "Practice", icon: "⚡" },
   { href: "/dashboard/test", label: "Practice Tests", icon: "▣" },
-  { href: "/dashboard/question-bank", label: "Question Bank", icon: "▦" },
+  { href: "/dashboard/mock", label: "Mock Exam", icon: "◉" },
   { href: "/dashboard/review", label: "Review Queue", icon: "↻" },
-  { href: "/dashboard/saved", label: "Saved", icon: "★" },
-  { href: "/dashboard/writing", label: "Writing", icon: "✍" },
-  { href: "/dashboard/speaking", label: "Speaking", icon: "🎤" },
   { href: "/dashboard/vocab", label: "Vocabulary", icon: "Aa" },
   { href: "/dashboard/analytics", label: "Analytics", icon: "◔" },
   { href: "/dashboard/leaderboard", label: "Progress", icon: "🏆" },
   { href: "/dashboard/tutor", label: "AI Tutor", icon: "🤖" },
-  { href: "/dashboard/duel", label: "Duel", icon: "⚔" },
   { href: "/dashboard/community", label: "Community", icon: "◎" },
   { href: "/dashboard/settings", label: "Settings", icon: "⚙" },
-  { href: "/dashboard/admin", label: "Content import", icon: "⬆" },
   { href: "/dashboard/admin/console", label: "Admin console", icon: "⌘" },
-  { href: "/dashboard/admin/reading-qa", label: "Reading QA", icon: "✓" },
 ];
 
 export default function AppShell({ children }: { children: ReactNode }) {
@@ -36,6 +30,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
   const [authReady, setAuthReady] = useState(false);
   const [open, setOpen] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
+  const [isAdmin, setIsAdmin] = useState(false);
   const sidebarRef = useRef<HTMLElement | null>(null);
 
   useEffect(() => {
@@ -95,6 +90,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
   }
   if (profile === null) return null;
 
+  const workspace = /^\/dashboard\/(test\/[^/]+|mock)/.test(pathname);
   const label =
     [...NAV]
       .sort((a, b) => b.href.length - a.href.length)
@@ -103,7 +99,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
       )?.label ?? "Dashboard";
 
   return (
-    <div className={`dash-layout no-rail${collapsed ? " sidebar-collapsed" : ""}`}>
+    <div className={`dash-layout no-rail${collapsed ? " sidebar-collapsed" : ""}${workspace ? " exam-workspace" : ""}`}>
       <a className="skip-link" href="#app-main">Skip to content</a>
       {!open && (
         <button
@@ -139,7 +135,7 @@ export default function AppShell({ children }: { children: ReactNode }) {
 
         <nav className="dash-nav" aria-label="Main">
           <span className="dash-nav-label">Menu</span>
-          {NAV.map((item) => {
+          {NAV.filter((item) => item.href !== "/dashboard/admin/console" || isAdmin).map((item) => {
             const active =
               item.href === "/dashboard"
                 ? pathname === item.href
@@ -168,9 +164,9 @@ export default function AppShell({ children }: { children: ReactNode }) {
             <span className="dash-nav-icon" aria-hidden="true">◎</span>
             Diagnostic
           </Link>
-          <Link className="dash-nav-link dash-nav-quick" href="/dashboard/test">
-            <span className="dash-nav-icon" aria-hidden="true">▣</span>
-            Mock test
+          <Link className="dash-nav-link dash-nav-quick" href="/dashboard/mock">
+            <span className="dash-nav-icon" aria-hidden="true">◉</span>
+            Mock exam
           </Link>
         </nav>
 

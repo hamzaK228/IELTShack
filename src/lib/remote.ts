@@ -195,6 +195,15 @@ export async function syncProfile(profile: Profile) {
   await sb.from("ielts_profiles").upsert(profileRow(profile), { onConflict: "id" });
 }
 
+export async function isAdminRemote(): Promise<boolean> {
+  const sb = client();
+  if (!sb) return false;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return false;
+  const { data, error } = await sb.rpc("ielts_is_admin");
+  return !error && data === true;
+}
+
 export async function fetchPlanTasks(): Promise<Record<string, boolean> | null> {
   const sb = client();
   if (!sb) return null;

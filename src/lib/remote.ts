@@ -107,7 +107,10 @@ export async function signUpWithEmail(name: string, email: string, password: str
   const { data, error } = await sb.auth.signUp({
     email: email.trim().toLowerCase(),
     password,
-    options: { data: { full_name: name.trim() || "there" } },
+    options: {
+      data: { full_name: name.trim() || "there" },
+      emailRedirectTo: `${window.location.origin}/auth/callback?next=/onboarding`,
+    },
   });
   if (error) return { error: friendly(error.message) };
 

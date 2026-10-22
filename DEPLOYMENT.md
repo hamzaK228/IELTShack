@@ -28,13 +28,21 @@ Locally these live in `.env.local` (git-ignored). See `.env.example`.
 
 In Supabase → Authentication → URL Configuration:
 
-- **Site URL:** your production origin, e.g. `https://ieltshack.vercel.app`
-- **Redirect URLs:** add
-  - `https://ieltshack.vercel.app/auth/reset`
+- **Site URL:** leave it on the ecosystem's primary app (SAThack). It is a single
+  project-wide fallback; changing it to IELTShack would break SAThack's auth emails.
+- **Redirect URLs:** add, without removing SAThack's entries:
   - `https://ieltshack.vercel.app/**`
-  - the Vercel preview pattern if you use previews, e.g. `https://*-<team>.vercel.app/**`
+  - `https://ieltshack.vercel.app/auth/reset`
+  - `https://ieltshack.vercel.app/auth/callback`
+  - `http://localhost:3000/**` (local development)
+  - the Vercel preview pattern if you use previews, e.g. `https://*-hamzak228s-projects.vercel.app/**`
 
-Without this, confirmation and password-reset emails point at localhost.
+Sign-up passes `emailRedirectTo` to `/auth/callback`, and password reset passes
+`/auth/reset`, so both work once their URLs are allow-listed. If a URL is missing
+from the list Supabase silently falls back to the Site URL, which is why
+confirmation and reset emails can land on the wrong app.
+
+Without this, confirmation and password-reset emails point at localhost or SAThack.
 
 Email confirmation is enabled: users must confirm before signing in. Customize the
 confirmation/reset templates in Supabase if you want branded emails.

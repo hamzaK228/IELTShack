@@ -1,0 +1,634 @@
+{
+  "id": "pte-listening-31",
+  "title": "Listening — Practice Test 31",
+  "kind": "practice",
+  "description": "One recording, 39 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-31-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the name of the pub?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Lines Ahead"
+            },
+            {
+              "id": "B",
+              "text": "The Lion’s Shed"
+            },
+            {
+              "id": "C",
+              "text": "The Lion’s Head"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which map shows Jack’s route to Margaret’s party? ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-31-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Street: ______",
+          "answer": "Wesley",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number: ______",
+          "answer": "70",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Location: house on the left ______",
+          "answer": "fifth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which statement is correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jack has got Mike’s camera"
+            },
+            {
+              "id": "B",
+              "text": "Mike has got Jack’s camera"
+            },
+            {
+              "id": "C",
+              "text": "Mike has sent Jack a text message"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack is worried that Mike may be",
+          "options": [
+            {
+              "id": "A",
+              "text": "late"
+            },
+            {
+              "id": "B",
+              "text": "lost"
+            },
+            {
+              "id": "C",
+              "text": "early"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q8",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "What is Mike's mobile number? ______",
+          "answer": "2563379",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack cannot find the house because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is dark"
+            },
+            {
+              "id": "B",
+              "text": "it is hidden"
+            },
+            {
+              "id": "C",
+              "text": "the letterbox was behind a bush"
+            },
+            {
+              "id": "D",
+              "text": "someone is coming down the street"
+            },
+            {
+              "id": "E",
+              "text": "he has to call Mike"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack cannot find the house because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is dark"
+            },
+            {
+              "id": "B",
+              "text": "it is hidden"
+            },
+            {
+              "id": "C",
+              "text": "the letterbox was behind a bush"
+            },
+            {
+              "id": "D",
+              "text": "someone is coming down the street"
+            },
+            {
+              "id": "E",
+              "text": "he has to call Mike"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who provides the money to run the park?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the owners"
+            },
+            {
+              "id": "B",
+              "text": "the government"
+            },
+            {
+              "id": "C",
+              "text": "the visitors"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When did the park move to the public open space?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1987"
+            },
+            {
+              "id": "B",
+              "text": "2000"
+            },
+            {
+              "id": "C",
+              "text": "2003"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much do primary school children pay?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$23"
+            },
+            {
+              "id": "B",
+              "text": "$10"
+            },
+            {
+              "id": "C",
+              "text": "$16"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q14",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Once you pay the entry fee, there are no extra costs ______",
+          "answer": "T",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q15",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "The park is open every day of the year ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Koalas10 am to 4.30 pmView koalas in natural ______",
+          "answer": "environment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Kangaroos9 am to 5.30 pmWalk through kangaroo ______",
+          "answer": "enclosure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wombats11 am, 2 pm and ______Join in interactive show",
+          "answer": "3.45 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO other attractions are also mentioned?",
+          "options": [
+            {
+              "id": "A",
+              "text": "farmyard"
+            },
+            {
+              "id": "B",
+              "text": "children's show"
+            },
+            {
+              "id": "C",
+              "text": "working farm"
+            },
+            {
+              "id": "D",
+              "text": "country show"
+            },
+            {
+              "id": "E",
+              "text": "volunteer program"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO other attractions are also mentioned?",
+          "options": [
+            {
+              "id": "A",
+              "text": "farmyard"
+            },
+            {
+              "id": "B",
+              "text": "children's show"
+            },
+            {
+              "id": "C",
+              "text": "working farm"
+            },
+            {
+              "id": "D",
+              "text": "country show"
+            },
+            {
+              "id": "E",
+              "text": "volunteer program"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The project is about ______",
+          "answer": "energy consumption",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "It includes a group of fuels called ______",
+          "answer": "fossil fuels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "This type of fuel affects the weather by creating ______",
+          "answer": "global warming",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "45 percent",
+          "options": [
+            {
+              "id": "A",
+              "text": "natural gas"
+            },
+            {
+              "id": "B",
+              "text": "nuclear"
+            },
+            {
+              "id": "C",
+              "text": "oil"
+            },
+            {
+              "id": "D",
+              "text": "other"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "20 percent",
+          "options": [
+            {
+              "id": "A",
+              "text": "natural gas"
+            },
+            {
+              "id": "B",
+              "text": "nuclear"
+            },
+            {
+              "id": "C",
+              "text": "oil"
+            },
+            {
+              "id": "D",
+              "text": "other"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "8 percent",
+          "options": [
+            {
+              "id": "A",
+              "text": "natural gas"
+            },
+            {
+              "id": "B",
+              "text": "nuclear"
+            },
+            {
+              "id": "C",
+              "text": "oil"
+            },
+            {
+              "id": "D",
+              "text": "other"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Richard believes that the main problem with using fossil fuels is",
+          "options": [
+            {
+              "id": "A",
+              "text": "they affect everybody through global warming"
+            },
+            {
+              "id": "B",
+              "text": "their supply will eventually run out"
+            },
+            {
+              "id": "C",
+              "text": "they create gases that pollute the air and damage all living things"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Shirley wants to research nuclear energy because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the fuels used in nuclear energy release radiation even after they have been used"
+            },
+            {
+              "id": "B",
+              "text": "she wants to know how nuclear waste is disposed of"
+            },
+            {
+              "id": "C",
+              "text": "of public concerns over nuclear power stations situated close to where they live"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Regarding other energy sources Richard",
+          "options": [
+            {
+              "id": "A",
+              "text": "is going to research renewable energy sources"
+            },
+            {
+              "id": "B",
+              "text": "is not going to research renewable energy sources"
+            },
+            {
+              "id": "C",
+              "text": "has not decided if he is going to research renewable energy sources"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "For the next meeting Shirley will find some information about",
+          "options": [
+            {
+              "id": "A",
+              "text": "the benefits of coal and oil"
+            },
+            {
+              "id": "B",
+              "text": "alternative energy sources"
+            },
+            {
+              "id": "C",
+              "text": "nuclear power stations"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Although we cannot do anything about the plants and animals that are already ______ we can do something about the many species in the world today that are in danger of becoming extinct in the future.",
+          "answer": "extinct",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main reason for the growing number of ______ species is the destruction of their (33) The rapidly (34) human population needs more land and resources for (35) This is changing and destroying the habitats that plant and animal species need for (36)",
+          "answer": "endangered",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main reason for the growing number of (32) species is the destruction of their ______ The rapidly (34) human population needs more land and resources for (35) This is changing and destroying the habitats that plant and animal species need for (36)",
+          "answer": "habitats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main reason for the growing number of (32) species is the destruction of their (33) The rapidly ______ human population needs more land and resources for (35) This is changing and destroying the habitats that plant and animal species need for (36)",
+          "answer": "increasing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main reason for the growing number of (32) species is the destruction of their (33) The rapidly (34) human population needs more land and resources for ______ This is changing and destroying the habitats that plant and animal species need for (36)",
+          "answer": "housing and food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main reason for the growing number of (32) species is the destruction of their (33) The rapidly (34) human population needs more land and resources for (35) This is changing and destroying the habitats that plant and animal species need for ______",
+          "answer": "survival",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One way we can save endangered species and permanently ______ these habitats is to create and support national parks and reserves. National parks encourage people to enjoy the (38) of species without harming them.",
+          "answer": "protect",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One way we can save endangered species and permanently (37) these habitats is to create and support national parks and reserves. National parks encourage people to enjoy the ______ of species without harming them.",
+          "answer": "beauty and diversity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People who visit these parks must be sure to obey few rules. These include following fire regulations, leaving ______ placing all rubbish in a bin, not picking the flowers and not taking birds' eggs.",
+          "answer": "pets at home",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-31-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Public ______ will help ensure the survival of our plant and animal species.",
+          "answer": "support (and awareness)",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/31_we.mp3"
+    }
+  ]
+}

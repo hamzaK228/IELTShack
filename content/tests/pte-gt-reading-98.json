@@ -1,0 +1,891 @@
+{
+  "id": "pte-gt-reading-98",
+  "title": "General Training Reading — Practice Test 98",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: New cycle path to Marshbrook Country Park",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "what still needs to be done",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the original suggestion for creating the path",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reason why the path opened early",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "people who no longer need to get to the park by car",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the route of the path",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the length of the path",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q7",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "who paid for the path",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "New cycle path to Marshbrook Country Park",
+        "text": "(A) A new dual-purpose cycle and pedestrian route has been built from Atherton bus station to the country park's main entrance at Marshbrook. It avoids the main road into Atherton on the south side, and keeps mainly to less busy roads. Once the path leaves the built-up area, it goes through countryside until it reaches Marshbrook.\n\n(B) Funding for the cycle path has come largely from the county and town councils, while almost a third of it was raised through crowdfunding. Maintenance of the path is the responsibility of the county council. The cycle path was completed ahead of schedule – partly thanks to perfect weather for construction – and under budget.\n\n(C) Annie Newcome is the chief executive of Cycle Atherton, the organisation that aims to get people cycling more often and more safely. Cycle Atherton proposed the 12-kilometre-long cycle path initially, and has been active in promoting it, Ms Newcome says she is delighted that all the hard work to achieve the funding proved successful.\n\n(D) Marshbrook Country Park is a very popular recreational area, and the new path makes it much easier to reach from the town in an environmentally friendly way. At 2.5 metres wide, it is also suitable for users of wheelchairs, mobility scooters and buggies, who have not previously had access to the park without using motor vehicles.\n\n(E) Although the path is now open, work is continuing to improve the signs along it, such as warnings when the path approaches a road. New hedges and trees will also be planted along stretches of the path, to provide some shelter from the wind and to benefit wildlife.\n\n(F) Further information and a detailed map of the path including a proposed 5-kilometre extension are available online. The map can easily be downloaded and printed. Visit the county council website and follow the links to Atherton Cycle Path."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Study dramatic arts at Thornley",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The college has introduced new courses since it opened.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The college provides training for work in the film industry.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students have the chance to work with relevant professionals.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Many more people apply to study at the college than are accepted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Theatre 500 was created by students.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The new building and the council building were designed by the same architects.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Local groups will be charged for using college premises.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Study dramatic arts at Thornley",
+        "text": "If you are hoping for a career in the theatre., Thornley College of Dramatic Arts is the place to come. For fifty years we have been providing top-quality courses for actors, directors, producers, musicians and everyone else who wishes to work professionally in the theatre or related industries. We also have expertise in preparing students for the specialised requirements of TV, film and radio. We'll make sure you're thoroughly prepared for the reality of work in your chosen field. Our college-based tutors all have extensive practical experience in the entertainment industry as well as academic qualifications, and we also collaborate with some of the country's best directors, writers and actors to create challenging, inspiring and exciting projects with our students. We are well-known around the world, with our students coming from every continent. Every year, we receive two thousand applications for the one hundred places on our degree courses. Only the most talented get places, and we are proud that over ninety percent of our students gain professional work within a year of graduating – a figure few other drama colleges in the UK can match. To mark our fiftieth anniversary this year, we are putting on a production of Theatre 500. Written by two staff members especially for this occasion, this multimedia show celebrates five hundred years of drama, and involves all our students in one way or another. Another major development is that the college is about to move. Our new premises are now under construction in the heart of Thornley, next to the council building, which has won a prize for its architecture. For the last two years, we have been developing designs with Miller Furbank Architects for our new home, and one aim has been to ensure the buildings complement the council offices. Work started on the foundations of the buildings in March last year, and we plan to move to the new site this coming September. We have also been talking to cultural organisations in the district, and considering how we can bring cost-free benefits to the local community, as well as to our students. As a result, part of the space in the new buildings has been designed to be adaptable, in order to accommodate classes, performances and workshops for different-sized groups of local people."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: How to make your working day more enjoyable",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Bringing a personal ______ to work will make the place feel more homely.",
+          "answer": "Photo",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to check the position of all ______ before use to avoid pulling any muscles.",
+          "answer": "Screens",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Leaving the office in the middle of the day may help to raise ______ later on.",
+          "answer": "Productivity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is advisable to avoid checking a ______ during breaks.",
+          "answer": "Mobile",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Getting involved in ______ at work may have negative results.",
+          "answer": "Gossip",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Having a few ______ available can help people concentrate better at work.",
+          "answer": "Snacks",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "How to make your working day more enjoyable",
+        "text": "Research shows that work takes up approximately a third of our lives. Most of us get so bogged down with day-to-day tasks though, that we easily forget why we originally applied for the job and what we can get out of it. Here are a few ideas for how to make your working day better. Physical changes to your work environment can make a massive difference to how you feel. Get some green plants or a family photo for your desk. File all those odd bits of paper or throw them away. All of these little touches can make your work environment feel like it's yours. Make sure any screens you have are at a suitable height so you're not straining your neck and shoulders. Humans need a change of environment every now and then to improve productivity. Go out at lunchtime for a quick walk. If you have the option, it's a good idea to work from home occasionally. And if there's a conference coming up, ask if you can go along to it. Not only will you practise your networking skills, but you'll also have a day away from the office. Use coffee time to get to know a colleague you don't usually speak to. There's no point in getting away from staring at one thing though, only to replace it with another; so leave your mobile alone! Another tip is to try and stay out of office gossip. In the long run it could get you in more trouble than you realise. When you're trying to focus on something, hunger is the worst thing, if you can, keep some healthy snacks in your desk because if you have something you can nibble on, it will make you work more effectively and you'll enjoy it more. Also, if you're dehydrated, you won't be able to focus properly. So keep drinking water. Finally, if you've been dreaming about starting up a big project for some time, do it! There are so many different things you can do to get you enjoying work more each day."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: How to get promoted",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• First step: examine past successes and any ______ that would help gain promotion",
+          "answer": "Skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o how best to use your high level of ______ in future",
+          "answer": "Commitment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o or how much extra ______ you already bring to the company",
+          "answer": "Value",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o find out which ones will be members of the ______ who decide on the promotion",
+          "answer": "Panel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o consider how much they are aware of your ______ for the future",
+          "answer": "Potential",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o participating in the ______ of events for customers",
+          "answer": "Organization/ organisation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Work on self-development: take any ______ that fill in gaps in knowledge",
+          "answer": "Courses",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "How to get promoted",
+        "text": "If you're sitting at your desk wondering whether this will be the year you finally get promoted, here are some tips. It starts with you. You are perhaps the most important part in the 'promotion process', so you need to know what you want – and why you want it. Take an honest look at yourself – your achievements and also your skills, particularly those you could exploit to take on a different role. Your boss is the gatekeeper. If you think your boss is likely to be on your side, ask for a meeting to discuss your serious commitment to the organisation and how this could translate into a more defined career plan. If you are less sure about your boss's view of your prospects and how they may react, start softly with a more deliberate focus on increasing your boss's understanding of the work you do and the added value you deliver. Think about how you are perceived at work. In order for you to get your promotion, who needs to know about you? Who would be on the interview panel and whose opinion and input would they seek? And once you've got a list of people to impress, ask yourself – do they know enough about you? And I mean really know – what you do day to day at your desk, your contribution to the team, and perhaps most importantly, your potential. The chances are that those decision-makers won't know ail they should about you. Raising your profile in your organisation is critical so that when those in charge start looking at that empty office and considering how best to fill it, the first name that pops into their heads is yours. If your firm has a newsletter, volunteer to write a feature to include in it. If they arrange regular client events, get involved in the organisation of them. And so on. If you think your experience needs enhancing, then look at ways you can continue to improve it. If you are confident in your professional expertise but lack the latest management theory, enrol on some relevant courses that fit around your day job. So what are you waiting for?"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Animals can tell right from wrong",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wolves live in packs and it is clear that there are a number of ______ concerning their behaviour. Some observers believe they exhibit a sense of (29) ______ The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are (30) ______ to the juniors and even permit some gentle (31) ______ What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for (32) ______ Only when that has been granted will the wolves continue playing.",
+          "answer": "Rules",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wolves live in packs and it is clear that there are a number of (28) ______ concerning their behaviour. Some observers believe they exhibit a sense of ______ The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are (30) ______ to the juniors and even permit some gentle (31) ______ What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for (32) ______ Only when that has been granted will the wolves continue playing.",
+          "answer": "Fairness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wolves live in packs and it is clear that there are a number of (28) ______ concerning their behaviour. Some observers believe they exhibit a sense of (29) ______ The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are ______ to the juniors and even permit some gentle (31) ______ What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for (32) ______ Only when that has been granted will the wolves continue playing.",
+          "answer": "Submissive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wolves live in packs and it is clear that there are a number of (28) ______ concerning their behaviour. Some observers believe they exhibit a sense of (29) ______ The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are (30) ______ to the juniors and even permit some gentle ______ What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for (32) ______ Only when that has been granted will the wolves continue playing.",
+          "answer": "Biting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wolves live in packs and it is clear that there are a number of (28) ______ concerning their behaviour. Some observers believe they exhibit a sense of (29) ______ The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are (30) ______ to the juniors and even permit some gentle (31) ______ What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for ______ Only when that has been granted will the wolves continue playing.",
+          "answer": "Forgiveness",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Animals can tell right from wrong",
+        "text": "Until recently, humans were thought to be the only species to experience complex emotions and have a sense of morality. But Professor Marc Bekoff, an ecologist at University of Colorado, Boulder, US, believes that morals are 'hard-wired' into the brains of all mammals and provide the social glue' that allows animals to live together in groups. His conclusions will assist animal welfare groups pushing to have animals treated more humanely. Professor Bekoff, who presents his case in his book Wild Justice, said: 'Just as in humans, the moral nuances of a particular culture or group will be different from another, but they are certainly there. Moral codes are species specific, so they can be difficult to compare with each other or with humans.' Professor Bekoff believes morals developed in animals to help regulate behaviour in social groups. He claims that these help to limit fighting within the group and encourage co-operative behaviour. His ideas have met with some controversy in the scientific community. Professor Frans de Waal, who examines the behaviour of primates, including chimpanzees, at Emory University, Atlanta, Georgia, US, said: 'I don't believe animals are moral in the sense we humans are – with a well-developed and reasoned sense of right and wrong – rather that human morality incorporates a set of psychological tendencies and capacities such as empathy, reciprocity, a desire for co-operation and harmony that are older than our species. Human morality was not formed from scratch, but grew out of our primate psychology. Primate psychology has ancient roots and I agree that other animals show many of the same tendencies and have an intense sociality.' Wolves live in tight-knit social groups that are regulated by strict rules. Wolves also demonstrate fairness. During play, dominant wolves will appear to exchange roles with lower-ranking wolves. They pretend to be submissive and go so far as to allow biting by the lower-ranking wolves, provided it is not too hard. Prof Bekoff argues that without a moral code governing their actions, this kind of behaviour would not be possible. Astonishingly, if an animal becomes aggressive, it will perform a play bow' to ask forgiveness before play resumes. In other members of the dog family, play is controlled in a similar way. Among coyotes, cubs which are too aggressive are ignored by the rest of the group and often end up having to leave entirely. Experiments with domestic dogs, where one animal was given some sweets' and another wasn't, have shown that they possess a sense of fairness as they allowed their companion to eat some. Elephants are intensely sociable and emotional animals. Research by Iain Douglas-Hamilton, from the department of zoology at Oxford University, suggests elephants experience compassion and has found evidence of elephants helping injured members of their herd. In 2003, a herd of 11 elephants rescued antelopes which were being held inside an enclosure in KwaZulu-Natal, South Africa. The top female elephant unfastened all of the metal latches holding the gates closed and swung them open, allowing the antelopes to escape. This is thought to be a rare example of animals showing empathy for members of another species – a trait previously thought to be the exclusive preserve of humankind.\n\n(A) laboratory experiment involved training Diana monkeys to insert a token into a slot to obtain food. A male who had become skilled at the task was found to be helping the oldest female, who had not learned how to do it. On three occasions the male monkey picked up tokens she dropped and inserted them into the slot and allowed her to have the food. As there was no benefit for the male monkey, Professor Bekoff argues that this is a clear example of an animal's actions being driven by some internal moral compass. Since chimpanzees are known to be among the most cognitively advanced of the great apes and our closest cousins, it is perhaps not remarkable that scientists should suggest they live by moral codes. A chimpanzee known as Knuckles is the only known captive chimpanzee to suffer from cerebral palsy, which leaves him physically and mentally impaired. What is extraordinary is that scientists have observed other chimpanzees interacting with him differently and he is rarely subjected to intimidating displays of aggression from older males. Chimpanzees also demonstrate a sense of justice and those who deviate from the code of conduct of a group are set upon by other members as punishment. Experiments with rats have shown that they will not take food if they know their actions will cause pain to another rat. In lab tests, rats were given food which then caused a second group of rats to receive an electric shock. The rats with the food stopped eating rather than see this happen. Whales have been found to have spindle cells in their brains. These specialised cells were thought to be restricted to humans and great apes, and appear to play a role in empathy and understanding the emotions of others. Humpback whales, fin whales, killer whales and sperm whales have all been found to have spindle cells. They also have three times as many spindle cells as humans and are thought to be older in evolutionary terms. This finding suggests that emotional judgements such as empathy may have evolved considerably earlier in history than formerly thought and could be widespread in the animal kingdom."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Complex social behaviour in wolf packs",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-98-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "coyotes",
+          "options": [
+            {
+              "id": "A",
+              "text": "often attack peers who fail to follow the moral code"
+            },
+            {
+              "id": "B",
+              "text": "appear to enjoy playing with members of a different species"
+            },
+            {
+              "id": "C",
+              "text": "sometimes share treats with a peer"
+            },
+            {
+              "id": "D",
+              "text": "may assist a peer who is failing to complete a task"
+            },
+            {
+              "id": "E",
+              "text": "may be driven away by their peers if they do not obey the moral code"
+            },
+            {
+              "id": "F",
+              "text": "seem unwilling to benefit from something that hurts their peers"
+            },
+            {
+              "id": "G",
+              "text": "may help a different type of animal which is in difficulty"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "domestic dogs",
+          "options": [
+            {
+              "id": "A",
+              "text": "often attack peers who fail to follow the moral code"
+            },
+            {
+              "id": "B",
+              "text": "appear to enjoy playing with members of a different species"
+            },
+            {
+              "id": "C",
+              "text": "sometimes share treats with a peer"
+            },
+            {
+              "id": "D",
+              "text": "may assist a peer who is failing to complete a task"
+            },
+            {
+              "id": "E",
+              "text": "may be driven away by their peers if they do not obey the moral code"
+            },
+            {
+              "id": "F",
+              "text": "seem unwilling to benefit from something that hurts their peers"
+            },
+            {
+              "id": "G",
+              "text": "may help a different type of animal which is in difficulty"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "elephants",
+          "options": [
+            {
+              "id": "A",
+              "text": "often attack peers who fail to follow the moral code"
+            },
+            {
+              "id": "B",
+              "text": "appear to enjoy playing with members of a different species"
+            },
+            {
+              "id": "C",
+              "text": "sometimes share treats with a peer"
+            },
+            {
+              "id": "D",
+              "text": "may assist a peer who is failing to complete a task"
+            },
+            {
+              "id": "E",
+              "text": "may be driven away by their peers if they do not obey the moral code"
+            },
+            {
+              "id": "F",
+              "text": "seem unwilling to benefit from something that hurts their peers"
+            },
+            {
+              "id": "G",
+              "text": "may help a different type of animal which is in difficulty"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Diana monkeys",
+          "options": [
+            {
+              "id": "A",
+              "text": "often attack peers who fail to follow the moral code"
+            },
+            {
+              "id": "B",
+              "text": "appear to enjoy playing with members of a different species"
+            },
+            {
+              "id": "C",
+              "text": "sometimes share treats with a peer"
+            },
+            {
+              "id": "D",
+              "text": "may assist a peer who is failing to complete a task"
+            },
+            {
+              "id": "E",
+              "text": "may be driven away by their peers if they do not obey the moral code"
+            },
+            {
+              "id": "F",
+              "text": "seem unwilling to benefit from something that hurts their peers"
+            },
+            {
+              "id": "G",
+              "text": "may help a different type of animal which is in difficulty"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "rats List of Descriptions",
+          "options": [
+            {
+              "id": "A",
+              "text": "often attack peers who fail to follow the moral code"
+            },
+            {
+              "id": "B",
+              "text": "appear to enjoy playing with members of a different species"
+            },
+            {
+              "id": "C",
+              "text": "sometimes share treats with a peer"
+            },
+            {
+              "id": "D",
+              "text": "may assist a peer who is failing to complete a task"
+            },
+            {
+              "id": "E",
+              "text": "may be driven away by their peers if they do not obey the moral code"
+            },
+            {
+              "id": "F",
+              "text": "seem unwilling to benefit from something that hurts their peers"
+            },
+            {
+              "id": "G",
+              "text": "may help a different type of animal which is in difficulty"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What view is expressed by Professor de Waal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Apes have advanced ideas about the difference between good and evil."
+            },
+            {
+              "id": "B",
+              "text": "The social manners of some animals prove that they are highly moral."
+            },
+            {
+              "id": "C",
+              "text": "Some human moral beliefs developed from our animal ancestors."
+            },
+            {
+              "id": "D",
+              "text": "The desire to live in peace with others is a purely human quality."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why does Professor Bekoff mention the experiment on Diana monkeys?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it shows that this species of monkey is not very easy to train."
+            },
+            {
+              "id": "B",
+              "text": "It confirms his view on the value of research into certain monkeys."
+            },
+            {
+              "id": "C",
+              "text": "It proves that female monkeys are generally less intelligent than males."
+            },
+            {
+              "id": "D",
+              "text": "It illustrates a point he wants to make about monkeys and other creatures."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-98-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer find most surprising about chimpanzees?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They can suffer from some of the same illnesses as humans."
+            },
+            {
+              "id": "B",
+              "text": "They appear to treat disabled peers with consideration."
+            },
+            {
+              "id": "C",
+              "text": "They have sets of social conventions that they follow."
+            },
+            {
+              "id": "D",
+              "text": "The males can be quite destructive at times."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Complex social behaviour in wolf packs",
+        "text": "Wolves live in packs and it is clear that there are a number of (28) ……………….. concerning their behaviour. Some observers believe they exhibit a sense of (29) ……………….. The stronger, more senior wolves seem to adopt the roles of the junior wolves when they are playing together. They act as if they are (30) …………………. to the juniors and even permit some gentle (31) …………………. What is even more surprising is that when one of the juniors gets too forceful, it bends down begging for (32) ………………. Only when that has been granted will the wolves continue playing."
+      }
+    }
+  ]
+}

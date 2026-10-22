@@ -1,0 +1,948 @@
+{
+  "id": "pte-gt-reading-102",
+  "title": "General Training Reading — Practice Test 102",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Smoke Alarms in the Home",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-102-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All new houses in Australia must have smoke alarms.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Photoelectric smoke alarms cost less than ionization smoke alarms.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It takes a short time to fit most smoke alarms.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Any hard-wired smoke alarm must be fitted by a specialist technician.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should get in touch with your local council before placing any ionisation smoke alarms in household rubbish.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Smoke alarms give a warning sound to indicate that battery power is low.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Old smoke alarms need to be checked more than once a month.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Smoke Alarms in the Home",
+        "text": "Smoke alarms are now a standard feature in Australian homes and are required by the National Building Code in any recently built properties. They are installed to detect the presence of smoke and emit a clear sound to alert you in the event of fire to give you time to escape. There are two principal types of smoke alarms. Ionization alarms are the cheapest and most readily available smoke alarms. They are also very sensitive to 'flaming fires' – fires that burn fiercely – and will detect them before the smoke gets too thick. However, photoelectric alarms are more effective at detecting slow-burning fires. They are less likely to go off accidentally and so are best for homes with one floor. For the best protection, you should install one of each. Most battery-powered smoke alarms can be installed by the home owner and do not require professional installation. For the installation of hard-wired smoke alarms, powered from the mains electricity supply, however, you will need the services of a licensed professional. Smoke alarms are usually most effective when located on the ceiling, near or in the middle of the room or hall. Photoelectric smoke alarms in any quantity may be disposed of in domestic waste. If you have fewer than ten ionization alarms to get rid of, you may put them in your domestic waste. If you have more than ten to dispose of, you should contact your local council. Your battery-powered smoke alarm will produce a short beep every 60 second to alert you when the battery is running out and needs replacing. Nevertheless, it should be tested every month to ensure that the battery and the alarm sounder are working. Note that the sensitivity in all smoke alarms will reduce over time."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Sydney Opera House Tours",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-102-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "discounts available to younger visitors",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the need for suitable footwear",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the opportunity to pretend you are taking part in a concert",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a restriction on the number of participants",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a reduction that applies to purchases using the internet",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the need to book your ticket in advance",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the length of one of the tours",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Sydney Opera House Tours",
+        "text": "(A) The Essential Tour brings to life the story behind the design and construction of one of the world's most famous landmarks. Using interactive audio-visual technology, your guide will take you on a memorable journey inside the youngest building ever to be World Heritage listed.\n\n(B) Afterwards, why not stay around and eat at the Studio Cafe, with its modern Australian menu? Not only can you enjoy the best views in Sydney, you can claim a 20% reduction on the total cost of your meal. (Don't forget to show your ticket in order to claim your discount.)\n\n(C) Languages: English, French, German\n\nTakes place: Daily between 9am and 5pm\n\nPrices: Adults $35 / Online $29.75 Concessions: Australian seniors and pensioners; students and children of 16 and under $24.50. Prior bookings are not essential.\n\n(D) The Backstage Tour gives you backstage access to the Sydney Opera House. It is a unique opportunity to experience the real-life dramas behind the stage! You might even get to stand on the concert hall stage, take up a conductor's baton in the orchestra pit and imagine you are leading the performance. You will also get to see inside the stars' dressing rooms. The tour concludes with a complimentary breakfast in the Green Room, the private dining area of performers past and present.\n\n(E) Takes place: Daily at 7am Prices: $155-No concessions. To purchase: Bookings are essential. Limited to 8 people per tour. Online sales expire at 4.30pm two days prior.\n\nNotes: The tour includes up to 300 steps. Flat, rubber-soled shoes must be worn. For safety reasons, children of 12 years old and under are not permitted.\n\n(F) Opera High Tea consists of a tour where you will walk in the footsteps of world- class singers, dancers and musicians, followed by fine food and music in the spectacular surroundings of the Bennelong Dining Room. What could be better than a treat of delicious light snacks and soft drinks followed by a live recital by a leading Australian singer? An unforgettable treat for young and old!\n\n(G) Takes place: Every second Wednesday, 2pm\n\nDuration: 1.5 hours\n\nPrices: $145 per person Book online or visit the Guided Tours Desk."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: USING DIRECT MAIL TO SELL YOUR PRODUCT",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-102-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sales letters should be sent to the______in a company.",
+          "answer": "Decision maker",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Your letter should make as much______as possible.",
+          "answer": "Impact",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The reader's attention needs to be caught by the______of your letter.",
+          "answer": "Opening",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Letters should be sent in a______",
+          "answer": "White envelope",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is best to print the______in two or more colours.",
+          "answer": "Brochure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Consider sending a______as this is more effective than a picture.",
+          "answer": "(free) samples",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You should calculate the______to your letter.",
+          "answer": "Response rate",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "USING DIRECT MAIL TO SELL YOUR PRODUCT",
+        "text": "When you have set up your own business, you must, of course, start selling your goods or services. One way is by using direct mail – in other words, sending a sales letter (or email) directly to companies that might want to do business with you. One important factor is your mailing list – that is, who you contact. You can build this up from your own market research, existing clients and advertising responses, or you can contact list brokers and rent or buy a compiled list. If you are contacting a business, it is important to address the letter to the decision maker, ideally by name or at least by job title. While the desirability and price of the product on offer will obviously influence sales, you also need to gain the maximum impact from your sales letter. To achieve that, bear the following points in mind: • You have no more than two seconds from when the reader starts the letter to convince them to continue. If you fail, they will throw it away. The opening is crucial to attract their attention. And so that they don't lose interest, avoid having too much text. • Try to send each mailing in a white envelope. It might be cheaper to use a brown envelope but it doesn't make for such good presentation. • Include a brochure. Depending on the volume and on whether you can afford the cost, try to use at least two-colour printing for this. If practicable, it may be worth enclosing a free sample – this is a much greater incentive than photographs. • However interested your potential clients are in buying, they will only do so if it can be done easily. So, include an order form (and of course details of how to return it) with your letter. • When you receive your replies, assess your response rate and monitor the sales. If necessary, the sales letter can then be amended to attract other clients on subsequent mail shots; make sure each different letter is coded so that monitoring is easy and effective. • Ensure that each reply is dealt with quickly and professionally. If further details are requested, these must be sent out promptly. There is no point in encouraging potential customers to contact you if your service is slow or non-existent."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Text 4",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-102-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Summary of role: to improve IFCES's ______around the world",
+          "answer": "(international) profile",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• writing for a number of ______, produced for both IFCES and a wider readership",
+          "answer": "Publications",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• making sure the ______contains current information.",
+          "answer": "Website content",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– for the ______to read",
+          "answer": "Audience",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– to achieve a specific ______",
+          "answer": "Purpose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• relevant qualification at a ______level",
+          "answer": "Post-graduate",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Text 4",
+        "text": "IFCES, the International Federation of Chemical Engineering Societies\n\nJob Specification: Communications Manager\n\nContract: Permanent (with 3-month probationary period)\n\nReports to: Chief Executive\n\nHours: 9:15am – 5:30pm with 1 hour for lunch\n\nHolidays: 23 days per annum + statutory public holidays\n\nJob Summary To raise the international profile of IFCES. To communicate our objectives, programmes and services to members, the chemical engineering community, the media and the wider public.\n\nKey Responsibilities • Develop and implement a programme of communications to member associations, the chemical engineering industry, sponsors and the media\n\n• Plan and implement marketing strategies for all IFCES programmes including the World Chemical Engineering Congress\n\n• Write and edit copy for publications intended for internal and external use including Chemical Engineer Monthly • Work with design agencies, web developers and other external contractors to produce high quality corporate and marketing materials\n\n• Research, write and distribute news releases as required, often at short notice and under pressure • Deal with media enquiries and interview requests. Ensure that good relationships with both mainstream and chemical engineering media are developed and maintained\n\n• Assist in the production of presentations and speeches for board members\n\n• Ensure website content is up to date and consistent • Develop a consistent corporate identity and ensure its application by all member associations and partner organisations\n\n• Carry out specific duties and projects as directed from time to time\n\nEmployee Specification\n\nEssential\n\n• Degree (any discipline)\n\n• Minimum 4 years' experience in a communications role • Excellent copy writing skills with strong attention to detail, a keen sense of audience and an ability to tailor writing to its particular purpose\n\n• Demonstrable track record of producing high quality corporate publications and marketing materials\n\n• Excellent interpersonal and organisational skills\n\n• Sound IT skills, including working knowledge of Microsoft Office applications\n\n• Willingness to travel internationally\n\nDesirable\n\n• Recognised post-graduate qualification in public relations / journalism / marketing communications\n\n• Knowledge of the global chemical engineering industry and the production of new materials in particular\n\n• Understanding of the concerns surrounding sustainability in chemical engineering\n\n• Ability to speak a foreign language"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: KAURI GUM – a piece of New Zealand's history",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-102-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "an example of a domestic product made of high-quality gum ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "factors affecting gum quality ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "how kauri gum is formed ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "how gum was gathered ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the main industrial uses of the gum ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "recent uses of kauri gum ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Kauri gum was first used in New Zealand.",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The amount of kauri gum sent overseas peaked.",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The collection of kauri gum supplemented farmers' incomes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Kauri gum was made into jewellery.",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Kauri gum was used in the production of string instruments.",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Most of the kauri gum was found underground. List of Time Periods",
+          "options": [
+            {
+              "id": "A",
+              "text": "before the 1800s"
+            },
+            {
+              "id": "B",
+              "text": "in 1900"
+            },
+            {
+              "id": "C",
+              "text": "in 1910"
+            },
+            {
+              "id": "D",
+              "text": "between the late 1800s and the early 1900s"
+            },
+            {
+              "id": "E",
+              "text": "between the 1830s and 1900"
+            },
+            {
+              "id": "F",
+              "text": "in 1814 and 1815"
+            },
+            {
+              "id": "G",
+              "text": "after 1850"
+            },
+            {
+              "id": "H",
+              "text": "in the 1930s"
+            },
+            {
+              "id": "I",
+              "text": "in recent times"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-102-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What was most likely to reduce the quality of kauri gum?",
+          "options": [
+            {
+              "id": "A",
+              "text": "how long it was buried"
+            },
+            {
+              "id": "B",
+              "text": "exposure to water"
+            },
+            {
+              "id": "C",
+              "text": "how deep it was buried"
+            },
+            {
+              "id": "D",
+              "text": "exposure to heat"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "KAURI GUM – a piece of New Zealand's history",
+        "text": "(A) The kauri tree is a massive forest tree native to New Zealand. Kauri once formed vast forests over much of the north of the country. Whereas now it is the wood of the kauri which is an important natural resource, in the past it was the tree's sap (the thick liquid which flows inside a tree) which, when hardened into gum, played an important role in New Zealand's early history. After running from rips or tears in the bark of trees, the sap hardens to form the lumps of gum which eventually fall to the ground and are buried under layers of forest litter. The bark often splits where branches fork from the trunk, and gum accumulates there also. The early European settlers in New Zealand collected and sold the gum. the tree was soft and of low value but most of the gum which was harvested had been buried for thousands of years. This gum came in a bewildering variety of colours, degree of transparency and hardness, depending on the length and location of burial, as well as the health of the original tree and the area of the bleeding. Highest quality gum was hard and bright and was usually found at shallow depth on the hills. Lowest quality gum was soft, black or chalky and sugary and was usually found buried in swamps, where it had been in contact with water for a long time. Long periods in the sun or bush fires could transform dull, cloudy lumps into higher quality transparent gum.\n\n(B) Virtually all kauri gum was found in the regions of New Zealand where kauri forests grow today – from the middle of the North Island northwards. In Maori and early European times up until 1850, most gum collected was simply picked up from the ground, but, after that, the majority was recovered by digging.\n\n(C) The original inhabitants of New Zealand, the Maori, had experimented with kauri gum well before Europeans arrived at the beginning of the nineteenth century. They called it kapia, and found it of considerable use. Fresh gum from trees was prized for its chewing quality, as was buried gum when softened in water and mixed with the juice of a local plant. A piece of gum was often passed around from mouth to mouth when people gathered together until it was all gone, or when they tired of chewing, it was laid aside for future use. Kauri gum burns readily and was used by Maori people to light fires. Sometimes it was bound in grass, ignited and used as a torch by night fishermen to attract fish.\n\n(D) The first kauri gum to be exported from New Zealand was part of a cargo taken back to Australia and England by two early expeditions in 1814 and 1815. By the 1860s, kauri gum's reputation was well established in the overseas markets and European immigrants were joining the Maoris in collecting gum on the hills of northern New Zealand. As the surface gum became more scarce, spades were used to dig up the buried 'treasure! The increasing number of diggers resulted in rapid growth of the kauri gum exports from 1,000 tons in 1860 to a maximum of over 10,000 tons in 1900. For fifty years from about 1870 to 1920, the kauri gum industry was a major source of income for settlers in northern New Zealand. As these would-be farmers struggled to break in the land, many turned to gum-digging to earn enough money to support their families and pay for improvements to their farms until better times arrived. By the 1890s, there were 20,000 people engaged in gum-digging. Although many of these, such as farmers, women and children, were only part-time diggers, nearly 7,000 were full-timers. During times of economic difficulty, gum-digging was the only job available where the unemployed from many walks of life could earn a living, if they were prepared to work.\n\n(E) The first major commercial use of kauri gum was in the manufacture of high-grade furniture varnish, a kind of clear paint used to treat wood. The best and purest gum that was exported prior to 1910 was used in this way. Kauri gum was used in 70% of the oil varnishes being manufactured in England in the 1890s. It was favoured ahead of other gums because it was easier to process at lower temperatures. The cooler the process could be kept the better, as it meant a paler varnish could be produced. About 1910, kauri gum was found to be a very suitable ingredient in the production of some kinds of floor coverings such as linoleum. In this way, a use was found for the vast quantities of poorer quality and less pure gum, that had up till then been discarded as waste. Kauri gum's importance in the manufacture of varnish and linoleum was displaced by synthetic alternatives in the 1930s.\n\n(F) Fossil kauri gum is rather soft and can be carved easily with a knife or polished with fine sandpaper. In the time of Queen Victoria of England (1837-1901), some pieces were made into fashionable amber beads that women wore around their necks. The occasional lump that contained preserved insects was prized for use in necklaces and bracelets. Many of the gum-diggers enjoyed the occasional spell of carving and produced a wide variety of small sculptured pieces. Many of these carvings can be seen today in local museums. Over the years, kauri gum has also been used in a number of minor products, such as an ingredient in marine glue and candles. In the last decades it has had a very limited use in the manufacture of extremely high-grade varnish for violins, but the gum of the magnificent kauri tree remains an important part of New Zealand's history."
+      }
+    }
+  ]
+}

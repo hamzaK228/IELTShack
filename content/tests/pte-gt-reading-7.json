@@ -1,0 +1,583 @@
+{
+  "id": "pte-gt-reading-7",
+  "title": "General Training Reading — Practice Test 7",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Text 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-7-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person with two small children who wants a few hours a week of unskilled work in the early mornings ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person with no experience or qualifications who is looking for a short term full¬time job, Monday to Friday ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a lively student with no experience, who cannot work on weekdays ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person with more than 20 years' experience in catering who would like to run a business ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a catering college graduate who is now looking for his first full-time job ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person with many years' experience working in hotels who is now looking for well- paid part-time employment in a hotel ______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Text 1",
+        "text": "A\n\nHELP- snack bar serving person\n\n– Bright, friendly, experience not essential\n\n– Energy and enthusiasm an absolute must\n\n– Sat & Sun only\n\n– Call or drop in at Kingway Centre, Melbourne/ Royston\n\n– Tel: 01763 24272 and ask for the manager\n\nB\n\nGranta Hotel\n\n– Requires part time silver service waiter/ waitress\n\n– only applicants with experience and good references need apply\n\n– excellent wages, meals on duty\n\n– Tel: 01223 51468 (office hours)\n\nC\n\nWANTED from January till July a nanny/carer for Toby, 2 years\n\n– formal qualifications not as important as a sensible, warm and imaginative approach\n\n– Hours: 8.50 – 5.00 Mon-Fri\n\n– car driver essential, non-smoker\n\n-references required\n\n– for further details phone: 01480 88056 after 6 pm\n\nD\n\nCleaner required for 12 floor modern office block in the Station road area St. Ives\n\n– 2 hours per day, Mondays to Fridays\n\n– to finish work before the office opens\n\nWages: $80 per week\n\nTel: 01223 93292\n\nE\n\nMature, experienced administrator/ secretary for soft furnishing company, working within hotel industry\n\nHours: 1 pm – 5 pm, Mon-Fri\n\nPhone: Mr. S Quinn 01353 71251\n\nF\n\nFULL – TIME COOK for a new and exciting cafe venture\n\n– good conditions\n\n– pay and hours can be negotiated\n\nApply Red Cafe (01863) 72052\n\nG\n\n50 – SEATER REATAURANT TO LET\n\n– ideal for very experienced person looking to start up on their own\n\n– located on busy A10 road\n\n– reply Box No. P762, New Market Newspaper Ltd., 51 Cambridge Road, New Market, CB8 3BN"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: INTERCITY Sleeper between London and Scotland",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-7-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There are advantages if you book a journey with a friend. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You cannot use this on a Friday. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This can be used without restriction. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This can only be booked up to 7 days before departure. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It's the cheapest ticket available but there is a restriction on departure time. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "If you decide not to travel after you have bought the ticket, you cannot get your money back. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This is not available if you're travelling out on a Monday and back the next day. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You cannot use this ticket for departures between midnight and 10am. ______",
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "INTERCITY Sleeper between London and Scotland",
+        "text": "Most tickets may be used for travel by Sleeper, subject to availability, and a reservation in a two- berth cabin can be made for £25, except in the case of Solo and Special tickets, which include Sleeper reservations in the fare. The price includes early morning tea or coffee and biscuits. A continental or hot breakfast can be ordered if you wish. Choose from a range of tickets to suit your journey.\n\nA – SuperApex Only available for travel after 9am. Book at least 2 weeks ahead and travel between Edinburgh or Glasgow and London for the unbeatable price of £59 return. This ticket is non-refundable unless the service is cancelled.\n\nB – Apex Areal bargain fare. Only £69 return between Edinburgh or Glasgow and London. Great value Sleeper travel available by booking at least a week before outward travel. Ticket refundable on payment of a 25% administrative charge.\n\nC – SuperSaver Available right up to the day of travel and valid any day except these peak days: all Fridays, also 18-30 December, 31 March and 28 May. Departures between midnight and 2am count as previous day's departures. London to Glasgow or Edinburgh £82.\n\nD – Saver This flexible ticket is valid every day and can be bought on the day of travel. Your ticket allows standard class travel on any train between 10am and midnight. No seat reservations available. London to Glasgow or Edinburgh £95.\n\nE – Solo Treat yourself and enjoy exclusive use of a Standard cabin. Solo is an inclusive return travel ticket with Sleeper reservations for one or both directions. Outward and return reservations should be made at the time of booking. The journey must include a Saturday night away. £140-£160 London to Edinburgh/Glasgow return.\n\nF – Special Special is an inclusive return travel package for two people including sleeper reservations for one or both directions. It can mean savings for both of you. Outward and return reservations should be made at the time of booking. From £120.\n\nG – Standard Not the cheapest option but available up to the time of travel and valid for all trains and at all times. You are advised to turn up early for travel on a Friday."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: formal dress code for company employees",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-7-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Aim of formal dress code: to present a ______to clients",
+          "answer": "Professional IMAGE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "State of clothes: they must be ______and in good condition",
+          "answer": "Pressed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "-these must be ______and not brightly coloured",
+          "answer": "Tasteful",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "-these sometimes cause ______",
+          "answer": "allergic reactions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "-head covers in line with religious reasons or ______are allowed",
+          "answer": "cultural tradition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "-clothing with the ______on it is recommended",
+          "answer": "company logo",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Breaking the dress code: if advice is repeatedly ignored, a ______is given",
+          "answer": "verbal warning",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "formal dress code for company employees",
+        "text": "At Transit European, the company's objective in establishing a formal dress code is to enable our employees to project the professional image that is in keeping with the needs of our clients and customers who seek our guidance, input, and professional services. Because our industry requires the appearance of trusted business professionals and we serve clients at our site on a daily basis, a more formal dress code is necessary for our employees.\n\nFormal Dress Code Guidelines In a formal business environment, the standard of dressing for men and women is a suit. Alternatively a jacket may be worn with appropriate accessories. Torn, dirty, or frayed clothing is unacceptable. Clothing should be pressed and never wrinkled. No dress code can cover all contingencies so employees must exert a certain amount of judgement in their choice of clothing to wear to work. If you experience uncertainty, please ask your supervisor for advice.\n\nShoes and Footwear Conservative walking shoes, dress shoes, loafers, boots, flats, dress heels, and backless shoes are acceptable for work. Not wearing stockings or socks is inappropriate. Tennis shoes and any shoe with an open toe are not acceptable in the office.\n\nAccessories and Jewellery The wearing of ties, scarves, belts, and jewellery is encouraged, provided they are tasteful. Items which are flashy should be avoided.\n\nMakeup, Perfume, and Cologne\n\n(A) professional appearance is encouraged and excessive makeup is unprofessional. Remember that some employees may have allergic reactions to the chemicals in perfumes and makeup, so wear these substances in moderation.\n\nHats and Head Covering Hats are not appropriate in the office. Head covers that are required for reasons of faith or to honour cultural tradition are permitted.\n\nDress Down Days Certain days can be declared dress down days, generally Fridays. On these days, business casual clothing is allowed. Clothing that has our company logo is strongly encouraged. Sports team, university, and fashion brand names on clothing are generally acceptable. However, you may wish to keep a jacket in your office in case a client unexpectedly appears.\n\nViolation of Dress Code If clothing fails to meet these standards, as determined by the employee's supervisor, the employee will be asked not to wear the inappropriate item to work again. If the problem persists, the employee will receive a verbal warning and may be sent home to change clothes."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: jlp retail: staff benefits",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-7-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Pay increases depend on the that each member of staff makes. ______",
+          "answer": "progress",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees must work a minimum of to be eligible for a pension. ______",
+          "answer": "five years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Staff may take a holiday at one of the provided by the company. ______",
+          "answer": "(residential) clubs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The company pay half the seat price for and plays. ______",
+          "answer": "concerts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The company gives financial assistance for both educational courses and as part of staff development. ______",
+          "answer": "leisure skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees may be entitled to a if they find themselves in difficult circumstances. ______",
+          "answer": "loan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the procedure for sorting through the remains of the fire",
+          "options": [
+            {
+              "id": "A",
+              "text": "all the contents of the ground floor."
+            },
+            {
+              "id": "B",
+              "text": "most of the contents of the basement."
+            },
+            {
+              "id": "C",
+              "text": "the roof of the house."
+            },
+            {
+              "id": "D",
+              "text": "all the contents of the first floor."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how Uppark looked after the fire",
+          "options": [
+            {
+              "id": "A",
+              "text": "all the contents of the ground floor."
+            },
+            {
+              "id": "B",
+              "text": "most of the contents of the basement."
+            },
+            {
+              "id": "C",
+              "text": "the roof of the house."
+            },
+            {
+              "id": "D",
+              "text": "all the contents of the first floor."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "improvements made to the rebuilt Uppark",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the selection of people to carry out the repair work",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "why the National Trust chose to rebuild Uppark",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how people reacted to the rebuilt Uppark",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On what date in 1989 should the original repairs to the roof have been completed? ______",
+          "answer": "august 31st",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "By what method were things rescued immediately from the burning house? ______",
+          "answer": "human chain/chains",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After the fire, what did the conservators require large quantities of immediately? ______",
+          "answer": "blotting paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Into what did the conservation put material recovered from the fire? ______",
+          "answer": "(countless) dustbins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The fire destroyed",
+          "options": [
+            {
+              "id": "A",
+              "text": "all the contents of the ground floor."
+            },
+            {
+              "id": "B",
+              "text": "most of the contents of the basement."
+            },
+            {
+              "id": "C",
+              "text": "the roof of the house."
+            },
+            {
+              "id": "D",
+              "text": "all the contents of the first floor."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "One of the reasons the National Trust decided to rebuild Uppark was that",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Meade-Featherstonhaugh family wanted them to."
+            },
+            {
+              "id": "B",
+              "text": "the building as it stood was unsound."
+            },
+            {
+              "id": "C",
+              "text": "they wouldn’t have to pay for the repairs."
+            },
+            {
+              "id": "D",
+              "text": "nothing on this scale had been tried before."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-7-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Some of the craftsmen and women employed in the restoration of Uppark have benefited because",
+          "options": [
+            {
+              "id": "A",
+              "text": "they were very well paid for doing intricate work."
+            },
+            {
+              "id": "B",
+              "text": "their businesses have become more competitive."
+            },
+            {
+              "id": "C",
+              "text": "they were able to work with Grinling Gibbons"
+            },
+            {
+              "id": "D",
+              "text": "they acquired skills they did not have previously."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "jlp retail: staff benefits",
+        "text": "Whatever your role, your pay range will be extremely competitive and reviewed in the light of your progress. In addition to your salary, you will enjoy an array of excellent benefits from the moment you join the company.\n\nPaid holiday The holiday entitlement is four weeks per year, rising to five weeks after three years (or in the case of IT graduate trainees, after promotion to programmer or trainee analyst). There are further long-service increases for most staff after ten or fifteen years. Managers, including graduate trainees, receive five weeks' holiday from the outset.\n\nPension scheme We offer a non-contributory final salary pension scheme, payable from the age of 60, to most staff who have completed the qualifying period of five years.\n\nLife assurance Our life assurance scheme pays a sum equivalent to three times your annual salary to your nominated beneficiary.\n\nDiscounts After three months' service, all staff are entitled to a 12% discount on most purchases from the company's stores. This rises to 25% after one year's service.\n\nSubsidised dining room In most sites, we provide a dining room where you can enjoy excellent food at very reasonable prices.\n\nHoliday and leisure facilities The business owns a number of residential clubs which offer subsidised holiday accommodation for staff with at least three years' service.\n\nSports clubs We support an extensive range of sports activities including football, netball, golf, skiing, sailing, squash, riding and gliding.\n\nTicket subsidies Ticket subsidies of 50% of the cost of plays or concerts are available. Staff may also take advantage of corporate membership to bodies such as the Science Museum.\n\nEducation subsidies We give generous financial support to staff who wish to acquire leisure skills or continue their education, e.g. through the Open University or evening classes.\n\nExtended leave Staff who complete 25 years' service can enjoy paid sabbatical leave of up to six months.\n\nHealth services We have an occupational health service staffed by full-time doctors and health advisers.\n\nFinancial help, benefits and discounted deals In cases of particular hardship, we will help staff with a loan. We have also negotiated a range of benefits for staff such as discounted private healthcare and a car purchase scheme, along with a number of one-off deals with hotels and amusement parks."
+      }
+    }
+  ]
+}

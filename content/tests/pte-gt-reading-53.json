@@ -1,0 +1,663 @@
+{
+  "id": "pte-gt-reading-53",
+  "title": "General Training Reading — Practice Test 53",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: New York Late-Starters String Orchestra",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-53-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The idea behind NYLSO was based on another orchestra. ______",
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "An ability to read music is essential. ______",
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The NYLSO might be unsuitable for very advanced level musicians. ______",
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NYLSO concerts are free to members' families and friends. ______",
+          "answer": "Not given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Rehearsals always involve the full orchestra playing together. ______",
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The conductor provides her services free to NYLSO. ______",
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The NYLSO gives advice on what instrument to purchase. Kate Hilpern advises people on the best watches to use when they go running. ______",
+          "answer": "Not given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q8",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This would be a suitable and not too expensive first watch for a runner.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Care has been taken to make this watch very attractive to look at.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This watch can be programmed to let the runner know when it is time to get some refreshment.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This watch will need recharging at frequent intervals.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Both experienced and inexperienced runners will find this watch useful.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q13",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Runners will find all the features on this watch are useful.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "People who do most of their running in cities may find this watch is not appropriate for them.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soleus FIT 1.0"
+            },
+            {
+              "id": "B",
+              "text": "Nike+ SportWatch GPS"
+            },
+            {
+              "id": "C",
+              "text": "Garmin Forerunner"
+            },
+            {
+              "id": "D",
+              "text": "Timex Run Trainer 2.0"
+            },
+            {
+              "id": "E",
+              "text": "Garmin Forerunner 10"
+            },
+            {
+              "id": "F",
+              "text": "Nike Fuelband"
+            },
+            {
+              "id": "G",
+              "text": "Suunto Ambit2 S HR"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "New York Late-Starters String Orchestra",
+        "text": "NYLSO, the New York Late-Starters String Orchestra, is something special. It was founded in early 2007, and grew out of a concept developed by The East London Late Starters Orchestra (ELLSO), an award-winning group in England. NYLSO is an amateur orchestra for adult players of violin, viola, cello, and double bass. If you played a string instrument when you were younger and would like to start again, or if you are learning as an adult and would like the chance to play in a group of similar people, then NYLSO is for you! Our goal is to create a fun, supportive, non-competitive environment for adults 18 to 80+ who wish to participate in collective music¬making. Participants should have basic music reading skills and a willingness to commit to the group, but are not required to audition. It is recommended that you have studied your instrument for at least one year. If you have ever been paid to play your instrument, recently graduated with a degree in performance, or have been playing continuously since elementary school, you may decide we are not the appropriate group for you.\n\nHow We Work: We know that New Yorkers are busy people. It is fine if you miss an entire rehearsal period when an emergency arises. Ultimately, though, too many absences disrupt the function of the group and make it difficult to perform the pieces. Sessions are in six-week rehearsal cycles, with two-hour rehearsals held once a week. We work with the goal of producing one to three very informal 'friends-and-family' concerts per year. Our professional tutor/facilitator serves as coach and conductor during rehearsals. Substitute conductors also join in to teach different sections, providing groups of players with valuable experience in working with different approaches and styles. Everyone is encouraged to play to their fullest potential, whatever that may be, but please recognize that while we do have a conductor, her role is not to provide one-on-one instruction during rehearsals. NYLSO is a self-supporting collective; we do not receive any other funding. The cost is $80 for each six-week cycle. Payments are applied to the costs of rehearsal space, conductor's fees, and photocopying music.\n\nMaterials You Will Need At Rehearsals: You will need an instrument, a portable music stand, and any other relevant accessories. You should bring a folder to keep your music together and a soft-lead pencil with an eraser for writing in changes. Sheet music is provided.\n\nIn boxes 1-7 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this 1. The idea behind NYLSO was based on another orchestra. 2. An ability to read music is essential. 3. The NYLSO might be unsuitable for very advanced level musicians. 4. NYLSO concerts are free to members' families and friends. 5. Rehearsals always involve the full orchestra playing together. 6. The conductor provides her services free to NYLSO. 7. The NYLSO gives advice on what instrument to purchase. Kate Hilpern advises people on the best watches to use when they go running.\n\nA Soleus FIT 1.0 Soleus claims this has everything you need and nothing you don't. Water- resistant to 30m and with a built-in rechargeable battery, it's accurate at measuring speed, pace, distance and calories burnt.\n\n(B) Nike+ SportWatch GPS You'll be hard pushed to find a running watch that finds a GPS signal quicker than this. It will keep you updated on current location, distance covered, number of laps and calories burnt.\n\n(C) Garmin Forerunner This watch, which is small enough to wear at the office, is touchscreen and is packed with impressive features, although the battery life is limited.\n\nD Timex Run Trainer 2.0 The hi-res screen makes this a great watch for athletes at any level. The easy-to-use, upgraded menu system makes monitoring pace, speed and distance child's play. Alerts remind you when it's time to hydrate or top up the nutrition.\n\n(E) Garmin Forerunner 10 This is a well-priced, entry-level watch that's light as well as waterproof and available in a range of colours. Don't expect added extras, but do expect good basic functionality.\n\n(F) Nike Fuelband Described by the Huffington Post as 'the sports watch you never knew you needed,' this soft-touch and lightweight watch has been lovingly designed to appear more like a piece of futuristic jewellery than a running watch. But it's hi-tech too and synchronises with your phone to show the results.\n\n(G) Suunto Ambit2 S HR This is better suited to off-roaders rather than urban runners and although it's quite big, it has a functional design and is compatible with the thousands of Suunto apps available. For which running watch are the following statements true? Write the correct letter, A-G, in boxes 8-14 on your answer sheet NB You may use any letter more than once. 8. This would be a suitable and not too expensive first watch for a runner. 9. Care has been taken to make this watch very attractive to look at. 10. This watch can be programmed to let the runner know when it is time to get some refreshment. 11. This watch will need recharging at frequent intervals. 12. Both experienced and inexperienced runners will find this watch useful. 13. Runners will find all the features on this watch are useful. 14. People who do most of their running in cities may find this watch is not appropriate for them. Read the text below and answer Questions 15-22."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Employees' health and safety responsibilities",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-53-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• are established by ______ and include the following:",
+          "answer": "Law",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– any ______ needed for employees to work safely should be free",
+          "answer": "Equipment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– employees may inform management of any ______ they have relating to health and safety",
+          "answer": "Concerns",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "employees are entitled to some ______ while they are working",
+          "answer": "Breaks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– to avoid putting colleagues and others at ______",
+          "answer": "Risk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– to do any ______ that the employer offers",
+          "answer": "Training",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "to inform the employer of any ______ received while working",
+          "answer": "Injuries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– to make sure the employer knows of any ______ you are taking that might affect performance",
+          "answer": "Medication",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Employees' health and safety responsibilities",
+        "text": "As an employee you have rights and you have responsibilities for your own wellbeing and that of your colleagues. This article explains what these responsibilities are, and how you can meet them.\n\nYour rights Your rights as an employee to work in a safe and healthy environment are set down in law and generally can't be changed or removed by your employer. The most important of these rights are:\n\n• as far as possible, to have any hazards to your health and safety properly controlled\n\n• to be given any personal protective and safety equipment without being charged for it\n\n• to stop work and leave your work area, without being disciplined, if you have reasonable concerns about your safety\n\n• to tell your employer about any health and safety concerns you have • not to be disciplined if you contact the Health and Safety Executive, or your local authority, if your employer won't listen to you\n\n• to have breaks during the time you are at work\n\n• to have time off from work during the working week • to have annual paid holiday.\n\nYour responsibilities\n\nYour most important responsibilities as an employee are:\n\n• to take reasonable care of your own health and safety\n\n• to remove jewellery and avoid loose clothing when operating machinery\n\n• if you have long hair, or wear a headscarf, make sure it's tucked out of the way as it could get caught in machinery • to take reasonable care not to expose fellow employees and members of the public to risk by what you do or don't do in the course of your work • to co-operate with your employer, making sure you complete the training that is provided and that you understand and follow the company's health and safety policies\n\n• not to interfere with or misuse anything that's been provided for your health, safety or welfare • to report any injuries you suffer as a result of doing your job – your employer may then need to change the way you work. If you drive or operate machinery, you have a responsibility to tell your employer if you take medication that makes you feel sleepy. If you do, they should temporarily move you to another job if they have one for you to do."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Our company notices",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-53-q23",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Staff are needed to work on internal communications. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q24",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People are needed to help improve an internal system. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q25",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Staff are asked if they want to take part in an internal competition. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q26",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Volunteers are asked to work overtime for a limited period. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q27",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Staff will be told where to work temporarily. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Our company notices",
+        "text": "(A) Advance warning Refurbishment of offices in the Perkins Building will start on Monday 22 May, and is expected to be completed by the end of June. Staff based in that building will be individually notified of where they'll work for that time. On the previous Friday, facilities staff will move everything that needs to go to your new office. Before then, please make a list of what should be moved, and another list of what can be stored.\n\n(B) Information about financial systems The review of the company's financial systems is now complete, and modifications will shortly be introduced. Jane Phillips from Finance will explain the changes and how they affect you, and answer any queries about them, between 12 and 1 pm on 15 March in Room 5.\n\n(C) Purchasing Manager As you probably know, Sadia Ahmed is leaving the company on 31 March, after ten years as Purchasing Manager. Her replacement, Jeff Bridges, will join us on the previous Monday. Jeff will be in Room 70 between 12 and 2 pm on 3 April: feel free to drop in and say hello to him during your lunch break.\n\n(D) We're doing well! We've received a large and urgent order from one of our major customers. As a result, we'll need to run the production line for an additional three hours each evening throughout the week beginning 13 March. Any production workers willing to do this shift in addition to their normal work should speak to the Production Manager asap.\n\n(E) Quality control Because of recent concerns about product quality, we're setting up a team to consider ways of raising quality and making recommendations for changes. As staff from any department might have useful ideas, anyone is welcome to join the team – ring Rodrigo Perez on 1012. It will involve fortnightly meetings and some research, over a six-month period.\n\n(F) New opportunity Dev Patel will cease to be part-time content editor of the company intranet at the end of April, as his new role in Marketing leaves him no time for it. We're looking for two people to take over. If you're interested, and can work an extra three or four hours a week (for extra pay, of course!), contact Maggie Campbell on 2146.\n\n(G) And finally… We hope to re-start the company tennis championship, which hasn't taken place for the last three years. If this is something for you, talk to Bill Sinclair on extension 2371. You don't need to be a star player! For which company notice are the following statements true?\n\nWrite the correct letter, A-G, in boxes 23-27 on your answer sheet 23. Staff are needed to work on internal communications. 24. People are needed to help improve an internal system. 25. Staff are asked if they want to take part in an internal competition. 26. Volunteers are asked to work overtime for a limited period. 27. Staff will be told where to work temporarily. Read the text below and answer Questions 28-40."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Vanilla – the most wonderful flavor in the world",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-53-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The vanilla that is grown here was created from more than one type of vanilla plant. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This vanilla is often mixed with other types of vanilla. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Some people claim that this country produces the finest vanilla. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This vanilla goes well with both sweet and savoury ingredients. List of Countries",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mexico"
+            },
+            {
+              "id": "B",
+              "text": "Madagascar"
+            },
+            {
+              "id": "C",
+              "text": "Tahiti"
+            },
+            {
+              "id": "D",
+              "text": "Indonesia Choose the correct letter, A, B, C or D. Write the correct letter in boxes 32-34 on your answer sheet."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What prevented countries, apart from Mexico, from growing vanilla in the 17th and 18th centuries?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Aztecs’ refusal to let the pods be exported"
+            },
+            {
+              "id": "B",
+              "text": "the lack of the most suitable pollinating insect"
+            },
+            {
+              "id": "C",
+              "text": "the widespread ignorance of the existence of the plant"
+            },
+            {
+              "id": "D",
+              "text": "the poor condition of the vanilla pods that Cortez collected"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer suggest was the main reason for the success of vanilla cultivation on Madagascar?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the adoption of a particular agricultural technique"
+            },
+            {
+              "id": "B",
+              "text": "the type of vanilla orchid that was selected"
+            },
+            {
+              "id": "C",
+              "text": "the unique quality of the soil on the islan"
+            },
+            {
+              "id": "D",
+              "text": "the rapidly increasing number of growers"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer believes that Madagascan vanilla is so popular because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it works well in a variety of main courses and puddings."
+            },
+            {
+              "id": "B",
+              "text": "its pod is less likely than others to break up when it is cooked."
+            },
+            {
+              "id": "C",
+              "text": "its taste is widely considered to be the standard taste of vanilla."
+            },
+            {
+              "id": "D",
+              "text": "it is the one that is used in a number of commercial frozen desserts."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn ______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the 36______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages 37______Gradually, the 38______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their 39______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of 40______within them is reduced.",
+          "answer": "Brown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn 35______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the ______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages 37______Gradually, the 38______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their 39______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of 40______within them is reduced.",
+          "answer": "Sunlight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn 35______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the 36______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages ______Gradually, the 38______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their 39______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of 40______within them is reduced.",
+          "answer": "transpiration",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn 35______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the 36______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages 37______Gradually, the ______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their 39______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of 40______within them is reduced.",
+          "answer": "weight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn 35______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the 36______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages 37______Gradually, the 38______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their ______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of 40______within them is reduced.",
+          "answer": "fingers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-53-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tahitian farmers start by leaving the pods to turn 35______all over. They then wash them quickly before the main stage of the curing process begins. They place the pods in the 36______during the early part of the day. Cloths are then wrapped round them and they are left in boxes overnight. This procedure encourages 37______Gradually, the 38______of the individual pods starts to decrease. While this is happening, the farmers continue to work on the pods. They use their 39______to flatten them out. For the last stage in the curing process, the pods are kept in a cool place which is open to the air, so that the amount of ______within them is reduced.",
+          "answer": "moisture",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Vanilla – the most wonderful flavor in the world",
+        "text": "Vanilla is the most popular and widely used flavor in the world. And, yet, the vanilla orchid is only grown in a few countries. Below you'll discover why these countries are ideal and how the vanilla from each region differs.\n\nMexico Vanilla ('Vanilla planifolia Andrews) originated in Mexico and for centuries was the exclusive secret of the native Totonac Indians, who were later conquered by the Aztecs. The Aztecs in turn were conquered by the Spanish forces led by Cortez in 1520. He brought vanilla pods home to Spain, thus introducing the flavorful pods to the rest of the world. However, Mexico remained the sole grower of vanilla for another 300 years. The particular relationship between the vanilla orchid and an indigenous bee called the Melipone was crucial. It was responsible for pollinating the flowers, resulting in fruit production. Vanilla pods should be picked when the tip begins to turn yellow. The curing process gives the pods their characteristic brown color as well as their flavor and aroma. In Mexico, farmers cure the pods by wrapping them in blankets and straw mats and then placing them in ovens for 24 to 48 hours. After that, the pods are spread outdoors to absorb heat during the day and then placed in wooden boxes overnight. Once properly cured, they are stored to further develop the flavor. The entire curing process takes three to six months, making it a very labor-intensive process. Vanilla from Mexico has a flavor that combines creamy tones with a deep, spicy character, making it a delicious complement to chocolate, cinnamon and other warm spices. It also works wonderfully in tomato sauces.\n\nMadagascar Around 1793, a vanilla plant was smuggled from Mexico to the Island of Reunion, east of Africa. For almost 50 years, the production of vanilla struggled. The vines grew successfully with beautiful blossoms but vanilla pods were infrequent. Without the Melipone bee, the flowers weren't being fertilized beyond occasional pollination by other insects. It wasn't until 1836 that Charles Morren, a Belgian botanist, discovered the pollination link between bee and plant. And then in 1841, Edmond Albius of Reunion developed an efficient method for fertilizing the flower by hand. Now, growers could choose the best flowers to pollinate, resulting in a healthier and higher quality vanilla pod. Eventually, the plants arrived on the nearby island of Madagascar, where hand pollination proved its worth. Assisted by the climate and rich soil, hand pollination by the country's skilled farmers has enabled Madagascar to become the world's top vanilla producer in quantity and, many would argue, quality The curing process is similar to that in Mexico with one difference. The farmers initiate the process by immersing the green vanilla pods in hot water for some time. They then store them in sweat boxes before beginning the routine of spreading them outdoors during the day and packing them away at night. The different curing method used contributes to the overall flavor of the vanilla. The sweet, creamy and mellow flavor is the one most people identify with vanilla. This flavor and the pod's ability to hold that flavor in both hot and cold applications make it an exceptional 'all-purpose' vanilla which is many people's first choice for a wide range of sweet recipes – from cooking and baking to ice creams and buttercreams.\n\nTahiti Like the other countries, Tahiti's tropical climate makes it ideal for growing vanilla. However, Tahiti differs in the species of vanilla that is most common: Vanilla tahitensis Moore. This is the hybrid of two vanilla species introduced in the 1800s. These two species were skilfully crossed in the next few decades, to create the plump Tahitian vanilla pods we know today. The curing process also differs from other countries'. Mature pods are first stacked in a cool place until they are completely brown (five to ten days) and then rinsed briefly in clear water, a unique characteristic of the method used in Tahiti. For the next month, growers expose the pods to the gentle morning sunlight. In the afternoon, they bind the pods in cloths and store them in crates until the next morning, to promote transpiration. Little by little, the vanilla pods lose weight and shrink. Throughout this phase, the workers carefully smooth and even out the pods with their fingers. Then after a month, the final step is to leave the pods in a shaded and well-ventilated spot for 40 days to lower their moisture content. This species of orchid combined with Tahiti's advantageous climate and soil results in a vanilla that has fruity and sweet tones. Tahitian vanilla is especially vulnerable to heat and is therefore best used in refrigerated and frozen desserts, fruit pies and smoothies.\n\nIndonesia Indonesia is the second largest producer of vanilla. However, Indonesian production methods focus on quantity over quality. Unlike other regions, where vanilla beans are picked only when ripe, Indonesian growers harvest all the beans at one time, a labor-saving adjustment. The curing process also features production shortcuts such as the use of propane heaters to speed up drying. The use of such heat, which chemically alters the beans, essentially 'bums off flavor components while adding a smoky tone, resulting in a less complex taste and a sharper flavor. Indonesian vanilla works well when blended with vanillas from other regions and, because it's more economical, it makes the end product more affordable. Look at the following statements (Questions 28-31) and the list of countries below. Match each statement with the correct country, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 28-31 on your answer sheet. 28 The vanilla that is grown here was created from more than one type of vanilla plant. 29 This vanilla is often mixed with other types of vanilla. 30 Some people claim that this country produces the finest vanilla. 31 This vanilla goes well with both sweet and savoury ingredients.\n\nList of Countries\n\n(A) Mexico\n\n(B) Madagascar\n\n(C) Tahiti\n\n(D) Indonesia Choose the correct letter, A, B, C or D. Write the correct letter in boxes 32-34 on your answer sheet. 32 What prevented countries, apart from Mexico, from growing vanilla in the 17th and 18th centuries?\n\n(A) the Aztecs' refusal to let the pods be exported\n\n(B) the lack of the most suitable pollinating insect\n\n(C) the widespread ignorance of the existence of the plant\n\n(D) the poor condition of the vanilla pods that Cortez collected 33 What does the writer suggest was the main reason for the success of vanilla cultivation on Madagascar?\n\n(A) the adoption of a particular agricultural technique\n\n(B) the type of vanilla orchid that was selected\n\n(C) the unique quality of the soil on the islan\n\n(D) the rapidly increasing number of growers\n\n34 The writer believes that Madagascan vanilla is so popular because\n\n(A) it works well in a variety of main courses and puddings.\n\n(B) its pod is less likely than others to break up when it is cooked.\n\n(C) its taste is widely considered to be the standard taste of vanilla.\n\n(D) it is the one that is used in a number of commercial frozen desserts."
+      }
+    }
+  ]
+}

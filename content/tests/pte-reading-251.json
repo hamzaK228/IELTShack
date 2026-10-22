@@ -1,0 +1,1236 @@
+{
+  "id": "pte-reading-251",
+  "title": "Academic Reading — Practice Test 251",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Father of modern management",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-251-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "The popularity and impact of Drucker's work"
+            },
+            {
+              "id": "ii",
+              "text": "Finding fault with Drucker"
+            },
+            {
+              "id": "iii",
+              "text": "The impact of economic globalisation"
+            },
+            {
+              "id": "iv",
+              "text": "Government regulation of business"
+            },
+            {
+              "id": "v",
+              "text": "Early publications of Drucker's"
+            },
+            {
+              "id": "vi",
+              "text": "Drucker's view of balanced management"
+            },
+            {
+              "id": "vii",
+              "text": "Drucker's rejection of big business"
+            },
+            {
+              "id": "viii",
+              "text": "An appreciation of the pros and cons of Drucker's work"
+            },
+            {
+              "id": "ix",
+              "text": "The changing role of the employee"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Drucker believed the employees should enjoy the same status as the employers in a company",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Drucker argued the managers and politicians will dominate the economy during a social transition",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Drucker support that workers are not simply put themselves just in the employment relationship and should develop their resources of intelligence voluntarily",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Drucker's work on the management is out of date in moderns days",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q11",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following are true of Drucker's views?",
+          "options": [
+            {
+              "id": "A",
+              "text": "High rank executives and workers should be put in balanced positions in management practice"
+            },
+            {
+              "id": "B",
+              "text": "Young executives should be given chances to start from low level jobs"
+            },
+            {
+              "id": "C",
+              "text": "More emphasis should be laid on fostering the development of the union"
+            },
+            {
+              "id": "D",
+              "text": "Management should facilitate workers with tools of self-appraisal instead of controlling them from the outside force"
+            },
+            {
+              "id": "E",
+              "text": "Leaders should go beyond the scope of management details and strategically establish goals"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q12",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following are true of Drucker's views?",
+          "options": [
+            {
+              "id": "A",
+              "text": "High rank executives and workers should be put in balanced positions in management practice"
+            },
+            {
+              "id": "B",
+              "text": "Young executives should be given chances to start from low level jobs"
+            },
+            {
+              "id": "C",
+              "text": "More emphasis should be laid on fostering the development of the union"
+            },
+            {
+              "id": "D",
+              "text": "Management should facilitate workers with tools of self-appraisal instead of controlling them from the outside force"
+            },
+            {
+              "id": "E",
+              "text": "Leaders should go beyond the scope of management details and strategically establish goals"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q13",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "I OSU researchers throughout the state have been working to reduce dependence on broad-spectrum chemical spays that are toxic to many kinds of organisms, including humans. \"Consumers are rightly putting more and more pressure on the industry to change its reliance on chemical pesticides, but they still want a picture-perfect product,\" said Rick Hilton, an entomologist at OSU's Southern Oregon Research and Extension Centre, where researches help pear growers reduce the need for highly toxic pesticides. Picture perfect pears are an important product in Oregon and traditionally they have required lots of chemicals. In recent years, the industry has faced stiff competition from overseas producers, so any new methods that growers adopt must make sense economically as well as environmentally. Hilton is testing a growth regulator that interferes with the molting of codling moth larvae. Another study used pheromone dispensers to disrupt codling moth mating. These and other methods of integrated pest management have allowed pear growers to reduce their use of organophosphates by two-thirds and reduce all other synthetic pesticides by even more and still produce top-quality pears. These and other studies around the state are part of the effort of the IPPC to find alternative farming practices that benefit both the economy and the environment.",
+          "options": [
+            {
+              "id": "A",
+              "text": "His lectures focus too much on big organisations and ignore the small ones"
+            },
+            {
+              "id": "B",
+              "text": "His lectures are too broad and lack of being precise and accurate about the facts"
+            },
+            {
+              "id": "C",
+              "text": "He put a source of objectives more on corporate executives but not on average workers"
+            },
+            {
+              "id": "D",
+              "text": "He acted much like a maverick and did not set up his own management groups"
+            },
+            {
+              "id": "E",
+              "text": "He was overstating the case for knowledge workers when warning businesses to get prepared"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q14",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "I OSU researchers throughout the state have been working to reduce dependence on broad-spectrum chemical spays that are toxic to many kinds of organisms, including humans. \"Consumers are rightly putting more and more pressure on the industry to change its reliance on chemical pesticides, but they still want a picture-perfect product,\" said Rick Hilton, an entomologist at OSU's Southern Oregon Research and Extension Centre, where researches help pear growers reduce the need for highly toxic pesticides. Picture perfect pears are an important product in Oregon and traditionally they have required lots of chemicals. In recent years, the industry has faced stiff competition from overseas producers, so any new methods that growers adopt must make sense economically as well as environmentally. Hilton is testing a growth regulator that interferes with the molting of codling moth larvae. Another study used pheromone dispensers to disrupt codling moth mating. These and other methods of integrated pest management have allowed pear growers to reduce their use of organophosphates by two-thirds and reduce all other synthetic pesticides by even more and still produce top-quality pears. These and other studies around the state are part of the effort of the IPPC to find alternative farming practices that benefit both the economy and the environment.",
+          "options": [
+            {
+              "id": "A",
+              "text": "His lectures focus too much on big organisations and ignore the small ones"
+            },
+            {
+              "id": "B",
+              "text": "His lectures are too broad and lack of being precise and accurate about the facts"
+            },
+            {
+              "id": "C",
+              "text": "He put a source of objectives more on corporate executives but not on average workers"
+            },
+            {
+              "id": "D",
+              "text": "He acted much like a maverick and did not set up his own management groups"
+            },
+            {
+              "id": "E",
+              "text": "He was overstating the case for knowledge workers when warning businesses to get prepared"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Father of modern management",
+        "text": "(A) Peter Drucker was one of the most important management thinkers of the past hundred years. He wrote about 40 book and thousands of articles and he never rested in his mission to persuade the world that management matters. \"Management is an organ of institutions … the organ that converts a mob into an organisation, and human efforts into performance.\" Did he succeed? The range of his influence was extraordinary. Wherever people grapple with tricky management problems, from big organizations to small ones, from the public sector to the private, and increasingly in the voluntary sector, you can find Drucker's fingerprints.\n\n(B) His first two books – The End of Economic Man (1939) and The Future of Industrial Man (1942) – had their admirers, including Winston Churchill, but they annoyed academic critics by ranging so widely over so many different subjects. Still, the second of these books attracted attention with its passionate insistence that companies had a social dimension as well as an economic purpose. His third book, The Concept of the Corporation, became an instant bestseller and has remained in print ever since.\n\n(C) The two most interesting arguments in The Concept of the Corporation actually had little to do with the decentralization fad. They were to dominate his work. The first had to do with \"empowering\" workers. Drucker believed in treating workers as resources rather than just as costs. He was a harsh critic of the assembly-line system of production that then dominated the manufacturing sector – partly because assembly lines moved at the speed of the slowest and partly because they failed to engage the creativity of individual workers. The second argument had to do with the rise of knowledge workers. Drucker argued that the world is moving from an \"economy of goods\" to an economy of \"knowledge\" – and from a society dominated by an industrial proletariat to one dominated by brain workers. He insisted that this had profound implications for both managers and politicians. Managers had to stop treating workers like cogs in a huge inhuman machine and start treating them as brain workers. In turn, politicians had to realise that knowledge, and hence education, was the single most important resource for any advanced society. Yet Drucker also thought that this economy had implications for knowledge workers themselves. They had to come to terms with the fact that they were neither \"bosses\" nor \"workers\", but something in between: entrepreneurs who had responsibility for developing their most important resource, brainpower, and who also needed to take more control of their own careers, including their pension plans.\n\n(D) However, there was also a hard side to his work. Drucker was responsible for inventing one of the rational school of management's most successful products – \"management by objectives\". In one of his most substantial works, The Practice of Management (1954), he emphasised the importance of managers and corporations setting clear long-term objectives and then translating those long-term objectives into more immediate goals. He argued that firms should have an elite corps of general managers, who set these long-term objectives, and then a group of more specialised managers. For his critics, this was a retreat from his earlier emphasis on the soft side of management. For Drucker it was all perfectly consistent: if you rely too much on empowerment you risk anarchy, whereas if you rely too much on command-and-control you sacrifice creativity. The trick is for managers to set long-term goals, but then allow their employees to work out ways of achieving those goals. If Drucker helped make management a global industry, he also helped push it beyond its business base. He was emphatically a management thinker, not just a business one. He believed that management is \"the defining organ of all modern institutions\", not just corporations.\n\n(E) There are three persistent criticisms of Drucker's work. The first is that he focused on big organisations rather than small ones. The Concept of the Corporation was in many ways a fanfare to big organisations. As Drucker said, \"We know today that in modern industrial production, particularly in modern mass production, the small unit is not only inefficient, it cannot produce at all.\" The book helped to launch the \"big organisation boom\" that dominated business thinking for the next 20 years. The second criticism is that Drucker's enthusiasm for management by objectives helped to lead the business down a dead end. They prefer to allow ideas, including ideas for long-term strategies, to bubble up from the bottom and middle of the organisations rather than being imposed from on high. Thirdly, Drucker is criticised for being a maverick who has increasingly been left behind by the increasing rigour of his chosen field. There is no single area of academic management theory that he made his own.\n\n(F) There is some truth in the first two arguments. Drucker never wrote anything as good as The Concept of the Corporation on entrepreneurial start-ups. Drucker's work on management by objectives sits uneasily with his earlier and later writings on the importance of knowledge workers and self-directed teams. But the third argument is short-sighted and unfair because it ignores Drucker's pioneering role in creating the modern profession of management. He produced one of the first systematic studies of a big company. He pioneered the idea that ideas can help galvanise companies. The biggest problem with evaluating Drucker's influence is that so many of his ideas have passed into conventional wisdom. In other words, he is the victim of his own success. His writings on the importance of knowledge workers and empowerment may sound a little banal today. But they certainly weren't banal when he first dreamed them up in the 1940s, or when they were first put in to practice in the Anglo-Saxon world in the 1980s. Moreover, Drucker continued to produce new ideas up until his 90s. His work on the management of voluntary organisations remained at the cutting edge."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: New Agriculture in Oregon, US",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-251-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "There is a double-advantage to the new techniques.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The work on developing these alternative techniques is not finished.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Eating food that has had chemicals used in its production is dangerous to our health.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Changing current farming methods into a new one is not a cheap process.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Results have exceeded the anticipated goal.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The research done should be translated into practical projects.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The U.S. produces the best food in the world nowadays.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Expectations of end-users of agricultural products affect the products.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tony Brown"
+            },
+            {
+              "id": "B",
+              "text": "Patrick Leahy"
+            },
+            {
+              "id": "C",
+              "text": "Bill Bowler"
+            },
+            {
+              "id": "D",
+              "text": "Paul Jepson"
+            },
+            {
+              "id": "E",
+              "text": "Art Pimms"
+            },
+            {
+              "id": "F",
+              "text": "Steve Black"
+            },
+            {
+              "id": "G",
+              "text": "Rick Hilton"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Integrated Pest Management has generally been regarded as a success in across the US.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Oregon farmers of apples and pears have been promoted as successful examples of Integrated Pest Management.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The IPPC uses scientists from different organisations globally",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Straw mulch experiments produced unplanned benefits.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The apple industry is now facing a lot of competition from abroad.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "New Agriculture in Oregon, US",
+        "text": "(A) Onion growers in eastern Oregon are adopting a system that saves water and keeps topsoil in place while producing the highest quality \"super-colossal\" onions. Pear growers in southern Oregon have reduced their use of some of the most toxic pesticides by up to two-thirds, and are still producing top-quality pear. Range managers throughout the state have controlled the poisonous weed tansy ragwort with insect predators and saved the Oregon livestock industry up to $4.8 million a year.\n\n(B) These are some of the results Oregon growers have achieved in collaboration with Oregon State University (OSU) researchers as they test new farming methods including integrated pest management (IPM). Nationwide, however, IPM has not delivered results comparable to those in Oregon. A recent U.S General Accounting Office (GAO) report indicates that while integrated pest management can result in dramatically reduced pesticide use, the federal government has been lacking in effectively promoting that goal and implementing IPM. Farmers also blame the government for not making the new options of pest management attractive. \"Wholesale changes in the way that farmers control the pests on their farms is an expensive business.\" Tony Brown, of the National Farmers Association, says. \"If the farmers are given tax breaks to offset the expenditure, then they would willingly accept the new practices.\" The report goes on to note that even though the use of the riskiest pesticides has declined nationwide, they still make up more than 40 percent of all pesticides used today; and national pesticide use has risen by 40 million kilograms since 1992. \"Our food supply remains the safest and highest quality on Earth but we continue to overdose our farmland with powerful and toxic pesticides and to under-use the safe and effective alternatives,\" charged Patrick Leahy, who commissioned the report. Green action groups disagree about the safety issue. \"There is no way that habitual consumption of foodstuffs grown using toxic chemical of the nature found on today's farms can be healthy for consumers,\" noted Bill Bowler, spokesman for Green Action, one of many lobbyists interested in this issue.\n\n(C) The GAO report singles out Oregon's apple and pear producers who have used the new IPM techniques with growing success. Although Oregon is clearly ahead of the nation, scientists at OSU are taking the Government Accounting Office criticisms seriously. \"We must continue to develop effective alternative practices that will reduce environmental hazards and produce high-quality products,\" said Paul Jepson, a professor of entomology at OSU and new director of\n\n(D) OSU's Integrated Plant Protection Centre (IPPC). The IPPC brings together scientists from OSU's Agricultural Experiment Station, OSU Extension service, the U.S. Department of Agriculture and Oregon farmers to help develop agricultural systems that will save water and soil, and reduce pesticides. In response to the GAO report, the Centre is putting even more emphasis on integrating research and farming practices to improve Oregon agriculture environmentally and economically.\n\n(E) \"The GAO report criticizes agencies for not clearly communicating the goals of IPM,\" said Jepson. \"Our challenge is to greatly improve the communication to and from growers, to learn what works and what doesn't. the work coming from OSU researchers must be adopted in the field and not simply languish in scientific journals.\"\n\n(F) In Oregon, growers and scientists are working together to instigate new practices. For example, a few years ago scientists at OSU's Malheur Experiment Station began testing a new drip irrigation system to replace old ditches that wasted water and washed soil and fertilizer into streams. The new system cut water and fertilizer use by half kept topsoil in place and protected water quality.\n\n(G) In addition, the new system produced crops of very large onions, rated \"super-colossal\" and highly valued by the restaurant industry and food processors. Art Pimms, one of the researchers at Malheur comments: \"Growers are finding that when they adopt more environmentally benign practices, they can have excellent results. The new practices benefit the environment and give the growers their success.\"\n\n(H) OSU researcher in Malheur next tested straw mulch and found that it successfully held soil in place and kept the ground moist with less irrigation. In addition, and unexpectedly, the scientists found that the mulched soil created a home for beneficial beetles and spiders that prey on onion thrips – a notorious pest in commercial onion fields – a discovery that could reduce the need for pesticides. \"I would never have believed that we could replace the artificial pest controls that we had before and still keep our good results,\" commented Steve Black, a commercial onion farmer in Oregon, \"but instead we have actually surpassed expectations.\"\n\n(I) OSU researchers throughout the state have been working to reduce dependence on broad-spectrum chemical spays that are toxic to many kinds of organisms, including humans. \"Consumers are rightly putting more and more pressure on the industry to change its reliance on chemical pesticides, but they still want a picture-perfect product,\" said Rick Hilton, an entomologist at OSU's Southern Oregon Research and Extension Centre, where researches help pear growers reduce the need for highly toxic pesticides. Picture perfect pears are an important product in Oregon and traditionally they have required lots of chemicals. In recent years, the industry has faced stiff competition from overseas producers, so any new methods that growers adopt must make sense economically as well as environmentally. Hilton is testing a growth regulator that interferes with the molting of codling moth larvae. Another study used pheromone dispensers to disrupt codling moth mating. These and other methods of integrated pest management have allowed pear growers to reduce their use of organophosphates by two-thirds and reduce all other synthetic pesticides by even more and still produce top-quality pears. These and other studies around the state are part of the effort of the IPPC to find alternative farming practices that benefit both the economy and the environment."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Terminated Dinosaur Era",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-251-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The author …",
+          "options": [
+            {
+              "id": "A",
+              "text": "believes that man is causing global warming"
+            },
+            {
+              "id": "B",
+              "text": "believes that global warming is a natural process"
+            },
+            {
+              "id": "C",
+              "text": "is sure what the causes of global warming are"
+            },
+            {
+              "id": "D",
+              "text": "does not say what he believes the causes of global warming are"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "As to the cause of global warming, the author believes that …",
+          "options": [
+            {
+              "id": "A",
+              "text": "occasionally the fact depends on who you are talking to"
+            },
+            {
+              "id": "B",
+              "text": "the facts always depend on who you are talking to"
+            },
+            {
+              "id": "C",
+              "text": "often the fact depends on which expert you listen to"
+            },
+            {
+              "id": "D",
+              "text": "you should not speak to experts"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "More than 80% of the top meteorologists in the United States are of the opinion that…",
+          "options": [
+            {
+              "id": "A",
+              "text": "global warming should make us lose sleep"
+            },
+            {
+              "id": "B",
+              "text": "global warming is not the result of oil natural cyclical changes, but man-made"
+            },
+            {
+              "id": "C",
+              "text": "the consequences of global warming will be deviating"
+            },
+            {
+              "id": "D",
+              "text": "global warming is not man-made, but the result of natural cyclical changes."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Our understanding of the weather…",
+          "options": [
+            {
+              "id": "A",
+              "text": "leads to reliable predictions"
+            },
+            {
+              "id": "B",
+              "text": "is variable"
+            },
+            {
+              "id": "C",
+              "text": "cannot be denied"
+            },
+            {
+              "id": "D",
+              "text": "is not very developed yet"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Currently, Dr. James Hansen's beliefs include the fact that …",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is nearly impossible to predict weather change using artificial models"
+            },
+            {
+              "id": "B",
+              "text": "the consequences of global warming would be disastrous in mankind"
+            },
+            {
+              "id": "C",
+              "text": "there is a significant link between the climate now, mid man’s changing of the atmosphere"
+            },
+            {
+              "id": "D",
+              "text": "Earth is getting colder"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "At the same time that computer-based weather models have become more sophisticated, weather forecasters have become more expert.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most of the increase in global temperature happened in the second half of the twentieth century.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The media wants us to blame ourselves for global warming.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The media encourages the public to use environment-friendly vehicles, such as electric cars to combat global warming.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Environmentalists are very effective at persuading people to be kind to the environment.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Many big businesses are on the side of the sceptics as regards the cause of global warming.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As well as planting trees and not driving, the environmentalist would like us to choose products that are wrapped ______ and can be used more than once.",
+          "answer": "In recycled paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-251-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Big businesses would have us believe that we are making too much fuss about global warming, because they have ______",
+          "answer": "Most to lose",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Terminated Dinosaur Era",
+        "text": "(A) Day after day, we hear about how anthropogenic development is causing global warming. According to an increasingly vocal minority, however, we should be asking ourselves how much of this is media hype, and how much is based on real evidence. It seems – as so often is the ease – that it depends on which expert you listen to, or which statistics you study.\n\n(B) Yes, it is true that there is a mass of evidence to indicate that the world is getting warmer, with one of the world's leading weather predictors stating that air temperatures have frown an increase of just under half a degree Celsius since the beginning of the twentieth century. And while this may not sound like anything worth losing sleep over, the interna­tional press would have us believe that the consequences could be devastating. Other ex­perts, however, are of the opinion that what we are seeing is just part of a natural upward and downward swing that has always been part of the cycle of global weather. An analysis of the views of major meteorologists in the United States showed that less than 20% of them believed that any change in temperature over the last hundred years was our own fault – the rest attributed it to natural cyclical changes.\n\n(C) There is, of course, no denying that we are still at a very early stage in understanding weather. The effects of such variables as rainfall, cloud formation, the seas and oceans, gases such as methane and ozone, or even solar energy are still not really understood, and therefore the predictions that we make using them cannot always be relied on. Dr James Hansen, in 19BH, was predicting that the likely effects of global warming would be a raising of the world temperature which would have disastrous consequences for mankind: \"a strong cause arid effect relationship between the current climate and human alteration of the at­mosphere\". He has now gone on record as stating that using artificial models of climate as a way of predicting change is all but impossible. In fact, he now believes that, rather than getting hotter, our planet is getting greener as a result of the carbon dioxide increase, with the prospect of increasing vegetation in areas which in recent history have been frozen wastelands.\n\n(D) In fact, there is some evidence to suggest that as our computer-based weather models have become more sophisticated, the predicted rises In temperature have been cut back. In addi­tion, if we look at the much-reported rise in global temperature over the last century, a close analysis reveals that the lion's share of that increase, almost three quarters in total, occurred before man began to \"poison\" his world with industrial processes and the accom­panying greenhouse gas emissions in the second half of the twentieth century.\n\n(E) So should we pay any attention to those stories that scream out at us from billboards and television news headlines, claiming that man, with his inexhaustible dependence on oil-based machinery and ever more sophisticated forms of transport is creating a nightmare level of greenhouse gas emissions, poisoning his environment and ripping open the ozone layer? Doubters point to scientific evidence, which can prove that, of all the greenhouse gases, only two per cent come from man-made sources, the rest resulting from natural emissions. Who, then, to believe: the environmentalist exhorting us to leave the car at home, to buy re-usable products packaged in recycled paper and to plant trees in our back yard? Or the sceptics, including, of course, a lot of big businesses who have most to lose, when they tell us that we are making a mountain out of a molehill? And my own opinion? The jury's still out as for as I am concerned!"
+      }
+    }
+  ]
+}

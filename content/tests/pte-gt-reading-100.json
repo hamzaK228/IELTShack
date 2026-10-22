@@ -1,0 +1,1032 @@
+{
+  "id": "pte-gt-reading-100",
+  "title": "General Training Reading — Practice Test 100",
+  "kind": "practice",
+  "description": "5 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Wonder Plates",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-100-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ceramic Wonder Plate is a unique gift because it is______",
+          "answer": "Personalized",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The personal message must not exceed ______",
+          "answer": "50 words",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Customers choose from ______ designs.",
+          "answer": "12/ twelve",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Examples of plate designs can be found in the ______",
+          "answer": "(attached) brochure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Price per plate varies depending upon the ______",
+          "answer": "Order size",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ______ must be completed for a quick delivery.",
+          "answer": "Urgent form",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If a customer is not satisfied they should fill in the feedback form or …… ______",
+          "answer": "Call (122523)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Wonder Plates",
+        "text": "Wonder Plate is offering you a unique gift opportunity – a personalised ceramic plate! Ceramic plates make wonderful gifts for loved ones and friends. Each plate contains a special message from you to the recipient. Wonder Plates are both practical and individually unique. Why not surprise a special friend or loved one? All you have to do is to follow these three easy steps: Step 1: On an A4 sheet of paper write a personal message. Write it exactly as you want it to appear on the plate. We recommend a type-written print-out. The message should not be more than 50 words. Step 2: Select one of our 10 plate colour options and a design from one of our 12 design patterns. Each design is completely different so we are confident that you will find at least one to match your taste (please refer to the attached brochure for colours and plate design options). Step 3: Sign the attached form, enclose your personal message, and send these to us together with your payment. Please send only money orders or cheques – DO NOT send cash. Charges: The charge for a standard-sized plate is $20 regardless of the colour you choose. A fixed charge of $100 per plate for the design and printing of the message is also payable. Bulk orders: Your order size can attract a discount! For orders of two to four plates, customers are entitled to a 15% discount. For orders of five to ten plates, the cost per plate reduces to $12 each with message and design printing slashed to $75 per plate. Delivery: Once we receive your order and payment your plate(s) will be sent via regular mail. Delivery can be expected within 14 business days. If you require a faster delivery time, please fill in the Urgent Form and send an additional $30 (guaranteed 3-day delivery). We guarantee your satisfaction, but if for some reason you are not satisfied with our product or service, please fill in the Consumer Feedback Form (included with the brochure) and send it to our Customer Service department. Alternatively, you may call one of our friendly Customer Service Officers on 12 25 23 (toll free).\n\nPlease send your message, form and payment to PO BOX 2350, CYK Phone: 12 25 23 Fax: 0212 125 5624"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Text 2",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-100-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A motorcyclist driving on the wrong side of the road hit my motorcycle and crushed the front wheel and part of the motor. I want to be paid for the loss. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "My friend lives in Malaysia and it is her birthday. I would like to send her some money so that she can buy herself a birthday gift. ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is my wedding anniversary and I want to give a special present to my wife during dinner at home. ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "I have an Italian cookbook but cannot follow it on my own. I need an instructor to help me to understand it. 12. My child's birthday party will be held at home. I would like to take some of my own video and need to buy the right equipment. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 12. ______",
+          "answer": "J",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            },
+            {
+              "id": "J",
+              "text": "Option J"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-100-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "I am going to take my annual leave from my office next month. I am thinking of spending come leisure time overseas. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "My friends are coming from Italy. I need a place for them to stay for 2 or 3 days. ______",
+          "answer": "L",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Text 2",
+        "text": "Look at the advertisements A-L below.\n\n(A) Special Moments\n\nProfessional Family Video We do professional video of any and all family occasions – birthdays, weddings, get-togethers or any other memorable events. Professional editing with music tracks as required. Delivery in CD or DVD format. We tailor our service to meet clients' unique needs. 94, West Church Street. Tel: 541 2548 7121\n\n(B) Peter's Garage – Richmond\n\nFor all your motorcycle repairs and services Grade A certification.\n\nEngine servicing, road safety testing\n\nBody repair, dents fixed Full Breakdown service.\n\n19 Ponds Road, MCT Ring 56 24 87 12 (Hunting line to Richmond and Yarra workshops)\n\n(C) HAD AN ACCIDENT? It is important to exercise your legal rights if you are injured and/or your vehicle is damaged in a road accident that was someone else's fault. Let us explain your rights and help you claim compensation! All our lawyers and solicitors are experts in the field. Free-phone 1900 356 214\n\n(D) Attn: Overseas Visitors!\n\nMoney Matters Reliable Foreign Exchange. Registered and listed company, operating for 30 years. Highest rates, lowest commission. 35/261 Parade Sq.YKS.\n\n021 457 845\n\n(E) Asian Cook Book\n\n(A) wide collection of cook books from Indonesia, Malaysia, India, Singapore, Thailand and many other Asian countries. Thousands of recipes. 25 Sands St.\n\nCall: 013 652 4587\n\n(F) Dream Holiday Your Holiday Experts! Any part of the world -Asia, Europe or the USA. From the flight to the hotel booking – we are here for you!\n\nGive us a call! 066 302 125 99\n\nWest Bank Rd, LM23 CWB\n\n(G) Nutritionist and Chef Dominic Costa' …is now running cooking classes! 4 Albert Avenue, every Sat and Sun from 10.00 AM until 3.00 PM. Learn to prepare dishes from around the world. Limited seats. Enrol now!\n\nCall: 012 344 587\n\n(H) Itantic Italian restaurant, Fully licensed. Our superb cuisine with your choice of wine! Relaxing, smokefree environment.\n\nLunch: Tue-Sun. Dinner: Tue-Sat Special occasions welcome – weddings, birthdays or anniversaries. 99 Hill Way Road, CAM.\n\nCall: 251 52 89 65 I Fund Transfers Worldwide Ltd.\n\n(A) name you can trust – since 1994. We legally transfer funds to any country around the world in minutes. Visit one of our many offices and pay the amount you want to transfer with the name and address details of the recipient. It's that simple! We will supply you with a secret number, just let the recipient know the number and ask to collect the funds from our representative. Call for more information: 010 122 510\n\nJ Digital Magic New and used digital cameras – Serving you for 20 years! We have a range of digital cameras – still and video camera.\n\nNew cameras – 3 year warranty\n\nUsed cameras – 6 month warranty All accessories – tripod, cover, filters and chargers always at a 20% discounted rate. We also buy used cameras – good prices paid, instant cash.\n\nContact – Philip, Store Manager\n\n31 North ST, MCH PH: 012 545 874\n\nK Gift Land Lots of gifts at competitive prices. Birthday gifts, wedding gifts or any gift you are looking for-come and see us.\n\nOpen 7 days\n\n25 Parel Ave., Littleport Tel: 013 256 478\n\nL The Riverhouse\n\nSingle & Double Deluxe Suites\n\nFamily accommodation a specialty\n\nAll rooms with TV & hot drink-making facilities\n\nLicensed Bar/Bistro/Restaurant Large, versatile function room.\n\nCall to book: 014 521 452\n\nMascot Street, Brown Hall"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Paradise Island Trip Company",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-100-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person is responsible to ensure guest housing is acceptable.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person presently has two employers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A dislike for a previous job caused this person to start working for PITC.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A new PITC guest will likely speak to or see this person first.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person's primary place of employment is NOT on Paradise Island.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The beautiful environment motivated this person to get a job on Paradise Island.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This person enjoys spending holiday time on Paradise Island. List of people",
+          "options": [
+            {
+              "id": "A",
+              "text": "Beryl Dickson"
+            },
+            {
+              "id": "B",
+              "text": "Rita Martin"
+            },
+            {
+              "id": "C",
+              "text": "Judith Clemons"
+            },
+            {
+              "id": "D",
+              "text": "Shane Moore"
+            },
+            {
+              "id": "E",
+              "text": "Lesley Albertson"
+            },
+            {
+              "id": "F",
+              "text": "lan Rawnsley"
+            },
+            {
+              "id": "G",
+              "text": "Diana Ford"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Paradise Island Trip Company",
+        "text": "Beryl Dickson\n\n(I) come from a sociology background. After completing my Masters in Sociology from the State University I worked for a research firm for 4 years. I joined the Tourism Department and worked there for 3 more years in the same field of research. Over the years I found research too theoretical so I began looking for other employment opportunities. The change was looking for ended up being the PITC! I am very happy to be working here as the Customer Service Manager, I am even able to use some of my previous research skills. I meet lots of visitors every day and this is a very enjoyable part of my job.\n\nRita Martin Hello, I am Rita! I've been working for the PITC for the past 3 years. Currently, I am the Booking Supervisor. I completed a Diploma in Hospitality Management six months ago and this is my first job since graduating! I am delighted to work with Paradise, my role is to ensure a smooth booking process for all our visitors. I usually work in the city office but sometimes need to travel to the island and monitor booking procedures – this is the part of my job I like the best!\n\nJudith Clemons\n\n(I) was a school teacher before joining PITC. I became interested in a job on the island after staying here for one of my holidays. The natural beauty of the island so impressed me that I decided I had to get a job here! I look after visitor accommodation services on the island. I welcome suggestions from visitors in regards to accommodation services. Part of my job is also to monitor food services. If you have any comment on the food and drinks provided as a part of your stay, do not hesitate to contact me.\n\nShane Moore\n\n(I) am one of the tour guides. Working five days a week, I guide groups of about 25 visitors around different sites on the island. My job requires me to know a lot about the island and its history. My job and my background are a bit of a mismatch – my background is sports. I was an athlete from my early 20's to mid 30's. Once I got married I retired from sports and started a new career at PITC, where I have been working for around 5 years. My wife and I both love travelling.\n\nLesley Albertson\n\n(I) used to work in the music industry before joining hospitality. I was the store manager for a CD/DVD company before joining PITC as a tour guide. Working part-time, three days a week, I cover the north part of the island. I completed my Diploma of Arts two years ago. I love driving. During my own holidays, I enjoy driving around the island. The days I do not work for Paradise, I work for a Music Recording studio owned by a local businessman. I enjoy humour and meeting people. I love my job as a tour guide – meeting new people is really exciting!\n\nlan Rawnsley\n\n(I) was working for a competitor company before joining PITC as the Finance Controller. At my previous place of employment, I was a senior accountant. I did my accounting degree at an overseas university. A major part of my job is to invest in facilities that help us attract more visitors. I take careful note of visitors' feedback and accordingly make new investment plans.\n\nDiana Ford\n\n(I) have been working here for last 3 months as a front desk officer. As a part of my daily activities, I assist visitors as the receptionist, so I am the initial point of contact when it comes to visiting our establishment. I answer most of the phone calls at the office during normal business hours so chances are we have spoken before! Before this job, I was a model. I have a Bachelor of Science Degree, which was very hard for me (lots of complex mathematics but I finally passed! Last month I was even declared 'Employee of the Month'!"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Photo Perfect Travel Cameras",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-100-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "TWO instruction guides are included with the new camera,",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In order to protect the camera, batteries are not installed.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Lithium batteries are recommended for the camera.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The 'C' setting on the image dial uses more memory than the 'A' setting.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The camera should not be used in a very cold place.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A camera cloth cover costs extra.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Photo Perfect Travel Cameras",
+        "text": "Thank you for purchasing a Photo Perfect Travel Camera – a camera that will capture all your precious travel moments! We have made every effort to make our cameras robust and features user-friendly so that you get the very best while you are travelling. This Rapid Guide will introduce you to some of the basic components and features of the camera and how to use them. Please read the Extra User Guide carefully for more in-depth instruction before using the camera. Be sure to keep the Rapid Guide handy.\n\nBattery To guard against possible leakage, we do not install batteries. To begin operation, insert 4 AA batteries into the battery compartment. Standard batteries will last for up to 12 hours of continuous use. Lithium AA batteries will last for 24 hours continuously.\n\nLens Your Photo Perfect camera is equipped with an 80x digital zoom wide angle lens with image stabiliser. The camera is also fitted with our patented AirwalkerJJTM technology enabling you to cushion zoom. Avoid touching the lens and always clean with a cotton cloth.\n\nSelf-timer With our self-timer technology, you can appear in your own photograph! The camera's shutter can be delayed by 5 to 10 seconds once the shutter button has been set. Before activating the self-timer make sure the camera is placed on a flat surface. The yellow border in the view finder determines what will appear in your picture.\n\nImage quality and size Images are stored in your camera's memory stick in a compressed format, which allows you to store more photographs. Due to compression, the preview of the images on the camera's display screen may reveal a loss of detail. When the images are printed or transferred to other high-resolution viewing devices (such as a computer), full resolution will be displayed. Setting the right image size is important to get a perfect printout of your photographs. You can choose from manual and auto settings. The Photo Perfect user-friendly image setting button allows you to select any of the three size setting options. For an actual printout of a 4 x 6 inch photo, set the image button to 'A' on the dial. For a printout of a 7 x 9 inch photo, set the button to 'B' and for a printout of a 10 x 12 inch photo, turn the dial to 'C'. Note: A larger image size setting will require more memory.\n\nStorage If the camera is not going to be used for more than 2 weeks, please remove the batteries. Store the camera in its supplied case away from magnetic fields created by other electronic equipment (TVs or radios) and within a temperature range of 5°C to 35°C.\n\nAccessories Photo Perfect cameras come with a standard 4GB memory card. A range of other accessories are available at a reasonable cost, which can be chosen based on user requirements: Memory cards of 15GB and 30GB. 4 rechargeable AA batteries and charger. Genuine leather camera cover, upgrade from standard inclusion cloth cover. Handy photo printer weighing only 750 g."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Bicycle: From Push to Pedal",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-100-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person encouraged the use of hands rather than feet to stop.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person built expensive bikes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person's invention reached many parts of the world.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person's design involved wheels of different sizes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This person's invention made riding more comfortable for the user.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This person combined other people's inventions with his own. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kirkpatrick MacMillan"
+            },
+            {
+              "id": "B",
+              "text": "Karl Drais"
+            },
+            {
+              "id": "C",
+              "text": "John Kemp Starley"
+            },
+            {
+              "id": "D",
+              "text": "Louis Gompertz"
+            },
+            {
+              "id": "E",
+              "text": "Pierre Michaux"
+            },
+            {
+              "id": "F",
+              "text": "Glenn Wright"
+            },
+            {
+              "id": "G",
+              "text": "Achim Conrad"
+            },
+            {
+              "id": "H",
+              "text": "R. W. Thompson"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "MacMillan's mechanical crank divided pedal force equally between the front and rear wheels.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Michaux's bicycle looked like today's bicycles.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Starley's changes to the boneshaker involved making the front wheel smaller",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The sprockets in the derailleur made the bike go faster.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The use of hollow rods made bicycles easier to ride.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Running gear was invented around 100 years prior to the boneshaker.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-100-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is expected that the bicycles of the future will be even more environmentally friendly.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Bicycle: From Push to Pedal",
+        "text": "(A) Before they were equipped with pedals and a chain, what we refer to as a 'bicycle' today used to be called a Dandy Horse or 'Pushbike'. German inventor Karl Drais first assembled pushbikes in 1818. They had two wheels, both in-line, and were propelled by the rider pushing along the ground with his feet to rotate the wheels. The front wheel had a handlebar attached that the rider gripped to control the direction. They were speedier than walking and were considered a fast mode of transportation at the time. Unlike today, these first generation bicycles were owned only by the wealthy.\n\n(B) In 1821 an English inventor, Louis Gompertz, added a hand-driven ratchet mechanism, to the front of the bicycle wheel that permitted motion in one direction and created more speed out of every up and down push of the feet. Another significant change to the bicycle occurred in 1839 when Scottish blacksmith Kirkpatrick MacMillan invented a special part for bicycles known as a mechanical crank. The crank was a kind of lever that allowed more force and speed to both front and rear wheels. Six years later in 1845, another English inventor, R. W. Thompson, developed a special kind of pneumatic (air-containing) tyre. When wrapped around the iron-made wheels of the bike, this tyre made the ride much smoother.\n\n(C) A revolutionary change took place in 1850 when Frenchmen Pierre Michaux refined the design of bicycles in such a way that no longer required the rider to push down toward the ground in order to rotate the wheels. He redesigned it by making the front wheel exceptionally large and then placed a seat on top of it. Michaux added pedals to the large front wheel and kept the diminutive rear wheel to help with balance. This addition meant that rather than the operator having to push along the ground as though walking or running, the bicycle could cover longer distances much faster. Up to that point, the design of Michaux's bicycle most closely resembled the modern bicycles of today. However, these primitive bicycles, known as Boneshakers or penny-farthings, were extremely difficult to ride due to their high-seats and the need for expert balancing skills. In 1885, John Kemp Starley, a British inventor and industrialist, solved most of the problems of the Boneshakers by introducing a chain drive – a device that connected the pedals with the real wheel. He also redesigned the frame of the bicycle and reduced the front wheel diameter ensuring more stability and enabling people with only average balancing skills to ride them. Starley's Rover Safety Bicycle was warmly welcomed by the masses and was exported to many countries. Many historians define Starley's Rover as the first modern bicycle.\n\n(D) The next big step forward for the bicycle was the development of an efficient braking mechanism. Prior to the advent of brakes, riders had to use their feet to reduce their speed. However, in 1898 hand-operated cable-pull brakes attached to the handlebars were first introduced by a German inventor, Achim Conrad. During the beginning of 19th-century derailleur gears were invented. They contained a chain and multiple sprockets (1) that could create more speed out of every rotation of the pedals. Gradually, the technology used in making and setting the chain improved. Chains made of stronger metal with small sprockets were introduced as part of the bicycle wheel, which made it easier for the rider to pedal without losing speed. Another important change was in the weight of bicycles. The configuration of two same-sized wheels with rubber tyres and the body of the bicycle made of hollow rods rather than solid metal, considerably reduced the weight and enabled riders to have more control. These design changes also helped to reduce the risk of injury caused by a heavy bicycle.\n\n(E) It was not until the 1930s that bicycles became a popular form of transportation for the working class. This was due to dramatic improvements in the production process of bicycles, which, in turn, led to a fall in their price. The supply of bicycles increased in the market as a lot of manufacturing businesses and individual entrepreneurs started making and selling bicycles in large quantities. The widespread use of the bicycle during that time inspired several manufacturers like Mead, Sears Roebuck, and Montgomery Ward to design bicycles for children who were a new and unexplored segment of the bicycle user market. The design of these bicycles incorporated unique design elements such as bent handlebars for easier manoeuvrability, carriers above the rear wheel for school bags and even a pair of small safety wheels on both sides of the rear wheel for children learning to ride for the first time.\n\n(F) Considered by many to be the most significant innovation in the history of the bicycle after the invention of the Boneshaker almost 100 years earlier, running gear was invented by engineer Glenn Wright in the 1950s. This running gear featured quick-release wheels, derailleur gears and cable-operated brakes. During the 1960s, manufacturers started using aluminium alloy in wheel rims, handlebars and seat posts that made the bicycles even lighter and also more visually appealing. These aluminium alloys helped prevent the body of the bicycles from rusting which also made them last longer.\n\n(G) Since the 1980's the technological improvements in bicycle manufacturing have reached a new peak. New materials such as titanium and carbon fibre have become widespread. The separate brake and gear systems in bicycles have become one, combined system. New accessories such as front and back lights, drink carriages, tyre pumps and non-slip handlebar covers have become standard parts of most bicycles. In the late 1980s, mountain bikes were formally introduced to the market. These bikes became the focus of a new and adventurous sport, where bikers raced through rugged terrain. For reasons of being environmentally friendly, user-friendly and widely available throughout the world, bicycles will continue to grow in popularity well into the future.\n\n1) a device like a wheel with one or more rows of tooth-like parts sticking out which keep a chain moving on a bicycle"
+      }
+    }
+  ]
+}

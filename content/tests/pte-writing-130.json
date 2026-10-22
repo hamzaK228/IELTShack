@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-130",
+  "title": "Academic Writing — Practice Test 130",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-130-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The plans below show a college cafe before it was redesigned and how it looks now. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-130.webp"
+        },
+        {
+          "id": "pte-writing-130-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words. (adsbygoogle = window.adsbygoogle || []).push({}); TASK 2 BAND 7 ANSWER: People have differing views about the significance of the theatres and cinemas in the present age of technology. While some argue that there are no need for theatres and cinemas when it is possible to have access to on line version of everything, in my opinion, that facilities are still of paramount importance for both people and economics. On the one hand, people today are able to watch any content they want through Internet without spending a lot of time and money. Firstly, using electronic devise and social platforms makes it possible for users to watch any movies or films at any time they want. Shows and films are put at a certain time in cinemas, theatres which is not suitable for everyone. But if people use internet they can ensure the flexibility. Secondly, prices that have to be paid. to enter cinemas and theatres are not affordable for many people However, through using the Internet, to watch a movie or film can be much cheaper. On the other hand., I, however argue that theatres and cinemas still have their significant part in terms of environment and. financial benefits. For example, cinemas are provided with very big screens which can make people feel themselves inside the movie and in theatres watchers would enjoy the shows and. and performances done by real actors, which is impossible to do in computers and. mobile phone screens. On top of this, public theatres can bring the money that can be spent on public needs New roads and. other facilities can be erected. for public use with the financial funds taken from those cinemas, theatres. In conclusion, theatres and. cinemas can be refered as non-useful places due to the developments in modern technologies but I believe that the use of them would bring a lot of advantages to bot people and society.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

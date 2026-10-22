@@ -1,0 +1,791 @@
+{
+  "id": "pte-gt-reading-124",
+  "title": "General Training Reading — Practice Test 124",
+  "kind": "practice",
+  "description": "6 texts, 34 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Customer service standards for the county libraries",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All library staff are required to display their job titles.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Library staff may interrupt their conversation with a customer in the library in order to answer the phone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Books that have been reserved will be kept behind the counter ready for collection.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a schedule for improving the library every year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If someone phoning the library is rude, library staff will immediately put the phone down.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Library staff will give complete answers to all written enquiries within a week. Read the advertisements below and answer questions 7-14.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Customer service standards for the county libraries",
+        "text": "We want to make you welcome in our libraries.\n\nWe will:\n\n• wear badges, which will show that we work in the library, and state the position we hold\n\n• always greet you, acknowledge those waiting for our attention, and try to avoid long queues\n\n• deal with the person in front of us before answering the telephone • publicise our opening hours and give at least six weeks' notice of any planned changes to those hours – however, we may need to close the library at short notice in an emergency • provide clear directional signs to areas of the library, keep counter and display areas tidy, straighten shelves daily and make 90% of returns available on the day of return\n\n• help you to make use of our automated reservations service • carry out a planned programme of library refurbishment that will be reviewed annually. In return, we will expect similar courtesy and respect from you, our customer.\n\nCommunication methods In addition to visiting the library, you may access our services in a variety of ways, e.g. by telephone or email.\n\nOn the telephone\n\nWe will:\n\n• aim to answer calls within 10 rings, or provide a messaging service\n\n• answer clearly, giving the name of the library and/or department • let you know what is happening – if your enquiry cannot be dealt with immediately, we will call back within an agreed time • deal with messages as quickly as possible, at least twice a day when the library is open. We may choose to end a telephone call if a caller becomes abusive, but only after giving due warning of what we are going to do and why.\n\nEmail enquiries\n\nWe will: • acknowledge emails within seven days of receipt but we may not be able to respond fully within this time. However, we will let you know when you can expect a full response. • give all comments and complaints our full consideration, and pass them on to Sue Jones, the Chief Librarian, when appropriate."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Places to eat in Riverton",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can see celebrities eating at this place. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This place offers a wide range of wines. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You have to walk to this place. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Everyone pays the same amount for their meal at this place. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This place has very comfortable seating. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can listen to music at this place. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can have your meal outside at this place. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This place is currently closed. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 15. ______",
+          "answer": "Expectations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 16. ______",
+          "answer": "Feedback",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 17. ______",
+          "answer": "Interview(s)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Places to eat in Riverton",
+        "text": "(A) Don't miss the re-opening of the newly-refurbished Strollers Restaurant next month. Its menus, serving locally-produced food, will change seasonally. The bar, with its relaxed atmosphere, will be the ideal setting for that pre-meal drink. Whether you choose from the cocktail or wine list, you will be spoilt for choice.\n\n(B) Located near the main high street, within a pedestrianised area, Al Pomodoro offers an authentic taste of Italy. It overlooks the stunning 800-year-old City Parish Church. The atmosphere is relaxed, and you can eat on the terrace all year round (be sure to dress warmly on chilly evenings!). There is a varied menu with vegetarian options and fresh fish at reasonable prices. The house wines are also good value. Closed Mondays.\n\n(C) The Old Tavern is a popular meeting point before and after events at the city's stadium. If you can't get a ticket for the big match, you can see it on one of the giant screens whilst still soaking up the atmosphere; it is a great place to chill out in deep sofas. The Old Tavern also offers a range of meals and snacks, all freshly prepared, starting from just £3.50.\n\n(D) Situated in the city centre, the Thai Palace is one of the best restaurants in Riverton. It has a good mix of regular customers, including some well-known faces from music, sport and the media. It sources much of its produce locally, and blends Welsh lamb and beef with fresh herbs and spices flown in each week from Thailand. The friendly waiters wear a different Thai costume each week and provide attentive service. The restaurant caters for groups of all sizes, from meals for two to conference dinners.\n\n(E) Go to Riverton Hall for an evening in historic surroundings. In the famous Banqueting Hall, which seats up to 150, you can enjoy the best of the local food. On arrival you will be welcomed with mead, a traditional medieval drink. Hosts will serve your meal and keep you entertained with a selection of folk songs. A set menu of four courses – at a price of £55 a person – will be served together with wine or soft drinks."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: J&G's commitments to candidates",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to back you up if you are in serious ______",
+          "answer": "Danger",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 19. ______",
+          "answer": "Professional",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 20. ______",
+          "answer": "Database",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 21. ______",
+          "answer": "Discounts",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "J&G's commitments to candidates",
+        "text": "As a well-established employment agency with a strong track record in helping candidates to find temporary employment assignments, J&G is committed to:\n\n1. Offering you tailored assignments J&G commits to working closely with you to confirm your assignment expectations, while helping you to ensure that these are achievable. We will also ensure that assignments offered to you are appropriate for your skills set.\n\n2. Keeping you informed We will keep you informed throughout all stages of the recruitment process. We will do our best to find you suitable temporary roles, and give you updates on positions available, feedback during and following an assignment and useful advice for your future development. We will inform you as soon as possible about when temporary assignments will end.\n\n3. Developing your skills and experience J&G commits to ensuring that, prior to attending interviews with potential employers, you are briefed and given advice on interview techniques. After you have completed nine months' continuous employment with us, we will carry out a Career Development assessment with you.\n\n4. Helping you avoid accidents at work J&G commits to informing you of any health and safety regulations, and will contact your employer immediately if you make us aware of any health and safety issues. If you find you are facing significant danger in an assignment, we will give you our full support and make it a priority to search for another assignment for you.\n\n5. Recruiting without discrimination J&G commits to recruiting without discrimination – we base our selection decisions on professional criteria only. We are proud of our record in ensuring that staff are employed purely on the basis of whether they can do the job.\n\n6. Helping you benefit from the advantages J&G offers J&G commits to offering you access to advantages such as database training, as well as loyalty programmes providing discounts on purchases from a number of major retailers, exclusively available to J&G employees. J&G commits to offering you access to further developmental tools, skills set refreshers, advice and assistance whenever you wish throughout your professional career."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Pool cars – guidance notes",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• ask your ______ for authorisation",
+          "answer": "Line manager",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to book email or call the ______",
+          "answer": "Helpdesk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• To enter the lower basement car park use the ______ given in the logbook",
+          "answer": "(security) code",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Collect the car from one of the ______ in the car park",
+          "answer": "Marked bays",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Check the car and inform the helpdesk about any ______ at once",
+          "answer": "Faults",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Write the current ______ in the logbook",
+          "answer": "Mileage (indicated)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Pool cars – guidance notes",
+        "text": "Pool cars are provided to allow staff to undertake company business without having to use their own private vehicle. Pool cars are provided predominantly for business mileage only. A small amount of private mileage may be incurred by an individual, but this must be declared on the log sheet and will be recharged to the individual through the payroll system.\n\nBooking procedure Before booking a pool car, please ensure that you obtain the permission of your line manager. He/she will be contacted when you make the booking, to check that this has been authorised. Pool cars can be booked by contacting the Helpdesk, either by email (helpdesk® KFK.com) or telephone (01793-525252). It is advisable to give as much notice as possible when making a booking, as otherwise you may find that no pool car is available when you need it.\n\nCollection process The keys and logbook must be collected from Reception during normal working hours (8.30am to 5.30pm). If you need to collect the car outside these hours, you must make alternative arrangements with the Helpdesk. Where are the pool cars kept? Cars are kept in the lower basement car park. Enter by the stairs closest to the Octagon building. There is a security key pad on the door, where you will need to enter the code shown on the inside front cover of the pool car logbook. Pool cars are always parked in marked bays and nowhere else in the car park.\n\nBefore driving off Please check the vehicle before driving off. Any faults must be reported to the Helpdesk immediately. You should enter into the logbook the mileage that is indicated, and check it is identical to the end mileage recorded by the previous driver. If this is not the case, you should report this upon returning the vehicle.\n\nExiting the car park Inside the front cover of the logbook is an access card. This will need to be swiped through the card reader to raise the exit shutter. The shutter closes automatically when the car has driven through."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Why some mammals have developed a cooperative approach to raising their young",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Characteristics meerkats have recently developed"
+            },
+            {
+              "id": "ii",
+              "text": "A previous theory disproved"
+            },
+            {
+              "id": "iii",
+              "text": "The strong bond between a mother and her pup"
+            },
+            {
+              "id": "iv",
+              "text": "An unusual approach that assists in territorial defence"
+            },
+            {
+              "id": "v",
+              "text": "How to progress without many family connections"
+            },
+            {
+              "id": "vi",
+              "text": "Cooperation between species"
+            },
+            {
+              "id": "vii",
+              "text": "The benefits of operating to an identical timetable"
+            },
+            {
+              "id": "viii",
+              "text": "A remarkable number of siblings"
+            },
+            {
+              "id": "ix",
+              "text": "Community life in a very harsh environment"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Meerkats have to survive without ______ for long periods, and there is little available for them to eat in the desert. There are also not many places in the bare landscape where they can safely keep dear of (35) ______ As a result, the meerkats have developed an unusual communal lifestyle.",
+          "answer": "Water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Meerkats have to survive without (34) ______ for long periods, and there is little available for them to eat in the desert. There are also not many places in the bare landscape where they can safely keep dear of ______ As a result, the meerkats have developed an unusual communal lifestyle.",
+          "answer": "Predators",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The dominant female is the only one to give birth to young, and these are looked after by other females who provide them with ______ initially and keep them safe in burrows. After that stage, the subordinate females collect food for the young until they can find it for themselves.",
+          "answer": "Milk",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Why some mammals have developed a cooperative approach to raising their young",
+        "text": "(A) Meerkats are one of the most cooperative species of mammal on the planet. Their home is in the flat, arid landscape of the huge Kalahari Desert in Southern Africa where there is no water throughout many months of the year. The scarcity of food and the difficulty of finding anywhere suitable to hide from predators have led them to live in groups where they share the roles of food hunters. Meerkats live in large families of up to 50 individuals, but only one dominant male and female will breed, while their pups are fed and raised by the others in the group. The subordinate females produce milk for the pups and take care of them in their underground burrows during the first three weeks of life. For the next three months these females continue to provide their nutrition by giving away up to 40% of the food they find.\n\n(B) This strategy is hugely successful – dominant female meerkats can produce up to 20 pups in a year, increasing their group's size so they can hold precious land against rival families. But the evolution of this strategy makes little sense when individuals are typically out to help themselves. In most animals, the drive for survival and to pass on their own genes means few will help to raise the offspring of others and in some cases, such as lions and some monkeys, they will even kill the young of rivals. 'It's easy to understand why animals compete,' said Professor Tim Clutton-Brock, a zoologist at the University of Cambridge. 'It is less easy to understand why in some cases individuals might spend a large section of their lives helping other individuals.'\n\n(C) This is what Prof. Clutton-Brock and his colleagues set out to understand as part of an ambitious six-year project. They observed and monitored more than 700 wild meerkats from 30 different groups in the Kalahari, taking genetic and hormone samples of the animals throughout their lives. They found that meerkats show an unusually high level of kinship to others in their group compared to that found in other social animals, such as African hunting dogs and primates. In other words, almost all members of a meerkat group are brothers and sisters. As the meerkats within a group all share copies of the same genes, it means they also have a vested interest in ensuring that their mother's offspring reach adulthood, says Prof. Clutton-Brock. He explains that other females can ensure the genes they share are passed on by helping to raise their brothers and sisters. 'It makes cooperation much stronger.'\n\n(D) In other social animals, such as chimpanzees and baboons, kinship is much lower within groups. This means that higher primates, including humans, have to engage in far more social manoeuvering and alliance-forming within their group. Prof. Clutton-Brock says. This could have been one of the driving forces for the increases in intelligence and brain size seen in humans. 'Most of the animals that live in groups with low levels of kinship tend to be what we would regard as cognitively developed,' said Prof. Clutton-Brock. Even humans live in groups with very low average levels of relatedness. The moral is that if you are living in a group where not everyone is closely related to you and might be looking to disadvantage you if they get a chance, you need to be clever.\n\n(E) Other cooperative animals have evolved different strategies to help ensure the group sticks together. Banded mongooses, the meerkats' larger cousins, create a 'veil of ignorance' that helps to ensure the group work together to raise their young. Unlike meerkats, four to six females breed at the same time. While younger females typically mate a few days after the older ones, they synchronise their pregnancies so all the females give birth on exactly the same morning. The communal litter is then raised by the group. Professor Michael Cant, an evolutionary biologist at the University of Exeter, UK, who has been studying mongooses since 1995, says, 'Synchronising to give birth at the same moment is a way to avoid infanticide. We think none of the females know who their own pups are so they care for all of them just in case they are their own.' It is a selfish act that leads to something like a true community.\n\n(F) To examine this behaviour in more detail, Prof. Cant and his team fed half of the breeding females in each mongoose group with additional nutrient-rich food during pregnancy. They found that while the mothers that had been fed the extra food gave birth to larger pups, they then worked extra hard to raise the offspring of mothers who had not had the extra food, levelling out the differences between them. '[Banded] mongooses always [seem to] do the opposite of what we think they should do,' said Prof. Cant, whose assumption had been that pups who were bigger at birth would benefit from their head start in life. Instead, the females focused on raising the weakest individuals. Further results due to be published later also show that those whose mothers were not fed extra food during pregnancy may actually end up doing better in later life. Prof. Cant believes that the results could also have implications for testing theories of cooperation in humans. 'Humans are cooperative breeders – our offspring are raised by grandparents and siblings as well as their parents.'"
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: The breeding habits of meerkats in the Kalahari Desert",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-124-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Section B, when describing how meerkats breed, Professor Clutton-Brock is",
+          "options": [
+            {
+              "id": "A",
+              "text": "concerned that this may lead to aggression within the group."
+            },
+            {
+              "id": "B",
+              "text": "doubtful that there will be enough food to support bigger groups."
+            },
+            {
+              "id": "C",
+              "text": "puzzled by the way they have evolved to assist the members of the group."
+            },
+            {
+              "id": "D",
+              "text": "amazed by the way a group can defend itself against other larger species."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What conclusion did Professor Clutton-Brock reach during his study of meerkats?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Groups are genetically related to other groups in the area."
+            },
+            {
+              "id": "B",
+              "text": "Females will only look after pups that look the same as them."
+            },
+            {
+              "id": "C",
+              "text": "Pups ignore others in the group that do not have the same mother."
+            },
+            {
+              "id": "D",
+              "text": "Females secure the survival of their genes by nursing the group’s pups."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does Professor Clutton-Brock think is important about lower kinship groups?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Members value the support of others more."
+            },
+            {
+              "id": "B",
+              "text": "Co-operation can no longer be relied on in families."
+            },
+            {
+              "id": "C",
+              "text": "Members have to become smarter in order to do well."
+            },
+            {
+              "id": "D",
+              "text": "Cleverness is regarded as the key characteristic of a leader."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-124-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Following his team's experiment with feeding mongooses. Professor Cant",
+          "options": [
+            {
+              "id": "A",
+              "text": "admits to being constantly surprised by the behaviour of the species"
+            },
+            {
+              "id": "B",
+              "text": "finds the mothers’ efforts to help the weakest pups admirable"
+            },
+            {
+              "id": "C",
+              "text": "thinks it could show some human carers in a negative light"
+            },
+            {
+              "id": "D",
+              "text": "is unsure what later findings of the study will reveal."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "The breeding habits of meerkats in the Kalahari Desert",
+        "text": "Meerkats have to survive without (34) …………………. for long periods, and there is little available for them to eat in the desert. There are also not many places in the bare landscape where they can safely keep dear of (35) ………………… As a result, the meerkats have developed an unusual communal lifestyle. The dominant female is the only one to give birth to young, and these are looked after by other females who provide them with (36) ………………… initially and keep them safe in burrows. After that stage, the subordinate females collect food for the young until they can find it for themselves."
+      }
+    }
+  ]
+}

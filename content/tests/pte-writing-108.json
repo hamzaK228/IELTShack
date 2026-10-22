@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-108",
+  "title": "Academic Writing — Practice Test 108",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-108-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years. Summarize the information by selecting and reporting the main features and make comparison where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-108.png"
+        },
+        {
+          "id": "pte-writing-108-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message? Write at least 250 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

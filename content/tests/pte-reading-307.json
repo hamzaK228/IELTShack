@@ -1,0 +1,1054 @@
+{
+  "id": "pte-reading-307",
+  "title": "Academic Reading — Practice Test 307",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: THE BAOBAB TREE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-307-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The baobab tree has been a part of African folklore because of its symbolic representation in ancient myths.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Baobab trees are only found on the African continent.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In West Africa, the presence of a baobab tree often indicates nearby human settlements.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Baobab trees are commonly found in humid tropical rainforests.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The baobab stores water in its trunk during the rainy season to survive dry periods.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The leaves of the baobab tree can be used to make a medicinal sauce.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Baobab trees are pollinated exclusively by fruit bats.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– can be used to make a ______",
+          "answer": "Sauce",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– can be used to protect ______",
+          "answer": "Plants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– can provide ______ and water",
+          "answer": "Shelter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– can be used to make ______",
+          "answer": "Pots",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– provides ______ for animals and humans",
+          "answer": "Shade",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– can be used to make ______ to burn",
+          "answer": "Fuel",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "THE BAOBAB TREE",
+        "text": "The baobab tree is an icon of the African continent. It can live for over a thousand years and is a vital source of food, water and shelter for indigenous peoples and wildlife alike. Given the tree's many practical uses, it is not surprising that the baobab features so prominently in traditional African folklore. The baobab is a prehistoric species which predates both mankind and the splitting of the continents over 200 million years ago. It belongs to the genus Adansonia, which contains nine species. These are found in the drier parts of Africa, Madagascar, India, Sri Lanka and Australia. Of the nine species, six are native to Madagascar, two to mainland Africa and one to Australia. The African and Australian baobabs look very similar, even though they are not the same species. Baobabs grow in 32 African countries. In West Africa, the baobab's presence is often an indication of a human settlement nearby. The tree is most frequently found in dry, hot savannahs of sub-Saharan Africa, where the climate is extremely arid and rainfall is seasonal. The baobab is a deciduous tree, which means that it loses its leaves during the dry season. It is a succulent, which means that during the rainy season it absorbs and stores water in its vast trunk. This water enables it to produce a nutrient-dense fruit in the dry season when all around is dry and arid. The trunk has a diameter of 10-14 metres and the tree has a height of 18-25 metres. The baobab tree is a strange looking tree that grows in low-lying areas in Africa. Its trunk is very wide and it has large white flowers that bloom at night. Its leaves are finger-like in shape. The baobab is a very versatile tree. Its leaves, bark, fruit and trunk are all useful to humans and animals. The baobab's fruit is large and oval-shaped and it contains a mass of seeds. It is a rich source of vitamin C and its pulp can be used to make a refreshing drink. The pulp can also be used to treat fever, diarrhoea and malaria. The pulp can be stored until it is needed. The seeds of the fruit can be used to produce oil. This oil is used to protect the skin and it is also used in the cosmetic industry. The leaves of the baobab are also useful. They can be eaten fresh or they can be dried and stored. They are rich in iron and can be used as a medicine. The leaves can be used to treat asthma, insect bites and several other ailments. The leaves can also be used as a sauce for food. The bark of the baobab is also useful. It can be used to make cloth and rope. The bark can also be used to make musical instruments, waterproof hats and fishing lines. The bark has also been used to protect young plants from animals. The bark of the baobab is also used to treat fever. The trunk of the baobab is very wide and it can be used as a shelter. It is also used for storage and it can also be used as a source of water in dry periods. The baobab can also be used to make a variety of things such as musical instruments, handcrafts, pots to grow plants in, and many other useful items. The tree also provides shade for animals and humans. The tree is also a source of fuel and is used as a firebreak as well. The baobab is also known as the 'tree of life' because it can provide shelter, clothing, food, and water for the animal and human inhabitants of the African savannah regions. The tree is also an important source of food for many different creatures such as insects and animals. The flowers provide food for fruit bats, which play an important role in pollinating the flowers. The seeds are eaten by various mammals such as baboons, monkeys and warthogs. Elephants and eland eat the bark of the baobab tree. The flowers provide food for birds, bees and other insects. The baobab tree is home to snakes and tree frogs. The tree is also home to bush babies, which feed on the flowers. The tree is also home to birds such as the mottled spinetail, the grey-headed parrot and the mottled swift. The tree is also host to the African honey bee. The baobab tree is under threat because of the increasing human population. The trees are being cut down for their bark, which is used to make rope, mats and baskets. The trees are also being cut down to make way for farmland. The baobab is also under threat from climate change."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: THE BIRTH OF THE 10,000-HOUR RULE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-307-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to the time when a distinction was first made between two types of skills",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to what a particular investigation failed to do",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to the influence of the 10,000-hour rule outside the field of music",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A reference to how the study compared achievement levels based on practice time.",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to a claim that was made without sufficient evidence",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Their research involved innovative methods of measuring practice among participants.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ericsson and colleagues"
+            },
+            {
+              "id": "B",
+              "text": "Malcolm Gladwell"
+            },
+            {
+              "id": "C",
+              "text": "Brooke Macnamara and colleagues"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "They made claims about the significance of practice which were not justified.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ericsson and colleagues"
+            },
+            {
+              "id": "B",
+              "text": "Malcolm Gladwell"
+            },
+            {
+              "id": "C",
+              "text": "Brooke Macnamara and colleagues"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "They devised a sophisticated way of measuring the development of expertise.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ericsson and colleagues"
+            },
+            {
+              "id": "B",
+              "text": "Malcolm Gladwell"
+            },
+            {
+              "id": "C",
+              "text": "Brooke Macnamara and colleagues"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Their research generated an unexpected result.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ericsson and colleagues"
+            },
+            {
+              "id": "B",
+              "text": "Malcolm Gladwell"
+            },
+            {
+              "id": "C",
+              "text": "Brooke Macnamara and colleagues"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q23",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following statements does the writer make about the study of violinists undertaken by Ericsson and his colleagues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q24",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following statements does the writer make about the study of violinists undertaken by Ericsson and his colleagues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was widely regarded as original."
+            },
+            {
+              "id": "B",
+              "text": "Its aims were innovative."
+            },
+            {
+              "id": "C",
+              "text": "It produced some unexpected findings."
+            },
+            {
+              "id": "D",
+              "text": "It called into question the methods of other researchers."
+            },
+            {
+              "id": "E",
+              "text": "Its scope was very limited."
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q25",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "J In conclusion, nuclear fusion has the potential to be a virtually limitless source of clean energy, with none of the problems associated with nuclear fission. However, there are significant challenges to be overcome before it can become a viable source of energy. Scientists need to find ways to achieve the required conditions more efficiently, and to reduce the cost of research. Despite these challenges, there has been significant progress in nuclear fusion research in recent years, and the recent breakthrough in California is just one example of this progress. With continued research and development, nuclear fusion could become a major source of energy in the future.",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was developed by combining data from several studies."
+            },
+            {
+              "id": "B",
+              "text": "It is the only theory to attempt to calculate the number of hours required for expertise."
+            },
+            {
+              "id": "C",
+              "text": "It is the first theory to link the acquisition of expertise with the number of hours spent practising."
+            },
+            {
+              "id": "D",
+              "text": "It fails to take account of individual differences."
+            },
+            {
+              "id": "E",
+              "text": "It has been challenged by some researchers."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q26",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "J In conclusion, nuclear fusion has the potential to be a virtually limitless source of clean energy, with none of the problems associated with nuclear fission. However, there are significant challenges to be overcome before it can become a viable source of energy. Scientists need to find ways to achieve the required conditions more efficiently, and to reduce the cost of research. Despite these challenges, there has been significant progress in nuclear fusion research in recent years, and the recent breakthrough in California is just one example of this progress. With continued research and development, nuclear fusion could become a major source of energy in the future.",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was developed by combining data from several studies."
+            },
+            {
+              "id": "B",
+              "text": "It is the only theory to attempt to calculate the number of hours required for expertise."
+            },
+            {
+              "id": "C",
+              "text": "It is the first theory to link the acquisition of expertise with the number of hours spent practising."
+            },
+            {
+              "id": "D",
+              "text": "It fails to take account of individual differences."
+            },
+            {
+              "id": "E",
+              "text": "It has been challenged by some researchers."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "THE BIRTH OF THE 10,000-HOUR RULE",
+        "text": "(A) study on violinists in the early 1990s inspired the idea that 10,000 hours of practice is the key to success\n\n(A) The so-called 10,000-hour rule can be traced back to a 1993 paper, 'The Role of Deliberate Practice in the Acquisition of Expert Performance', co-authored by a Swedish psychologist and a US psychological scientist. The paper is one of the most cited in its field. Its most striking claim is that the difference between expert performers and normal adults is not due to innate talent, but rather is a reflection of the amount of deliberate practice they have undergone. 'Many characteristics once believed to reflect innate talent are actually the result of intense practice extended for a minimum of 10 years,' the authors wrote. They concluded: 'The maximal level of performance for individuals in a given domain is not attained automatically as a function of extended experience, but the level of performance can be increased even by highly experienced individuals as a result of deliberate efforts to improve.'\n\n(B) The study looked at three groups of violinists at the Music Academy of West Berlin, in Germany. The authors set out to find out what had caused the 'best' violinists to be better than the merely 'good' ones, who were in turn better than the 'least accomplished' ones. All of the violinists were asked how much they had practised, alone, with a teacher, and with others, every week, ever since they had first picked up a violin. What they found was that by the age of 20, the best violinists had practised an average of 10,000 hours, the good ones had practised 8,000 hours, and the least skilled had practised 4,000 hours. The psychologists concluded that what mattered was not the time spent obtaining any old experience, but the amount of time spent on 'deliberate practice', which they defined as an effortful activity designed to improve individual target performance. The authors also noted that the most accomplished individuals in their study had each followed the same learning structure, and had all acquired their skills in a similar way: 'All of the expert violinists had started playing at approximately five years of age, and had selected a music teacher who was a violinist. All of them had been admitted to a music academy by eight years of age, where they had been taught by skillful violin teachers. All of them had started solo practice at around the age of eight. All of them had been rated very highly by their violin teachers at the music academy, and had given their first public performance at around the age of eight.'\n\n(C) The theory of deliberate practice was popularised by the writer Malcolm Gladwell, who argued that talent is irrelevant to performance in his book Outliers, published in 2008. 'The striking thing about Ericsson's study is that he and his colleagues couldn't find any \"naturals\", musicians who floated effortlessly to the top while practising a fraction of the time their peers did. Nor could they find any \"grinds\", people who worked harder than everyone else, yet just didn't have what it takes to break the top ranks,' he wrote. 'Their research suggests that once a musician has enough ability to get into a top music school, the thing that distinguishes one performer from another is how hard he or she works. That's it. And what's more, the people at the very top don't work just harder or even much harder than everyone else. They work much, much harder.'\n\n(D) But while Ericsson and his colleagues had found a correlation between the number of hours spent on deliberate practice and the level of expertise achieved, their research didn't determine whether practice was the cause of that expertise. The idea that 10,000 hours of practice will make you an expert is appealing, not least because it suggests that anyone can achieve anything if they just work hard enough. But while practice is undeniably important, it is not the only factor that contributes to performance. In 2014, a group of psychologists led by Brooke Macnamara of Princeton University re-analysed data from all of the studies they could find on the relationship between deliberate practice and performance in various domains, including music, sports and education, and estimated that the average amount that practice contributes to mastery of these is just 12 percent. That leaves a lot of the variance in expert performance unexplained, which means factors other than practice must be involved.\n\n(E) In a rejoinder, Ericsson argues that Macnamara's analysis actually showed the opposite of what she claimed. In each of the domains she looked at, he says, practice was the single most important factor in predicting a person's level of expertise. The problem, he argues, is that Macnamara's analysis looked at the total number of hours of practice undertaken by the participants in the studies she reviewed, rather than the number of hours of deliberate practice. 'The paper is important because it shows that the amount of time with relevant experience is not a good predictor of attained performance,' he says. 'But it does not invalidate the body of research on deliberate practice, nor its utility as the most important predictor of expertise.'"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: NUCLEAR FUSION: THE KEY TO LIMITLESS CLEAN ENERGY?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-307-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a description of the method used by stars to generate energy",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a description of the process used to produce energy in nuclear power plants today",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an explanation of the advantages of nuclear fusion over nuclear fission",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to the difficulty of achieving the conditions required for nuclear fusion",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to a nuclear fusion experiment that has been successful",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a mention of the need to find a way of making nuclear fusion research more affordable",
+          "options": [
+            {
+              "id": "A",
+              "text": "plasma"
+            },
+            {
+              "id": "B",
+              "text": "nuclei"
+            },
+            {
+              "id": "C",
+              "text": "energy"
+            },
+            {
+              "id": "D",
+              "text": "reactors"
+            },
+            {
+              "id": "E",
+              "text": "fusion"
+            },
+            {
+              "id": "F",
+              "text": "reaction"
+            },
+            {
+              "id": "G",
+              "text": "hydrogen"
+            },
+            {
+              "id": "H",
+              "text": "atoms"
+            },
+            {
+              "id": "I",
+              "text": "nuclear fission"
+            },
+            {
+              "id": "J",
+              "text": "nuclear fusion"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the magnetic confinement approach, a ______ is placed inside a magnetic field and heated. This method has been employed in various experimental (34) ______ showing potential for generating fusion energy.",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the magnetic confinement approach, a (33) ______ is placed inside a magnetic field and heated. This method has been employed in various experimental ______ showing potential for generating fusion energy.",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the inertial confinement approach, a small pellet of hydrogen fuel is compressed and heated using lasers or other forms of energy. This extreme compression and heat triggers a nuclear reaction during which the ______ are fused together, releasing a significant amount of energy.",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The California experiment was the first time nuclear fusion had ever been achieved.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nuclear fusion could help to reduce the world's dependence on fossil fuels.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The fuel used in nuclear fusion is rare and hard to find.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The high cost of nuclear fusion is solely attributed to its equipment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-307-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The basic physics behind nuclear fusion is more advanced than scientists once thought.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "NUCLEAR FUSION: THE KEY TO LIMITLESS CLEAN ENERGY?",
+        "text": "(A) In December 2022, scientists at a laboratory in California announced a major breakthrough in nuclear fusion research. For the first time ever, scientists had managed to produce a nuclear fusion reaction that generated more energy than it consumed. The result was hailed as a major step forward in the development of nuclear fusion as a new source of energy. But what is nuclear fusion, and why is it so important?\n\n(B) When we think of nuclear power, we usually think of nuclear fission, the process of splitting the nucleus of an atom into two or more smaller nuclei. This is the reaction that occurs in nuclear power stations today. However, nuclear fission has a number of disadvantages. The fuel used is radioactive, and there is always a risk of nuclear accidents, such as the one that occurred at the Chernobyl nuclear power plant in 1986. In addition, nuclear fission produces radioactive waste, which remains dangerous for thousands of years and is difficult to dispose of safely. Nuclear fusion, on the other hand, is the process of fusing two atomic nuclei together to form a single heavier nucleus. This is the process that occurs in the sun and other stars. The reaction releases a huge amount of energy, and the fuel used is not radioactive. This makes nuclear fusion a potentially limitless source of clean energy.\n\n(C) The potential benefits of nuclear fusion are enormous. It could provide a virtually limitless supply of clean energy, with none of the problems associated with nuclear fission. It could help to reduce our reliance on fossil fuels, and therefore help to combat climate change. It could also provide energy security, as the fuel used in nuclear fusion is abundant and widely available. However, there are significant challenges to be overcome before nuclear fusion can become a viable source of energy.\n\n(D) One of the biggest challenges is the high temperature and pressure required to achieve nuclear fusion. In order to fuse atomic nuclei together, they must be heated to temperatures of millions of degrees Celsius. This requires a huge amount of energy, and it is difficult to find materials that can withstand such high temperatures. In addition, the nuclei must be held together at high pressure for a long enough time to allow the fusion reaction to occur. This is difficult to achieve, as the high temperature and pressure tend to cause the nuclei to fly apart.\n\n(E) Another challenge is the cost of nuclear fusion research. The equipment and research required to achieve nuclear fusion are extremely expensive, and the cost of research and development is high. This has led to concerns that nuclear fusion may not be economically viable, and that the money spent on research could be better spent on other forms of clean energy.\n\n(F) Despite these challenges, there has been significant progress in nuclear fusion research in recent years. Scientists have developed a number of different approaches to achieving nuclear fusion, and have made significant advances in understanding the physics of the process. The recent breakthrough in California is just one example of the progress that has been made.\n\n(G) One of the most promising approaches to achieving nuclear fusion is the use of magnetic confinement. In this approach, a plasma of hydrogen nuclei is confined within a magnetic field and heated to the required temperature. The magnetic field helps to keep the nuclei close together, increasing the chances of fusion occurring. This approach has been used in a number of experimental fusion reactors, and has shown promise in achieving the conditions required for nuclear fusion.\n\n(H) Another approach is inertial confinement, in which a small pellet of hydrogen fuel is compressed and heated using lasers or other forms of energy. The compression and heating cause the nuclei to fuse together, releasing energy. This approach has also shown promise, and has been used in a number of experimental fusion reactors.\n\n(I) Despite the progress that has been made, there is still a long way to go before nuclear fusion can become a viable source of energy. Scientists need to find ways to achieve the required temperature and pressure more efficiently, and to develop materials that can withstand the extreme conditions. They also need to find ways to reduce the cost of nuclear fusion research, such as by having cheaper, more durable materials for some components like the first wall and divertors. J In conclusion, nuclear fusion has the potential to be a virtually limitless source of clean energy, with none of the problems associated with nuclear fission. However, there are significant challenges to be overcome before it can become a viable source of energy. Scientists need to find ways to achieve the required conditions more efficiently, and to reduce the cost of research. Despite these challenges, there has been significant progress in nuclear fusion research in recent years, and the recent breakthrough in California is just one example of this progress. With continued research and development, nuclear fusion could become a major source of energy in the future."
+      }
+    }
+  ]
+}

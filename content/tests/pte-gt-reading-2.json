@@ -1,0 +1,661 @@
+{
+  "id": "pte-gt-reading-2",
+  "title": "General Training Reading — Practice Test 2",
+  "kind": "practice",
+  "description": "4 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: use of university grounds by vehicular traffic",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-2-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "University employees do not need to pay for their parking permits.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Parking in Halls of Residence is handled by the Wardens of the Halls.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Having a University permit does not allow staff to park at Halls.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Parking permits cost ￡20 a year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students living in Hall do not need permission to park in Hall car parks.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "use of university grounds by vehicular traffic",
+        "text": "The University grounds are private. The University authorities only allow authorised members of the University, visitors and drivers of vehicles servicing the University to enter the grounds. Members of staff who have paid the requisite fee and display the appropriate permit may bring a vehicle into the grounds. A University permit does not entitle them to park in Hall car parks however, unless authorised by the Warden of the Hall concerned. Students may not bring vehicles into the grounds during the working day unless they have been given special permission by the Security Officer and have paid for and are displaying an appropriate entry permit. Students living in Halls of Residence must obtain permission from the Warden to keep a motor vehicle at their residence. Students are reminded that if they park a motor vehicle on University premises without a valid permit, they will be fined £20"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: The name of your medicine is Borodine tablets",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-2-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Borodine tablets might be used to treat…… ______",
+          "answer": "D (in either order)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Borodine tablets might be used to treat…… ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You must ask your doctor before taking Borodine tablets if you are already being treated for …… ______",
+          "answer": "G (in either order)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You must ask your doctor before taking Borodine tablets if you are already being treated for …… ______",
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You do not need to consult your doctor immediately if Borodine tablets give you …… ______",
+          "answer": "B (in either order)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You do not need to consult your doctor immediately if Borodine tablets give you …… ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The college is also very popular with 16-18 year olds, who see it as a practical alternative to a further two years at school. They want to study in the more adult atmosphere the college provides. They can choose from a far wider range of subjects than it would be practical for a sixth form to offer. If they want to go straight into employment they can still study at college to gain qualifications relevant to the job, either on a day-release basis or through Network or the Modern Apprenticeship Scheme.",
+          "options": [
+            {
+              "id": "A",
+              "text": "children under 12 years of age."
+            },
+            {
+              "id": "B",
+              "text": "a headache."
+            },
+            {
+              "id": "C",
+              "text": "an uncomfortable feeling in your stomach."
+            },
+            {
+              "id": "D",
+              "text": "symptoms similar to a cold."
+            },
+            {
+              "id": "E",
+              "text": "a change in your skin colour."
+            },
+            {
+              "id": "F",
+              "text": "anything treated by a prescription medicine."
+            },
+            {
+              "id": "G",
+              "text": "a kidney complaint."
+            },
+            {
+              "id": "H",
+              "text": "a whitening of the eyes."
+            },
+            {
+              "id": "I",
+              "text": "sore or broken skin."
+            },
+            {
+              "id": "J",
+              "text": "a fungal infection."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 13. ______",
+          "answer": "K",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The name of your medicine is Borodine tablets",
+        "text": "What are Borodine Tablets used for? Borodine tablets are used to help relieve hay fever and conditions due to allergies in particular skin reactions and a runny nose. It is not recommended that Borodine tablets are given to children under 12 years of age or pregnant or breastfeeding women.\n\nBEFORE YOU TAKE Borodine Tablets In some circumstances it is very important not to take Borodine tablets. If you ignore these instructions this medicine could affect your heart rhythm. Are you taking oral medicines for fungal infections? Have you suffered a reaction to medicines containing Borodine before? Do you suffer from any liver, kidney or heart disease? If the answer to any of these questions is YES do not take Borodine tablets before consulting your doctor.\n\nAfter taking Borodine tablets Borodine tablets like many other medicines may cause side effects in some people. If you faint, stop taking Borodine tablets and tell your doctor immediately. In addition Borodine tablets may cause problems with your vision, hair loss, depression or confusion, yellowing of your skin or your eyes. If you have these effects whilst taking Borodine tablets tell your doctor immediately. Other side effects are dizziness or headaches and indigestion or stomach ache. However, these effects are often mild and usually wear off after a few days' treatment. If they last for more than a few days tell your doctor."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: west thames college – background information for candidates",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-2-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chiswick Polytechnic was closed at the same time West Thames College was opened.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most of the students at the college come from outside the local area.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The college changed its name to West Thames College in 1993.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are currently 6000 students over the age of 19 attending the college.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students under the age of 16 cannot attend any of the courses offered by the college.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The college offers a more mature environment in which to learn than a school.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are fewer subjects to study in the sixth form of a school than at the college.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph A ______",
+          "answer": "VI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph C ______",
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph E ______",
+          "answer": "X",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph F ______",
+          "answer": "II",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph G ______",
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Paragraph H ______",
+          "answer": "VII",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "west thames college – background information for candidates",
+        "text": "West Thames College (initially known as Hounslow Borough College) came into existence in 1976 following the merger of Isleworth Polytechnic with part of Chiswick Polytechnic. Both parent colleges, in various guises, enjoyed a long tradition of service to the community dating back to the 1890s. The college is located at London Road, Isleworth, on a site occupied by the Victorian house of the Pears family, Spring Grove House. An earlier house of the same name on this site had been the home of Sir Joseph Banks, the botanist who named Botany Bay with Captain Cook in 1770. Later he founded Kew Gardens. Situated at the heart of West London, West Thames College is ideally placed to serve the training and education needs of local industry and local people. But its influence reaches much further than the immediate locality. Under its former name, Hounslow Borough College, it had already established a regional, national and international reputation for excellence. In fact, about eight per cent of its students come from continental Europe and further afield, whilst a further 52 per cent are from outside the immediate area. Since 1 April 1993, when it became independent of the local authority and adopted its new title, West Thames College has continued to build on that first class reputation. These days there is no such thing as a typical student. More than half of West Thames college's 6000 students are over 19 years old. Some of these will be attending college part-time under their employers' training schemes. Others will want to learn new skills purely out of interest, or out of a desire to improve their promotion chances, or they may want a change in career. The college is also very popular with 16-18 year olds, who see it as a practical alternative to a further two years at school. They want to study in the more adult atmosphere the college provides. They can choose from a far wider range of subjects than it would be practical for a sixth form to offer. If they want to go straight into employment they can still study at college to gain qualifications relevant to the job, either on a day-release basis or through Network or the Modern Apprenticeship Scheme."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: the discovery of uranus",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-2-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Herschel began investigating astronomy______",
+          "answer": "1772",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Discovery of the planet Uranus______",
+          "answer": "1781",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Discovery of the moons Titania and Oberon______",
+          "answer": "1787",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "First discovery of Uranus' rings______",
+          "answer": "1977",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Discovery of the last 10 moons of Uranus______",
+          "answer": "1986",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is improbable that there is a planet hidden behind the sun.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Herschel knew immediately that he had found a new planet.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Herschel collaborated with other astronomers of his time.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Herschel's newly-discovered object was considered to be too far from the sun to be a comet.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Herschel's discovery was the most important find of the last three hundred years.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The suggested names of the new planet started with ______ ______, then ______ (38) ______, before finally settling on Uranus. The first five rings around Uranus were discovered by ______ (39) ______ From 1948 until 1986, the moon ______ (40) ______ was believed to be the moon closest to the surface of Uranus.",
+          "answer": "Georgium sidus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The suggested names of the new planet started with ______ (37) ______, then ______ ______, before finally settling on Uranus. The first five rings around Uranus were discovered by ______ (39) ______ From 1948 until 1986, the moon ______ (40) ______ was believed to be the moon closest to the surface of Uranus.",
+          "answer": "Herschel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The suggested names of the new planet started with ______ (37) ______, then ______ (38) ______, before finally settling on Uranus. The first five rings around Uranus were discovered by ______ ______ From 1948 until 1986, the moon ______ (40) ______ was believed to be the moon closest to the surface of Uranus.",
+          "answer": "James L. Elliot",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-2-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The suggested names of the new planet started with ______ (37) ______, then ______ (38) ______, before finally settling on Uranus. The first five rings around Uranus were discovered by ______ (39) ______ From 1948 until 1986, the moon ______ ______ was believed to be the moon closest to the surface of Uranus.",
+          "answer": "Miranda",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "the discovery of uranus",
+        "text": "Someone once put forward an attractive though unlikely theory. Throughout the Earth's annual revolution around the sun, there is one point of space always hidden from our eyes. This point is the opposite part of the Earth's orbit, which is always hidden by the sun. Could there be another planet there, essentially similar to our own, but always invisible? If a space probe today sent back evidence that such a world existed it would cause not much more sensation than Sir William Herschel's discovery of a new planet, Uranus, in 1781. Herschel was an extraordinary man — no other astronomer has ever covered so vast a field of work — and his career deserves study. He was born in Hanover in Germany in 1738, left the German army in 1757, and arrived in England the same year with no money but quite exceptional music ability. He played the violin and oboe and at one time was organist in the Octagon Chapel in the city of Bath. Herschel's was an active mind, and deep inside he was conscious that music was not his destiny; he therefore, read widely in science and the arts, but not until 1772 did he come across a book on astronomy. He was then 34, middle-aged by the standards of the time, but without hesitation he embarked on his new career, financing it by his professional work as a musician. He spent years mastering the art of telescope construction, and even by present-day standards his instruments are comparable with the best. Serious observation began 1774. He set himself the astonishing task of 'reviewing the heavens', in other words, pointing his telescope to every accessible part of the sky and recording what he saw. The first review was made in 1775; the second, and most momentous, in 1780-81. It was during the latter part of this that he discovered Uranus. Afterwards, supported by the royal grant in recognition of his work, he was able to devote himself entirely to astronomy. His final achievements spread from the sun and moon to remote galaxies (of which he discovered hundreds), and papers flooded from his pen until his death in 1822. Among these, there was one sent to the Royal Society in 1781, entitled An Account of a Comet. In his own words: On Tuesday the 13th of March, between ten and eleven in the evening, while I was examining the small stars in the neighbourhood of H Geminorum, I perceived one that appeared visibly larger than the rest; being struck with its uncommon magnitude, I compared it to H Geminorum and the small star in the quartile between Auriga and Gemini, and finding it to be much larger than either of them, suspected it to be a comet. Herschel's care was the hallmark of a great observer; he was not prepared to jump any conclusions. Also, to be fair, the discovery of a new planet was the last thought in anybody's mind. But further observation by other astronomers besides Herschel revealed two curious facts. For the comet, it showed a remarkably sharp disc; furthermore, it was moving so slowly that it was thought to be a great distance from the sun, and comets are only normally visible in the immediate vicinity of the sun. As its orbit came to be worked out the truth dawned that it was a new planet far beyond Saturn's realm, and that the 'reviewer of the heavens' had stumbled across an unprecedented prize. Herschel wanted to call it georgium sidus (Star of George) in honour of his royal patron King George III of Great Britain. The planet was later for a time called Herschel in honour of its discoverer. The name Uranus, which was first proposed by the German astronomer Johann Elert Bode, was in use by the late 19th century. Uranus is a giant in construction, but not so much in size; its diameter compares unfavourably with that of Jupiter and Saturn, though on the terrestrial scale it is still colossal. Uranus' atmosphere consists largely of hydrogen and helium, with a trace of methane. Through a telescope the planet appears as a small bluish-green disc with a faint green periphery. In 1977, while recording the occultation 1 of a star behind the planet, the American astronomer James L. Elliot discovered the presence of five rings encircling the equator of Uranus. Four more rings were discovered in January 1986 during the exploratory flight of Voyager 2 2 , In addition to its rings, Uranus has 15 satellites ('moons'), the last 10 discovered by Voyager 2 on the same flight; all revolve about its equator and move with the planet in an east—west direction. The two largest moons, Titania and Oberon, were discovered by Herschel in 1787. The next two, Umbriel and Ariel, were found in 1851 by the British astronomer William Lassell. Miranda, thought before 1986 to be the innermost moon, was discovered in 1948 by the American astronomer Gerard Peter Kuiper."
+      }
+    }
+  ]
+}

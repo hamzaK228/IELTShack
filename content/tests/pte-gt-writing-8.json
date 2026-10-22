@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-8",
+  "title": "General Training Writing — Letter 8",
+  "kind": "practice",
+  "description": "Task 1 letter, 8 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-8-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are due to move into a rented apartment next month but you will not be able to because you have some problems.\nWrite a letter to the course provider. In your letter,\nexplain your situation\ndescribe your problems\ntell him/her when you think you can move in",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

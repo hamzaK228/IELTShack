@@ -1,0 +1,882 @@
+{
+  "id": "pte-gt-reading-78",
+  "title": "General Training Reading — Practice Test 78",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Emergency procedures",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-78-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In an emergency, a teacher will either phone the office or______",
+          "answer": "SEND A MESSENGER",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The signal for evacuation will normally he several______",
+          "answer": "SHORT BELL RINGS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If possible, students should leave the building by the______",
+          "answer": "NEAREST STAIRCASE/ STAIRS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "They then walk quickly to the______",
+          "answer": "(PAVED) QUADRANGLE (AREA)/ QUAD",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "will join the teachers and students in the quad. ______",
+          "answer": "(ALL) SUPPORT STAFF/ PERSONNEL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Each class teacher will count up his or her students and mark______",
+          "answer": "THE (CLASS) ROLL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After the______everyone may return to class.",
+          "answer": "ALL CLEAR (SIGNAL)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If there is an emergency at lunchtime, students gather in the quad in______and wait for their teacher.",
+          "answer": "(THEIR) HOME-ROOM GROUPS",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Emergency procedures",
+        "text": "Revised July 2011 This applies to all persons on the school campus. In case of emergency e.g. fire, find the nearest teacher who will send a messenger at full speed to the office or inform the office via phone ext 99.\n\nProcedure for evacuation 1. Warning of an emergency evacuation will be marked by a number of short bell rings. (In the event of a power failure. this may be a hand-held bell or siren.) 2. All class work will cease immediately. 3. Students will leave their bags, books and other possessions where They are. 4. Teachers will take the class rolls. 5. Classes will vacate the premises using the nearest staircase. If these stairs are inaccessible, use the nearest alternative staircase. Do not use the lilts. Do not run. 6. Each class, under the teacher's supervision, will move in brisk, orderly fashion to the paved quadrangle area adjacent to the car park. 7. All support staff will do the same. 8. The Marshalling Supervisor Ms Randall, will be wearing a red cap and she will he waiting there with the master timetable and staff list in her possession. 9. Students assemble in the quad with their teacher at the time of evacuation. The teacher will do a head count and check the roll. 10. Each teacher sends a student to the Supervisor to report whether all students have been accounted for. After checking, students will sit down (in the event of rain or wet pavement they may remain standing). 11. The Supervisor will inform the Office when all staff and students have been accounted for. 12. All students, teaching stall and support personnel remain in the evacuation area until the All Clear signal is given. 13. The All Clear will be a long bell ring or three blasts on the siren. 14. Students will return to class in an orderly manner under teacher guidance. 15. In the event of an emergency occurring during lunch or breaks, students are to assemble in their home-room groups in the quad and await their home-room teacher."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Short courses: Business",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-78-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Business Basics is appropriate for beginners.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bookkeeping has no practical component.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bookkeeping is intended for advanced students only.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The New Enterprise Module can help your business become more profitable.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Social Networking focuses on specific website to help your business succeed.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Communication class involves speaking in front of an audience.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Short courses: Business",
+        "text": "Business basics Gain foundation knowledge for employment in an accounts position with bookkeeping and business basics through to intermediate level: suitable for anyone requiring knowledge from the ground up.\n\nCode – B/ED011\n\n16th or 24th April 9 am – 4 pm\n\nCost $420\n\nBookkeeping This course will provide students with a comprehensive understanding of bookkeeping and a great deal of hands-on experience.\n\nCode – B/ED020\n\n19th April 9 am – 2.30 pm (one session only so advance bookings essential)\n\nCost $250\n\nNew enterprise module Understand company structures, tax rates, deductions, employer obligations, profit and loss statements, GST and budgeting for tax.\n\nCode – B/ED030\n\n15th or 27th May 6 pm – 9 pm\n\nCost $105\n\nSocial networking – the latest marketing tool This broad overview gives you the opportunity to analyse what web technologies are available and how they can benefit your organisation.\n\nCode – B/ED033\n\n1st or 8th or 15th June 6 pm – 9 pm\n\nCost $95\n\nCommunication Take the fear out of talking to large gathering of people. Gain the public speaking experience that will empower you with better communication skills and confidence.\n\nCode – B/ED401\n\n12th or 13th or 14th July 6 pm – 9 pm\n\nCost $90"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Beneficial work practices for the keyboard operator",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-78-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "How can reflection problems be avoided?"
+            },
+            {
+              "id": "ii",
+              "text": "How long should I work without a break?"
+            },
+            {
+              "id": "iii",
+              "text": "What if I experience any problems?"
+            },
+            {
+              "id": "iv",
+              "text": "When is the best time to do filing chores?"
+            },
+            {
+              "id": "v",
+              "text": "What makes a good seat?"
+            },
+            {
+              "id": "vi",
+              "text": "What are the common health problems"
+            },
+            {
+              "id": "vii",
+              "text": "What is the best kind of lighting to have?"
+            },
+            {
+              "id": "viii",
+              "text": "What are the roles of management and workers?"
+            },
+            {
+              "id": "ix",
+              "text": "Why does a VDU create eye fatigue?"
+            },
+            {
+              "id": "x",
+              "text": "Where should I place the documents?"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Beneficial work practices for the keyboard operator",
+        "text": "(A) Sensible work practices are an important factor in the prevention of muscular fatigue: discomfort or pain in the arms, neck, hands or back: or eye strain which can be associated with constant or regular work at a keyboard and visual display unit (VDU).\n\n(B) It is vital that the employer pays attention to the physical setting such as workplace design, the office environment, and placement of monitors as well as the organisation of the work and individual work habits. Operators must be able to recognise work-related health problems and be given the opportunity to participate in the management of these. Operators should take note of and follow the preventive measures outlined below.\n\n(C) The typist must be comfortably accommodated in a chair that is adjustable for height with a back rest that is also easily adjustable both for angle and height. The back rest and sitting ledge (with a curved edge) should preferably be cloth-covered to avoid excessive perspiration.\n\n(D) When the keyboard operator is working from a paper file or manuscript, it should be at the same distance from the eyes as the screen. The most convenient position can be found by using some sort of holder. Individual arrangement will vary according to whether the operator spends more time looking at the VDU or the paper — whichever the eyes are focused on for the majority of time should be put directly in front of the operator.\n\n(E) While keying, it is advisable to have frequent but short pauses of around thirty to sixty seconds to proofread. When doing this, relax your hands. After you have been keying for sixty minutes, you should have a ten minute change of activity. During this spell it is important that you do not remain seated but stand up or walk around. This period could be profitably used to do filing or collect and deliver documents.\n\n(F) Generally, the best position for a VDU is at right angles to the window. If this is not possible then glare from the window can be controlled by blinds, curtains or movable screens. Keep the face of the VDU vertical to avoid glare from overhead lighting.\n\n(G) Unsatisfactory work practices or working conditions may result in aches or pain. Symptoms should be reported to your supervisor early on so that the cause of the trouble can be corrected and the operator should seek medical attention."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Workplace dismissals",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-78-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If an employee receives a______, this means he will lose his job if his work does not get better.",
+          "answer": "FINAL WRITTEN WARNING",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If an employee does not accept the reasons for his dismissal, a______can be arranged.",
+          "answer": "FORMAL APPEAL HEARING",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An employee is asked to leave work straight away because he has done something really bad.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fair dismissal"
+            },
+            {
+              "id": "B",
+              "text": "Summary dismissal"
+            },
+            {
+              "id": "C",
+              "text": "Unfair dismissal"
+            },
+            {
+              "id": "D",
+              "text": "Wrongful dismissal"
+            },
+            {
+              "id": "E",
+              "text": "Constructive dismissal"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An employee is pressured to leave his job unless he accepts conditions that are very different from those agreed to in the beginning.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fair dismissal"
+            },
+            {
+              "id": "B",
+              "text": "Summary dismissal"
+            },
+            {
+              "id": "C",
+              "text": "Unfair dismissal"
+            },
+            {
+              "id": "D",
+              "text": "Wrongful dismissal"
+            },
+            {
+              "id": "E",
+              "text": "Constructive dismissal"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An employer gets rid of an employee without keeping to conditions in the contract.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fair dismissal"
+            },
+            {
+              "id": "B",
+              "text": "Summary dismissal"
+            },
+            {
+              "id": "C",
+              "text": "Unfair dismissal"
+            },
+            {
+              "id": "D",
+              "text": "Wrongful dismissal"
+            },
+            {
+              "id": "E",
+              "text": "Constructive dismissal"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The reason for an employee's dismissal is not considered good enough.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fair dismissal"
+            },
+            {
+              "id": "B",
+              "text": "Summary dismissal"
+            },
+            {
+              "id": "C",
+              "text": "Unfair dismissal"
+            },
+            {
+              "id": "D",
+              "text": "Wrongful dismissal"
+            },
+            {
+              "id": "E",
+              "text": "Constructive dismissal"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The reasons for an employee's dismissal are acceptable by law and the terms of the employment contract.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fair dismissal"
+            },
+            {
+              "id": "B",
+              "text": "Summary dismissal"
+            },
+            {
+              "id": "C",
+              "text": "Unfair dismissal"
+            },
+            {
+              "id": "D",
+              "text": "Wrongful dismissal"
+            },
+            {
+              "id": "E",
+              "text": "Constructive dismissal"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Workplace dismissals",
+        "text": "Before the dismissal If an employer wants to dismiss an employee, there is a process to be followed. Instances of minor misconduct and poor performance must first be addressed through some preliminary steps. Firstly, you should be given an improvement note. This will explain the problem, outline any necessary changes and offer some assistance in correcting the situation. Then, if your employer does not think your performance has improved, you may be given a written warning. The last step is called a final written warning which will inform you that you will be dismissed unless there are improvements in performance. If there is no improvement, your employer can begin the dismissal procedure. The dismissal procedure begins with a letter from the employer setting out the charges made against the employee. The employee will be invited to a meeting to discuss these accusations. If the employee denies the charges, he is given the opportunity to appear at a formal appeal hearing in front of a different manager. After this, a decision is made as to whether the employee will be let go or not.\n\nDismissals Of the various types of dismissal, a fair dismissal is the best kind if an employer wants an employee out of the workplace. A fair dismissal is legally and contractually strong and it means all the necessary procedures have been correctly followed. In cases where an employee's misconduct has been very serious, however, an employer may not have to follow all of these procedures. If the employer can prove that the employee's behaviour was illegal, dangerous or severely wrong, the employee can be dismissed immediately: a procedure known as summary dismissal. Sometimes a dismissal is not considered to have taken place fairly. One of these types is wrongful dismissal and involves a breach of contract by the employer. This could involve dismissing an employee without notice or without following proper disciplinary and dismissal procedures. Another type, unfair dismissal, is when an employee is sacked without good cause. There is another kind of dismissal, known as constructive dismissal, which is slightly peculiar because the employee is not actually openly dismissed by the employer. In this case the employee is forced into resigning by an employer who tries to make significant changes to the original contract. This could mean an employee might have to work night shifts after originally signing on for day work."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Text 5",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-78-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the origin of the word 'calisthenics' ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the last popular supporter of calisthenics ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the first use of calisthenics as a training method ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a multidisciplinary approach to all-round health and strength ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "reasons for the survival of calisthenics throughout the ages ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the use of a medical substance to increase muscle mass and strength ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q35",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a reference to traveling showmen who displayed their strength for audiences ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the sixties and seventies, attaining huge muscles became more important than ______or having an attractive looking body. The first people to take up this new sport of body building had a background in calisthenics but the most famous practitioners became known as (37) ______on account of the impressive size of their muscles. Drugs and mechanical devices were used to develop individual muscles to a monstrous size. Calisthenics then became the domain of weaker people: female, children and those recovering from (38) ______Much of the advanced knowledge about calisthenics was lost and the method was subsequently downgraded to the status of simple, user-friendly activity. Once a person became skilled at this, he would progress to (39) ______Currently revival of calisthenics is underway as extreme muscle building can harm the body leaving it sore, out of balance and in poor (40) ______",
+          "answer": "FUNCTIONAL STRENGTH",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the sixties and seventies, attaining huge muscles became more important than (36) ______or having an attractive looking body. The first people to take up this new sport of body building had a background in calisthenics but the most famous practitioners became known as ______on account of the impressive size of their muscles. Drugs and mechanical devices were used to develop individual muscles to a monstrous size. Calisthenics then became the domain of weaker people: female, children and those recovering from (38) ______Much of the advanced knowledge about calisthenics was lost and the method was subsequently downgraded to the status of simple, user-friendly activity. Once a person became skilled at this, he would progress to (39) ______Currently revival of calisthenics is underway as extreme muscle building can harm the body leaving it sore, out of balance and in poor (40) ______",
+          "answer": "MASS MONSTERS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the sixties and seventies, attaining huge muscles became more important than (36) ______or having an attractive looking body. The first people to take up this new sport of body building had a background in calisthenics but the most famous practitioners became known as (37) ______on account of the impressive size of their muscles. Drugs and mechanical devices were used to develop individual muscles to a monstrous size. Calisthenics then became the domain of weaker people: female, children and those recovering from ______Much of the advanced knowledge about calisthenics was lost and the method was subsequently downgraded to the status of simple, user-friendly activity. Once a person became skilled at this, he would progress to (39) ______Currently revival of calisthenics is underway as extreme muscle building can harm the body leaving it sore, out of balance and in poor (40) ______",
+          "answer": "INJURIES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the sixties and seventies, attaining huge muscles became more important than (36) ______or having an attractive looking body. The first people to take up this new sport of body building had a background in calisthenics but the most famous practitioners became known as (37) ______on account of the impressive size of their muscles. Drugs and mechanical devices were used to develop individual muscles to a monstrous size. Calisthenics then became the domain of weaker people: female, children and those recovering from (38) ______Much of the advanced knowledge about calisthenics was lost and the method was subsequently downgraded to the status of simple, user-friendly activity. Once a person became skilled at this, he would progress to ______Currently revival of calisthenics is underway as extreme muscle building can harm the body leaving it sore, out of balance and in poor (40) ______",
+          "answer": "WEIGHT TRAINING",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-78-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the sixties and seventies, attaining huge muscles became more important than (36) ______or having an attractive looking body. The first people to take up this new sport of body building had a background in calisthenics but the most famous practitioners became known as (37) ______on account of the impressive size of their muscles. Drugs and mechanical devices were used to develop individual muscles to a monstrous size. Calisthenics then became the domain of weaker people: female, children and those recovering from (38) ______Much of the advanced knowledge about calisthenics was lost and the method was subsequently downgraded to the status of simple, user-friendly activity. Once a person became skilled at this, he would progress to (39) ______Currently revival of calisthenics is underway as extreme muscle building can harm the body leaving it sore, out of balance and in poor ______",
+          "answer": "CARDIOVASCULAR HEALTH",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Text 5",
+        "text": "Calisthenics\n\nThe world's oldest form of resistance training\n\n(A) From the very first caveman to scale a tree or hang from a cliff face, to the mighty armies of the Greco-Roman empires and the gymnasiums of modern American high schools, calisthenics has endured and thrived because of its simplicity and utility. Unlike strength training which involves weights, machines or resistance bands, calisthenics uses only the body's own weight for physical development.\n\n(B) Calisthenics enters the historical record at around 480 B.C. with Herodotus account of the Battle of Thermopolylae. Herodotus reported that, prior to the battle, the god-king Xerxes sent a scout party to spy on his Spartan enemies. The scouts informed Xerxes that the Spartans, under the leadership of King Leonidas, were practicing some kind of bizarre, synchronised movements akin to a tribal dance. Xerxes was greatly amused. His own army was comprised of over 120,000 men, while the Spartans had just 300. Leonidas was informed that he must retreat or face annihilation. The Spartans did not retreat, however, and in the ensuing battle they managed to hold Xerxes' enormous army at bay for some time until reinforcements arrived. It turns out their tribal dance was not a superstitious ritual but a form of calisthenics by which they were building awe-inspiring physical strength and endurance.\n\n(C) The Greeks took calisthenics seriously not only as a form of military discipline and strength, but also as an artistic expression of movement and an aesthetically ideal physique. Indeed, the term calisthenics itself is derived from the Greek words for beauty and strength. We know from historical records and images from pottery, mosaics and sculptures of the period that the ancient Olympians took calisthenics training seriously. They were greatly admired — and still are, today — for their combination of athleticism and physical beauty. You may have heard a friend whimsically sigh and mention that someone 'has the body of a Greek god'. This expression has travelled through centuries and continents, and the source of this envy and admiration is the calisthenics method.\n\n(D) Calisthenics experienced its second golden age in the I800s. This century saw the birth of gymnastics, an organised sport that uses a range of bars, rings, vaulting horses and balancing beams to display physical prowess. This period is also when the phenomena of strongmen developed. These were people of astounding physical strength and development who forged nomadic careers by demonstrating outlandish feats of strength to stunned populations. Most of these men trained using hand balancing and horizontal bars, as modern weight machines had not yet been invented.\n\n(E) In the 1950s, Angelo Siciliano — who went by the stage name Charles Atlas —was crowned \"The World's Most Perfectly Developed Man\". Atlas's own approach stemmed from traditional calisthenics, and through a series of mail order comic books he taught these methods to hundreds of thousands of children and young adults through the 1960s and 1970s. But Atlas was the last of a dying breed. The tides were turning, fitness methods were drifting away from calisthenics, and no widely-regarded proponent of the method would ever succeed him.\n\n(F) In the 1960s and 1970s calisthenics and the goal of functional strength combined with physical beauty was replaced by an emphasis on huge muscles at any cost. This became the sport of body building. Although body building's pioneers were drawn from the calisthenics tradition, the sole goal soon became an increase in muscle size. Body building icons, people such as Arnold Schwarzenegger and Sergio Oliva, were called mass monsters because of their imposing physiques. Physical development of this nature was only attainable through the use of anabolic steroids, synthetic hormones which boosted muscle development while harming overall health. These body builders also relied on free weights and machines, which allowed them to target and bloat the size of individual muscles rather than develop a naturally proportioned body Calisthenics, with its emphasis on physical beauty and a balance in proportions, had little to offer the mass monsters.\n\n(G) In this \"bigger is better\" climate, calisthenics was relegated to groups perceived to be vulnerable, such as women, people recuperating from Injuries and school students. Although some of the strongest and most physically developed human beings ever to have lived acquired their abilities through the use of sophisticated calisthenics, a great deal of this knowledge was discarded and the method was reduced to nothing more than an easily accessible and readily available activity. Those who mastered the rudimentary skills of calisthenics could expect to graduate to weight training rather than advanced calisthenics.\n\n(H) In recent years, however, fitness trends have been shifting back toward the use of calisthenics. Bodybuilding approaches that promote excessive muscle development frequently lead to joint pain, injuries, unbalanced physiques and weak cardiovascular health. As a result, many of the newest and most popular gyms and programmes emphasise calisthenics-based methods instead. Modern practices often combine elements from a number of related traditions such as yoga, Pilates, kettle-ball training, gymnastics and traditional Greco-Roman calisthenics. Many people are keen to recover the original Greek vision of physical beauty and strength and harmony of the mind-body connection."
+      }
+    }
+  ]
+}

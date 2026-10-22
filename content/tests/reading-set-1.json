@@ -1,0 +1,127 @@
+{
+  "id": "reading-set-1",
+  "title": "Academic Reading — Set 1",
+  "kind": "practice",
+  "description": "A full IELTS-style reading passage with eight questions across the most common task types.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "tea-reading",
+      "skill": "reading",
+      "title": "Reading — The story of tea",
+      "instructions": "Read the passage and answer questions 1–8.",
+      "passage": {
+        "id": "tea",
+        "title": "The story of tea",
+        "text": "(A) According to Chinese legend, tea was discovered when leaves blew into the emperor's boiling water. Whatever its origin, the drink was certainly used as a medicine in China long before it became a daily beverage. By the Tang dynasty, tea had become central to Chinese culture, and elaborate ceremonies developed around its preparation.\n\n(B) Tea reached Japan in the ninth century, carried by monks who had studied in China. It arrived in Europe much later, in the early seventeenth century, when Dutch traders brought small quantities to Amsterdam. At first the drink was so expensive that only wealthy households could afford it, and it was often kept locked in a cabinet.\n\n(C) The British taste for tea grew rapidly after 1784, when the government sharply reduced the tax on imported leaves. Cheaper tea displaced coffee and beer as the national drink, and demand grew so quickly that the East India Company began large-scale cultivation in India to secure supply. Smuggling had been widespread while taxes were high, but legal trade soon dominated.\n\n(D) Today tea is grown in more than thirty countries and is the most widely consumed manufactured drink in the world. Modern production is highly mechanised, yet the basic process — picking, withering, rolling, oxidising and drying — has changed remarkably little in two thousand years."
+      },
+      "questions": [
+        {
+          "id": "tea-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the passage say about the discovery of tea?",
+          "options": [
+            { "id": "A", "text": "It is known to have happened in Japan." },
+            { "id": "B", "text": "The story is legendary rather than proven." },
+            { "id": "C", "text": "It was discovered by Dutch traders." },
+            { "id": "D", "text": "It happened during the Tang dynasty." }
+          ],
+          "answer": "B",
+          "explanation": "Paragraph A introduces the story as a legend: 'According to Chinese legend...'.",
+          "difficulty": 1
+        },
+        {
+          "id": "tea-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Tea was first used in China as a medicine.",
+          "options": [
+            { "id": "True", "text": "True" },
+            { "id": "False", "text": "False" },
+            { "id": "Not Given", "text": "Not Given" }
+          ],
+          "answer": "True",
+          "explanation": "Paragraph A states that tea was used as a medicine in China before becoming a daily drink.",
+          "difficulty": 1
+        },
+        {
+          "id": "tea-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Tea was more popular than coffee in Europe when it first arrived.",
+          "options": [
+            { "id": "True", "text": "True" },
+            { "id": "False", "text": "False" },
+            { "id": "Not Given", "text": "Not Given" }
+          ],
+          "answer": "Not Given",
+          "explanation": "Paragraph B says tea was expensive and limited to wealthy households; it makes no comparison with coffee at that time.",
+          "difficulty": 2
+        },
+        {
+          "id": "tea-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The British began growing tea in India to meet rising demand.",
+          "options": [
+            { "id": "True", "text": "True" },
+            { "id": "False", "text": "False" },
+            { "id": "Not Given", "text": "Not Given" }
+          ],
+          "answer": "True",
+          "explanation": "Paragraph C says demand grew so quickly that the East India Company began large-scale cultivation in India.",
+          "difficulty": 1
+        },
+        {
+          "id": "tea-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tea was used as a ______ in China before it became an everyday drink.",
+          "answer": "medicine",
+          "explanation": "Paragraph A: 'the drink was certainly used as a medicine in China'.",
+          "difficulty": 1
+        },
+        {
+          "id": "tea-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What made tea cheaper in Britain?",
+          "options": [
+            { "id": "A", "text": "A reduction in tax" },
+            { "id": "B", "text": "The end of smuggling" },
+            { "id": "C", "text": "New production methods" },
+            { "id": "D", "text": "Competition from coffee" }
+          ],
+          "answer": "A",
+          "explanation": "Paragraph C: the government sharply reduced the tax on imported leaves in 1784.",
+          "difficulty": 1
+        },
+        {
+          "id": "tea-q7",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which heading best fits paragraph C?",
+          "options": [
+            { "id": "A", "text": "A drink for the wealthy" },
+            { "id": "B", "text": "Trade and smuggling" },
+            { "id": "C", "text": "Taxes and popularity" },
+            { "id": "D", "text": "Modern production" }
+          ],
+          "answer": "C",
+          "explanation": "Paragraph C describes the tax cut of 1784 and the rapid growth in popularity that followed.",
+          "difficulty": 2
+        },
+        {
+          "id": "tea-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In which century did tea first reach Europe?",
+          "answer": "seventeenth",
+          "explanation": "Paragraph B says tea arrived in Europe in the early seventeenth century.",
+          "difficulty": 1
+        }
+      ]
+    }
+  ]
+}

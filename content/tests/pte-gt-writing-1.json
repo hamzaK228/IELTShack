@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-1",
+  "title": "General Training Writing — Letter 1",
+  "kind": "practice",
+  "description": "Task 1 letter, 1 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-1-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are studying for a qualification, and you would like some time off work to complete it.\nWrite a letter to your manager. In your letter:\nAsk for some time off to complete a qualification.\nSuggest what you will do later at work if you have time off.\nSay how the qualification helps your job or company.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

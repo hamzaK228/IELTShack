@@ -1,0 +1,492 @@
+{
+  "id": "pte-listening-174",
+  "title": "Listening — Practice Test 174",
+  "kind": "practice",
+  "description": "One recording, 20 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-174-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are the parking regulations on campus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "undergraduate parking allowed"
+            },
+            {
+              "id": "B",
+              "text": "postgraduate parking allowed"
+            },
+            {
+              "id": "C",
+              "text": "staff parking only allowed"
+            },
+            {
+              "id": "D",
+              "text": "no student parking allowed"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The administration office is in",
+          "options": [
+            {
+              "id": "A",
+              "text": "Block"
+            },
+            {
+              "id": "B",
+              "text": "B Block D."
+            },
+            {
+              "id": "C",
+              "text": "Block E."
+            },
+            {
+              "id": "D",
+              "text": "Block G."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "If you do not have a parking sticker, the following action will be taken:",
+          "options": [
+            {
+              "id": "A",
+              "text": "wheel clamp your car."
+            },
+            {
+              "id": "B",
+              "text": "fine only."
+            },
+            {
+              "id": "C",
+              "text": "tow away your car and fine."
+            },
+            {
+              "id": "D",
+              "text": "tow away your car only."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which picture shows the correct location of the Administration office? ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-174-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: ______",
+          "answer": "Richard Lee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Flat 13 ______",
+          "answer": "30 enmore road",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Suburb: ______",
+          "answer": "newport",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Faculty: ______",
+          "answer": "architecture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Registration Number: ______",
+          "answer": "LJX058K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Make of car: ______",
+          "answer": "Ford",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Cashier's office opens at",
+          "options": [
+            {
+              "id": "A",
+              "text": "12.15"
+            },
+            {
+              "id": "B",
+              "text": "2.00"
+            },
+            {
+              "id": "C",
+              "text": "2.15"
+            },
+            {
+              "id": "D",
+              "text": "4.30"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q12",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Where must the sticker be displayed? ______",
+          "answer": "window",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "November 1991 ______",
+          "answer": "November 1991",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ships ______",
+          "answer": "ships",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "green arrows ______",
+          "answer": "green arrows",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "information desk ______",
+          "answer": "information desk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "stairs to climb ______",
+          "answer": "stairs to climb",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "every hour ______",
+          "answer": "every hour",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "captain cook ______",
+          "answer": "captain cook",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "the sea ______",
+          "answer": "the sea",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "australian artists ______",
+          "answer": "australian artists",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "$70 ______",
+          "answer": "$70",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "souvenirs ______",
+          "answer": "souvenirs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mark is going to talk briefly about",
+          "options": [
+            {
+              "id": "A",
+              "text": "marketing new products."
+            },
+            {
+              "id": "B",
+              "text": "pricing strategies."
+            },
+            {
+              "id": "C",
+              "text": "managing large companies."
+            },
+            {
+              "id": "D",
+              "text": "setting sales targets."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to Susan, air fares are lowest when they",
+          "options": [
+            {
+              "id": "A",
+              "text": "include weekend travel."
+            },
+            {
+              "id": "B",
+              "text": "are booked well in advance."
+            },
+            {
+              "id": "C",
+              "text": "are non-refundable."
+            },
+            {
+              "id": "D",
+              "text": "are for business travel only."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mark thinks revenue management is",
+          "options": [
+            {
+              "id": "A",
+              "text": "interesting."
+            },
+            {
+              "id": "B",
+              "text": "complicated."
+            },
+            {
+              "id": "C",
+              "text": "time-consuming."
+            },
+            {
+              "id": "D",
+              "text": "reasonable."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The airline companies want to",
+          "options": [
+            {
+              "id": "A",
+              "text": "increase profits."
+            },
+            {
+              "id": "B",
+              "text": "benefit the passenger."
+            },
+            {
+              "id": "C",
+              "text": "sell cheap seats."
+            },
+            {
+              "id": "D",
+              "text": "improve the service."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "and ______",
+          "answer": "law has changed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Two reasons for the new approach to pricing are: (28) and ______ In future people will be able to book airline tickets (30) Also being marketed m this way are (31) and (32)",
+          "answer": "computer programs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In future people will be able to book airline tickets ______",
+          "answer": "from home",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Also being marketed m this way are ______ and",
+          "answer": "hotels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Two reasons for the new approach to pricing are: (28) and (29) In future people will be able to book airline tickets (30) Also being marketed m this way are (31) and ______",
+          "answer": "hire cars",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "displays ______",
+          "answer": "displays",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "TV cameras ______",
+          "answer": "TV cameras",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "recorder ______",
+          "answer": "recorder",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "spaceman ______",
+          "answer": "spaceman",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "position ______",
+          "answer": "position",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "walk ______",
+          "answer": "walk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "at eye level ______",
+          "answer": "at eye level",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-174-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "hotspots ______",
+          "answer": "hotspots",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/174_we.mp3"
+    }
+  ]
+}

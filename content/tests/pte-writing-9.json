@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-9",
+  "title": "Academic Writing — Practice Test 9",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-9-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The charts below show the proportions of British students at one university in England who were able to speak other languages in addition to English, in 2000 and 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. (adsbygoogle = window.adsbygoogle || []).push({});",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-9.png"
+        },
+        {
+          "id": "pte-writing-9-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people claim that not enough of the waste from homes is recycled. They say that the only way to increase recycling is for governments to make it a legal requirement. To what extent do you think laws are needed to make people recycle more of their waste? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

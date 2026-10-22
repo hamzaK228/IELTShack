@@ -1,0 +1,1189 @@
+{
+  "id": "pte-gt-reading-71",
+  "title": "General Training Reading — Practice Test 71",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Youth Adventure Package",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-71-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list below.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oceanrest Motel at Sea Bay $205 per person( twin share )"
+            },
+            {
+              "id": "B",
+              "text": "The Fery hotel in cliftion for $211 per person (twin share)"
+            },
+            {
+              "id": "C",
+              "text": "Seabreeze hotel at Seal Bay for $252 per person (including full breakfast)"
+            },
+            {
+              "id": "D",
+              "text": "Island Escape Lodge at Frech River for $314 per person ( twin share ), water view, includes continental breakfast."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list below.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oceanrest Motel at Sea Bay $205 per person( twin share )"
+            },
+            {
+              "id": "B",
+              "text": "The Fery hotel in cliftion for $211 per person (twin share)"
+            },
+            {
+              "id": "C",
+              "text": "Seabreeze hotel at Seal Bay for $252 per person (including full breakfast)"
+            },
+            {
+              "id": "D",
+              "text": "Island Escape Lodge at Frech River for $314 per person ( twin share ), water view, includes continental breakfast."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You have heard that the best spots are on the south coast",
+          "options": [
+            {
+              "id": "B",
+              "text": "Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more information, please read the Benefits under each"
+            },
+            {
+              "id": "D",
+              "text": "We are dedicated to protecting your privacy. Your medical history will be collected when required and will only be used or disclosed for the purpose of adjudicating the claim."
+            },
+            {
+              "id": "E",
+              "text": "Yes you can. Just call your agent no sooner than 7 days prior to the expiry of your policy. You can purchase an extension if you are in good health and have not filed any claims on the policy."
+            },
+            {
+              "id": "F",
+              "text": "You are covered for any country outside of the USA. However, transit for 5 days only is allowed through the USA."
+            },
+            {
+              "id": "A",
+              "text": "Oceanrest Motel at Sea Bay $205 per person( twin share )"
+            },
+            {
+              "id": "C",
+              "text": "Seabreeze hotel at Seal Bay for $252 per person (including full breakfast)"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list below.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oceanrest Motel at Sea Bay $205 per person( twin share )"
+            },
+            {
+              "id": "B",
+              "text": "The Fery hotel in cliftion for $211 per person (twin share)"
+            },
+            {
+              "id": "C",
+              "text": "Seabreeze hotel at Seal Bay for $252 per person (including full breakfast)"
+            },
+            {
+              "id": "D",
+              "text": "Island Escape Lodge at Frech River for $314 per person ( twin share ), water view, includes continental breakfast."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list below.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Oceanrest Motel at Sea Bay $205 per person( twin share )"
+            },
+            {
+              "id": "B",
+              "text": "The Fery hotel in cliftion for $211 per person (twin share)"
+            },
+            {
+              "id": "C",
+              "text": "Seabreeze hotel at Seal Bay for $252 per person (including full breakfast)"
+            },
+            {
+              "id": "D",
+              "text": "Island Escape Lodge at Frech River for $314 per person ( twin share ), water view, includes continental breakfast."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Part B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Do i have to reveal my medical history?"
+            },
+            {
+              "id": "ii",
+              "text": "Does the plan cover lost luggage?"
+            },
+            {
+              "id": "iii",
+              "text": "If i want to stay longer can i extend my policy?"
+            },
+            {
+              "id": "iv",
+              "text": "Can i travel anywhere in the world?"
+            },
+            {
+              "id": "v",
+              "text": "what is not covered?"
+            },
+            {
+              "id": "vi",
+              "text": "what if I have an emergency or claim?"
+            },
+            {
+              "id": "vii",
+              "text": "How much will it cost?"
+            },
+            {
+              "id": "viii",
+              "text": "Why do i need travel insurance EXAMPLE"
+            },
+            {
+              "id": "ix",
+              "text": "Can i buy insurance after i have begun my travels?"
+            },
+            {
+              "id": "x",
+              "text": "In what situations am i covered when travelling?"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Part C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Do i have to reveal my medical history?"
+            },
+            {
+              "id": "ii",
+              "text": "Does the plan cover lost luggage?"
+            },
+            {
+              "id": "iii",
+              "text": "If i want to stay longer can i extend my policy?"
+            },
+            {
+              "id": "iv",
+              "text": "Can i travel anywhere in the world?"
+            },
+            {
+              "id": "v",
+              "text": "what is not covered?"
+            },
+            {
+              "id": "vi",
+              "text": "what if I have an emergency or claim?"
+            },
+            {
+              "id": "vii",
+              "text": "How much will it cost?"
+            },
+            {
+              "id": "viii",
+              "text": "Why do i need travel insurance EXAMPLE"
+            },
+            {
+              "id": "ix",
+              "text": "Can i buy insurance after i have begun my travels?"
+            },
+            {
+              "id": "x",
+              "text": "In what situations am i covered when travelling?"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Part D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Do i have to reveal my medical history?"
+            },
+            {
+              "id": "ii",
+              "text": "Does the plan cover lost luggage?"
+            },
+            {
+              "id": "iii",
+              "text": "If i want to stay longer can i extend my policy?"
+            },
+            {
+              "id": "iv",
+              "text": "Can i travel anywhere in the world?"
+            },
+            {
+              "id": "v",
+              "text": "what is not covered?"
+            },
+            {
+              "id": "vi",
+              "text": "what if I have an emergency or claim?"
+            },
+            {
+              "id": "vii",
+              "text": "How much will it cost?"
+            },
+            {
+              "id": "viii",
+              "text": "Why do i need travel insurance EXAMPLE"
+            },
+            {
+              "id": "ix",
+              "text": "Can i buy insurance after i have begun my travels?"
+            },
+            {
+              "id": "x",
+              "text": "In what situations am i covered when travelling?"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Part E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Do i have to reveal my medical history?"
+            },
+            {
+              "id": "ii",
+              "text": "Does the plan cover lost luggage?"
+            },
+            {
+              "id": "iii",
+              "text": "If i want to stay longer can i extend my policy?"
+            },
+            {
+              "id": "iv",
+              "text": "Can i travel anywhere in the world?"
+            },
+            {
+              "id": "v",
+              "text": "what is not covered?"
+            },
+            {
+              "id": "vi",
+              "text": "what if I have an emergency or claim?"
+            },
+            {
+              "id": "vii",
+              "text": "How much will it cost?"
+            },
+            {
+              "id": "viii",
+              "text": "Why do i need travel insurance EXAMPLE"
+            },
+            {
+              "id": "ix",
+              "text": "Can i buy insurance after i have begun my travels?"
+            },
+            {
+              "id": "x",
+              "text": "In what situations am i covered when travelling?"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Part F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Do i have to reveal my medical history?"
+            },
+            {
+              "id": "ii",
+              "text": "Does the plan cover lost luggage?"
+            },
+            {
+              "id": "iii",
+              "text": "If i want to stay longer can i extend my policy?"
+            },
+            {
+              "id": "iv",
+              "text": "Can i travel anywhere in the world?"
+            },
+            {
+              "id": "v",
+              "text": "what is not covered?"
+            },
+            {
+              "id": "vi",
+              "text": "what if I have an emergency or claim?"
+            },
+            {
+              "id": "vii",
+              "text": "How much will it cost?"
+            },
+            {
+              "id": "viii",
+              "text": "Why do i need travel insurance EXAMPLE"
+            },
+            {
+              "id": "ix",
+              "text": "Can i buy insurance after i have begun my travels?"
+            },
+            {
+              "id": "x",
+              "text": "In what situations am i covered when travelling?"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What item is covered in addition to health and medical expenses? ______",
+          "answer": "lost/stolen luggage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Accidental injury not covered if a person use ______",
+          "answer": "alcohol, illegal drugs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is special about the coverage for the United States? Have you always wanted to learn to dive? Getting a Diving Certificate will be one of the most exciting experiences of your life as you learn how to explore a new world underwater! Here's the 10-step path to becoming a certified diver: STEP 1: Decide you really want to do it. STEP 2: Find a dive store and dive instructor you like. STEP 3: Discuss how you will complete your open-water certification: meeting weekly for classroom and pool sessions, weekend classes, home study, class trip for your open-water dives, and more. STEP 4: With your instructor, decide on a plan that best fits your schedule. STEP 5: Put on a mask, a snorkel and a pair of fins. These are the basic items of personal equipment that need to be fitted to you by a dive store professional. For reasons of safety and comfort, we recommend that you buy dive equipment only at a dive store. STEP 6: Be enthusiastic. An important part of your training involves going back to the classroom and learning about the dive environment, physics and safety practices. STEP 7: Get wet! Your first dives will take place in a swimming pool. Be prepared for your first breath on a regulator (breathing apparatus) under water! STEP 8: Go diving Your open-water training dives provide the opportunity to practise the skills you learned in your classroom and pool work! STEP 9: Use your 'C-card' now that you're a certified diver! Only card-carrying divers can buy scuba life-support equipment. We also encourage you to begin right now selecting your personal equipment, especially a regulator, buoyancy compensator and dive computer. Having your own equipment will make you safer and more comfortable under water. STEP 10: Go for more. Your certification is really just the beginning. You still need to serve a diving internship with your instructor and other experienced divers. Sign up for more training or dives under supervision as soon as you can ______",
+          "answer": "transit (only)/5 days transit",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Youth Adventure Package",
+        "text": "Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or, accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night.\n\n(A) Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage.\n\n(B) Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more information, please read the Benefits under each\n\n(C) The Youth Adventure Package does not cover everything. This insurance has some exclusions. You should read and understand them before you travel. Prior-existing medical conditions may be excluded. Any medical condition you are aware of prior to the effective date of coverage, whether diagnosed or not, may not be covered. Sickness or accidental injury that occurs as a result of the use of alcohol or illegal drugs is not covered.\n\n(D) We are dedicated to protecting your privacy. Your medical history will be collected when required and will only be used or disclosed for the purpose of adjudicating the claim.\n\n(E) Yes you can. Just call your agent no sooner than 7 days prior to the expiry of your policy. You can purchase an extension if you are in good health and have not filed any claims on the policy.\n\n(F) You are covered for any country outside of the USA. However, transit for 5 days only is allowed through the USA."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: FEAR NO MORE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-71-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What THREE pieces of personal equipment do you need to buy before starting the course? ______",
+          "answer": "mask, snorkel, fins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Why should you buy your equipment from a dive store? ______",
+          "answer": "(for)safety /(and) comfort",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Name ONE topic studied in the classroom. ______",
+          "answer": "safety practices/dive environment/physics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What must you show before being allowed to buy scuba diving equipment? ______",
+          "answer": "C-card",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What thing can make you feel more comfortable and safer by possessing it? ______",
+          "answer": "your own equipment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What thing do you need to do with instructor and other experienced divers after being certified? ______",
+          "answer": "(a) diving internship",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "do not panic"
+            },
+            {
+              "id": "ii",
+              "text": "if you get lost"
+            },
+            {
+              "id": "iii",
+              "text": "do not be trapped"
+            },
+            {
+              "id": "iv",
+              "text": "I won't be able to swim"
+            },
+            {
+              "id": "v",
+              "text": "if I get the bends"
+            },
+            {
+              "id": "vi",
+              "text": "I won't be able to see"
+            },
+            {
+              "id": "vii",
+              "text": "don't get eaten"
+            },
+            {
+              "id": "viii",
+              "text": "if you run out of air"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "do not panic"
+            },
+            {
+              "id": "ii",
+              "text": "if you get lost"
+            },
+            {
+              "id": "iii",
+              "text": "do not be trapped"
+            },
+            {
+              "id": "iv",
+              "text": "I won't be able to swim"
+            },
+            {
+              "id": "v",
+              "text": "if I get the bends"
+            },
+            {
+              "id": "vi",
+              "text": "I won't be able to see"
+            },
+            {
+              "id": "vii",
+              "text": "don't get eaten"
+            },
+            {
+              "id": "viii",
+              "text": "if you run out of air"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "do not panic"
+            },
+            {
+              "id": "ii",
+              "text": "if you get lost"
+            },
+            {
+              "id": "iii",
+              "text": "do not be trapped"
+            },
+            {
+              "id": "iv",
+              "text": "I won't be able to swim"
+            },
+            {
+              "id": "v",
+              "text": "if I get the bends"
+            },
+            {
+              "id": "vi",
+              "text": "I won't be able to see"
+            },
+            {
+              "id": "vii",
+              "text": "don't get eaten"
+            },
+            {
+              "id": "viii",
+              "text": "if you run out of air"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "do not panic"
+            },
+            {
+              "id": "ii",
+              "text": "if you get lost"
+            },
+            {
+              "id": "iii",
+              "text": "do not be trapped"
+            },
+            {
+              "id": "iv",
+              "text": "I won't be able to swim"
+            },
+            {
+              "id": "v",
+              "text": "if I get the bends"
+            },
+            {
+              "id": "vi",
+              "text": "I won't be able to see"
+            },
+            {
+              "id": "vii",
+              "text": "don't get eaten"
+            },
+            {
+              "id": "viii",
+              "text": "if you run out of air"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dive no deeper than ______until you feel comfortable.",
+          "answer": "60 feet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Don't as mind ______make a 3-minute safety stop at 15 feet.",
+          "answer": "too quickly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you see a shark ______avoid splashing, kicking or poking at fish.",
+          "answer": "remain calm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Visualise emergencies and ______- your responses. Experience gives you confidence.",
+          "answer": "practice",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "FEAR NO MORE",
+        "text": "(A) It's natural to be scared at first, but statistics show scuba diving is not particularly dangerous. It is estimated that there are 2.4 million divers and 17 million dives made in the U.S. per year. Divers Alert Network, the leading safety organisation for divers. reported only 85 fatalities in the past year. Most of us find that as our ability increases, our fears decrease. The risks in scuba diving, while real, can all be reduced significantly by what you do for your own safely. Here are some of the most common fears of new scuba divers.\n\n(B) It's understandable if you mistrust your scuba regulator. But mechanical failure of your breathing equipment is highly unlikely. A regulator is simple, strong and designed so that if it does fail, it delivers more air than you need, not less. You will also have an extra breathing system, and so will your diving buddy. Keep an eye on your air gauges and time. If you are running out of air you will find that you have to suck harder to breathe. You will still have time to ascend slowly, even if you have to hold your breath. If you stay above 60 feet and stay out of caves and wrecks — good advice for all new divers — there is no reason to be afraid of running out of air under water.\n\n(C) \"The bends'* is the decompression sickness most people associate with diving, but in fact it is almost preventable. Divers most often get the bends by going too deep and coming up too quickly. It is not a serious risk if you stay above 60 feet. A safety stop of three minutes at 15 feet is a wise precaution. Cases of the bends do occur rarely, but the sickness is normally treatable.\n\n(D) Most fish ignore you or swim away. They have very narrow diets and eat only what they are accustomed to; however, sometimes sharks have been known to make attacks on humans. Even here, there is evidence that the shark mistakes a human for his regular meal, a seal or sea-lion, and shark attacks are very rare. In the presence of sharks, remain calm. Don't annoy sharks by poking at them. Almost all fish will leave you alone if you do the same to them.\n\n(E) Fear can sometimes overwhelm the intellect and leaves some people paralysed. The best prevention is training. You will be taught the correct response to danger. When you practise the response, it will be there when you need it. When you know just what to do, you're much less likely to lose self-control. And experience — simply diving again and again — reduces the general anxiety level that is natural when diving is still new. When you realise you are not helpless, your fears are likely to disappear."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: SLOW FOOD",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-71-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a catalogue of domestic animal* at risk of disappearing",
+          "options": [
+            {
+              "id": "A",
+              "text": "old fashioned cooking methods"
+            },
+            {
+              "id": "B",
+              "text": "genetically modified foods"
+            },
+            {
+              "id": "C",
+              "text": "endangered species of edible plants"
+            },
+            {
+              "id": "D",
+              "text": "junk food culture"
+            },
+            {
+              "id": "E",
+              "text": "the enjoyment of good food and drink"
+            },
+            {
+              "id": "F",
+              "text": "high yield industrial fanning"
+            },
+            {
+              "id": "G",
+              "text": "rare local domestic animals"
+            },
+            {
+              "id": "H",
+              "text": "organic methods of production"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "statistics on the loss of variety in agricultural species",
+          "options": [
+            {
+              "id": "A",
+              "text": "old fashioned cooking methods"
+            },
+            {
+              "id": "B",
+              "text": "genetically modified foods"
+            },
+            {
+              "id": "C",
+              "text": "endangered species of edible plants"
+            },
+            {
+              "id": "D",
+              "text": "junk food culture"
+            },
+            {
+              "id": "E",
+              "text": "the enjoyment of good food and drink"
+            },
+            {
+              "id": "F",
+              "text": "high yield industrial fanning"
+            },
+            {
+              "id": "G",
+              "text": "rare local domestic animals"
+            },
+            {
+              "id": "H",
+              "text": "organic methods of production"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "initiatives to ensure the financial survival of the organisation",
+          "options": [
+            {
+              "id": "A",
+              "text": "old fashioned cooking methods"
+            },
+            {
+              "id": "B",
+              "text": "genetically modified foods"
+            },
+            {
+              "id": "C",
+              "text": "endangered species of edible plants"
+            },
+            {
+              "id": "D",
+              "text": "junk food culture"
+            },
+            {
+              "id": "E",
+              "text": "the enjoyment of good food and drink"
+            },
+            {
+              "id": "F",
+              "text": "high yield industrial fanning"
+            },
+            {
+              "id": "G",
+              "text": "rare local domestic animals"
+            },
+            {
+              "id": "H",
+              "text": "organic methods of production"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "information on the food budget of an average family",
+          "options": [
+            {
+              "id": "A",
+              "text": "old fashioned cooking methods"
+            },
+            {
+              "id": "B",
+              "text": "genetically modified foods"
+            },
+            {
+              "id": "C",
+              "text": "endangered species of edible plants"
+            },
+            {
+              "id": "D",
+              "text": "junk food culture"
+            },
+            {
+              "id": "E",
+              "text": "the enjoyment of good food and drink"
+            },
+            {
+              "id": "F",
+              "text": "high yield industrial fanning"
+            },
+            {
+              "id": "G",
+              "text": "rare local domestic animals"
+            },
+            {
+              "id": "H",
+              "text": "organic methods of production"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q32",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which of the following does the Slow Food Movement NOT promote?",
+          "options": [
+            {
+              "id": "A",
+              "text": "old fashioned cooking methods"
+            },
+            {
+              "id": "B",
+              "text": "genetically modified foods"
+            },
+            {
+              "id": "C",
+              "text": "endangered species of edible plants"
+            },
+            {
+              "id": "D",
+              "text": "junk food culture"
+            },
+            {
+              "id": "E",
+              "text": "the enjoyment of good food and drink"
+            },
+            {
+              "id": "F",
+              "text": "high yield industrial fanning"
+            },
+            {
+              "id": "G",
+              "text": "rare local domestic animals"
+            },
+            {
+              "id": "H",
+              "text": "organic methods of production"
+            }
+          ],
+          "answer": [
+            "B",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "slow travel",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Ark of Taste",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "virtuous globalisation",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Salon de Gusto",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "agri-business",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "SLOW List of Phrases",
+          "options": [
+            {
+              "id": "A",
+              "text": "a resource for agricultural biodiversity"
+            },
+            {
+              "id": "B",
+              "text": "a showcase for Italian food products"
+            },
+            {
+              "id": "C",
+              "text": "a database of Slow Food members"
+            },
+            {
+              "id": "D",
+              "text": "helping local producers compete in the international market"
+            },
+            {
+              "id": "E",
+              "text": "published four times a year"
+            },
+            {
+              "id": "F",
+              "text": "operates in Europe, Asia and Australia"
+            },
+            {
+              "id": "G",
+              "text": "promotes protection of the environment and good eating"
+            },
+            {
+              "id": "H",
+              "text": "produces food using industrial methods"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Following which crisis did the Slow Food movement become a political force? ______",
+          "answer": "mad cow disease",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-71-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This movement was started as a reaction against what? ______",
+          "answer": "fast food (giants)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "SLOW FOOD",
+        "text": "(A) Slow Food is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small-scale producers of ethnic and local products around the world.\n\n(B) Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy.\n\n(C) Statistics on the loss of biodiversity in our food chain are alarming. In less than a century over 300,000 plant species have disappeared — one plant species disappears every six hours. Today less than 30 varieties of plant feed 95% of the world's population. In Europe, half the breeds of domestic livestock became extinct during the course of the twentieth century. The crisis over mad cow disease and the ongoing debate over genetically modified food have given Slow Food, with its emphasis on organic methods, unexpected political influence.\n\n(D) In the space of a few years, Slow Food has become a major lobbying force in the European Union on agriculture and trade policy. Agri-business practices that have become dominant worldwide are geared to production in quantity. This is a carryover from agricultural policies set in the 1950s in Europe, when hunger from the war was still a vivid memory. At that time, when the goal was self sufficiency, farmers received subsidies according to the amounts they produced. There was and still is no reward for quality. Two generations ago, the average European family spent about one half of its income on food. Today it spends about 15 per cent. Surveys conducted by Slow Food show that a large majority of Italians would be willing to pay up to 20 per cent more for food in order to guarantee its quality, especially given recent food scares and scandals.\n\n(E) As national boundaries disappear in Europe and become more open around the world, food has emerged as an important source of identity. Slow Food's position on globalisation is that it has the potential to help as well as harm the small food producer. On the one hand, globalisation has allowed multinational corporations to extend their reach to virtually every comer of the world. However, rather than being afraid of the fast food giants, Slow Food is attempting to offer an alternative choice of \"virtuous globalisation\" by choosing to focus on quality and helping the small, local producer to access the global market.\n\n(F) The Slow Food organisation had to find ways to ensure its own economic viability. An initial strategy to generate income through publishing led to a number of food guides that were quickly successful Some of the most popular of these feature restaurants serving authentic, local foods at local prices. Numerous and varied initiatives have sprung up since. The popular quarterly magazine, 'SLOW', features articles about food culture around the world. Italy's largest food show, the 'Salon de Gusto', sponsored by the Slow Food movement, provides an international market to hundreds of small producers whose goods, until recently, rarely left their village or region. Now there is even 'slow travel'. A growing number of tour operators in Italy, France, Australia and India subscribe to the movement, promoting \"cultural and educational journeys using food and the people that produce it as the learning medium.\" 'Slow cities' are entire communities dedicated to improving the quality of life for their citizens through environmentally sound, culturally-aware, eco-gastronomic policies and activities.\n\n(G) Another significant initiative of Slow Food is the Ark of Taste, a database of endangered species of edible plants and domestic animals worldwide. Commissions have been set up in many countries to seek out and catalogue new products. So far, 800 products from 26 countries have been figuratively brought onboard the Ark in an attempt to save them. The Ark of Taste has become an international project and a resource for agricultural biodiversity around the world.\n\n(H) So, a movement that began as a humorous protest against fast food has, in its own organic way, evolved into a versatile and intelligent advocate for the protection of the environment. The best response to global forces challenging the ability to enjoy our food and our lives begins, according to the Slow Food movement, 'at the table'. We are invited to slow down, appreciate the flavours of food and drink, and cultivate the art of living. Fast food isn't likely to disappear, but Slow Food seems to be here to stay as well. Its message is getting through — encouraging a pleasure-loving environmentalism as an alternative to the highspeed pace of the fast-food world. From its humble beginnings, Slow Food now includes a global network of people capable of generating ideas, and programs to defend the right to a responsible form of pleasure, respectful of cultural diversity and available to all."
+      }
+    }
+  ]
+}

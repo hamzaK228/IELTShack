@@ -1,0 +1,763 @@
+{
+  "id": "pte-gt-reading-122",
+  "title": "General Training Reading — Practice Test 122",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: The best bags for taking things to the sports centre or gym",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Owners of this bag can put wet swimwear in it and keep other items dry. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bag will not wear out quickly. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "If someone is looking for an environmentally friendly bag, this one would be appropriate. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can choose from two different sizes of this bag. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bag would suit someone who does not want to spend too much. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bag has only just appeared on the market. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bag weighs more than some other gym bags. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "The best bags for taking things to the sports centre or gym",
+        "text": "(A) Fjallraven vardag duffel 30 This premium outdoor brand has a newly released lightweight bag in its product range. Constructed from the brand's special water-resistant fabric, it's also great from an eco-perspective, as it's made from 65 per cent recycled polyester and 35 per cent organic cotton. This bag is definitely strong, and you'll be able to squeeze it into a tight space without worrying about damaging it.\n\n(B) Filson medium rugged twill duffel bag This brand has a great tradition of producing simply the best quality gear. If you're inclined to treat yourself to a bag that should last you a lifetime, this is for you. Admittedly it's likely you'll need to save up for this one, but it's well worth it.\n\n(C) Deuter trans alpine pro 28 This pack has got so many features, which does, however, make it on the heavier side. For example, the pouch at the back is expandable to put your bike helmet (or trainers / towel / other sizeable gear) in, and the side pockets are perfect for water bottles.\n\n(D) Columbia unisex convey 25I rolltop daypack The full-width zip means you can easily push stuff in. There's one main compartment which also has a separate padded sleeve for a tablet plus an extra zip pocket for valuables at the top and convenient metal rings to attach items like bike helmets if required.\n\n(E) The North Face base camp duffel This top-of-the-range bag has a very generous 50 litre storage capacity. If that's too much for you, there's always the trimmer 31 litre equivalent (which retails a little cheaper). There's an internal pocket to separate some gear out and an extra small external zip pocket on one of the ends.\n\n(F) Under Armour sports style duffel\n\n(A) simple yet effective and stylish bag. At 24 litres it's neat in size, and a separate smaller waterproof compartment at one of the ends is ideal for putting damp gear in so that everything else is unaffected by it. It also comes with a removable strap so you can wear it over one shoulder. It's a decent option for an everyday gym bag that won't break the bank."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Why not try coasteering in North Devon?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The coasteering centre guarantees participants will see animals in the sea during their session.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Participants need to walk from the centre in Croyde to the start of their coasteering session.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Refreshments in the cafe are included in the fee for the course.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The thrill-seeker route is the most popular one.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Participants need to pay extra to hire the necessary items of safety equipment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The centre recommends participants put on a particular type of footwear.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is possible to combine coasteering with learning another sport.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Why not try coasteering in North Devon?",
+        "text": "Coasteering is an adventure sport which involves coastal exploration. When you try coasteering from our centre, you go along the local coast, staying at sea level. You do this by, for example, running over rough ground, climbing rocks, swimming, and jumping off cliffs into the sea. In this way you can explore the impact zone, which is the area where the sea and the land meet and you will get an entirely new view of the coast and on some days you may even be able to observe a variety of marine wildlife. Our centre is located in the centre of the village of Croyde in the south-west of England, which has some very beautiful coastal scenery. From our centre you're transported to the coasteering location on Baggy Point. Once you've completed your coasteering experience we'll return you to our centre, which has changing facilities and warm showers, and you can also get a drink or snack in the cafe. Your coasteering guide will check the tide and conditions at sea before your trip. Checks on your safety equipment to make sure it fits effectively are important too. If your guide feels that the risks are too high, then your trip will be rescheduled. It should be noted that the minimum age is 8 years old. We have a range of experiences for participants to try, such as the family coasteering route, which includes a variety of exciting things to look at. Then there is the adventurer challenge and the more challenging thrill-seeker route. Coastal adventures can be arranged as a part of a group or in a private session. The choice is entirely yours. Sessions are £40 per person, which covers the use of wetsuits, helmets and a buoyancy aid to help you float in the sea. Towels can be hired for a small fee. You'll need to bring a pair of shorts to wear over your wetsuit to protect it when you slide over rocks and a pair of trainers to help you grip on slippery surfaces. If you're also interested in surfing, you can add lessons to your coasteering sessions at our centre in Croyde."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Opportunities for graduates – freelance writing",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o best to check out that potential employers are ______ before agreeing to do any work",
+          "answer": "Genuine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o ensure all ______ are persuasive and kept to a minimum length",
+          "answer": "Pitches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the power to decide on the size of the ______",
+          "answer": "Workload",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the ______ in the scheduling of the work",
+          "answer": "Flexibility",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the chance to commit to a second ______ to generate income",
+          "answer": "Job",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• it is largely expected that young freelancers will be happy to complete assignments without ______ …",
+          "answer": "Payment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• graduates whose ______ is limited may not get any work",
+          "answer": "Motivation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Opportunities for graduates – freelance writing",
+        "text": "If you want to start a career in writing or journalism, freelancing could be for you. Here is some advice on finding opportunities, and building your portfolio: There are more graduates than ever entering an increasingly diminished market, so they are having to be more creative in the ways they get income and gain experience in their chosen field. For those with a talent for writing, working freelance can be worthwhile. When starting out, many people turn to specialist websites listing a range of current writing projects offered by different organisations, which freelancers can apply to complete. These sites can be useful but just make sure any organisation is genuine first. Otherwise you might find you've spent hours on work which you never get paid for. When looking to get work for magazines and newspapers, keep the pitches – in which you present what you could write for them – brief and interesting. Even if you're sending your fifth in a row of rejected ones, be polite and professional.\n\nThe advantages The positives of freelancing as a graduate are numerous. It's incredibly satisfying to be working for yourself and having the responsibility of determining your own workload. Making a living doing what you love is hugely rewarding, and of course the flexibility of the work hours may suit you. New graduates are generally used to working unusual hours, so if you're most comfortable working late at night or at the weekend, then freelancing may be the way to go. Depending on how much work you manage to get, which can vary wildly, especially when you're just starting out, it also leaves it open for you to get a part-time job, however basic, which would bring in a regular amount.\n\nThe disadvantages It is not steady and it is not always profitable. Graduate writers are notorious for working for no actual payment, and it's because there are so many people willing to do it that companies simply assume that it's acceptable, and of course this suits the companies. Freelancing is probably not for people who lack motivation. If you don't go looking for work, spending your days shooting off emails, then it is very unlikely the work will come to you. For most people, freelancing does not provide regular work at the beginning. So if you find it stressful not getting paid at the end of every week or month, then it's worth looking at other options."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: How to make sure your CV catches the hiring manager's eye",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer should make sure that they have separated the CV into suitable ______",
+          "answer": "Sections",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If the text of a CV is too long, there is a risk that the reader's ______ will not be held.",
+          "answer": "Interest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is advisable to highlight the essential ______ for the post early on in the CV.",
+          "answer": "Budget",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Writers should support statements in their CV with facts, for example how big is the ______ that they are in charge of.",
+          "answer": "Skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is worth giving details of any past ______, together with any relevant statistics.",
+          "answer": "Achievements",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Checking that no ______ appear in the language used in the CV is vital.",
+          "answer": "Mistakes",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "How to make sure your CV catches the hiring manager's eye",
+        "text": "To be successful in today's job market, it pays to put yourself in the shoes of the hiring manager. After all, their perception of your CV could result in a job interview or a rejection. Hiring managers are pushed for time, so they will usually spend a few seconds skimming your CV for must-have terms before they decide to commit to reading it fully. To pass this preliminary test, make sure your CV is extremely easy to read and is divided into appropriate sections. Never make readers wade through large amounts of writing or you will risk losing their interest quickly You should also research your target role thoroughly to identify what skills are most needed and ensure these are clearly included near the beginning of your CV. Providing a pleasant reading experience and reflecting the company's needs in your CV will create a perfect first impression. Once managers have scanned your CV quickly, they will look at your present or most recent post. This is easily the best way to assess you, so managers will review this part of your CV thoroughly. Give this description your full attention and think about the questions that managers will want answers to, such as 'Where do you sit within the organisation?' and 'How do you contribute to the company?' Many job seekers make bold claims in their CVs, but very few back them up with facts. Demonstrate the scale of your responsibilities by including numbers such as the size of budget you control, or the number of locations you work in. These numbers provide a scale that everybody can understand and leave readers in no doubt of the level you work at. You can also prove your impact by including quantifiable achievements you have had. Perhaps you have generated sales of £300k within six months, or maybe you have delivered a project that affected 3 million customers. Even the smallest weakness can deter managers from shortlisting you. Obvious spelling and grammar mistakes will be warning signs, but they will also be on the lookout for gaps in the list of posts you have held, or facts that just don't add up. Proofread your CV thoroughly, including all of your dates, and don't be tempted to add any white lies. Keep everything looking as professional as possible and don't give them any reason to doubt you."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: How archaeologists made some exciting discoveries in southeast Turkey",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Below the mound where the governor's palace stood was a large lower town. Archaeologists found some houses of considerable size there, which had spacious courtyards in the middle. These had attractively patterned ______ on the floors.",
+          "answer": "Mosaics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists discovered a large number of differently shaped artefacts in one of the buildings. They discovered a large number of very small ______ which represented a variety of goods and quantities. They were probably adopted by the townspeople to maintain (36) ______ of goods, as well as men and women, that entered and left the town. Later, a number of inscribed tablets were discovered, which mostly recorded the transport of (37) ______ This trade was also evident in the remains of some enormous jars that were found, which had been used for storage.",
+          "answer": "Tokens",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists discovered a large number of differently shaped artefacts in one of the buildings. They discovered a large number of very small (35) ______ which represented a variety of goods and quantities. They were probably adopted by the townspeople to maintain ______ of goods, as well as men and women, that entered and left the town. Later, a number of inscribed tablets were discovered, which mostly recorded the transport of (37) ______ This trade was also evident in the remains of some enormous jars that were found, which had been used for storage.",
+          "answer": "Records",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists discovered a large number of differently shaped artefacts in one of the buildings. They discovered a large number of very small (35) ______ which represented a variety of goods and quantities. They were probably adopted by the townspeople to maintain (36) ______ of goods, as well as men and women, that entered and left the town. Later, a number of inscribed tablets were discovered, which mostly recorded the transport of ______ This trade was also evident in the remains of some enormous jars that were found, which had been used for storage.",
+          "answer": "Barely",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "How archaeologists made some exciting discoveries in southeast Turkey",
+        "text": "(A) It's a sad fact of archaeological life that we can often only find things when they're about to be lost forever. Construction of the llisu Dam, on the river Tigris in southeast Turkey, is now complete, and the flooding of 300 km2 of land behind it has begun. The dam will provide much needed water and electricity to the local region, but it will flood up to 500 archaeological sites. However, its construction has also provided a great opportunity to learn about the past of this region, because when the dam was proposed in the early 1990s, the government invited teams of local and international archaeologists to work in the Tigris valley upstream of llisu to recover as much as they could before the dam was completed. The result was a series of intensive survey projects, followed by more than twenty excavations, which amazingly came across places with archaeological remains ranging from deep prehistory to the Ottoman period. The area to be flooded is now the best-studied archaeological landscape in eastern Turkey.\n\n(B) One of the biggest llisu Dam salvage excavations was at the site of Ziyaret Tepe, an imposing mound rising 22 metres above the plain, within which lies the ancient Assyrian city of Tushan. Tushan was a provincial centre which guarded the northern border of the mighty Assyrian Empire for almost 300 years (882-611 BCE). It never approached the grandeur of the Assyrian capital Nineveh, but it was part of the Assyrian network of imperial control which imposed authority over conquered regions. Tushan was home not just to Assyrian settlers, but to deportees from all over the empire, who had been uprooted from their homelands as a further means of subjugation.\n\n(C) Archaeological work at Ziyaret Tepe began in 1997 and ran for eighteen years. The results of all those long hot summers in the field are now finally ready to be presented, with the publication of the project's first book. It provides the most complete picture of an Assyrian imperial town yet known. It includes a mass of information on the governor's palace at Tushan, which sat on the eastern side of the high mound. It was built under King Ashurnasirpal II, who boasted about its construction in an inscription found not far away. Unlike Ashurnasirpal's magnificent palace at Nimrud, Tushan's provincial palace had no raised stone carvings of historical figures. Instead, its white plastered walls were decorated with finely painted geometric patterns in blue, red, orange and black. The reception suite was equipped with a trackway for a moveable heating brazier and with neatly tiled bathrooms, giving it a touch of luxury. The remains of some of the governors themselves may have been found. Under the paving of the palace, five intact burials of human ashes were excavated. Whether or not these were the governors of Tushan, they were certainly important people, whose bodies had been burnt on beds with ivory fittings, and provided with bronze bowls, lamps and ornaments. Intriguingly, cremation was not an Assyrian practice and these burials suggest that Tushan's ruling elite had either adopted local customs, or were not themselves Assyrians.\n\n(D) To the south of the high mound, Tushan had a substantial lower town and this is where the real work of the city took place. Over many seasons, the excavation team uncovered a series of sizeable structures, all set around large courtyards paved with beautiful black and white mosaics made of thousands of small, plain black or white pebbles collected from local river beds. Most were high-status homes but one had more complex functions. The entrance chamber to this building yielded hundreds of tiny tokens in a range of forms standing for different numbers and commodities. These are thought to have been used for keeping records as merchandise and people passed in and out. The administrative function of the building was confirmed when an archive of 28 tablets with cuneiform writing was found. These include lists of different personnel, but most concern the movement of barley. These transactions are visible throughout the building in the form of standardised weights and huge jars to keep it in. This building was the commercial and administrative centre of Tushan.\n\n(E) The frontier character of the city, which stood on the border with hostile Shubria, is clear from the massive fortifications which surrounded both the high mound and the lower town. The mudbrick city wall was two kilometres long and almost three metres thick, with a substantial ditch in front of it. Despite these precautions, Tushan fell with the rest of the Assyrian Empire. The imperial capital at Nineveh fell after a dramatic siege in 612 BCE, after which the remaining Assyrian forces retreated steadily north-westward towards the site of the empire's last stand at the city of Harran. In the path of the army of Medes and Babylonians as they marched up the Tigris river lay Tushan.\n\n(F) Now Tushan faces another threat, as the water from the llisu Dam advances along the same route as that used by the Medes and Babylonians 2,600 years ago. It remains to be seen to what extent the site will eventually be flooded, but even though its physical remains may be lost, along with the other llisu sites, there is some consolation in the fact that a rich record of the town of Tushan, some of its history, its people and way of life, is now preserved in the archives and publications of the Ziyaret Tepe project."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Tushan's lower town",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-122-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What do we learn about the ancient city of Tushan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was built in an area which the Assyrians had taken over."
+            },
+            {
+              "id": "B",
+              "text": "It was an impressive city the same size as Nineveh."
+            },
+            {
+              "id": "C",
+              "text": "It was situated in the middle of the northern region of Assyria."
+            },
+            {
+              "id": "D",
+              "text": "It was inhabited mainly by Assyrian soldiers and their families."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why do archaeologists consider the burials under the palace significant?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Assyrian cremations did not generally include any bronze bowls."
+            },
+            {
+              "id": "B",
+              "text": "They indicate that some governors may have been foreigners."
+            },
+            {
+              "id": "C",
+              "text": "The furniture that was found there was unusual for the period."
+            },
+            {
+              "id": "D",
+              "text": "They were the only bodies that were excavated in Tushan."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-122-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Section F, what conclusion does the writer come to?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is clear that Tushan will soon be completely under water."
+            },
+            {
+              "id": "B",
+              "text": "Everything is now known about the history of the Tushan area."
+            },
+            {
+              "id": "C",
+              "text": "Other cities will be researched through the Ziyaret Tepe project."
+            },
+            {
+              "id": "D",
+              "text": "It is likely that documents will be the only source of information on Tushan."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Tushan's lower town",
+        "text": "Below the mound where the governor's palace stood was a large lower town. Archaeologists found some houses of considerable size there, which had spacious courtyards in the middle. These had attractively patterned (34) ………………. on the floors. Archaeologists discovered a large number of differently shaped artefacts in one of the buildings. They discovered a large number of very small (35) …………… which represented a variety of goods and quantities. They were probably adopted by the townspeople to maintain (36) …………………. of goods, as well as men and women, that entered and left the town. Later, a number of inscribed tablets were discovered, which mostly recorded the transport of (37) …………………. This trade was also evident in the remains of some enormous jars that were found, which had been used for storage."
+      }
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "id": "pte-listening-19",
+  "title": "Listening — Practice Test 19",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-19-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Occupation: ______",
+          "answer": "accountant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Age group: ______",
+          "answer": "over",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of membership: ______",
+          "answer": "family",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Length of membership: ______ years",
+          "answer": "9",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Why joined: recommended by a ______",
+          "answer": "doctor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Facility used most: ______",
+          "answer": "(swimming) pool",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Facility not used (if any): tennis courts (because reluctant to ______ )",
+          "answer": "pay (extra)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Suggestions for improvements: have more ______",
+          "answer": "social events",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Install ______ in the gym",
+          "answer": "air conditioning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Open ______ later at weekends",
+          "answer": "restaurant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 11. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 12. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 13. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 14. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 15. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 16. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-19-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO characteristics apply to the bamboo oven?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It's suitable for windy weather."
+            },
+            {
+              "id": "B",
+              "text": "The fire is lit below the bottom end of the bamboo."
+            },
+            {
+              "id": "C",
+              "text": "The bamboo is cut into equal lengths."
+            },
+            {
+              "id": "D",
+              "text": "The oven hangs from a stick."
+            },
+            {
+              "id": "E",
+              "text": "It cooks food by steaming it."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO characteristics apply to the bamboo oven?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It's suitable for windy weather."
+            },
+            {
+              "id": "B",
+              "text": "The fire is lit below the bottom end of the bamboo."
+            },
+            {
+              "id": "C",
+              "text": "The bamboo is cut into equal lengths."
+            },
+            {
+              "id": "D",
+              "text": "The oven hangs from a stick."
+            },
+            {
+              "id": "E",
+              "text": "It cooks food by steaming it."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO pieces of advice does the speaker give about eating wild fungi?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cooking doesn't make poisonous fungi edible."
+            },
+            {
+              "id": "B",
+              "text": "Edible wild fungi can be eaten without cooking."
+            },
+            {
+              "id": "C",
+              "text": "Wild fungi are highly nutritious."
+            },
+            {
+              "id": "D",
+              "text": "Some edible fungi look very similar to poisonous varieties."
+            },
+            {
+              "id": "E",
+              "text": "Fungi which cannot be identified should only be eaten in small quantities."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO pieces of advice does the speaker give about eating wild fungi?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cooking doesn't make poisonous fungi edible."
+            },
+            {
+              "id": "B",
+              "text": "Edible wild fungi can be eaten without cooking."
+            },
+            {
+              "id": "C",
+              "text": "Wild fungi are highly nutritious."
+            },
+            {
+              "id": "D",
+              "text": "Some edible fungi look very similar to poisonous varieties."
+            },
+            {
+              "id": "E",
+              "text": "Fungi which cannot be identified should only be eaten in small quantities."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Phoebe's main reason for choosing her topic was that",
+          "options": [
+            {
+              "id": "A",
+              "text": "her classmates had been very interested in it."
+            },
+            {
+              "id": "B",
+              "text": "it would help prepare her for her first teaching post."
+            },
+            {
+              "id": "C",
+              "text": "she had been inspired by a particular book."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Phoebe's main research question related to",
+          "options": [
+            {
+              "id": "A",
+              "text": "the effect of teacher discipline."
+            },
+            {
+              "id": "B",
+              "text": "the variety of learning activities."
+            },
+            {
+              "id": "C",
+              "text": "levels of pupil confidence."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Phoebe was most surprised by her finding that",
+          "options": [
+            {
+              "id": "A",
+              "text": "gender did not influence behaviour significantly."
+            },
+            {
+              "id": "B",
+              "text": "girls were more negative about school than boys."
+            },
+            {
+              "id": "C",
+              "text": "boys were more talkative than girls in class."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Regarding teaching, Phoebe says she has learned that",
+          "options": [
+            {
+              "id": "A",
+              "text": "teachers should be flexible in their lesson planning."
+            },
+            {
+              "id": "B",
+              "text": "brighter children learn from supporting weaker ones."
+            },
+            {
+              "id": "C",
+              "text": "children vary from each other in unpredictable ways."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Tony is particularly impressed by Phoebe's ability to",
+          "options": [
+            {
+              "id": "A",
+              "text": "recognise the limitations of such small-scale research."
+            },
+            {
+              "id": "B",
+              "text": "reflect on her own research experience in an interesting way."
+            },
+            {
+              "id": "C",
+              "text": "design her research in such a way as to minimise difficulties."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Observing lessons",
+          "options": [
+            {
+              "id": "A",
+              "text": "Obtaining permission"
+            },
+            {
+              "id": "B",
+              "text": "Deciding on a suitable focus"
+            },
+            {
+              "id": "C",
+              "text": "Concentrating while gathering data"
+            },
+            {
+              "id": "D",
+              "text": "Working collaboratively"
+            },
+            {
+              "id": "E",
+              "text": "Processing data she had gathered"
+            },
+            {
+              "id": "F",
+              "text": "Finding a suitable time to conduct the research"
+            },
+            {
+              "id": "G",
+              "text": "Getting hold of suitable equipment"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Interviewing teachers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Obtaining permission"
+            },
+            {
+              "id": "B",
+              "text": "Deciding on a suitable focus"
+            },
+            {
+              "id": "C",
+              "text": "Concentrating while gathering data"
+            },
+            {
+              "id": "D",
+              "text": "Working collaboratively"
+            },
+            {
+              "id": "E",
+              "text": "Processing data she had gathered"
+            },
+            {
+              "id": "F",
+              "text": "Finding a suitable time to conduct the research"
+            },
+            {
+              "id": "G",
+              "text": "Getting hold of suitable equipment"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Interviewing pupils",
+          "options": [
+            {
+              "id": "A",
+              "text": "Obtaining permission"
+            },
+            {
+              "id": "B",
+              "text": "Deciding on a suitable focus"
+            },
+            {
+              "id": "C",
+              "text": "Concentrating while gathering data"
+            },
+            {
+              "id": "D",
+              "text": "Working collaboratively"
+            },
+            {
+              "id": "E",
+              "text": "Processing data she had gathered"
+            },
+            {
+              "id": "F",
+              "text": "Finding a suitable time to conduct the research"
+            },
+            {
+              "id": "G",
+              "text": "Getting hold of suitable equipment"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Using questionnaires",
+          "options": [
+            {
+              "id": "A",
+              "text": "Obtaining permission"
+            },
+            {
+              "id": "B",
+              "text": "Deciding on a suitable focus"
+            },
+            {
+              "id": "C",
+              "text": "Concentrating while gathering data"
+            },
+            {
+              "id": "D",
+              "text": "Working collaboratively"
+            },
+            {
+              "id": "E",
+              "text": "Processing data she had gathered"
+            },
+            {
+              "id": "F",
+              "text": "Finding a suitable time to conduct the research"
+            },
+            {
+              "id": "G",
+              "text": "Getting hold of suitable equipment"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Taking photographs",
+          "options": [
+            {
+              "id": "A",
+              "text": "Obtaining permission"
+            },
+            {
+              "id": "B",
+              "text": "Deciding on a suitable focus"
+            },
+            {
+              "id": "C",
+              "text": "Concentrating while gathering data"
+            },
+            {
+              "id": "D",
+              "text": "Working collaboratively"
+            },
+            {
+              "id": "E",
+              "text": "Processing data she had gathered"
+            },
+            {
+              "id": "F",
+              "text": "Finding a suitable time to conduct the research"
+            },
+            {
+              "id": "G",
+              "text": "Getting hold of suitable equipment"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Juniper was one of the first plants to colonise Britain after the last ______",
+          "answer": "ice age",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Its smoke is virtually so juniper wood was used as fuel in illegal activities. ______",
+          "answer": "invisible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Oils from the plant were used to prevent spreading. ______",
+          "answer": "infections",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Nowadays, its berries are widely used to food and drink ______",
+          "answer": "flavor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Juniper plants also support several species of insects and ______",
+          "answer": "fungi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In current juniper populations, ratios of the are poor. ______",
+          "answer": "sexes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Many of the bushes in each group are of the same age so of whole populations is rapid. ______",
+          "answer": "extinction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Plantlife is trialling novel techniques across areas of England. ______",
+          "answer": "lowland",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One measure is to introduce for seedlings. ______",
+          "answer": "shelter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-19-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A further step is to plant from healthy bushes. ______",
+          "answer": "cuttings",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/19_we.mp3"
+    }
+  ]
+}

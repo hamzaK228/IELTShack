@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-9",
+  "title": "General Training Writing — Letter 9",
+  "kind": "practice",
+  "description": "Task 1 letter, 9 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-9-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are a student at an English language school in Brighton and are living in private accommodation with other flat mates. You have not had hot water or heating for some time. The landlord's workmen have tried to fix the problem but without success.\nWrite a letter to the landlord. In your letter,\nstate your reason for writing\ndescribe the problems and explain how you feel\npropose a solution and risk the landlord to take action",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

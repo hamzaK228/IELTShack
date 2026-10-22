@@ -1,0 +1,618 @@
+{
+  "id": "pte-listening-22",
+  "title": "Listening — Practice Test 22",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-22-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: apartment 3, 86 ______ street, Pimlico",
+          "answer": "bridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Post code: ______",
+          "answer": "2065",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(work) ______",
+          "answer": "84561307",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Driver's licence number: ______",
+          "answer": "4040AC",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of birth: Day: 24 Month: ______ Year: 1981",
+          "answer": "March",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What type of books does Angela like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sport"
+            },
+            {
+              "id": "B",
+              "text": "travel"
+            },
+            {
+              "id": "C",
+              "text": "classics"
+            },
+            {
+              "id": "D",
+              "text": "history"
+            },
+            {
+              "id": "E",
+              "text": "cooking"
+            },
+            {
+              "id": "F",
+              "text": "nature"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What type of books does Angela like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sport"
+            },
+            {
+              "id": "B",
+              "text": "travel"
+            },
+            {
+              "id": "C",
+              "text": "classics"
+            },
+            {
+              "id": "D",
+              "text": "history"
+            },
+            {
+              "id": "E",
+              "text": "cooking"
+            },
+            {
+              "id": "F",
+              "text": "nature"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What type of books does Angela like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sport"
+            },
+            {
+              "id": "B",
+              "text": "travel"
+            },
+            {
+              "id": "C",
+              "text": "classics"
+            },
+            {
+              "id": "D",
+              "text": "history"
+            },
+            {
+              "id": "E",
+              "text": "cooking"
+            },
+            {
+              "id": "F",
+              "text": "nature"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How much does it cost to join the library? ______",
+          "answer": "$20",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When will Angela's card be ready? ______",
+          "answer": "next week",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is one of the new advantages in the dining facilities?",
+          "options": [
+            {
+              "id": "A",
+              "text": "more students"
+            },
+            {
+              "id": "B",
+              "text": "more variety"
+            },
+            {
+              "id": "C",
+              "text": "more service"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What was one problem with the dining options last year?",
+          "options": [
+            {
+              "id": "A",
+              "text": "students did not have enough to eat"
+            },
+            {
+              "id": "B",
+              "text": "students has to pay too much money"
+            },
+            {
+              "id": "C",
+              "text": "students had to eat whatever was served"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "and pasta are an example of food ______",
+          "answer": "Pizza, Italian",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "American food consists of ______",
+          "answer": "hamburgers, hot dogs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does the school say the food will be better?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they hired real chefs"
+            },
+            {
+              "id": "B",
+              "text": "The food is more expensive"
+            },
+            {
+              "id": "C",
+              "text": "they will make more kinds"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When will the dining facilities open and close?",
+          "options": [
+            {
+              "id": "A",
+              "text": "6 am and 12 pm"
+            },
+            {
+              "id": "B",
+              "text": "6 am and 12 am"
+            },
+            {
+              "id": "C",
+              "text": "12 pm and 6 pm"
+            },
+            {
+              "id": "D",
+              "text": "12 pm and 6 am"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What can students do if they are hungry in the afternoon?",
+          "options": [
+            {
+              "id": "A",
+              "text": "go out and buy food on the street"
+            },
+            {
+              "id": "B",
+              "text": "wait till dinner time"
+            },
+            {
+              "id": "C",
+              "text": "go to the student store for snacks"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What must you do to eat in the dining facilities if you are not a student?",
+          "options": [
+            {
+              "id": "A",
+              "text": "purchase a dining facility card"
+            },
+            {
+              "id": "B",
+              "text": "purchase meals at the door"
+            },
+            {
+              "id": "C",
+              "text": "purchase meals from other students"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which of the following are rules of the dining facilities?",
+          "options": [
+            {
+              "id": "A",
+              "text": "do not waste food"
+            },
+            {
+              "id": "B",
+              "text": "you may bring friends in to eat"
+            },
+            {
+              "id": "C",
+              "text": "bring your own plates and trays"
+            },
+            {
+              "id": "D",
+              "text": "clean your own plates and trays"
+            },
+            {
+              "id": "E",
+              "text": "don't litter"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which of the following are rules of the dining facilities?",
+          "options": [
+            {
+              "id": "A",
+              "text": "do not waste food"
+            },
+            {
+              "id": "B",
+              "text": "you may bring friends in to eat"
+            },
+            {
+              "id": "C",
+              "text": "bring your own plates and trays"
+            },
+            {
+              "id": "D",
+              "text": "clean your own plates and trays"
+            },
+            {
+              "id": "E",
+              "text": "don't litter"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Obedience training | – Sit / – ______",
+          "answer": "stay",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Spoken commands– ______",
+          "answer": "speak",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Guard training | – Patrolling / – ______",
+          "answer": "barking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Attack training | – Knocking someone down / – ______",
+          "answer": "biting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Search training– ______",
+          "answer": "sniffing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "physical training",
+          "options": [
+            {
+              "id": "A",
+              "text": "small dogs"
+            },
+            {
+              "id": "B",
+              "text": "intelligent dogs"
+            },
+            {
+              "id": "C",
+              "text": "large dogs"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "search training",
+          "options": [
+            {
+              "id": "A",
+              "text": "small dogs"
+            },
+            {
+              "id": "B",
+              "text": "intelligent dogs"
+            },
+            {
+              "id": "C",
+              "text": "large dogs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "attack training",
+          "options": [
+            {
+              "id": "A",
+              "text": "small dogs"
+            },
+            {
+              "id": "B",
+              "text": "intelligent dogs"
+            },
+            {
+              "id": "C",
+              "text": "large dogs"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "barking",
+          "options": [
+            {
+              "id": "A",
+              "text": "small dogs"
+            },
+            {
+              "id": "B",
+              "text": "intelligent dogs"
+            },
+            {
+              "id": "C",
+              "text": "large dogs"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "biting",
+          "options": [
+            {
+              "id": "A",
+              "text": "small dogs"
+            },
+            {
+              "id": "B",
+              "text": "intelligent dogs"
+            },
+            {
+              "id": "C",
+              "text": "large dogs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Dining hall1st floor______Food",
+          "answer": "7am – 12am",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gym and recreational hall______10 am to 10 pmTreadmills, weight set (33) ______",
+          "answer": "basement",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gym and recreational hall(32) ______10 am to 10 pmTreadmills, weight set ______",
+          "answer": "pin-pong tables",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Kitchen______(35) ______(36) ______microwave oven, store",
+          "answer": "2nd floor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Kitchen(34) ______(36) ______microwave oven, store",
+          "answer": "24 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Kitchen(34) ______(35) ______microwave oven, store",
+          "answer": "refrigerator",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "List three activities that Saturday Morning Outings have included in the past ______",
+          "answer": "fishing, hiking, cycling",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There are spaces available for the volleyball team. ______",
+          "answer": "20",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The first rule of the building: must be kept to a minimum after 11 pm. The second rule of the building: All visitors must sign in at the front of the building. ______",
+          "answer": "noise levels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-22-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The third rule of the building: are not permitted in the building. ______",
+          "answer": "alcohol and drugs",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/22_we.mp3"
+    }
+  ]
+}

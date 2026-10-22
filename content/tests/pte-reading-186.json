@@ -1,0 +1,932 @@
+{
+  "id": "pte-reading-186",
+  "title": "Academic Reading — Practice Test 186",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Keep a Watchful Eye on the Bridges",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-186-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did the traditional way to prevent damage of the bridges before the invention of new monitoring system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bridges has to be tested in every movement on two points"
+            },
+            {
+              "id": "B",
+              "text": "Bridges has to be closely monitored by microwave devices."
+            },
+            {
+              "id": "C",
+              "text": "Bridges has already been monitored by sensors."
+            },
+            {
+              "id": "D",
+              "text": "Bridges has to be frequently inspected by professional workers with naked eyes."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How does the new microwave monitors find out the problems of bridges?",
+          "options": [
+            {
+              "id": "A",
+              "text": "by changeling the distance between the positions of devices"
+            },
+            {
+              "id": "B",
+              "text": "by controlling the traffic flow on the bridges"
+            },
+            {
+              "id": "C",
+              "text": "by monitoring the distance caused by traffic between two points"
+            },
+            {
+              "id": "D",
+              "text": "by displacement of the several critical parts in the bridges"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why did the expert believe there is a problem for the design called \"fracture critical\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Engineers failed to apply the newly developed construction materials."
+            },
+            {
+              "id": "B",
+              "text": "There was not enough finance to repair the bridges."
+            },
+            {
+              "id": "C",
+              "text": "The supporting parts of the bridges may crack and cause the bridge to fail."
+            },
+            {
+              "id": "D",
+              "text": "There was bigger traffic load conditions than the designers had anticipated."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Defect was not recognized by a basic method in the beginning",
+          "options": [
+            {
+              "id": "A",
+              "text": "until the mid of faces of bridges has fractures."
+            },
+            {
+              "id": "B",
+              "text": "until the damage appears along and down to the flanges."
+            },
+            {
+              "id": "C",
+              "text": "until the points on the road have been punched."
+            },
+            {
+              "id": "D",
+              "text": "until the frequency of resonates appears disordered."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Something circular, appear below the bridge ______",
+          "answer": "microwave dish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Something small, appear along the bridge ______",
+          "answer": "accelerometers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Two things under the bridge and are supporting it ______",
+          "answer": "steel girders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Something under the bridge with a \"L\" (or \"I\") shape ______",
+          "answer": "flange",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how is the pressure that they have many a great chance to test bridges",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a ten-year positive change for microwave device",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the chance they get a honorable contract",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "explanation of the mechanism for the new microwave monitoring to work",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q13",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how is the damage deliberately created by the researchers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Keep a Watchful Eye on the Bridges",
+        "text": "(A) Most road and rail bridges are only inspected visually, if at all. Every few months, engineers have to clamber over the structure in an attempt to find problems before the bridge shows obvious signs of damage. Technologies developed at Los Alamos National Laboratory, New Mexico, and Texas A&M University may replace these surveys with microwave sensors that constantly monitor the condition of bridges.\n\n(B) \"The device uses microwaves to measure the distance between the sensor and the bridge, much like radar does,\" says Albert Migliori, a Los Alamos physicist \"Any load on the bridge – such as traffic induces displacements, which change that distance as the bridge moves up and down.\" By monitoring these movements over several minutes, the researchers can find out how the bridge resonates. Changes in its behaviour can give an early warning of damage.\n\n(C) The Interstate 40 bridge over the Rio Grande river in Albuquerque provided the researchers with a rare opportunity to text their ideas. Chuck Farrar, an engineer at Los Alamos, explains: \"The New Mexico authorities decided to raze this bridge and replace it. We were able to mount instruments on it, test it under various load conditions and even inflict damage just before it was demolished.\" In the 1960s and 1970s, 2500 similar bridges were built in the US. They have two steel girders supporting the load in each section. Highway experts know that this design is \"fracture critical\" because a failure in either girder would cause the bridge to fail.\n\n(D) After setting up the microwave dish on the ground below the bridge, the Los Alamos team installed conventional accelerometers at several points along the span to measure its motion. They then tested the bridge while traffic roared across it and while subjecting it to pounding from a \"shaker\", which delivered precise punches to a specific point on the road.\n\n(E) \"We then created damage that we hoped would simulate fatigue cracks that can occur in steel girders,\" says Farrar. They first cut a slot about 60 centimetres long in the middle of one girder. They then extended the cut until it reached the bottom of the girder and finally they cut across the flange – the bottom of the girder's \"I\" shape.\n\n(F) The initial, crude analysis of the bridge's behaviour, based on the frequency at which the bridge resonates, did not indicate that anything was wrong until the flange was damaged. But later the data were reanalysed with algorithms that took into account changes in the mode shapes of the structure – shapes that the structure takes on when excited at a particular frequency. These more sophisticated algorithms, which were developed by Norris Stubbs at Texas A&M University, successfully identified and located the damage caused by the initial cut.\n\n(G) \"When any structure vibrates, the energy is distributed throughout with some points not moving, while others vibrate strongly at various frequencies,\" says Stubbs. \"My algorithms use pattern recognition to detect changes in the distribution of this energy.\" NASA already uses Stubbs' method to check the behaviour of the body flap that slows space shuttles down after they land.\n\n(H) A commercial system based on the Los Alamos hardware is now available, complete with the Stubbs algorithms, from the Quatro Corporation in Albuquerque for about $100,000. Tim Darling, another Los Alamos physicist working on the microwave interferometer with Migliori, says that as the electronics become cheaper, a microwave inspection system will eventually be applied to most large bridges in the US. \"In a decade I would like to see a battery or solar-powered package mounted under each bridge, scanning it every day to detect changes,\" he says."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Activities for Children",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-186-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "health and living condition of children",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "health organization monitored physical activity",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "comparison of exercise time between UK and other countries",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "wrong approach for school activity",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "According to American Heart Foundation, cholesterol levels of boys are higher than girls'.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "British children generally do less exercise than some other European countries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Skipping becomes more and more popular in schools of UK.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "According to Healthy Kids, the first task is for parents to encourage their children to keep the same healthy body weight.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to paragraph A, what does Professor Neil Armstrong concern about",
+          "options": [
+            {
+              "id": "A",
+              "text": "Spending more time on TV affect academic level"
+            },
+            {
+              "id": "B",
+              "text": "Parents have less time stay with their children"
+            },
+            {
+              "id": "C",
+              "text": "Future health of British children"
+            },
+            {
+              "id": "D",
+              "text": "Increasing speed of property’s development"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does Armstrong indicate in Paragraph B",
+          "options": [
+            {
+              "id": "A",
+              "text": "We need to take a 10 minute walk every day."
+            },
+            {
+              "id": "B",
+              "text": "We should do more activity to exercise heart."
+            },
+            {
+              "id": "C",
+              "text": "Girls’ situation is better than boys."
+            },
+            {
+              "id": "D",
+              "text": "Exercise can cure many disease."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is aim of First Kids' training",
+          "options": [
+            {
+              "id": "A",
+              "text": "Make profit by running several sessions"
+            },
+            {
+              "id": "B",
+              "text": "Only concentrate on one activity for each child."
+            },
+            {
+              "id": "C",
+              "text": "To guide parents how to organize activities for children."
+            },
+            {
+              "id": "D",
+              "text": "Spread the idea that team sport is better."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What did Lifshitz suggest in the end of this passage",
+          "options": [
+            {
+              "id": "A",
+              "text": "Create opportunities to exercise your body."
+            },
+            {
+              "id": "B",
+              "text": "Taking elevator saves your time."
+            },
+            {
+              "id": "C",
+              "text": "Kids should spend more than 200 calories each day."
+            },
+            {
+              "id": "D",
+              "text": "We should never drive but walk."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the main idea of this passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "health of the children who are overweight is at risk in the future"
+            },
+            {
+              "id": "B",
+              "text": "children in UK need proper exercises"
+            },
+            {
+              "id": "C",
+              "text": "government mistaken approach for children"
+            },
+            {
+              "id": "D",
+              "text": "parents play the most important role in children’s activity"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Activities for Children",
+        "text": "(A) Twenty-five years ago, children in London walked to school and played in parks and playing fields after school and at the weekend. Today they are usually driven to school by parents anxious about safety and spend hours glued to television screens or computer games. Meanwhile, community playing fields are being sold off to property developers at an alarming rate. 'This change in lifestyle has, sadly, meant greater restrictions on children,' says Neil Armstrong, Professor of Health and Exercise Science at the University of Exeter. 'If children continue to be this inactive, they'll be storing up big problems for the future.'\n\n(B) In 1985, Professor Armstrong headed a five-year research project into children's fitness. The results, published in 1990, were alarming. The survey, which monitored 700 11-16-year-olds, found that 48 per cent of girls and 41 per cent of boys already exceeded safe cholesterol levels set for children by the American Heart Foundation. Armstrong adds, \"heart is a muscle and need exercise, or it loses its strength.\" It also found that 13 per cent of boys and 10 per cent of girls were overweight. More disturbingly, the survey found that over a four-day period, half the girls and one-third of the boys did less exercise than the equivalent of a brisk 10-minute walk. High levels of cholesterol, excess body fat and inactivity are believed to increase the risk of coronary heart disease.\n\n(C) Physical education is under pressure in the UK – most schools devote little more than 100 minutes a week to it in curriculum time, which is less than many other European countries. Three European countries are giving children a head start in PE, France, Austria and Switzerland – offer at least two hours in primary and secondary schools. These findings, from the European Union of Physical Education Associations, prompted specialists in children's physiology to call on European governments to give youngsters a daily PE programme. The survey shows that the UK ranks 13th out of the 25 countries, with Ireland bottom, averaging under an hour a week for PE. From age six to 18, British children received, on average, 106 minutes of PE a week. Professor Armstrong, who presented the findings at the meeting, noted that since the introduction of the national curriculum there had been a marked fall in the time devoted to PE in UK schools, with only a minority of pupils getting two hours a week.\n\n(D) As a former junior football international, Professor Armstrong is a passionate advocate for sport. Although the Government has poured millions into beefing up sport in the community, there is less commitment to it as part of the crammed school curriculum. This means that many children never acquire the necessary skills to thrive in team games. If they are no good at them, they lose interest and establish an inactive pattern of behaviour. When this is coupled with a poor diet, it will lead inevitably to weight gain. Seventy per cent of British children give up all sport when they leave school, compared with only 20 per cent of French teenagers. Professor Armstrong believes that there is far too great an emphasis on team games at school. \"We need to look at the time devoted to PE and balance it between individual and pair activities, such as aerobics and badminton, as well as team sports.\" He added that children need to have the opportunity to take part in a wide variety of individual, partner and team sports.\n\n(E) The good news, however, is that a few small companies and children's activity groups have reacted positively and creatively to the problem. 'Take That,' shouts Gloria Thomas, striking a disco pose astride her mini-space hopper. 'Take That,' echo a flock of toddlers, adopting outrageous postures astride their space hoppers. 'Michael Jackson,' she shouts, and they all do a spoof fan-crazed shriek. During the wild and chaotic hopper race across the studio floor, commands like this are issued and responded to with untrammelled glee. The sight of 15 bouncing seven-year-olds who seem about to launch into orbit at every bounce brings tears to the eyes. Uncoordinated, loud, excited and emotional, children provide raw comedy.\n\n(F) Any cardiovascular exercise is a good option, and it doesn't necessarily have to be high intensity. It can be anything that gets your heart rate up: such as walking the dog, swimming, running skipping, hiking. \"Even walking through the grocery store can be exercise,\" Samis-Smith said. What they don't know is that they're at a Fit Kids class, and that the fun is a disguise for the serious exercise plan they're covertly being taken through. Fit Kids trains parents to run fitness classes for children. 'Ninety per cent of children don't like team sports,' says company director, Gillian Gale.\n\n(G) A Prevention survey found that children whose parents keep in shape are much more likely to have healthy body weights themselves. \"There's nothing worse than telling a child what he needs to do and not doing it yourself,\" says Elizabeth Ward, R.D., a Boston nutritional consultant and author of Healthy Foods, Healthy Kids. \"Set a good example and get your nutritional house in order first.\" In the 1930s and '40s, kids expended 800 calories a day just walking, carrying water, and doing other chores,' notes Fima Lifshitz, M.D., a pediatric endocrinologist in Santa Barbara. \"Now, kids in obese families are expending only 200 calories a day in physical activity,\" says Lifshitz, \"incorporate more movement in your family's life – park farther away from the stores at the mall, take stairs instead of the elevator, and walk to nearby friends' houses instead of driving.\""
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Have teenagers always existed?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-186-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "Chain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "Loop",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "Gears",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "(simple) motor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by ______which was introduced into France, and it was modified to (32) ______because temperature there would (33) ______the ice. This time (34) ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send (35) ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a (36) ______there allowed riders to slide downward back again.",
+          "answer": "Ice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by (31) ______which was introduced into France, and it was modified to ______because temperature there would (33) ______the ice. This time (34) ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send (35) ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a (36) ______there allowed riders to slide downward back again.",
+          "answer": "Waxed slices",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by (31) ______which was introduced into France, and it was modified to (32) ______because temperature there would ______the ice. This time (34) ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send (35) ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a (36) ______there allowed riders to slide downward back again.",
+          "answer": "Melt",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by (31) ______which was introduced into France, and it was modified to (32) ______because temperature there would (33) ______the ice. This time ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send (35) ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a (36) ______there allowed riders to slide downward back again.",
+          "answer": "Wheels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by (31) ______which was introduced into France, and it was modified to (32) ______because temperature there would (33) ______the ice. This time (34) ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a (36) ______there allowed riders to slide downward back again.",
+          "answer": "Coal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The first roller coaster was perhaps originated from Russia which is wrapped up by (31) ______which was introduced into France, and it was modified to (32) ______because temperature there would (33) ______the ice. This time (34) ______were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send (35) ______between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a ______there allowed riders to slide downward back again.",
+          "answer": "Steam engine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The most exiting roller coaster in the world is in New Jersey.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "French added more innovation on Russian ice slide including both cars and tracks.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Switch Back Railways began to gain popularity since its first construction in New York.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-186-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Great Depression affected amusement parks yet did not shake the significant role of US roller coasters in the world.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Have teenagers always existed?",
+        "text": "(A) 600 years ago, roller coaster pioneers never would have imagined the advancements that have been made to create the roller coasters of today. The tallest and fastest roller coaster in the world is the Kingda Ka, a coaster in New Jersey that launches its passengers from zero to 128 miles per hour in 3.5 seconds (most sports cars take over four seconds to get to just 60 miles per hour). It then heaves its riders skyward at a 90-degree angle (straight up) until it reaches a height of 456 feet, over one and a half football fields, above the ground, before dropping another 418 feet (Coaster Grotto \"Kingda Ka\"). With that said, roller coasters are about more than just speed and height, they are about the creativity of the designers that build them, each coaster having its own unique way of producing intense thrills at a lesser risk than the average car ride. Roller coasters have evolved drastically over the years, from their primitive beginnings as Russian ice slides, to the metal monsters of today. Their combination of creativity and structural elements make them one of the purest forms of architecture.\n\n(B) At first glance, a roller coaster is something like a passenger train. It consists of a series of connected cars that move on tracks. But unlike a passenger train, a roller coaster has no engine or power source of its own. For most of the ride, the train is moved by gravity and momentum. To build up this momentum, you need to get the train to the top of the first hill or give it a powerful launch. The traditional lifting mechanism is a long length of chain running up the hill under the track. The chain is fastened in a loop, which is wound around a gear at the top of the hill and another one at the bottom of the hill. The gear at the bottom of the hill is turned by a simple motor. This turns the chain loop so that it continually moves up the hill like a long conveyer belt. The coaster cars grip onto the chain with several chain dogs, sturdy hinged hooks. When the train rolls to the bottom of the hill, the dogs catches onto the chain links. Once the chain dog is hooked, the chain simply pulls the train to the top of the hill. At the summit, the chain dog is released and the train starts its descent down the hill.\n\n(C) Roller coasters have a long, fascinating history. The direct ancestors of roller coasters were monumental ice slides – long, steep wooden-slides covered in ice, some as high as 70 feet – that were popular in Russia in the 16th and 17th centuries. Riders shot down the slope in sleds made out of wood or blocks of ice, crash-landing in a sand pile. Coaster historians diverge on the exact evolution of these ice slides into actual rolling carts. The most widespread account is that a few entrepreneurial Frenchmen imported the ice slide idea to France. The warmer climate of France tended to melt the ice, so the French started building waxed slides instead, eventually adding wheels to the sleds. In 1817, the Russes a Belleville (Russian Mountains of Belleville) became the first roller coaster where the train was attached to the track (in this case, the train axle fit into a carved groove). The French continued to expand on this idea, coming up with more complex track layouts, with multiple cars and all sorts of twists and turns.\n\n(D) In comparison to the world's first roller coaster, there is perhaps an even greater debate over what was America's first true coaster. Many will say that it is Pennsylvania's own Maunch Chunk-Summit Hill and Switch Back Railroad. The Maunch Chunk-Summit Hill and Switch Back Railroad was originally America's second railroad, and considered my many to be the greatest coaster of all time. Located in the Lehigh valley, it was originally used to transport coal from the top of Mount Pisgah to the bottom of Mount Jefferson, until Josiah White, a mining entrepreneur, had the idea of turning it into a part-time thrill ride. Because of its immediate popularity, it soon became strictly a passenger train. A steam engine would haul passengers to the top of the mountain, before letting them coast back down, with speeds rumored to reach 100 miles per hour! The reason that it was called a switch back railroad, a switch back track was located at the top – where the steam engine would let the riders coast back down. This type of track featured a dead end where the steam engine would detach its cars, allowing riders to coast down backwards. The railway went through a couple of minor track changes and name changes over the years, but managed to last from 1829 to 1937, over 100 years.\n\n(E) The coaster craze in America was just starting to build. The creation of the Switch Back Railway, by La Marcus Thompson, gave roller coasters national attention. Originally built at New York's Coney Island in 1884, Switch Back Railways began popping up all over the country. The popularity of these rides may puzzle the modern-day thrill seeker, due to the mild ride they gave in comparison to the modern-day roller coaster. Guests would pay a nickel to wait in line up to five hours just to go down a pair of side-by-side tracks with gradual hills that vehicles coasted down at a top speed around six miles per hour. Regardless, Switchback Railways were very popular, and sparked many people, including Thompson, to design coasters that were bigger and better.\n\n(F) The 1910s and 1920s were probably the best decade that the roller coaster has ever seen. The new wave of technology, such as the \"unstop wheels\", an arrangement that kept a coaster's wheels to its tracks by resisted high gravitational forces, showed coasters a realm of possibilities that has never been seen before. In 1919, North America alone had about 1,500 roller coasters, a number that was rising rampantly. Then, the Great Depression gave a crushing blow to amusement parks all over America. As bad as it was, amusement parks had an optimistic look on the future in the late 1930s. But, in 1942 roller coasters could already feel the effects of World War Two, as they were forced into a shadow of neglect. Most, nearly all of America's roller coasters were shut down. To this very day, the number of roller coaster in America is just a very tiny fraction of the amount of roller coasters in the 1920s."
+      }
+    }
+  ]
+}

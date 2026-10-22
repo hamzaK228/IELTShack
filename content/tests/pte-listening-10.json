@@ -1,0 +1,470 @@
+{
+  "id": "pte-listening-10",
+  "title": "Listening — Practice Test 10",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-10-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Arrival date:______13th, number of nights:2",
+          "answer": "february",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of guests:______",
+          "answer": "one",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Guest name:Roxanne ______",
+          "answer": "Wilson",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Credit card number:______",
+          "answer": "2336189872",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE places will the caller visit?",
+          "options": [
+            {
+              "id": "A",
+              "text": "art museum"
+            },
+            {
+              "id": "B",
+              "text": "science museum"
+            },
+            {
+              "id": "C",
+              "text": "shopping mall"
+            },
+            {
+              "id": "D",
+              "text": "monument"
+            },
+            {
+              "id": "E",
+              "text": "post office"
+            },
+            {
+              "id": "F",
+              "text": "restaurant"
+            },
+            {
+              "id": "G",
+              "text": "park"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE places will the caller visit?",
+          "options": [
+            {
+              "id": "A",
+              "text": "art museum"
+            },
+            {
+              "id": "B",
+              "text": "science museum"
+            },
+            {
+              "id": "C",
+              "text": "shopping mall"
+            },
+            {
+              "id": "D",
+              "text": "monument"
+            },
+            {
+              "id": "E",
+              "text": "post office"
+            },
+            {
+              "id": "F",
+              "text": "restaurant"
+            },
+            {
+              "id": "G",
+              "text": "park"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE places will the caller visit?",
+          "options": [
+            {
+              "id": "A",
+              "text": "art museum"
+            },
+            {
+              "id": "B",
+              "text": "science museum"
+            },
+            {
+              "id": "C",
+              "text": "shopping mall"
+            },
+            {
+              "id": "D",
+              "text": "monument"
+            },
+            {
+              "id": "E",
+              "text": "post office"
+            },
+            {
+              "id": "F",
+              "text": "restaurant"
+            },
+            {
+              "id": "G",
+              "text": "park"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When will the caller arrive at the airport?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In the morning"
+            },
+            {
+              "id": "B",
+              "text": "In the afternoon"
+            },
+            {
+              "id": "C",
+              "text": "At night"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How will the caller get to the hotel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Subway"
+            },
+            {
+              "id": "B",
+              "text": "Bus"
+            },
+            {
+              "id": "C",
+              "text": "Taxi"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What time does the hotel front desk close?",
+          "options": [
+            {
+              "id": "A",
+              "text": "10:00"
+            },
+            {
+              "id": "B",
+              "text": "12:00"
+            },
+            {
+              "id": "C",
+              "text": "2:00"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Adult All-Day Pass: ______ $",
+          "answer": "18",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Children ages 5—12 All-Day Pass: ______ $",
+          "answer": "9",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First stop: ______",
+          "answer": "hill park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Third Stop: ______",
+          "answer": "bay bridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fifth Stop: ______",
+          "answer": "green street",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First stop | Enjoy the ______of the bay",
+          "answer": "view",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Second stop | Look at the ______",
+          "answer": "boats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Third stop | ______fish",
+          "answer": "eat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fourth stop | Purchase ______",
+          "answer": "baskets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fifth stop | Visit the ______",
+          "answer": "theatre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When is the research project due? ______",
+          "answer": "in three weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where will the students conduct the interviews? ______",
+          "answer": "a shopping mall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How many interviews will they complete all together? ______",
+          "answer": "thirty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A. Read ______",
+          "answer": "a government study",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "design the questionnaire ______",
+          "answer": "design the questionnaire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "C. Get ______",
+          "answer": "professor's approval",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "conduct interviews ______",
+          "answer": "conduct interviews",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "E. Get together to ______",
+          "answer": "analyse the results",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "F. Prepare ______",
+          "answer": "charts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "G. Give ______",
+          "answer": "class presentation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott was born ______",
+          "answer": "Alcott was born",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In her teens Alcott worked to ______",
+          "answer": "support her family",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "At age 17 Alcott wrote ______",
+          "answer": "her first novel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott enlisted as an army nurse. ______",
+          "answer": "1862",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott published her letters in a book called Hospital Sketches. ______",
+          "answer": "after the war",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott returned from her trip to Europe. ______",
+          "answer": "1866",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott published Little Women. ______",
+          "answer": "1868",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1879 ______ died.",
+          "answer": "May",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott set up a home for her family in Boston. ______",
+          "answer": "1882",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-10-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Alcott died ______",
+          "answer": "Alcott died",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/10_we.mp3"
+    }
+  ]
+}

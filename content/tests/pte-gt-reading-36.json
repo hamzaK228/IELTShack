@@ -1,0 +1,1193 @@
+{
+  "id": "pte-gt-reading-36",
+  "title": "General Training Reading — Practice Test 36",
+  "kind": "practice",
+  "description": "4 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: USE THE RIGHT TYPE OF FIRE EXTINGUISHER!",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-36-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Class A fires can be tackled with three types of extinguisher.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A gasoline fire extinguished with carbon-dioxide might ignite again.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Flammable liquids are more likely to reignite than flammable solids.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Foam-filled extinguishers can be used on fires involving plastics.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Foam-filled extinguishers should NOT be used outdoors.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cooking oil fires should only be tackled with Class F fire extinguishers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Only one type of fire extinguisher is suitable for a lithium battery fire.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "USE THE RIGHT TYPE OF FIRE EXTINGUISHER!",
+        "text": "Fire extinguishers come in different types depending on the material combusted. The five main types of fire extinguisher are described below.\n\nPressurized water Used for Class A fires only.\n\nCarbon-dioxide Used for Class E fires because it does not damage electrical equipment such as computers. Limited use for Class B fires because there is a risk of re-ignition due to a lack of cooling.\n\nFoam-filled Used for Class B fires. Also used for Class A fires, though not in confined spaces. They are NOT for electrical equipment fires or cooking oil.\n\nDry powder Used for Class A, B, C and E fires, with specialist powders for Class D fires. Smothers the fire but does not cool it or penetrate very well so there is a risk of re-ignition.\n\nWet chemical Used for Class F fires, especially high temperature deep fat fryers. There are six classifications of combustible material as shown below.\n\nClass A: flammable organic solids (eg wood, paper, coal, plastics, textiles)\n\nClass B: flammable liquids (eg gasoline, spirits) but not cooking oil\n\nClass C: flammable gas (eg propane, butane)\n\nClass D: combustible metals (eg magnesium, lithium)\n\nClass E: electrical equipment (eg computers, photocopiers)\n\nClass F: cooking oil and fat The above classifications apply to Europe and Australia."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: contract of employment",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-36-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Accommodation and charges"
+            },
+            {
+              "id": "ii",
+              "text": "No guarantee of employment"
+            },
+            {
+              "id": "iii",
+              "text": "Bad weather"
+            },
+            {
+              "id": "iv",
+              "text": "Sheltered picking"
+            },
+            {
+              "id": "v",
+              "text": "Documents"
+            },
+            {
+              "id": "vi",
+              "text": "Contract terminated"
+            },
+            {
+              "id": "vii",
+              "text": "Hours of work"
+            },
+            {
+              "id": "viii",
+              "text": "Location"
+            },
+            {
+              "id": "ix",
+              "text": "Piece work"
+            },
+            {
+              "id": "x",
+              "text": "Travel information"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Choose a ______provider",
+          "answer": "blogging service",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Choose a (15)...............provider Decide who can view the blog – anyone – family and friends – (16).............................. ______",
+          "answer": "guest users",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q17",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Click on a link to reveal ______",
+          "answer": "dialogue boxes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q18",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "– title and ______of the blog",
+          "answer": "text",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q19",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "– to hold the visitor, ______",
+          "answer": "interest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q20",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "– and you can also ______unfavorable remarks",
+          "answer": "delete",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "contract of employment",
+        "text": "(A) Macleods is a soft fruit farm, situated approximately 20 km east of Dundee near the village of Muirdrum. The farm is off the Arbroath Road and clearly signposted. Please see the website for a map and travel details.\n\n(B) You must bring all essential paperwork, including your letter of acceptance, your passport, National ID card, and a work permit if you are not an EU citizen. If you are a student please bring proof of this. Two passport photographs are required.\n\n(C) You can stay in our modern and clean caravans. They have two bedrooms, each with a single bed, a fully equipped kitchen, a shower and toilet. There is a fee of £4 per day, which includes gas, electric and laundry use. A breakages deposit of £50 is required which will be returned to you in full when you leave, provided that nothing has been damaged.\n\n(D) The farm consists of 40 hectares of strawberries and 2 hectares of other soft fruits under the cover of polythene tunnels. We use the table-top system so all the fruit is picked at waist level rather than on the ground.\n\n(E) This means that you are paid harvest-worker piece rates. You will earn a fixed amount per kilogram of fruit picked, so the more you pick, the more you earn. A good picker can earn upwards of £300 per week. You will receive your wages in cash at the end of the week together with a payslip.\n\n(F) Our polythene tunnels provide protection from the weather but we can still have problems linked to insects, plant diseases or changes in customer demand, meaning that we cannot promise you any work.\n\n(G) We reserve the legal right to dismiss any employee who is guilty of serious misconduct or who fails to adhere to our health and safety procedures."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Print/ copy/ scan charges",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-36-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It does not take Ledger size paper.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It is not found in the Upper library.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Takes a swipe card.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "You may have to wait for your document to appear.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It is the most expensive per side.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It cannot automatically print in color.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It costs twice as much in color as in black and white.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Print/ copy/ scan charges",
+        "text": "Laser printingPhotocopying (single side)Photocopying (double side)\n\nBlack and white letter size10 cents per side14 cents21 cents\n\nBlack and white ledger size–24 cents36 cents\n\nColor letter size50 cents per side70 cents$1.05\n\nColor ledger size–$1.20$1.80 SCANNING: 2 cents in black and white, and 4 cents in colour."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: old dogs and new tricks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-36-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cormorants imprinted on fishermen are difficult to train.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Imprinting stops young birds from getting separated from their mother.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chicks are sensitive to imprinting for up to 48 hours after hatching.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Imprinting in birds is temporary.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Puppies can only imprint on other dogs and humans.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Socialization of puppies is very important",
+          "options": [
+            {
+              "id": "A",
+              "text": "because they cannot hear or see anything."
+            },
+            {
+              "id": "B",
+              "text": "for developing an immediate follow response."
+            },
+            {
+              "id": "C",
+              "text": "for the first twelve weeks of their life."
+            },
+            {
+              "id": "D",
+              "text": "between the second and fourteenth weeks."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Imprinting in puppies",
+          "options": [
+            {
+              "id": "A",
+              "text": "is complete by the fourteenth week."
+            },
+            {
+              "id": "B",
+              "text": "lasts for twelve weeks from birth."
+            },
+            {
+              "id": "C",
+              "text": "is impossible to change."
+            },
+            {
+              "id": "D",
+              "text": "occurs only with the natural mother."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A puppy that is handled and petted too soon will not",
+          "options": [
+            {
+              "id": "A",
+              "text": "Printer"
+            },
+            {
+              "id": "B",
+              "text": "Copier"
+            },
+            {
+              "id": "C",
+              "text": "Scanner"
+            },
+            {
+              "id": "D",
+              "text": "All three machines."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Bad behaviour is often",
+          "options": [
+            {
+              "id": "A",
+              "text": "a cliché."
+            },
+            {
+              "id": "B",
+              "text": "the fault of the dog rather than the owner."
+            },
+            {
+              "id": "C",
+              "text": "encouraged by mistake."
+            },
+            {
+              "id": "D",
+              "text": "due to insufficient training."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer describes how a dog can be trained and how its behaviour is instinctive. Which FOUR of the following methods encourage good behaviour in dogs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "receiving punishment for bad behaviour"
+            },
+            {
+              "id": "B",
+              "text": "daily training"
+            },
+            {
+              "id": "C",
+              "text": "by being made to comply"
+            },
+            {
+              "id": "D",
+              "text": "using words of approval"
+            },
+            {
+              "id": "E",
+              "text": "by choosing a suitable breed"
+            },
+            {
+              "id": "F",
+              "text": "by acknowledging bad behaviour"
+            },
+            {
+              "id": "G",
+              "text": "by teaching new tricks"
+            },
+            {
+              "id": "H",
+              "text": "by using the toy it likes most"
+            },
+            {
+              "id": "I",
+              "text": "by encouraging the wolf instincts"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer describes how a dog can be trained and how its behaviour is instinctive. Which FOUR of the following methods encourage good behaviour in dogs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "receiving punishment for bad behaviour"
+            },
+            {
+              "id": "B",
+              "text": "daily training"
+            },
+            {
+              "id": "C",
+              "text": "by being made to comply"
+            },
+            {
+              "id": "D",
+              "text": "using words of approval"
+            },
+            {
+              "id": "E",
+              "text": "by choosing a suitable breed"
+            },
+            {
+              "id": "F",
+              "text": "by acknowledging bad behaviour"
+            },
+            {
+              "id": "G",
+              "text": "by teaching new tricks"
+            },
+            {
+              "id": "H",
+              "text": "by using the toy it likes most"
+            },
+            {
+              "id": "I",
+              "text": "by encouraging the wolf instincts"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer describes how a dog can be trained and how its behaviour is instinctive. Which FOUR of the following methods encourage good behaviour in dogs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "receiving punishment for bad behaviour"
+            },
+            {
+              "id": "B",
+              "text": "daily training"
+            },
+            {
+              "id": "C",
+              "text": "by being made to comply"
+            },
+            {
+              "id": "D",
+              "text": "using words of approval"
+            },
+            {
+              "id": "E",
+              "text": "by choosing a suitable breed"
+            },
+            {
+              "id": "F",
+              "text": "by acknowledging bad behaviour"
+            },
+            {
+              "id": "G",
+              "text": "by teaching new tricks"
+            },
+            {
+              "id": "H",
+              "text": "by using the toy it likes most"
+            },
+            {
+              "id": "I",
+              "text": "by encouraging the wolf instincts"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-36-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer describes how a dog can be trained and how its behaviour is instinctive. Which FOUR of the following methods encourage good behaviour in dogs?",
+          "options": [
+            {
+              "id": "A",
+              "text": "receiving punishment for bad behaviour"
+            },
+            {
+              "id": "B",
+              "text": "daily training"
+            },
+            {
+              "id": "C",
+              "text": "by being made to comply"
+            },
+            {
+              "id": "D",
+              "text": "using words of approval"
+            },
+            {
+              "id": "E",
+              "text": "by choosing a suitable breed"
+            },
+            {
+              "id": "F",
+              "text": "by acknowledging bad behaviour"
+            },
+            {
+              "id": "G",
+              "text": "by teaching new tricks"
+            },
+            {
+              "id": "H",
+              "text": "by using the toy it likes most"
+            },
+            {
+              "id": "I",
+              "text": "by encouraging the wolf instincts"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "old dogs and new tricks",
+        "text": "The first days of an animal's life play a major part in shaping its future. Cormorant birds are used in China and Japan to catch fish in a traditional method of river fishing that dates back thousands of years. A cormorant dives under the water catches a fish, and then clings to a bamboo pole that the fisherman swings into the boat. It is easy to train a cormorant to behave like this because the bird has been imprinted on the fisherman instead of its natural mother. The fisherman imprints the cormorant on himself by appearing to the chick when it hatches out of the egg. The young bird mistakes the fisherman for the mother bird and bonds with him, responding to his voice and, later, swimming alongside his boat. This 'follow response' is nature's way of preventing young birds from straying from their mother. The process of imprinting lasts for a period of up to two days after hatching. After this sensitive period the effect of the imprinting remains unchanged for the lifetime of the bird and cannot be reversed. Dogs, cats, sheep, horses and other animals go through a process of imprinting similar to birds. In the case of dogs, the sensitive period lasts for up to 12 weeks. During this time the puppy can imprint on both its natural mother and on humans. Puppies are born blind and deaf, and naturally stay close to their mothers so they do not need an immediate 'follow response'. The sensitive period lasts from the second week to the fourteenth week of life. It is critical that a dog is socialized with other dogs, family pets and with people within this time frame. If the basic social behaviour is not imprinted in a puppy by the fourteenth week it will lead to behavioural problems later in life that are difficult to change.\n\n(A) puppy should be left with its natural mother and the litter for several weeks before being socialized with people. If a puppy is taken away from its natural mother too early and handled by people then it sees humans as its natural companions and dogs as complete strangers. Dogs that have only been socialized with people are likely to be aggressive towards another person's dog or even attack it. Conversely, a dog that has been kept with the mother and litter for too long will not regard humans as companions and is more likely to be aggressive towards people and bite them. Dogs that have not been adequately socialized with both dogs and people can be difficult to control and will not respond to training. Negative experiences with humans during the imprinting stage can have lasting effects on a dog. It is a cliché, but bad behaviour in a dog is usually the fault of its owner. A rescue dog that was neglected and abused by its owner is likely to remain nervous and fearful of humans. It is possible for a dog to overcome behavioural problems that originate from imprinting but it requires a lot of training and may not be completely successful. Negative behaviours are often reinforced inadvertently when a dog receives more attention for behaving badly than for behaving well. In obedience training, the dog is taught to respond to basic commands such as sit, stay, down and release. In one training technique, the owner shouts a command – for example, sit – and if the dog acts accordingly it is rewarded with its favourite toy and is verbally praised. The dog associates the action of sitting with praise from its owner and learns to comply. Punishment and negative experiences are best avoided to ensure a confident, happy and obedient dog. Even an old dog can be taught new tricks, or at least new behaviours, with training every day. Not all dog behaviour can be explained by imprinting and training. Generations of breeding in captivity has domesticated dogs so that they can live in people's homes as pets, or as working animals. Dogs have been selectively bred to have their natural abilities enhanced or suppressed to suit the needs of man. For example, Border Collies and Belgian Shepherd dogs are pure-bred to herd sheep and protect them, more so when a dog has been imprinted on the flock. Spaniels and Retrievers are used as gun dogs to retrieve game birds for hunters. Scent hounds like the Beagle and the Fox Hound are used for their extra keen sense of smell when sniffing and tracking prey like rabbits and foxes. Some dogs, like Pit Bull Terriers, have been deliberately bred for fighting and can make dangerous pets. It is worth remembering that all dogs have been domesticated from wolves, so any dog has the potential to 'bite the hand that feeds it', no matter how well it has been socialized and trained."
+      }
+    }
+  ]
+}

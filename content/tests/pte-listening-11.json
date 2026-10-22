@@ -1,0 +1,502 @@
+{
+  "id": "pte-listening-11",
+  "title": "Listening — Practice Test 11",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-11-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name:Harold ______",
+          "answer": "Kramer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address:______Fulton Avenue apartment 12",
+          "answer": "58",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of service:______",
+          "answer": "residential",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Occupation:______",
+          "answer": "office manager",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Work Phone:______",
+          "answer": "6375559014",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Time at current job:______",
+          "answer": "nine years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Special services:______ and (8) ______",
+          "answer": "long distance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Special services:(7) ______ and ______",
+          "answer": "internet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Installation scheduled for:Day ______",
+          "answer": "friday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Time of day ______",
+          "answer": "morning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The fair will take place at the",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fairgrounds"
+            },
+            {
+              "id": "B",
+              "text": "Park"
+            },
+            {
+              "id": "C",
+              "text": "School"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The fair will begin on Friday",
+          "options": [
+            {
+              "id": "A",
+              "text": "Morning"
+            },
+            {
+              "id": "B",
+              "text": "Afternoon"
+            },
+            {
+              "id": "C",
+              "text": "Evening"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The fair will begin with a",
+          "options": [
+            {
+              "id": "A",
+              "text": "Parade"
+            },
+            {
+              "id": "B",
+              "text": "Dance performance"
+            },
+            {
+              "id": "C",
+              "text": "Speech by the major"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 14. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-11-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Saturday afternoon______show",
+          "answer": "clown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Saturday evening______by the lake",
+          "answer": "concert",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sunday afternoon______contest",
+          "answer": "singing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "All weekend______food",
+          "answer": "international",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "for children ______",
+          "answer": "games",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "for sale ______",
+          "answer": "crafts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "university catalog ______",
+          "answer": "university catalog",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q22",
+          "skill": "listening",
+          "type": "matching",
+          "prompt": "(22) of your work experience. Submit that together with a letter from your",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fairgrounds"
+            },
+            {
+              "id": "B",
+              "text": "Park"
+            },
+            {
+              "id": "C",
+              "text": "School"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "work supervisor ______",
+          "answer": "work supervisor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "university catalog",
+          "options": [
+            {
+              "id": "A",
+              "text": "admissions office"
+            },
+            {
+              "id": "B",
+              "text": "counseling center"
+            },
+            {
+              "id": "C",
+              "text": "library"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "application for admission form",
+          "options": [
+            {
+              "id": "A",
+              "text": "admissions office"
+            },
+            {
+              "id": "B",
+              "text": "counseling center"
+            },
+            {
+              "id": "C",
+              "text": "library"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "requirements list",
+          "options": [
+            {
+              "id": "A",
+              "text": "admissions office"
+            },
+            {
+              "id": "B",
+              "text": "counseling center"
+            },
+            {
+              "id": "C",
+              "text": "library"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "recommendation forms",
+          "options": [
+            {
+              "id": "A",
+              "text": "admissions office"
+            },
+            {
+              "id": "B",
+              "text": "counseling center"
+            },
+            {
+              "id": "C",
+              "text": "library"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "job listings",
+          "options": [
+            {
+              "id": "A",
+              "text": "admissions office"
+            },
+            {
+              "id": "B",
+              "text": "counseling center"
+            },
+            {
+              "id": "C",
+              "text": "library"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are full-time students eligible for?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Discounted books"
+            },
+            {
+              "id": "B",
+              "text": "The work-study program"
+            },
+            {
+              "id": "C",
+              "text": "A free bus pass"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How can a student get financial assistance?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Speak with a counselor"
+            },
+            {
+              "id": "B",
+              "text": "Apply to the admissions office"
+            },
+            {
+              "id": "C",
+              "text": "Make arrangements with a bank"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "RangeLives in ______of North America",
+          "answer": "forested area",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "DietNinety percent of diet consists of ______, also eats (33) ______",
+          "answer": "plant foods",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "DietNinety percent of diet consists of (32) ______, also eats ______",
+          "answer": "insects/ fish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "CubsBaby bear cubs are born in ______",
+          "answer": "the winter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Life SpanBlack bears live for about ______in the wild",
+          "answer": "25 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q36",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Has a patch of light fur on its chest ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q37",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Weighs 225 kilos ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q38",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Has a shoulder hump ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q39",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Has pointed ears ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-11-q40",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Has shorter claws ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/11_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "id": "pte-gt-reading-123",
+  "title": "General Training Reading — Practice Test 123",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Castle Road Run",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-123-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What colour would the number worn by a competitor taking part in their fourth run be? ______",
+          "answer": "Red",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What can competitors do to help make future runs better? ______",
+          "answer": "Complete the questionnaire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the deadline for competitors to increase the length of their run? ______",
+          "answer": "28th October",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How should competitors communicate a request to alter the length of their run? ______",
+          "answer": "(by) email",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the reason given for restricting numbers? ______",
+          "answer": "(council) safety (requirements)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do runners need to get from North Lake Hotel before the race? ______",
+          "answer": "(their) race pack",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who do runners from outside the area need to contact? ______",
+          "answer": "(the) race manager",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Castle Road Run",
+        "text": "The organising committee of the annual Castle Road Run welcomes all entrants in the event. We hope the following details will provide you with ail the necessary information to make your run as enjoyable as possible. Before race day you will receive a registration card containing your personal details, the race event entered and your T-shirt size. Competitors must bring this registration card with them when they collect their race number. All runners, except those who have completed the four previous Castle Road Runs, will wear white T-shirts with red numbers on the back. Runners who are taking part in their fifth race will be identified with a green number instead of a red one. Please take the time to complete the questionnaire included on the back of the registration card in order to assist us in improving upcoming Castle Road Runs. Entrants may change from the Full Run to the Half Run, or vice versa, up until 28th October. Please email details of the change to us. The $20 difference in entry fee will not be refunded for those changing from the Full Run to the Half Run, and it will be payable by those changing from the Half Run to the Full Run. Due to safety requirements, the Castle council has imposed a maximum number of entrants. Entries received after this number is reached will be fully refunded. All competitors must collect their race pack prior to the start of the event from North Lake Hotel, 12 Skelton Street, any day between the hours of 10am and 7pm. Competitors who do not come from the Castle region, please get in touch with the Race Manager personally or by email to arrange for collection of your race number and race pack. Competitors may collect the race numbers and race packs of other competitors provided they bring the registration card for each competitor they wish to collect for."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Hatcliff Backpackers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-123-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The accommodation is conveniently located.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rooms at Hatcliff Backpackers have limited storage.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is generally possible for guests to make changes to their reservation.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Long-term storage for guests' possessions is available.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Hatcliff Backpackers has a 24-hour reception desk.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Guests are offered free transport both to and from the airport.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Hatcliff Backpackers offers guests assistance with their travel and leisure arrangements.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Hatcliff Backpackers",
+        "text": "Hatcliff Backpackers' Hostel is only a short stroll from Cathedral Square and the city centre. Shops, buses, supermarkets and cinemas are not far away. In fact everything you'll want to see and do in the city is on our doorstep. All beds and bunks are fully made. Every room has free heating, modern furniture and air conditioning. All singles, twins, doubles and tourist flats have a TV and most have an ensuite bathroom and electric blankets. You can usually upgrade your accommodation from a single share to a single or double (for example) and pay the difference when you arrive. 'Guest only' areas are secured by combination locks. Personal lockers can be hired for a maximum of three days, or you may use our safe for the overnight storage of valuables. Our two spacious modern kitchens are both fully equipped with everything from pots and pans through to microwaves and even toasted-sandwich makers. Light meals are available from 11 am until 11 at night and you can get drinks and groceries 24 hours a day. Information is available on what to do and where to go in the Castle and surrounding regions. We also have a launderette on site. Don't forget to check out our notice board for cheap cars and travel deals. You will be greeted at the airport arrival hall by a staff representative who will transport you to our door. We offer one free collection or drop-off per traveller and individuals can elect to use this either upon arrival or departure. We can advise and reserve seats for you on all national backpacker transport, coach and rail services – and every adventure activity you would like to try. We require 24 hours' notice to arrange your transport and book your accommodation."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Job openings for sales clerks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-123-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• be on time and have a tidy ______",
+          "answer": "Appearance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• must be ______ with work schedules",
+          "answer": "Flexible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• perform duties with ______ to finish them quickly",
+          "answer": "Urgency",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• avoid ______ with other staff",
+          "answer": "Friction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• meeting sales goals to achieve ______ at the store",
+          "answer": "Growth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• reporting ______ of supplies to management",
+          "answer": "Shortages",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Job openings for sales clerks",
+        "text": "Teatime, a leading seller of tea in North America, has immediate openings for salespeople in its two new retail stores. No previous experience is required We expect our sales clerks to maintain regular and consistent attendance. Clerks are also expected to be punctual for each shift. Note that a clean and neat appearance is required. Shift work may be necessary, depending on the location. If you are unable to work a combination of early mornings, evenings, weekends and holidays, please do not apply. Because of the nature of our business, employees whose time is flexible are wanted. Must be proficient in English. French and Spanish are an asset.\n\n(A) good mindset at work is essential. There are so many tasks to do in a day that each should be approached with urgency in order to complete the work in a timely fashion. Being capable of juggling a variety of things simultaneously is a must. Working alongside co-workers on your shift without friction is important to the operation of the store, as is having a cheerful manner while you work. Clerks must be confident individuals who welcome coaching and see it as an opportunity to learn about how best to represent our product.\n\nResponsibilities and essential job functions include, but are not limited to, the following areas: • contributing to sales growth at your location: delivering personal and team sales goals by upselling and suggestive selling to customers based on what they need • being responsible for teaching customers about our teas as they sample them; providing clients with this positive educational journey has made our company a top retail leader in tea\n\n• maintaining, rotating, dating and organizing stock\n\n• advising your team leader of any shortages you notice in quantities of inventory as you work • ensuring that beverage stations are kept clean according to government health standards, and that damaged and defective items are disposed of as per company best practices, which ensure safety of all partners on your shift • always ensuring the policy set out by Teatime is followed when dealing with cash."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Forklift operator course",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-123-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Legal requirements for training are to ensure the ______ of the driver and others.",
+          "answer": "Safety",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Training is fast-paced in order to improve the ______ of information.",
+          "answer": "Retention",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A thorough ______ of all the components of the forklift truck is provided.",
+          "answer": "Challenge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Participants practise moving heavy items as this is often a ______",
+          "answer": "Spill",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Students learn how to respond to a ______ involving a harmful product.",
+          "answer": "Strategies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Students learn about ______ for operating forklifts in tight spaces.",
+          "answer": "Inspection",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The course stresses the importance of a regular vehicle ______",
+          "answer": "(degree of) responsibility",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Forklift operator course",
+        "text": "The Liftsure Training Academy offers a comprehensive course for individuals wishing to be certified as forklift operators. There are very few legal requirements to train for a job as a forklift operator. Those that do exist are for your safety and that of the people around you. The minimum age for operating the equipment is 17, with course completion possible at age 18. Forklift operators are expected to be in good health, meaning that they cannot suffer from any condition that would interfere with the alert operation of the lift truck. Trainees should recognize that although the law makes no reference to this, screening by a future employer could involve a health test as part of the process of getting hired. We offer new lift operators a five-day course. The fact that our training is conducted so quickly in no way suggests that participants are released into the workforce before they're ready. In fact, our accelerated approach has been proven to boost knowledge retention in the workplace. So, what exactly will the course cover? To begin with, students will learn how the forklift's design is vital to its stability during operation. You will be given detailed instruction on the theory used for the various forklift models. Along with this, there will be an in-depth explanation of the parts that make up the vehicle. Afternoons will be spent in our academy warehouse onboard the trucks. Driving the forklift itself may not be problematic; however, once a load of significant weight is added, operating the vehicle can be a challenge for new drivers. Instruction concentrates on this area since proper load transportation is paramount. Class sizes are kept small to allow instructors to monitor driving and correct improper actions. Driving a forklift will also involve having a working knowledge of dangerous goods. Classroom study will include how to recognize dangerous goods, their proper packaging, and the immediate action to be taken when a spill occurs with such a product. Students will also have time to work on strategies to use when driving in confined spaces and narrow aisles. It should be noted that forklifts can be dangerous pieces of machinery. Therefore, we include a module emphasizing the need for an inspection by the operator before each shift. It includes such things as tire pressure and signs of wear to key parts. This simple precaution is a proven way to lessen on-the-job accidents. On completion of the course, students will sit an exam and demonstrate the correct operation of a forklift."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: The lure of diving",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-123-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• It is important to take some ______ for those diving with you.",
+          "answer": "(basic) safety rules",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Make sure you get proper training and keep to the ______ – by doing this you will greatly reduce the risks involved.",
+          "answer": "Fit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• A diver must be ______ as diving can make great physical demands on you.",
+          "answer": "Energy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• You need to know how to use your ______ most effectively, so that you are able to deal with any unexpected problems.",
+          "answer": "Extreme weather (conditions)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• You have to be able to withstand low temperatures and ______",
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Scuba diving is considered to be suitable for most people.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Diving can be a good form of exercise.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "An underwater lamp can help you to take good pictures underwater.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Diving is more enjoyable if you have done research on the area beforehand.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a growing demand for people to work underwater.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Diving equipment was developed in response to a need to investigate causes of shipwrecks.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People were initially very wary of using the new diving devices.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-123-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The way the air supply is carried has remained the same since 1825. ______",
+          "answer": "Copyright © 2026 Practicepteonline",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "The lure of diving",
+        "text": "Scuba diving (diving with Self-Contained Underwater Breathing Apparatus) is an activity that can be undertaken and enjoyed by practically anybody. However, you will enjoy it more if you are aware of your own limitations, learn to recognise them and stay within them. Diving can certainly offer fun and adventure, as long as you respect the safety rules and accept a degree of responsibility towards your diving buddies. Diving is not a solitary pursuit; it is safer and more enjoyable when shared with others. There is an element of risk inherent in diving as in other adventure sports, but this risk is reduced to acceptable limits by the observation of basic safety rules and the acceptance of the need for sound training. Diving will make certain demands on the body, so it is important to maintain a good level of physical fitness. This does not mean athletic prowess or superhuman physical strength. The sort of fitness most useful to the diver is the ability to expend energy in a slow, controlled way, usually keeping some in reserve for emergencies. The fit diver will also suffer less from the effects of cold or extreme weather conditions. People dive for different reasons. For some, the opportunity to enjoy a contrast to their everyday life is sufficient attraction. The undersea world is quiet; it allows movement in three dimensions; it supports a totally different range of plant and animal life and it enables the diver to enter, for a brief period, another medium. Many people are amazed at the profusion of life and colour found in the seas, not just in tropical waters but also around temperate coasts. Colours will often be muted by the filtering effect of the water but can be instantly restored by using an underwater lamp. The range of life which the diver can study underwater extends from the microscopic to the largest mammals on earth. Diving is not restricted to coastal sites or the seas either – any appropriate body of water can be explored by the inquiring diver. Inland fresh water locations have a quite different nature, and often allow valuable experience to be gained closer to home before visiting the sea. Rivers can be rich in archaeological finds, and some unique discoveries have been made in old wells. For other divers the fascination may be to search for evidence of past events in this least explored part of our planet. The remains of ancient civilisations have been discovered and brought to the surface by divers in many parts of the world, filling in gaps in our knowledge of the ancient world and opening up many new avenues of research. Shipwrecks hold a unique fascination for the exploring diver and also attract a variety of undersea life, making them perhaps the most enjoyable of dives. For many of us, the need to take a break for a while and experience new things is very strong. Diving adds purpose to your travel and can bring wonder and adventure to a holiday. However, there are some people for whom diving is more than just a pastime. The world's increasing need to exploit the resources of the sea is involving more and more people in research under the surface in a wide range of occupations. Some will study the cycle of life and the part each organism plays within the system, while others play a role in extracting the energy and mineral resources that lie below the seabed. Human beings have been diving since primitive man was forced to forage for food in the sea. In the past, discovery of valuables from shipwrecks provided the impetus for a number of experimental diving devices, culminating in two effective forms: the diving bell, in which divers could spend periods submerged; and the diving helmet, invented by Englishmen Charles and John Deane of Whitstable in 1829. The history of sport diving can be traced more directly to the invention of the first autonomous diving apparatus, which did not require lines and air hoses to the surface. This new concept was pioneered by William James, an Englishman who, in 1825, produced a workable design in which compressed air was carried in a circular iron reservoir around the diver's waist. We have no record of James diving, so the credit for the first independent apparatus that was actually used must go to an American, Charles Condert, who built and used a horseshoe-shaped waist-mounted reservoir, which provided a continuous flow of air to a flexible helmet. Condert dived with this equipment many times in New York's East River. The next breakthrough was made in 1865 by two Frenchmen, Benoit Rouquayrol and Auguste Denayrouze, whose lightweight design included a metal canister charged to a pressure of 40 bar. The air supply was now carried on the diver's back.Their most important invention was the demand regulator, which enabled the diver to valve his air at the same pressure as the surrounding water. The apparatus was marketed for sponge and wreck diving. Another important pioneer was Commandant Yves Le Prieur of the French Navy, who was the first to consider amateur sport diving in the sea. He produced a lightweight, compressed-air apparatus with a regulator that was not quite fully automatic. He initially used the equipment with goggles and later with a full face mask. In 1935 he founded the first diving club to train with his apparatus in Paris."
+      }
+    }
+  ]
+}

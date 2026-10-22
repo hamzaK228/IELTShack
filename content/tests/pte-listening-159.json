@@ -1,0 +1,524 @@
+{
+  "id": "pte-listening-159",
+  "title": "Listening — Practice Test 159",
+  "kind": "practice",
+  "description": "One recording, 30 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-159-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of current account: The ______ account",
+          "answer": "select",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of birth: ______",
+          "answer": "27-1-1973",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Current address: ______ Exeter",
+          "answer": "15 riverside",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Time at current address: ______",
+          "answer": "2 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone: work ______",
+          "answer": "616295",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Occupation: ______",
+          "answer": "engineer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Identity (security): Name of his ______ :Siti",
+          "answer": "mother",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Opening sum: ______ £ to be transferred from Fransen Bank, Utrecht",
+          "answer": "2,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Statements: Every ______",
+          "answer": "month",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Requests: Supply information about the bank's ______ service",
+          "answer": "internet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When the writer Sebastian George first saw Rosewood House, he",
+          "options": [
+            {
+              "id": "A",
+              "text": "thought he might rent it"
+            },
+            {
+              "id": "B",
+              "text": "felt it was too expensive for him"
+            },
+            {
+              "id": "C",
+              "text": "was unsure whether to buy it"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Before buying the house. George had",
+          "options": [
+            {
+              "id": "A",
+              "text": "experienced severe family problems"
+            },
+            {
+              "id": "B",
+              "text": "struggled to become a successful author"
+            },
+            {
+              "id": "C",
+              "text": "suffered a serious illness"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, George viewed Rosewood House as",
+          "options": [
+            {
+              "id": "A",
+              "text": "a rich source of material for his books"
+            },
+            {
+              "id": "B",
+              "text": "a way to escape from his work"
+            },
+            {
+              "id": "C",
+              "text": "a typical building of the region"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 14. ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-159-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 15. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-159-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 16. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-159-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 17. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-159-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You can walk through the that goes along the river bank. ______",
+          "answer": "field",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You can go over the and then into a wooded area. ______",
+          "answer": "footbridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "On your way back, you could also go up to the ______",
+          "answer": "viewpoint",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "For their assignment, the students must investigate one part of the ______",
+          "answer": "entertainment industry",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The method the students must use to collect data is ______",
+          "answer": "telephone interviews",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In total, the students must interview people. ______",
+          "answer": "30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jack thinks the music preferences of listeners are similar. ______",
+          "answer": "male and female",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "jazz ______",
+          "answer": "jazz",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "classical ______",
+          "answer": "classical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "concerts ______",
+          "answer": "concerts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "department stores ______",
+          "answer": "department stores",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "club ______",
+          "answer": "club",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pera house ______",
+          "answer": "opera house",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, it is not clear",
+          "options": [
+            {
+              "id": "A",
+              "text": "when the farming economy was introduced to Ireland"
+            },
+            {
+              "id": "B",
+              "text": "why people began to farm in Ireland"
+            },
+            {
+              "id": "C",
+              "text": "where the early Irish farmers came from"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What point does the speaker make about breeding animals in Neolithic Ireland?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their numbers must have been above a certain level"
+            },
+            {
+              "id": "B",
+              "text": "They were under threat from wild animals"
+            },
+            {
+              "id": "C",
+              "text": "Some species died out during this period"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about the transportation of animals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Livestock would have limited the distance the farmers could sail"
+            },
+            {
+              "id": "B",
+              "text": "Neolithic boats were loo primitive to have been used"
+            },
+            {
+              "id": "C",
+              "text": "Probably only a few breeding animals were imported"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the main evidence for cereal crops in Neolithic Ireland?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the remains of burnt grain in pots"
+            },
+            {
+              "id": "B",
+              "text": "the marks left on pots by grains"
+            },
+            {
+              "id": "C",
+              "text": "the patterns painted on the surface of pots"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ploughs could either have been pulled by or by cattle. • The farmers needed homes which were permanent dwellings. ______",
+          "answer": "people",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In the final stages of axe-making and were necessary for grinding and polishing. ______",
+          "answer": "water, sand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Irish axes were exported from Ireland to and England. POTTERY MAKING • The colonisers used clay to make pots. ______",
+          "answer": "scotland",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The of the pots was often polished to make them watertight. ______",
+          "answer": "outside",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Clay from areas was generally used. ______",
+          "answer": "local",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-159-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Decoration was only put around the of the earliest pots. ______",
+          "answer": "tops",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/159_we.mp3"
+    }
+  ]
+}

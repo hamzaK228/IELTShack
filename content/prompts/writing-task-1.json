@@ -1,0 +1,16 @@
+{
+  "id": "writing-task-1",
+  "taskNumber": 1,
+  "title": "Task 1 — University applications",
+  "prompt": "The data below shows the number of international applications received by a UK university in four faculties between 2018 and 2022.\n\n• Business — 2018: 4,200 · 2020: 5,600 · 2022: 7,100\n• Engineering — 2018: 3,100 · 2020: 3,400 · 2022: 4,800\n• Arts — 2018: 2,400 · 2020: 2,100 · 2022: 2,300\n• Medicine — 2018: 1,800 · 2020: 2,600 · 2022: 3,200\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "timeMinutes": 20,
+  "minWords": 150,
+  "checklist": [
+    "A clear overview sentence with the main trend",
+    "Two body paragraphs that group the data logically",
+    "Specific figures quoted accurately",
+    "No personal opinion or speculation",
+    "At least 150 words"
+  ],
+  "modelAnswer": "The table compares international applications to four faculties at a UK university in 2018, 2020 and 2022. Overall, applications rose in every faculty except Arts, and Business remained the most popular choice throughout the period.\n\nBusiness applications grew steadily from 4,200 in 2018 to 7,100 in 2022, an increase of almost 70%. Engineering followed a similar pattern, rising from 3,100 to 4,800, with most of the growth occurring between 2020 and 2022.\n\nMedicine showed the sharpest proportional increase. Applications climbed from 1,800 to 3,200, nearly doubling over four years. Arts, by contrast, was the only faculty to decline initially, falling from 2,400 to 2,100 in 2020 before recovering slightly to 2,300. It was also the least popular faculty by 2022."
+}

@@ -1,0 +1,888 @@
+{
+  "id": "pte-listening-95",
+  "title": "Listening — Practice Test 95",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-95-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact address: ______ Drayton, DR68AB",
+          "answer": "230 south road",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Description of group: amateur theatre group (______ members)",
+          "answer": "18",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Involved in drama ______ and",
+          "answer": "activities (and) workshops",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Amount of money requested: ______ £",
+          "answer": "£250",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Description of project: to produce a short ______ play for young children",
+          "answer": "interactive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Money needed for: ______ for scenery",
+          "answer": "materials",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cost of ______",
+          "answer": "insurance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address: (1) Drayton, DR68AB Telephone number: 01453 586098 Name of group: Community Youth Theatre Group Description of group: amateur theatre group ((2) members) Involved in drama (3) and Amount of money requested: (4) £ Description of project: to produce a short (5) play for young children Money needed for: (6) for scenery Costumes Cost of (7) ______ Sundries How source of funding will be credited • Acknowledged in the (9) given to audience Other organisations approached for funding (and outcome) • National Youth Services – money was (10)",
+          "answer": "publicity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Acknowledged in the ______ given to audience",
+          "answer": "programme",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• National Youth Services – money was ______",
+          "answer": "not available/ unvailable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Joanne says that visitors to Darwin are often surprised by",
+          "options": [
+            {
+              "id": "A",
+              "text": "the number of young people."
+            },
+            {
+              "id": "B",
+              "text": "the casual atmosphere."
+            },
+            {
+              "id": "C",
+              "text": "the range of cultures."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "To enjoy cultural activities, the people of Darwin tend to",
+          "options": [
+            {
+              "id": "A",
+              "text": "travel to southern Australia."
+            },
+            {
+              "id": "B",
+              "text": "bring in artists from other areas."
+            },
+            {
+              "id": "C",
+              "text": "involve themselves in production."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Chinese temple in Darwin",
+          "options": [
+            {
+              "id": "A",
+              "text": "is no longer used for its original purpose."
+            },
+            {
+              "id": "B",
+              "text": "was rebuilt after its destruction in a storm."
+            },
+            {
+              "id": "C",
+              "text": "was demolished to make room for new buildings."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main problem with travelling by bicycle is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the climate."
+            },
+            {
+              "id": "B",
+              "text": "the traffic."
+            },
+            {
+              "id": "C",
+              "text": "the hills"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Joanne say about swimming in the sea?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is essential to wear a protective suit."
+            },
+            {
+              "id": "B",
+              "text": "Swimming is only safe during the winter."
+            },
+            {
+              "id": "C",
+              "text": "You should stay in certain restricted areas."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "'Aquascene'",
+          "options": [
+            {
+              "id": "A",
+              "text": "a flower market"
+            },
+            {
+              "id": "B",
+              "text": "a chance to feed the fish"
+            },
+            {
+              "id": "C",
+              "text": "good nightlife"
+            },
+            {
+              "id": "D",
+              "text": "international arts and crafts"
+            },
+            {
+              "id": "E",
+              "text": "good cheap international food"
+            },
+            {
+              "id": "F",
+              "text": "a trip to catch fish"
+            },
+            {
+              "id": "G",
+              "text": "shops and seafood restaurants"
+            },
+            {
+              "id": "H",
+              "text": "a wide range of different plants"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Smith Street Mall",
+          "options": [
+            {
+              "id": "A",
+              "text": "a flower market"
+            },
+            {
+              "id": "B",
+              "text": "a chance to feed the fish"
+            },
+            {
+              "id": "C",
+              "text": "good nightlife"
+            },
+            {
+              "id": "D",
+              "text": "international arts and crafts"
+            },
+            {
+              "id": "E",
+              "text": "good cheap international food"
+            },
+            {
+              "id": "F",
+              "text": "a trip to catch fish"
+            },
+            {
+              "id": "G",
+              "text": "shops and seafood restaurants"
+            },
+            {
+              "id": "H",
+              "text": "a wide range of different plants"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Cullen Bay Marina",
+          "options": [
+            {
+              "id": "A",
+              "text": "a flower market"
+            },
+            {
+              "id": "B",
+              "text": "a chance to feed the fish"
+            },
+            {
+              "id": "C",
+              "text": "good nightlife"
+            },
+            {
+              "id": "D",
+              "text": "international arts and crafts"
+            },
+            {
+              "id": "E",
+              "text": "good cheap international food"
+            },
+            {
+              "id": "F",
+              "text": "a trip to catch fish"
+            },
+            {
+              "id": "G",
+              "text": "shops and seafood restaurants"
+            },
+            {
+              "id": "H",
+              "text": "a wide range of different plants"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Fannie Bay",
+          "options": [
+            {
+              "id": "A",
+              "text": "a flower market"
+            },
+            {
+              "id": "B",
+              "text": "a chance to feed the fish"
+            },
+            {
+              "id": "C",
+              "text": "good nightlife"
+            },
+            {
+              "id": "D",
+              "text": "international arts and crafts"
+            },
+            {
+              "id": "E",
+              "text": "good cheap international food"
+            },
+            {
+              "id": "F",
+              "text": "a trip to catch fish"
+            },
+            {
+              "id": "G",
+              "text": "shops and seafood restaurants"
+            },
+            {
+              "id": "H",
+              "text": "a wide range of different plants"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mitchell Street",
+          "options": [
+            {
+              "id": "A",
+              "text": "a flower market"
+            },
+            {
+              "id": "B",
+              "text": "a chance to feed the fish"
+            },
+            {
+              "id": "C",
+              "text": "good nightlife"
+            },
+            {
+              "id": "D",
+              "text": "international arts and crafts"
+            },
+            {
+              "id": "E",
+              "text": "good cheap international food"
+            },
+            {
+              "id": "F",
+              "text": "a trip to catch fish"
+            },
+            {
+              "id": "G",
+              "text": "shops and seafood restaurants"
+            },
+            {
+              "id": "H",
+              "text": "a wide range of different plants"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phil and Stella's goal is to the hypothesis that weather has an effect on a person's mood. ______",
+          "answer": "investigate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "They expect to find that 'good' weather (weather which is ) has a positive effect on a person's mood. ______",
+          "answer": "sunny (and) warm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Stella defines effect on mood' as a in the way a person feels. ______",
+          "answer": "change",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Vickers",
+          "options": [
+            {
+              "id": "A",
+              "text": "the benefits of moving to a warmer environment"
+            },
+            {
+              "id": "B",
+              "text": "the type of weather with the worst effect on mood"
+            },
+            {
+              "id": "C",
+              "text": "how past events affect attitudes to weather"
+            },
+            {
+              "id": "D",
+              "text": "the important effect of stress on mood"
+            },
+            {
+              "id": "E",
+              "text": "the important effect of hours of sunshine on mood"
+            },
+            {
+              "id": "F",
+              "text": "psychological problems due to having to cope with bad weather"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Whitebourne",
+          "options": [
+            {
+              "id": "A",
+              "text": "the benefits of moving to a warmer environment"
+            },
+            {
+              "id": "B",
+              "text": "the type of weather with the worst effect on mood"
+            },
+            {
+              "id": "C",
+              "text": "how past events affect attitudes to weather"
+            },
+            {
+              "id": "D",
+              "text": "the important effect of stress on mood"
+            },
+            {
+              "id": "E",
+              "text": "the important effect of hours of sunshine on mood"
+            },
+            {
+              "id": "F",
+              "text": "psychological problems due to having to cope with bad weather"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Haverton",
+          "options": [
+            {
+              "id": "A",
+              "text": "the benefits of moving to a warmer environment"
+            },
+            {
+              "id": "B",
+              "text": "the type of weather with the worst effect on mood"
+            },
+            {
+              "id": "C",
+              "text": "how past events affect attitudes to weather"
+            },
+            {
+              "id": "D",
+              "text": "the important effect of stress on mood"
+            },
+            {
+              "id": "E",
+              "text": "the important effect of hours of sunshine on mood"
+            },
+            {
+              "id": "F",
+              "text": "psychological problems due to having to cope with bad weather"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Stanfield",
+          "options": [
+            {
+              "id": "A",
+              "text": "the benefits of moving to a warmer environment"
+            },
+            {
+              "id": "B",
+              "text": "the type of weather with the worst effect on mood"
+            },
+            {
+              "id": "C",
+              "text": "how past events affect attitudes to weather"
+            },
+            {
+              "id": "D",
+              "text": "the important effect of stress on mood"
+            },
+            {
+              "id": "E",
+              "text": "the important effect of hours of sunshine on mood"
+            },
+            {
+              "id": "F",
+              "text": "psychological problems due to having to cope with bad weather"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things do Phil and Stella still have to decide on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "how to analyse their results"
+            },
+            {
+              "id": "B",
+              "text": "their methods of presentation"
+            },
+            {
+              "id": "C",
+              "text": "the design of their questionnaire"
+            },
+            {
+              "id": "D",
+              "text": "the location of their survey"
+            },
+            {
+              "id": "E",
+              "text": "weather variables to be measured"
+            },
+            {
+              "id": "F",
+              "text": "the dates of their survey"
+            },
+            {
+              "id": "G",
+              "text": "the size of their survey"
+            },
+            {
+              "id": "H",
+              "text": "the source of data on weather variables"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things do Phil and Stella still have to decide on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "how to analyse their results"
+            },
+            {
+              "id": "B",
+              "text": "their methods of presentation"
+            },
+            {
+              "id": "C",
+              "text": "the design of their questionnaire"
+            },
+            {
+              "id": "D",
+              "text": "the location of their survey"
+            },
+            {
+              "id": "E",
+              "text": "weather variables to be measured"
+            },
+            {
+              "id": "F",
+              "text": "the dates of their survey"
+            },
+            {
+              "id": "G",
+              "text": "the size of their survey"
+            },
+            {
+              "id": "H",
+              "text": "the source of data on weather variables"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things do Phil and Stella still have to decide on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "how to analyse their results"
+            },
+            {
+              "id": "B",
+              "text": "their methods of presentation"
+            },
+            {
+              "id": "C",
+              "text": "the design of their questionnaire"
+            },
+            {
+              "id": "D",
+              "text": "the location of their survey"
+            },
+            {
+              "id": "E",
+              "text": "weather variables to be measured"
+            },
+            {
+              "id": "F",
+              "text": "the dates of their survey"
+            },
+            {
+              "id": "G",
+              "text": "the size of their survey"
+            },
+            {
+              "id": "H",
+              "text": "the source of data on weather variables"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following problems are causing concern to educational authorities in the USA?",
+          "options": [
+            {
+              "id": "A",
+              "text": "differences between rich and poor students"
+            },
+            {
+              "id": "B",
+              "text": "high numbers dropping out of education"
+            },
+            {
+              "id": "C",
+              "text": "falling standards of students"
+            },
+            {
+              "id": "D",
+              "text": "poor results compared with other nationalities"
+            },
+            {
+              "id": "E",
+              "text": "low scores of overseas students"
+            },
+            {
+              "id": "F",
+              "text": "differences between rural and urban students"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following problems are causing concern to educational authorities in the USA?",
+          "options": [
+            {
+              "id": "A",
+              "text": "differences between rich and poor students"
+            },
+            {
+              "id": "B",
+              "text": "high numbers dropping out of education"
+            },
+            {
+              "id": "C",
+              "text": "falling standards of students"
+            },
+            {
+              "id": "D",
+              "text": "poor results compared with other nationalities"
+            },
+            {
+              "id": "E",
+              "text": "low scores of overseas students"
+            },
+            {
+              "id": "F",
+              "text": "differences between rural and urban students"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, what are two advantages of reducing class sizes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "more employment for teachers"
+            },
+            {
+              "id": "B",
+              "text": "improvement in general health of the population"
+            },
+            {
+              "id": "C",
+              "text": "reduction in number of days taken off sick by teachers"
+            },
+            {
+              "id": "D",
+              "text": "better use of existing buildings and resources"
+            },
+            {
+              "id": "E",
+              "text": "better level of education of workforce"
+            },
+            {
+              "id": "F",
+              "text": "availability of better qualified teachers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, what are two advantages of reducing class sizes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "more employment for teachers"
+            },
+            {
+              "id": "B",
+              "text": "improvement in general health of the population"
+            },
+            {
+              "id": "C",
+              "text": "reduction in number of days taken off sick by teachers"
+            },
+            {
+              "id": "D",
+              "text": "better use of existing buildings and resources"
+            },
+            {
+              "id": "E",
+              "text": "better level of education of workforce"
+            },
+            {
+              "id": "F",
+              "text": "availability of better qualified teachers"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tennesseeabout 70 schoolsin total ______significant benefit especially for (36) ______pupilslack of agreement on implications of data",
+          "answer": "12000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tennesseeabout 70 schoolsin total (35) ______significant benefit especially for ______pupilslack of agreement on implications of data",
+          "answer": "minority",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "California______schools1.8 millionvery little benefit– shortage of (38) ______especially in poorer areas",
+          "answer": "all",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "California(37) ______schools1.8 millionvery little benefit– shortage of ______especially in poorer areas",
+          "answer": "teachers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– no proper method for ______of project",
+          "answer": "evaluation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-95-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wisconsin14 schools with pupils from ______families similar results to Tennessee project",
+          "answer": "poor",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/95_we.mp3"
+    }
+  ]
+}

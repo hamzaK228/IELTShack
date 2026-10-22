@@ -1,0 +1,636 @@
+{
+  "id": "pte-listening-14",
+  "title": "Listening — Practice Test 14",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-14-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Customer's full name: Michael ______",
+          "answer": "Simmons",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Previous address: 319 ______ East providence",
+          "answer": "ocean drive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Data allowance: ______",
+          "answer": "unlimited",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Current plan: ______",
+          "answer": "24 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mother's maiden name: ______",
+          "answer": "white",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First pet: ______",
+          "answer": "goldfish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "New password sent on: ______",
+          "answer": "30 June",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Extra services required: new ______",
+          "answer": "cable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cancel ______",
+          "answer": "home phone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pack ______",
+          "answer": "security",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Alarm",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Garage key",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Laundry detergent",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Beach towels",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bath towels",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Light bulbs",
+          "options": [
+            {
+              "id": "A",
+              "text": "on washing machine"
+            },
+            {
+              "id": "B",
+              "text": "in hallway cupboard"
+            },
+            {
+              "id": "C",
+              "text": "in hot water cupboard"
+            },
+            {
+              "id": "D",
+              "text": "next to back door"
+            },
+            {
+              "id": "E",
+              "text": "in bathroom"
+            },
+            {
+              "id": "F",
+              "text": "on top of television"
+            },
+            {
+              "id": "G",
+              "text": "in bedroom"
+            },
+            {
+              "id": "H",
+              "text": "under kitchen sink"
+            },
+            {
+              "id": "I",
+              "text": "above front door"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Difficult parking in town at the weekend because of so many ______",
+          "answer": "tourists",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Museum is closed on ______",
+          "answer": "monday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ for Chinese food",
+          "answer": "happy dragon",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phone number for takeaway pizza ______",
+          "answer": "3231190",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why did Joanne accept the offer from Gregory Associates?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it covered her travel expenses"
+            },
+            {
+              "id": "B",
+              "text": "it was from a well-known company"
+            },
+            {
+              "id": "C",
+              "text": "it was the only offer she received"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Joanne was disappointed because",
+          "options": [
+            {
+              "id": "A",
+              "text": "she found the work routine repetitive"
+            },
+            {
+              "id": "B",
+              "text": "the staff were not very helpful"
+            },
+            {
+              "id": "C",
+              "text": "the work was not related to her studies"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What did Joanne like best about her internship?",
+          "options": [
+            {
+              "id": "A",
+              "text": "observing how the workplace operates"
+            },
+            {
+              "id": "B",
+              "text": "being responsible for completing projects"
+            },
+            {
+              "id": "C",
+              "text": "working closely with the project managers"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What was the hardest part of the internship?",
+          "options": [
+            {
+              "id": "A",
+              "text": "combining it with her studies"
+            },
+            {
+              "id": "B",
+              "text": "living on so little money"
+            },
+            {
+              "id": "C",
+              "text": "working such long hours"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "During the internship Joanne",
+          "options": [
+            {
+              "id": "A",
+              "text": "changed her mind about her career"
+            },
+            {
+              "id": "B",
+              "text": "received a job offer from the company"
+            },
+            {
+              "id": "C",
+              "text": "decided not to continue her studies"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How to apply for an internship ______ (27) (28) (29) (30)",
+          "answer": "documents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How to apply for an internship (26) ______ (28) (29) (30)",
+          "answer": "shortlist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How to apply for an internship (26) (27) ______ (29) (30)",
+          "answer": "tailor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How to apply for an internship (26) (27) (28) ______ (30)",
+          "answer": "call",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How to apply for an internship (26) (27) (28) (29) ______",
+          "answer": "ask questions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• What ______ help to make these changes",
+          "answer": "actions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Applied (examine ______ and how they can be applied) Areas of focus: Asia Pacific region; urbanizing (including employment and (33) ); migration, trade",
+          "answer": "policies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Applied (examine (32) and how they can be applied) Areas of focus: Asia Pacific region; urbanizing (including employment and ______ ); migration, trade",
+          "answer": "housing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Gather data (both ______ and textual data)",
+          "answer": "statistics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Carefully ______ findings",
+          "answer": "evaluate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ on a research project",
+          "answer": "cooperate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ issues are the major consideration",
+          "answer": "economic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• 1970s – development studies became more ______ of the establishment. Questions were raised about power, environmental sustainability and (39) issues.",
+          "answer": "critical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• 1970s – development studies became more (38) of the establishment. Questions were raised about power, environmental sustainability and ______ issues.",
+          "answer": "gender",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-14-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• 1980s – today – national governments were no longer as important. Growing interests in small scale practices such as remittances and ______",
+          "answer": "loans",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/14_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "id": "pte-listening-16",
+  "title": "Listening — Practice Test 16",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-16-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bailey LibraryParkville campus8.30 am to ______pm weekdaysPopular with students",
+          "answer": "10",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Brown LibraryNear Stratton Street and ______7 am to 2 am dailyOpen to (3) ______students only",
+          "answer": "royal parade",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Brown LibraryNear Stratton Street and (2) ______7 am to 2 am dailyOpen to ______students only",
+          "answer": "biomedical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "RMIT LibraryLevel 5, building 8, ______Swan Street10 am – 12 midnight Monday to Friday",
+          "answer": "360",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "10 am – ______pm Saturdays and SundaysGood internet facilites",
+          "answer": "6",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Step 1: log in to ______ using your student number and",
+          "answer": "bookit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Process of booking a computer • Step 1: log in to (6) using your student number and ______ • Step 2: choose the resource type you would like to use • Step 3: select (8) of computer • Step 4: select date of booking using (9) options • Step 5: complete your booking.",
+          "answer": "password",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Step 3: select ______ of computer",
+          "answer": "location",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Step 4: select date of booking using ______ options",
+          "answer": "view",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Your name should appear on the booking ______",
+          "answer": "schedule",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q11",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Doors Open ______",
+          "answer": "A, C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q12",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "The Observatory ______",
+          "answer": "A, C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q13",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Planetarium Shows ______",
+          "answer": "C, D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q14",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "All tickets ______",
+          "answer": "A, C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The tour of the telescope dome includes access to the of the building ______",
+          "answer": "roof",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tour participants are advised to have suitable ______",
+          "answer": "shoes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Visitors to the Crawford Collection can see items from the astronomical on display ______",
+          "answer": "library",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The children's craft workshops take place in the ______",
+          "answer": "visitor centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "During the craft workshops children can construct a model of a ______",
+          "answer": "telescope",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Children also have the opportunity to colour a ______",
+          "answer": "planet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 21. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 22. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 23. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 24. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 25. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 26. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-16-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "UARSUnited States– Size and weight of ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "SkylabUnited States– Ended up in ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Weight of ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Ended up in ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Decompression zone (sometimes called the ______zone)Situated immediately inside the entrance and is generally free of (32) ______To encourage the customer to (33) ______to the supermarket",
+          "answer": "dead",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Decompression zone (sometimes called the (31) ______zone)Situated immediately inside the entrance and is generally free of ______To encourage the customer to (33) ______to the supermarket",
+          "answer": "stock",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Decompression zone (sometimes called the (31) ______zone)Situated immediately inside the entrance and is generally free of (32) ______To encourage the customer to ______to the supermarket",
+          "answer": "adjust",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "zoneSituated on the right side near the front doorTo encourage customers to relax before they start shopping ______",
+          "answer": "dwell",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Power aisleThe central route through the supermarketTo display ______",
+          "answer": "offers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They are referred to as distress goods",
+          "options": [
+            {
+              "id": "A",
+              "text": "fruit and vegetables"
+            },
+            {
+              "id": "B",
+              "text": "bread and milk"
+            },
+            {
+              "id": "C",
+              "text": "cheap tinned foods"
+            },
+            {
+              "id": "D",
+              "text": "flowers"
+            },
+            {
+              "id": "E",
+              "text": "sunglasses"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They are always located at the front of the supermarket",
+          "options": [
+            {
+              "id": "A",
+              "text": "fruit and vegetables"
+            },
+            {
+              "id": "B",
+              "text": "bread and milk"
+            },
+            {
+              "id": "C",
+              "text": "cheap tinned foods"
+            },
+            {
+              "id": "D",
+              "text": "flowers"
+            },
+            {
+              "id": "E",
+              "text": "sunglasses"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They are referred to as destination goods",
+          "options": [
+            {
+              "id": "A",
+              "text": "fruit and vegetables"
+            },
+            {
+              "id": "B",
+              "text": "bread and milk"
+            },
+            {
+              "id": "C",
+              "text": "cheap tinned foods"
+            },
+            {
+              "id": "D",
+              "text": "flowers"
+            },
+            {
+              "id": "E",
+              "text": "sunglasses"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They are normally located below eye level",
+          "options": [
+            {
+              "id": "A",
+              "text": "fruit and vegetables"
+            },
+            {
+              "id": "B",
+              "text": "bread and milk"
+            },
+            {
+              "id": "C",
+              "text": "cheap tinned foods"
+            },
+            {
+              "id": "D",
+              "text": "flowers"
+            },
+            {
+              "id": "E",
+              "text": "sunglasses"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-16-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They are often located at the check-out",
+          "options": [
+            {
+              "id": "A",
+              "text": "fruit and vegetables"
+            },
+            {
+              "id": "B",
+              "text": "bread and milk"
+            },
+            {
+              "id": "C",
+              "text": "cheap tinned foods"
+            },
+            {
+              "id": "D",
+              "text": "flowers"
+            },
+            {
+              "id": "E",
+              "text": "sunglasses"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/16_deep.mp3"
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "id": "pte-listening-200",
+  "title": "Listening — Practice Test 200",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-200-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name of supervisor: ______",
+          "answer": "Kaeden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where to leave coat and bag: use ______ in staffroom",
+          "answer": "Locker(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "See Tiffany in HR: to give ______ number",
+          "answer": "Passport",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "to collect ______",
+          "answer": "Uniform",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Location of HR office: on ______ floor",
+          "answer": "Third/3rd",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Supervisor's mobile number: ______",
+          "answer": "0412665903",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bakery sectionCheck sell-by datesChange price labelsUse ______ labels",
+          "answer": "Yellow",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sushi takeaway counterRe-stock with ______ boxes if neededWide preparation area and clean the sinkDo not clean any knives",
+          "answer": "Plastic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Meat and fish countersClean the serving area including the weighing scalesCollect ______ for the fish from the cold roomMust wear special (10)",
+          "answer": "Ice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Meat and fish countersClean the serving area including the weighing scalesCollect (9) for the fish from the cold roomMust wear special ______",
+          "answer": "Gloves",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q11",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO problems with some training programmes for new runners does Liz mention?",
+          "options": [
+            {
+              "id": "A",
+              "text": "There is a risk of serious injury."
+            },
+            {
+              "id": "B",
+              "text": "They are unsuitable for certain age groups."
+            },
+            {
+              "id": "C",
+              "text": "They are unsuitable for people with health issues."
+            },
+            {
+              "id": "D",
+              "text": "It is difficult to stay motivated."
+            },
+            {
+              "id": "E",
+              "text": "There is a lack of individual support."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q12",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO problems with some training programmes for new runners does Liz mention?",
+          "options": [
+            {
+              "id": "A",
+              "text": "There is a risk of serious injury."
+            },
+            {
+              "id": "B",
+              "text": "They are unsuitable for certain age groups."
+            },
+            {
+              "id": "C",
+              "text": "They are unsuitable for people with health issues."
+            },
+            {
+              "id": "D",
+              "text": "It is difficult to stay motivated."
+            },
+            {
+              "id": "E",
+              "text": "There is a lack of individual support."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q13",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO tips does Liz recommend for new runners?",
+          "options": [
+            {
+              "id": "A",
+              "text": "doing two runs a week"
+            },
+            {
+              "id": "B",
+              "text": "running in the evening"
+            },
+            {
+              "id": "C",
+              "text": "going on runs with a friend"
+            },
+            {
+              "id": "D",
+              "text": "listening to music during runs"
+            },
+            {
+              "id": "E",
+              "text": "running very slowly"
+            }
+          ],
+          "answer": [
+            "A",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q14",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO tips does Liz recommend for new runners?",
+          "options": [
+            {
+              "id": "A",
+              "text": "doing two runs a week"
+            },
+            {
+              "id": "B",
+              "text": "running in the evening"
+            },
+            {
+              "id": "C",
+              "text": "going on runs with a friend"
+            },
+            {
+              "id": "D",
+              "text": "listening to music during runs"
+            },
+            {
+              "id": "E",
+              "text": "running very slowly"
+            }
+          ],
+          "answer": [
+            "A",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Ceri",
+          "options": [
+            {
+              "id": "A",
+              "text": "a lack of confidence"
+            },
+            {
+              "id": "B",
+              "text": "a dislike of running"
+            },
+            {
+              "id": "C",
+              "text": "a lack of time"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "James",
+          "options": [
+            {
+              "id": "A",
+              "text": "a lack of confidence"
+            },
+            {
+              "id": "B",
+              "text": "a dislike of running"
+            },
+            {
+              "id": "C",
+              "text": "a lack of time"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Leo",
+          "options": [
+            {
+              "id": "A",
+              "text": "a lack of confidence"
+            },
+            {
+              "id": "B",
+              "text": "a dislike of running"
+            },
+            {
+              "id": "C",
+              "text": "a lack of time"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mark",
+          "options": [
+            {
+              "id": "A",
+              "text": "a lack of confidence"
+            },
+            {
+              "id": "B",
+              "text": "a dislike of running"
+            },
+            {
+              "id": "C",
+              "text": "a lack of time"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Liz say about running her first marathon?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It had always been her ambition."
+            },
+            {
+              "id": "B",
+              "text": "Her husband persuaded her to do it."
+            },
+            {
+              "id": "C",
+              "text": "She nearly gave up before the end."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Liz says new runners should sign up for a race",
+          "options": [
+            {
+              "id": "A",
+              "text": "every six months."
+            },
+            {
+              "id": "B",
+              "text": "within a few weeks of taking up running."
+            },
+            {
+              "id": "C",
+              "text": "after completing several practice runs."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Kieran thinks the packing advice given by Jane's grandfather is",
+          "options": [
+            {
+              "id": "A",
+              "text": "common sense."
+            },
+            {
+              "id": "B",
+              "text": "hard to follow."
+            },
+            {
+              "id": "C",
+              "text": "over-protective."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How does Jane feel about the books her grandfather has given her?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They are not worth keeping."
+            },
+            {
+              "id": "B",
+              "text": "They should go to a collector."
+            },
+            {
+              "id": "C",
+              "text": "They have sentimental value for her,"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jane and Kieran agree that hardback books should be",
+          "options": [
+            {
+              "id": "A",
+              "text": "put out on display."
+            },
+            {
+              "id": "B",
+              "text": "given as gifts to visitors."
+            },
+            {
+              "id": "C",
+              "text": "more attractively designed."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "While talking about taking a book from a shelf, Jane",
+          "options": [
+            {
+              "id": "A",
+              "text": "describes the mistakes other people make doing it."
+            },
+            {
+              "id": "B",
+              "text": "reflects on a significant childhood experience."
+            },
+            {
+              "id": "C",
+              "text": "explains why some books are easier to remove than others."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do Jane and Kieran suggest about new books?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their parents liked buying them as presents."
+            },
+            {
+              "id": "B",
+              "text": "They would like to buy more of them."
+            },
+            {
+              "id": "C",
+              "text": "Not everyone can afford them."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "rare books",
+          "options": [
+            {
+              "id": "A",
+              "text": "near the entrance"
+            },
+            {
+              "id": "B",
+              "text": "in the attic"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "id": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "id": "E",
+              "text": "near the stairs"
+            },
+            {
+              "id": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "id": "G",
+              "text": "within the cafe"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "children's books",
+          "options": [
+            {
+              "id": "A",
+              "text": "near the entrance"
+            },
+            {
+              "id": "B",
+              "text": "in the attic"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "id": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "id": "E",
+              "text": "near the stairs"
+            },
+            {
+              "id": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "id": "G",
+              "text": "within the cafe"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "unwanted books",
+          "options": [
+            {
+              "id": "A",
+              "text": "near the entrance"
+            },
+            {
+              "id": "B",
+              "text": "in the attic"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "id": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "id": "E",
+              "text": "near the stairs"
+            },
+            {
+              "id": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "id": "G",
+              "text": "within the cafe"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "requested books",
+          "options": [
+            {
+              "id": "A",
+              "text": "near the entrance"
+            },
+            {
+              "id": "B",
+              "text": "in the attic"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "id": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "id": "E",
+              "text": "near the stairs"
+            },
+            {
+              "id": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "id": "G",
+              "text": "within the cafe"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "coursebooks",
+          "options": [
+            {
+              "id": "A",
+              "text": "near the entrance"
+            },
+            {
+              "id": "B",
+              "text": "in the attic"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the shop"
+            },
+            {
+              "id": "D",
+              "text": "on a high shelf"
+            },
+            {
+              "id": "E",
+              "text": "near the stairs"
+            },
+            {
+              "id": "F",
+              "text": "in a specially designed space"
+            },
+            {
+              "id": "G",
+              "text": "within the cafe"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• not include invasive species because of possible ______ with native species",
+          "answer": "Competition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• aim to capture carbon, protect the environment and provide sustainable sources of ______ for local people",
+          "answer": "Food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• use tree seeds with a high genetic diversity to increase resistance to ______ and climate change",
+          "answer": "Disease",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• plant trees on previously forested land which is in a bad condition, not select land which is being used for ______",
+          "answer": "Agriculture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Base planning decisions on information from accurate ______",
+          "answer": "Maps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Drones are useful for identifying areas in Brazil which are endangered by keeping ______ and illegal logging.",
+          "answer": "Cattle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o increasing the ______ of recovery by attracting animals and birds, e.g., (38) were soon attracted to the area.",
+          "answer": "Speed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o increasing the (37) of recovery by attracting animals and birds, e.g., ______ were soon attracted to the area.",
+          "answer": "Monkeys",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Destruction of mangrove forests in Madagascar made it difficult for people to make a living from ______",
+          "answer": "Fishing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-200-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o protects against the higher risk of ______",
+          "answer": "Flooding",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/200_we.mp3"
+    }
+  ]
+}

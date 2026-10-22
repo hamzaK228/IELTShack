@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-24",
+  "title": "General Training Writing — Letter 24",
+  "kind": "practice",
+  "description": "Task 1 letter, 24 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-24-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You have just spent a weekend at a friend's house. When you returned home, you discovered you have left a coat containing some belongings in his house.\nWrite a letter to your friend telling him that you left the coat. Tell him what the coat looks like, where you think you left it and what was inside it. Make some suggestions about how to get it back.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

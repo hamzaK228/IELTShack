@@ -1,0 +1,825 @@
+{
+  "id": "pte-gt-reading-32",
+  "title": "General Training Reading — Practice Test 32",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: BThe Beachcomber Fish and Chips Restaurant",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-32-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement is NOT for a restaurant? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which restaurant can cater for parties? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which restaurant does NOT offer a takeaway service? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which restaurant will give you extra food if you give them a coupon? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which restaurant cannot sell alcohol? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement is valid for only 2 weeks? A SPECIAL OFFER Buy 1 pizza (any size) get another one free (same type) for 2 weeks only We invite you to come over for a special treat at Zambino's Pizzeria. All you have to do is show this voucher with your order and we will cook TWO of whatever pizza you order The second pizza will be completely FREE. ZAMBINO'S PIZZA (Fully licenced) Offers expires on 8th July Not to be used in conjunction with any other offer Free delivery Eat in or takeaway 13 Station Road, Bournemouth Tel: 01202 836827 ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "BThe Beachcomber Fish and Chips Restaurant",
+        "text": "Eating in or takeaway, you will be sure to love our full range of chippie favourites\n\n– cod, plaice, rock salmon, monkfish\n\n– sausages\n\n– pies\n\n– a range of soft drinks (only)\n\n– the BEST chips on the south coast\n\n56, Sea Road, Bournemouth\n\nTel: 864256\n\nC\n\nTHE TAJ MAHAL (Fully licensed, Tel: 896542)\n\nIndian Cuisine\n\n– 10% discount on takeaways\n\n– home delivery\n\n– separate function room\n\n– open for lunch and dinner\n\n35 Dean Way, Bournemouth\n\nTel: 01202 745973\n\nFine dining in the best Japanese traditions\n\nCome and enjoy the renowned creations of our chef, Kyoko\n\nChoose from our set menus or a la Carte and try our fully licensed bar\n\n49, Bournemouth High Street, Bournemouth\n\nReservations: 01202 945168"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: ECash and Carry Out",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-32-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On which TWO days are there competitions? ______",
+          "answer": "Friday + Saturday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which day's afternoon activities finish the earliest? ______",
+          "answer": "Wednesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which day's film is about a horse? ______",
+          "answer": "Monday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On which day are the food arrangements different? ______",
+          "answer": "Wednesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where will the kids go on Thursday morning if it's raining? ______",
+          "answer": "Hallows function room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the full, inclusive price for all activities for the week? ______",
+          "answer": "$45",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What time does Kids Club finish on Sunday? ______",
+          "answer": "5 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students may not use their own floppy discs in the school's computers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students can go into the Language Lab at 8.30 on Thursday mornings.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students can have a cooked breakfast in the cafe before their morning classes.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The police will visit any student not completing the required attendance levels",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "ECash and Carry Out",
+        "text": "The low cost supplier of quality foodstuffs for restaurants in the Bournemouth area\n\n– fish and seafood\n\n– quality meats\n\n– fruit and vegetables\n\n– dairy produce\n\n– herbs and spices\n\n– frozen goods\n\n135-138 Church Road, Bournemouth\n\nTel: 01202 512075"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Text 3",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-32-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What time does school open on Wednesday mornings? ______",
+          "answer": "7.30 am",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where are the computer booking rules? ______",
+          "answer": "Computer room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the minimum deposit to book a place on a course? westly school of english information for students Timings The school is open Mon – Fri from 7.30 am to 9.00 pm and on Saturday from 9.00 am to 12.30 pm. CLASS TIMINGS (Mon – Fri) Lesson 1 8.45 am – 10.15 am Lesson 2 10.45 am – 12.15 pm Lesson 3 2.00 pm – 3.30 pm Computer Room The school has a fully equipped computer lab with a free 24-hour internet connection. Students may use the computers at any time during school opening hours unless any class or activity is scheduled. In the evenings there is a booking system for the computers. Please read the rules for this in the computer room. Be advised that, due to the risk of viruses, students are not allowed to bring in and use their own disks or CDs. Self Access and Language Lab The lab is open and available for all students during school opening hours. There are tapes and self-study materials available for all levels. In the break times and the evenings there is a teacher on duty who can assist students with accessing material. Cafeteria The school cafeteria is open from 8.15 am to 5.00 pm. The cafeteria only sells hot food at lunchtime. A selection of sandwiches, snacks and hot or cold drinks are available at other times during the rest of the day. Attendance All students who come to the UK on student visas are required by law to attend a minimum of 85% of their scheduled courses. The school is required to inform the Department of Immigration of any student not fulfilling his visa obligations. A minimum attendance of 85% is also required for students to receive their course certificate. Fees All fees must be paid in full before the start of any course. A non-returnable deposit of 10% will secure a reservation on a course but the balance must be paid before classes begin. ______",
+          "answer": "10%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Ten minutes is the maximum available length for an appointment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you have had an x-ray, call the surgery no earlier than one week following the date of the x-ray for the result.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You cannot order a repeat prescription over the phone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "One of the practice's four doctors will conduct a New Patients Health Check with any new patients to the practice. westly central surgery information opening hours Monday to Friday 8.30 am – 6.00 pm Saturday 9.00 am – 10.00 am (emergencies only) Surgeries Ten-minute appointments are given, although longer periods can be allocated on request. Morning surgery is between 8.30 am and 11.00 am, and afternoon surgery between 3.00 pm and 5.30 pm. These times may change during holiday periods and for staff training. We will always see you the same day for an urgent problem, although we cannot guarantee that this will be with the doctor of your choice. An urgent appointment is intended for matters that cannot wait until the next available routine appointment. Giving our staff an outline of the nature of the problem may help them organize the most appropriate response. We will often ask the doctor to ring you back to help decide the most appropriate way to deal with your problem. If you are unable to attend an appointment, please let us know so that we can offer the appointment to someone else. Results of Tests If you are asked to phone for results, please ring between 11.30 and 12.30. Please allow at least three working days for the results to be available. X-ray results take two weeks to arrive back at the surgery. Prescriptions Please allow at least two full days' notice of your prescription requirements. With every prescription issued a printed sheet is given showing details of all your medicines. Please retain this. When you require a further prescription, please use this sheet as a tick list to request the medicines you require or obtain a request slip from reception. You can come in to order your prescription or post or fax your request. If you would like us to post your prescription to you, please include a stamped, self-addressed envelope. We do not accept telephone requests for repeat prescriptions as this can result in errors. Home Visits If you require a doctor to visit you at home, please ring the surgery before 10.00 am if possible. The doctors usually visit patients between 12.00 pm and 3.00 pm. New Patients To register with the Practice, please attend reception with your medical card if you have it, as well as the details of your previous doctor. You will be encouraged to attend a \"New Patients Health Check\" with one of our practice nurses. Emergency calls To speak to the doctor urgently you can ring the main surgery telephone number or ring the emergency mobile phone. For the mobile, please allow 25 seconds for connection. If the mobile phone is in use, or the doctor is in an area of poor reception, your call will be transferred to an answer phone. The emergency doctor will be alerted and will call you back. Practice Area Unfortunately we can only accept registration from patients who live within our practice area. If you move outside this area, you will be asked to register with another doctor. If you are in any doubt as to whether you are in our area, please speak to the reception staff. Charges There is a charge for some medical services that fall outside those provided by the NHS. These services include private sick notes, passport forms, holiday cancellation forms, insurance reports and employment medicals. Some travel vaccinations are also charged for and we charge for issuing a private prescription.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When a prescription is given, the surgery will also provide a document detailing your ______",
+          "answer": "Medicine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If the main surgery telephone line is busy and you have an urgent problem, call the ______",
+          "answer": "Emergency mobile phone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Only patients who live in the ______ can register at the Westley Central Surgery.",
+          "answer": "Area of practice",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Text 3",
+        "text": "In boxes 14 – 17 on your answer sheet write:\n\nTRUE if the statement is true\n\nFALSE if the statement is false\n\nNOT GIVEN if the information is not given in the passage 14. Students may not use their own floppy discs in the school's computers. 15. Students can go into the Language Lab at 8.30 on Thursday mornings. 16. Students can have a cooked breakfast in the cafe before their morning classes.\n\n17. The police will visit any student not completing the required attendance levels"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: chocolate – the food of the gods",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-32-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "X",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "XI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most early Spaniards did not particularly like the chocolate that the Aztecs originally drank.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Forastero bean is generally regarded as making the best chocolate.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cacao trees need a lot of looking after to be used commercially.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some chocolate companies have been known to steal chocolate recipes from other companies.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The beans are winnowed after ______and these two processes produce the nibs",
+          "answer": "Roasting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The cooking chocolate is then blended with ______and other ingredients to make the various types of eating chocolate available today",
+          "answer": "Cocoa butter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-32-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "produces the smoothness in the chocolate ______",
+          "answer": "Conching",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "chocolate – the food of the gods",
+        "text": "(A) The story of chocolate begins with the discovery of America in 1492. Columbus was the first European to come into contact with cacao. On August 5th, 1502, on his fourth and last voyage to the Americas, Columbus and his crew met some natives in a canoe that contained beans from the cacao tree. Columbus was struck by how much value the Indians placed on them as he did not know the beans were used for currency. It is unlikely that Columbus brought any of these beans back to Spain and it was not until about twenty years later that Cortez grasped the commercial possibilities when he found the Aztecs using the beans to make the royal drink \"chocolate\".\n\n(B) The Spanish, in general, were not fond of the bitter drink so Cortez and his followers made it more palatable by adding cane sugar and later cinnamon and vanilla were added. Spanish monks let the secret out back home and, although the Spanish hid it from their neighbours for a hundred years, finally chocolate's popularity grew until it was the fashionable drink at the French court and the discerning choice of customers at London meeting houses.\n\n(C) The cacao beans are harvested from pods grown on the cacao tree. The pods come in a range of types since cacao trees cross-pollinate freely. These types can be reduced to three classifications. The most common is Forastero, which accounts for nearly 90% of the world's production of cacao beans. This is the easiest to cultivate and has a thick-walled pod and a pungent aroma. Rarest and most prized are the beans of the Criollo. These beans from the soft, thin-skinned pod have an aroma and delicacy that make them sought after by the world's best chocolate makers. Finally, there is the Trinitario, which is believed to be a natural cross from strains of the other two types. It has a great variety of characteristics but generally possesses a good, aromatic flavour and the trees are particularly suitable for cultivation.\n\n(D) The cacao tree is strictly a tropical plant thriving only in hot, rainy climates. Thus, its cultivation is confined to countries not more than 20 degrees north or south of the equator. The cacao tree is very delicate and sensitive. It needs protection from the wind and requires a fair amount of shade under most conditions. This is true especially in its first two or three years of growth. A newly planted cacao seedling is often sheltered by a different type of tree. It is normal to plant food crops for shade such as bananas, plantain, coconuts or cocoyams. Rubber trees and forest trees are also used for shade. Once established, however, cacao tree can grow in full sunlight, provided there are fertile soil conditions and intensive husbandry. With pruning and careful cultivation, the trees of most strains will begin bearing fruit in the fifth year. With extreme care, some strains can be induced to yield good crops in the third and fourth years.\n\n(E) The process of turning cacao into chocolate hasn't changed much since the Swiss made the major breakthroughs in the process in the late 1800s. First the beans (up to twelve varieties harvested from all over the world) go through a process of fermentation and drying. They are then sorted by hand before cleaning and then roasting. Winnowing follows which removes the hard outer hulls and leaves what is known as the \"nibs\". A crushing and heating process known as Hunte's Process is then used to remove nearly half of the cocoa butter from the nibs. This makes unsweetened chocolate (also known as cooking chocolate). Basic eating chocolate is made from a blending of the unsweetened chocolate with some of the cocoa butter along with other ingredients such as sugar and vanilla. The resulting product is then \"conched\" and this conching gives chocolate the velvet texture that we know so well. The finished result is then moulded, cooled, packaged by machine, distributed, sold and, of course, eaten!\n\n(F) Where methods of manufacturing are concerned, manufacturers have a completely free hand and have developed individual variations from the pattern. Each manufacturer seeks to protect his own methods by conducting certain operations under an atmosphere of security. No chef guards his favourite recipes more zealously than the chocolate manufacturer guards his formulas for blending the beans. Time intervals, temperatures and proportions are three critical factors that no company wants to divulge.\n\n(G) Apart from the taste, one of the most pleasant effects of eating chocolate is the \"good feeling\" that many people experience after indulging. Chocolate contains more than three known chemicals including caffeine, theobromine and phenlethylamine which are stimulants. Some researchers believe that chocolate contains pharmacologically active substances that have the same effect on the brain as marijuana and that these chemicals may be responsible for problems such as the psychoses associated with chocolate craving. However, eating too much of anything can obviously cause health problems and as long as moderation is exercised, chocolate should not cause the average person any harm."
+      }
+    }
+  ]
+}

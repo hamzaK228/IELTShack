@@ -1,0 +1,631 @@
+{
+  "id": "pte-gt-reading-35",
+  "title": "General Training Reading — Practice Test 35",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: You're fired!",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-35-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Passengers must leave their hand luggage (cabin baggage) at the flight desk no later than 45 minutes before departure.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Passengers must have some means of photo identification.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Passengers must have both the correct ticket and the reservation code.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is no charge for 18 kg of hold baggage.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Passengers may pre-book an additional 28 kg of hold luggage.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Passengers with breathing problems can take compressed oxygen on-board.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Toiletries must be placed together in a clear plastic bag.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You can be fired for any______ if you are 'employed at will'.",
+          "answer": "Reason",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Thirty days' ______can be paid instead of advanced notice.",
+          "answer": "Wages",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Information on______ is contained in the employee's handbook.",
+          "answer": "Dismissal Procedure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An employer has______ to terminate your contract if you have failed to observe a written warning.",
+          "answer": "Just cause",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In UK law, a contract of employment does not have to be ______",
+          "answer": "Written down",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Theft and drinking alcohol on duty are examples of ______",
+          "answer": "Gross misconduct",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the UK, people are described as having been______ rather than fired.",
+          "answer": "Sacked",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "You're fired!",
+        "text": "'Employment at will' In the USA, employment is typically on an 'at will' basis, meaning that your employer can fire you 'at will' for whatever reason. Being late for work at an at-will firm could cost you your job without any warning, period of notice, or legal rights to fight the decision. Whilst this behaviour appears harsh, it allows employers to dismiss lazy or incompetent people easily and then hire new people to take their place. 'Employment at will' means no contract of employment and no job security.\n\n'Just cause' Not all US firms are 'at-will' employers. Some workers have to sign a contract that sets out the employee's terms and conditions (for example, pay, annual leave and rest periods). If an employer wishes to terminate the contract they must provide the employee at least 30 days' notice in advance, or pay 30 days' wages in lieu of the period of notice. Employers are expected to adhere to any dismissal procedures set out in the employee's handbook. Typically this means that you cannot be fired for bad timekeeping without receiving prior verbal and written warnings. If you fail to heed a written warning, and continue to arrive late for work, then your employer has 'just cause' to dismiss you.\n\n'Sacked' In the UK there is no such thing as 'employment at will'. In UK employment law there is always a contract between an employer and an employee whether or not it is written down. An employee cannot be dismissed without 'just cause'. However, an employee can be dismissed immediately for gross misconduct such as theft, indecent behaviour, or drinking alcohol on duty. The colloquial term for dismissal in the UK is 'sacked', though the term 'fired' is widely understood. An employee has no rights to 30 days' notice or 30 days' wages in lieu of the notice period when they have been sacked due to gross misconduct."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Text 2",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-35-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How can guests make a reservation before they arrive? ______",
+          "answer": "(via the) website",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which meal incurs no extra charge? ______",
+          "answer": "Breakfast",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much of the first night's booking is paid in advance? ______",
+          "answer": "100%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What cost is incurred for a cancellation made before the booking date? ______",
+          "answer": "(the) deposit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the latest time that a guest can vacate their room on departure? ______",
+          "answer": "14.00 hrs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who pays for replacement keys? ______",
+          "answer": "(the) Room holder",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Text 2",
+        "text": "NEWVIEW HOTEL\n\nTERMS AND CONDITIONS\n\nBookings Guests may book via the website or on arrival. Rooms are subject to availability and the management reserves the right to refuse a booking if your accommodation is no longer available for reasons beyond our control.\n\nCharges The prices displayed on the website are the total for your requested stay and are inclusive of breakfast (served from 08.15 to 09.30). Extras such as evening meals and drinks are additional.\n\nPayment\n\n(A) non-refundable deposit equal to 100% of the cost of the first night's booking is required with any reservation. The balance of the booking is paid on departure. Bookings made on a special discounted rate require full prepayment for the entire booking at the time of the booking, and are non-refundable and non-transferable. Payment can be made by credit or debit card. All payments made by credit card will attract a 2% surcharge.\n\nCancellations If a booking is cancelled with at least 48 hours' warning there will not be a charge other than the deposit. Bookings that are cancelled with less than 48 hours' warning, or by way of a 'no-show', will incur the cost of the entire reservation. We recommend that you take out a holiday cancellation insurance policy that covers cancellations through accidents and illness.\n\nArrival and departure Guests may check in at any time from 15.00 hrs on the day of arrival. An early check-in is available from 11.00 hrs for an extra charge of £5. All guests are requested to vacate their rooms by 11.00 hrs on the day of departure. A late checkout is available up to 14.00 hrs for an extra charge of £10.\n\nBreakages/losses We do not normally charge for minor breakages but may do so where the damages or breakages are significant. The agent responsible for the booking will be debited with the costs.\n\n(A) fee of £10 will be charged to the room holder for keys that are lost or not returned.\n\nParking There is plenty of free parking at the rear of the hotel. The management does not accept liability for loss or damage to vehicles unless caused by ourselves."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Text 3",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-35-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some people fill the kettle with too much water, which______",
+          "answer": "Wastes energy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Before the kettle boils you can______ the cups.",
+          "answer": "get out",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Preheating the teapot helps with the ______",
+          "answer": "Brewing process",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is possible to make three cups of tea from two tea bags ______",
+          "answer": "Properly infused",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The heat of the pot can damage the ______",
+          "answer": "Work surface",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Black tea can reach the______ after two minutes.",
+          "answer": "Desired strength",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some people______ to add milk and sugar last.",
+          "answer": "Prefer",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Text 3",
+        "text": "(A) Proper Brew\n\nEIGHT STEPS TO A PERFECT CUP OF TEA 1 Empty the old water out of the kettle and fill it up with fresh water from the cold water tap. In some hard-water areas it may be necessary to use filtered water. Do not fill the kettle with more water than you need because this wastes energy. Switch the kettle on to boil. 2 Meanwhile get out the following items: teapot; tea cosy if you have one; teapot stand; milk; white sugar or sweeteners; and the required number of mugs or cups. 3 When the kettle is hot, but not yet boiling, add some water to the teapot to preheat it, and then pour this water away. Do not wait until the kettle is boiling before preheating the teapot because the water will need to be boiled again and this wastes energy. A cold teapot absorbs some of the heat needed for the brewing process. 4 Place the tea bags in the warmed teapot. One tea bag per person will make a strong brew. Two tea bags, properly infused, are sufficient to make three cups of tea with the correct amount of water in the teapot. 5 When the water comes to the boil, pour it onto the tea bags and give the brew a quick stir. Place the lid on the pot and put on the tea cosy to keep the brew warm. A teapot stand will protect the work surface from the heat of the pot. 6 Allow the tea to infuse for between three and five minutes to achieve the desired strength, according to taste. If you prefer black tea, then two minutes might be sufficient, whereas a herbal or fruit tea might need at least six minutes. 7 Pour a small amount of milk into the empty cups or mugs, and add the desired amount of sugar if required. Alternatively you can wait until the tea has been poured out before adding the milk and sugar, if you prefer. 8 Remove the tea cosy and pour the tea into the cups. Biscuits are an optional extra. Digestives and Rich-tea biscuits are ideal for dunking."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Text 4",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-35-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "FALSE if the statement contradicts the information ______",
+          "answer": "FALSE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "FALSE if the statement contradicts the information ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "FALSE if the statement contradicts the information ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "FALSE if the statement contradicts the information ______",
+          "answer": "FALSE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "FALSE if the statement contradicts the information ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In what year did Otis demonstrate his safety brake? ______",
+          "answer": "1854",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In what year did the Grosvenor Hotel open in London? ______",
+          "answer": "1961",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q35",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In what year did Otis develop an electric elevator for skyscrapers? ______",
+          "answer": "1903",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q36",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In what year was the Woolworths skyscraper no longer the world's tallest building? ______",
+          "answer": "1941",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a method that halts the platform when the rope is cut.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "two methods that take the strain out of lifting.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q39",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a method that prevents injury if all other safety features fail.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-35-q40",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a method that applies pressure to a cable to pull it.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Text 4",
+        "text": "Vertical transport\n\n(A) DEATH DEFYING STUNT THAT SHAPED THE SKYLINE OF THE WORLD\n\n(A) The raising of water from a well using a bucket suspended from a rope can be traced back to ancient times. If the rope was passed over a pulley wheel it made the lifting less strenuous. The method could be improved upon by attaching an empty bucket to the opposite end of the rope, then lowering it down the well as the full bucket came up, to counterbalance the weight.\n\n(B) Some medieval monasteries were perched on the tops of cliffs that could not be readily scaled. To overcome the problem, a basket was lowered to the base of the cliff on the end of a rope coiled round a wooden rod, known as a windlass. It was possible to lift heavy weights with a windlass, especially if a small cog wheel on the cranking handle drove a larger cog wheel on a second rod. Materials and people were hoisted in this fashion, but it was a slow process and if the rope were to break the basket plummeted to the ground.\n\n(C) In the middle of the nineteenth century the general public considered elevators supported by a rope to be too dangerous for personal use. Without an elevator, the height of a commercial building was limited by the number of steps people could be expected to climb within an economic time period. It was the American inventor and manufacturer Elisha Graves Otis (1811–61) who finally solved the problem of passenger elevators.\n\n(D) In 1852, Otis pioneered the idea of a safety brake, and two years later he demonstrated it in spectacular fashion at the New York Crystal Palace Exhibition of Industry. Otis stood on the lifting platform, four storeys above an expectant crowd. The rope was cut, and after a small jolt, the platform came to a halt. Otis' stunt increased people's confidence in elevators and sales increased.\n\n(E) The operating principle of the safety elevator was described and illustrated in its pattern documentation of 1861. The lifting platform was suspended between two vertical posts each lined with a toothed guide rail. A hook was set into the sides of the platform to engage with the teeth, allowing movement vertically upwards but not downwards. Descent of the elevator was possible only if the hooks were pulled in, which could only happen when the rope was in tension. If the rope were to break, the tension would be lost and the hooks would spring outwards to engage the teeth and stop the fall. Modern elevators incorporate similar safety mechanisms.\n\n(F) Otis installed the first passenger elevator in a store in New York City in 1957. Following the success of the elevator, taller buildings were constructed, and sales increased once more as the business expanded into Europe. England's first Otis passenger elevator (or lift as the British say) appeared four years later with the opening of London's Grosvenor Hotel. Today, the Otis Elevator Company continues to be the world's leading manufacturer of elevators, employing over 60,000 people with markets in 200 countries. More significantly perhaps, the advent of passenger lifts marked the birth of the modern skyscraper.\n\n(G) Passenger elevators were powered by steam prior to 1902. A rope carrying the cab was wound round a revolving drum driven by a steam engine. The method was too slow for a tall building, which needed a large drum to hold a long coil of rope. By the following year, Otis had developed a compact electric traction elevator that used a cable but did away with the winding gear, allowing the passenger cab to be raised over 100 storeys both quickly and efficiently.\n\n(H) In the electric elevator, the cable was routed from the top of the passenger cab to a pulley wheel at the head of the lift shaft and then back down to a weight acting as a counterbalance. A geared-down electric motor rotated the pulley wheel, which contained a groove to grip the cable and provide the traction. Following the success of the electric elevator, skyscraper buildings began to spring up in the major cities. The Woolworths building in New York, constructed in 1913, was a significant landmark, being the world's tallest building for the next 27 years. It had 57 floors and the Otis high-speed electric elevators could reach the top floor in a little over one minute.\n\n(I) Each elevator used several cables and pulley wheels, though one cable was enough to support the weight of the car. As a further safety feature, an oil-filled shock piston was mounted at the base of the lift shaft to act as a buffer, slowing the car down at a safe rate in the unlikely event of every cable failing as well as the safety brake."
+      }
+    }
+  ]
+}

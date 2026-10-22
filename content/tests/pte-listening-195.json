@@ -1,0 +1,802 @@
+{
+  "id": "pte-listening-195",
+  "title": "Listening — Practice Test 195",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-195-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Home address: 52 ______ Street, Peacetown",
+          "answer": "Marrowfield",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Heard about us: from a ______",
+          "answer": "Relative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Reasons for joining: to enter competitions and to ______",
+          "answer": "Socialize/ socialize",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of membership: ______ membership (£ 30)",
+          "answer": "Full",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A scene in the home The picture's composition was not good ______",
+          "answer": "Domestic life",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "'Beautiful Sunsets' Scene must show some ______ The (7) ______ was wrong",
+          "answer": "Clouds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "'Beautiful Sunsets' Scene must show some (6) ______ The ______ was wrong",
+          "answer": "Timing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Scene must show (9) ______ The photograph was too (10) ______",
+          "answer": "Animal magic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(8) ______ Scene must show ______ The photograph was too (10) ______",
+          "answer": "(animal) movement",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(8) ______ Scene must show (9) ______ The photograph was too ______",
+          "answer": "Dark",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q11",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Don't pick more than one variety of mushroom at a time."
+            },
+            {
+              "id": "B",
+              "text": "Don't pick mushrooms near busy roads."
+            },
+            {
+              "id": "C",
+              "text": "Don't eat mushrooms given to you."
+            },
+            {
+              "id": "D",
+              "text": "Don't eat mushrooms while picking them."
+            },
+            {
+              "id": "E",
+              "text": "Don't pick old mushrooms."
+            }
+          ],
+          "answer": [
+            "B",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q12",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Don't pick more than one variety of mushroom at a time."
+            },
+            {
+              "id": "B",
+              "text": "Don't pick mushrooms near busy roads."
+            },
+            {
+              "id": "C",
+              "text": "Don't eat mushrooms given to you."
+            },
+            {
+              "id": "D",
+              "text": "Don't eat mushrooms while picking them."
+            },
+            {
+              "id": "E",
+              "text": "Don't pick old mushrooms."
+            }
+          ],
+          "answer": [
+            "B",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q13",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mushrooms should always be peeled before eating."
+            },
+            {
+              "id": "B",
+              "text": "Mushrooms eaten by animals may be unsafe."
+            },
+            {
+              "id": "C",
+              "text": "Cooking destroys toxins in mushrooms."
+            },
+            {
+              "id": "D",
+              "text": "Brightly coloured mushrooms can be edible."
+            },
+            {
+              "id": "E",
+              "text": "All poisonous mushrooms have a bad smell."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q14",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mushrooms should always be peeled before eating."
+            },
+            {
+              "id": "B",
+              "text": "Mushrooms eaten by animals may be unsafe."
+            },
+            {
+              "id": "C",
+              "text": "Cooking destroys toxins in mushrooms."
+            },
+            {
+              "id": "D",
+              "text": "Brightly coloured mushrooms can be edible."
+            },
+            {
+              "id": "E",
+              "text": "All poisonous mushrooms have a bad smell."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What advice does Dan give about picking mushrooms in parks?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Choose wooded areas."
+            },
+            {
+              "id": "B",
+              "text": "Don’t disturb wildlife."
+            },
+            {
+              "id": "C",
+              "text": "Get there early."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dan says it is a good idea for beginners to",
+          "options": [
+            {
+              "id": "A",
+              "text": "use a mushroom app."
+            },
+            {
+              "id": "B",
+              "text": "join a group."
+            },
+            {
+              "id": "C",
+              "text": "take a reference book."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Dan say is important for conservation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "selecting only fully grown mushrooms"
+            },
+            {
+              "id": "B",
+              "text": "picking a limited amount of mushrooms"
+            },
+            {
+              "id": "C",
+              "text": "avoiding areas where rare mushroom species grow"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+          "options": [
+            {
+              "id": "A",
+              "text": "a huge demand for them from restaurants."
+            },
+            {
+              "id": "B",
+              "text": "a lack of rain in this part of the country."
+            },
+            {
+              "id": "C",
+              "text": "a rise in building developments locally."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dan says that when storing mushrooms, people should",
+          "options": [
+            {
+              "id": "A",
+              "text": "keep them in the fridge for no more than two days."
+            },
+            {
+              "id": "B",
+              "text": "keep them in a brown bag in a dark room."
+            },
+            {
+              "id": "C",
+              "text": "leave them for a period after washing them."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Dan say about trying new varieties of mushrooms?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Experiment with different recipes."
+            },
+            {
+              "id": "B",
+              "text": "Expect some to have a strong taste."
+            },
+            {
+              "id": "C",
+              "text": "Cook them for a long time."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q21",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their actions were ineffective."
+            },
+            {
+              "id": "B",
+              "text": "They are still influential today."
+            },
+            {
+              "id": "C",
+              "text": "They have received unfair criticism."
+            },
+            {
+              "id": "D",
+              "text": "They were proved right."
+            },
+            {
+              "id": "E",
+              "text": "Their attitude is understandable."
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q22",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their actions were ineffective."
+            },
+            {
+              "id": "B",
+              "text": "They are still influential today."
+            },
+            {
+              "id": "C",
+              "text": "They have received unfair criticism."
+            },
+            {
+              "id": "D",
+              "text": "They were proved right."
+            },
+            {
+              "id": "E",
+              "text": "Their attitude is understandable."
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q23",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Work will be more rewarding."
+            },
+            {
+              "id": "B",
+              "text": "Unemployment will fall."
+            },
+            {
+              "id": "C",
+              "text": "People will want to delay retiring."
+            },
+            {
+              "id": "D",
+              "text": "Working hours will be shorter."
+            },
+            {
+              "id": "E",
+              "text": "People will change jobs more frequently."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q24",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Work will be more rewarding."
+            },
+            {
+              "id": "B",
+              "text": "Unemployment will fall."
+            },
+            {
+              "id": "C",
+              "text": "People will want to delay retiring."
+            },
+            {
+              "id": "D",
+              "text": "Working hours will be shorter."
+            },
+            {
+              "id": "E",
+              "text": "People will change jobs more frequently."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Accountants",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Hairdressers",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Administrative staff",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Agricultural workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Care workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bank clerks",
+          "options": [
+            {
+              "id": "A",
+              "text": "These jobs are likely to be at risk."
+            },
+            {
+              "id": "B",
+              "text": "Their role has become more interesting in recent years."
+            },
+            {
+              "id": "C",
+              "text": "The number of people working in this sector has fallen dramatically."
+            },
+            {
+              "id": "D",
+              "text": "This job will require more qualifications."
+            },
+            {
+              "id": "E",
+              "text": "Higher disposable income has led to a huge increase in jobs."
+            },
+            {
+              "id": "F",
+              "text": "There is likely to be a significant rise in demand for this service."
+            },
+            {
+              "id": "G",
+              "text": "Both employment and productivity have risen."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• would aim to set up legal and ______ ways of improving safety.",
+          "answer": "Technical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Satellites are now quite ______ and therefore more widespread (e.g. there are constellations made up of (33) of satellites).",
+          "answer": "Cheap",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Satellites are now quite (32) and therefore more widespread (e.g. there are constellations made up of ______ of satellites).",
+          "answer": "Thousands",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• At present, satellites are not required to transmit information to help with their ______",
+          "answer": "Identification",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• There are few systems for ______ satellites.",
+          "answer": "Tracking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Operators may be unwilling to share details of satellites used for ______ or commercial reasons.",
+          "answer": "Military",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• It may be hard to collect details of the object's ______ at a given time.",
+          "answer": "Location",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Scientists can only make a ______ about where the satellite will go.",
+          "answer": "Prediction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "2. The information should be combined in one ______",
+          "answer": "Database",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-195-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "3. A coordinated system must be designed to create ______ in its users.",
+          "answer": "Trust",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/195_we.mp3"
+    }
+  ]
+}

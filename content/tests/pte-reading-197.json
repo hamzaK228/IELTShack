@@ -1,0 +1,588 @@
+{
+  "id": "pte-reading-197",
+  "title": "Academic Reading — Practice Test 197",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: make that wine!",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-197-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Wine is popular in Australia because it is healthy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Yeast is white-coloured.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Wine is popular in the Near East.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Blended wines are usually cheaper.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Colourred wines use ______in fermentation(6) ______",
+          "answer": "grape skin(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Colourred wines use (5) ______in fermentation______",
+          "answer": "cabernet sauvignon",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Grape speciescan be ______or blendedCote robe wines",
+          "answer": "varietal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Locationdrinkers of wine ______thisBarossa Valley",
+          "answer": "respect",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "can allow (10) ______to remainDessert wine",
+          "answer": "vinification method",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(9) ______can allow ______to remainDessert wine",
+          "answer": "natural sugars",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Vintage wines are",
+          "options": [
+            {
+              "id": "A",
+              "text": "mostly better."
+            },
+            {
+              "id": "B",
+              "text": "often preferred."
+            },
+            {
+              "id": "C",
+              "text": "often discussed."
+            },
+            {
+              "id": "D",
+              "text": "more costly."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The author thinks that wine terminology is",
+          "options": [
+            {
+              "id": "A",
+              "text": "unnecessary."
+            },
+            {
+              "id": "B",
+              "text": "serious."
+            },
+            {
+              "id": "C",
+              "text": "good."
+            },
+            {
+              "id": "D",
+              "text": "bad."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Wine",
+          "options": [
+            {
+              "id": "A",
+              "text": "is more popular than beer, in Australia."
+            },
+            {
+              "id": "B",
+              "text": "is most popular in France."
+            },
+            {
+              "id": "C",
+              "text": "can be simply classified."
+            },
+            {
+              "id": "D",
+              "text": "is often ‘raisoned’."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "make that wine!",
+        "text": "Australia is a nation of beer drinkers. Actually, make that wine. Yes, wine has now just about supplanted beer as the alcoholic drink of choice, probably because of the extensive range of choices available and the rich culture behind them. This all adds a certain depth and intimacy to the drinking process which beer just cannot match. In addition, although wine drinkers seldom think about it, moderate consumption seems to be beneficial for the health, lowering the incidence of heart disease and various other ailments. Wine is the product of the fermentation of grape juice, in which yeast (a fungus) consumes the natural sugars within, producing alcohol and carbon dioxide as waste. Yeast grows naturally on many varieties of grapes, often visible as a white powder, and causing fermentation directly on the plant. Thus, the discovery of wine-making was inevitable at some stage in human history. The evidence shows that this was at least 8,000 years ago in the Near East. From there, wine-making spread around the ancient Mediterranean civilisations, where the liquid was extensively produced, drunk, and traded. To this day, the biggest drinkers of wine remain the Mediterranean countries, with France leading the way. This leads to the classification of wines, which is quite complex. It often begins with the colour: red or white. Most people do not know that the colour of wine is not due to the grapes used (whose skins are either green or purple), but to the wine-making process itself. All grape juice is clear. Red wines are produced by leaving the grape skin in contact with the juice during fermentation; white wines by not doing so. Thus, white wine can be made from dark-coloured grapes, provided that the skin is separated early, although the resultant wine may have a pinkish tinge.\n\n(A) similar wine classification is based more specifically on the grape species used, giving such well-known names as Pinot Noir and Merlot. Chardonnay grapes remain one of the most widely planted, producing an array of white wines, rivaling the cabernet sauvignon grape, a key ingredient in the world's most widely recognised, and similarly named, red wines. When one grape species is used, or is predominant, the wine produced is called varietal, as opposed to mixing the juices of various identified grapes, which results in blended wines. The latter process is often done when wine-makers, and the people who drink their product, want a consistent taste, year after year. Far from being looked down upon, it often results in some of the world's most expensive bottles, such as the Cote Rotie wines in France. Increasingly, however, market recognition is based on the location of the wine production, resulting in labels such as Bordeaux in France, Napa Valley in California, and the Barossa Valley in Australia. Traditional wines made in these places carry trademarks, respected by serious wine drinkers. However, an example of the blurred lines is the term 'champagne'. This was once expected to be made from grapes grown in the Champagne region of France, with all the expertise and traditions of that area, but, despite legal attempts to trademark the term, it has become 'semi-generic', allowing it to be used for any wine of this type made anywhere in the world. Finally, we come to the vinification method as a means of classification. One example is, in fact, champagne, known as a 'sparkling' wine. By allowing a secondary fermentation in a sealed container, it retains some of the waste carbon dioxide. Another variation is to stop the fermentation before all the natural sugars are consumed, creating dessert wines, ranging from slight to extreme sweetness. Yet again, grapes can be harvested well beyond their maximum ripeness, creating 'late harvest wines', or allowed to become partially dried (or 'raisoned'), creating 'dried grape wines'. Clearly, there are many possibilities, all producing uniquely flavoured products. One of the best-known terms relating to wine is 'vintage'. This signifies that the product was made from grapes that were grown in a single labeled year. If that year is eventually acknowledged to have produced exceptionally fine grapes and resultant wines ('a good vintage'), bottles from that period are often saved for future consumption. Of course, the appreciation and assessment of wine is an inexact science, meaning that the significance of a particular vintage often promotes much speculation and disagreement. A non-vintage wine is usually a blend from the produce of two or more years, which is done, as mentioned before, for consistency and quality control. This leads to the rich and varied world of wine assessment, and its descriptive terminology. Wine has such a variety of aromas, flavours, textures, and aftertastes that serious wine drinkers demand an agreed vocabulary so that the drinking sensations can be reliably described in writing. From bouquet to biscuity, mellow to musky, vivid to vegetal, the conceited connoisseur can perplex the listener with some really purple prose. Perhaps the opportunity to posture pretentiously with all this jargon is the main reason why wine enthusiasts are so taken with this product. Cheers!"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: that vision thing",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-197-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Broadly, what do staff need in order to most benefit a company? ______",
+          "answer": "appropriate development",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which people advise envisioning? ______",
+          "answer": "management gurus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do they believe a lack of vision might cause? ______",
+          "answer": "complete aimlessness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What aspect can groups of people never have in common? ______",
+          "answer": "personal values",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "(an) MBA",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "personalities and experiences",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "passionless and sterile",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "(a) superficial level",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "Commitment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "hard and tangible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Most people",
+          "options": [
+            {
+              "id": "A",
+              "text": "can define what makes them want to succeed."
+            },
+            {
+              "id": "B",
+              "text": "will discuss their personal visions with others."
+            },
+            {
+              "id": "C",
+              "text": "are interested in promotions."
+            },
+            {
+              "id": "D",
+              "text": "express their deeper feelings truthfully."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Personal visions",
+          "options": [
+            {
+              "id": "A",
+              "text": "take people forward in life."
+            },
+            {
+              "id": "B",
+              "text": "result in the absorption of immediate details."
+            },
+            {
+              "id": "C",
+              "text": "provide defence against unexpected events."
+            },
+            {
+              "id": "D",
+              "text": "help calm people’s minds."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "With regard to envisioning, the author feels",
+          "options": [
+            {
+              "id": "A",
+              "text": "critical."
+            },
+            {
+              "id": "B",
+              "text": "contemptuous."
+            },
+            {
+              "id": "C",
+              "text": "impartial."
+            },
+            {
+              "id": "D",
+              "text": "suspicious."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "that vision thing",
+        "text": "In the past, management took a minor role in influencing motivation. It was generally considered that if the correct tools, training, and environment were provided, individuals would do their jobs, and that this was sufficient in itself. People in organisations were considered 'personnel'. But look how it has now changed. 'Personnel' have become 'human resources'. and staff are now seen in terms of strategic potential, and with appropriate development, are one of the most important assets organisations may have.\n\n(A) key aspect of this is motivation, and to achieve it, the latest buzzword is envisioning. We often hear management gurus propounding the thesis that any leader of worth must have a vision. This can unite, inspire, and direct the energies of the staff in the right direction. In the absence of such a 'visionary leader', the organisation necessarily flounders in complete aimlessness – or at least, that is what we are led to believe. And yet I strongly disagree that this 'vision thing' (as famously referred to by former American President, George Bush Senior) is worth much at all. I'd even go further, stating that it can be distinctly bad for the organisation. The first fact to realise is that 'envisioning' fails to acknowledge the true human nature of organisations. These places are not composed of lemmings., all with a simplistic and single-minded dedication towards one goal. They are most obviously composed of groups of human beings, and with their rich variety of personalities and experiences, no such community can be homogenous and share exactly the same sat of personal values. These people are, in fact, merely loosely-bound cohorts pursuing different objectives (status, money, power, or individually defined agendas), in different manners. Thus a truly shared and meaningful vision is very difficult, and often impossible, to generate. Yet the 'visionary' manager attempts to do just this. The trouble is, the high-minded dictates of his fresh MBA do not mention becoming bogged down in a long, laboured excess of word-smithing, or how, in order to reach a consensus, the vision necessarily loses all individuality. The books do not mention the passionless and sterile written exhortation which is ultimately produced, of working towards 'unshakeable integrity'. As admirable in content as these may be, they are merely corporate mantras rather than words to be lived by. Few will believe in something imposed from above, instead merely complying at a superficial level. The unfortunate fact is, when turning from rhetoric to reality, the contradictions can be overwhelming. Deep down, all staff members know that envisioning is attempted not to create a more egalitarian company, but only as a means of enriching the company directors. But what about those staff member? Few of them work merely for the love of their job. In a materialistic and consumer-driven world, they work for hard and tangible rewards. This can take many forms, but certainly involves the company giving back profit in the form of salary, overtime, TOIL, bonuses, perks and extra days off. Personal visions never, ever, mention these. Here's another reason why envisioning is dubious at best. Workers do not like to be treated as products in the service of profits, or cogs in the organisational machine, yet envisioning ranks them as even worse – as animals in a sociological experiment. The assumption is that they lack their own personal vision and are helplessly adrift, deficits which can only be remedied by a great leader who can herd the lost sheep in the right direction. This is not a feeling likely to enhance commitment to the cause, and often make staff feel the very opposite, a fact about which I can personally testify from my own experiences of working in big companies where the envisioning farce was played out. Personal visions are, in fact, necessarily complex. Almost everyone would surely have difficulties in articulating their deepest motivations, as well as in being honest about this to themselves. They would similarly have some reluctance to openly talk on the subject, often with people who might be competitors for that next promotion. Furthermore, envisioning begs the question of whether a vision is even necessary. Some people are not driven by a determination to stridently blaze a trail through life. This may merely show a spiritual calm, and a desire to appreciate the present. It may also be a smarter and more strategic approach to life's unpredictable turns, applying equally well to the business world. In short, a lack of vision may be better – much better. George Bush, as with many presidents, occasionally did not articulate his thoughts clearly, but his famously dismissive comment about envisioning speaks volumes. 'That vision thing' is remarkable in its concision. In just three words, it encapsulates the trendy, contrived, pigeon-holing, simplistic, top-down, and often insulting and hypocritical nature of the process. Mr Bush, you have my vote."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: destination mars",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-197-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The greatest advantage of Mars is that it has many basic minerals.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Settlement of the moon would be more expensive.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The magnetosphere burns up objects.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A one-way expedition to Mars is better.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "inadequate rocketryscientists would need ______",
+          "answer": "technological innovations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "infrequent ______once every 15 years",
+          "answer": "closest approach/launch window(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "effect of space on ______bones (34) ______",
+          "answer": "human body(ies)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "effect of space on (33) ______bones ______",
+          "answer": "lose (their) density",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "diseaselack of gravity facilitates ______",
+          "answer": "microbial exchange",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Human attributes needed for important space activitiesphysical strength______",
+          "answer": "alertness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Specific medical conditions which could occur in space______fungal attack",
+          "answer": "bacterial infection(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Solid objects which could strike astronauts on Mars______high-energy particles",
+          "answer": "micro-meteoroids, micro meteoroids, micrometeoroids",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Useful substances inside Martian cavesvital minerals______",
+          "answer": "(frozen) water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-197-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "High-risk activities happening now on Earthextreme sports______",
+          "answer": "dangerous occupations",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "destination mars",
+        "text": "Mars is the closest potentially habitable planet. It has solid ground, protective surface features, a thin atmosphere, more closely mimics the gravitational and lighting conditions on Earth, and is reachable – just. Most importantly, studies have found that this planet has vast reserves of frozen water, and there are other basic minerals as well. In contrast, the closest heavenly body – the moon – is dusty, barren, hostile, and dark. Settlement of the moon would be much easier, but since there are no resources there, it would ultimately be more costly and of little use. If there is any extra-terrestrial site where humankind will ultimately settle, it must be Mars. Yet this planet is much more distant than the moon, making the logistics daunting. Food, water, oxygen, and life-support systems for such a journey would be too heavy for current rocket science. Technological innovations would be necessary, and the timing of the trip absolutely critical. The different orbits of Mars and Earth mean that they most closely approach each other every 26 months, but this event itself fluctuates on a 15-year cycle. This means that only once in that time does a launch window open. That is quite few and far between, yet missions must necessarily leave at these times. The trouble is, even then, the journey to Mars and back would take over a year, and the human body suffers profoundly when left in micro-gravity for that length of time. Without the need to stand, there is almost no flexing or pressure on the back or the leg muscles. These gradually shrink and weaken, while bones lose their density, and lungs their aerobic capacity. When left long enough in space, astronauts are unable to function properly. Yet these people will need their full physical strength and alertness for the many operational duties required. These include docking in space, approaches and landing on Mars, remote manipulation of machines, and dealing with any emergencies that arise. Another hazard of such duration in a hermetically sealed spacecraft is disease. Human bodies constantly shed waste material (sweat, skin-flakes, hair, moisture, mucus, and the products of digestion), all of which allow microbes to breed prolifically. Coughs and sneezes spray fluids into the air, which, without gravity to pull them down to surfaces, simply float as airborne particles in those cramped confines, causing easy microbial exchange between crew members. Bacterial infections and fungal attacks can be prevalent, and human immune systems are weakened in micro-gravity. Thus, a long mission to Mars would require the best air-cleansing system available, rigorous disinfecting and hygiene procedures, plus an excellent supply of antibiotics. On reaching Mars, the problems only increase. Staying on the planet for any significant length of time will be difficult. In the absence of a thick protective atmosphere or magnetosphere to burn up or deflect objects, respectively, astronauts will be exposed, to potentially lethal UV radiation, micro-meteoroids, solar flares, and high-energy particles, all of which regularly bombard the surface. Spacecraft and land-based capsules will need special shielding, which adds to the weight and expense. Construction of living quarters will be time-consuming, difficult, and dangerous. For a longer stay on Mars, the only solution, it seems, is to go underground. One of the most interesting discoveries in this respect is of possible cave entrances on the side of Arsia Mons, a large Martian volcano. Seven such entrances have been identified in satellite imagery, showing circular holes resembling the collapse of cave ceilings. The hope is that these may lead to more extensive cave formations, or perhaps lava tubes, offering the protection necessary in such a hostile terrain. An additional benefit is the potential access to vital minerals, and most importantly of all, the possibility of frozen water. These sites therefore open up the possibility of independent and permanent settlement on this planet. The most exciting option is to attempt that on the very first trip – in other words, making it a oneway journey. The advantage is that the duration of space travel is immediately halved, reducing the technological, biological, and financial challenges. This very strong argument is somewhat offset by the difficulties in establishing a permanent presence, as well as the necessary ongoing commitment to it – for example, in the delivery of food and supplies via unmanned spacecraft. Similarly, the psychological effects on these pioneers of permanent isolation from Barth and its community, as well as being crowded into confined Martian living quarters with the same companions, raise issues of whether such a settlement is humanly feasible. This begs the question of why undertake such missions at all. The answer, according to proponents, is that it is our destiny. Throughout history, explorers have regularly embarked on journeys in the full knowledge that death may await them, or that even if they succeeded, their health and wellbeing would be severely compromised. And today, people regularly practise extreme sports, or work in dangerous occupations, all of which significantly lower their life expectancy. The risks involved in being a Martian pioneer are no different, and so, it is argued, there is no reason why they should deter us now."
+      }
+    }
+  ]
+}

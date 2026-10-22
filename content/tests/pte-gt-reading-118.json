@@ -1,0 +1,925 @@
+{
+  "id": "pte-gt-reading-118",
+  "title": "General Training Reading — Practice Test 118",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Customer reviews of cafes in the town of Artingly",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Cup sizes are more generous than you might expect. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Recent changes are likely to have a negative impact. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It needs better signage for customers. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has a strong local customer base. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It deserves the public praise it has received. ______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Customer reviews of cafes in the town of Artingly",
+        "text": "(A) Coffee Dream The decor of this cafe is great, but why don't the owners make it easier to queue up? There's so little space around the counter that everyone is squashed together when they order. I'd also recommend checking that there's somewhere to sit when you go in as it can get very crowded.\n\n(B) Cafelingo Local media are right in saying that this cafe makes the best cup of coffee in town, but remember to take the time to appreciate the local artwork displayed on the walls around you while you're sipping your cappuccino.\n\n(C) Billy Ding's Cafe As this cafe had been recommended by someone staying in our hotel, we decided to try it out. Despite being on the first floor, it was already crowded by ten in the morning, and it quickly became clear to us that this is a place that residents in the area use regularly. Fortunately, a family group left just as we arrived, and we were lucky enough to get a table overlooking the street. There we enjoyed some delicious pancakes, which we washed down with the biggest 'small' coffee we've ever had!\n\n(D) Drink in the Park No one can deny that this coffee house is located in a beautiful setting. If the outside tables are full, you can simply take your cup of coffee over to one of the many park benches and enjoy it there, which is what we often do.\n\n(E) Chocolotta's We've been here several times and always order the same drinks and food. The last few times, however, we've noticed that the rolls have less filling and the coffee tastes watery. Perhaps the company is trying to cut costs, but this will only lead to customers going elsewhere.\n\n(F) Cafe Soloist After a considerable search, we eventually found Cafe Soloist tucked away behind an organic grocery store. There was nothing outside to indicate that it was there, which would have been helpful! Once inside, we were presented with a menu that had more coffee options than we had ever seen before. Twenty minutes and a lot of discussion later, we finally decided what we wanted. We could then sit back and enjoy the happy chatter and welcoming atmosphere around us."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Frog Valley development",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Builders have already started work on the new primary school.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The new school will take in children from outside Frog Valley.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There will be an increase in the number of shops.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The community centre will replace an existing social club building.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The swimming pool will be free for residents of Frog Valley.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The office space will accommodate businesses of different sizes.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The business car parking area will be underground.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The health centre will offer a wide range of new services.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "At present, there are too few doctors at the health centre.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Frog Valley development",
+        "text": "Creating a better area to meet the needs of the local community The proposal to develop the part of our city known as Frog Valley has now been passed to the local council for consideration and approval. In case you missed earlier newspaper reports, here briefly are some of the changes and improvements that are being planned for the site. An area of land in the south-east corner of Frog Valley has been allocated to the construction of a new primary school which, if building does go ahead, will accommodate 300 children. The size and location of the school mean that admission will not be limited to families who live in the area. Another feature that will bring people together will be the new shopping mall. Plans are to move all the existing local shops, which are currently located in small groups around the site, into one shopping zone, and this will see the addition of an organic farm shop and a vegan store.\n\n(A) community centre will be centra! to the development of the site. It will provide a much needed meeting place for clubs and societies that, until now, have had to meet wherever they can find a venue. The pride of the centre will be a multi-gym with swimming pool – something younger residents have been requesting for some time but that has never been possible, due to cost. For many years now, local businesspeople have been asking for better business premises, and this is now a priority for Frog Valley. Twenty thousand square metres of space will be used to house anything from small startups to large existing local businesses. It will be built to the south-east of the site, with dedicated car parking for office workers, either within each office area or in a single car park. At our public consultation meeting, some residents asked if it would be possible to include services such as dentistry and various types of medical testing facilities within the health centre. This would mean adding to the existing building and there are no plans to do this at present. However, it will be possible to see a doctor at weekends and in the evenings, which is a welcome development."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Percil Training Institute",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All of the staff have overseas teaching experience.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All modules are of equal length.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students are encouraged to take holidays in the two-week breaks between modules.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Courses may have very different timetables.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can still obtain an attendance certificate if you have been absent through illness.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Permission is required for students to bring guests into the restaurant.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The coffee lounge is closed in the evenings.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Groups of 20 or more can make reservations to dine at the restaurant on public holidays.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Guests may use the swimming pool.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students are unable to enter the institute after 8.30 pm.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Percil Training Institute",
+        "text": "Welcome to the Percil Training Institute. We hope that you will enjoy your course of training with us. This information is provided to introduce our Institute and to let you know some of the important features of our professional training courses.\n\nCourses Percil Training Institute was established to provide high quality short-duration training programmes for a range of professional needs. It has a highly trained and experienced teaching staff, many of whom have taught overseas. Percil Training Institute provides courses in ten-week modules. Most courses (e.g. Office Management, Librarianship, Medical Records Organisation) consist of two modules, although some courses (Biotechnology, Computer Analysis) are three or four modules long. There is a break of two weeks between each module but since projects or assignments are set for completion in these periods, it is not possible to take vacations during this time. Since each course has varying needs, there are not necessarily any set hours for classes across all programmes. You will need to consult the timetable for your course, which is printed at the front of your own course manual. Please be reminded that Percil Training Institute cannot provide attendance or achievement certificates for students who have missed part of their course as a result of not reading their own course timetables properly. Legitimate reasons for non-attendance (e.g. illness) will be given consideration provided that documentary evidence is provided. In this case, an achievement certificate only will be issued.\n\nFacilities The opening times of the snack bar, coffee lounge and restaurant are printed below your course timetable. No bookings are required for any of the eating places except the restaurant for Friday and Saturday dinner. The coffee lounge and restaurant are not normally open on public holidays. However, a group booking may be made for the restaurant for dinner on such days, provided that there is a minimum of 20 people in the group. A non-refundable deposit will be required for such a booking. The Institute has a very fine sports complex. The swimming pool is open daily from 8.00 am to 8.00 pm and can be used free of charge by all Percil students wbo present a valid student enrolment card. The squash courts can be booked by any student with a valid student card and the hire cost is $4.50 per half hour. The gymnasium is available for a ten-week membership fee of $40.00, or $5.00 per visit, or an annual subscription of $100. Guests of Percil students are welcome to use the swimming pool but not the gymnasium areas.\n\nSecurity Please be careful that you do not leave valuable items in the classroom areas at any time. Percil Training Institute cannot be held responsible for any loss or damage to students' property as a result of student negligence. After 8.30 pm the front doors of the Institute are locked. If you need to gain access to the Institute after this time, please contact the caretaker by pressing the doorbell and speaking through the intercom. If you are admitted by the caretaker you will be required to show your student card.\n\nMedical Care Minor accidents and injuries can usually be attended to on the premises, in the Health Centre on the third floor. These services are free. Headache pills and other analgesics are available at standard pharmacy prices."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Percil Memorial Training Scholarships (3 offered per year)",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To obtain a scholarship, what is the minimum course length? ______",
+          "answer": "20/ twenty weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do scholarship winners receive towards their airfares if they live over 2,500 km from Sydney? ______",
+          "answer": "(airline) vouchers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who pays for dependent children to travel? ______",
+          "answer": "(the) scholarship holder",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Percil Memorial Training Scholarships (3 offered per year)",
+        "text": "Percil Training Institute offers a number of scholarships for people from overseas who plan to live in Australia and need re-training. These scholarships are available for full-time study only and are not offered for courses of less than 20 weeks' duration.\n\nRequirements/eligibility Applicants for these scholarships must be of high academic ability as revealed in the qualifications they have already gained in their home country; alternatively, they must have at least five years of significant work experience in their chosen field and must produce evidence in the form of references from at least two employers or supervisors.\n\nThe award These scholarships offer return airfares to Australia from your home country, provided that the distance by air from your city of departure to Sydney is not more than 2,500 kilometres. If the distance exceeds this amount, you will be provided with airline vouchers. Travel expenses to and from airports on both the outward and return journeys are paid for, and there is an airline excess baggage allowance of 120 kg. Personal removal expenses for scholarship holders are not paid. If the scholarship holder is married at the time of applying for the scholarship, some travel and removal costs may be paid for the husband or wife. Travel costs or support for dependent children are at the scholarship holders expense. Scholars are eligible for assistance with accommodation within the Sydney metropolitan area, although married accommodation is unavailable on the Percil Institute campus. Since demand for accommodation on the campus is always high, scholarship applicants are advised to apply at least ten weeks before intending to come into residence."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Divided opinions about letting farmland return to its natural state",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "About ten years ago, the decision was taken to rewild the farmland at Knepp Castle. Now the ______ that used to be grown there has disappeared and the countryside is more like parts of (29) ______ The hedges surrounding the fields have been allowed to expand and deer can be seen running among the wild flowers. The estate hosts the largest number of (30) ______ of a particular species in the whole country and bird numbers are increasing. All these changes have happened remarkably quickly.",
+          "answer": "Maize",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "About ten years ago, the decision was taken to rewild the farmland at Knepp Castle. Now the (28) ______ that used to be grown there has disappeared and the countryside is more like parts of ______ The hedges surrounding the fields have been allowed to expand and deer can be seen running among the wild flowers. The estate hosts the largest number of (30) ______ of a particular species in the whole country and bird numbers are increasing. All these changes have happened remarkably quickly.",
+          "answer": "Africa",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "About ten years ago, the decision was taken to rewild the farmland at Knepp Castle. Now the (28) ______ that used to be grown there has disappeared and the countryside is more like parts of (29) ______ The hedges surrounding the fields have been allowed to expand and deer can be seen running among the wild flowers. The estate hosts the largest number of ______ of a particular species in the whole country and bird numbers are increasing. All these changes have happened remarkably quickly.",
+          "answer": "Butterflies",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Divided opinions about letting farmland return to its natural state",
+        "text": "Close to London's Gatwick Airport is Knepp Castle Estate, owned by Charlie Burrell. It is an intensive 3,500-acre farm that has been 'rewilded', that is, allowed to return to its natural, uncultivated state. After barely a decade, nature has come back astonishingly quickly. Neat fields of maize have been replaced with a landscape that resembles the typical grasslands of Africa. The original narrow clipped hedges that edged the farmland are now eight metres wide, and deer race through ragwort, thistles and other weeds in the meadows. The estate boasts more of the unusual purple emperor butterflies than anywhere else in Britain. It's also thought to be the only place where Britain's fastest-declining birds, turtle doves, are multiplying. But as rewilding blossoms, so do controversies. In Wales, one ecologist says the concept can't even be mentioned to farmers. Even the harmless beaver is the subject of fierce debate: while it was recognised as a native animal in Scotland last year, beavers reintroduced in south-west England roam free only on a government trial. 'For us it is strange to see the British struggling with the beaver. Come on, we have thousands of them!' Dutch ecologist Leo Linnartz told a rewilding conference. Linnartz says that many Dutch objected to 'nature development' 30 years ago but rewilding principles are now mainstream. In Britain, the rewilding movement started by writer and environmental activist George Monbiot is popularly seen to seek the return of large carnivores – bears, wolves and lynx. In practice, it is returning more modest herbivores like ponies and deer to the countryside. For decades, ecologists believed the end result of allowing a landscape to run wild would be dense forest and a mass extinction of sun-loving wild flowers and butterflies. But this belief has been demolished by Dutch ecologist Frans Vera. Since the 1980s, Vera has introduced wild cattle, horses and deer to rewilded marshland, and proved that 'natural' grazing creates a more dynamic landscape, a constantly changing pattern of open glades and wooded groves. In the Scottish Highlands, rewilding is taking a different form as large landowners restore ancient pine forest. But David Balharry, former Scotland director of Rewilding Britain, cautions that rewilding in Scotland will only be championed by policymakers and politicians when it is led by local communities. For Burrell, rewilding has been a pragmatic way to revive the struggling family farm. Ecotourism there makes as much profit as his conventional farm did. Knepp's unproductive soil meant Burrell could not compete with globalised food production. His profits may be steady while conventional dairy and cattle farm incomes fall dramatically, but no farmers have yet followed his example. 'It takes a new eye to look at this and say, \"that's beautiful\", rather than go, \"that's just a real mess\",' says Burrell. 'Other farmers may have a moral attitude towards it too – \"why are you stopping food production?\"' Many criticise rewilding for abandoning productive farmland when the world's population is growing. Wouter Helmer, director of Rewilding Europe, sees no conflict between food production and rewilding: Europe is heading for a future of food produced more intensively in fewer areas, releasing less productive land for rewilding, he says. 'Farming is being done by fewer and fewer farmers on a larger scale on the best soils. They leave the less profitable lands to become adventure land for an increasingly urban population. Helmer says there is no point in seeking to feed the world with traditional organic farming because there is no one to do the labour: when he asks Dutch students who wants to farm, none raise their hands. They have a completely different relationship to nature to their parents or grandparents. They are not fighting with it on a daily basis. On one hand they are disconnected from nature but on the other hand they are becoming more relaxed with nature – it's hunting and gathering but hunting with a camera and gathering experiences. The part of the countryside which is not used for intensive farming starts to serve all these new urban needs. Yet some environmentalists worry how rewilding connects with urban populations. The challenge is how to make rewilding an issue that people in their ordinary lives can take action on, says Elaine Gilligan of Friends of the Earth. She thinks it is great for engaging people in nature but doubts whether it is seen as important in large urban areas like Birmingham. Rewilders argue that reducing flood risks for cities is one practical way rewilding can enhance urban life. Ted Green, founder president of the Ancient Tree Forum, believes that intensive farming can worsen flash flooding, and cause fertile earth to be swept downriver and out to sea. The land may belong to the landowner but the soil must belong to the nation,' says Green. 'When you see people cleaning out their houses after floods, you don't see them removing water, you see them removing mud. It's no longer an engineering problem – it's a farming problem. Some conservationists worry, however, that rewilding could replace the traditional protection of rare species on small nature reserves. 'If rewilding really takes off, there's a risk people will say, \"Oh we don't have to do any of that old stuff,\"' says Matt Shardlow, chief executive of Buglife. 'But we still have habitat fragmentation and species in tiny places and we have to take care of them even if you have some areas made bigger for wildlife.' Whatever happens, we need more projects like Knepp."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Knepp Castle estate",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-118-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Some people are against rewilding as it reduces the amount of crops that could provide much needed nourishment.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It may not be easy to get city residents to take part in rewilding.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Rewilding does not necessarily lead to a landscape thickly covered in trees.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is acceptable to turn fields which do not yield many crops into natural spaces for people to enjoy.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The support of people living in the area is needed to make the authorities take rewilding seriously.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "There is evidence that people get used to the idea of rewilding with time. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Charlie Burrell"
+            },
+            {
+              "id": "B",
+              "text": "Leo Linnartz"
+            },
+            {
+              "id": "C",
+              "text": "George Monbiot"
+            },
+            {
+              "id": "D",
+              "text": "Frans Vera"
+            },
+            {
+              "id": "E",
+              "text": "David Balharry"
+            },
+            {
+              "id": "F",
+              "text": "Wouter Helmer"
+            },
+            {
+              "id": "G",
+              "text": "Elaine Gilligan"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the fifth paragraph, the writer points out that Burrell",
+          "options": [
+            {
+              "id": "A",
+              "text": "had clear financial reasons for rewilding his farm."
+            },
+            {
+              "id": "B",
+              "text": "is worried that his land now looks extremely untidy."
+            },
+            {
+              "id": "C",
+              "text": "has considerably increased the money he makes from his farm."
+            },
+            {
+              "id": "D",
+              "text": "was initially guided by other people who had let their land go wild."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does Helmer say about young people and the land?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They want to leave it and find work in the city."
+            },
+            {
+              "id": "B",
+              "text": "Many want to take over running their families’ farms."
+            },
+            {
+              "id": "C",
+              "text": "They have developed new ways of interacting with it."
+            },
+            {
+              "id": "D",
+              "text": "Many are interested in building businesses on farmland."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Ted Green is particularly concerned that",
+          "options": [
+            {
+              "id": "A",
+              "text": "there are increasing problems with water pollution in cities."
+            },
+            {
+              "id": "B",
+              "text": "money needs to be invested to create more dams across rivers."
+            },
+            {
+              "id": "C",
+              "text": "modern agricultural methods mean rain washes away productive soil."
+            },
+            {
+              "id": "D",
+              "text": "more barriers are needed to prevent rivers flooding domestic homes."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-118-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the final paragraph, what point is made about rewilding?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It will be very difficult to organise efficiently in large expanses of countryside."
+            },
+            {
+              "id": "B",
+              "text": "It may attract so much public interest that smaller projects get forgotten."
+            },
+            {
+              "id": "C",
+              "text": "It has caused problems for certain types of animals and insects in Britain."
+            },
+            {
+              "id": "D",
+              "text": "It may be a trend that will lose its popularity quite quickly."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Knepp Castle estate",
+        "text": "About ten years ago, the decision was taken to rewild the farmland at Knepp Castle. Now the (28) ……………… that used to be grown there has disappeared and the countryside is more like parts of (29) ……………… The hedges surrounding the fields have been allowed to expand and deer can be seen running among the wild flowers. The estate hosts the largest number of (30) …………….. of a particular species in the whole country and bird numbers are increasing. All these changes have happened remarkably quickly."
+      }
+    }
+  ]
+}

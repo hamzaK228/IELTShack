@@ -1,0 +1,610 @@
+{
+  "id": "pte-gt-reading-119",
+  "title": "General Training Reading — Practice Test 119",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Top campsites to visit",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-119-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can pay to hire a tent at this campsite. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is a short period each day when you cannot use the showers. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is a place on site where you can wash clothes. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A member of staff is available all day to help visitors. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Visitors to this campsite can go swimming in the winter. ______",
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Top campsites to visit",
+        "text": "(A) Woodside Park This campsite, which opens in the summer months only, is in the middle of a country park. The site is next to a large lake and there's woodland nearby to explore. If you don't fancy sleeping in a tent, you can book a pod. These are all heated and furnished with beds. Facilities on site include hot showers and a small shop.\n\n(B) Treetops Farm This campsite, which is on a working farm, is open all year. The site itself is a car-free zone and you'll need to park near the farmhouse and carry your belongings and tent to the camping area. The facilities are simple but the washrooms, which are closed daily for an hour from midday for cleaning, have free hot water for showers.\n\n(C) The Downs This campsite, which is open from April to November but closed during the coldest months, is surrounded by beautiful countryside that's perfect for cycling and walking. Facilities on site include a laundry room as well as showers and a small shop. There's a pub that serves hot food each evening in the nearby village, which is only a ten-minute drive away.\n\n(D) Bluewater Bay This perfectly flat grass campsite, which is open in the summer months only, is only a few minutes' walk from the beach. There's a shower room on site and also a farm shop (which is open until 8 pm), where you can buy anything you need for a BBQ. If you haven't got a tent, the site offers pre-pitched ones that can be rented by the day.\n\n(E) Dean Park This large campsite, which is open all year, offers a range of facilities. As well as several shower rooms and a cafe serving cooked meals daily, there's an indoor pool and games room. For anyone keen on countryside walks there are miles of footpaths in the nearby national park.\n\n(F) Rock Harbour This small, family-owned campsite has space for 50 tents and is only open in the summer. It's just a five-minute walk to the sea so is perfect for anyone looking for a beach holiday. There's a small shop on site and there's always someone in the campsite office from 9 am-9 pm if you need assistance or have a problem."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Cycling in Plymouth",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-119-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The number of traffic-free cycle paths in the city is increasing.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You are likely to reach your destination faster if you drive in the city than if you cycle.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are numerous days in the winter when the weather prevents you cycling.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Using a bike app to hire a bike is very popular.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You will have to pay a higher price to buy a bike that is light.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Only folding bikes can be taken on local trains at any time.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You need to book to take a bike on a train at least a week before you travel.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you are repairing a puncture, you will need a piece of equipment called a tyre lever.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Broken glass is the most common cause of tyre punctures.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Cycling in Plymouth",
+        "text": "Cycling in the city is relatively stress free. As well as providing a growing number of cycle paths that are traffic free, local government has also added dedicated cycle lanes to many routes. A journey in the city by bike is generally quicker than the same journey by car – especially at peak times, and you can travel door to door, which saves additional time. A further benefit of cycling is that it's cheaper than running a car – even if you include the cost of an occasional taxi, it's also good for you: you'll need to cycle for a recommended minimum of twenty minutes a day if you want to improve your overall fitness. If you've only recently decided to take up cycling, summer is a good time to start. However, the weather is rarely so bad in Plymouth that it will stop you cycling. To get started, you can hire a bike – various apps are available where you are charged by the hour. If you want to buy a bike, you should think first about the size you'll need and what you plan to use it for – commuting, shopping or recreation. When selecting your bike, it's helpful to remember that ones with lighter frames and good gears make cycling easier, but are more expensive. Although most train companies allow bikes on their trains, there are peak-time restrictions. Therefore, if you want to take a bike on a local train at peak times, you will need one that folds up. Even outside peak times, most trains have limited space for bikes of any kind so a reservation in advance of your journey is essential. If you plan to maintain your bike, you'll also need to buy certain equipment: a pump, a spare inner tube, and tyre levers for mending punctures. If you get a puncture, see if you can find out the cause, such as a piece of broken glass, and remove it. If you need to replace an inner tube, its size is usually shown on the tyre."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Learning to conduct difficult conversations in the workplace",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-119-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people find it hard to challenge colleagues about their poor ______",
+          "answer": "Behaviour/behavior",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People are often afraid of causing ______ with colleagues if they raise tricky issues.",
+          "answer": "Conflict",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to select the most suitable ______ for a difficult talk.",
+          "answer": "Environment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It may help to consult a ______ for feedback on how you are communicating the main points.",
+          "answer": "Friend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It often works best if the speaker sounds as if they want to find ______ to the problem under discussion.",
+          "answer": "Solutions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A line manager that fails to communicate may have an excessive ______",
+          "answer": "Workload",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If colleagues never have anything good to say, they may lack the appropriate to ______ make requests appropriately.",
+          "answer": "Skills",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Learning to conduct difficult conversations in the workplace",
+        "text": "Many of us struggle to say what we need to at work. Whether it's asking for a pay rise, or confronting a co-worker over unsatisfactory behaviour, these conversations can be difficult to have without appearing offensive. There are several reasons why we don't raise difficult topics at work. Perhaps we've learned not to rock the boat, we fear being responsible for conflict, or we think that nothing will change even if we do pluck up the courage to speak out. So we stay quiet.\n\nHere are some tips on how to tackle your next difficult conversation: First, you need to plan what you're going to say. Think about how long you need for the conversation and where to have it. The right environment is key – you don't want somewhere too formal that will intimidate your colleague, or somewhere too casual where you may be overheard. The second thing you need to do is write down the key messages you want to get across in the conversation. Practise saying them out loud (I like to record them on my phone and play them back). You are not preparing a script, but this preparation helps you to be brief and clear. If you are particularly nervous, rehearse what you plan to say in front of a friend so you know you are coming across as you wish to. The language you use is also important. Consider the difference between these two phrases: 'Steve, we're very close to deadline date and you told me you're a bit behind. I'd like to support you and agree a way to get the deadlines met.' and 'Steve, you're behind again. This has got to stop!' If you use the first example, you come across as looking for solutions together. That creates trust and openness. The second example is less likely to get a successful outcome. Finally, put yourself in the other person's shoes – however frustrating that person might be. The useless boss who never gives you feedback is simply struggling with her own extremely heavy workload. The team member who only has negative comments to make in the team meeting simply doesn't have the skills to ask for what he wants directly. To manage your emotions during a difficult conversation, it helps to calm things down by taking some long breaths. And finally, if you feel under pressure, remember to respond slowly rather than reacting quickly."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Making a success out of a new business",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-119-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistically, out of all new business ventures, ______ will not survive two years.",
+          "answer": "Half",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o arrange frequent ______ to ensure these goals are still practicable",
+          "answer": "Reviews",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o make sure all ______ are fully aware of them",
+          "answer": "Employees",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o noting ______ for paying tax and other outgoings",
+          "answer": "Dates",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o their ______ and what they are responsible for doing in the business",
+          "answer": "Rights",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• find out how your product differs from what ______ offer",
+          "answer": "Competitors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "how unusual it is for archaeologists and children to have equal responsibilities ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the relevance of the children's achievements to a country's educational requirements ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the location of the archaeologists' main project ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a place where a large amount of archaeological material was found ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a relative's connection to a local business ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The experiment described in paragraph",
+          "options": [
+            {
+              "id": "A",
+              "text": "is designed to show A why objects break up when they are left in woodland."
+            },
+            {
+              "id": "B",
+              "text": "how modern objects differ from those made in the past."
+            },
+            {
+              "id": "C",
+              "text": "what happens to a breakable object when it hits the ground."
+            },
+            {
+              "id": "D",
+              "text": "how long it takes to put a broken object back together again."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In paragraph B, what does the writer say most schoolchildren do when they visit archaeological sites?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They meet with experts at the site."
+            },
+            {
+              "id": "B",
+              "text": "They talk to people living near the site."
+            },
+            {
+              "id": "C",
+              "text": "They are given information about the site."
+            },
+            {
+              "id": "D",
+              "text": "They engage in simple activities at the site."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The water mill is an example of something that the children",
+          "options": [
+            {
+              "id": "A",
+              "text": "had read about in history lessons."
+            },
+            {
+              "id": "B",
+              "text": "discovered using written documents."
+            },
+            {
+              "id": "C",
+              "text": "had heard about from local people."
+            },
+            {
+              "id": "D",
+              "text": "remembered from previous activities."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer say about one child's grandmother?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She recognised the pattern on some pottery."
+            },
+            {
+              "id": "B",
+              "text": "She showed the children how to decorate pottery."
+            },
+            {
+              "id": "C",
+              "text": "She regularly cooked using a pot that was very old."
+            },
+            {
+              "id": "D",
+              "text": "She offered the children an old pot that she had kept."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer helped the children to exhibit what they had found. First the children went to look at the exhibits on display at the ______ museum. After that, they placed their discoveries on a timeline to show the age of the objects. Then they created a (38) ______ for visitors to test their knowledge of the items.",
+          "answer": "University",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer helped the children to exhibit what they had found. First the children went to look at the exhibits on display at the (37) ______ museum. After that, they placed their discoveries on a timeline to show the age of the objects. Then they created a ______ for visitors to test their knowledge of the items.",
+          "answer": "Game",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-119-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The children were allowed to use a cabinet that belonged to the museum to display all the things they had found. One piece of pottery was recognised as being made at a particular ______ It was placed next to an unbroken example of the pottery.",
+          "answer": "Workshop",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Making a success out of a new business",
+        "text": "Running your own business can be very rewarding, but success is not always guaranteed. Half of small businesses fail in the first couple of years, according to official reports, but there are certain steps you can take to give your business the best chance. First, does your business have a clear mission, yearly goals and a long-term business plan? Ensure your goals are specific, measurable and achievable. Introduce regular reviews of these goals and set new ones when appropriate. Most importantly, communicate your mission and goals to your employees. Their livelihood is tied to the success of your business, so make sure they know what they need to do to keep your business healthy.\n\n(A) shortage of cash is generally what sinks small businesses, so learning to monitor your cashflow is critical. Check the dates of major outgoings, such as tax and payments for rent and rates, to ensure that you have enough cash for when these need to be paid. If you're setting up a partnership, choosing the right person is vital. Once you have made your choice, put in place an agreement which sets out the rights and responsibilities of each partner in the business. The agreement should also deal with what happens when difficulties arise; for example, does one partner have the ability to buy the other out? Or should the business simply be closed down – which could result in the end of a successful business? Knowing your market and accurately assessing the potential demand for a product is the key to an idea succeeding or failing. If your product has a very limited market, you won't be able to sell enough to create a successful business. You should take time to understand who your competitors are and identify what distinguishes your business from theirs. Perhaps you can provide a better service or compete on price. It all boils down to understanding why customers would rather buy from you than other companies in the field. There is a lot to think about when starting your own business, but avoiding these common pitfalls will give your business a good chance of success."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: The children's exhibition",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-119-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What would be a suitable title for the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Children make an exciting archaeological discovery"
+            },
+            {
+              "id": "B",
+              "text": "Archaeology is becoming a new hobby for children"
+            },
+            {
+              "id": "C",
+              "text": "The benefits for children of working with archaeologists"
+            },
+            {
+              "id": "D",
+              "text": "Communities appreciate the teachings of archaeologists"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "The children's exhibition",
+        "text": "The writer helped the children to exhibit what they had found. First the children went to look at the exhibits on display at the (37) ………………. museum. After that, they placed their discoveries on a timeline to show the age of the objects. Then they created a (38) ……………… for visitors to test their knowledge of the items. The children were allowed to use a cabinet that belonged to the museum to display all the things they had found. One piece of pottery was recognised as being made at a particular (39) ………………… It was placed next to an unbroken example of the pottery. The quality of the display area raised the status of the children's exhibition for everyone who went to see it."
+      }
+    }
+  ]
+}

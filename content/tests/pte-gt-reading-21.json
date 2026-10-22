@@ -1,0 +1,816 @@
+{
+  "id": "pte-gt-reading-21",
+  "title": "General Training Reading — Practice Test 21",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Rules for the St. James Students Residence",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-21-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cooking cannot be done anywhere in the dormitory.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "if you damage something from the kitchen, you will be liable.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "No visitors are allowed to stay overnight in the dormitory.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is more than one shared kitchen in the dormitory.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you want to change rooms with another person in the dormitory, the Student Housing Office must approve of the arrangement before you can go ahead with it.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you want to bring in illegal substances, you must register it first.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "No microwaves may be operated in the shared kitchen.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q8",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The object that can lower a car after a spare tyre is put on it.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wheel Brace"
+            },
+            {
+              "id": "B",
+              "text": "Hand"
+            },
+            {
+              "id": "C",
+              "text": "Engine"
+            },
+            {
+              "id": "D",
+              "text": "Car jack"
+            },
+            {
+              "id": "E",
+              "text": "Flat tyre"
+            },
+            {
+              "id": "F",
+              "text": "Wheel nuts"
+            },
+            {
+              "id": "G",
+              "text": "Spare tyre"
+            },
+            {
+              "id": "H",
+              "text": "Hubcap"
+            },
+            {
+              "id": "I",
+              "text": "Car boot"
+            },
+            {
+              "id": "J",
+              "text": "Hubcap lever"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The object that should be used to tighten the wheel nuts before the car is lowered.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wheel Brace"
+            },
+            {
+              "id": "B",
+              "text": "Hand"
+            },
+            {
+              "id": "C",
+              "text": "Engine"
+            },
+            {
+              "id": "D",
+              "text": "Car jack"
+            },
+            {
+              "id": "E",
+              "text": "Flat tyre"
+            },
+            {
+              "id": "F",
+              "text": "Wheel nuts"
+            },
+            {
+              "id": "G",
+              "text": "Spare tyre"
+            },
+            {
+              "id": "H",
+              "text": "Hubcap"
+            },
+            {
+              "id": "I",
+              "text": "Car boot"
+            },
+            {
+              "id": "J",
+              "text": "Hubcap lever"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The only object you should use to take the wheel nuts off before the car is raised.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wheel Brace"
+            },
+            {
+              "id": "B",
+              "text": "Hand"
+            },
+            {
+              "id": "C",
+              "text": "Engine"
+            },
+            {
+              "id": "D",
+              "text": "Car jack"
+            },
+            {
+              "id": "E",
+              "text": "Flat tyre"
+            },
+            {
+              "id": "F",
+              "text": "Wheel nuts"
+            },
+            {
+              "id": "G",
+              "text": "Spare tyre"
+            },
+            {
+              "id": "H",
+              "text": "Hubcap"
+            },
+            {
+              "id": "I",
+              "text": "Car boot"
+            },
+            {
+              "id": "J",
+              "text": "Hubcap lever"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The object you immediately turn off before putting on the parking brake.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wheel Brace"
+            },
+            {
+              "id": "B",
+              "text": "Hand"
+            },
+            {
+              "id": "C",
+              "text": "Engine"
+            },
+            {
+              "id": "D",
+              "text": "Car jack"
+            },
+            {
+              "id": "E",
+              "text": "Flat tyre"
+            },
+            {
+              "id": "F",
+              "text": "Wheel nuts"
+            },
+            {
+              "id": "G",
+              "text": "Spare tyre"
+            },
+            {
+              "id": "H",
+              "text": "Hubcap"
+            },
+            {
+              "id": "I",
+              "text": "Car boot"
+            },
+            {
+              "id": "J",
+              "text": "Hubcap lever"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The object where you would normally find the tools you need to change a tyre. Possible Endings",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wheel Brace"
+            },
+            {
+              "id": "B",
+              "text": "Hand"
+            },
+            {
+              "id": "C",
+              "text": "Engine"
+            },
+            {
+              "id": "D",
+              "text": "Car jack"
+            },
+            {
+              "id": "E",
+              "text": "Flat tyre"
+            },
+            {
+              "id": "F",
+              "text": "Wheel nuts"
+            },
+            {
+              "id": "G",
+              "text": "Spare tyre"
+            },
+            {
+              "id": "H",
+              "text": "Hubcap"
+            },
+            {
+              "id": "I",
+              "text": "Car boot"
+            },
+            {
+              "id": "J",
+              "text": "Hubcap lever K. Parking brake L. Emergency flashers If you have a flat tyre: First, make sure you are completely off the road, away from the traffic. Second, stop your engine and turn on the emergency flashers. Third, put on the parking brake firmly. Fourth, get everyone out of the car, on the side away from the traffic. Now follow these instructions: • Get the tools (car jack, hubcap lever and wheel brace) and the spare tyre out of the car boot. • Block the wheel opposite the flat tyre, to keep the car from rolling when it is jacked up. • Remove the hubcap with the hubcap lever. • Loosen all the wheel nuts with the wheel brace. • Place the jack under the car in the correct position. • Raise the car just high enough to put on the spare tyre. • Remove the wheel nuts and take off the punctured tyre. Put on the new tyre. • Put the wheel nuts back on and tighten them by hand. • Lower the car completely and take away the jack. Tighten the wheel nuts with the wheel brace. • Put the hubcap back on."
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Full-time students should register to be members of the University Union.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The people who run the University Union do not study at the same time as they work.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "As with the University Union, all students are automatic members of the Graduate Society.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The representative of the international students studies as well as works.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The wives of Wives International Group are able to receive free language instruction.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All students must be members of the Union.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "\"National and Cultural\" clubs may be started by student",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Rules for the St. James Students Residence",
+        "text": "1. No illegal substances such as drugs or firearms may be brought into the dormitories. Please respect our need for the safety and security of all students. 2. Cooking can only be done in the shared kitchens on each floor. No portable stoves, toasters, or microwaves may be operated in the dormitory rooms. Such items are a potential fire hazard. 3. Single rooms or shared dormitories are for the living enjoyment of registered tenants only. No unregistered arrangements for living in these quarters, without the expressed authorization of the Student Housing Office will be permitted. 4. Students must extend courtesy to their neighbours and ensure that an environment conducive to study is maintained. Thus, no loud noise is permitted during the evenings and weekends. 5. Students who wish to change location with another dormitory student must first register with the Student Housing Office. This is done to ensure that those living in a dwelling are accountable for the dwelling in which they are registered. Any damage done to a dwelling is the liability of the registered occupant, whether he or she was living there at the time or not. If you have any questions please notify the Student Housing Office at 658-9832 from 9:00 am 6:00pm from Monday to Friday"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: university of st. james, societies and groups",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-21-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After a student lives at a University hall of residence for a year he or she often then move to______",
+          "answer": "privately (rented) accommodation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Students are required to sign a contract which means they must stay at the accommodation for______",
+          "answer": "(the) period stated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to get your application for accommodation in before______",
+          "answer": "the closing date",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The unit you should always consult in case you are worried that you don't understand the wording in a contract is______",
+          "answer": "Accommodation office",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are a self-catering student and you leave before the contract date you will be charged a fifth of the rent as______",
+          "answer": "severance fee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The only postgraduate and undergraduate overseas students guaranteed first year accommodation are______",
+          "answer": "new students",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are unlucky enough even to miss out on temporary accommodation then you can stay at a______",
+          "answer": "guesthouse",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "university of st. james, societies and groups",
+        "text": "University Union The job of the University Union is to represent the interests of the students–both to the University and to the outside world–and provide students with cultural, sporting and welfare facilitie. When you arrive at the University, you will be given a Student Guide, explaining in detail what the Union has to offer. All full-time registered students are automatically members of the University Union, which is affiliated to the National Union of Students (although under Section 22(2)(c) of the Education Act 1994, a student has the right not to be a member of the Union if he or she so wishes). The Union is run by students (Sabbatical Officers) elected in cross-campus ballots, who work full-time, taking a year of from their university courses. International students are represented by an Overseas Students Officer, a part-time Union post.\n\nThe Graduate Association All postgraduate students at the University of St James are automatically members of the Graduate Association. It plays an important role in representing the interests of all postgraduate students, and also acts as a social club. The Graduate Association elects annually international officers, representing the interests of students from Europe and from outside Europe.\n\nSocieties and Groups\n\n\"National and Cultural \"Societies There are some 18 societies affiliated to the Union with memberships of nationals from those countries and other international and UK students interested in finding out more about their culture and language. The current list of \"National and Cultural\" societies as of January 2000 can be obtained at the Union office. The presidents of all these societies can be contacted through their pigeonholes in the Union. If there is no society for your nationality, why not start one?\n\nWives International Group This group was formed to foster contact amongst the wives of overseas students, Coffee mornings are held every Wednesday morning in the Senior Common Room, Clifton Hill House, where children can play with the many toys provided, and their mothers can enjoy a cup of tea or coffee and chat. Language tuition can also be arranged by qualified teachers at a reduced rate for wives who do not have much knowledge of the English language."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Accommodation at trentford university",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-21-q27",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A volcano that you can climb to get a good view of Edinburgh. ______",
+          "answer": "AS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "If you follow it, you will got past a garden and an art gallery but it is not a garden. ______",
+          "answer": "WL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A scenic climb that you start from at Princes Street. ______",
+          "answer": "CH",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You might need to take a bus to this place since it is a fairly long distance from the city centre (over 5 km). ______",
+          "answer": "PB",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A place that has a gallery and an academy in the middle of it. ______",
+          "answer": "PS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A place you can go to if you want to look more beautiful. Royal Botanic Gardens \"An oasis packed with a range of unusual trees, shrubs and flowers, as well as a great hothouse,\" says Jamie Byng. These 72 acres of horticultural heaven are home to more than 2,000 species of plants, tropical glasshouses, a bijoux art gallery (Inverleith House), and a. well-appointed tearoom with outside tables offering superb views of the city. If the festival has started to make use of the Botanics (last year saw several glitzy film premieres, plus Dannii Minogue giving her infamous Lady Macbeth), th e gardens remain a haven in the city. \"Still the best part of Edinburgh to chill out in,\" Kevin Williamson says. Where: Inverleith Row, 3km from Princes Street (0131 -552 7171). When: Daily 10am-4pm, open to 8pm during May -Aug Princes Street Gardens Earlier in the 20th century, this area was the infamous Nor Loch, an open sewer replenished each day by slops thrown down from the slum dwellings of the Old Town above it. Now, however, it's the green heart of Edinburgh, positioned where the river would normally be, and divided into East and West by the Mound –home to the National Gallery and the Royal Scottish Academy. \"Louts with lager, senior citizens on benches, Italian teens with daft wee backpacks–all our life is here,\" says Pete Irvine. \"It's the place I go to for a bit of peace and quiet,\" says Mark Cousins. \"And I love the old -fashioned merry-go-round in the children's area.\" Where: Parallel to Princes Street. The most popular entrance is by Waverley Bridge, near the Scott Memorial. When: Dawn to dusk. Arthur's Seat This is a place where the legendary British king is said to have rested his backside, this volcano, extinct for 350 million years, towers over the city. The easiest way up should take an averagely fit person no more than 40 minutes. The summit offers great views south towards the Borders and north towards Fife. \"It's an awesome place to watch the sunrise or sunset,\" says Jamie Byng. On the way down, thirsty walkers should visit the wonderful Sheep Heid pub in Duddingston village, once frequented by both Mary Queen of Scots and Bonnie Prince Charlie (though not at the same time). The name comes from a ram's head given to the publican by King James VI of Scotland–that's James I of England Where: West of city centre. Best approach is through Holyrood Park, at the foot of the Royal Mile. When: Any time, elements permitting. Klownz The Edinburgh Festival can be an endurance test: small, hot, dark rooms, sleep deprivation, and (frequently) lack of food-there's not that much difference, it seems, between a festival goer and a hostage. Which is why Kelly Cooper-Barr recommends a day at Klownz in Stockbridge. \"This place is pampering heaven. Basically, there is everything you could want–a multitude of beauty treatments, a great hairdressers, San Tropez tan while you relax, right down to the freshly-squeezed orange juice. They will fulfill any request. Spoiling yourself is certainly the order of the day here.\" Where: 1 NW Circus Place, EH3 6ST (0131-226 4565). When: Mon, Tues, Fri 9am-6pm, Wed & Thur 9am-8pm, Sat 9am-4pm. Closed Sundays. Calton Hill For those too lazy to climb Arthur's Seat, Calton Hill fills the breach. It's this place that gave Edinburgh its nickname of the Athens of the North, thanks to the temple that is William Playfair's National Monument (dedicated to the dead of the Napoleonic Wars), and his City Observatory (based on the Temple of the Winds in Athens). There's a small visitors' center– the Edinburgh Experience–but the main attraction is the view. Kevin Williamson says: \"Stand tall and proud on top of the hill, looking northwards over Leith, God's own country, with The Proclaimers jangling away on your Walkman. There is no more moving panorama anywhere in the world. And what's more, you can be back on Princes Street within five minutes or sitting in one of the bars on Broughton Street. Where: Entrance on Princes Street by Waterloo Place. Portobello Beach Jokingly referred to as Edinburgh's Riviera, the former artists' colony is now a bit tatty round the edges. But as the only bit of sea and sand within walking distance of the city, it's a welcome haven when the sun comes out. \"The romantic in you can't help liking the penny arcades and the miniature fairground,\" Mark Cousins says. \"It's got a Brighton Rock quality, a bit of faded, end-of-the-pier charisma.\" Leave room for beer, fish and chips, and ice cream. \"Luca's ice cream shop in Musselburgh high street is probably the best on Scotland's east coast,\" says Sarah Smith. Where: 8km from city centre via London Road. When: Preferably when it's sunny. Short-Hole Course in the Meadows It may look like a raggedy throw -and-putt course, but don't say that to the regulars: the 36-hole golf course on Bruntsfield Links is more than 100 years old. The mounds have been there for more than three centuries, ever since Edinburgh needed a mass -burial ground for plague victims. A round of golf is free (scorecards, with rules, are attached to a piece of string on the greenkeeper's hut), but you will need your own clubs. There are no b unkers, but obstacles include sunbathers, dogs, cyclists and small children. If golf's not your game there's a funfair too, and during the festival this is where big circus acts tend to perform. It's generally safe but, as those who have read Trainspotting will know, the area's best avoided on your own after dark. Where: The Meadows. When: Dawn to dusk, when no one is sitting on the holes. The Commonwealth Pool This Olympic-sized pool, which was commissioned for the 1970 Commonwealth Games, has kept very busy over the last 30 years, and has undoubtedly seen better days. However, the recent addition of flumes has given it a new lease of life. Central enough for office workers to nip out to in their lunch breaks –or for stressed-out festival-goers to cool their heels. \"Standing on the top board, you forget all the stresses and strains of city life. I think it's a life-saver,\" says Sarah Smith . Where: Dalkeith Road, EH 16 5BB (0131 -667 7211). When: Mon -Fri 9am-9pm, Sat & Sun 10am-4pm. Early bird slots 6arn-9pm Mon-Sat. Opens 10am Wed. Water Of Leith The river runs 21 miles from its source in the Pentland Hills to discharge into the Forth of Firth at Leith. A walk along here takes you past the Botanical Gardens, the neo -classical St Bernard's Well, through the leafy gorge that contains Dean Village, and westwards towards Belford Road–home of the National Gallery of Modern Art and the recently -opened Dean Gallery. 4`Walking there from Leith up the Dean River is a great way to spend an hour or so,\" says Jamie Byng. \"Make sure you stop off for pastries in Patisserie Florentine,\" says Sarah Smith. Where: The waterway can be entered from various points. Call the Tourist Board on 0131-473 3800 for information. ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Near Princes Streetanytimewide and beautiful view and not too difficult to climb ______",
+          "answer": "Calton Hill",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Near Princes Street(35) ______peace and quiet and an old fashioned merry go round",
+          "answer": "princes street garden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(34) ______Near Princes Street______peace and quiet and an old fashioned merry go round",
+          "answer": "dawn to dusk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(37) ______dawn to duskan old fashioned style of a modern game can be played",
+          "answer": "short hole course",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(36) ______dawn to duskan old fashioned style of a modern game can be played",
+          "answer": "the meadows",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Princes Gardens is on Princes street.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Meadows Golf Course may not be entirely safe at night.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-21-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Arthur's Seat is 350 million years old.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Accommodation at trentford university",
+        "text": "Undergraduate students live in University halls of residence during their first year at the University; some live in university student houses. In their second and subsequent years, most live in privately rented accommodation, although it is possible for some second-and third–year students to live in halls of residence or student houses. The application process for places in halls and student houses for the following year takes place during the spring term. The University Accommodation Office does its best to offer university accommodation to all those who apply by the closing date, but it is unfortunately not usually possible to accommodate everyone who applies. Postgraduate students live in university student houses or in private sector accommodation. University accommodation is guaranteed, subject to certain conditions, to all new undergraduate students and to new postgraduate students paying fees at the overseas rate. It is necessary for the Accommodation Office to have received your application form by the stipulated closing date in order to qualify for the guarantee–read the Accommodation booklets carefully for the conditions. It is essential that you complete and return an accommodation form if the Accommodation Office is to be able to plan for your arrival. University accommodation is provided for one academic year only, with no guarantee of accommodation for the second and subsequent years. Therefore, financial plans must include the possibility of moving into the privately rented sector at a higher cost. Before renting any accommodation you will have to sign a contract committing you to that accommodation for the period stated. Read the conditions carefully before signing. If you do not understand any part of the contract, ask the staff at the Accommodation Office: they will be happy to explain it to you. If you leave university accommodation before the end of your contract a severance fee will be charged, (one-fifth of the year's rent in self-catered accommodation, one-eighth in catered accommodation) unless there are extenuating circumstances. If it is not possible for you to move into permanent accommodation as soon as you arrive in Trentford, you will need to arrange temporary accommodation for the first few days. The University will have a limited number of rooms available in a Hall of Residence from, approximately, mid-September until the Friday before the start of term. If all University temporary accommodation is taken, you may need to stay in a guesthouse or the Trentford Youth Hostel. Guesthouses cost from about 25 pounds per night for bed and breakfast. The Youth Hostel costs 15 pounds per night.\n\n(A) list of hotel and guesthouses and details of charges can be obtained from the University Accommodation Office. Suitcases can safely be left in the International Students Advisory Service's office until your permanent accommodation has been arranged."
+      }
+    }
+  ]
+}

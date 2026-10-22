@@ -1,0 +1,764 @@
+{
+  "id": "pte-listening-100",
+  "title": "Listening — Practice Test 100",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-100-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They will be coming to London on ______",
+          "answer": "10 July",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• He's going with his sister and his ______",
+          "answer": "parents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o The cost is ______ £ for adults and (4) £ for children",
+          "answer": "29",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o The cost is (3) £ for adults and ______ £ for children",
+          "answer": "14",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Tours start at 7 am and finish at ______",
+          "answer": "6 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which three places does the tourist decide he's likely to see?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Buckingham Palace"
+            },
+            {
+              "id": "B",
+              "text": "Big Ben"
+            },
+            {
+              "id": "C",
+              "text": "Harrods"
+            },
+            {
+              "id": "D",
+              "text": "Houses of Parliament"
+            },
+            {
+              "id": "E",
+              "text": "Hyde Park"
+            },
+            {
+              "id": "F",
+              "text": "St Paul's Cathedral"
+            },
+            {
+              "id": "G",
+              "text": "London Eye"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which three places does the tourist decide he's likely to see?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Buckingham Palace"
+            },
+            {
+              "id": "B",
+              "text": "Big Ben"
+            },
+            {
+              "id": "C",
+              "text": "Harrods"
+            },
+            {
+              "id": "D",
+              "text": "Houses of Parliament"
+            },
+            {
+              "id": "E",
+              "text": "Hyde Park"
+            },
+            {
+              "id": "F",
+              "text": "St Paul's Cathedral"
+            },
+            {
+              "id": "G",
+              "text": "London Eye"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which three places does the tourist decide he's likely to see?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Buckingham Palace"
+            },
+            {
+              "id": "B",
+              "text": "Big Ben"
+            },
+            {
+              "id": "C",
+              "text": "Harrods"
+            },
+            {
+              "id": "D",
+              "text": "Houses of Parliament"
+            },
+            {
+              "id": "E",
+              "text": "Hyde Park"
+            },
+            {
+              "id": "F",
+              "text": "St Paul's Cathedral"
+            },
+            {
+              "id": "G",
+              "text": "London Eye"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How will the tourist buy the tickets?",
+          "options": [
+            {
+              "id": "A",
+              "text": "By phone"
+            },
+            {
+              "id": "B",
+              "text": "Online"
+            },
+            {
+              "id": "C",
+              "text": "On the bus"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How long before he leaves should he buy his tickets?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1 week"
+            },
+            {
+              "id": "B",
+              "text": "6 weeks"
+            },
+            {
+              "id": "C",
+              "text": "3 months"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Each day, pandas need to eat:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Very little nutrition"
+            },
+            {
+              "id": "B",
+              "text": "12-38 kg of bamboo"
+            },
+            {
+              "id": "C",
+              "text": "330 pounds of bamboo"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "If pandas are cared for away from the wild, they can live for approximately:",
+          "options": [
+            {
+              "id": "A",
+              "text": "6 months"
+            },
+            {
+              "id": "B",
+              "text": "14-20 years"
+            },
+            {
+              "id": "C",
+              "text": "30 years"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Select two things that are endangering pandas:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Public awareness"
+            },
+            {
+              "id": "B",
+              "text": "Ecotourism"
+            },
+            {
+              "id": "C",
+              "text": "Poaching"
+            },
+            {
+              "id": "D",
+              "text": "Other wildlife"
+            },
+            {
+              "id": "E",
+              "text": "Building of roads and railroads"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Select two things that are endangering pandas:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Public awareness"
+            },
+            {
+              "id": "B",
+              "text": "Ecotourism"
+            },
+            {
+              "id": "C",
+              "text": "Poaching"
+            },
+            {
+              "id": "D",
+              "text": "Other wildlife"
+            },
+            {
+              "id": "E",
+              "text": "Building of roads and railroads"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What proportion of the panda population in China is protected by reserves? ______",
+          "answer": "61%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What did the WWF create which encouraged people to support pandas? ______",
+          "answer": "logo",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They are extremely ______ to look after",
+          "answer": "expensive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They have a diet that is not ______",
+          "answer": "nutritious",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They are in danger because ______ are damaging the forests",
+          "answer": "humans",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The number of pandas in the wild is ______ so they will not become extinct",
+          "answer": "increasing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the problem that the students are having with the project?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The readings are too difficult"
+            },
+            {
+              "id": "B",
+              "text": "The readings are not interesting"
+            },
+            {
+              "id": "C",
+              "text": "The project is taking too long"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When can extensions be granted?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Problems with planning"
+            },
+            {
+              "id": "B",
+              "text": "Illness or accidents"
+            },
+            {
+              "id": "C",
+              "text": "Scheduling issues"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Princeton Windows",
+          "options": [
+            {
+              "id": "A",
+              "text": "knowledge about their customers"
+            },
+            {
+              "id": "B",
+              "text": "long-term gain"
+            },
+            {
+              "id": "C",
+              "text": "competition"
+            },
+            {
+              "id": "D",
+              "text": "customer satisfaction"
+            },
+            {
+              "id": "E",
+              "text": "employees"
+            },
+            {
+              "id": "F",
+              "text": "external factors"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "MK Cars",
+          "options": [
+            {
+              "id": "A",
+              "text": "knowledge about their customers"
+            },
+            {
+              "id": "B",
+              "text": "long-term gain"
+            },
+            {
+              "id": "C",
+              "text": "competition"
+            },
+            {
+              "id": "D",
+              "text": "customer satisfaction"
+            },
+            {
+              "id": "E",
+              "text": "employees"
+            },
+            {
+              "id": "F",
+              "text": "external factors"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Lakeside Golf",
+          "options": [
+            {
+              "id": "A",
+              "text": "knowledge about their customers"
+            },
+            {
+              "id": "B",
+              "text": "long-term gain"
+            },
+            {
+              "id": "C",
+              "text": "competition"
+            },
+            {
+              "id": "D",
+              "text": "customer satisfaction"
+            },
+            {
+              "id": "E",
+              "text": "employees"
+            },
+            {
+              "id": "F",
+              "text": "external factors"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bryson's Meats",
+          "options": [
+            {
+              "id": "A",
+              "text": "knowledge about their customers"
+            },
+            {
+              "id": "B",
+              "text": "long-term gain"
+            },
+            {
+              "id": "C",
+              "text": "competition"
+            },
+            {
+              "id": "D",
+              "text": "customer satisfaction"
+            },
+            {
+              "id": "E",
+              "text": "employees"
+            },
+            {
+              "id": "F",
+              "text": "external factors"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mojo's Music Shop",
+          "options": [
+            {
+              "id": "A",
+              "text": "knowledge about their customers"
+            },
+            {
+              "id": "B",
+              "text": "long-term gain"
+            },
+            {
+              "id": "C",
+              "text": "competition"
+            },
+            {
+              "id": "D",
+              "text": "customer satisfaction"
+            },
+            {
+              "id": "E",
+              "text": "employees"
+            },
+            {
+              "id": "F",
+              "text": "external factors"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Sarah",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has good managers"
+            },
+            {
+              "id": "B",
+              "text": "It has been operating for too long"
+            },
+            {
+              "id": "C",
+              "text": "There aren't enough music shops"
+            },
+            {
+              "id": "D",
+              "text": "It needs more innovative marketing"
+            },
+            {
+              "id": "E",
+              "text": "It will close down in the end"
+            },
+            {
+              "id": "F",
+              "text": "It has a good long-term future"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "John",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has good managers"
+            },
+            {
+              "id": "B",
+              "text": "It has been operating for too long"
+            },
+            {
+              "id": "C",
+              "text": "There aren't enough music shops"
+            },
+            {
+              "id": "D",
+              "text": "It needs more innovative marketing"
+            },
+            {
+              "id": "E",
+              "text": "It will close down in the end"
+            },
+            {
+              "id": "F",
+              "text": "It has a good long-term future"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Neil",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has good managers"
+            },
+            {
+              "id": "B",
+              "text": "It has been operating for too long"
+            },
+            {
+              "id": "C",
+              "text": "There aren't enough music shops"
+            },
+            {
+              "id": "D",
+              "text": "It needs more innovative marketing"
+            },
+            {
+              "id": "E",
+              "text": "It will close down in the end"
+            },
+            {
+              "id": "F",
+              "text": "It has a good long-term future"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• found ______",
+          "answer": "worldwide",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• super-pods may have more than ______ dolphins",
+          "answer": "1000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• help other animals – Moko helped a whale and calf escape from ______",
+          "answer": "shallow water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• discovered in May 2005 that young bottlenose dolphins learn to ______",
+          "answer": "use tools",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• dolphins pass knowledge from mothers to daughters, whereas primates pass to ______",
+          "answer": "both sexes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Like humans, this is due to disagreements over ______ and competition for females",
+          "answer": "companions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• dolphins have a variety of feeding methods, some of which are ______ to one population",
+          "answer": "exclusive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o ______ or strand feeding",
+          "answer": "beach",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o ______ away from another dolphin throwing it out the water",
+          "answer": "taking it",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-100-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• playful behaviour may include other ______ such as humans",
+          "answer": "species",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/100_deep.mp3"
+    }
+  ]
+}

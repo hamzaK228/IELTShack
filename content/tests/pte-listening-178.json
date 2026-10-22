@@ -1,0 +1,892 @@
+{
+  "id": "pte-listening-178",
+  "title": "Listening — Practice Test 178",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-178-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– number of people who can sit down to eat: ______",
+          "answer": "85",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– can go out and see the ______ in pots on the terrace",
+          "answer": "roses",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– terrace has a view of a group of ______",
+          "answer": "trees",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– has a ______",
+          "answer": "stage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– can give a ______ while people are eating",
+          "answer": "speech",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– will provide ______ if there are any problems",
+          "answer": "support",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Accommodation: in hotel rooms or ______",
+          "answer": "cabins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "outdoor swimming pool",
+          "options": [
+            {
+              "id": "A",
+              "text": "included in cost of hiring room"
+            },
+            {
+              "id": "B",
+              "text": "available at extra charge"
+            },
+            {
+              "id": "C",
+              "text": "not available"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "gym",
+          "options": [
+            {
+              "id": "A",
+              "text": "included in cost of hiring room"
+            },
+            {
+              "id": "B",
+              "text": "available at extra charge"
+            },
+            {
+              "id": "C",
+              "text": "not available"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "tennis courts",
+          "options": [
+            {
+              "id": "A",
+              "text": "included in cost of hiring room"
+            },
+            {
+              "id": "B",
+              "text": "available at extra charge"
+            },
+            {
+              "id": "C",
+              "text": "not available"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "dolphin watching",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "forest walk",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "cycle trip",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "local craft tour",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "observatory trip",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "horse riding",
+          "options": [
+            {
+              "id": "A",
+              "text": "all downhill"
+            },
+            {
+              "id": "B",
+              "text": "suitable for beginners"
+            },
+            {
+              "id": "C",
+              "text": "only in good weather"
+            },
+            {
+              "id": "D",
+              "text": "food included"
+            },
+            {
+              "id": "E",
+              "text": "no charge"
+            },
+            {
+              "id": "F",
+              "text": "swimming possible"
+            },
+            {
+              "id": "G",
+              "text": "fully booked today"
+            },
+            {
+              "id": "H",
+              "text": "transport not included"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things does the speaker say about the attraction called Musical Favourites?",
+          "options": [
+            {
+              "id": "A",
+              "text": "You pay extra for drinks."
+            },
+            {
+              "id": "B",
+              "text": "You must book it in advance."
+            },
+            {
+              "id": "C",
+              "text": "You get a reduction if you buy two tickets."
+            },
+            {
+              "id": "D",
+              "text": "You can meet the performers."
+            },
+            {
+              "id": "E",
+              "text": "You can take part in the show."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things does the speaker say about the attraction called Musical Favourites?",
+          "options": [
+            {
+              "id": "A",
+              "text": "You pay extra for drinks."
+            },
+            {
+              "id": "B",
+              "text": "You must book it in advance."
+            },
+            {
+              "id": "C",
+              "text": "You get a reduction if you buy two tickets."
+            },
+            {
+              "id": "D",
+              "text": "You can meet the performers."
+            },
+            {
+              "id": "E",
+              "text": "You can take part in the show."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things does the speaker say about the Castle Feast?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Visitors can dance after the meal."
+            },
+            {
+              "id": "B",
+              "text": "There is a choice of food."
+            },
+            {
+              "id": "C",
+              "text": "Visitors wear historical costume."
+            },
+            {
+              "id": "D",
+              "text": "Knives and forks are not used."
+            },
+            {
+              "id": "E",
+              "text": "The entertainment includes horse races."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things does the speaker say about the Castle Feast?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Visitors can dance after the meal."
+            },
+            {
+              "id": "B",
+              "text": "There is a choice of food."
+            },
+            {
+              "id": "C",
+              "text": "Visitors wear historical costume."
+            },
+            {
+              "id": "D",
+              "text": "Knives and forks are not used."
+            },
+            {
+              "id": "E",
+              "text": "The entertainment includes horse races."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Trevor find interesting about the purpose of children's literature?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the fact that authors may not realise what values they’re teaching"
+            },
+            {
+              "id": "B",
+              "text": "the fact that literature can be entertaining and educational at the same time"
+            },
+            {
+              "id": "C",
+              "text": "the fact that adults expect children to imitate characters in literature"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Trevor says the module about the purpose of children's literature made him",
+          "options": [
+            {
+              "id": "A",
+              "text": "analyse some of the stories that his niece reads."
+            },
+            {
+              "id": "B",
+              "text": "wonder how far popularity reflects good quality."
+            },
+            {
+              "id": "C",
+              "text": "decide to start writing some children’s stories."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Stephanie is interested in the Pictures module because",
+          "options": [
+            {
+              "id": "A",
+              "text": "she intends to become an illustrator."
+            },
+            {
+              "id": "B",
+              "text": "she can remember beautiful illustrations from her childhood."
+            },
+            {
+              "id": "C",
+              "text": "she believes illustrations are more important than words."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Trevor and Stephanie agree that comics",
+          "options": [
+            {
+              "id": "A",
+              "text": "are inferior to books."
+            },
+            {
+              "id": "B",
+              "text": "have the potential for being useful."
+            },
+            {
+              "id": "C",
+              "text": "discourage children from using their imagination."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "With regard to books aimed at only boys or only girls, Trevor was surprised",
+          "options": [
+            {
+              "id": "A",
+              "text": "how long the distinction had gone unquestioned."
+            },
+            {
+              "id": "B",
+              "text": "how few books were aimed at both girls and boys."
+            },
+            {
+              "id": "C",
+              "text": "how many children enjoyed books intended for the opposite sex."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Perrault's fairy tales",
+          "options": [
+            {
+              "id": "A",
+              "text": "translated into many other languages"
+            },
+            {
+              "id": "B",
+              "text": "hard to read"
+            },
+            {
+              "id": "C",
+              "text": "inspired a work in a different area of art"
+            },
+            {
+              "id": "D",
+              "text": "more popular than the author's other works"
+            },
+            {
+              "id": "E",
+              "text": "original title refers to another book"
+            },
+            {
+              "id": "F",
+              "text": "started a new genre"
+            },
+            {
+              "id": "G",
+              "text": "unlikely topic"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Swiss Family Robinson",
+          "options": [
+            {
+              "id": "A",
+              "text": "translated into many other languages"
+            },
+            {
+              "id": "B",
+              "text": "hard to read"
+            },
+            {
+              "id": "C",
+              "text": "inspired a work in a different area of art"
+            },
+            {
+              "id": "D",
+              "text": "more popular than the author's other works"
+            },
+            {
+              "id": "E",
+              "text": "original title refers to another book"
+            },
+            {
+              "id": "F",
+              "text": "started a new genre"
+            },
+            {
+              "id": "G",
+              "text": "unlikely topic"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Nutcracker and The Mouse King",
+          "options": [
+            {
+              "id": "A",
+              "text": "translated into many other languages"
+            },
+            {
+              "id": "B",
+              "text": "hard to read"
+            },
+            {
+              "id": "C",
+              "text": "inspired a work in a different area of art"
+            },
+            {
+              "id": "D",
+              "text": "more popular than the author's other works"
+            },
+            {
+              "id": "E",
+              "text": "original title refers to another book"
+            },
+            {
+              "id": "F",
+              "text": "started a new genre"
+            },
+            {
+              "id": "G",
+              "text": "unlikely topic"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Lord of the Rings",
+          "options": [
+            {
+              "id": "A",
+              "text": "translated into many other languages"
+            },
+            {
+              "id": "B",
+              "text": "hard to read"
+            },
+            {
+              "id": "C",
+              "text": "inspired a work in a different area of art"
+            },
+            {
+              "id": "D",
+              "text": "more popular than the author's other works"
+            },
+            {
+              "id": "E",
+              "text": "original title refers to another book"
+            },
+            {
+              "id": "F",
+              "text": "started a new genre"
+            },
+            {
+              "id": "G",
+              "text": "unlikely topic"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "War Horse",
+          "options": [
+            {
+              "id": "A",
+              "text": "translated into many other languages"
+            },
+            {
+              "id": "B",
+              "text": "hard to read"
+            },
+            {
+              "id": "C",
+              "text": "inspired a work in a different area of art"
+            },
+            {
+              "id": "D",
+              "text": "more popular than the author's other works"
+            },
+            {
+              "id": "E",
+              "text": "original title refers to another book"
+            },
+            {
+              "id": "F",
+              "text": "started a new genre"
+            },
+            {
+              "id": "G",
+              "text": "unlikely topic"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• had a semicircle of large stones round a ______",
+          "answer": "spring",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• research carried out into structures, ______ and human remains",
+          "answer": "tools",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• used in the oil industry, e.g. to make ______",
+          "answer": "maps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• problems: they were expensive and ______",
+          "answer": "heavy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "to make (33) • problems: they were expensive and (34) LATEST AUVs • much easier to use, relatively cheap, sophisticated Tests: • Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of ______ Underwater internet: • (36) is used for short distance communication, acoustic waves for long distance • plans for communication with researchers by satellite • AUV can send data to another AUV that has better (37) , for example Planned research in Gulf of Baratti: • to find out more about wrecks of ancient Roman ships, including – one carrying (38) supplies; tablets may have been used for cleaning the (39) – others carrying containers of olive oil or (40)",
+          "answer": "marble",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ is used for short distance communication, acoustic waves for long distance",
+          "answer": "light",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• AUV can send data to another AUV that has better ______ , for example",
+          "answer": "cameras",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– one carrying ______ supplies; tablets may have been used for cleaning the (39)",
+          "answer": "medical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– one carrying (38) supplies; tablets may have been used for cleaning the ______",
+          "answer": "eyes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-178-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– others carrying containers of olive oil or ______",
+          "answer": "wine",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/178_we.mp3"
+    }
+  ]
+}

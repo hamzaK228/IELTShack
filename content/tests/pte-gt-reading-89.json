@@ -1,0 +1,771 @@
+{
+  "id": "pte-gt-reading-89",
+  "title": "General Training Reading — Practice Test 89",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: A Cure for the Common Cold?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-89-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People usually get three colds every year. When sick, it is good to stay away from work because you need rest and you could spread the illness to ______ Reduce (2) ______and cold symptoms by using medicines that you can buy from a pharmacy.",
+          "answer": "(your) co-workers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People usually get three colds every year. When sick, it is good to stay away from work because you need rest and you could spread the illness to (1) ______ Reduce ______and cold symptoms by using medicines that you can buy from a pharmacy.",
+          "answer": "Drowsiness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Drink a lot and gargle with salt water to help clear your throat. Gargling with salt water is a good ______ to keep you safe from future illness, too. Steam helps clear the nose and (4) ______, instead of expensive medicine, is good for a cough. Take lots of vitamin C. Chicken soup is healthy and it is ideal (5) ______, as well as having curative properties. In the evening, a meal of hot curry will clear the airways.",
+          "answer": "Preventive measure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Drink a lot and gargle with salt water to help clear your throat. Gargling with salt water is a good (3) ______ to keep you safe from future illness, too. Steam helps clear the nose and ______, instead of expensive medicine, is good for a cough. Take lots of vitamin C. Chicken soup is healthy and it is ideal (5) ______, as well as having curative properties. In the evening, a meal of hot curry will clear the airways.",
+          "answer": "Honey",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Drink a lot and gargle with salt water to help clear your throat. Gargling with salt water is a good (3) ______ to keep you safe from future illness, too. Steam helps clear the nose and (4) ______, instead of expensive medicine, is good for a cough. Take lots of vitamin C. Chicken soup is healthy and it is ideal ______, as well as having curative properties. In the evening, a meal of hot curry will clear the airways.",
+          "answer": "Comfort food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This also has ______that can neutralise harmful bacteria and viruses. Some kind of (7) ______ is a good idea to improve your mood and sleep will help you to get better.",
+          "answer": "(some) ingredients",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This also has (6) ______that can neutralise harmful bacteria and viruses. Some kind of ______ is a good idea to improve your mood and sleep will help you to get better.",
+          "answer": "(light) exercise",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "A Cure for the Common Cold?",
+        "text": "The average person comes down with three colds a year, each lasting for about nine days. There is still no cure but the following advice may help. Take time off work, because your body will fight off the cold virus better if it is well rested. However, if you have to work, avoid close contact with your co-workers as the virus is contagious. Wash your hands frequently or use an alcohol-based disinfectant gel. Non-sedating allergy medications, which you can buy from a chemist, can decrease drowsiness and also alleviate the problems of a runny nose, watery eyes and blocked sinuses. As soon as you feel a cold coming on, boost your fluid intake. Water or juice is ideal but hot herbal teas with lemon will help thin mucus and expel it from the body. A warm gargle with salt water will relieve a scratchy throat by reducing inflammation and clearing mucus and irritants. It also flushes out bacteria and viruses so it can be used as a preventative measure as well. The warm moisture generated by a hot shower or bath will soothe and clear nasal passages. Inhaling steam over a bowl of hot water relieves congested sinuses, too. For a tickly cough, the latest research suggests that honey, either straight from the jar or dissolved in a hot drink, works as well if not better than costly lozenges and sprays.\n\n(A) good diet is essential for a quick recovery, so start the day with a healthy breakfast including vitamin C in the form of fresh fruit or berries. For lunch, chicken soup is good, but be sure to add chunks of lean chicken meat, for protein helps build immune cells. Not only is this the perfect comfort food but it has been proven to be medicinally beneficial. For dinner, a spicy curry makes a good decongestant and some ingredients (ginger, garlic, chilli) are recognised as being anti-viral and anti-bacterial.\n\n(A) little light exercise is beneficial, as this will enhance your emotional wellbeing, but don't attempt anything too strenuous. Finally, to recharge your body and regain your strength, you need a full eight hours' sleep."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Car Theft",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-89-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Modern cars are more difficult to steal because of their ______",
+          "answer": "Security systems",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• If they have your keys, burglars could steal your car or even threaten your ______",
+          "answer": "Personal safety",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Older models are easier to steal, so get an alarm or steering lock or use an immobilizer (cheap but effective ______)",
+          "answer": "Deterrent",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The loss of your car is stressful and also makes your ______more expensive",
+          "answer": "Insurance premiums",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o Supply all identifying information for vehicle – fill out a ______",
+          "answer": "Stolen vehicle report",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o NB: the ______of the vehicle will be easier for the thieves if you leave official papers inside",
+          "answer": "Illegal resale",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o Call the insurance company, bank (if necessary) and the ______if you owe money on the car",
+          "answer": "Finance company",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To get a job with a different ______of the firm, write a formal letter stating your reasons.",
+          "answer": "L",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "These many included professional development, adjusting to a different family ______; leaving a stressful work environment; ill health or old age; desire for a different type of (17) ______; or repatriation.",
+          "options": [
+            {
+              "id": "A",
+              "text": "employment"
+            },
+            {
+              "id": "B",
+              "text": "company"
+            },
+            {
+              "id": "C",
+              "text": "change"
+            },
+            {
+              "id": "D",
+              "text": "talents"
+            },
+            {
+              "id": "E",
+              "text": "situation"
+            },
+            {
+              "id": "F",
+              "text": "letters"
+            },
+            {
+              "id": "G",
+              "text": "hardships"
+            },
+            {
+              "id": "H",
+              "text": "evidence"
+            },
+            {
+              "id": "I",
+              "text": "form"
+            },
+            {
+              "id": "J",
+              "text": "culture"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "These many included professional development, adjusting to a different family (16) ______; leaving a stressful work environment; ill health or old age; desire for a different type of ______; or repatriation.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apart from personal reasons, you should focus on your ______; what advantages there are for the firm, and your knowledge and understanding of company (19) ______You may need to attach a transition plan.",
+          "options": [
+            {
+              "id": "A",
+              "text": "employment"
+            },
+            {
+              "id": "B",
+              "text": "company"
+            },
+            {
+              "id": "C",
+              "text": "change"
+            },
+            {
+              "id": "D",
+              "text": "talents"
+            },
+            {
+              "id": "E",
+              "text": "situation"
+            },
+            {
+              "id": "F",
+              "text": "letters"
+            },
+            {
+              "id": "G",
+              "text": "hardships"
+            },
+            {
+              "id": "H",
+              "text": "evidence"
+            },
+            {
+              "id": "I",
+              "text": "form"
+            },
+            {
+              "id": "J",
+              "text": "culture"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apart from personal reasons, you should focus on your (18) ______; what advantages there are for the firm, and your knowledge and understanding of company ______You may need to attach a transition plan.",
+          "options": [
+            {
+              "id": "A",
+              "text": "employment"
+            },
+            {
+              "id": "B",
+              "text": "company"
+            },
+            {
+              "id": "C",
+              "text": "change"
+            },
+            {
+              "id": "D",
+              "text": "talents"
+            },
+            {
+              "id": "E",
+              "text": "situation"
+            },
+            {
+              "id": "F",
+              "text": "letters"
+            },
+            {
+              "id": "G",
+              "text": "hardships"
+            },
+            {
+              "id": "H",
+              "text": "evidence"
+            },
+            {
+              "id": "I",
+              "text": "form"
+            },
+            {
+              "id": "J",
+              "text": "culture"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If the job you would like has been advertised, you need to complete the appropriate ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "employment"
+            },
+            {
+              "id": "B",
+              "text": "company"
+            },
+            {
+              "id": "C",
+              "text": "change"
+            },
+            {
+              "id": "D",
+              "text": "talents"
+            },
+            {
+              "id": "E",
+              "text": "situation"
+            },
+            {
+              "id": "F",
+              "text": "letters"
+            },
+            {
+              "id": "G",
+              "text": "hardships"
+            },
+            {
+              "id": "H",
+              "text": "evidence"
+            },
+            {
+              "id": "I",
+              "text": "form"
+            },
+            {
+              "id": "J",
+              "text": "culture"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Car Theft",
+        "text": "Car theft is a constant problem, but if you own a newer model of car, there is less likelihood of it being stolen. Newer models incorporate security systems that help prevent theft. However, thieves often steal car keys to access newer vehicles so it is a good policy to know where your keys are at all times. Never leave them in your car, even if it is parked in your garage at home. You make life easy for the burglar if you leave keys in a receptacle just inside the door or hanging from a hook. Think of a less obvious place, hidden from view. Once a thief has access to your keys, everything you own is at risk, including your personal safety. While older cars are a potential target, there are some simple precautions you should take. Definitely, lock your car before you leave it, even for the shortest time, even in the driveway of your house. Think of installing an alarm or a steering lock or consider a mechanical immobilizer that fits across the steering wheel. This is a relatively inexpensive item but it is a good deterrent for thieves. They generally go for the easiest and fastest option. Obviously, it is in your own interest to make your vehicle as difficult to steal as possible – not only to avoid stress and inconvenience, but also because your insurance premiums will soar if you make a claim. If you are unfortunate enough to have your vehicle stolen, phone the police immediately. You will need to provide information relating to your vehicle including make, model, year, colour, registration number and VIN (vehicle identification number). You need all of this when you file a stolen vehicle report. Police will also log any personal items that were in the vehicle. If these items include identifying documents such as a registration certificate, this will make the illegal resale of the vehicle simpler for the thieves, so keep these documents in a separate place. Next, contact your insurance company. If your wallet was in the car and it contained credit cards, you will need to notify your bank. If your house keys were in the car, call a locksmith and have your locks changed, and if you are still making payments on the car, you will need to inform the finance company. Both your insurance company and the finance company will ask you for copies of the police report so it is best to obtain one in the first instance."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Redundancy – What you should know",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-89-q21",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which FOUR of the following are genuine reasons for redundancy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the company moves to a new place"
+            },
+            {
+              "id": "B",
+              "text": "the company wants to hire a younger workforce"
+            },
+            {
+              "id": "C",
+              "text": "the company has recently taken on other people"
+            },
+            {
+              "id": "D",
+              "text": "the company no longer requires as many employees"
+            },
+            {
+              "id": "E",
+              "text": "the company wants to get rid of badly behaved employees"
+            },
+            {
+              "id": "F",
+              "text": "the employer contracts another firm to perform the work"
+            },
+            {
+              "id": "G",
+              "text": "the employer has no need of underperforming employees"
+            },
+            {
+              "id": "H",
+              "text": "the employer's need for a particular type of work has ceased"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "F",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q22",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which FOUR of the following are genuine reasons for redundancy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the company moves to a new place"
+            },
+            {
+              "id": "B",
+              "text": "the company wants to hire a younger workforce"
+            },
+            {
+              "id": "C",
+              "text": "the company has recently taken on other people"
+            },
+            {
+              "id": "D",
+              "text": "the company no longer requires as many employees"
+            },
+            {
+              "id": "E",
+              "text": "the company wants to get rid of badly behaved employees"
+            },
+            {
+              "id": "F",
+              "text": "the employer contracts another firm to perform the work"
+            },
+            {
+              "id": "G",
+              "text": "the employer has no need of underperforming employees"
+            },
+            {
+              "id": "H",
+              "text": "the employer's need for a particular type of work has ceased"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "F",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q23",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which FOUR of the following are genuine reasons for redundancy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the company moves to a new place"
+            },
+            {
+              "id": "B",
+              "text": "the company wants to hire a younger workforce"
+            },
+            {
+              "id": "C",
+              "text": "the company has recently taken on other people"
+            },
+            {
+              "id": "D",
+              "text": "the company no longer requires as many employees"
+            },
+            {
+              "id": "E",
+              "text": "the company wants to get rid of badly behaved employees"
+            },
+            {
+              "id": "F",
+              "text": "the employer contracts another firm to perform the work"
+            },
+            {
+              "id": "G",
+              "text": "the employer has no need of underperforming employees"
+            },
+            {
+              "id": "H",
+              "text": "the employer's need for a particular type of work has ceased"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "F",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q24",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which FOUR of the following are genuine reasons for redundancy?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the company moves to a new place"
+            },
+            {
+              "id": "B",
+              "text": "the company wants to hire a younger workforce"
+            },
+            {
+              "id": "C",
+              "text": "the company has recently taken on other people"
+            },
+            {
+              "id": "D",
+              "text": "the company no longer requires as many employees"
+            },
+            {
+              "id": "E",
+              "text": "the company wants to get rid of badly behaved employees"
+            },
+            {
+              "id": "F",
+              "text": "the employer contracts another firm to perform the work"
+            },
+            {
+              "id": "G",
+              "text": "the employer has no need of underperforming employees"
+            },
+            {
+              "id": "H",
+              "text": "the employer's need for a particular type of work has ceased"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "F",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The company has to consult with workers before making the final redundancy decision; it must provide reasons and consider the workers' ______",
+          "answer": "Feedback",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A period of______ of redundancy is needed, where this is not stated in the contract.",
+          "answer": "Reasonable notice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If employees contest their redundancy, employers must provide______for the redundancy decision.",
+          "answer": "Evidence",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Redundancy – What you should know",
+        "text": "Getting laid off can be distressing and demoralizing for the employee. Two features differentiate redundancy from other grounds for termination. Firstly, the position must be justifiably superfluous to the employer's requirements and, secondly, the employee must not be at fault. Redundancy cannot be used as a means of dispensing with a poorly performing employee, or one who has been guilty of misconduct in the workplace. Whether a position is truly redundant is a matter of business judgment for the employer. Whereas minimal modifications to a job role do not amount to grounds for redundancy, a worker who has an obsolete skill set because of the introduction of new technology, for example, can be made redundant. Sometimes the reason for redundancy is obvious to employees, such as the relocation of the business to another city or province, closing down, or selling the business; but sometimes it is less obvious, such as a takeover by another firm. A company can also make redundancies in order to operate more efficiently and cost effectively, if there are financial issues leading to downsizing or if it is no longer using a certain department, for example. In some situations, a company may decide to lay off part of its workforce because it can no longer sustain some inhouse services and it wants to outsource certain business functions. The employer must consult 'in good faith' (sincerely and honestly) with the affected workers before making the ultimate decision. Reasons for the reorganisation must be presented and workers must have an opportunity to have their say. The employer must take into account any feedback that employees provide. Where possible, the employer should weigh up the alternatives, such as transfer within the company or a reduction in hours. The final decision, however, rests with the employer. The notice period for redundancy will usually be stipulated in the original employment contract. If not, then 'reasonable notice' is required and this will depend on the circumstances, such as seniority and length of service. In some situations, employees may wish to challenge their redundancy in court, and this must be done within 90 days of the decision. The employer must show that the redundancy was genuinely decided on commercial grounds and that there was a frank and honest consultation with the employee before the final decision was made. The business must give evidence to show that the grounds for redundancy were objective, reasonable and fair. The court will then perform its own assessment of whether the restructure was necessary."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: A Book Review – Dog Will Have His Day by Fred Vargas",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-89-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fred Vargas is the ______ of Frédérique Audoin-Rouzeau. She has two main professions, and writing crime novels is her (29) ______ She thinks it is funny that her fiction is so popular, in contrast to her academic writing, which does not sell so well. It took many years of research before she published her book about the (30) ______ whereas she can write the first draft of a detective story in just (31) ______, although it takes quite a bit longer to correct and change the (32) ______",
+          "answer": "Nom de plume",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fred Vargas is the (28) ______ of Frédérique Audoin-Rouzeau. She has two main professions, and writing crime novels is her ______ She thinks it is funny that her fiction is so popular, in contrast to her academic writing, which does not sell so well. It took many years of research before she published her book about the (30) ______ whereas she can write the first draft of a detective story in just (31) ______, although it takes quite a bit longer to correct and change the (32) ______",
+          "answer": "Hobby",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fred Vargas is the (28) ______ of Frédérique Audoin-Rouzeau. She has two main professions, and writing crime novels is her (29) ______ She thinks it is funny that her fiction is so popular, in contrast to her academic writing, which does not sell so well. It took many years of research before she published her book about the ______ whereas she can write the first draft of a detective story in just (31) ______, although it takes quite a bit longer to correct and change the (32) ______",
+          "answer": "(bubonic) plague",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fred Vargas is the (28) ______ of Frédérique Audoin-Rouzeau. She has two main professions, and writing crime novels is her (29) ______ She thinks it is funny that her fiction is so popular, in contrast to her academic writing, which does not sell so well. It took many years of research before she published her book about the (30) ______ whereas she can write the first draft of a detective story in just ______, although it takes quite a bit longer to correct and change the (32) ______",
+          "answer": "Three weeks/ 3 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fred Vargas is the (28) ______ of Frédérique Audoin-Rouzeau. She has two main professions, and writing crime novels is her (29) ______ She thinks it is funny that her fiction is so popular, in contrast to her academic writing, which does not sell so well. It took many years of research before she published her book about the (30) ______ whereas she can write the first draft of a detective story in just (31) ______, although it takes quite a bit longer to correct and change the ______",
+          "answer": "Prose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dog Will Have His Day is a story about a piece of human bone, and Louis Kehlweiler's attempts to solve a murder mystery, Kehlweller is a typical example of Vargas' heroes, many of whom are ______, in his case, he has a pet toad who he chats to regularly. He enlists the help of Marc and Mathias, both (34) ______who had featured as evangelists in an earlier Vargas novel. They end up in a small (35) ______where they learn that a woman's body had recently been found on the beach. In the course of their investigation, they uncover more murders and (36) ______a war criminal.",
+          "answer": "Eccentrics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dog Will Have His Day is a story about a piece of human bone, and Louis Kehlweiler's attempts to solve a murder mystery, Kehlweller is a typical example of Vargas' heroes, many of whom are (33) ______, in his case, he has a pet toad who he chats to regularly. He enlists the help of Marc and Mathias, both ______who had featured as evangelists in an earlier Vargas novel. They end up in a small (35) ______where they learn that a woman's body had recently been found on the beach. In the course of their investigation, they uncover more murders and (36) ______a war criminal.",
+          "answer": "(unemployed) historians",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dog Will Have His Day is a story about a piece of human bone, and Louis Kehlweiler's attempts to solve a murder mystery, Kehlweller is a typical example of Vargas' heroes, many of whom are (33) ______, in his case, he has a pet toad who he chats to regularly. He enlists the help of Marc and Mathias, both (34) ______who had featured as evangelists in an earlier Vargas novel. They end up in a small ______where they learn that a woman's body had recently been found on the beach. In the course of their investigation, they uncover more murders and (36) ______a war criminal.",
+          "answer": "(Breton) fishing village",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dog Will Have His Day is a story about a piece of human bone, and Louis Kehlweiler's attempts to solve a murder mystery, Kehlweller is a typical example of Vargas' heroes, many of whom are (33) ______, in his case, he has a pet toad who he chats to regularly. He enlists the help of Marc and Mathias, both (34) ______who had featured as evangelists in an earlier Vargas novel. They end up in a small (35) ______where they learn that a woman's body had recently been found on the beach. In the course of their investigation, they uncover more murders and ______a war criminal.",
+          "answer": "Unmask",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Vargas' style of writing is typical of crime fiction.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The style has much in common with Scandinavian crime novels.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Detailed descriptions are only useful to the reader when they develop the storyline.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-89-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Three Evangelists is Vargas' best-selling novel.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "A Book Review – Dog Will Have His Day by Fred Vargas",
+        "text": "This is another crime thriller from the prize-winning novelist Fred Vargas. Despite the misleading first name and Spanish surname, the author is actually a French woman – Frédérique Audoin-Rouzeau. She adopted her nom de plume from the Ava Gardner character, the Spanish dancer Maria Vargas, in the 1954 film The Barefoot Contessa. Although a writer of crime fiction, Frederique Audoin-Rouzeau is primarily a medieval historian and archaeologist. Her detective books are immensely popular: over 10 million copies have been sold worldwide and they have been translated into 45 languages. She is a little mystified by her success – after all, it is just a hobby – and finds it quite amusing. As an archaeologist specialising in epidemiology, she produced the definitive study on the transmission of the bubonic plague – a book that she says \"after seven years of intensive work trying to find the real vector of the plague\" sold only a thousand copies. It is even more paradoxical to learn that she wrote each of her novels in three weeks flat, during her annual summer holidays. Even when she took a break from archaeology to work full-time on her fiction, the first draft was still finished within the same time frame. She uses the ensuing months to polish and tidy the prose. Perhaps by virtue of Vargas' archaeological background, Dog Will Have His Day starts with a bone. It turns out to be the top joint of a woman's big toe, found by chance in Paris by Louis Kehlweiler, a former special investigator for the Ministry of Justice. He presents his find to the local police, who decline to do anything about it. However, Louis, convinced that a murder has taken place, decides to focus on finding the body to which the toe belongs. Most of Vargas' characters are eccentrics in some way and Louis is no exception. He carries a toad named Bufo around in his pocket and consults it on matters of importance, although Louis says: \"You have to keep it simple with Bufo, just basic ideas … He can't cope with anything else. Sometimes I try a bit harder, a bit of philosophy even, to improve his mind… He was much more stupid when I first got him.\" Louis recruits the assistance of Marc Vandoosler, one of the 'evangelists' of a previous novel The Three Evangelists. The evangelists, actually unemployed historians, share a rundown house and Marc is the medieval researcher among them. Later, another of the evangelists, Mathias, the hunter-gatherer (a prehistoric specialist), joins the undertaking. As the bone fragment had obviously passed through a dog's digestive system, Louis' first mission is to track down the dog in question. Ringo, a pit bull, is eventually identified as the culprit and his owner is tracked to a tiny Breton fishing village. There, Marc and Louis establish that the corpse of an old woman missing her big toe had been discovered on the beach a few days earlier. The investigation takes in some interesting characters, including a collector of antique typewriters. Although initially suspecting just one murder, Louis, with the help of Marc and Mathias, manages to solve three homicides and unmask a would-be mayoral candidate who is in fact wanted for crimes against humanity dating from the Second World War. As an aficionado of crime fiction, I find Vargas' prose far from conventional. It is original, enthralling and witty, occasionally whimsical and surreal, but always with a delightful simplicity. The main characters have their little catchphrases such as \"I could do with a beer\" (Louis) which makes them endearingly human. She has a cast of quirky provincial characters expertly portrayed; far removed from the darkly humorous, brutally violent, hard-edged Scandinavian realism which is so widely admired these days. Vargas definitely swims against the tide of realism – there is a lack of elaborate description – no detailed depictions of the meals eaten, clothes worn, music listened to or cars driven. This is enormously refreshing: frankly, how essential is it to know the make of a vehicle or the brand of beer? Unless, of course, it is inextricably linked to the unravelling of the plot. Comparatively speaking, the plot of this book appears at first to be a little on the light side although her bizarre characters and inventiveness keep the reader well entertained. However, the story suddenly becomes convoluted towards the end and the denouement rapidly ensues, leaving the reader feeling short-changed. It is not as ingenious or inspired as The Three Evangelists – one of her finest novels and a hard act to follow – but the well-judged inclusion of Marc leaves the reader wanting to see more of the other two evangelists. Despite some shortcomings, it is still a brilliant read and I remain a steadfast fan."
+      }
+    }
+  ]
+}

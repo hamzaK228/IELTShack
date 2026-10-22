@@ -1,0 +1,1053 @@
+{
+  "id": "pte-gt-reading-11",
+  "title": "General Training Reading — Practice Test 11",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: START TIMES:",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-11-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the starting point for the 30 km walk? ______",
+          "answer": "weldown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the latest start time for the 20 km walk? ______",
+          "answer": "10.30 (am)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Regarding footwear, what are you warned against wearing? ______",
+          "answer": "new shoes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What are the officials who help participants on the route called? ______",
+          "answer": "(the) marshals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where does the 20 km walk finish? ______",
+          "answer": "fenton",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the frequency of the Fenton to Weldown bus? ______",
+          "answer": "every half hoar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which walk does not pass through Lower Brene? ______",
+          "answer": "10 kilometre (walk)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "START TIMES:",
+        "text": "30 km: 8-10 am, 20 km: 8-10.30 am, 10 km: 8-11.30 am The organisers reserve the right to refuse late comers. CLOTHING should be suitable for the weather. If rain is forecast, bring some protection and be prepared for all eventualities. It is better to wear shoes that have been worn in rather than ones that are new. ROUTE MAPS will be available from the registration point. The route will be sign-posted and marshelled. Where the route runs along the road, walkers should keep to one side in single file, facing oncoming traffic at all times. If you need help along the route please inform one of the marshals. Free car parking available in car parks and on streets in Weldown. BUSES – For the 10 and 20 km routes a bus will be waiting at Fenton to take walkers back to Weldown. The bus will leave every half hour starting at midday. The service is free and there is no need to book."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: The Week's Best",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-11-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This programme is in the form of a personal interview.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This programme is a documentary about technological developments.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q10",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "These TWO programmes are about time travel.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This programme is taken from a book.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This film is the introduction to a set of programmes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q13",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "These TWO programmes are about present-day travellers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": [
+            "D",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This programme is about investigating a possible crime.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The Week's Best",
+        "text": "(A) Wild Rose\n\n(Tuesday 19.00) This TV drama is about a young private detective employed by a team of New York businessmen who send her to Brazil to look into a series of hotel robberies. When she gets there, she discovers that the hotels, which are owned by the businessmen, have been empty for the last two years and the local authorities have no record of any robberies.\n\n(B) Animal Planet\n\n(Wednesday 23.00) This is a classic black-and-white film from the forties in which astronaut Charlie Huston crash-lands on a planet ruled entirely by animals. It is a first-class suspense adventure which also looks at the human condition, although this is not always a successful part of the film.\n\n(C) Strange Encounter\n\n(Saturday 21.00) Suspense is skilfully built up in this clever, small-scale supernatural story. A young couple view a deserted old house that they are interested in buying. They meet a strange old lady who tells them of the mystical powers of the house and haw previous owners have been able to travel back through the centuries to meet their. ancestors.\n\n(D) The Longest Walk\n\n(Tuesday 21.30) Ffyona Campbell is nearly there. All she has to do now is walk the length of France and Britain and she has succeeded in walking around the world. Tonight she drinks coffee in a tent and tells her story to Janet Street-Porter before she sets off for the Pyrenees mountains.\n\n(E) Rubicon 5\n\n(Thursday 20.30) This is a TV film being used to launch a new science fiction series. It has impressive special effects and a strong, believable cast of characters who travel to the twenty-third century. The action takes place in underground cities where the environment is controlled by computers.\n\n(F) New Science\n\n(Friday 19.30) This popular half-hour science magazine continues into its twenty-ninth year, proving itself to be a hardy survivor in the television world. Tonight it is presented by Carol Vorderman who introduces five reports, which include computer-driven cars and in-flight ten-pin bowling.\n\n(G) There and Back Again\n\n(Sunday 22.00) Paul Theroux's account of his recent journey from London to Japan and back makes ideal material for this evening's travel slot. Based on his own novel, the progress of his journey on the railways of Europe and Asia (Victoria station, Paris, Istanbul…) acts as a fascinating travelogue as the inhabitants gradually shift from the West to the East."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: International Students' Orientation Programme",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-11-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Participants are advised to arrive one or two days early.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The cost of the programme for European Union students, excluding accommodation, is £195.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The number of places available is strictly limited.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some students are not charged extra for accommodation during the programme.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The College will arrange accommodation with local families.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can obtain breakfast at the College for an extra charge.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This is possibly inconvenient for car owners.",
+          "options": [
+            {
+              "id": "C",
+              "text": "Strange Encounter"
+            },
+            {
+              "id": "D",
+              "text": "The Longest Walk"
+            },
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This is best if you like surfing the Web.",
+          "options": [
+            {
+              "id": "C",
+              "text": "Strange Encounter"
+            },
+            {
+              "id": "D",
+              "text": "The Longest Walk"
+            },
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            },
+            {
+              "id": "A",
+              "text": "A"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Of the College residences, this has the fewest students.",
+          "options": [
+            {
+              "id": "D",
+              "text": "The Longest Walk"
+            },
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This is a new option offered by the College.",
+          "options": [
+            {
+              "id": "D",
+              "text": "The Longest Walk"
+            },
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You have to organise parking a year at a tim.",
+          "options": [
+            {
+              "id": "D",
+              "text": "The Longest Walk"
+            },
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            },
+            {
+              "id": "B",
+              "text": "B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This accommodation does not belong to the College.",
+          "options": [
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            },
+            {
+              "id": "D",
+              "text": "D"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Here you definitely do not have your own bathroom.",
+          "options": [
+            {
+              "id": "E",
+              "text": "Rubicon 5"
+            },
+            {
+              "id": "F",
+              "text": "New Science"
+            },
+            {
+              "id": "G",
+              "text": "There and Back Again"
+            },
+            {
+              "id": "C",
+              "text": "C"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "International Students' Orientation Programme",
+        "text": "What is it? It is a course which will introduce you to the College and to Bingham. It takes place in the week before term starts, from 24th – 28th September inclusive, but you should plan to arrive in Bingham on the 22nd or 23rd September. Why do we think it is important? We want you to have the best possible start to your studies and you need to find out about all the opportunities that college life offers. This programme aims to help you do just that. It will enable you to get to know the College, its facilities and services. You will also have the chance to meet staff and students. How much will it cost?\n\nInternational students (non-European Union students) For those students who do not come from European Union (EU) countries, and who are not used to European culture and customs, the programme is very important and you are strongly advised to attend. Because of this, the cost of the programme, exclusive of accommodation, is built into your tuition fees.\n\nEU students EU students are welcome to take part in this programme for a fee of £195, exclusive of accommodation. Fees are not refundable.\n\nAccommodation costs (international and EU students) If you have booked accommodation for the year ahead (41 weeks) through the College in one of the College residences (Cambourne House, Hanley House, the Student Village or a College shared house), you do not have to pay extra for accommodation during the Orientation programme. If you have not booked accommodation in the College residences, you can ask us to pre-book accommodation for you for one week only (Orientation Programme week) in a hotel with other international students. The cost of accommodation for one week is approximately £165. Alternatively, you can arrange your own accommodation for that week in a flat, with friends or a local family. What is included during the programme? Meals: lunch and an evening meal are provided as part of the programme, beginning with supper on Sunday 23rd September and finishing with lunch at midday on Friday 28th September. Please note that breakfast is not available. Information sessions: including such topics as accommodation, health, religious matters, welfare, immigration, study skills, careers and other 'essential information'. Social activities: including a welcome buffet and a half-day excursion round Bingham. Transport: between your accommodation and the main College campus, where activities will take place."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: GLOW-WORMS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-11-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "threats to the glow-worm",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "ways in which glow-worms have been used",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "variations in type of glow-worm",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "glow-worm distribution",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "glow-worms becoming an attraction",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the life-cycle of a glow-worm",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Scientists have only recently been able to list the exact number of glow-worm species.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The first fireflies appeared 30 million years ago.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Glow-worm populations are decreasing faster in some countries than in others.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Heat affects the production of glow-worm larvae.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Adulthood is the longest stage of a glow-worm's life.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The exact reason why glow-worm numbers are decreasing is unknown.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-11-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Glow-worms are usually found in wet areas.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "GLOW-WORMS",
+        "text": "(A) The glow-worm belongs to a family of beetles known as the Lampyridae or fireflies. The fireflies are a huge group containing over 2000 species, with new ones being discovered all the time. The feature which makes fireflies and glow-worms so appealing is their ability to produce an often dazzling display of light. The light is used by the adult fireflies as a signal to attract a mate, and each species must develop its own 'call-sign' to avoid being confused with other species glowing nearby. So within any one area each species will differ from its neighbours in some way, for example in the colour or pattern of its light, how long the pulses of light last, the interval between pulses and whether it displays in flight or from the ground.\n\n(B) The firefly's almost magical light has attracted human attention for generations. It is described in an ancient Chinese encyclopaedia written over 2000 years ago by a pupil of Confucius. Fireflies often featured in Japanese and Arabian folk medicine. All over the world they have been the inspiration for countless poems, paintings and stories. In Britain, for example, there are plenty of anecdotes describing how glow-worms have been used to read by or used as emergency bicycle lamps when a cyclist's batteries have failed without warning. Early travellers in the New World came back with similar stories, of how the native people of Central America would collect a type of click beetle and release them indoors to light up their huts. Girls threaded them around their feet to illuminate the forest paths at night. Fireflies very similar to those we see today have been found fossilised in rocks which were formed about 30 million years ago, and their ancestors were probably glowing long before then. It is impossible to be sure exactly when and where the first firefly appeared. The highest concentrations of firefly species today are to be found in the tropics of South America, which may mean either that this is where they first evolved, or simply that they prefer the conditions there. Wherever they first arose, fireflies have since spread to almost every part of the globe. Today members of the firefly family can be found almost anywhere outside the Arctic and Antarctic circles.\n\n(C) As with many insects, the glow-worm's life is divided into four distinct stages: the egg, the larva (equivalent to the caterpillar of a butterfly), the pupa (or chrysalis) and the adult. The glow-worm begins its life in the autumn as a pale yellow egg. The freshly laid egg is extremely fragile but within a day its surface has hardened into a shell. The egg usually takes about 35 days to hatch, but the exact time varies according to the temperature, from about 27 days in hot weather to more than 45 days in cold weather. By the time it is due to hatch, the glow-worm's light organ is fully developed, and its glow signals that the egg will soon hatch. After it has left the egg, the larva slowly grows from a few millimetres into the size and shape of a matchstick. The larval stage is the only time the insect can feed. The larva devotes much of its life to feeding and building up its food reserves so that as an adult it will be free to concentrate all its efforts on the task of finding a mate and reproducing. Throughout its time as a larva, approximately 15 months, the glow-worm emits a bright light. The larva's light is much fainter than the adult female's but it can still be seen more than five metres away. In the final stage of a glow-worm's life, the larva encases itself in a pupa) skin while it changes from the simple larva to the more complex adult fly. When the adult fly emerges from the pupa the male seeks a female with whom it can mate. After mating, the female lays about 120 eggs. The adult flies have no mouth parts, cannot eat and therefore only live a few days. When people talk of seeing a glow-worm they normally mean the brightly glowing adult female.\n\n(D) In some countries the numbers of glow-worms have been falling. Evidence suggests that there has been a steady decrease in the British glow-worm population since the 1950s and possibly before that. Possible causes for the decline include habitat destruction, pollution and changes in climate. Thousands of acres of grassland have been built upon and glow-worm sites have become increasingly isolated from each other. The widespread use of pesticides and fertilisers may also have endangered the glow-worm. Being at the top of a food chain it is likely to absorb any pollutants eaten by the snails on which it feeds. The effect of global warming on rainfall and other weather patterns may also be playing a part in the disappearance of glow-worms. A lot more research will be needed, however, before the causes of the glow-worm's gradual decline are clear.\n\n(E) Although glow-worms are found wherever conditions are damp, food is in good supply and there is an over-hanging wall, they are most spectacular in caves. For more than 100 years the glow-worm caves in New Zealand have attracted millions of people from all over the world. The caves were first explored in 1887 by a local Maori chief, Tane Tinorau, and an English surveyor, Fred Mace. They built a raft and, with candles as their only light, they floated into the cave where the stream goes underground. As their eyes adjusted to the darkness they saw myriad lights reflecting off the water. Looking up they discovered that the ceiling was dotted with the lights of thousands of glow-worms. They returned many times to explore further, and on an independent trip Tane discovered the upper level of the cave and an easier access. The authorities were advised and government surveyors mapped the caves. By 1888 Tane Tinorau had opened the cave to tourists."
+      }
+    }
+  ]
+}

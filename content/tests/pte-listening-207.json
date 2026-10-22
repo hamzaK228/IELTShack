@@ -1,0 +1,874 @@
+{
+  "id": "pte-listening-207",
+  "title": "Listening — Practice Test 207",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-207-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Name of ferry company: ______ Ferries",
+          "answer": "Northern",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Ferries depart seven times per ______ in summer",
+          "answer": "Week",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Cost for four people with car: a little less than ______ £",
+          "answer": "250/two hundred fifty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Cancellation policy: receive a ______ (if cancelled a month in advance)",
+          "answer": "Voucher",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o book one with a ______",
+          "answer": "Window",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Bring snacks and ______ for the children",
+          "answer": "Books",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A ______ is required for the dog kennels",
+          "answer": "Blanket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Try to see ______ in the morning",
+          "answer": "Dolphins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• If time, visit ______ Castle",
+          "answer": "Drum",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The ______ restaurant in a nearby village is recommended",
+          "answer": "Italian",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q11",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO explanations for the popularity of street food are given?",
+          "options": [
+            {
+              "id": "A",
+              "text": "low price"
+            },
+            {
+              "id": "B",
+              "text": "locally sourced"
+            },
+            {
+              "id": "C",
+              "text": "freshly made"
+            },
+            {
+              "id": "D",
+              "text": "convenience"
+            },
+            {
+              "id": "E",
+              "text": "unusual food"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q12",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO explanations for the popularity of street food are given?",
+          "options": [
+            {
+              "id": "A",
+              "text": "low price"
+            },
+            {
+              "id": "B",
+              "text": "locally sourced"
+            },
+            {
+              "id": "C",
+              "text": "freshly made"
+            },
+            {
+              "id": "D",
+              "text": "convenience"
+            },
+            {
+              "id": "E",
+              "text": "unusual food"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q13",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO places are recommended for new street food businesses?",
+          "options": [
+            {
+              "id": "A",
+              "text": "music festivals"
+            },
+            {
+              "id": "B",
+              "text": "food markets"
+            },
+            {
+              "id": "C",
+              "text": "weddings"
+            },
+            {
+              "id": "D",
+              "text": "parties"
+            },
+            {
+              "id": "E",
+              "text": "parks"
+            }
+          ],
+          "answer": [
+            "B",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q14",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO places are recommended for new street food businesses?",
+          "options": [
+            {
+              "id": "A",
+              "text": "music festivals"
+            },
+            {
+              "id": "B",
+              "text": "food markets"
+            },
+            {
+              "id": "C",
+              "text": "weddings"
+            },
+            {
+              "id": "D",
+              "text": "parties"
+            },
+            {
+              "id": "E",
+              "text": "parks"
+            }
+          ],
+          "answer": [
+            "B",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about getting equipment for a street food business?",
+          "options": [
+            {
+              "id": "A",
+              "text": "High quality equipment is a good investment."
+            },
+            {
+              "id": "B",
+              "text": "It’s best to buy second-hand equipment."
+            },
+            {
+              "id": "C",
+              "text": "Renting equipment can be cheap."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What advice is given about creating a product for a street food business?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provide information about the ingredients."
+            },
+            {
+              "id": "B",
+              "text": "It is important to have an original product."
+            },
+            {
+              "id": "C",
+              "text": "The presentation is an important factor."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Thai Basil",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some ingredients were too expensive."
+            },
+            {
+              "id": "B",
+              "text": "The meals took a long time to prepare."
+            },
+            {
+              "id": "C",
+              "text": "They had no money for marketing."
+            },
+            {
+              "id": "D",
+              "text": "It was difficult to get a permit to sell food."
+            },
+            {
+              "id": "E",
+              "text": "A competitor was selling similar food in their area."
+            },
+            {
+              "id": "F",
+              "text": "They worked very long hours."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Basque",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some ingredients were too expensive."
+            },
+            {
+              "id": "B",
+              "text": "The meals took a long time to prepare."
+            },
+            {
+              "id": "C",
+              "text": "They had no money for marketing."
+            },
+            {
+              "id": "D",
+              "text": "It was difficult to get a permit to sell food."
+            },
+            {
+              "id": "E",
+              "text": "A competitor was selling similar food in their area."
+            },
+            {
+              "id": "F",
+              "text": "They worked very long hours."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Lou's kitchen",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some ingredients were too expensive."
+            },
+            {
+              "id": "B",
+              "text": "The meals took a long time to prepare."
+            },
+            {
+              "id": "C",
+              "text": "They had no money for marketing."
+            },
+            {
+              "id": "D",
+              "text": "It was difficult to get a permit to sell food."
+            },
+            {
+              "id": "E",
+              "text": "A competitor was selling similar food in their area."
+            },
+            {
+              "id": "F",
+              "text": "They worked very long hours."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Chip Chop",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some ingredients were too expensive."
+            },
+            {
+              "id": "B",
+              "text": "The meals took a long time to prepare."
+            },
+            {
+              "id": "C",
+              "text": "They had no money for marketing."
+            },
+            {
+              "id": "D",
+              "text": "It was difficult to get a permit to sell food."
+            },
+            {
+              "id": "E",
+              "text": "A competitor was selling similar food in their area."
+            },
+            {
+              "id": "F",
+              "text": "They worked very long hours."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q21",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO points do the speakers make about the terms 'ethical' and 'sustainable' fashion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their definitions keep changing."
+            },
+            {
+              "id": "B",
+              "text": "People think they mean the same thing."
+            },
+            {
+              "id": "C",
+              "text": "The term 'eco-friendly' is preferable."
+            },
+            {
+              "id": "D",
+              "text": "They are often used imprecisely."
+            },
+            {
+              "id": "E",
+              "text": "Companies should avoid using them on clothing labels."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q22",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO points do the speakers make about the terms 'ethical' and 'sustainable' fashion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their definitions keep changing."
+            },
+            {
+              "id": "B",
+              "text": "People think they mean the same thing."
+            },
+            {
+              "id": "C",
+              "text": "The term 'eco-friendly' is preferable."
+            },
+            {
+              "id": "D",
+              "text": "They are often used imprecisely."
+            },
+            {
+              "id": "E",
+              "text": "Companies should avoid using them on clothing labels."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q23",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO claims about wool production do the speakers disagree with?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sheep are generally well-treated."
+            },
+            {
+              "id": "B",
+              "text": "Wool is easy to recycle."
+            },
+            {
+              "id": "C",
+              "text": "Wool is a long-lasting fabric."
+            },
+            {
+              "id": "D",
+              "text": "Wool production involves few chemicals."
+            },
+            {
+              "id": "E",
+              "text": "Sheep do less environmental damage than other livestock."
+            }
+          ],
+          "answer": [
+            "D",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q24",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO claims about wool production do the speakers disagree with?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sheep are generally well-treated."
+            },
+            {
+              "id": "B",
+              "text": "Wool is easy to recycle."
+            },
+            {
+              "id": "C",
+              "text": "Wool is a long-lasting fabric."
+            },
+            {
+              "id": "D",
+              "text": "Wool production involves few chemicals."
+            },
+            {
+              "id": "E",
+              "text": "Sheep do less environmental damage than other livestock."
+            }
+          ],
+          "answer": [
+            "D",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Lyocell",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Cupro",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bamboo",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "EcoVero",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Cork",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Hemp",
+          "options": [
+            {
+              "id": "A",
+              "text": "The production process is fuel efficient."
+            },
+            {
+              "id": "B",
+              "text": "It is the least sustainable of alternative fabrics."
+            },
+            {
+              "id": "C",
+              "text": "Production costs are high."
+            },
+            {
+              "id": "D",
+              "text": "It provides additional health benefits."
+            },
+            {
+              "id": "E",
+              "text": "It is not durable in the long-term."
+            },
+            {
+              "id": "F",
+              "text": "It needs to be produced in a certain way to be sustainable."
+            },
+            {
+              "id": "G",
+              "text": "Chemicals required for production can be reused."
+            },
+            {
+              "id": "H",
+              "text": "This is from a wholly sustainable source."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• introduces a new ______",
+          "answer": "Disease",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• threatens an entire ______",
+          "answer": "Ecosystem",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• accidentally e.g. via people returning from their ______ or on cargo ships",
+          "answer": "Holidays",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• intentionally e.g. for pest control, or as ______",
+          "answer": "Pets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o were introduced to Australia from Hawaii in 1935 to eat a type of insect that was damaging the ______ plantations.",
+          "answer": "Sugar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Rhododendron plants prevent ______ from reaching native plants.",
+          "answer": "Light",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Grey squirrels from N. America reduce sources of food for the UK's native red squirrels and spread a ______ that kills red squirrels.",
+          "answer": "Virus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Monitoring helps us to understand the ______ of invasive species and the impact they have.",
+          "answer": "Behaviour/behavior",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Setting up a national ______ makes it easier to track them.",
+          "answer": "Database",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-207-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Asking the public to ______ and report them helps with monitoring.",
+          "answer": "Photograph",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/207_we.mp3"
+    }
+  ]
+}

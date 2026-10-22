@@ -1,0 +1,460 @@
+{
+  "id": "pte-listening-17",
+  "title": "Listening — Practice Test 17",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-17-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Questions 1-4 ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-17-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Without a TFN, the applicant would be",
+          "options": [
+            {
+              "id": "A",
+              "text": "taxed at a higher rate"
+            },
+            {
+              "id": "B",
+              "text": "unable to work"
+            },
+            {
+              "id": "C",
+              "text": "liable for medicare contributions"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What kind of visa does the applicant have?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a visa granting indefinite stay"
+            },
+            {
+              "id": "B",
+              "text": "a visa with work rights"
+            },
+            {
+              "id": "C",
+              "text": "a student visa"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A TFN is issued ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-17-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Passport:______",
+          "answer": "JGW1100536",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Postal Address1339 ______Hollywell 1517",
+          "answer": "harbor drive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Preferred Contact PersonMartha ______(landlady)",
+          "answer": "pearce",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First Given Name______Maria",
+          "answer": "miss",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Any Other NamesMary = ______",
+          "answer": "first name",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of Brith______/______/______(dd/mm/yy)",
+          "answer": "15/11/1983",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• 'Online Family Norris' blocks ______ and social sites",
+          "answer": "military",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• But still important to watch children and ______ them",
+          "answer": "educate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Children should never use their own name nor give out ______",
+          "answer": "personal information",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Teach teenagers that ______ on the Internet always stay there – and may ruin job prospects",
+          "answer": "postings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Watch out for ______",
+          "answer": "bullying",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Teenagers use internet: to socialize or do ______",
+          "answer": "research/ homework",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "www.mathtutor.comMathematicsPractice and ______All levels",
+          "answer": "compete",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "www.spellcity.comSpelling______Primary school",
+          "answer": "play games",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "www.bee.co/typingTyping______All levels",
+          "answer": "sing (songs)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "www.coolresource.com______Extra practiceMiddle school",
+          "answer": "worksheets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Ted and Cleo's research results will be presented as a",
+          "options": [
+            {
+              "id": "A",
+              "text": "poster"
+            },
+            {
+              "id": "B",
+              "text": "survey"
+            },
+            {
+              "id": "C",
+              "text": "graph"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They will select foreign students",
+          "options": [
+            {
+              "id": "A",
+              "text": "from the language school"
+            },
+            {
+              "id": "B",
+              "text": "from the business school"
+            },
+            {
+              "id": "C",
+              "text": "randomly on campus"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The foreign students will have to",
+          "options": [
+            {
+              "id": "A",
+              "text": "collate the answers"
+            },
+            {
+              "id": "B",
+              "text": "rank the answers"
+            },
+            {
+              "id": "C",
+              "text": "know a lot about the answers."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Provides a ______",
+          "answer": "chance to travel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Helps you ______",
+          "answer": "develop new skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Helps you ______",
+          "answer": "learn about yourself",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Enables you to ______",
+          "answer": "study different subjects",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Improves ______",
+          "answer": "employment opportunities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 29. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-17-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 30. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-17-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1Pitt as a Roman Senator______Elaborate , symbolical portrait of British parliamentarian",
+          "answer": "1768",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "2George Washington1772______of many Washington portraits",
+          "answer": "first (ever)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "3The Peale Family1773Family portrait – shows exuberance & ______",
+          "answer": "warmth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "4The ______1795'trompe l'oeil' style – double portraits of sons – Raphaelle & Titian",
+          "answer": "staircase group",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "5Rachel Weeping1772Wife and dead ______",
+          "answer": "daughter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "6James______Brother James – in darkness but face illuminated",
+          "answer": "1822",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Primarily, Peale was a painter but he was also a politician, scientist and ______ with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that could be used for copying a (38) He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a kind of (39) ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was the best (40) in his museum.",
+          "answer": "inventor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Primarily, Peale was a painter but he was also a politician, scientist and (37) with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that could be used for copying a ______ He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a kind of (39) ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was the best (40) in his museum.",
+          "answer": "manuscript",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Primarily, Peale was a painter but he was also a politician, scientist and (37) with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that could be used for copying a (38) He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a kind of ______ ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was the best (40) in his museum.",
+          "answer": "bicycle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-17-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Primarily, Peale was a painter but he was also a politician, scientist and (37) with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that could be used for copying a (38) He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a kind of (39) ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was the best ______ in his museum.",
+          "answer": "exhibit",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/17_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "id": "pte-gt-reading-3",
+  "title": "General Training Reading — Practice Test 3",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: PERSONAL COMPUTERS AVAILABLE FOR PUBLIC TO USE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-3-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is open for breakfast. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is open every night for dinner. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is only open for lunch on weekdays. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has recently returned to its previous location. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It welcomes families. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It caters for large groups. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It only opens at weekends. NEW ELECTRICITY ACCOUNT PAYMENT FACILITIES AVAILABLE FROM' JULY 1998 After 1 July 1998, you may pay your electricity account in any of the following ways: ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you want a receipt, you should send your payment to the Southport address.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You may pay your account at branches of the Federal Bank.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You must pay the full amount, instalments are not permitted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Coastside Power Office is open on Saturday mornings.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You may pay your account by phone using your credit card.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a reduction for prompt payment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are two computers and two printers available for public use at the library.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can buy floppy disks at the information desk.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The information desk is closed at weekends.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is essential to reserve a computer three days in advance if you want to use one.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you are more than a quarter of an hour late, you could lose your reservation for the computer.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Library employees do not have detailed knowledge of computers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The library runs courses for people who want to learn about computers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "PERSONAL COMPUTERS AVAILABLE FOR PUBLIC TO USE",
+        "text": "• 2 personal computers are available, for a fee of $5.00. There is also an ink jet printer attached to each terminal. The library has a number of commercially available programs for word processing and spreadsheets. • A4 paper can be bought from the desk if you wish to print your work. Alternatively you can bring your own paper. If you wish to store information however, you will need to bring your own floppy disk.\n\nBookings Because of high demand, a maximum of one hour's use per person per day is permitted. Bookings may be made up to three days in advance. Bookings may be made in person at the information desk or by phoning 8673 8901 during normal office hours. If for some reason you cannot keep your appointment, please telephone. If the library is not notified and you are 15 minutes late, your time can be given to someone else. Please sign in the visitors' book at the information desk when you first arrive to use the computer. Please note that staff are not available to train people or give a lot of detailed instruction on how to use the programs. Prior knowledge is, therefore, necessary. However, tutorial groups are available for some of the programs and classes are offered on a regular basis. Please see the loans desk for more information about our computer courses."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: GOOD REASONS FOR CHOOSING ATLAS ENGLISH LANGUAGE COLLEGE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-3-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Recognition of your achievements"
+            },
+            {
+              "id": "ii",
+              "text": "Courses start every week"
+            },
+            {
+              "id": "iii",
+              "text": "Other services/Pastoral care/Personal arrangements"
+            },
+            {
+              "id": "iv",
+              "text": "A personal approach"
+            },
+            {
+              "id": "v",
+              "text": "Two meals every day"
+            },
+            {
+              "id": "vi",
+              "text": "First-class staff"
+            },
+            {
+              "id": "vii",
+              "text": "Up-to-date classroom practice"
+            },
+            {
+              "id": "viii",
+              "text": "Discovering a new language"
+            },
+            {
+              "id": "ix",
+              "text": "Monitored achievement"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "GOOD REASONS FOR CHOOSING ATLAS ENGLISH LANGUAGE COLLEGE",
+        "text": "On an English course with Atlas English Language College, you improve your language skills and make friends from all over the world!\n\n(A) Because Atlas courses start every Monday of the year, there's bound to be one that fits in with your academic, personal or professional commitments. Whatever your level of language ability, from beginner to advanced, you can choose to study for any length of time, from two weeks to a full year. Courses match a range of individual requirements, from intensive examination preparation to short summer programmes. Most courses commence at 9 am and run till 3 pm.\n\n(B) If you take an intensive full-time course, we will help you to select the Special Interest Options which best suit your goals. From then on, our teacher will discuss your work with you on a weekly basis. This means that you should develop the language skills you need – and that you are helped to study at your own pace.\n\n(C) The popularity and success of any language school depend greatly on the quality of the teachers and the methods they employ. All Atlas teachers have specialist qualifications in the teaching of English to foreign students and are all native speakers. We employ only experienced professionals with a proven record of success in the classroom.\n\n(D) Atlas's teaching methodology is constantly revised as more is discovered about the process of learning a new language. Our teachers have access to an extensive range of materials, including the very latest in language teaching technology.\n\n(E) On your first day at school, you will take a test which enables our Director of Studies to place you at the appropriate study level. Your progress will be continuously assessed and, once you have achieved specific linguistic goals, you will move up to a higher level of study.\n\n(F) Every Atlas course fee includes accommodation in carefully selected homestay families. Breakfast and dinner each day are also included, so you need have no concerns about having to look for somewhere to live once you get to the school.\n\n(G) On completion of any Intensive, Examination or Summer course, you will receive the Atlas Course Certificate of Attendance. On completion of a four-week course or longer you will also receive the Atlas Academic Record that reflects your ability in every aspect of the language from conversation to writing. Such a record will allow you to present your linguistic credentials to academic institutions or potential employers around the world."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: ROBOTS AT WORK",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-3-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Robots working together"
+            },
+            {
+              "id": "ii",
+              "text": "Preparing LGVs for take-over"
+            },
+            {
+              "id": "iii",
+              "text": "Looking ahead"
+            },
+            {
+              "id": "iv",
+              "text": "The LGVs' main functions"
+            },
+            {
+              "id": "v",
+              "text": "Split location for newspaper production"
+            },
+            {
+              "id": "vi",
+              "text": "Newspapers superseded by technology"
+            },
+            {
+              "id": "vii",
+              "text": "Getting the newspaper to the printing centre"
+            },
+            {
+              "id": "viii",
+              "text": "Controlling the robots"
+            },
+            {
+              "id": "ix",
+              "text": "Beware of robots!"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The final version of the text is ______ to the printing centre",
+          "answer": "transmitted (NOT sent) (electronically)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The pages are converted into ______",
+          "answer": "(photographic) film/ negative(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– ______ are made for use in printing presses",
+          "answer": "(aluminium) printing plates",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The LGVs are ______ by computer",
+          "answer": "programmed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The LGVs remove the ______ from the reel",
+          "answer": "(tough) wrapping// damaged paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The reel is ______",
+          "answer": "weighed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The reel is trimmed and prepared by ______",
+          "answer": "paster robot(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-3-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The reel is taken to the ______",
+          "answer": "storage area",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "ROBOTS AT WORK",
+        "text": "(A) The newspaper production process has come a long way from the old days when the paper was written, edited, typeset and ultimately printed in one building with the journalists working on the upper floors and the printing presses going on the ground floor. These days the editor, subeditors and journalists who put the paper together are likely to find themselves in a totally different building or maybe even in a different city. This is the situation which now prevails in Sydney. The daily paper is compiled at the editorial headquarters, known as the prepress centre, in the heart of the city, but printed far away in the suburbs at the printing centre. Here human beings are in the minority as much of the work is done by automated machines controlled by computers.\n\n(B) Once the finished newspaper has been created for the next morning's edition, all the pages are transmitted electronically from the prepress centre to the printing centre. The system of transmission is an update on the sophisticated page facsimile system already in use in many other newspapers. An imagesetter at the printing centre delivers the pages as films. Each page takes less than a minute to produce, although for colour pages four versions, once each for black, cyan, magenta and yellow are sent. The pages are then processed into photographic negatives and the film is used to produce aluminium printing plates ready for the presses.\n\n(C) A procession of automated vehicles is busy at the new printing centre where the Sydney Morning Herald is printed each day. With lights flashing and warning horns honking, the robots (to give them their correct name, the LGVs or laser guided vehicles) look for all the world like enthusiastic machines from a science fiction movie, as they follow their own random paths around the plant busily getting on with their jobs. Automation of this kind is now standard in all modern newspaper plants. The robots can detect unauthorised personnel and alert security staff immediately if they find an \"intruder\"; not surprisingly, tall tales are already being told about the machines starting to take on personalities of their own.\n\n(D) The robots' principal job, however, is to shift the newsprint (the printing paper) that arrives at the plant in huge reels and emerges at the other end sometime later as newspapers. Once the size of the day's paper and the publishing order are determined at head office, the information is punched into the computer and the LGVs are programmed to go about their work. The LGVs collect the appropriate size paper reels and take them where they have to go. When the press needs another reel its computer alerts the LGV system. The Sydney LGVs move busily around the press room fulfilling their two key functions to collect reels of newsprint either from the reel stripping stations or from the racked supplies in the newsprint storage area. At the stripping station, the tough wrapping that helps to protect a reel of paper from rough handling is removed. Any damaged paper is peeled off and the reel is then weighed.\n\n(E) Then one of the four paster-robots moves in. Specifically designed for the job, it trims the paper neatly and prepares the reel for the press. If required the reel can be loaded directly onto the press; if not needed immediately, an LGV takes it to the storage area. When the press computer calls for a reel, an LGV takes it to the reel loading area of the presses. It lifts the reel into the loading position and places it in the correct spot with complete accuracy. As each reel is used up, the press drops the heavy cardboard core into a waste bin. When the bin is full, another LGV collects it and deposits the cores into a shredder for recycling.\n\n(F) The LGVs move at walking speed. Should anyone step in front of one or get too close, sensors stop the vehicle until the path is clear. The company has chosen a laser guide function system for the vehicles because, as the project development manager says \"The beauty of it is that if you want to change the routes, you can work out a new route on your computer and lay it down for them to follow\". When an LGV's batteries run low, it will take itself offline and go to the nearest battery maintenance point for replacement batteries. And all this is achieved with absolute minimum human input and a much reduced risk of injury to people working in the printing centres.\n\n(G) The question newspaper workers must now ask, however, is, \"how long will it be before the robots are writing the newspapers as well as running the printing centre, churning out the latest edition every morning?\""
+      }
+    }
+  ]
+}

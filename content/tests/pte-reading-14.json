@@ -1,0 +1,940 @@
+{
+  "id": "pte-reading-14",
+  "title": "Academic Reading — Practice Test 14",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: How much higher? How much faster?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-14-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Modern official athletic records date from about 1900.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There was little improvement in athletic performance before the twentieth century,",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Performance has improved most greatly in events requiring an intensive burst of energy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Improvements in athletic performance can be fully explained by genetics.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The parents of top athletes have often been successful athletes themselves.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The growing international importance of athletics means that gifted athletes can be recognised at a younger age.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to Professor Yessis, American runners are relying for their current success on______",
+          "answer": "genetics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Yessis describes a training approach from the former Soviet Union that aims to develop an athlete's______",
+          "answer": "power",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Yessis links an inadequate diet to______",
+          "answer": "injuries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Yessis claims that the key to setting new records is better______",
+          "answer": "training",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Biomechanics films are proving particularly useful because they enable trainers to",
+          "options": [
+            {
+              "id": "A",
+              "text": "highlight areas for improvement in athletes"
+            },
+            {
+              "id": "B",
+              "text": "assess the fitness levels of athletes"
+            },
+            {
+              "id": "C",
+              "text": "select top athletes"
+            },
+            {
+              "id": "D",
+              "text": "predict the success of athletes"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Biomechanics specialists used theoretical models to",
+          "options": [
+            {
+              "id": "A",
+              "text": "soften the Fosbury flop"
+            },
+            {
+              "id": "B",
+              "text": "create the Fosbury flop"
+            },
+            {
+              "id": "C",
+              "text": "correct the Fosbury flo"
+            },
+            {
+              "id": "D",
+              "text": "explain the Fosbury flop."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "John S. Raglin believes our current knowledge of athletics is",
+          "options": [
+            {
+              "id": "A",
+              "text": "mistaken"
+            },
+            {
+              "id": "B",
+              "text": "basic"
+            },
+            {
+              "id": "C",
+              "text": "diverse"
+            },
+            {
+              "id": "D",
+              "text": "theoretical Cambridge IELTS Test 1 to 17"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "How much higher? How much faster?",
+        "text": "Since the early years of the twentieth century, when the International Athletic Federation began keeping records, there has been a steady improvement in how fast athletes run, how high they jump and how far they are able to hurl massive objects, themselves included, through space. For the so-called power events –that require a relatively brief, explosive release of energy, like the 100-metre sprint and the long jump-times and distances have improved ten to twenty percent. In the endurance events the results have been more dramatic. At the 1908 Olympics, John Hayes of the U.S. team ran to marathon in a time of 2:55:18. In 1999, Morocco's Khalid Khannouchi set a new world record of 2:05:42, almost thirty percent faster. No one theory can explain improvements in performance, but the most important factor has been genetics. 'The athlete must choose his parents carefully,' says Jesus Dapena, a sports scientist at Indiana University, invoking an oft-cited adage. Over the past century, the composition of the human gene pool has not changed appreciably, but with increasing global participation in athletics-and greater rewards to tempt athletes-it is more likely that individuals possessing the unique complement of genes for athletic performance can be identified early. 'Was there someone like [sprinter] Michael Johnson in the 1920s?' Dapena asks. 'I'm sure there was, but his talent was probably never realized.' Identifying genetically talented individuals is only the first step. Michael Yessis, an emeritus professor of Sports Science at California State University at Fullerton, maintains that 'genetics only determines about one third of what an athlete can do. But with the right training we can go much further with that one third than we've been going.' Yesis believes that U.S. runners, despite their impressive achievements, are 'running on their genetics'. By applying more scientific methods, 'they're going to go much faster'. These methods include strength training that duplicates what they are doing in their running events as well as plyometrics, a technique pioneered in the former Soviet Union. Whereas most exercises are designed to build up strength or endurance, plyometrics focuses on increasing power-the rate at which an athlete can expend energy. When a sprinter runs, Yesis explains, her foot stays in contact with the ground for just under a tenth of a second, half of which is devoted to landing and the other half to pushing off. Plyometric exercises help athletes make the best use of this brief interval. Nutrition is another area that sports trainers have failed to address adequately. 'Many athletes are not getting the best nutrition, even though supplements,' Yessis insists. Each activity has its own nutritional needs. Few coaches, for instance, understand how deficiencies in trace minerals can lead to injuries. Focused training will also play a role in enabling records to be broken. 'If we applied the Russian training model to some of the outstanding runners we have in this country,' Yessis asserts, 'they would be breaking records left and right.' He will not predict by how much, however: 'Exactly what the limits are it's hard to say, but there will be increases even if only by hundredths of a second, as long as our training continues to improve.' One of the most important new methodologies is biomechanics, the study of the body in motion. A biomechanic films an athlete in action and then digitizes her performance, recording the motion of every joint and limb in three dimensions. By applying Newton's law to these motions, 'we can say that this athlete's run is not fast enough; that this one is not using his arms strongly enough during take-off,' says Dapena, who uses these methods to help high jumpers. To date, however, biomechanics has made only a small difference to athletic performance. Revolutionary ideas still come from the athletes themselves. For example, during the 1968 Olympics in Mexico City, a relatively unknown high jumper named Dick Fosbury won the gold by going over the bar backwards, in complete contradiction of all the received high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury himself did not know what he was doing. That understanding took the later analysis of biomechanics specialists. Who put their minds to comprehending something that was too complex and unorthodox ever to have been invented through their own mathematical simulations. Fosbury also required another element that lies behind many improvements in athletic performance: an innovation in athletic equipment. In Fosbury's case, it was the cushions that jumpers land on. Traditionally, high jumpers would land in pits filled with sawdust. But by Fosbury's time, sawdust pits had been replaced by soft foam cushions, ideal for flopping. In the end, most people who examine human performance are humbled by the resourcefulness of athletes and the powers of the human body. 'Once you study athletics, you learn that it's a vexingly complex issue,' says John S.Raglin, a sports psychologist at Indiana University. 'Core performance is not a simple or mundane thing of higher, faster, longer. So many variables enter into the equation, and our understanding in many cases is fundamental. We're got a long way to go.' For the foreseeable future, records will be made to be broken."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: The Nature and Aims of Archaeology",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-14-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Archaeology involves creativity as well as investigative work.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Archaeologist must be able to translate texts from ancient languages.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Movies give a realistic picture of the work of archaeologists.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Anthropologist define culture in more than one way.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Archaeology is a more demanding field of study than anthropology.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The history of Europe has been documented since 3,000 BC.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO statements are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is important for government planners"
+            },
+            {
+              "id": "B",
+              "text": "It is a continually growing field of study"
+            },
+            {
+              "id": "C",
+              "text": "It often involves long periods of fieldwork"
+            },
+            {
+              "id": "D",
+              "text": "It is subdivided for study purposes"
+            },
+            {
+              "id": "E",
+              "text": "It studies human evolutionary patterns"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO statements are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is important for government planners"
+            },
+            {
+              "id": "B",
+              "text": "It is a continually growing field of study"
+            },
+            {
+              "id": "C",
+              "text": "It often involves long periods of fieldwork"
+            },
+            {
+              "id": "D",
+              "text": "It is subdivided for study purposes"
+            },
+            {
+              "id": "E",
+              "text": "It studies human evolutionary patterns"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO of these tasks are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "examining ancient waste sites to investigate diet"
+            },
+            {
+              "id": "B",
+              "text": "studying cave art to determine its significance"
+            },
+            {
+              "id": "C",
+              "text": "deducing reasons for the shape of domestic buildings"
+            },
+            {
+              "id": "D",
+              "text": "investigating the way different cultures make and use objects"
+            },
+            {
+              "id": "E",
+              "text": "examining evidence for past climate changes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO of these tasks are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "examining ancient waste sites to investigate diet"
+            },
+            {
+              "id": "B",
+              "text": "studying cave art to determine its significance"
+            },
+            {
+              "id": "C",
+              "text": "deducing reasons for the shape of domestic buildings"
+            },
+            {
+              "id": "D",
+              "text": "investigating the way different cultures make and use objects"
+            },
+            {
+              "id": "E",
+              "text": "examining evidence for past climate changes"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Much of the work of archaeologists can be done using written records, but they find ______ equally valuable. The writer describes archaeology as both a (25) ______ and a (26) ______ However, as archaeologists do not try to influence human behaviour, the writer compares their style of working to that of a (27) ______",
+          "answer": "oral histories",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Much of the work of archaeologists can be done using written records, but they find (24) ______ equally valuable. The writer describes archaeology as both a ______ and a (26) ______ However, as archaeologists do not try to influence human behaviour, the writer compares their style of working to that of a (27) ______",
+          "answer": "humanistic study",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Much of the work of archaeologists can be done using written records, but they find (24) ______ equally valuable. The writer describes archaeology as both a (25) ______ and a ______ However, as archaeologists do not try to influence human behaviour, the writer compares their style of working to that of a (27) ______",
+          "answer": "historical discipline",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Much of the work of archaeologists can be done using written records, but they find (24) ______ equally valuable. The writer describes archaeology as both a (25) ______ and a (26) ______ However, as archaeologists do not try to influence human behaviour, the writer compares their style of working to that of a ______",
+          "answer": "scientist",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The Nature and Aims of Archaeology",
+        "text": "Archaeology is partly the discovery of treasures of the past, partly the work of the scientific analyst, partly the exercise of the creative imagination. It is toiling in the sun on an excavation in the Middle East, it is working with living Inuit in the snows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the painstaking task of interpretation, so that we come to understand what these things mean for the human story. And it is the conservation of the world's cultural heritage against looting and careless harm. Archaeology, then, is both a physical activity out in the field, and an intellectual pursuit in the study or laboratory. That is part of its great attraction. The rich mixture of danger and detective work has also made it the perfect vehicle for fiction writers and film-makers, from Agatha Christie with Murder in Mesopotamia to Stephen Spielberg with Indiana Jones. However far from reality such portrayals are, they capture the essential truth that archaeology is an exciting quest – the quest for knowledge about ourselves and our past. But how does archaeology relate to other disciplines such as anthropology and history that are also concerned with the human story? Is archaeology itself a science? And what are the responsibilities of the archaeologist in today's world? Anthropology, at its broadest, is the study of humanity- our physical characteristics as animals and our unique non-biological characteristics that we call culture. Culture in this sense includes what the anthropologist, Edward Tylor, summarised in 1871 as 'knowledge, beliefs, art, morals, custom and any other capabilities and habits acquired by man as a member of society'. Anthropologists also use the term 'culture' in a more restricted sense when they refer to the 'culture' of a particular society, meaning the non-biological characteristics unique to that society, which distinguish it from other societies. Anthropology is thus a broad discipline – so broad that it is generally broken down into three smaller disciplines: physical anthropology, cultural anthropology and archaeology. Physical anthropology, or biological anthropology as it is called, concerns the study of human biological or physical characteristics and how they evolved. Cultural anthropology – or social anthropology – analyses human culture and society. Two of its branches are ethnography (the study at first hand of individual living cultures) and ethnology (which sets out to compare cultures using ethnographic evidence to derive general principles about human society). Archaeology is the 'past tense of cultural anthropology'. Whereas cultural anthropologists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains – the buildings, tools, and other artefacts that constitute what is known as the material culture left over from former societies. Nevertheless, one of the most important tasks for the archaeologist today is to know how to interpret material culture in human terms. How were those pots used? Why are some dwellings round and others square. Here the methods of archaeology and ethnography overlap. Archaeologists in recent decades have developed 'ethnoarchaeology' where, like ethnographers, they live among contemporary communities, but with the specific purpose of learning how such societies use material culture – how they make their tools and weapons, why they build their settlements where they do, and so on. Moreover, archaeology has a role to play in the field of conservation. Heritage studies constitute a developing field, where it is realised that the world's cultural heritage is a diminishing resource which holds different meanings for different people. If, then, archaeology deals with the past, in what way does it differ from history? In the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of history – where we mean the whole history of humankind from its beginnings over three million years ago. Indeed, for more than ninety-nine percent of that huge span of time, archaeology – the study of past material culture – is the only significant source of information. Conventional historical sources begin only with the introduction of written records around 3,000 BC in western Asia, and much later in most other parts in the world.\n\n(A) commonly drawn distinction is between pre-history, i.e. the period before written records – and history in the narrow sense, meaning the study of the past using written evidence. To archaeology, which studies all cultures and periods, whether with or without writing, the distinction between history and pre-history is a convenient dividing line that recognises the importance of the written word, but in no way lessens the importance of the useful information contained in oral histories. Since the aim of archaeology is the understanding of humankind, it is a humanistic study, and since it deals with the human past, it is a historical discipline. But is differs from the study of written history in a fundamental way. The material the archaeologist finds does not tell us directly what to think. Historical records make statements, offer opinions and pass judgements. The objects the archaeologists discover, on the other hand, tell us nothing directly in themselves. In this respect, the practice of the archaeologist is rather like that of the scientist, who collects data, conducts experiments, formulates a hypothesis tests the hypothesis against more data, and then, in conclusion, devises a model that seems best to summarise the pattern observed in the data. The archaeologist has to develop a picture of the past, just as the scientist has to develop a coherent view of the natural world."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The Problem of Scarce Resources",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-14-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section",
+          "options": [
+            {
+              "id": "i",
+              "text": "The connection between health-care and other human rights"
+            },
+            {
+              "id": "ii",
+              "text": "The development of market-based health systems."
+            },
+            {
+              "id": "iii",
+              "text": "The role of the state in health-care"
+            },
+            {
+              "id": "iv",
+              "text": "A problem shared by every economically developed country"
+            },
+            {
+              "id": "v",
+              "text": "The impact of recent change"
+            },
+            {
+              "id": "vi",
+              "text": "The views of the medical establishment"
+            },
+            {
+              "id": "vii",
+              "text": "The end of an illusion"
+            },
+            {
+              "id": "viii",
+              "text": "Sustainable economic development"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The connection between health-care and other human rights"
+            },
+            {
+              "id": "ii",
+              "text": "The development of market-based health systems."
+            },
+            {
+              "id": "iii",
+              "text": "The role of the state in health-care"
+            },
+            {
+              "id": "iv",
+              "text": "A problem shared by every economically developed country"
+            },
+            {
+              "id": "v",
+              "text": "The impact of recent change"
+            },
+            {
+              "id": "vi",
+              "text": "The views of the medical establishment"
+            },
+            {
+              "id": "vii",
+              "text": "The end of an illusion"
+            },
+            {
+              "id": "viii",
+              "text": "Sustainable economic development"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The connection between health-care and other human rights"
+            },
+            {
+              "id": "ii",
+              "text": "The development of market-based health systems."
+            },
+            {
+              "id": "iii",
+              "text": "The role of the state in health-care"
+            },
+            {
+              "id": "iv",
+              "text": "A problem shared by every economically developed country"
+            },
+            {
+              "id": "v",
+              "text": "The impact of recent change"
+            },
+            {
+              "id": "vi",
+              "text": "The views of the medical establishment"
+            },
+            {
+              "id": "vii",
+              "text": "The end of an illusion"
+            },
+            {
+              "id": "viii",
+              "text": "Sustainable economic development"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The connection between health-care and other human rights"
+            },
+            {
+              "id": "ii",
+              "text": "The development of market-based health systems."
+            },
+            {
+              "id": "iii",
+              "text": "The role of the state in health-care"
+            },
+            {
+              "id": "iv",
+              "text": "A problem shared by every economically developed country"
+            },
+            {
+              "id": "v",
+              "text": "The impact of recent change"
+            },
+            {
+              "id": "vi",
+              "text": "The views of the medical establishment"
+            },
+            {
+              "id": "vii",
+              "text": "The end of an illusion"
+            },
+            {
+              "id": "viii",
+              "text": "Sustainable economic development"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the realisation that the resources of the national health system were limited",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1945 and 1950"
+            },
+            {
+              "id": "B",
+              "text": "between 1950 and 1980"
+            },
+            {
+              "id": "C",
+              "text": "after 1980"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a sharp rise in the cost of health-care.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1945 and 1950"
+            },
+            {
+              "id": "B",
+              "text": "between 1950 and 1980"
+            },
+            {
+              "id": "C",
+              "text": "after 1980"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a belief that all the health-care resources the community needed would be produced by economic growth",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1945 and 1950"
+            },
+            {
+              "id": "B",
+              "text": "between 1950 and 1980"
+            },
+            {
+              "id": "C",
+              "text": "after 1980"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "an acceptance of the role of the state in guaranteeing the provision of health-care.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1945 and 1950"
+            },
+            {
+              "id": "B",
+              "text": "between 1950 and 1980"
+            },
+            {
+              "id": "C",
+              "text": "after 1980"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Personal liberty and independence have never been regarded as directly linked to health-care.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Health-care came to be seen as a right at about the same time that the limits of health-care resources became evident.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "IN OECD countries population changes have had an impact on health-care costs in recent years.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "OECD governments have consistently underestimated the level of health-care provision needed.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-14-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In most economically developed countries the elderly will to make special provision for their health-care in the future.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The Problem of Scarce Resources",
+        "text": "Section A The problem of how health-care resources should be allocated or apportioned, so that they are distributed in both the most just and most efficient way, is not a new one. Every health system in an economically developed society is faced with the need to decide (either formally or informally) what proportion of the community's total resources should be spent on health-care; how resources are to be apportioned; what diseases and disabilities and which forms of treatment are to be given priority; which members of the community are to be given special consideration in respect of their health needs; and which forms of treatment are the most cost-effective.\n\nSection B What is new is that, from the 1950s onwards, there have been certain general changes in outlook about the finitude of resources as a whole and of health-care resources in particular, as well as more specific changes regarding the clientele of health-care resources and the cost to the community of those resources. Thus, in the 1950s and 1960s, there emerged an awareness in Western societies that resources for the provision of fossil fuel energy were finite and exhaustible and that the capacity of nature or the environment to sustain economic development and population was also finite. In other words, we became aware of the obvious fact that there were 'limits to growth'. The new consciousness that there were also severe limits to health-care resources was part of this general revelation of the obvious. Looking back, it now seems quite incredible that in the national health systems that emerged in many countries in the years immediately after the 1939-45 World War, it was assumed without question that all the basic health needs of any community could be satisfied, at least in principle; the 'in visible hand' of economic progress would provide.\n\nSection C However, at exactly the same time as this new realization of the finite character of health-care resources was sinking in, an awareness of a contrary kind was developing in Western societies: that people have a basic right to health-care as a necessary condition of a proper human life. Like education, political and legal processes and institutions, public order, communication, transport and money supply, health-care came to be seen as one of the fundamental social facilities necessary for people to exercise their other rights as autonomous human beings. People are not in a position to exercise personal liberty and to be self-determining if they are poverty-stricken, or deprived of basic education, or do not live within a context of law and order. In the same way, basic health-care is a condition of the exercise of autonomy.\n\nSection D Although the language of 'rights' sometimes leads to confusion, by the late 1970s it was recognized in most societies that people have a right to health-care (though there has been considerable resistance in the United Sates to the idea that there is a formal right to health-care). It is also accepted that this right generates an obligation or duty for the state to ensure that adequate health-care resources are provided out of the public purse. The state has no obligation to provide a health-care system itself, but to ensure that such a system is provided. Put another way, basic health-care is now recognized as a 'public good', rather than a 'private good' that one is expected to buy for oneself. As the 1976 declaration of the World Health Organisation put it: 'The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition'. As has just been remarked, in a liberal society basic health is seen as one of the indispensable conditions for the exercise of personal autonomy.\n\nSection E Just at the time when it became obvious that health-care resources could not possibly meet the demands being made upon them, people were demanding that their fundamental right to health-care be satisfied by the state. The second set of more specific changes that have led to the present concern about the distribution of health-care resources stems from the dramatic rise in health costs in most OECD countries, accompanied by large-scale demographic and social changes which have meant, to take one example, that elderly people are now major (and relatively very expensive) consumers of health-care resources. Thus in OECD countries as a whole, health costs increased from 3.8% of GDP in 1960 to 7% of GDP in 1980, and it has been predicted that the proportion of health costs to GDP will continue to increase. (In the US the current figure is about 12% of GDP, and in Australia about 7.8% of GDP.) As a consequence, during the 1980s a kind of doomsday scenario (analogous to similar doomsday extrapolations about energy needs and fossil fuels or about population increases) was projected by health administrators, economists and politicians. In this scenario, ever-rising health costs were matched against static or declining resources."
+      }
+    }
+  ]
+}

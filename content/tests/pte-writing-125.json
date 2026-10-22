@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-125",
+  "title": "Academic Writing — Practice Test 125",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-125-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The first table below shows changes in the total population of New York City from 1800 to 2000. The second and third tables show changes in the population of the five districts of the city (Manhattan, Brooklyn, Bronx, Queens, Staten Island) over the same period. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at lease 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-125.webp"
+        },
+        {
+          "id": "pte-writing-125-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Access to clean water is a basic human right. Therefore, every home should have a water supply that is provided free of charge. Do you agree or disagree? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at lease 250 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

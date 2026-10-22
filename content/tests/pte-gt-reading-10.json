@@ -1,0 +1,663 @@
+{
+  "id": "pte-gt-reading-10",
+  "title": "General Training Reading — Practice Test 10",
+  "kind": "practice",
+  "description": "2 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Mega Trade Fair at Minerva a Banquet Hall 18, Circular Road, London",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-10-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has an excellent linguistic lab. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has a well-equipped maths lab. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has arrangement for vocational training. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It charges reasonable fees ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is a training centre for some competitive examinations. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It does not have access to internet ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Admission/ Registration here closes the earliest.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Metropolitan High School 34, Link Road, Liverpool Ph. 97725831 (A residential co-educational school) Admission open for all classes up to 10th Session 2009-10 Special features: – highly qualified staff – extensive sports facilities – excellent hostel facilities – horse riding as an adventure sport – computer centre having access to internet – medical care under qualified doctors – well equipped maths lab – nourishing veg and non veg balanced diet Last date: 5 March 2009, Admission Enquiries: 97855128"
+            },
+            {
+              "id": "B",
+              "text": "Apollo Senior Secondary School 89 Somerset Place, Birmingham (A non-residential co-educational school) Registration open for class IX and XI Session 2009-10 Special features: – swimming pool – skating ring – aviation training – co-curricular activities like dancing, music, arts and craft – fully vegetarian balanced diet – pipe band for girls and boys – excellent linguistic lab – training centre for some competitive examinations Last date: 10 March 2009"
+            },
+            {
+              "id": "C",
+              "text": "Cosmopolitan High School 93 Twelfth Square, New Castle, Ph. 97879454 (A residential school for girls) Admission open for all classes up to 10th, Session 2009-10 Special features: – having linkage with three sister institutions – special stress on classical languages – computer centre having access to internet – reasonable fees to suit all economic classes – excellent hostel facilities – well qualified staff – highly qualified doctors to ensure healthcare – fully vegetarian balanced diet – arrangement for vocational training Last date: 12 March 2009"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "10 percent discount on artificial jewellery will be allowed.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rates are negotiable for shopkeepers only.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "No special discount on electronic goods will be allowed.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is arrangement for home delivery.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The fair will be open on Sundays.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Special discount on purchase of toys, books, and stationery items worth below £20 cannot be allowed.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Paragraph B ______",
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Paragraph C ______",
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q16",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Paragraph D ______",
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q17",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Paragraph E ______",
+          "answer": "iv",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Mega Trade Fair at Minerva a Banquet Hall 18, Circular Road, London",
+        "text": "You'll be glad to learn that Imperium Trading Co is holding Mega Trade Fair at Minerva Banquet Hall from 10 October to 30 October. • A discount of 20 per cent will be allowed on most of the items except gold and silver jewellery, crockery and glassware. • Whereas there'll be 10 percent discount on cutlery, crockery and glassware, 5 per cent discount will be permissible on artificial jewellery. • While special discount of 10 per cent on purchase of stationery items, toys and books worth more than £ 20 will be allowed, such concession will not be available on furniture, electronic goods, readymade garments, cosmetics, and handicrafts.\n\nVisit for\n\n• Breath-taking variety\n\n• Excellence & elegance\n\n• Unique quality\n\n• Dirt cheap rates\n\n• Enviable modernity\n\nTiming: 10 am to 10 pm\n\nOpen on Sundays Note : * No bargaining will be allowed.\n\n* Terms are cash. Ph. 97455708"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: the charm of glenwood springs",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-10-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Mere celebration of World Health Days in not enough.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The UN must step in to ensure health for people.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Even some less expensive food items can ensure health.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Exercise is not at all necessary to keep healthy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is the duty of the government to supply free iodised salt to the poor.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People should be discouraged to take skimmed milk as it has no food value.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Drinking a lot of water daily is good for health.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The rich people need no advice as all kinds of food items are available to them.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Expectant mothers should be given special attention in the matter of diet.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Consumption of foods containing less fat but lots of vitamins and minerals is good for health. The centre appeals to all concerned as under: Although the World Health Days are now celebrated all over the world regularly, that's not enough. The governments, the NGOs, the educational institutions and the media the world over, should take specific steps to awake', the people in the matter of health. People should be advised to take a balanced diet. The wealthy should be told about the harmful effects of over-eating and a rich diet. The poor should be told how they can keep healthy even by taking certain kinds of food which are not so expensive but contain lots of vitamins and minerals such as carrots, amla, skimmed milk, guava, leafy vegetables, etc. The importance of the use of iodised salt should be brought home to all. People should also be told about the benefits of drinking a lot of water daily. People should be advised to take regular exercise. They should be told about the ill-effects of drinking, smoking, drug-taking, consumption of fast foods, soft drinks, excessive fat and sugar. Special arrangements for milk, fruit and other nutritious food items for poor children and expectant mothers should be made. Pollution should be brought to the lowest level by taking all necessary steps. Drug-peddlers and adulterators should be given exemplary punishments. The use of toxic chemicals should be banned or regulated. Also arrangements for people's participation in tension-releasing programmes such as yoga, meditation, etc. on a large-scale should be made. Read the passage on the following pages and answer questions 28-40",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Example",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Example",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Example",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Example",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Example",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The route used by Vasco da Gama was used by Cornelius Houtman in______",
+          "answer": "1596",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Besides the charm of its sandy beaches, Bhimli offers the spectacular sight of the flow of the______ river into the Bay of Bengal.",
+          "answer": "Gosthani",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "For its shallow waters Bhimli's beaches are very______ for swimming and water sports.",
+          "answer": "safe",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Bhimli's mythological significance arises out of the belief that was slain______here by one of the Pandava princes. 37. It was in the______ century that the Kalinga rulers got control of the place.",
+          "answer": "bakasura",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "answer": "3rd century",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Dutch got control of Bhimli in the______ century.",
+          "answer": "17th century",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Finally, the British became the owners of Bhimli in exchange for their islands in______",
+          "answer": "Sumatra",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-10-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You get the impression of______ as you sight the coastal coconut trees and mounds of red sand among other things. It is said that when Vasco da Gama landed at Calicut in India, he was stinking. The local Indian chief gave him some common salt besides some other elements and asked him to have a bath and wash his clothes to move the obnoxious smell emanating from his body. The route used by Vasco da Gama was used by an adventurous Dutch navigator, Cornelius Hout man, in 1596, but instead of reaching Calciut, he reached Bhimli, a beach about 25 km for Vishakhapatnam, generally called Vizag. Bhimli, itself a short for Bheemunipatnam, and the stretch from Vizag have a fine motorable road running along the seacoast. The area has all along a hilly terrain on the one side and a vast expanse of golden sand on the other. Bhimli offers a picturesque sight with its sandy beaches located where the Gosthani river flows into the Bay of Bengal. In India beaches such as those of Goa and Chennai, especially the former, are among the internationally famous tourist centres, but, Bhimli deserves to be tried, virtually having not been discovered as a tourist spot by some renowned persons. The place offers a stunning view for all the valid reasons which make a good beach worth-visiting. You can find there coconut trees lining the coast and mounds of red sand interspersed between small fishermen huts and boats as things out of an art movie. You have sea-food there in small stalls selling fresh prawn and pomfret dishes all around the beach. Walking there is a retreat and bathing there is fun and then, above all, Bhimli has one of the safest beaches for swimming and water sports as water there is shallow. Though it is a small place, you can get there coconut, fruits, plastic buckets, nylon ropes, vegetables and all other necessary things. If you go after mythology and history, Bhimli has both. It is said that it was here that the Pandava prince Bhima slew Bakasura. Hence, the name of the place, Bhimli. The place passed hands from the early rulers to the Kalinga Empire in the 3rd century, then to Pallavas of Kanchi and then to Cholas of Tanjore, from whom it passed on to the Qutubshas of Golconda and later to the Dutch in the 17th century. The Dutch made it their settlement for trade and set up a port there. The Dutch had to bring several ships here and they could capture the place only after fighting pitched battles with locals. Then the port traded in tropical fruits, birds, animals, cloth diamonds, emerald and other items.' Later, the discovery of iron ore around Bhimli made the Duch to realize the hold over Bhimli to be even more meaningful. Then, besides iron ore, cotton fabric woven by the artisans of Bhimli was traded at the port town. Later by the middle of the 18th century, the British had wrested many of the Dutch settlements in India. Accordingly, the Dutch gave up their colonies in India, including Bhimli, to the British in exchange for, the British islands in Sumatra. Once a flourishing seaport, today Bhimli is reduced to just a small village of fishermen. Its beaches especially call for a serious attention from lovers of vast sandy expanses on sea–coasts and safe swimming and water sports.",
+          "answer": "an art movie",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "the charm of glenwood springs",
+        "text": "(A) If you find world's one of the most famous skiing sites, Aspen, to be highly expensive, you can opt for the Glenwood Springs in Colorodo US , just 65 km away. You can reach this place by road or rail as both options are available. Then there are about 14 direct air services but the three airports in Eagle County, Aspen and Grand Junction are about 50, 65 and 145 km respectively from here.\n\n(B) To be more adventurous or enterprising, you can go from Denver through Vail, another ski destination on the most eco- friendly highway called 1-70. This way, you'll cover about 250 km. Before you reach Glenwood Springs, you'll have an exciting experience when you wade through a serpentine mountainous tract which is said to be one of the tentacles of the awe-. inspiring, huge red rock, the Grand Canyon.\n\n(C) The name Glenwood Springs was given to the place by Sarah Cooper, wife of one of the town's founding fathers, Issac Cooper. Before this the town was discovered as a gold mine. It is situated at the confluence of Roaring Park and Colorodo rivers and was known as 'Defiance\". Earlier the tourists were attracted only towards the 'Fairy Caves' with grottos and layrinthine ducts. The place became famous for its curative hot water springs only when in the late 1800s Walter Devereaux and his brothers created here the world's largest hot water pool which was dotted with nearly three score such springs.\n\n(D) Among the people who visit this place are skiiers, rafters, hikers, mountain bikers, hunters, fishermen, snowmobilers and of course 'yampah' tasters. 'Yampah' means 'big medicine'. Such is attraction for the hot springs that the pool remains full to capacity even in rain and snow. The water is captured at 122°F and then toned down to 93 to 104 F. There are two pools with temperatures slightly different from each other. There are continental eateries all around besides the typically American ones. Then the accommodation here is fairly cheap being about one-fourth of that in Aspen.\n\n(E) Glenwood Springs is situated at the height of 5700 feet, but the average altitude of the mountains around reaches up to 13000 feet. If you stand on the rooftop of a high building, you can have a view of fascinating sights all around. On the western side you can have a captivating view of the Red Mountain. On the east you can see the famous Cavern Adventure Park which can he approached by a cable car. If you go there, you'll be happy to find there the world's first Alpine coaster sliding through the downhill park with a speed of about 80 km per hour. On the southern side you'll find the famous ski destination called Sunlight Mountain Resort offering snowmobiling and ice-skating. If you take a view from the park of the Roaring Fork Valley, you'll feel the marvel of a sight. Here you'll find America's world famous Amtrak railhead which can enable you to reach the historical downtown on to the Hot Springs pool. About a 20 km stretch of the Roaring Fork River has been declared the Gold Medal River where you're allowed to fish to lay your hands on the best of trout and here at some place you can bring your pets also if you like."
+      }
+    }
+  ]
+}

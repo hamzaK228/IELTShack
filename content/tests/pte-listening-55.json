@@ -1,0 +1,494 @@
+{
+  "id": "pte-listening-55",
+  "title": "Listening — Practice Test 55",
+  "kind": "practice",
+  "description": "One recording, 29 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-55-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: Tim ______",
+          "answer": "Lafferty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address to be collected from: ______ University,",
+          "answer": "Abbeyfield",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Postcode: ______",
+          "answer": "BR89P3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Size of container: length – 2.3 m, width – ______ , depth – (5)",
+          "answer": "1.25 m",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Size of container: length – 2.3 m, width – (4) , depth – ______",
+          "answer": "1.20 m",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contents books: ______ and (7)",
+          "answer": "music albums",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contents books: (6) and ______",
+          "answer": "stationery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Total estimated value: ______",
+          "answer": "£3,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the minimum recommended cover by the agency?",
+          "options": [
+            {
+              "id": "A",
+              "text": "premium"
+            },
+            {
+              "id": "B",
+              "text": "standard"
+            },
+            {
+              "id": "C",
+              "text": "economy"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where does the customer want the goods delivered?",
+          "options": [
+            {
+              "id": "A",
+              "text": "port"
+            },
+            {
+              "id": "B",
+              "text": "home"
+            },
+            {
+              "id": "C",
+              "text": "business"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "gift shop ______",
+          "answer": "gift shop",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "art gallery ______",
+          "answer": "art gallery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "main exhibition centre ______",
+          "answer": "main exhibition centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "D theatre ______",
+          "answer": "3D theatre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "modern art studio ______",
+          "answer": "modern art studio",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Aquarium ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-55-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Solheim country club ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-55-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Milltown winery ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-55-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The zoological gardens ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-55-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The stout brewery",
+          "options": [
+            {
+              "id": "A",
+              "text": "They will definitely go there"
+            },
+            {
+              "id": "B",
+              "text": "They might go there if time allows"
+            },
+            {
+              "id": "C",
+              "text": "They certainly won’t go there"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gyroscopes are used in laser devices and are found in many consumer ______ The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the (23) and wrist together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. The product could also be aimed at (25) for whom lower arm strength is very important.",
+          "answer": "appliances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gyroscopes are used in laser devices and are found in many consumer (21) The purpose of the project is to design a functional, ______ and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the (23) and wrist together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. The product could also be aimed at (25) for whom lower arm strength is very important.",
+          "answer": "practical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gyroscopes are used in laser devices and are found in many consumer (21) The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the ______ and wrist together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. The product could also be aimed at (25) for whom lower arm strength is very important.",
+          "answer": "lower arm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gyroscopes are used in laser devices and are found in many consumer (21) The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the (23) and wrist together in sync. The gyroscopic ball could help people in ______ who have lower are injuries. The product could also be aimed at (25) for whom lower arm strength is very important.",
+          "answer": "rehabilitation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gyroscopes are used in laser devices and are found in many consumer (21) The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the (23) and wrist together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. The product could also be aimed at ______ for whom lower arm strength is very important.",
+          "answer": "high performance athletes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Estimated cost£ 3,000______",
+          "answer": "£1500",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of weeks______6",
+          "answer": "2",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "number of test subjects______",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "recovery patients ______",
+          "answer": "5 recovery patients",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "gym members ______",
+          "answer": "gym members",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Speakers have to know",
+          "options": [
+            {
+              "id": "A",
+              "text": "their material"
+            },
+            {
+              "id": "B",
+              "text": "their audience"
+            },
+            {
+              "id": "C",
+              "text": "their limitations"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Experienced speakers",
+          "options": [
+            {
+              "id": "A",
+              "text": "always try to wing it"
+            },
+            {
+              "id": "B",
+              "text": "never arrive unprepared"
+            },
+            {
+              "id": "C",
+              "text": "give the best presentations"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "You should always rehearse",
+          "options": [
+            {
+              "id": "A",
+              "text": "with friends who can advise you"
+            },
+            {
+              "id": "B",
+              "text": "with all the equipment you plan on using"
+            },
+            {
+              "id": "C",
+              "text": "more than once"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "It is a good idea to",
+          "options": [
+            {
+              "id": "A",
+              "text": "be discreet with you audience"
+            },
+            {
+              "id": "B",
+              "text": "meet your fans"
+            },
+            {
+              "id": "C",
+              "text": "meet and welcome your audience"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Taking a few deep breaths before you begin",
+          "options": [
+            {
+              "id": "A",
+              "text": "will stop you having a panic attack"
+            },
+            {
+              "id": "B",
+              "text": "will guarantee that you feel more relaxed"
+            },
+            {
+              "id": "C",
+              "text": "will help turn your tension into enthusiasm"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Try to ______ yourself making a speech and imagine your voice loud and confident",
+          "answer": "visualise",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Even if you make mistakes avoid making ______",
+          "answer": "apologies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Pay attention to your ______ your words carry less meaning than your delivery",
+          "answer": "body language",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• People usually remember less than ______ of what they hear",
+          "answer": "25%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-55-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Be ______ about yourself; You don't become a perfect speaker overnight",
+          "answer": "realistic",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/55_we.mp3"
+    }
+  ]
+}

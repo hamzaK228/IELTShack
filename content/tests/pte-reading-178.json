@@ -1,0 +1,1076 @@
+{
+  "id": "pte-reading-178",
+  "title": "Academic Reading — Practice Test 178",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Climate Change: Instant Expert",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-178-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The effects of global warming on animals.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The ways in which ordinary people can see the global climate is changing.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The science behind global warming.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Possible solutions to global warming.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wars could be fought over reduced ______",
+          "answer": "water resources",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Certain pollutants actually protect us from ______",
+          "answer": "global warming",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "countries were not required to make cuts in emissions under the Kyoto Protocol. ______",
+          "answer": "developing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Algal blooms feed on ______",
+          "answer": "iron",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Volcanoes can influence the global climate.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Billions of people live near the sea.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Peat bogs never release CO2.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Improving energy efficiency can be done quickly.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Burying greenhouse gases under the sea is not possible.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Climate Change: Instant Expert",
+        "text": "(A) Climate change is with us. A decade ago, it was conjecture. Now the future is unfolding before our eyes. Canada's Inuit see it in disappearing Arctic ice and permafrost. The shantytown dwellers of Latin America and Southern Asia see it in lethal storms and floods. Europeans see it in disappearing glaciers, forest fires and fatal heat waves. Scientists see it in tree rings, ancient coral and bubbles trapped in ice cores. These reveal that the world has not been as warm as it is now for a millennium or more. The three warmest years on record have all occurred since 1998; 19 of the warmest 20 since 1980. And Earth has probably never warmed as fast as in the past 30 years–a period when natural influences on global temperatures, such as solar cycles and volcanoes should have cooled us down.\n\n(B) Climatologists reporting for the UN Intergovernmental Panel on Climate Change (IPCC) say we are seeing global warming caused by human activities. People are causing the change by burning nature's vast stores of coal, oil and natural gas. This releases billions of tonnes of carbon dioxide (CO2) every year, although the changes may actually have started with the dawn of agriculture, say some scientists. The physics of the \"greenhouse effect\" has been a matter of scientific fact for a century. CO2 is a greenhouse gas that traps the Sun's radiation within the troposphere, the lower atmosphere. It has accumulated along with other manmade greenhouse gases, such as methane and chlorofluorocarbons (CFCs). Some studies suggest that cosmic rays may also be involved in warming.\n\n(C) If current trends continue, we will raise atmospheric CO2concentrations to double pre-industrial levels during this century. That will probably be enough to raise global temperatures by around 2℃ to 5℃. Some warming is certain, but the degree will be determined by cycles involving melting ice, the oceans, water vapour, clouds and changes to vegetation. Warming is bringing other unpredictable changes. Melting glaciers and precipitation are causing some rivers to overflow, while evaporation is emptying others. Diseases are spreading. Some crops grow faster while others see yields slashed by disease and drought. Clashes over dwindling water resources may cause conflicts in many regions.\n\n(D) As natural ecosystems – such as coral reefs – are disrupted, biodiversity is reduced. Most species cannot migrate fast enough to keep up, though others are already evolving in response to warming. Thermal expansion of the oceans, combined with melting ice on land, is also raising sea levels. In this century, human activity could trigger an irreversible melting of the Greenland ice sheet. This would condemn the world to a rise in sea level of six metres – enough to flood land occupied by billions of people.\n\n(E) The global warming would be more pronounced if it were not for sulphur particles and other pollutants that shade us, and because forests and oceans absorb around half of the CO2 we produce. But the accumulation rate of atmospheric CO2 has doubled since 2001, suggesting that nature's ability to absorb the gas could now be stretched to the limit. Recent research suggests that natural CO2 \"sinks\", like peat bogs and forests, are actually starting to release CO2.\n\n(F) At the Earth Summit in 1992, the world agreed to prevent \"dangerous\" climate change. The first step was the 1997 Kyoto Protocol, which came into force during 2005. It will bring modest emission reductions from industrialised countries. Many observers say deeper cuts are needed and developing nations, which have large and growing populations, will one day have to join in. Some, including the US Bush administration, say the scientific uncertainty over the pace of climate change is grounds for delaying action. The US and Australia have reneged on Kyoto. Most scientists believe we are under-estimating the dangers.\n\n(G) In any case, according to the IPCC, the world needs to quickly improve the efficiency of its energy usage and develop renewable non-carbon fuels like: wind, solar, tidal, wave and perhaps nuclear power. It also means developing new methods of converting this clean energy into motive power, like hydrogen fuel cells for cars. Other less conventional solutions include ideas to stave off warming by \"mega-engineering\" the planet with giant mirrors to deflect the Sun's rays, seeding the oceans with iron to generate algal blooms, or burying greenhouse gases below the sea. The bottom line is that we will need to cut CO2 emissions by 70% to 80% simply to stabilise atmospheric CO2 concentrations–and thus temperatures. The quicker we do that, the less unbearably hot our future world will be."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Britain's canals – the solution to overcrowded roads?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-178-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Olympic transport",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The decline of British canals",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Modern leisure uses",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Energy efficient",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q18",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "canals were important in the industrial revolution in britain"
+            },
+            {
+              "id": "B",
+              "text": "the use of canals in Europe is expected to grow by a third over the next ten years"
+            },
+            {
+              "id": "C",
+              "text": "Britain was the only European country to let its canal decline"
+            },
+            {
+              "id": "D",
+              "text": "Canals in Britain have become a focus for city centre renewal"
+            },
+            {
+              "id": "E",
+              "text": "barges are less polluting that lorries"
+            },
+            {
+              "id": "F",
+              "text": "in London most waste is transported on canals"
+            },
+            {
+              "id": "G",
+              "text": "the amount of waste that can be taken to the Powerday plant by road is limited"
+            },
+            {
+              "id": "H",
+              "text": "canals will not become a major form of transport in the world"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q19",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "canals were important in the industrial revolution in britain"
+            },
+            {
+              "id": "B",
+              "text": "the use of canals in Europe is expected to grow by a third over the next ten years"
+            },
+            {
+              "id": "C",
+              "text": "Britain was the only European country to let its canal decline"
+            },
+            {
+              "id": "D",
+              "text": "Canals in Britain have become a focus for city centre renewal"
+            },
+            {
+              "id": "E",
+              "text": "barges are less polluting that lorries"
+            },
+            {
+              "id": "F",
+              "text": "in London most waste is transported on canals"
+            },
+            {
+              "id": "G",
+              "text": "the amount of waste that can be taken to the Powerday plant by road is limited"
+            },
+            {
+              "id": "H",
+              "text": "canals will not become a major form of transport in the world"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q20",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "canals were important in the industrial revolution in britain"
+            },
+            {
+              "id": "B",
+              "text": "the use of canals in Europe is expected to grow by a third over the next ten years"
+            },
+            {
+              "id": "C",
+              "text": "Britain was the only European country to let its canal decline"
+            },
+            {
+              "id": "D",
+              "text": "Canals in Britain have become a focus for city centre renewal"
+            },
+            {
+              "id": "E",
+              "text": "barges are less polluting that lorries"
+            },
+            {
+              "id": "F",
+              "text": "in London most waste is transported on canals"
+            },
+            {
+              "id": "G",
+              "text": "the amount of waste that can be taken to the Powerday plant by road is limited"
+            },
+            {
+              "id": "H",
+              "text": "canals will not become a major form of transport in the world"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q21",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "canals were important in the industrial revolution in britain"
+            },
+            {
+              "id": "B",
+              "text": "the use of canals in Europe is expected to grow by a third over the next ten years"
+            },
+            {
+              "id": "C",
+              "text": "Britain was the only European country to let its canal decline"
+            },
+            {
+              "id": "D",
+              "text": "Canals in Britain have become a focus for city centre renewal"
+            },
+            {
+              "id": "E",
+              "text": "barges are less polluting that lorries"
+            },
+            {
+              "id": "F",
+              "text": "in London most waste is transported on canals"
+            },
+            {
+              "id": "G",
+              "text": "the amount of waste that can be taken to the Powerday plant by road is limited"
+            },
+            {
+              "id": "H",
+              "text": "canals will not become a major form of transport in the world"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q22",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "canals were important in the industrial revolution in britain"
+            },
+            {
+              "id": "B",
+              "text": "the use of canals in Europe is expected to grow by a third over the next ten years"
+            },
+            {
+              "id": "C",
+              "text": "Britain was the only European country to let its canal decline"
+            },
+            {
+              "id": "D",
+              "text": "Canals in Britain have become a focus for city centre renewal"
+            },
+            {
+              "id": "E",
+              "text": "barges are less polluting that lorries"
+            },
+            {
+              "id": "F",
+              "text": "in London most waste is transported on canals"
+            },
+            {
+              "id": "G",
+              "text": "the amount of waste that can be taken to the Powerday plant by road is limited"
+            },
+            {
+              "id": "H",
+              "text": "canals will not become a major form of transport in the world"
+            }
+          ],
+          "answer": [
+            "A",
+            "D",
+            "E",
+            "G",
+            "H"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Canals will require",
+          "options": [
+            {
+              "id": "A",
+              "text": "relatively little investment."
+            },
+            {
+              "id": "B",
+              "text": "considerable investment."
+            },
+            {
+              "id": "C",
+              "text": "investment equal to 1% of Europe’s transport budget."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The European canal network",
+          "options": [
+            {
+              "id": "A",
+              "text": "transported most of Europe’s goods for 60 years."
+            },
+            {
+              "id": "B",
+              "text": "was built mostly about 150 years ago."
+            },
+            {
+              "id": "C",
+              "text": "has actually been expanded in some countries over the last hundred years."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Suitable products for transportation by canal include",
+          "options": [
+            {
+              "id": "A",
+              "text": "fresh fruit and vegetables."
+            },
+            {
+              "id": "B",
+              "text": "fuel"
+            },
+            {
+              "id": "C",
+              "text": "cereal"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How much waste can Powerday recycling plant treat in one year?",
+          "options": [
+            {
+              "id": "A",
+              "text": "1.5 million tons"
+            },
+            {
+              "id": "B",
+              "text": "500 tons"
+            },
+            {
+              "id": "C",
+              "text": "15 million tons"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Britain's canals – the solution to overcrowded roads?",
+        "text": "(A) It's hard to imagine that only a decade or so ago many of the nation's canals were little more than the last resting place for abandoned shopping trolleys. There's still work to be done, but their transformation has been remarkable. Projects such as Castlefield in Manchester and Brindley Place in Birmingham have transformed city-centre canals from stagnant reminders of a fading industrial past to the epitome of urban cool. However, 21st-century priorities dictate that the rehabilitation of this 18th-century motorway system cannot stop there. Canals and navigable rivers form a major transport network, in need of only piecemeal investment, and with the spare capacity to take away the need for hundreds of thousands of lorry journeys. In the second half of the 18th century, canals drove the industrial revolution. Today, authorities want them to drive congestion off the roads. Last month, for example, the European Commission proposed a seven-year plan to shift large amounts of freight from roads to inland waterways.\n\n(B) Europe's enthusiasm comes as no surprise. Freight traffic is expected to grow by a third in the next decade. The cost of pollution and congestion is set to swallow one per cent of Europe's entire GDP by 2010. \"With a fleet of 11000 vessels and a capacity equalling 10000 trains or 440000 trucks, inland waterways can make transport in Europe more efficient, reliable and environmental friendly,\" says Jacques Barrot, vice-president of the European Commission in charge of transport. \"Europe cannot afford to leave that potential untapped.\"\n\n(C) Mainland Europe has never, in fairness, left it completely untapped. The canals of the low countries and the rivers of central and eastern Europe buzzed with the sound of freight barges long after British industry had thrown in its lot with railways and roads. Attempts to revive freight on British canals have been hampered by the fact that their heyday lasted barely 60 years, and they were first considered obsolete 150 years ago. For much of the intervening period, many have simply been left to rot. \"Our network was in decline for a long time compared to much of Europe,\" says Eugene Baston of British Waterways. \"Whereas other countries developed road and rail transport but carried on using their waterways as well, our canals were neglected. In fact many European countries actually enlarged their canals 100 years ago.\"\n\n(D) That decline in Britain has been reversed, first by leisure seekers and more recently by industry. Boaters, anglers, walkers and cyclists now benefit from around 4000 miles of navigable waterways and the paths and trails that run alongside them. Waterside living is fashionable, and city-centre canals have been a focus for urban renewal, And, despite our obsession with road transport, environmental considerations are forcing government and business to mm the clock back 200 years and–at least in a minor way–get our waterways working again.\n\n(E) In fact, industrial goods such as coal, steel, aggregates and petroleum have never completely disappeared from large rivers and designated commercial waterways. Barges on the river Severn have recently started carrying the equivalent of 34000 lorry loads of aggregates each year, the first freight traffic on the river for a decade. British Waterways, which owns about half of the country's navigable inland waterways, carded the equivalent of 64000 25-ton lorry loads of freight in 2004. The organisation says these figures are certain to increase as new schemes start, and environmentalists hope they will. Carrying freight by water uses about a quarter of the energy of an equivalent road journey. In comparison to lorries, barges produce low emissions, low noise and are visually unobtrusive. \"We think that anything that can take freight off the roads needs to be fully explored,\" says Tony Bosworth, transport campaigner for Friends of the Earth. \"Canals can do that. They can help cut the pollution that causes climate change.\"\n\n(F) There is a limit to what canals can carry. The slow pace of water travel does not fit well with the limited shelf-life of fresh produce. If supermarkets won't trust their cherry tomatoes to water, they might trust the waste paper and plastic that protects them. Many of the proposals to utilise Britain's waterways are based around waste management and recycling schemes. For example, a pilot scheme in Hackney, east London, has seen municipal waste collected by truck and transferred to barge for transportation to a reprocessing plant. In the future, the scheme could remove 300000 dustcart miles from the borough's streets every year. Current arrangements could be just the tip of the iceberg.\n\n(G) Planning permission has been given for a Powerday recycling plant at Willesden Junction, a site that sits on the intersection of road, rail and canal networks. \"The plant will have the capacity to handle a million and a half tons of waste every year, but the amount carried by road will be capped at 500000 tons,\" says Ed Fox of British Waterways London. \"If they want to grow the business, they will have to work with us.\" Fox says getting freight back on the canals has been \"a nice idea\" for 50 years, but until recently little more than an idea. \"The Powerday project, on the other hand, is proof of what really can be done.\"\n\n(H) Though details have yet to be decided, British Waterways believes the most appropriate way to transport some of the building materials destined for London's giant Olympic construction project is by the network of waterways that links the Thames and east London. The Olympic Delivery Authority says: \"It's being looked at and the final solution could well involve some transportation by water. What exactly we do will be based on a range of factors, but one of those will be sustainability.\" Their gentle pace will always make canals a niche player in a busy world, but after 200 years of neglect, the tide is starting to turn."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Are You Being Served?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-178-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "\"The world's factory\" refers to",
+          "options": [
+            {
+              "id": "A",
+              "text": "the total mount of goods produced in the world."
+            },
+            {
+              "id": "B",
+              "text": "China."
+            },
+            {
+              "id": "C",
+              "text": "the United States."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It is not easy to measure the finances of",
+          "options": [
+            {
+              "id": "A",
+              "text": "large state-owned companies."
+            },
+            {
+              "id": "B",
+              "text": "foreign companies."
+            },
+            {
+              "id": "C",
+              "text": "numerous small companies."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Real estate has helped increase the size of the service economy because",
+          "options": [
+            {
+              "id": "A",
+              "text": "real estate is a service industry."
+            },
+            {
+              "id": "B",
+              "text": "it involves a lot of investment from abroad."
+            },
+            {
+              "id": "C",
+              "text": "developing real estate requires services."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The largest portion of household spending in China goes towards",
+          "options": [
+            {
+              "id": "A",
+              "text": "education."
+            },
+            {
+              "id": "B",
+              "text": "accommodation."
+            },
+            {
+              "id": "C",
+              "text": "travel."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "China is not really a rival to India in the role of an ______",
+          "answer": "outsourcing hub",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most tourism in China is ______",
+          "answer": "domestic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many transactions in the real estate and leisure industries are in cash and that leads to ______",
+          "answer": "tax-dodging",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most private business in China is ______in the service sector.",
+          "answer": "concentrated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "China has brought far less ______into services, slowing development of that sector.",
+          "answer": "foreign direct investment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Officially, the largest sector in China is the service sector.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some of the newly-discovered GDP comes from the education sector.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dalian is a successful outsourcing center for Japan and Korea.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "As visa restrictions are lowered, Chinese people are expected to spend more than＄300 billion on tourism.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-178-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "China's services sector is about the same size as Japan's and South Korea's.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Are You Being Served?",
+        "text": "The world's factory, it turns out, has a sizeable canteen attached, not to mention an office block and shopping mall. Last month's official revision of China's gross domestic product revealed an economy worth 16 trillion yuan (＄1.9 trillion) in 2004, 17% more than previously thought. Some ＄265 billion of the increase – 93% of it – was ascribed to the services sector. As a result, services' share of the economy has jumped by nine percentage points, to 41%, compared with 46% for manufacturing and 13% for primary industries (mainly agriculture and mining). Where has all this extra activity come from? The bulk of it is obvious to any traveller in China. As people grow wealthier, they want more restaurants and bars, clothes stores, car dealerships, bookshops, private hospitals, English language classes and beauty salons. In many of these businesses, however, turnover and profits have not previously been captured by a statistical system geared to measuring factory production. The small, often private, companies that dominate these areas have also often been at pains to escape notice – and therefore taxes. Li Deshui, commissioner of China's National Bureau of Statistics, confirms that most of the newly unearthed GDP comes from three categories. The first is wholesale, retail and catering; the second, transport, storage, post and telecommunications. While postal and telecoms services are still state-controlled and thus readily measured, more than a million small tracking and removal companies are not. The third activity is real estate, booming particularly in the coastal cities and increasingly inland too, leading to an influx of private money – not least from overseas speculators. Property development has, in turn, boosted demand for architects, decorators, do-it-yourself stores and other building services. There is more to China's services boom than dishing up stir-fries, shipping boxes and fitting out apartments. Recent years have seen a surge in media and technology services, including the internet; in financial services such as leasing; and in education and leisure. In a small way, for example, China is starting to rival India as an outsourcing hub: less for call-centres that require excellent English than for such tasks as preparing reports and patent filings. In October Microsoft took a stake in a Chinese software firm in Dalian, a city in north-east China with a thriving outsourcing industry preparing tax returns and software for companies from Japan and South Korea. China's rapid economic growth is fuelling demand for accountants, lawyers, bankers and all manner of consultants, as Chinese companies expand and restructure. Specialists in marketing, advertising and public relations advise on the relatively new area of marketing products and developing brands. The new wealth has other consequences, too. China now has nearly a million security guards. It can offer its new rich everything from cosmetic surgeons to pet salons. Meanwhile, a huge new market is opening up for private education–fuelled by the combination of a poor public system, the preoccupation of middle-class parents with giving their (often) only child the best chances, and demand from business. Chinese families spend more on education than on anything except housing – the market for courses, books and materials more than doubled from 2002 levels, to ＄90 billion in 2005. Richer households have also caused a tourism boom, which is still chiefly domestic, though more mainlanders are venturing overseas as visa restrictions are lifted. The World Travel & Tourism Council predicts that China's annual tourism market will more than triple to ＄300 billion within a decade. China's services sector, on this basis, is well-developed and roughly as large as those of Japan and South Korea were at a similar stage of development, notes the HSBC bank. In reality, it is bigger still, since the GDP revision cannot capture activities such as kerbside lending and tax-dodging cash transactions in property or entertainment–all of which Dong Tao, chief Asia economist at CSFB, another bank, reckons add another ＄220 billion to the economy. Even so, the 41% of GDP claimed by services in China remains below the 60-75% typical in developed countries. It is smaller even than India's 52%. One reason for this is a bias towards manufacturing–\"China's 'real-men-make-stuff' attitude,\" as Gordon Orr of McKinsey's Shanghai office puts it. This has led to a plethora of ill-thought-through regulations for services, made worse by China's continuing suspicion of private business, which is mostly concentrated in the services sector. The lack of a national trucking licence, for example, means hauliers must get approval from each province to move goods across the country and unload them on to different trucks at each border–delaying delivery and increasing spoilage and pilfering. In retailing, local governments often maintain inefficient supply chains, in part to protect local jobs. David Wei, head of B&Q in China, says his 48 do-it-yourself stores on the mainland are served by 1800 suppliers, compared with 600 suppliers in Britain for more than 300 stores. Worse, though China took an early decision to invite foreign direct investment into manufacturing, it has been reluctant to open up services. Diana Farrell, director of the McKinsey Global Institute, the consultancy's think-tank, argues that allowing more foreign investment in services could bring not just capital and technology but a competitive dynamic. The presence of Carrefour and Wal-Mart has led to domestic copycats, creating innovation and productivity growth."
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-25",
+  "title": "General Training Writing — Letter 25",
+  "kind": "practice",
+  "description": "Task 1 letter, 25 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-25-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You live in a room in college which you share with another student. You find it very difficult to work there because he or she always has friends visiting. They have parties in the room and sometimes borrow your things without asking you.\nWrite a letter to the Accommodation Officer at the college and ask for a new room next term. You would prefer a single room. Explain your reasons.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

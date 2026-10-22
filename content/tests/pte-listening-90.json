@@ -1,0 +1,722 @@
+{
+  "id": "pte-listening-90",
+  "title": "Listening — Practice Test 90",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-90-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In town centre, starting at ______",
+          "answer": "2.45",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A ______ will perform",
+          "answer": "band",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Performance of a ______ about Hele Tungate (a (4) )",
+          "answer": "play",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Performance of a (3) about Hele Tungate (a ______ )",
+          "answer": "scientist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Evening fireworks display situated across the ______",
+          "answer": "river",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Videos about relationships that children have with their ______",
+          "answer": "grandparents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Venue: ______ House",
+          "answer": "handsworth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Performance of ______ dances",
+          "answer": "traditional",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Venue: the ______ market in the town centre",
+          "answer": "outdoor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Tickets available online from festival box office and from shops which have the festival ______ in their windows",
+          "answer": "logo",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When the group meet at the airport they will have",
+          "options": [
+            {
+              "id": "A",
+              "text": "breakfast"
+            },
+            {
+              "id": "B",
+              "text": "coffee"
+            },
+            {
+              "id": "C",
+              "text": "lunch"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The group will be met at Munich airport by",
+          "options": [
+            {
+              "id": "A",
+              "text": "an employee at the National Theatre"
+            },
+            {
+              "id": "B",
+              "text": "a theatre manager"
+            },
+            {
+              "id": "C",
+              "text": "a tour operator"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much will they pay per night for a double room at the hotel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "110 euros"
+            },
+            {
+              "id": "B",
+              "text": "120 euros"
+            },
+            {
+              "id": "C",
+              "text": "150 euros"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What type of restaurant will they go to on Tuesday evening?",
+          "options": [
+            {
+              "id": "A",
+              "text": "an Italian restaurant"
+            },
+            {
+              "id": "B",
+              "text": "a Lebanese restaurant"
+            },
+            {
+              "id": "C",
+              "text": "a typical restaurant of the region"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who will they meet on Wednesday afternoon?",
+          "options": [
+            {
+              "id": "A",
+              "text": "an actor"
+            },
+            {
+              "id": "B",
+              "text": "a playwright"
+            },
+            {
+              "id": "C",
+              "text": "a theatre director"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Wednesday",
+          "options": [
+            {
+              "id": "A",
+              "text": "The playwright will be present"
+            },
+            {
+              "id": "B",
+              "text": "The play was written to celebrate an anniversary"
+            },
+            {
+              "id": "C",
+              "text": "The play will be performed inside historic building"
+            },
+            {
+              "id": "D",
+              "text": "The play will be accompanies by live music"
+            },
+            {
+              "id": "E",
+              "text": "The play will be performed outdoors"
+            },
+            {
+              "id": "F",
+              "text": "The paly will be performed for the first time"
+            },
+            {
+              "id": "G",
+              "text": "The performance will be attended by officials from the town"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Thursday",
+          "options": [
+            {
+              "id": "A",
+              "text": "The playwright will be present"
+            },
+            {
+              "id": "B",
+              "text": "The play was written to celebrate an anniversary"
+            },
+            {
+              "id": "C",
+              "text": "The play will be performed inside historic building"
+            },
+            {
+              "id": "D",
+              "text": "The play will be accompanies by live music"
+            },
+            {
+              "id": "E",
+              "text": "The play will be performed outdoors"
+            },
+            {
+              "id": "F",
+              "text": "The paly will be performed for the first time"
+            },
+            {
+              "id": "G",
+              "text": "The performance will be attended by officials from the town"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Friday",
+          "options": [
+            {
+              "id": "A",
+              "text": "The playwright will be present"
+            },
+            {
+              "id": "B",
+              "text": "The play was written to celebrate an anniversary"
+            },
+            {
+              "id": "C",
+              "text": "The play will be performed inside historic building"
+            },
+            {
+              "id": "D",
+              "text": "The play will be accompanies by live music"
+            },
+            {
+              "id": "E",
+              "text": "The play will be performed outdoors"
+            },
+            {
+              "id": "F",
+              "text": "The paly will be performed for the first time"
+            },
+            {
+              "id": "G",
+              "text": "The performance will be attended by officials from the town"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Saturday",
+          "options": [
+            {
+              "id": "A",
+              "text": "The playwright will be present"
+            },
+            {
+              "id": "B",
+              "text": "The play was written to celebrate an anniversary"
+            },
+            {
+              "id": "C",
+              "text": "The play will be performed inside historic building"
+            },
+            {
+              "id": "D",
+              "text": "The play will be accompanies by live music"
+            },
+            {
+              "id": "E",
+              "text": "The play will be performed outdoors"
+            },
+            {
+              "id": "F",
+              "text": "The paly will be performed for the first time"
+            },
+            {
+              "id": "G",
+              "text": "The performance will be attended by officials from the town"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Monday",
+          "options": [
+            {
+              "id": "A",
+              "text": "The playwright will be present"
+            },
+            {
+              "id": "B",
+              "text": "The play was written to celebrate an anniversary"
+            },
+            {
+              "id": "C",
+              "text": "The play will be performed inside historic building"
+            },
+            {
+              "id": "D",
+              "text": "The play will be accompanies by live music"
+            },
+            {
+              "id": "E",
+              "text": "The play will be performed outdoors"
+            },
+            {
+              "id": "F",
+              "text": "The paly will be performed for the first time"
+            },
+            {
+              "id": "G",
+              "text": "The performance will be attended by officials from the town"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "James chose to take Scandinavian Studies because when he was a child",
+          "options": [
+            {
+              "id": "A",
+              "text": "he was often taken to Denmark"
+            },
+            {
+              "id": "B",
+              "text": "his mother spoke to him in Danish"
+            },
+            {
+              "id": "C",
+              "text": "a number of Danish people visited his family"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When he graduates James would like to",
+          "options": [
+            {
+              "id": "A",
+              "text": "take a postgraduate course"
+            },
+            {
+              "id": "B",
+              "text": "work in the media"
+            },
+            {
+              "id": "C",
+              "text": "become a translator"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which course will end this term?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Swedish cinema"
+            },
+            {
+              "id": "B",
+              "text": "Danish television programmes"
+            },
+            {
+              "id": "C",
+              "text": "Scandinavian literature"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "They agree that James' literature paper this term will be on",
+          "options": [
+            {
+              "id": "A",
+              "text": "19th century playwrights"
+            },
+            {
+              "id": "B",
+              "text": "the Icelandic sagas"
+            },
+            {
+              "id": "C",
+              "text": "modern Scandinavian novels"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Beth recommends that James' paper should be",
+          "options": [
+            {
+              "id": "A",
+              "text": "a historical overview of the genre"
+            },
+            {
+              "id": "B",
+              "text": "an in depth analysis of a single write"
+            },
+            {
+              "id": "C",
+              "text": "a study of the social background to the literature"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 26. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-90-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 27. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-90-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 28. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-90-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 29. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-90-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 30. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-90-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Conflict mostly consists of behavior in the general category of ______",
+          "answer": "bullying",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Often a result of people wanting to prove their ______",
+          "answer": "superiority",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Also cause by differences in ______ between people",
+          "answer": "personality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "conflicts: people more concerned about own team than about company ______",
+          "answer": "structural",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Conflict related stress can cause ______ that may last for months",
+          "answer": "absence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Many have both ______ and anxiety",
+          "answer": "confidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There may be conflict between people who have different ______",
+          "answer": "visions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A structure that is more ______ may create a feeling of uncertainty about who staff should report to",
+          "answer": "democratic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bosses need to try hard to gain ______",
+          "answer": "respect",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-90-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Someone from outside the company may be given the role of ______ in order to resolve conflicts",
+          "answer": "mediator",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/90_we.mp3"
+    }
+  ]
+}

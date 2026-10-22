@@ -1,0 +1,588 @@
+{
+  "id": "pte-listening-130",
+  "title": "Listening — Practice Test 130",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-130-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Place: ______ grill",
+          "answer": "apple tree",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People to invite: ______ from college",
+          "answer": "best friend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "and boss ______",
+          "answer": "coworkers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date to send out invites: ______ August",
+          "answer": "13",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Need to ask each person for this much money: ______ $",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gift idea: ______ light",
+          "answer": "book",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "For the meal: Buffet ______ is probably cheaper than everyone ordering individually",
+          "answer": "dinner",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People can buy drinks themselves or ______",
+          "answer": "bring their own",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ask people to bring: A/ an ______ for music",
+          "answer": "mp3 player",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Digital ______ or ones that can be scanned",
+          "answer": "photos",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "To find out more about reservations, one needs to",
+          "options": [
+            {
+              "id": "A",
+              "text": "click a link in a corner of the page"
+            },
+            {
+              "id": "B",
+              "text": "navigate to another page on the website"
+            },
+            {
+              "id": "C",
+              "text": "call a number that is at the bottom of the page"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "'Extreme Tours' are special vacation packages for those",
+          "options": [
+            {
+              "id": "A",
+              "text": "who desire to visit safe destinations"
+            },
+            {
+              "id": "B",
+              "text": "who need to see familiar places"
+            },
+            {
+              "id": "C",
+              "text": "who want to have a really exciting experience"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The travel agency says these excursions will give people the chance to",
+          "options": [
+            {
+              "id": "A",
+              "text": "see famous and well-known tourist sites"
+            },
+            {
+              "id": "B",
+              "text": "test themselves and become stronger"
+            },
+            {
+              "id": "C",
+              "text": "buy lots of interesting souvenirs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The company has offices in South America, Australia and",
+          "options": [
+            {
+              "id": "A",
+              "text": "North America"
+            },
+            {
+              "id": "B",
+              "text": "Southeast Asia"
+            },
+            {
+              "id": "C",
+              "text": "Europe"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Unlike other companies, Fremen allows you to",
+          "options": [
+            {
+              "id": "A",
+              "text": "hire a car for the duration of your vacation"
+            },
+            {
+              "id": "B",
+              "text": "travel about independently"
+            },
+            {
+              "id": "C",
+              "text": "speak with a travel agent for free"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Included in all tour packages is the cost of",
+          "options": [
+            {
+              "id": "A",
+              "text": "airfare, accommodation and transportation"
+            },
+            {
+              "id": "B",
+              "text": "food and entertainment"
+            },
+            {
+              "id": "C",
+              "text": "tour guides"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Andes ______in Perufive dayspeople are friendly, generous and have (18) ______",
+          "answer": "mountains",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Andes (17) ______in Perufive dayspeople are friendly, generous and have ______",
+          "answer": "warm hearts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The city of Chiang Mai in Thailand______daysunique culture, able to see elephants",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Australiafourteen daysable to see some of the continent's most ______",
+          "answer": "exciting places",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 1scissors, markers, stiff paper and pieces of ______cut out holes for eyes and nose. Then (22) ______in the mask",
+          "answer": "string",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 1scissors, markers, stiff paper and pieces of (21) ______cut out holes for eyes and nose. Then ______in the mask",
+          "answer": "color",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 2shoebox, styrofoam and other materialsstudents can make a ______scene or somewhere they have been before",
+          "answer": "historical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 3egg cartons and pipe cleaners which are flexible lengths of ______that are furrystick pipe cleaners into egg cartons to make animals",
+          "answer": "metal wire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 4white or brown bags, markers and pieces of feltstudents can decorate the ______of the paper bag",
+          "answer": "bottom",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Project 5paper mache, made by tearing up newspapers into strips and dipping them into starchcan cover any ______with the strips like a blown up balloon",
+          "answer": "object",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "might be too difficult · Project 1: (27)………………..",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-130-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Project 1: (27)……………….. · Project 2: (28)………………..",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-130-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Project 3: Example E · Project 4: (29)………………..",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-130-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Project 4: (29)……………….. · Project 5: (30)………………..",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-130-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "They might prey on animals people depend on for a living, but wolves are actually a ______ of the Earth's living system.",
+          "answer": "critical part",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wolves hunt in small group and have a well developed ______",
+          "answer": "social system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "At the top of the hierarchy are an alpha male and an alpha ______",
+          "answer": "female",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "most ______",
+          "answer": "most",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Challenges for leadership do not always lead to physical ______ but are mostly for show.",
+          "answer": "fights",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Gray wolves are now found only in Canada, Alaska, Northern Eurasia and",
+          "options": [
+            {
+              "id": "A",
+              "text": "many other places in the southern hemisphere"
+            },
+            {
+              "id": "B",
+              "text": "a few other isolated areas in the world"
+            },
+            {
+              "id": "C",
+              "text": "on the Indian subcontinent"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Supporters of the reintroduction program agreed to",
+          "options": [
+            {
+              "id": "A",
+              "text": "give money to people whose cattle were at risk"
+            },
+            {
+              "id": "B",
+              "text": "delay restoring the wolf population for several years"
+            },
+            {
+              "id": "C",
+              "text": "fund more studies"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "After reintroducing the wolves, biodiversity in Yellowstone Park increased and",
+          "options": [
+            {
+              "id": "A",
+              "text": "maintained itself"
+            },
+            {
+              "id": "B",
+              "text": "fell soon afterwards"
+            },
+            {
+              "id": "C",
+              "text": "stayed exactly the same"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are TWO results of the wolf reintroduction program in Yellowstone Park?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ranchers have become angry"
+            },
+            {
+              "id": "B",
+              "text": "there are fewer tourists in Yellowstone"
+            },
+            {
+              "id": "C",
+              "text": "eagle and hawk species have increased"
+            },
+            {
+              "id": "D",
+              "text": "Yellowstone is not as healthy as before"
+            },
+            {
+              "id": "E",
+              "text": "the local economy has benefitted"
+            },
+            {
+              "id": "F",
+              "text": "local population are fearful"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-130-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are TWO results of the wolf reintroduction program in Yellowstone Park?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ranchers have become angry"
+            },
+            {
+              "id": "B",
+              "text": "there are fewer tourists in Yellowstone"
+            },
+            {
+              "id": "C",
+              "text": "eagle and hawk species have increased"
+            },
+            {
+              "id": "D",
+              "text": "Yellowstone is not as healthy as before"
+            },
+            {
+              "id": "E",
+              "text": "the local economy has benefitted"
+            },
+            {
+              "id": "F",
+              "text": "local population are fearful"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/130_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-2",
+  "title": "Academic Writing — Practice Test 2",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-2-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The chart below shows the percentage of households in owned and rented accommodation in England and Wales between 1918 and 2011. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words. (adsbygoogle = window.adsbygoogle || []).push({});",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-2.png"
+        },
+        {
+          "id": "pte-writing-2-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people believe that nowadays we have too many choices. To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

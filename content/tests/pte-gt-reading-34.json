@@ -1,0 +1,832 @@
+{
+  "id": "pte-gt-reading-34",
+  "title": "General Training Reading — Practice Test 34",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: the marchmain kettle – the traditional english copper kettle",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-34-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement offers a flexible timetable? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement is NOT for English tuition? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement offers a school that has specialized its product? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement boasts the newest school? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement offers organized activities out of school hours? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement says that you can visit and look around? A QUEEN'S SCHOOL OF ENGLISH (Established 1975) – general English – business English – English for tourism – various exam courses – help with housing – recreation program Contact us on 00 44 1202 395 132 or www.thequeensenglish.com Queen's School, 12 Hintly Road, Bournemouth, UKB INTERNATION ENGLISH Located in Central London, International English has been meeting students' English language needs for 15 years. We can provide the right service whatever your English requirements. Contact us on 00 44 020 4732 9643 Write to: International English, 13 Whitechapel Avenue, London, SW 4 C James Wilson MA, 25 years of English teaching experience, residential English tuition Why waste your money on large classes in a school that does not care? Come and live in London and study with James Wilson. You will get 100% individual attention and 24 hours care from a family that does care. Content and hours are wholly at your own choosing. Why not check my website at www.jameswilson.com or call at 00 44 20 2740 8535 and ask for a brochure D BATEMAN'S UNIVERSITY PREPARATION COLLEGE With the huge number of foreign students studying at the UK's universities and colleges, we at Bateman's recognised 10 years ago the need to provide a specialized institute that provides English wholly aimed at supporting your study here in the UK. We can offer short and long courses that will get you to the level that you need. Find out about us on our website www.batemans.com or contact us for a brochure: Bateman's College, 14 Worthing Road, Littlehampton West Sussex Tel: 01276 395 672, Fax: 01276 395 673 E SMITHSON'S ENGLISH LANGUAGE BOOKSHOP We are stockists of all English language textbooks (for native and foreign language speakers) grammar books, dictionaries, English language computer software, graded readers and a host of other study aids. Why not drop in some time and browse or check what we have on the net. 45 Hunt Street, Southampton, Hants Tel: 01233 734 628 www.smithsonbooks.com ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What can you use to clean stubborn tarnish and staining if your kettle doesn't have a chrome finish? ______",
+          "answer": "copper polish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What can using hard water cause in your kettle? ______",
+          "answer": "scale",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What causes a rattle in the kettle when you pour water? ______",
+          "answer": "patented whistling device/ball (+ valve assembly)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Give ONE example of things that will invalidate the warranty? ______",
+          "answer": "neglect/misuse",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Before you use water from the kettle for the first time, fill it, boil it and pour the water away. ______",
+          "answer": "DO",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "If your kettle is discoloured after use, send it to the manufacturer for cleaning. ______",
+          "answer": "DO NOT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It's best to leave the kettle on a wooden surface after boiling. ______",
+          "answer": "NOT GIVEN",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Read the First Aid instructions regarding bleeding on the following page. According to the text, which THREE of the following are true symptoms of internal bleeding?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a headache"
+            },
+            {
+              "id": "B",
+              "text": "a desire to drink"
+            },
+            {
+              "id": "C",
+              "text": "a lack of strength"
+            },
+            {
+              "id": "D",
+              "text": "half closed eyes"
+            },
+            {
+              "id": "E",
+              "text": "pain in the heart area"
+            },
+            {
+              "id": "F",
+              "text": "a sick feeling"
+            },
+            {
+              "id": "G",
+              "text": "flushed skin"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Read the First Aid instructions regarding bleeding on the following page. According to the text, which THREE of the following are true symptoms of internal bleeding?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a headache"
+            },
+            {
+              "id": "B",
+              "text": "a desire to drink"
+            },
+            {
+              "id": "C",
+              "text": "a lack of strength"
+            },
+            {
+              "id": "D",
+              "text": "half closed eyes"
+            },
+            {
+              "id": "E",
+              "text": "pain in the heart area"
+            },
+            {
+              "id": "F",
+              "text": "a sick feeling"
+            },
+            {
+              "id": "G",
+              "text": "flushed skin"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Read the First Aid instructions regarding bleeding on the following page. According to the text, which THREE of the following are true symptoms of internal bleeding?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a headache"
+            },
+            {
+              "id": "B",
+              "text": "a desire to drink"
+            },
+            {
+              "id": "C",
+              "text": "a lack of strength"
+            },
+            {
+              "id": "D",
+              "text": "half closed eyes"
+            },
+            {
+              "id": "E",
+              "text": "pain in the heart area"
+            },
+            {
+              "id": "F",
+              "text": "a sick feeling"
+            },
+            {
+              "id": "G",
+              "text": "flushed skin"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If someone has a bad cut on their arm, lift the arm up above the rest of the body.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Tourniquets can be very dangerous.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You cannot see any physical signs of internal bleeding.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It's important for people suffering internal bleeding to drink a lot of water",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "the marchmain kettle – the traditional english copper kettle",
+        "text": "Made from the finest solid copper, brass and pure tin, this newly designed kettle is now available worldwide. We are confident that you will not find a better kettle. By following the simple instructions closely, your Marchmain kettle will serve you efficiently for many years and of course, enhance your kitchen every day with quality rarely found in today's marketplace. It must be remembered that your Marchmain kettle will require regular cleaning to remove tarnish and water staining which will appear on a daily basis during use (not applicable to chrome finishes which require only an occasional wipe with damp cloth and light \"buff up\" with a dry one). This is normal and we would therefore recommend regular cleaning to prevent a build up of stubborn staining, but even this can be removed with our copper polish.\n\nDOS  DO – clean the inside of your kettle thoroughly, fill to level with water, boil and discard before initial use.  DO – regularly clean your kettle to prevent severe tarnishing (not applicable to chrome finishes – see above).  DO – remove scale from your kettle as necessary if you live in a \"hard water\" area.  DO – place your kettle centrally over the burner, and use the low gas setting (Models 3, 4 & 4mw only).\n\nDON'TS  DON'T – fill the kettle with water above the center seam, which is clearly visible through the lid aperture (dome versions – just below the spout).  DON'T – use abrasive cleaners, which may harm the exterior or interior finish of your kettle.\n\n* DON'T – use \"Wire Ball\" type de-scaler products which will damage the pure tin or nickel plated lining of your kettle.\n\n DON'T – Place \"off centre\" to the burner, or use more than a low gas setting (models 3, 3mw, 4 & 4mw only).  DON'T – put the kettle to boil with little or no water inside, this action could render the kettle unsafe.\n\n* DON'T – throw your receipt away; you will need it in the unlikely event of needing to return your kettle.  DON'T return your kettle for tarnish or discolouration as this can almost certainly be removed with copper polish.\n\nPOINTS TO NOTE Marchmain kettles are entirely hand-made. Therefore no two are exactly alike and finishes may vary depending on the piece of copper used to create your kettle. Any minor blemish in finish can be regarded as an individual characteristic, which does not detract from the beauty or affect the function of your kettle. All models have a patented whistling device built into them. Part of this device is a ball and valve assembly inside the spout. The ball should always be free and you will hear this move when you raise the kettle to pour. This \"rattle\" is normal and does not represent a fault. If you do not hear this \"rattle\", a gentle shake when the kettle is cold will usually restore the movement. Always be sure the lid is fitted firmly into its place before use.\n\nIMPORTANT In the event of rotation or looseness in the handle, the holding nuts must be re-tightened.\n\nWARRANTY/GUARANTEE Marchmain Copperware guarantee this kettle for a period of twelve months from the date of purchase on your receipt, against any problem arising out of faulty material, workmanship or manufacture. Marchmain Copperware will repair or replace at their discretion, upon inspection, any kettle found to be faulty in any way (not including failure brought about by neglect or misuse). This guarantee does not affect your statutory rights.\n\nPLEASE NOTE Some characteristics of Marchmain kettles, varying factors of use and the effects of \"hard water\" areas, can sometimes lead to symptoms which may affect the kettles' performance but do not represent a fault."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Bleeding",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-34-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which course is mostly without a teacher? ______",
+          "answer": "course",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which course can you NOT pre-book a place? ______",
+          "answer": "course",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How many hours does Course 1 take? ______",
+          "answer": "15 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How many places are there every week for students who want to study computers? ______",
+          "answer": "20",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which course takes place only on one day in a specified week? ______",
+          "answer": "course",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students registered at Westley Business College don't have to pay for the preparation course.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most students at Westley Business School are older than the average college student.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All taught courses are held in the Westley Business School main building. Preparation Courses for Students 80% of the students who take our courses are mature students who have not done any formal study for several years. Many of the courses at the Westley Business School require a good knowledge of various skills. If you feel you need some extra preparation before your course, look below and see if any of our preparation courses suit your needs. All courses take place in August, and for enrolled students all the courses listed below are free. Course 1 STATISTICS A grounding in statistics is a must for any prospective business student. This is a one week course (Mon – Fri) consisting of one lecture every night. The tutor will ensure that by the end of the course, you will have had a thorough introduction to all the statistical skills that you will need to start your course at Westley Business School. Each lecture runs from 6pm to 9pm. Course 2 ESSAY WRITING This is a self-study pack containing guidance, practice and tests. At the end of the course (it should take about 10 hours of self-study) you will receive a 1 hour tutorial with the essay writing tutor who will go over your work with you. Course 3 BASIC MATHS This is a one-off lecture of 3 hours aimed at reviewing all the basic maths that you will vaguely remember from school! This course is run on a \"first come, first served\" basis and there are only 20 places (every Monday in August from 5.45pm – 8.45pm) so don't be late. Course 4 COMPUTING This 2 week course (Mon – Fri 6.30pm – 8.30pm) will give students all the basic computer skills that they will need for their courses at Westley Business School. There are two courses running concurrently with only 10 PLACES in each so book early! NB UNLESS OTHERWISE STATED, YOU MUST BOOK IN ADVANCE FOR THESE COURSES AT THE MAIN WESTLEY BUSINESS SCHOOL RECEPTION Read the following passage and answer Questions 29 – 40.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Bleeding",
+        "text": "External Bleeding 1. Apply direct pressure. Place a clean, folded cloth over the injured area and firmly apply pressure. If blood soaks through, do not remove it. Instead, cover that cloth with another one and continue to apply pressure to the wound for 7 – 10 minutes. If the bleeding is from the ear, place a clean bandage over the ear, lay the victim on his side, and allow the blood to drain out of the bandage. 2. Elevate the injury. Position the wounded part of the body above the level of the heart if possible while you apply direct pressure. 3. Know the pressure points. If direct pressure and elevation do not sufficiently slow the blood flow, find a pressure point. Large arteries found close to the skin's surface supply blood to the head and to each arm and leg. The most common pressure points used during first aid are located in the upper arms and in the creases above the upper legs. Apply pressure to the closest pressure point to the wound so that the artery is pressed between your fingers and bone directly behind the artery. If using the pressure point on a leg, you may need to use the heel of your hand instead of your finger. 4. Resort to a tourniquet. On very rare occasions everything above may fail. To prevent the victim from dying, you should apply a tourniquet. Once a tourniquet is applied, it should not be loosened or removed until the victim has reached medical help. Use a tourniquet ONLY if everything listed above has failed. If you use a tourniquet, write down somewhere on the victim the time it was applied, so medical personnel will know how long it has been in place.\n\nInternal Bleeding Internal bleeding results when blood vessels rupture allowing blood to leak into body cavities. It could be a result of a direct blow to the body, a fracture, a sprain, or a bleeding ulcer. If a victim receives an injury to the chest or abdomen, internal bleeding should be suspected. He will probably feel pain and tenderness in the affected area.\n\nOther symptoms and signs to watch for:\n\n* cold clammy skin * pale face and lips\n\n* weakness or fainting * dizziness\n\n* nausea * thirstiness\n\n* rapid, weak, irregular pulse * shortness of breath\n\n* dilated pupils * swelling or bruising at the site of\n\nthe injury The more symptoms that are experienced, the more extensive the internal bleeding.\n\nWhat to do for the Victim 1 Check for an open airway and begin rescue breathing if necessary. 2 Call for medical help as soon as possible and keep the victim comfortable until help arrives.\n\nNB The bleeding anything to drink. victim may rinse his mouth with water, but DO NOT give a victim of internal"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: the saltwater crocodiles of australia",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-34-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "IX",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "XI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list of headings below choose the most suitable headings for paragraphs B – G.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            },
+            {
+              "id": "XI",
+              "text": "Paragraph XI"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the (36) ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the (37) ______ human and crocodile populations were not (38) ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles (39) ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of (40) ______ crocodiles that can be released to replenish stocks.",
+          "answer": "hunting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in (35) ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the (37) ______ human and crocodile populations were not (38) ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles (39) ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of (40) ______ crocodiles that can be released to replenish stocks.",
+          "answer": "decline",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in (35) ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the (36) ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the ______ human and crocodile populations were not (38) ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles (39) ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of (40) ______ crocodiles that can be released to replenish stocks.",
+          "answer": "expanding",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in (35) ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the (36) ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the (37) ______ human and crocodile populations were not ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles (39) ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of (40) ______ crocodiles that can be released to replenish stocks.",
+          "answer": "compatible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in (35) ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the (36) ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the (37) ______ human and crocodile populations were not (38) ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of (40) ______ crocodiles that can be released to replenish stocks.",
+          "answer": "threating",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-34-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The value of saltwater crocodile (eg) ______ led to a massive increase in (35) ______ after the Second World war and by the early 1970s there were very few left. Finally the local state governments arrested the (36) ______ in numbers by making the saltwater crocodile a protected species. Within ten years stocks of crocodiles almost entirely recovered in spite of worries that the (37) ______ human and crocodile populations were not (38) ______ Crocodile farms were set up from 1981 for the purposes of breeding, education, tourism, commerce (selling the skins) and finding a home for crocodiles (39) ______ humans in the wild. Now if there is a danger to the crocodile populations in the wild, there are plenty of ______ crocodiles that can be released to replenish stocks.",
+          "answer": "young",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "the saltwater crocodiles of australia",
+        "text": "(A) What's the world's largest reptile? It's a saltwater crocodile. Crocodiles have been on this planet for tens of millions of years – far longer than us! Many animals are unfairly feared through ignorance as a danger to humans but the saltwater crocodiles wholly deserve the fear and the respect given to them by people living near them. The large saltwater crocodile has taken the lives of many unsuspecting men, women, children, their pets and livestock. By maturity saltwater crocs can reach between 20 and 23 feet. An average length for full grown males is about 17 feet and females rarely exceed 10 feet.\n\n(B) The saltwater crocodiles are native to many estuarine Indo Pacific regions and for this reason they are often known as Estuarine Crocodiles. They range from China all the way through Australia and up into the Indian Ocean. The saltwater crocodile is found along Australia's northern coast and up to 200km inland. As the name suggests these crocodiles are mainly found in estuaries where tidal rivers meet the sea. This watery habitat is often mangrove lined. They can also be sometimes found in the open sea or inland in freshwater swamps and billabongs. Saltwater crocs are usually found though in brackish waters where the seawater meets freshwater.\n\n(C) Saltwater crocs hunt by waiting close to the water's edge and pounce upon their victims in the blink of an eye. The usual prey of younger crocs is smaller animals such as fishes and crustaceans. Adults can also attack and eat larger animals by overpowering them and then drowning them. After the prey is dead, the croc will break up the prey into smaller pieces by violent flicking of the head to snap or break bones or twisting and rolling the body. Larger crocs will also take carrion (dead animals) if hungry.\n\n(D) Nesting takes place in freshwater areas in the wet season (Between November and March) after the males fight for the females. Raised nests are constructed and into these nests between 25 and 90 eggs will be deposited. Females will remain near the nests and the eggs take about 90 days to hatch. Males will be produced if the temperature remains at 31.6 degrees Celsius. Temperatures above or below that will result in females. When the female hears the young begin to hatch, she will assist them in emerging and carry them in her mouth to the water. Probably less then 1% of these hatchlings will reach adulthood.\n\n(E) In the post World War Two era many northern pioneers hunted the saltwater crocodile for its skin. Hunters combed the rivers and their tributaries, indiscriminately shooting the saltwater and freshwater crocodiles. Hides were sold wet salted to Europe. It is estimated that 270, 000 saltwater crocodile hides plus 200 to 300, 000 freshwater crocodile hides were exported in the 15 years prior to 1972. The days of hunting slowly died as the hunters recognized that they had shot their way out of the market. There were so few crocodiles remaining in the late 60s that the hunters couldn't make a living. This unsustainable harvest was brought to a halt by the Western Australian government in 1969. In 1971 the Northern Territory Government granted the Saltwater crocodile total protection and Queensland followed suit in 1974.\n\n(F) Over the next decade the crocodile populations made a remarkable comeback. Protection plus a nucleus of very wary but healthy breeding stock deep in inaccessible breeding grounds led to a crocodile revival. In the late 70s crocodile sightings became more common. After several well-publicised crocodile attacks fears that a growing crocodile population would interfere with and inhibit a growing human population led to a more proactive form of crocodile conservation in the Northern Territory. A major public education campaign was undertaken, to prevent people's actions once again threatening one of the Northern Territory's most valuable natural resources.\n\n(G) Crocodile farming licences were issued with the intention that young crocodiles harvested from the wild could be commercially utilized and the farms could provide a home for any larger animals threatening populations. Darwin Crocodile farm was first licensed in 1981, and provided a major public education facility in the form of a new and exciting tourist attraction, whilst being able to commercially utilize the crocodiles for their skins. Provisions were made for juveniles to be released if populations in the wild became threatened. Sustainable and successful breeding from the nucleus of problem crocodiles supplied to the farm has now led to the farm being able to selectively choose its own breeding stock. Monitoring of growth rates and temperaments of animals set aside for breeding is the basis of the selection of mature animals to be used in the farm's breeding programme. Any male that shows excessive aggression towards other crocodiles, especially females, is removed from the breeding programme. Some may be used as single display males, but animals with excellent skin quality are now culled for their skins and heads."
+      }
+    }
+  ]
+}

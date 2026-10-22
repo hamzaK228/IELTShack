@@ -1,0 +1,736 @@
+{
+  "id": "pte-gt-reading-125",
+  "title": "General Training Reading — Practice Test 125",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Supermarket reviews",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-125-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The items on sale are of a high standard. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Customers have to wait a long time before they can pay. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Some of the food is not always very fresh. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The products bought are well worth the price. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is now a greater variety of products available. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The limited choice available can be an advantage. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is easy to order goods online. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Customers praise the service provided by employees. ______",
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Supermarket reviews",
+        "text": "(A) Sharpsavers Customers are impressed with this supermarket's environmentally-friendly packaging as well as the attractive in-store cafes for customers. A wider range of goods has recently been introduced and there are also plans for online shopping facilities in the near future.\n\n(B) Carltons This is generally accepted as the best of all the supermarkets for value for money. Stock range isn't as wide as in some other supermarkets, but this doesn't appear to put customers off – in fact they say they're happy that they don't have to spend time making decisions on what brand to buy.\n\n(C) TruCost Customers like the regular discounts at this supermarket although the fruit and vegetables on sale are sometimes a bit past their best. A new app now allows customers to shop from any location, but a few setbacks have been reported when using this.\n\n(D) Fressons This supermarket is known for its local produce and customers also like the layout of its stores and the easy availability of parking, but checkout queuing times are a problem. Products also tend to be more expensive than in some other supermarkets, and some customers say they can't afford to shop there regularly.\n\n(E) ValuMart This supermarket has relatively poor ratings for its in-store shopping, with complaints about inconvenient opening hours and many items being out of stock. However, customers are impressed with how straightforward the website is to use, and the availability of delivery slots.\n\n(F) Greenbaums This is overall the most popular supermarket with shoppers, who appreciate the wide range of products available and their excellent quality. The staff here are also extremely helpful, although other supermarkets may be more competitive in their pricing."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Getting a credit card",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-125-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It may be a good idea to repay only the minimum amount required each month.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should take out insurance in case you lose your card.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should make yourself aware of any restrictions on insurance claims you make using your card.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can only claim insurance for the full cost of a product or service if you paid for it all on your credit card.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A card provided by your bank may offer more security than one from another provider.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can generally get a store card quite quickly while you are in the store.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Getting a credit card",
+        "text": "To qualify for a credit card you will need to give information about where you live and how much you earn. Before offering you a card, the card provider will do a credit check to investigate whether you have any history of outstanding debts. The amount it allows you to spend – your credit limit – will be based on this and your other circumstances. Credit limits tend to be modest to begin with but are often increased by banks over time. The card provider will also stipulate a minimum monthly repayment you need to make. You should avoid only paying the minimum your provider asks for each month, as interest has to be paid on outstanding balances. Many cards have some form of insurance built into them, covering damage to goods purchased with the card or cancellation of a flight or holiday. This is free, but there are usually conditions attached so read the small print if you intend to rely on the cover. Bear in mind that you don't have to pay the full amount on your card to get protection – the key thing is the price of the product you are buying. For example, if you're buying a £500 flight, and pay £100 on your card and £400 in cash, your credit card will protect you for the full amount. When choosing a card the easiest option is to go to your bank, but it may not offer the best deal for your circumstances. Instead you should consider how you will use the card and look for one that suits your needs. Store cards are usually available at the point of sale and can be used to make a purchase once a credit check and application form have been completed, which can take as little as 10 minutes. Retailers often offer incentives to sign up for their cards, which may include an introductory discount on goods. However, interest rates on these cards tend to be high. Affinity cards are credit cards with the logo of a charitable organisation on them. The charity will receive donations based on your spending. These don't tend to add up to much, and if the card has an uncompetitive interest rate you may be better off choosing a cheaper card and making donations separately."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: First day orientation for university staff members",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-125-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You qualify for ______ for public transport if you work for the university.",
+          "answer": "Discounted tickets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "For more details about the different ways to get to the university, you should contact the ______",
+          "answer": "Environment team",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are using your own vehicle, you may need to obtain a ______",
+          "answer": "(Parking) permit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You need to be given your ______ before you can create your university IT account.",
+          "answer": "Employee number",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A University Card is necessary for the use of equipment such as ______",
+          "answer": "(Smart) printers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You can collect your University Card from the ______",
+          "answer": "Security lodge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Employee Self Service feature is recommended for viewing ______",
+          "answer": "(Your) payslips",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "First day orientation for university staff members",
+        "text": "Transport and Parking There are various bus and train links to the university and discounted tickets are available for staff. We also offer bike storage on campus and a cycle-to-work scheme. Further information on transport options is available from the Environment Team or can be found in the Travel Options leaflet. If you intend to travel to work by car, you should check whether parking facilities are available at your location and apply for a permit where applicable.\n\nYour IT Account Please liaise with your departmental IT contact to set up your university IT account, password and username. IT Services will be able to do this once the Recruitment Team have generated an employee number for you. You will then be able to log in to a university PC, as well as use Blackboard, Wi-Fi and many other IT systems and services. If you require further assistance, contact the IT Service Desk.\n\nYour University Card You need your University Card for proof of ID to enter buildings and areas where you work, and to gain access to smart printers and other resources. To obtain a card you will need to be registered with the Human Resource database and have your university IT account. Before you place a request for a card, please ensure that your details are correct by checking and updating your record using Employee Self Service. To obtain your card, please go to the Security Lodge, where a photo will be taken and the card produced immediately. Alternatively, if you upload a passport-style photo, your department can request the card via an email to Security. Please note that this email will need to include your name and payroll number.\n\nEmployee Self Service Employee Self Service (ESS) allows staff to validate and update their staff record. This facility is particularly useful for checking your payslips, but you may wish to opt out of ESS correspondence.\n\nInduction Inductions are typically arranged by each department and you should get in touch with your departmental contact for more information. In addition to this, you can also use the Employee Portal to sign up for the yearly university-wide Information Day."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Information for theatre staff managers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-125-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– the lights (using the switch to the ______ of the office)",
+          "answer": "Left",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– the computer (switch found below the ______)",
+          "answer": "Counter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• display posters about future ______",
+          "answer": "Productions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• remember to keep some places available for ______",
+          "answer": "Latecomers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• decide if ______ is permitted inside",
+          "answer": "Food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• make sure ______ are cleaned up",
+          "answer": "Spills",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Information for theatre staff managers",
+        "text": "INTRODUCTION This is the information required by those responsible for the theatre staff who have contact with the audience during any production at The Place Theatre. It is important that the designated manager, and ideally also their deputy, be familiar with the contents.\n\nPERSONNEL Common practice shows it is most appropriate to have at least six, and no more than eight, theatre staff available to ensure sufficient coverage of all public areas. These staff should be committed to their role and arrive within good time to be briefed and positioned before the audience starts to arrive. One or two members of staff should remain in the foyer to prepare for the interval. One of these should be the manager.\n\nBOX OFFICE Before the audience arrives, the box office will need to be opened and the lights switched on, which is done by a switch located on the left, directly outside the box office. The power for the box office will also need to be turned on, using the switch labelled Terminal. The computer then needs to be turned on; this can be done by pressing the power button located underneath the counter on the top of a small black unit.\n\nNOTICEBOARDS There are two small boards: one next to the box office, and the other on the wall by the main auditorium door. These are for notices to audiences, such as requests for mobiles to be switched off while the show is on, or warnings about lighting special effects. It is essential that notices such as these are put up for the sake of audience safety. There are two large boards on the wall opposite the bar – these are for publicity for forthcoming productions. There are also numerous display boards behind the bar listing the current bar prices for the staff and audience to refer to.\n\nAUDITORIUM There are two wheelchair bays, each wide enough to accommodate one wheelchair plus a chair for a companion. The three seats by the main foyer door should be left vacant for latecomers. The staff member who is sitting by the main doors into the foyer is responsible for seating these people. Items of food may be taken into the auditorium at the discretion of the manager. Drinks are allowed into the auditorium; however, these might result in spills which should be dealt with as soon as they are noticed."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Algonquin Provincial Park",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-125-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Redefining Policies"
+            },
+            {
+              "id": "ii",
+              "text": "Geographic Setting"
+            },
+            {
+              "id": "iii",
+              "text": "Encouraging Tourism tv Tree Harvesting"
+            },
+            {
+              "id": "v",
+              "text": "Outdoor Activities"
+            },
+            {
+              "id": "vi",
+              "text": "Funding Shortages"
+            },
+            {
+              "id": "vii",
+              "text": "A Favourite Subject for Artists"
+            },
+            {
+              "id": "viii",
+              "text": "Camping Locations"
+            },
+            {
+              "id": "ix",
+              "text": "Gaining Official Status"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following factors makes the park so popular?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The park provides the most direct route between Whitney and Dwight."
+            },
+            {
+              "id": "B",
+              "text": "The park is between two southern routes."
+            },
+            {
+              "id": "C",
+              "text": "The park is easily accessed by highways."
+            },
+            {
+              "id": "D",
+              "text": "The park is easily reached from two urban centres."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer suggests the holiday facilities were",
+          "options": [
+            {
+              "id": "A",
+              "text": "developed simultaneously."
+            },
+            {
+              "id": "B",
+              "text": "owned by the railway companies."
+            },
+            {
+              "id": "C",
+              "text": "positioned around park lakes."
+            },
+            {
+              "id": "D",
+              "text": "built to appeal to a variety of people."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer suggest about Algonquin Park in paragraph D?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Only artistic people appreciated it."
+            },
+            {
+              "id": "B",
+              "text": "Famous Canadians are buried there."
+            },
+            {
+              "id": "C",
+              "text": "The environment is stimulating to creative people."
+            },
+            {
+              "id": "D",
+              "text": "The most popular place in Algonquin Park is Canoe Lake."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A master plan was developed after ______ with Algonquin visitors in order to benefit all concerned. One consequence of the master plan was the separation into distinct (38) ______ For example, leisure activities were organised away from the logging industry. In addition, in an effort to minimise any negative impact on the park, regulations were made prohibiting guests from bringing (39) ______ into the park. Further, limits were placed on the number of individuals who could stay at each (40) ______",
+          "answer": "Consultations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A master plan was developed after (37) ______ with Algonquin visitors in order to benefit all concerned. One consequence of the master plan was the separation into distinct ______ For example, leisure activities were organised away from the logging industry. In addition, in an effort to minimise any negative impact on the park, regulations were made prohibiting guests from bringing (39) ______ into the park. Further, limits were placed on the number of individuals who could stay at each (40) ______",
+          "answer": "Regions/ areas",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A master plan was developed after (37) ______ with Algonquin visitors in order to benefit all concerned. One consequence of the master plan was the separation into distinct (38) ______ For example, leisure activities were organised away from the logging industry. In addition, in an effort to minimise any negative impact on the park, regulations were made prohibiting guests from bringing ______ into the park. Further, limits were placed on the number of individuals who could stay at each (40) ______",
+          "answer": "Recyclables",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-125-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A master plan was developed after (37) ______ with Algonquin visitors in order to benefit all concerned. One consequence of the master plan was the separation into distinct (38) ______ For example, leisure activities were organised away from the logging industry. In addition, in an effort to minimise any negative impact on the park, regulations were made prohibiting guests from bringing (39) ______ into the park. Further, limits were placed on the number of individuals who could stay at each ______",
+          "answer": "Campsite",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Algonquin Provincial Park",
+        "text": "(A) Algonquin Provincial Park is located in south-central Ontario, Canada, and covers 7,653 square kilometres. Its size, combined with its nearness to the major cities of Toronto and Ottawa, make Algonquin one of the most popular parks in the province. Access to the park is by way of Highway 60, the most common route, as it travels through the southern portion of the park connecting the East Gate to the West Gate. The East Gate is located just west of the town of Whitney, while the West Gate is located just east of the town of Dwight, which is 45 kilometres from the town of Huntsville. The Trans-Canada highway bypasses it to the north.\n\n(B) In 1893 it was established as a national park under the Federal government. Its name was later changed to Algonquin Provincial Park when it fell under the jurisdiction of the provincial government. In the 19th century, large white pine and red pine trees were cut down to produce lumber for domestic and American markets, as well as some square timber for export to Great Britain. This activity was closely followed by the establishment of small numbers of homesteaders and farmers in the area. Even at that time, however, the region's beauty was recognized by nature preservationists. It is here that the types of trees change from the coniferous forests of Southern Ontario to the deciduous forests of Northern Ontario. It was acknowledged in 1992 for its several heritage values including: its role in the development of park resource management; the pioneering of visitor interpretation programs; its role in inspiring artists; and its development of historic structures such as cottages, camps, a railway station and museum buildings.\n\n(C) The Ottawa, Arnprior and Parry Sound Railway was constructed through the park in 1896, and provided the first easy access to the area. In an attempt to make the park more attractive to vacationers, Hotel Algonquin was opened at Joe Lake where fishing was the main attraction. Then the Grand Trunk Railway opened its first hotel, the Highland Inn, near Park Headquarters. Built on a hill behind Algonquin Park Station and focusing on winter activities, the two-storey year- round resort was an immediate success. Soon after, a number of business people built other guest lodges in the park. Nominigan Camp, consisting of a main lodge with six cabins of log construction, a favourite of canoers, was established on Smoke Lake. Camp Minnesing on Burnt Island Lake was created as a wilderness lodge. Later, Highland Inn was enlarged and new camps were added.\n\n(D) The beauty of Algonquin Park attracted painters such as Tom Thomson, who along with other members of the Canadian elite painters known as the Group of Seven, found the environment inspiring. Thomson served as a guide in the park, often working from Mowat Lodge. He did much of his painting at Canoe Lake, a favourite site overlooking the central portion of the lake. A cairn and totem pole memorial, erected by friends of the painter, stands on Hayhurst Point, near the north end of the lake where he died. Another noted Canadian painter who died in the park was Ken Danby, a celebrated painter of highly realistic portrayals of everyday life. Contemporary painters continue to display a love of nature and a profound appreciation of the natural world through their awe-inspiring works of the park's landscapes.\n\n(E) Algonquin became popular during the 1950s and 60s for year-round open-air pastimes. Visitors eager to see the diversity of wildlife and explore the 2400 lakes and 1200km of streams and rivers contributed to the establishment of canoeing routes, fishing, horseback riding and cross-country skiing. To preserve wildlife and wilderness areas, and to minimize contact with people, many idea! locations could only be accessed by canoe or on foot. More than 53 species of mammals, 272 species of birds, 31 species of reptiles and amphibians, and 54 species of fish consider Algonquin home. Also, the park developed a visitor centre which now features exhibits about the natural and cultural history of the park. There are nineteen interpretive trails, ranging in length from 0.8km to 13km, and each trail provides a self-guided pamphlet which is meant to introduce visitors to a different aspect of the park's ecology or history.\n\n(F) As recreational use of the park increased, it became clear that a long-term plan to manage the park was required. Six years of consultation with park guests resulted in the Algonquin Master Plan. It was an organizational plan that sought to ensure that the park could continue indefinitely to serve all the competing park interests. Three major changes have come about as a result of this plan. First, the park is now divided into regions with different specified purposes and uses: Nature Reserve and Historic; Wilderness; Development, Recreation-Utilization. The second change was to segregate logging, as much as possible, from recreational users of the park. This would help to maintain the park's natural environment and integrity. Thirdly, rules were put in place to limit the impact of recreational use of the park. For example, recyclables are banned in the interior. Also there are restrictions on the number of people who can enter per day and there are limits to the number of people occupying a campsite. Finally, the use of motor boats is limited to a few of the larger and more accessible lakes. The master plan continues to be reviewed and updated on a regular basis."
+      }
+    }
+  ]
+}

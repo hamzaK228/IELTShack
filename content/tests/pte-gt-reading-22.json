@@ -1,0 +1,639 @@
+{
+  "id": "pte-gt-reading-22",
+  "title": "General Training Reading — Practice Test 22",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Nature's Gate Sunblock Lotion",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-22-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The lotion will reduce the chance of premature aging of the skin.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It's 30 times more powerful as a protector than your own skin can provide.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Apply 30 minutes after going into the sun.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Reapply heavily after swimming and perspiring.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Use less if you are getting a rash.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cannot reduce aging of the skin but may stop it from happening before it should.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The IDD Prefix …",
+          "options": [
+            {
+              "id": "A",
+              "text": "follows the Country Code."
+            },
+            {
+              "id": "B",
+              "text": "is the access code used to call a person within that country."
+            },
+            {
+              "id": "C",
+              "text": "may never be used with the NDD."
+            },
+            {
+              "id": "D",
+              "text": "may or may not be used with IDD."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The NDD Prefix …",
+          "options": [
+            {
+              "id": "A",
+              "text": "applies to calls from one country to another."
+            },
+            {
+              "id": "B",
+              "text": "is before the country code."
+            },
+            {
+              "id": "C",
+              "text": "is always used from one city to another."
+            },
+            {
+              "id": "D",
+              "text": "cannot be used for international calls."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The city code …",
+          "options": [
+            {
+              "id": "A",
+              "text": "may be used only with calls within the country."
+            },
+            {
+              "id": "B",
+              "text": "is used instead of the country code for calls within a country."
+            },
+            {
+              "id": "C",
+              "text": "is followed by the NDD."
+            },
+            {
+              "id": "D",
+              "text": "is always a one-digit number."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Nature's Gate Sunblock Lotion",
+        "text": "An ideal family lotion for the great outdoors. A non-greasy moisturizing lotion combining Citronella and Cedar Wood oils. These natural oils have long been recognized as effective in outdoor products. Nature's Gate Sunblock Lotion SPF 30 provides 30 times your natural sunburn protection. The liberal and regular use of this product may help reduce the chance of premature aging of the skin. Nature's Gate guarantees that you will enjoy the feeling and effect of this product or you can refund your money.\n\nDirections: 1. Keep in a cool dry place, unexposed. 2. Apply liberally 30 minutes before going into the sun. 3. Re-apply after swimming or perspiring heavily. 4. Apply to exposed skin areas every two to three hours. Caution! • For external use only. • Discontinue use if signs of irritation or rash appear. • Avoid contact with the eyes.\n\nWith extracts of Wild Pansy and Coffee\n\nCruelty free\n\nPh Balanced\n\nBiodegradable\n\nWaterproof"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Country Codes, IDD (International Direct Dialing) prefixes, and NDD (National Direct Dialing) prefixes.",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-22-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "You can find the members regularly meeting",
+          "options": [
+            {
+              "id": "A",
+              "text": "at JCR Devonshire House."
+            },
+            {
+              "id": "B",
+              "text": "the SU office."
+            },
+            {
+              "id": "C",
+              "text": "online."
+            },
+            {
+              "id": "D",
+              "text": "at Freshers Squash."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The above posting is",
+          "options": [
+            {
+              "id": "A",
+              "text": "an advertisement for events and objects related to a club."
+            },
+            {
+              "id": "B",
+              "text": "information relevant to anyone with some interest in the club."
+            },
+            {
+              "id": "C",
+              "text": "information for members of the Expedition Club only."
+            },
+            {
+              "id": "D",
+              "text": "a notice of upcoming events for new members. • We sincerely hope you had a great holiday and look forward to your stories over the summer • Signing up meeting – Tues 10th Sept (week 2) in JCR, Devonshire House • This term’s trips are now listed, but full details won’t be up for a few days. Check the S.U. Bulletin Board for regular postings • Come and find us at the Freshers Squash each week (Wed 7pm)…. • Special meeting for club monitors at the S. U Office • Regular outdoor newsfeeds now online. Includes details about regular meetings. • We congratulate Mary and Jake Ashton on their marriage over the summer. Jake, as you may know is a long serving member of the Expedition Society and we now hope he still has the energy to join us on those long journeys! • Dave James is selling a goretex jacket. Email him for more info…."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Picks you up at the airport. ______",
+          "answer": "BOTH",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Helps you to get to know the University and its facilities. ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Helps you to find a place to live. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Gives the kind of financial advise students need regarding shopping. ______",
+          "answer": "NEITHER",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q16",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Helps to find you a tutor if you need one. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q17",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Might help you to get in touch with organizations in the local community that can provide assistance with your child's education. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q18",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Might arrange parties or get-togethers. Student Support at Smithwicks University Australia International Student Advisers International Student Advisers are available at Smithwicks International Offices on each campus and they manage all the support services for international students on that campus.The ISAs are part of a team of highly skilled people who are committed to helping all international students achieve the greatest rewards from studying at Smithwicks. When you are on campus at Smithwicks you can speak to one of the 1SAs about any matter that you would like. They will assist you directly or refer you to expert help where appropriate. The ISAs arrange special support programs including: Enrolment and Orientation Program Follow Up Programs Community Links Programs Returning Home Programs Peer Support Program Training Airport Reception Pre-Departure Seminar Resources AusAID Liaison Officer(ALO) The ALO manages the scholarships of AusAID sponsored students. The ALO works with the International Student Advisers (ISAs) to ensure students are given every opportunity to be successful in their studies. Students are made aware of their entitlements and responsibilities from when they arrive. The work of the ALO and support services offered include: Airport reception Assistance with accommodation Development of macro skills in academic and computing fields Regular follow up and dialogue with all students to deal with emerging issues Group meetings with students to discuss scholarship policy and university administration Liaison on behalf of students with Faculties and Divisions in the University Arranging academic assistance if required Managing living allowance payments Arranging health insurance for students and their families Advising about assistance from external agencies, schooling for children Community contact opportunities, etc. Liaising with AusAID about scholarship issues Arranging social functions Smithwicks University is proud of the many AusAID scholarship graduates who have returned home to over 28 countries after having successfully completed their studies. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you can't park at a University car park, where can you park? ______",
+          "answer": "public car park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What kind of college did it first start out as? ______",
+          "answer": "college of design",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After it amalgamated, what was it called? ______",
+          "answer": "lanchester polytechnic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "ln which part of Coventry is the University located? ______",
+          "answer": "city hub (centre)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How many campuses are there? ______",
+          "answer": "one campus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How large is the campus? ______",
+          "answer": "33 acres",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Country Codes, IDD (International Direct Dialing) prefixes, and NDD (National Direct Dialing) prefixes.",
+        "text": "Country Code The country code should be used when dialing to that particular country from another country. In some cases, you will also need to dial a city or area code. When a country name appears in the table, there will be additional information regarding city or area codes.\n\nIDD Prefix (International Direct Dialing) The IDD prefix is the access code needed to dial a call from the country listed to another country. This is followed by the country code for the country you are calling (see above).\n\nNDD Prefix (National Direct Dialing) The NDD prefix is the access code used to make a call within that country from one city to another (when calling another city in the same vicinity, this may not be necessary). The NDD is followed by the city/area code for the place you are calling (city/area codes, where applicable, can be viewed by following the link from the country name on the table below). Phone numbers are often written in this format: +44-(0)1224-XXXX-XXXX. This expresses the numbers used for both international and national long-distance calls. In the example, +44 indicates the country _code, while (0) indicates the NDD. When dialing from outside the country, the NDD would not be used after dialing the country code; when dialing from within that country, the NDD would be used, but the country code would not."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Coventry University",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-22-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "H In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries. ______",
+          "answer": "NG",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Coventry University",
+        "text": "How to Find Us Coventry University covers 33 acres right in the heart of Coventry City centre, with Coventry University Performing Arts just a few miles away. The campus is easily reached by road, rail, or air.\n\nCar Parking Car parking spaces are very limited at the University itself. Ask the member of staff you are visiting whether it is possible to reserve a visitor's car parking space for you in one of the University car parks. If not, there are a number of public car parks located close to the University.\n\nEmergency In an emergency you can call the University Reception on 024 76 838774 during office hours. The main University switchboard number is 024 76 631313 (24 hours). Where is Coventry University? Coventry University's modern, purpose-built campus covers 33 acres of ground in the centre of Coventry. Improvements are constantly being carried out to ensure that the working environment is as pleasant and as welcoming as possible. The campus' location at the hub of the City means you can enjoy the benefits of being close to shops, banks, the main bus station and the railway station. Because the University is contained on one campus, you will not have to waste time traveling between lectures, and you will soon start to recognise the same faces every day. It also means cafés, refectories and the Students' Union are all on hand when you want a break, to meet friends or finish for the day. Before long, you will not only feel part of the University but part of the City, too. But do not just take our word for it—you are welcome to come and take a look around, either on one of the open days or on an informal visit at any time to get a glimpse of campus life.\n\nHistory Coventry University has a long tradition as a provider of education. It can trace its roots as far back as Coventry College of Design in 1843. It was in 1970 that Coventry College of Art amalgamated with Lanchester College of Technology and Rugby College of Engineering Technology. The resulting institution was called Lanchester Polytechnic: 'Lanchester' after the Midlands automotive industry pioneer, Dr Frederick Lanchester, and 'Polytechnic' meaning 'skilled in many sciences and arts'. In 1987, the name was changed to Coventry Polytechnic. In 1992, we adopted the title Coventry University. However, the Lanchester name has been preserved in the title of our art gallery, the Lanchester Gallery, as well as in the Lanchester Library and our Lanchester Restaurant."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Studying in the UK – Why is Britain now home to over a quarter of a million international students?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-22-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are 270,000 international students studying at universities in Britain.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most international students return home after they're finished.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Child-care facilities are provided free, unlike in many other countries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The crime rate in Britain is lower than in other countries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students can go to see teachers during course hours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-22-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students unions arrange social events.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Studying in the UK – Why is Britain now home to over a quarter of a million international students?",
+        "text": "(A) Students come to study in the UK from all over the world, from over 180 countries–the European Union, Australia and New Zealand, the USA, Asia, Africa, the Middle East, Far East, South America… Some British universities have students from 100 countries. There are currently more than 270,000 international students in the UK. Of that number, about 75 per cent are education courses, with 130,500 (almost equal numbers of men and women) studying full-time undergraduate courses.\n\n(B) Why do they come to UK universities? First, because they gain a high-quality qualification that is recognised worldwide. Thousands of international students have used their UK qualifications to get a good job. Second, if English is not their mother tongue, they will probably be completely fluent by the time they graduate! One other reason for studying in Britain is the ease of the UKIELTS application system. Instead of applying to several different universities or colleges, taking their admissions tests and paying their application fees, students can do -it all on one form. They may choose up to six courses by sending the form to the Universities and Colleges Admissions Service (UCAS) whose staff deals with the applications for them. If the students' schools, college or nearest British Council offices have access to the system, they can even complete the form electronically through the Internet.\n\n(C) It's a big decision to study a long way from home. But students can be sure of plenty of support in the UK. Universities and colleges look after their students. There are personal tutors, counsellors, study skills counsellors and financial advisers to help with any problems. There are also chaplains or representatives of major religions. In addition, there are medical services, and if a course lasts for more than six months, students are entitled to free medical care under the National Health Service. All students may use these services. However, many institutions also have international student advisers. Students can contact them with any questions before you come; they will probably arrange a transport service from major airports for arriving students and will organise welcoming events. International students can also go to see them at any time during their courses. For students with families, child-care facilities are often provided at reasonable cost. It's not compulsory to use any of these services. If a student is independent and has no problems, they won't come knocking on his or her door! But it can be comforting to know that they are there.\n\n(D) Campuses are safe places to live, as in general are most UK towns. As with anywhere else, there are areas in some cities best avoided after dark but you will be advised on this. Universities and colleges make sure student residences are secure, and at most places transport is provided at night for women students.\n\n(E) Students will be able to take part in a range of social and sporting activities. There are team and individual sports at all levels; and clubs and societies to cover any interest from drama to politics, water sports to backgammon, debating to voluntary social work. The students unions arrange discos and gigs, and run pubs, bars and eating places. Clubs are run by students for students and are always well advertised at the beginning of the academic year. Joining one or two societies is a great way to meet other students from Britain and other countries.\n\n(F) There are thousands of courses to choose from. Some students choose a vocational one. Agriculture and related subjects, engineering, law and business studies are popular with international students. Others choose an academic subject such as history or politics. The choice is virtually unlimited. And what do international students do at the end of their courses? Some stay on to do postgraduate work. (20 per cent of students on UK postgraduate courses are from overseas.) The majority return home, armed with their UK qualifications. If a student's English is not yet quite good enough to enroll in a degree course, he or she might like to spend some time first on an English language course. There are plenty to choose from–some held in universities and colleges, some in private language schools. The British Council can offer advice on choosing the right one. Some students may need some additional academic qualifications. In such cases a student can consider taking a foundation or IELTS (General Training) IA access course, run by many of Britain's higher education institutions.\n\n(G) Fees may look high at first, but when one takes the following points into account, costs at UK universities and colleges compare well with costs in other English–speaking countries. Most UK courses are at least one year shorter than those in other countries. Included in the course fee are: All tuition (except books and equipment); normally, free use of computing facilities, e-mail and Internet; language tuition if one wants to learn another language (and English-language support if needed); use of free or cheap sports facilities; and a student would not be paying simply to attend lectures. Much teaching will be done in small groups. In addition, teaching staff is willing to provide extra help if a student needs it and the student can go to see them outside timetabled course hours.\n\n(H) In conclusion, there are several key benefits to studying in the UK. Firstly, standards in UK higher institutions are generally higher than others, and a student will gain an internationally recognised qualification. Secondly, a student will meet students from all over the world, and get a head start in building international connections. Thirdly, most universities and colleges provide accommodation for first-year international students and a variety of other services that are not provided to international students in many other English–speaking countries. Finally, the application system is simple, saving the cumbersome processes required by many other countries."
+      }
+    }
+  ]
+}

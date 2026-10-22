@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-21",
+  "title": "General Training Writing — Letter 21",
+  "kind": "practice",
+  "description": "Task 1 letter, 21 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-21-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You would like to buy some electrical goods at a shop in a nearby town.\nWrite a letter to the shop and ask if they have the things you want or whether they will be able to order them. Ask what the prices are and how long they will be able to hold the goods for you.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

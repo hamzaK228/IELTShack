@@ -1,0 +1,712 @@
+{
+  "id": "pte-listening-104",
+  "title": "Listening — Practice Test 104",
+  "kind": "practice",
+  "description": "One recording, 39 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-104-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Registration: 3R1 ______",
+          "answer": "JTW",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Current mileage: ______ miles",
+          "answer": "90,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Overnight parking: ______",
+          "answer": "on the road",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cover: third party ______",
+          "answer": "fire and theft",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 5. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-104-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "B 14 day cover courtesy car",
+          "options": [
+            {
+              "id": "A",
+              "text": "legal"
+            },
+            {
+              "id": "C",
+              "text": "driver injury"
+            },
+            {
+              "id": "D",
+              "text": "protected no claim bonus"
+            },
+            {
+              "id": "E",
+              "text": "breakdown"
+            },
+            {
+              "id": "F",
+              "text": "lost car key"
+            },
+            {
+              "id": "G",
+              "text": "windscreen"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "B 14 day cover courtesy car",
+          "options": [
+            {
+              "id": "A",
+              "text": "legal"
+            },
+            {
+              "id": "C",
+              "text": "driver injury"
+            },
+            {
+              "id": "D",
+              "text": "protected no claim bonus"
+            },
+            {
+              "id": "E",
+              "text": "breakdown"
+            },
+            {
+              "id": "F",
+              "text": "lost car key"
+            },
+            {
+              "id": "G",
+              "text": "windscreen"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Postcode: ______",
+          "answer": "B561ED",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Payment by: ______",
+          "answer": "debit card/ Visa card",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How did the customer hear about Hartline? ______",
+          "answer": "on the internet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Every year more than people try to climb Mont Blanc. ______",
+          "answer": "30,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Approximately reach the top every day in the summer months. ______",
+          "answer": "200",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In July 2007 there were 30 fatalities, chiefly due to ______",
+          "answer": "bad weather",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One danger is caused by other climbers. ______",
+          "answer": "falling rocks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How did Katherine do her most recent climb?",
+          "options": [
+            {
+              "id": "A",
+              "text": "in a group"
+            },
+            {
+              "id": "B",
+              "text": "with a guide"
+            },
+            {
+              "id": "C",
+              "text": "on her own"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why did Katherine find her first climb on Mont Blanc difficult?",
+          "options": [
+            {
+              "id": "A",
+              "text": "because of poor weather conditions"
+            },
+            {
+              "id": "B",
+              "text": "because of the time she was climbing"
+            },
+            {
+              "id": "C",
+              "text": "because the route was crowded"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What did Katherine do on her second climb that made it easier?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she spent a few days in Charnonix beforehand"
+            },
+            {
+              "id": "B",
+              "text": "she did the climb over two days"
+            },
+            {
+              "id": "C",
+              "text": "she climbed smaller peaks for training"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What has experience taught Katherine about climbing Mont Blanc?",
+          "options": [
+            {
+              "id": "A",
+              "text": "be in good physical condition"
+            },
+            {
+              "id": "B",
+              "text": "have the right climbing equipment"
+            },
+            {
+              "id": "C",
+              "text": "wear several layers of clothing"
+            },
+            {
+              "id": "D",
+              "text": "protect yourself from the sun"
+            },
+            {
+              "id": "E",
+              "text": "climb with others"
+            },
+            {
+              "id": "F",
+              "text": "acclimatize yourself to the altitude first"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What has experience taught Katherine about climbing Mont Blanc?",
+          "options": [
+            {
+              "id": "A",
+              "text": "be in good physical condition"
+            },
+            {
+              "id": "B",
+              "text": "have the right climbing equipment"
+            },
+            {
+              "id": "C",
+              "text": "wear several layers of clothing"
+            },
+            {
+              "id": "D",
+              "text": "protect yourself from the sun"
+            },
+            {
+              "id": "E",
+              "text": "climb with others"
+            },
+            {
+              "id": "F",
+              "text": "acclimatize yourself to the altitude first"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What has experience taught Katherine about climbing Mont Blanc?",
+          "options": [
+            {
+              "id": "A",
+              "text": "be in good physical condition"
+            },
+            {
+              "id": "B",
+              "text": "have the right climbing equipment"
+            },
+            {
+              "id": "C",
+              "text": "wear several layers of clothing"
+            },
+            {
+              "id": "D",
+              "text": "protect yourself from the sun"
+            },
+            {
+              "id": "E",
+              "text": "climb with others"
+            },
+            {
+              "id": "F",
+              "text": "acclimatize yourself to the altitude first"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When do Elaine and Adam decide to meet for revision? ______",
+          "answer": "monday and thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What item does Adam think will help them work independently on revision? ______",
+          "answer": "timetable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How does Elaine suggest they spend their revision time between meetings? ______",
+          "answer": "arranging materials",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "It's best to avoid notes ______",
+          "answer": "word for word",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Relate to key theories and arguments. ______",
+          "answer": "facts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Using diagrams can help keep a lot of information ______",
+          "answer": "organised",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bullet points can enable you to highlight ______",
+          "answer": "key points",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Keep a record of your sources, such as the ______",
+          "answer": "author and publisher",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In future revision sessions Adam suggests using past papers",
+          "options": [
+            {
+              "id": "A",
+              "text": "to try to predict future exam questions"
+            },
+            {
+              "id": "B",
+              "text": "to test each other"
+            },
+            {
+              "id": "C",
+              "text": "to discuss the questions"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Elaine suggests",
+          "options": [
+            {
+              "id": "A",
+              "text": "adding essay practice to the timetable"
+            },
+            {
+              "id": "B",
+              "text": "doing essays under exam conditions"
+            },
+            {
+              "id": "C",
+              "text": "asking a tutor to mark their essays"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the text, shared space",
+          "options": [
+            {
+              "id": "A",
+              "text": "is very popular in the Netherlands"
+            },
+            {
+              "id": "B",
+              "text": "reduces the number of cars in an area"
+            },
+            {
+              "id": "C",
+              "text": "improves the dynamic between drivers and pedestrians"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Shared space design results in",
+          "options": [
+            {
+              "id": "A",
+              "text": "fewer road signs"
+            },
+            {
+              "id": "B",
+              "text": "stronger boundaries between pedestrians and motorists"
+            },
+            {
+              "id": "C",
+              "text": "increased local employment"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Supporters of shared space argue that it",
+          "options": [
+            {
+              "id": "A",
+              "text": "leads to new businesses opening"
+            },
+            {
+              "id": "B",
+              "text": "makes people happier to shop in the area"
+            },
+            {
+              "id": "C",
+              "text": "encourages wildlife"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q34",
+          "skill": "listening",
+          "type": "matching",
+          "prompt": "Insufficient experience amongst planners",
+          "options": [
+            {
+              "id": "A",
+              "text": "Motorists"
+            },
+            {
+              "id": "B",
+              "text": "Blind people"
+            },
+            {
+              "id": "C",
+              "text": "Cyclists"
+            },
+            {
+              "id": "D",
+              "text": "Supporters of shared space"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q35",
+          "skill": "listening",
+          "type": "matching",
+          "prompt": "A lack of important signage",
+          "options": [
+            {
+              "id": "A",
+              "text": "Motorists"
+            },
+            {
+              "id": "B",
+              "text": "Blind people"
+            },
+            {
+              "id": "C",
+              "text": "Cyclists"
+            },
+            {
+              "id": "D",
+              "text": "Supporters of shared space"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q36",
+          "skill": "listening",
+          "type": "matching",
+          "prompt": "Intimidation by motorists",
+          "options": [
+            {
+              "id": "A",
+              "text": "Motorists"
+            },
+            {
+              "id": "B",
+              "text": "Blind people"
+            },
+            {
+              "id": "C",
+              "text": "Cyclists"
+            },
+            {
+              "id": "D",
+              "text": "Supporters of shared space"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q37",
+          "skill": "listening",
+          "type": "matching",
+          "prompt": "The loss of familiar street furniture",
+          "options": [
+            {
+              "id": "A",
+              "text": "Motorists"
+            },
+            {
+              "id": "B",
+              "text": "Blind people"
+            },
+            {
+              "id": "C",
+              "text": "Cyclists"
+            },
+            {
+              "id": "D",
+              "text": "Supporters of shared space"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "People will be able to answer the questions",
+          "options": [
+            {
+              "id": "A",
+              "text": "on the internet"
+            },
+            {
+              "id": "B",
+              "text": "at the local library"
+            },
+            {
+              "id": "C",
+              "text": "at the proposed site"
+            },
+            {
+              "id": "D",
+              "text": "at home"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "People will be able to answer the questions",
+          "options": [
+            {
+              "id": "A",
+              "text": "on the internet"
+            },
+            {
+              "id": "B",
+              "text": "at the local library"
+            },
+            {
+              "id": "C",
+              "text": "at the proposed site"
+            },
+            {
+              "id": "D",
+              "text": "at home"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-104-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Questions must be designed so that they",
+          "options": [
+            {
+              "id": "A",
+              "text": "do not reflect the views of the campaign group"
+            },
+            {
+              "id": "B",
+              "text": "do not require an understanding of shared space"
+            },
+            {
+              "id": "C",
+              "text": "are easy to answer."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/104_we.mp3"
+    }
+  ]
+}

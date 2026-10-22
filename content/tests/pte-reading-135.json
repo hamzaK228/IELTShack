@@ -1,0 +1,946 @@
+{
+  "id": "pte-reading-135",
+  "title": "Academic Reading — Practice Test 135",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: The Origins Of Laughter",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-135-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Babies and some animals produce laughter which sounds similar.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Primates are not the only animals who produce laughter.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Laughter can be used to show that we feel safe and secure with others.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Most human laughter is not a response to a humorous situation.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Animal laughter evolved before human laughter.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Laughter is a social activity. List of people",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some scientists believe that laughter first developed out of ______Research has revealed that human and chimp laughter may have the same (8) ______Scientists have long been aware that (9) ______laugh, but it now appears that laughter might be more widespread than once thought. Although the reasons why humans started to laugh are still unknown, it seems that laughter may result from the (10) ______we feel with another person.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            },
+            {
+              "id": "E",
+              "text": "play"
+            },
+            {
+              "id": "F",
+              "text": "rats"
+            },
+            {
+              "id": "G",
+              "text": "primates"
+            },
+            {
+              "id": "H",
+              "text": "confidence"
+            },
+            {
+              "id": "I",
+              "text": "fear"
+            },
+            {
+              "id": "J",
+              "text": "babies"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some scientists believe that laughter first developed out of (7) ______Research has revealed that human and chimp laughter may have the same ______Scientists have long been aware that (9) ______laugh, but it now appears that laughter might be more widespread than once thought. Although the reasons why humans started to laugh are still unknown, it seems that laughter may result from the (10) ______we feel with another person.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            },
+            {
+              "id": "E",
+              "text": "play"
+            },
+            {
+              "id": "F",
+              "text": "rats"
+            },
+            {
+              "id": "G",
+              "text": "primates"
+            },
+            {
+              "id": "H",
+              "text": "confidence"
+            },
+            {
+              "id": "I",
+              "text": "fear"
+            },
+            {
+              "id": "J",
+              "text": "babies"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some scientists believe that laughter first developed out of (7) ______Research has revealed that human and chimp laughter may have the same (8) ______Scientists have long been aware that ______laugh, but it now appears that laughter might be more widespread than once thought. Although the reasons why humans started to laugh are still unknown, it seems that laughter may result from the (10) ______we feel with another person.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            },
+            {
+              "id": "E",
+              "text": "play"
+            },
+            {
+              "id": "F",
+              "text": "rats"
+            },
+            {
+              "id": "G",
+              "text": "primates"
+            },
+            {
+              "id": "H",
+              "text": "confidence"
+            },
+            {
+              "id": "I",
+              "text": "fear"
+            },
+            {
+              "id": "J",
+              "text": "babies"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some scientists believe that laughter first developed out of (7) ______Research has revealed that human and chimp laughter may have the same (8) ______Scientists have long been aware that (9) ______laugh, but it now appears that laughter might be more widespread than once thought. Although the reasons why humans started to laugh are still unknown, it seems that laughter may result from the ______we feel with another person.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            },
+            {
+              "id": "E",
+              "text": "play"
+            },
+            {
+              "id": "F",
+              "text": "rats"
+            },
+            {
+              "id": "G",
+              "text": "primates"
+            },
+            {
+              "id": "H",
+              "text": "confidence"
+            },
+            {
+              "id": "I",
+              "text": "fear"
+            },
+            {
+              "id": "J",
+              "text": "babies"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Both men and women laugh more when they are with members of the same sex",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Primates lack sufficient breath control to be able to produce laughs the way humans do.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chimpanzees produce laughter in a wider range of situations than rats do.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "The Origins Of Laughter",
+        "text": "While joking and wit are uniquely human inventions, laughter certainly is not. Other creatures, including chimpanzees, gorillas and even rats, laugh. The fact that they laugh suggests that laughter has been around for a lot longer than we have. There is no doubt that laughing typically involves groups of people. \"Laughter evolved as a signal to others — it almost disappears when we are alone,\" says Robert Provine, a neuroscientist at the University of Maryland. Provine found that most laughter comes as a polite reaction to everyday remarks such as \"see you later\", rather than anything particularly funny. And the way we laugh depends on the company we're keeping. Men tend to laugh longer and harder when they are with other men, perhaps as a way of bonding. Women tend to laugh more and at a higher pitch when men are present, possibly indicating flirtation or even submission. To find the origins of laughter, Provine believes we need to look at play. He points out that the masters of laughing are children, and nowhere is their talent more obvious than in the boisterous antics, and the original context is play. Well-known primate watchers, including Dian Fossey and Jane Goodall, have long argued that chimps laugh while at play. The sound they produce is known as a pant laugh. It seems obvious when you watch their behavior — they even have the same ticklish spots as we do. But after removing the context, the parallel between human laughter and a chimp's characteristic pant laugh is not so clear. When Provine played a tape of the pant laughs to 119 of his students, for example, only two guessed correctly what it was. These findings underline how chimp and human laughter vary- When we laugh the sound is usually produced by chopping up a single exhalation into a series of shorter with one sound produced on each inward and outward breath. The question is: does this pant laughter have the same source as our own laughter? New research lends weight to the idea that it does. The findings come from Elke Zimmerman, head of the Institute for Zoology in Germany, who compared the sounds made by babies and chimpanzees in response to tickling during the first year of; their life. Using sound spectrographs to reveal the pitch and intensity of vocalizations, she discovered that chimp and human baby laughter follow broadly the same pattern. Zimmerman believes the closeness of baby laughter to chimp laughter supports the idea that laughter was around long before humans arrived on the scene. What started simply as a modification of breathing associated with enjoyable and playful interactions has acquired a symbolic meaning as an indicator of pleasure. Pinpointing when laughter developed is another matter. Humans and chimps share a common ancestor that lived perhaps 8 million years ago, but animals might have been laughing long before that. More distantly related primates, including gorillas, laugh, and anecdotal evidence suggests that other social mammals can do too. Scientists are currently testing such stories with a comparative analysis of just how common laughter is among animals. So far, though, the most compelling evidence for laughter beyond primates comes from research done by Jaak Panksepp from Bowling Green State University, Ohio, into the ultrasonic chirps produced by rats during play and in response to tickling. All this still doesn't answer the question of why we laugh at all. One idea is that laughter and tickling originated as a way of sealing the relationship between mother and child. Another is that the reflex response to tickling is protective, alerting us to the presence of crawling creatures that might harm us or compelling us to defend the parts of our bodies that are most vulnerable in hand-to-hand combat. But the idea that has gained the most popularity in recent years is that laughter in response to tickling is a way for two individuals to signal and test their trust in one another. This hypothesis starts from the observation that although a little tickle can be enjoyable, if it goes on too long it can be torture. By engaging in a bout of tickling, we put ourselves at the mercy of another individual, and laughing is what makes it a reliable signal of trust, according to Tom Flamson, a laughter researcher at the University of California, Los Angels. \"Even in rats, laughter, tickle, play and trust are linked. Rats chirp a lot when they play,\" says Flamson. \"These chirps can be aroused by tickling. And they get bonded to us as a result, which certainly seems like a show of trust.\" We'll never know which animal laughed the first laugh, or why. But we can be sure it wasn't in response to a prehistoric joke. The funny thing is that while the origins of laughter are probably quite serious, we owe human laughter and our language- based humor to the same unique skill. While other animals pant, we alone can control our breath well enough to produce the sound of laughter. Without that control there would also be no speech — and no jokes to endure."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: The Lost City",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-135-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The reason for the deployment of a variety of investigative methods",
+          "options": [
+            {
+              "id": "A",
+              "text": "They detect minute buried objects for the archaeologists to dig up."
+            },
+            {
+              "id": "B",
+              "text": "They pinpoint key areas, which would be worth investigating closely."
+            },
+            {
+              "id": "C",
+              "text": "They remove the need for archaeologists to excavate any part of the site."
+            },
+            {
+              "id": "D",
+              "text": "They extend the research periods as they can be used at any time of year."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An example of an unexpected find",
+          "options": [
+            {
+              "id": "A",
+              "text": "Provine"
+            },
+            {
+              "id": "B",
+              "text": "Zimmerman"
+            },
+            {
+              "id": "C",
+              "text": "Panksepp"
+            },
+            {
+              "id": "D",
+              "text": "Flamson"
+            },
+            {
+              "id": "E",
+              "text": "play"
+            },
+            {
+              "id": "F",
+              "text": "rats"
+            },
+            {
+              "id": "G",
+              "text": "primates"
+            },
+            {
+              "id": "H",
+              "text": "confidence"
+            },
+            {
+              "id": "I",
+              "text": "fear"
+            },
+            {
+              "id": "J",
+              "text": "babies"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "How the surface of the site was surveyed from above",
+          "options": [
+            {
+              "id": "A",
+              "text": "They detect minute buried objects for the archaeologists to dig up."
+            },
+            {
+              "id": "B",
+              "text": "They pinpoint key areas, which would be worth investigating closely."
+            },
+            {
+              "id": "C",
+              "text": "They remove the need for archaeologists to excavate any part of the site."
+            },
+            {
+              "id": "D",
+              "text": "They extend the research periods as they can be used at any time of year."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The reason why experts are interested in the site",
+          "options": [
+            {
+              "id": "A",
+              "text": "They detect minute buried objects for the archaeologists to dig up."
+            },
+            {
+              "id": "B",
+              "text": "They pinpoint key areas, which would be worth investigating closely."
+            },
+            {
+              "id": "C",
+              "text": "They remove the need for archaeologists to excavate any part of the site."
+            },
+            {
+              "id": "D",
+              "text": "They extend the research periods as they can be used at any time of year."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "HOT-AIR BALLOON",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "IRON PARTICLES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "COMPASS (NEEDLE)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "THIN METAL PROBE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "MUDBRICK",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "LOOSER DAMP SOIL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the ______, when conditions are more favourable. Resistivity is mainly being used to (25) ______some images generated by the magnetometer.",
+          "answer": "SPRING SEASON",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Archaeologists began working ten years ago. They started by taking photographs of the site from the ground and then from a distance in a (18) ______They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These variations occur when the (19) ______in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a (20) ______would do. The other remote-sensing technique employed was resistivity. This uses a (21) ______to fire electrical pulses into the earth. The principle is that building materials like (22) ______and stone do not conduct electricity well, while (23) ______does this much more effectively. This technique is mainly employed during the (24) ______, when conditions are more favourable. Resistivity is mainly being used to ______some images generated by the magnetometer.",
+          "answer": "CLARIFY",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How do modern remote-sensing techniques help at the Pteria site?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They detect minute buried objects for the archaeologists to dig up."
+            },
+            {
+              "id": "B",
+              "text": "They pinpoint key areas, which would be worth investigating closely."
+            },
+            {
+              "id": "C",
+              "text": "They remove the need for archaeologists to excavate any part of the site."
+            },
+            {
+              "id": "D",
+              "text": "They extend the research periods as they can be used at any time of year."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The Lost City",
+        "text": "Thanks to modern remote-sensing techniques, a ruined city in Turkey is slowly revealing itself as one of the greatest and most mysterious cities of the ancient world. Sally Palmer uncovers more.\n\n(A) The low granite mountain, known as Kerkenes Dag, juts from the northern edge of the Cappadocian plain in Turkey. Sprawled over the mountainside are the ruins of an enormous city, contained by crumbling defensive walls seven kilometers long. Many respected archaeologists believe these are the remains of the fabled city of Pteria, the sixth-century BC stronghold of the Medes that the Greek historian Herodotus described in his famous work The Histories. The short-lived city came under Median control and only fifty years later was sacked, burned and its strong stone walls destroyed.\n\n(B) British archaeologist Dr Geoffrey Summers has spent ten years studying the site. Excavating the ruins is a challenge because of the vast area they cover. The 7 km perimeter walls run around a site covering 271 hectares. Dr Summers quickly realised it would take far too long to excavate the site using traditional techniques alone. So he decided to use modern technology as well to map the entire site, both above and beneath the surface, to locate the most interesting areas and priorities to start digging.\n\n(C) In 1993, Dr Summers hired a special hand-held balloon with a remote-controlled camera attached. He walked over the entire site holding the balloon and taking photos. Then one afternoon, he rented a hot-air balloon and floated over the site, taking yet more pictures. By the end of the 1994 season, Dr Summers and his team had a jigsaw of aerial photographs of the whole site. The next stage was to use remote sensing, which would let them work out what lay below the intriguing outlines and ruined walls. \"Archaeology is a discipline that lends itself very well to remote sensing because it revolves around space,\" says Scott Branting, an associated director of the project. He started working with Dr Summers in 1995.\n\n(D) The project used two main remote-sensing techniques. The first is magnetometry, which works on the principle that magnetic fields at the surface of the Earth are influenced by what is buried beneath. It measures localised variations in the direction and intensity of this magnetic field. \"The Earth s magnetic field can vary from place to place, depending on what happened there in the past says Brantmg. \"If something containing iron oxide was heavily burnt, by natural or human actions, the iron particles in it can be permanently reoriented, like a compass needle, to align with the Earth's magnetic field present at that point in time and space.\" The magnetometer detects differences in the orientations and intensities of these iron particles from the present-day magnetic field and uses them to produce an image of what lies below ground.\n\n(E) Kerkenes Dag lends itself particularly well to magnetometry because it was all burnt once in a savage fire. In places the heat was sufficient to turn sandstone to glass and to melt granite. The fire was so hot that there were strong magnetic signatures set to the Earth's magnetic field from the time – around 547 BC – resulting in extremely clear pictures. Furthermore, the city was never rebuilt. \"If you have multiple layers, it can confuse pictures, because you have different walls from different periods giving signatures that all go in different directions,\" says Branting. \"We only have one going down about 1.5 meters, so we can get a good picture of this fairly short-lived city.\"\n\n(F) The other main sub-surface mapping technique, which is still being used at the site, is resistivity. This technique measures the way electrical pulses are conducted through sub¬surface soil. It's done by shooting pulses into the ground through a thin metal probe. Different materials have different electrical conductivity. For example, stone and mudbrick are poor conductors, but looser, damp soil conducts very well. By walking around the site and taking about four readings per metre, it is possible to get a detailed idea of what is where beneath the surface. The teams then build up pictures of walls, hearths and other remains. \"It helps a lot if it has rained, because the electrical pulse can get through more easily,\" says Branting. \"Then if something is more resistant, it really shows up.\" This is one of the reasons that the project has a spring season, when most of the resistivity work is done. Unfortunately, testing resistivity is a lot slower than magnetometry. \"If we did resistivity over the whole site it would take about 100 years,\" says Branting. Consequently, the team is concentrating on areas where they want to clarify pictures from the magnetometry.\n\n(G) Remote sensing does not reveal everything about Kerkenes Dag, but it shows the most interesting sub-surface areas of the site. The archaeologists can then excavate these using traditional techniques. One surprise came when they dug out one of the gates in the defensive walls. \"Our observations in early seasons led us to assume that we were looking at a stone base from a mudbrick city wall, such as would be found at most other cities in the Ancient Near East,\" says Dr Summers. \"When we started to excavate we were staggered to discover that the walls were made entirely from stone and that the gate would have stood at least ten metres high. After ten years of study, Pteria is gradually giving up its secrets.\""
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Designed to Last",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-135-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the second paragraph, the expression 'conscience time' refers to the fact that the owners",
+          "options": [
+            {
+              "id": "A",
+              "text": "wish they had not bought the power tool."
+            },
+            {
+              "id": "B",
+              "text": "want to make sure the tool is stored safely."
+            },
+            {
+              "id": "C",
+              "text": "feel that the tool will increase in value in the future."
+            },
+            {
+              "id": "D",
+              "text": "would feel guilty if they threw the tool away immediately."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Jonathan Chapman uses the word 'narrative' in the third paragraph to refer to the fact that the owner",
+          "options": [
+            {
+              "id": "A",
+              "text": "told a story about how the item was bought."
+            },
+            {
+              "id": "B",
+              "text": "was aware of how the item had come into being."
+            },
+            {
+              "id": "C",
+              "text": "felt that the item became more useful over time."
+            },
+            {
+              "id": "D",
+              "text": "was told that the item had been used for a long time."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the third paragraph, the writer suggests that mass-produced goods are",
+          "options": [
+            {
+              "id": "A",
+              "text": "inferior in quality."
+            },
+            {
+              "id": "B",
+              "text": "less likely to be kept for a long time."
+            },
+            {
+              "id": "C",
+              "text": "attractive because of their lower prices."
+            },
+            {
+              "id": "D",
+              "text": "less tempting than goods which are traditionally produced."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Lack of personal connection to goods is described as producing",
+          "options": [
+            {
+              "id": "A",
+              "text": "a belief that older goods are superior."
+            },
+            {
+              "id": "B",
+              "text": "an attraction to well-designed packaging."
+            },
+            {
+              "id": "C",
+              "text": "a desire to demonstrate status through belongings."
+            },
+            {
+              "id": "D",
+              "text": "a desire to purchase a constant stream of new items."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Jeans and teddy bears are given as examples of goods which",
+          "options": [
+            {
+              "id": "A",
+              "text": "have been very well designed."
+            },
+            {
+              "id": "B",
+              "text": "take a long time to show wear."
+            },
+            {
+              "id": "C",
+              "text": "are valued more as they grow older."
+            },
+            {
+              "id": "D",
+              "text": "are used by the majority of the population."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People often buy goods that they make little use of.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Understanding the reasons for buying goods will help to explain why waste occurs.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People already rent more goods than they buy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Companies will charge less to repair goods in the future.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer believes that the recipe for reducing our impact on the environment is a simple one. He states that we should use less energy for things such as lighting or ______, and buy (37) ______ that will not need to be moved across long distances.",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer believes that the recipe for reducing our impact on the environment is a simple one. He states that we should use less energy for things such as lighting or (36) ______, and buy ______ that will not need to be moved across long distances.",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some expensive items such as ______could be shared, and others which may be less expensive but which are not needed often, such as (39) ______, could be rented instead of being purchased. He believes that manufacturers will need to design high-technology items such as (40) ______so that they can be recycled more easily.",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some expensive items such as (38) ______could be shared, and others which may be less expensive but which are not needed often, such as ______, could be rented instead of being purchased. He believes that manufacturers will need to design high-technology items such as (40) ______so that they can be recycled more easily.",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-135-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some expensive items such as (38) ______could be shared, and others which may be less expensive but which are not needed often, such as (39) ______, could be rented instead of being purchased. He believes that manufacturers will need to design high-technology items such as ______so that they can be recycled more easily.",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Designed to Last",
+        "text": "Jonathan Chapman, a senior lecturer at the University of Brighton, UK, is one of a new breed of 'sustainable designers'. Like many of us, they are concerned about the huge waste associated with Western consumer culture and the damage this does to the environment. Some, like Chapman, aim to create objects we will want to keep rather than discard. Others are working to create more efficient or durable consumer goods, or goods designed with recycling in mind. The waste entailed in our fleeting relationships with consumer durables is colossal. Domestic power tools, such as electric drills, are a typical example of such waste. However much DIY the purchaser plans to do, the truth is that these things are thrown away having been used, on average, for just ten minutes. Most will serve 'conscience time', gathering dust on a shelf in the garage; people are reluctant to admit that they have wasted their money. However, the end is inevitable: thousands of years in land-fill waste sites. In its design, manufacture, packaging, transportation and disposal, a power tool consumes many times its own weight of resources, all for a shorter active lifespan than that of the average small insect. To understand why we have become so wasteful, we should look to the underlying motivation of consumers. \"People own things to give expression to who they are, and to show what group of people they feel they belong to,\" Chapman says. In a world of mass production, however, that symbolism has lost much of its potency. For most of human history, people had an intimate relationship with objects they used or treasured. Often they made the objects themselves, or family members passed them on. For more specialised objects, people relied on expert manufacturers living close by, whom they probably knew personally. Chapman points out that all these factors gave objects a history — a narrative — and an emotional connection that today's mass-produced goods cannot possibly match. Without these personal connections, consumerist culture idolizes novelty instead. People know that they cannot buy happiness, but the chance to remake themselves with glossy, box-fresh products seems irresistible. When the novelty fades, they simply renew the excitement by buying more. Chapman's solution is what he calls 'emotionally durable design'. He says the challenge for designers is to create things we want to keep. This may sound like a tall order but it can be surprisingly straightforward. A favorite pair of old jeans, for example, just do not have the right feel until they have been worn and washed a hundred times. It is as if they are sharing the wearer's life story. The look can be faked, but it is simply not the same. Walter Stahel, visiting professor at the University of Surrey, UK, calls this 'the teddy bear factor'. No matter how ragged and worn a favorite teddy becomes, we don't rush out and buy another one. As adults, our teddy bear connects us to our childhood and this protects it from obsolescence. Stahel argues that this is what sustainable design needs to do with more products. The information age was supposed to lighten our economies and reduce our impact on the environment, but, in fact, the reverse seems to be happening. We have simply added information technology to the industrial era and speeded up the developed world's metabolism. The cure is hardly rocket science: minimise waste, stop moving things around so much and use people more. So what will post-throwaway consumerism look like? It might be as simple as installing energy-saving light bulbs, more efficient washing machines or choosing locally produced groceries with less packaging. In general, we will spend less on goods and more on services. Instead of buying a second car, for example, we might buy into a car-sharing network. Rather than following our current wasteful practices, we will buy less and rent a lot more; why own things such as tools that you use infrequently, especially things are likely to be updated all the time? Consumer durables will increasingly be sold with plans for their disposal. Electronic goods such as mobile phones will be designed to be recyclable, with the extra cost added into the retail price. Following Chapman's notion of emotionally durable design, there will be a move away from mass production and towards tailor-made articles and products designed and manufactured with greater craftsmanship, products which will be repaired rather than replaced, in the same way as was done in our grandparents' time. Companies will replace profit from bulk sales by servicing and repairing products chosen because we want them to last. Chapman acknowledges that it will be a challenge to persuade people to buy fewer goods, and ones that they intend to keep. At the moment, price competition between retailers makes it cheaper for consumers to replace rather than repair. Products designed to be durable and emotionally satisfying are likely to be more expensive, so how will we be persuaded to choose sustainability? Tim Cooper, from Sheffield Hallam University in the UK, points out that many people are already happy to pay a premium for quality, and that they also tend to value and care more for expensive goods. Chapman is also positive: \"People are ready to keep things for longer,\" he says, \"The problem is that a lot of industries don't know how to do that.\" Chapman believes that sustainable design is here to stay. \"The days when large corporations were in a position to choose whether to jump on the sustainability band-wagon or not are coming to an end,\" he says. Whether this is also the beginning of the end of the throwaway society remains to be seen."
+      }
+    }
+  ]
+}

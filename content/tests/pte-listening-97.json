@@ -1,0 +1,650 @@
+{
+  "id": "pte-listening-97",
+  "title": "Listening — Practice Test 97",
+  "kind": "practice",
+  "description": "One recording, 39 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-97-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does Matt suggest they do? ______",
+          "answer": "have a coffee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In which month is the party going to take place? ______",
+          "answer": "september",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where is Niki? ______",
+          "answer": "on holiday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How long is Matt going to be away for? ______",
+          "answer": "two weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What day of the week is the party going to be held? ______",
+          "answer": "saturday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The location of Nikki’s house on the map is ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-97-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The house has",
+          "options": [
+            {
+              "id": "A",
+              "text": "a bridge over the river"
+            },
+            {
+              "id": "B",
+              "text": "a large swimming pool"
+            },
+            {
+              "id": "C",
+              "text": "gardens leading down to the river"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The address is",
+          "options": [
+            {
+              "id": "A",
+              "text": "93 Wester road"
+            },
+            {
+              "id": "B",
+              "text": "39 West road"
+            },
+            {
+              "id": "C",
+              "text": "93 West road"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The telephone number is",
+          "options": [
+            {
+              "id": "A",
+              "text": "477113"
+            },
+            {
+              "id": "B",
+              "text": "447130"
+            },
+            {
+              "id": "C",
+              "text": "477130"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Each person has to give",
+          "options": [
+            {
+              "id": "A",
+              "text": "ten pounds"
+            },
+            {
+              "id": "B",
+              "text": "refreshments"
+            },
+            {
+              "id": "C",
+              "text": "a barbecue"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The food festival takes place",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the beginning of April"
+            },
+            {
+              "id": "B",
+              "text": "at the end of April"
+            },
+            {
+              "id": "C",
+              "text": "in the middle of March"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The East Asian section will feature cuisine from",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vietnam and Thailand"
+            },
+            {
+              "id": "B",
+              "text": "Japan and China"
+            },
+            {
+              "id": "C",
+              "text": "France and Italy"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Latin American section will have",
+          "options": [
+            {
+              "id": "A",
+              "text": "South American food"
+            },
+            {
+              "id": "B",
+              "text": "South Asian cuisine"
+            },
+            {
+              "id": "C",
+              "text": "food from Germany"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Besides food tasting, there will also be",
+          "options": [
+            {
+              "id": "A",
+              "text": "live music and dancing"
+            },
+            {
+              "id": "B",
+              "text": "stores selling their products"
+            },
+            {
+              "id": "C",
+              "text": "events that show people how to cook"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "For a list of events, people can",
+          "options": [
+            {
+              "id": "A",
+              "text": "call the information centre"
+            },
+            {
+              "id": "B",
+              "text": "look them up on the internet"
+            },
+            {
+              "id": "C",
+              "text": "pick up a brochure"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker highly recommends that participants",
+          "options": [
+            {
+              "id": "A",
+              "text": "practice their cooking techniques"
+            },
+            {
+              "id": "B",
+              "text": "buy their aprons beforehand"
+            },
+            {
+              "id": "C",
+              "text": "register in advance for workshops"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "World tour of spicesintroduce different spices and flavour profilesadults who want to seriously ______",
+          "answer": "learn cooking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Candy adventuresmake healthy candy and sweetsmainly ______",
+          "answer": "children",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Salads ______make tasty salads and dressingsanyone interested in (20) ______",
+          "answer": "forever",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Salads (19) ______make tasty salads and dressingsanyone interested in ______",
+          "answer": "healthy eating",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR of the following are required of student teachers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "weekly journal"
+            },
+            {
+              "id": "B",
+              "text": "sample lesson plans"
+            },
+            {
+              "id": "C",
+              "text": "meetings with other student teachers"
+            },
+            {
+              "id": "D",
+              "text": "observing other teachers"
+            },
+            {
+              "id": "E",
+              "text": "evaluation from supervising teacher"
+            },
+            {
+              "id": "F",
+              "text": "portfolio"
+            },
+            {
+              "id": "G",
+              "text": "final exam"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR of the following are required of student teachers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "weekly journal"
+            },
+            {
+              "id": "B",
+              "text": "sample lesson plans"
+            },
+            {
+              "id": "C",
+              "text": "meetings with other student teachers"
+            },
+            {
+              "id": "D",
+              "text": "observing other teachers"
+            },
+            {
+              "id": "E",
+              "text": "evaluation from supervising teacher"
+            },
+            {
+              "id": "F",
+              "text": "portfolio"
+            },
+            {
+              "id": "G",
+              "text": "final exam"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR of the following are required of student teachers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "weekly journal"
+            },
+            {
+              "id": "B",
+              "text": "sample lesson plans"
+            },
+            {
+              "id": "C",
+              "text": "meetings with other student teachers"
+            },
+            {
+              "id": "D",
+              "text": "observing other teachers"
+            },
+            {
+              "id": "E",
+              "text": "evaluation from supervising teacher"
+            },
+            {
+              "id": "F",
+              "text": "portfolio"
+            },
+            {
+              "id": "G",
+              "text": "final exam"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR of the following are required of student teachers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "weekly journal"
+            },
+            {
+              "id": "B",
+              "text": "sample lesson plans"
+            },
+            {
+              "id": "C",
+              "text": "meetings with other student teachers"
+            },
+            {
+              "id": "D",
+              "text": "observing other teachers"
+            },
+            {
+              "id": "E",
+              "text": "evaluation from supervising teacher"
+            },
+            {
+              "id": "F",
+              "text": "portfolio"
+            },
+            {
+              "id": "G",
+              "text": "final exam"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who has to sign the agreement form?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the student teacher"
+            },
+            {
+              "id": "B",
+              "text": "the supervising teacher"
+            },
+            {
+              "id": "C",
+              "text": "the advisor"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First week: ______ due",
+          "answer": "term paper topic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fourth week: ______ meeting",
+          "answer": "first evaluation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Seventh week: ______",
+          "answer": "student teacher conference",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fourteenth week: ______ due",
+          "answer": "term paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fifteenth week: ______",
+          "answer": "semester review",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, which of the following models emerged first?",
+          "options": [
+            {
+              "id": "A",
+              "text": "equity based crowdfunding"
+            },
+            {
+              "id": "B",
+              "text": "micro lending"
+            },
+            {
+              "id": "C",
+              "text": "fan based crowdfunding"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The fan based model offers",
+          "options": [
+            {
+              "id": "A",
+              "text": "shares"
+            },
+            {
+              "id": "B",
+              "text": "a financial return"
+            },
+            {
+              "id": "C",
+              "text": "a reward"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Each fundraising initiative has a set ______ limit",
+          "answer": "time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• For a film people could expect anything from free tickets to having their name listed in the ______",
+          "answer": "film credits",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Companies can receive small donations from a(n) ______ of people",
+          "answer": "large number",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• You can get ______ from supporters during the development phase",
+          "answer": "feedback",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Crowdfunding will increase ______ of the product and potentially improve sales",
+          "answer": "awareness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• You must reach your target or donations are ______",
+          "answer": "cancelled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Don't forget to consider the cost of ______ when working out profits",
+          "answer": "rewards",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-97-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Raising awareness is hard if your company is ______ or if you don't have many social media followers",
+          "answer": "new",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/97_we.mp3"
+    }
+  ]
+}

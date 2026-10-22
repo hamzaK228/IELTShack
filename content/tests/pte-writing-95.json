@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-95",
+  "title": "Academic Writing — Practice Test 95",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-95-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The diagrams below show the design for a wave-energy machine and its location. Summarise the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-95.png"
+        },
+        {
+          "id": "pte-writing-95-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "In many countries, the tradition of families having meals together is disappearing. Why is this happening? What will be the effects of it on the family and society? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

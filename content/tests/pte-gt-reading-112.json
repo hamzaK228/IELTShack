@@ -1,0 +1,550 @@
+{
+  "id": "pte-gt-reading-112",
+  "title": "General Training Reading — Practice Test 112",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Choosing the best sleeping bag",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-112-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This sleeping bag is not very easy to pack up. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can use this sleeping bag in any season. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This sleeping bag has been designed to ensure certain parts of the body are warm. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This sleeping bag contains a useful storage area. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People who do not want to spend much on a sleeping bag will find this one suits their needs. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This sleeping bag can also keep the user warm during the daytime. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People who wish to avoid carrying heavy weights should try this sleeping bag. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This sleeping bag contains two different types of material. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Choosing the best sleeping bag",
+        "text": "When choosing a sleeping bag, check what seasons it's for, as well as how heavy it is if you're backpacking. Also think about the filling. Natural duck down is very warm, has a longer lifespan and is easier to pack up, while synthetic materials are easier to clean, and they dry quicker and are cheaper.\n\n(A) Vango Fuse -12 This all-year-round sleeping bag combines natural duck down and a new synthetic fibre. The result is a bag that's warm and weighs 1.5kg. There's a water-resistant finish to protect it from moisture.\n\n(B) Outwell Campion Lux Double Sleeping Bag This double sleeping bag – which is suitable for all seasons except winter – is soft and cosy, and there's a handy pocket for essentials, located inside near the top. It also folds up remarkably small, given its size.\n\n(C) Nordisk Oscar +10 At just 350g, this sleeping bag is remarkably light, and as it's synthetic, it's very easy to maintain. The pack size is just 13x20cm, which makes it ideal for backpacking. It will work perfectly for summer trekking.\n\n(D) The Big Sleep 250GSM Single Cowl Sleeping If you want a no-frills, budget sleeping bag that will last more than one summer, opt for this. It's soft, comfy and simple to wash. Give yourself a bit of time to fit it back in the bag, though. Use it for spring, summer and autumn.\n\n(E) Jack Wolfskin Smoozip +3 We like the extra insulation in this sleeping bag around the areas that tend to feel the cold (head, chest and feet). And the hood is cosy enough to use as a pillow.\n\n(F) Vango Starwalker Dragon This innovative, high-quality kids' sleeping bag enables you to undo some zips and turn it into a fun, animal-themed coat. Once your youngster is ready for bed, simply zip the bottom back on and zip up the shoulders. Suitable for between 8 and 20 degrees Celsius.\n\n(G) Outwell Conqueror This sleeping bag has an integrated down duvet and lots of space. What's more, it packs up compactly and is easy to get back in the bag. It's light but too big for a rucksack."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Competition Rules",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-112-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Writers can submit an entry of fewer than 5,000 words for the Life Writing Prize.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Writers can choose to write about the life of a person they know.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who have entered an earlier Life Writing competition without achieving any success may enter again.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Writers who are between 19 and 25 years old and in full-time education have won the prize in previous years.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Only one prize is awarded at the end of the Life Writing competition.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Previous winners of the Life Writing Prize have gone on to become successful published writers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Competition Rules",
+        "text": "Entries should be original works of life writing of no more than 5,000 words. The word count will be checked and entries longer than 5,000 words will be disqualified. There is no minimum word count. For the purposes of the Prize, Life Writing is defined as non-fiction and should be based on a significant portion from the author's own experience. Traditional biographies, where the piece is only about the experience of someone else, are excluded. Writers only submit one entry each. Multiple entries by the same author will result in only the first entry being considered for the Prize and any additional entries disqualified. Writers who have previously won or been highly commended in the Life Writing Prize are excluded from entering; otherwise, previous entrants may submit. Entries must be the original, previously unpublished work of the entrant. Graphic novel-style entries, where drawings or photographs accompany text, are welcome. Entries can be self-contained pieces of life writing, or the first 5,000 words of a longer piece of work. The Life Writing Prize is open to writers aged over 18 and resident in the UK who are emerging writers, which means they have not previously published in print a full-length work. We define a full-length work as, for example, a complete work of fiction or non-fiction over 30,000 words. Entries that are simultaneously submitted elsewhere are welcome – but please let us know as soon as possible if a piece is to be published elsewhere or has won another prize so we can disqualify it from the Life Writing Prize. The winner will receive £1,500, publication on Spread the Word's website, two years' membership of the Royal Society of Literature, and a development meeting with an editor and an agent. Two highly commended entries will receive £500 and two mentoring sessions, a development meeting with an editor and an agent, and be published on the Spread the Word website."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Encouraging employees to be healthy: a guide for employers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-112-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• less ______",
+          "answer": "Absenteeism",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• make healthier options available to replace ______",
+          "answer": "Soda",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• offer ______at no cost",
+          "answer": "Fruit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• provide a ______for staff use",
+          "answer": "Fridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• provide somewhere for employees to leave their ______",
+          "answer": "Bikes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• provide ______for workers who exercise",
+          "answer": "Showers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• find out how employees feel at work by using ______",
+          "answer": "Surveys",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Encouraging employees to be healthy: a guide for employers",
+        "text": "Benefits Putting effort into employee wellness can reduce absenteeism and encourage better teamwork in the workplace, as well as increased productivity. Once you've devised a program, continue to assess the outcomes and regularly survey your team to gather feedback.\n\nFocus on general prevention Consider offering flu vaccinations on site and look at offering employees incentives on health insurance. Some companies arrange for someone who specialises in health issues, such as a doctor, to visit the workplace and speak to employees.\n\nEncourage a healthier diet Most of us know that eating healthily can help prevent future diseases, but many are not aware that unhealthy eating is linked to a 66 percent increased risk of loss of productivity. It may be necessary to consciously develop a healthy food and drink workplace policy, including a healthy catering policy. A simple thing to do is substitute soda in any on-site vending machines with water or juice. Also investigate the nutritional value of food supplied for team meetings and work events. Consider putting a bowl of fruit out in the staff room and urge everyone to help themselves for free. You can encourage employees to bring in healthy lunches from home by making sure that there is a fridge in the break room.\n\nEncourage more exercise Encouraging employees to exercise needn't be expensive as there are plenty of low-cost methods available. These might include: installing racks for bikes in your staff car park; encouraging employees to take part in fun runs and charity events; suggesting 'walking meetings' where people discuss business as they get fresh air and exercise; and putting in showers to assist those who ride or run to the workplace. Some companies negotiate group rates for their employees at a nearby gym.\n\nImprove mental health Recent reports have shown that ignoring mental health costs Australian companies at least $11 billion a year. We all have a responsibility to look out for one another. Some ways you can do this in the workplace include: running employee surveys to get valuable information on morale in the workplace; training managers on mental health strategies; offering rebates so employees are compensated for counselling if required; and refusing to accept any bullying and unprofessional behaviour in your workplace."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Marama Beach Hotel and Bistro: guidelines for working in the kitchen",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-112-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Chefs' uniforms and ______ must be washed for every shift.",
+          "answer": "Aprons",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Kitchen staff need to change the ______ when they start chopping another kind of food.",
+          "answer": "Board",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "All staff must make sure their hands are clean after handling ______",
+          "answer": "Money",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Workers in the kitchen should not attempt to repair ______",
+          "answer": "Appliances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "are required to identify any chemicals kept in the kitchen. ______",
+          "answer": "Labels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is forbidden for kitchen staff to have drinks from the ______",
+          "answer": "Storeroom",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Marama Beach Hotel and Bistro: guidelines for working in the kitchen",
+        "text": "The health and well-being of customers and staff is our first priority, and we expect all staff to take every step possible to maintain food safety and work in a hygienic manner.\n\nHygiene • Long hair must be tied back and no rings may be worn if touching food. • The regulation chefs' shirts and trousers are to be freshly laundered before starting a new shift, along with aprons if they are worn. • Cross-contamination between raw and cooked food must be avoided. To this end, staff must use a clean board each time they cut different types of food. • Staff should not touch money and then food without washing their hands in between. • In the case of illness or a skin problem, the staff member should inform the manager. Cuts on hands and arms must be properly wrapped or bandaged.\n\nSafety rules • All injuries must be reported to management immediately. • Safety guards must not be altered in any way, and staff must always wear protective clothing and gloves when working with sharp, hot, cold or corrosive items or materials. • Loose clothing or jewellery must not be worn. • Defective appliances must be turned off and not used – staff must not try to fix them themselves. • Heavy boxes should be lifted carefully with bent knees and a straight back, holding the box close to the body. • Work areas should be clean and free of hazards. • Spills on the floor must be dealt with immediately. • Flammable liquids must be stored away from flames. • If storing containers of chemicals in the kitchen, they must have clear labels, so as to avoid any confusion about the contents.\n\nBreaks Staff have 20 minutes of paid break time per 3 hours of work, during which time they may not leave the premises. Every staff member who works a shift exceeding 5 hours is entitled to a 30-minute unpaid break and free meals. However, please be aware that the kitchen may not always be able to provide this service, especially in peak times. Beverages kept in the storeroom may not be consumed by staff, but filtered water is provided free of charge in the staff room."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: A home-sewing revival: the return of Clothkits",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-112-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "mention of Mawer's desire to oversee all the stages of her business ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "reference to changing employment patterns among the general population ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the date when Clothkits was originally established as a product ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "the benefits of sewing a garment and then wearing it ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Paragraph A, the writer says that Kay Mawer was reminded about Clothkits by",
+          "options": [
+            {
+              "id": "A",
+              "text": "a shop she visited."
+            },
+            {
+              "id": "B",
+              "text": "a purchase she made."
+            },
+            {
+              "id": "C",
+              "text": "an outfit someone was wearing."
+            },
+            {
+              "id": "D",
+              "text": "a conversation with someone she knew."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the reader learn about Clothkits in the 1960s and 1970s?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Its designs represented the attitudes of the time."
+            },
+            {
+              "id": "B",
+              "text": "Its products were only affordable for the wealthy."
+            },
+            {
+              "id": "C",
+              "text": "Its creator tried many times to launch her company."
+            },
+            {
+              "id": "D",
+              "text": "Its management was spread across numerous countries."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why did Clothkits close in 1991?",
+          "options": [
+            {
+              "id": "A",
+              "text": "There were unexpected staffing problems."
+            },
+            {
+              "id": "B",
+              "text": "The funding for sewing activities was inadequate."
+            },
+            {
+              "id": "C",
+              "text": "Freeman’s was an unsuitable partner."
+            },
+            {
+              "id": "D",
+              "text": "Records on Kennedy’s database were lost."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What point does the writer make in Paragraph E?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Clothkits will reach more markets than in the past."
+            },
+            {
+              "id": "B",
+              "text": "Clothkits will need bigger premises than in the past."
+            },
+            {
+              "id": "C",
+              "text": "People are more concerned about throwing away items than in the past."
+            },
+            {
+              "id": "D",
+              "text": "People do less sewing now than in the past."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Clothkits was started by a designer named Anne Kennedy. Her clothing company specialised in selling ______ with a pattern printed on it. This came with (37) ______ which meant that buyers were able to make their own garments.",
+          "answer": "Fabric",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Clothkits was started by a designer named Anne Kennedy. Her clothing company specialised in selling (36) ______ with a pattern printed on it. This came with ______ which meant that buyers were able to make their own garments.",
+          "answer": "Instructions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The very first garment Anne Kennedy made was a multi-coloured striped dress with a ______ pattern. A (39) ______ article led to many orders for this from around the world. As the company grew, she increased her workforce, and also sold (40) ______ as part of her business. She exhibited her designs using her children as models.",
+          "answer": "Geometric",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The very first garment Anne Kennedy made was a multi-coloured striped dress with a (38) ______ pattern. A ______ article led to many orders for this from around the world. As the company grew, she increased her workforce, and also sold (40) ______ as part of her business. She exhibited her designs using her children as models.",
+          "answer": "Newspaper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-112-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The very first garment Anne Kennedy made was a multi-coloured striped dress with a (38) ______ pattern. A (39) ______ article led to many orders for this from around the world. As the company grew, she increased her workforce, and also sold ______ as part of her business. She exhibited her designs using her children as models.",
+          "answer": "Knitwear",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "A home-sewing revival: the return of Clothkits",
+        "text": "In the 1970s, Clothkits revolutionised home sewing. Later, a woman from Sussex, England, revived the nostalgic brand and brought it up to date\n\n(A) 'I can't remember many of the clothes I wore before I was six, but I have a vivid memory of a certain skirt whose patterns I can still trace in my mind. It was wraparound, with a belt that threaded through itself, decorated with cats in two shades of green. I wore it with a knitted red jersey my mum bought in a jumble sale, and brown sandals with flowers cut into the toes. It was 1979, and I was not yet five. I forgot about that skirt for a long time, but when a girlfriend mentioned the name Clothkits while we were chatting, it was as if a door suddenly opened on a moment in the past that resonated with vivid significance for me.' The brand, founded in 1968, had by the late 1980s mostly vanished from people's lives, but by a combination of determination and luck Kay Mawer brought it back.\n\n(B) Clothkits was created by the designer Anne Kennedy, who came up with the ingenious idea of printing a pattern straight on to coloured fabric so that a paper pattern was not needed. It was accompanied by instructions that almost anyone could follow on how to cut the pieces out and sew them together. 'I was rebelling against the formulaic lines of textile design at that time,' Kennedy says. 'My interest was in folk art and clothes that were simple to make as I had lots of unfinished sewing disasters in my cupboard.' Clothkits has always embodied the spirit of the late 1960s and 1970s. Its initial design was a dress in a geometric stripe in orange, pink, turquoise and purple. It cost 25 shillings (£1.25), and after it was featured in the Observer newspaper, Kennedy received more than £2,000 worth of orders. She ran the company from Lewes in Sussex, where at its peak it employed more than 400 people, selling to 44 countries worldwide. Sew-your-own kits formed the core of the business, supplemented by knitwear. Kennedy's children demonstrated the patterns by wearing them in photographs.\n\n(C) Kennedy sold the company in the late 1980s. There had been a few administrative problems with postal strikes and a new computer system, which back then took up an entire room, 'but the times were changing as well,' she says. 'More women were going out to work and sewing less for their children.' She sold the company to one of her suppliers, who then sold it on to Freeman's, which ran Clothkits alongside its own brand for a while, using Kennedy's impressive database, but its ethos are big, corporate company did not sit well alongside the alternative and artistic of Clothkits. In 1991, Clothkits was made dormant, and there the story may have ended, were it not for Mawer's fascination with discovering what happened Clothkits.\n\n(D) Mawer's mother bought her a sewing machine when she was ten and taught her basic pattern-cutting and garment construction, encouraging her to experiment with colour and design by trial and error. The first garment Mawer made was a pair of trousers, which she made by tracing around an existing pair of trousers. In her late twenties, she spent five years working on digital and sculptural installations. 'It was an amazing, mind-expanding experience, but I knew it was unlikely I could make a living as a practising artist. I was definitely looking for a way that I could work in a creative industry with a commercial edge.' The experience inspired Mawer to return to education, studying for a degree in fine art at the University of Chichester. Her passion for vintage fabric, which her mother had encouraged her to start collecting, led her back to Clothkits, and from there to a journey into the heart of Freeman's. Negotiations with the company took 18 months, but in October 2007 Clothkits was hers.\n\n(E) The ethos of Clothkits remains the same, and Mawer is proud that her fabric is printed either in London or the north of England, and that packaging is kept to an absolute minimum. 'I wanted to feel that everyone involved in the brand, from design to production, was part of a process I could witness. I couldn't see the point of manufacturing on the other side of the world, as that's not what Clothkits has ever been about.' The revival of Clothkits has also, of course, coincided with a growing sense of dissatisfaction at our disposable society, and the resulting resurgence of interest in skills such as sewing and knitting. 'Making your own clothes gives you a greater appreciation of the craftsmanship in the construction of a garment,' Mawer says. 'When you know the process involved in making a skirt, you treasure it in a way you wouldn't if you'd bought it from a mass- producing manufacturer.'"
+      }
+    }
+  ]
+}

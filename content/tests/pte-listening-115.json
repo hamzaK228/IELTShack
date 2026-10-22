@@ -1,0 +1,584 @@
+{
+  "id": "pte-listening-115",
+  "title": "Listening — Practice Test 115",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-115-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The sports coaching is done by sports science students, who are supervised by ______ with more experience. All staff have an enhanced police check and company training. They are also trained in (2) and there is a hospital nearby.",
+          "answer": "coaches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The sports coaching is done by sports science students, who are supervised by (1) with more experience. All staff have an enhanced police check and company training. They are also trained in ______ and there is a hospital nearby.",
+          "answer": "first aid",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Dominic will need warm clothing and changes of clothing in case of bad weather. If weather is bad, everyone will move into the ______ of Wentmount School.",
+          "answer": "sports complex",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Group lunches – Basic starter, hot main course, ______ to finish with.",
+          "answer": "fruit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Dominic will need his sports equipment that he wants to bring and some ______ for between meals.",
+          "answer": "snacks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Afternoon session – 1.30 pm – ______",
+          "answer": "4.30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dominic's favorite sport is",
+          "options": [
+            {
+              "id": "A",
+              "text": "cricket"
+            },
+            {
+              "id": "B",
+              "text": "swimming"
+            },
+            {
+              "id": "C",
+              "text": "football"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mrs. Davis says that the instructors should know that",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dominic’s legs are weak"
+            },
+            {
+              "id": "B",
+              "text": "Dominic will have to go to hospital at the start of the summer"
+            },
+            {
+              "id": "C",
+              "text": "Dominic broke his arm during the winter"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The first week of the camp, Dominic will",
+          "options": [
+            {
+              "id": "A",
+              "text": "be picked up by his mother"
+            },
+            {
+              "id": "B",
+              "text": "go home by bus"
+            },
+            {
+              "id": "C",
+              "text": "walk home with friends"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "To keep Dominic's reserved place on the sport camp, Mrs. Davis has to return the form",
+          "options": [
+            {
+              "id": "A",
+              "text": "within two weeks"
+            },
+            {
+              "id": "B",
+              "text": "the next day"
+            },
+            {
+              "id": "C",
+              "text": "within a week"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Your bicycle has been stolen",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cancel your bank cards"
+            },
+            {
+              "id": "B",
+              "text": "Establish a security routine"
+            },
+            {
+              "id": "C",
+              "text": "Find a secure storage place for your bank cards"
+            },
+            {
+              "id": "D",
+              "text": "Go to a nearby shop and explain what has happened"
+            },
+            {
+              "id": "E",
+              "text": "Make sure a photo and description goes to the police"
+            },
+            {
+              "id": "F",
+              "text": "Hide behind a nearby car"
+            },
+            {
+              "id": "G",
+              "text": "Burn them"
+            },
+            {
+              "id": "H",
+              "text": "Buy a paper shredder"
+            },
+            {
+              "id": "I",
+              "text": "Search the nearby area"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "You are worried that someone is following you",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cancel your bank cards"
+            },
+            {
+              "id": "B",
+              "text": "Establish a security routine"
+            },
+            {
+              "id": "C",
+              "text": "Find a secure storage place for your bank cards"
+            },
+            {
+              "id": "D",
+              "text": "Go to a nearby shop and explain what has happened"
+            },
+            {
+              "id": "E",
+              "text": "Make sure a photo and description goes to the police"
+            },
+            {
+              "id": "F",
+              "text": "Hide behind a nearby car"
+            },
+            {
+              "id": "G",
+              "text": "Burn them"
+            },
+            {
+              "id": "H",
+              "text": "Buy a paper shredder"
+            },
+            {
+              "id": "I",
+              "text": "Search the nearby area"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "You have bought a car",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cancel your bank cards"
+            },
+            {
+              "id": "B",
+              "text": "Establish a security routine"
+            },
+            {
+              "id": "C",
+              "text": "Find a secure storage place for your bank cards"
+            },
+            {
+              "id": "D",
+              "text": "Go to a nearby shop and explain what has happened"
+            },
+            {
+              "id": "E",
+              "text": "Make sure a photo and description goes to the police"
+            },
+            {
+              "id": "F",
+              "text": "Hide behind a nearby car"
+            },
+            {
+              "id": "G",
+              "text": "Burn them"
+            },
+            {
+              "id": "H",
+              "text": "Buy a paper shredder"
+            },
+            {
+              "id": "I",
+              "text": "Search the nearby area"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Your house is broken into, but your bank cards are not taken",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cancel your bank cards"
+            },
+            {
+              "id": "B",
+              "text": "Establish a security routine"
+            },
+            {
+              "id": "C",
+              "text": "Find a secure storage place for your bank cards"
+            },
+            {
+              "id": "D",
+              "text": "Go to a nearby shop and explain what has happened"
+            },
+            {
+              "id": "E",
+              "text": "Make sure a photo and description goes to the police"
+            },
+            {
+              "id": "F",
+              "text": "Hide behind a nearby car"
+            },
+            {
+              "id": "G",
+              "text": "Burn them"
+            },
+            {
+              "id": "H",
+              "text": "Buy a paper shredder"
+            },
+            {
+              "id": "I",
+              "text": "Search the nearby area"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "You need to throw away some documents that have sensitive information",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cancel your bank cards"
+            },
+            {
+              "id": "B",
+              "text": "Establish a security routine"
+            },
+            {
+              "id": "C",
+              "text": "Find a secure storage place for your bank cards"
+            },
+            {
+              "id": "D",
+              "text": "Go to a nearby shop and explain what has happened"
+            },
+            {
+              "id": "E",
+              "text": "Make sure a photo and description goes to the police"
+            },
+            {
+              "id": "F",
+              "text": "Hide behind a nearby car"
+            },
+            {
+              "id": "G",
+              "text": "Burn them"
+            },
+            {
+              "id": "H",
+              "text": "Buy a paper shredder"
+            },
+            {
+              "id": "I",
+              "text": "Search the nearby area"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "is what allows cell phone thieves to succeed. ______",
+          "answer": "opportunity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Pickpockets like stealing in busy so be extra aware in these places. ______",
+          "answer": "locations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People leaving subway stations often have their cell phones stolen when they look to see if they have a ______",
+          "answer": "signal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People should consult their to find out how to switch on the security features available on their cell phones. ______",
+          "answer": "(user) manual",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "If your cell phone is stolen, the police have to know more than its and color if they are to get it back to you. ______",
+          "answer": "brand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Kenyan flower industry is Kenya's largest after ______ and tea has increased by 31% over the last 5 years. Originally started to contribute to British East Africa's (22) it continued to flourish after independence due to its geographical position and variety of climate conditions.",
+          "answer": "tourism",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Kenyan flower industry is Kenya's largest after (21) and tea has increased by 31% over the last 5 years. Originally started to contribute to British East Africa's ______ it continued to flourish after independence due to its geographical position and variety of climate conditions.",
+          "answer": "budget",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Economic advantages, such as beneficial ______ have kept costs low and good logistics have been set up to service world flower markets. Labour and energy costs are also low and there is no (24) on European exports from Kenya.",
+          "answer": "(exchange) rates",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Economic advantages, such as beneficial (23) have kept costs low and good logistics have been set up to service world flower markets. Labour and energy costs are also low and there is no ______ on European exports from Kenya.",
+          "answer": "(import) duty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Floriculture is Kenya's 2nd highest foreign exchange earner and it generates plenty of ______ for Kenya's public economy – 50,000 to 70,000 people are employed directly and 1.5 million people indirectly.",
+          "answer": "taxes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "High oil prices– increased ______costs",
+          "answer": "transportation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– competition getting fiercer due to the numbers of roses, produced and better ______from the competition",
+          "answer": "quality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– lakes have declined in level and ______",
+          "answer": "biodiversity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– attempts at improvement by increasing the price of ______and other regulatory measures",
+          "answer": "water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– more organic ways of ______are being used",
+          "answer": "pest control",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Planting – seeds planted at a fixed depths and ______ Seedlings sprout after around a week or two, depending on temperature and moisture",
+          "answer": "intervals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Weed control – weeds can affect yields. Addressed with close cultivation and seeds planted deep into ______weeds high and dry. Herbicides are also used",
+          "answer": "moist soil",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Insect management – insects can destroy the crop – some plants compensate by producing more ______ The plants are protected by evaluated chemicals and modern biotechnology",
+          "answer": "leaves",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Irrigation – cotton very efficient with water – cotton generates more ______for one gallon of than other US crops. US cotton depends on rain although supplemental irrigation has increased to deal with drought and problem yields",
+          "answer": "revenue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Harvesting – this must be done before bad weather comes. It's done by ______in the US – stripper harvesters and spindle pickers used",
+          "answer": "machine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Storage – after quality assessment, cold stored or sold. If stored in a government approved warehouse it can be used as security for a ______",
+          "answer": "loan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cottonseed – byproduct from the cotton crop. Used as salad oil of high ______animal feed",
+          "answer": "protein",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "holding tank ______",
+          "answer": "holding tank",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "slipstream ______",
+          "answer": "slipstream",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-115-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "coarse ______",
+          "answer": "coarse",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/115_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-6",
+  "title": "General Training Writing — Letter 6",
+  "kind": "practice",
+  "description": "Task 1 letter, 6 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-6-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are looking for a part-time job at a football club.\nWrite a letter to the manager of the football club. In your letter,\nintroduce yourself\nexplain what experience and special skills you have\ntell him/her when you think you could start",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

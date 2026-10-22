@@ -1,0 +1,604 @@
+{
+  "id": "pte-listening-168",
+  "title": "Listening — Practice Test 168",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-168-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Venue: ______",
+          "answer": "college dining room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The ______",
+          "answer": "office staff",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "All the ______",
+          "answer": "students",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date for sending invitations: ______",
+          "answer": "10 december",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Collect money during the: ______",
+          "answer": "coffee break",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Suggested amount per person: ______",
+          "answer": "6",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "GOODBYE PARTY FOR JOHN Venue: (1) Invitations (Tony) Who to invite: John and his wife Director The (2) All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players ______ Coffee maker Ask guests to bring: snacks (8) (9) Ask student representative to prepare a: (10)",
+          "answer": "set of dictionaries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "GOODBYE PARTY FOR JOHN Venue: (1) Invitations (Tony) Who to invite: John and his wife Director The (2) All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players (7) Coffee maker Ask guests to bring: snacks ______ (9) Ask student representative to prepare a: (10)",
+          "answer": "music",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "GOODBYE PARTY FOR JOHN Venue: (1) Invitations (Tony) Who to invite: John and his wife Director The (2) All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players (7) Coffee maker Ask guests to bring: snacks (8) ______ Ask student representative to prepare a: (10)",
+          "answer": "photos",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ask student representative to prepare a: ______",
+          "answer": "speech",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "To find out how much holidays cost, you should press button",
+          "options": [
+            {
+              "id": "A",
+              "text": "one"
+            },
+            {
+              "id": "B",
+              "text": "two"
+            },
+            {
+              "id": "C",
+              "text": "three"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Travelite currently offer walking holidays",
+          "options": [
+            {
+              "id": "A",
+              "text": "only in Western Europe"
+            },
+            {
+              "id": "B",
+              "text": "all over Europe"
+            },
+            {
+              "id": "C",
+              "text": "outside Europe"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The walks offered by Travelite",
+          "options": [
+            {
+              "id": "A",
+              "text": "cater for a range of walking abilities"
+            },
+            {
+              "id": "B",
+              "text": "are planned by guides from the local area"
+            },
+            {
+              "id": "C",
+              "text": "are for people with good fitness levels"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "On Travelite holidays, people holidaying alone pay",
+          "options": [
+            {
+              "id": "A",
+              "text": "the same as other clients"
+            },
+            {
+              "id": "B",
+              "text": "only a little more than other clients"
+            },
+            {
+              "id": "C",
+              "text": "extra only if they stay in a large room"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Entertainment is provided",
+          "options": [
+            {
+              "id": "A",
+              "text": "when guests request it"
+            },
+            {
+              "id": "B",
+              "text": "most nights"
+            },
+            {
+              "id": "C",
+              "text": "every night"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "3 days______pick up from the (17) ______",
+          "answer": "180",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "3 days(16) $______pick up from the ______",
+          "answer": "nearest station",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "7 days$ 350– book of ______",
+          "answer": "local history",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "14 days______as above plus membership of a (20) ______",
+          "answer": "690",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "14 days(19) $______as above plus membership of a ______",
+          "answer": "walking club",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 1______and a tableto show how things move on a cushion of air",
+          "answer": "20 balloons",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 2lots of paperclipsto show why we need standard ______",
+          "answer": "units of measurement",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 3______and a jar of waterto show how (24) ______grow",
+          "answer": "rock salt",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 3(23) ______and a jar of waterto show how ______grow",
+          "answer": "crystals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 4cardboard, colored pens and a ______to teach children about how (26) ______is made up",
+          "answer": "string",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Experiment 4cardboard, colored pens and a (25) ______to teach children about how ______is made up",
+          "answer": "light",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 27. ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-168-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 28. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-168-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 29. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-168-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 30. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-168-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Weight heaviest: ______ kgs",
+          "answer": "795",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Swimming aide fins and ______",
+          "answer": "tail",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Food gathered from the ocean ______",
+          "answer": "floor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sharks locate food by using their ______",
+          "answer": "sense of smell",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Shark meshing uses nets laid",
+          "options": [
+            {
+              "id": "A",
+              "text": "along the coastline"
+            },
+            {
+              "id": "B",
+              "text": "at an angle to the beach"
+            },
+            {
+              "id": "C",
+              "text": "from the beach to the sea"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Other places that have taken up shark meshing include",
+          "options": [
+            {
+              "id": "A",
+              "text": "South Africa"
+            },
+            {
+              "id": "B",
+              "text": "New Zealand"
+            },
+            {
+              "id": "C",
+              "text": "Tahiti"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The average number of sharks caught in nets each year is",
+          "options": [
+            {
+              "id": "A",
+              "text": "15"
+            },
+            {
+              "id": "B",
+              "text": "150"
+            },
+            {
+              "id": "C",
+              "text": "1,500"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Most sharks are caught in",
+          "options": [
+            {
+              "id": "A",
+              "text": "spring"
+            },
+            {
+              "id": "B",
+              "text": "summer"
+            },
+            {
+              "id": "C",
+              "text": "winter"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO factors reduce the benefits of shark nets?",
+          "options": [
+            {
+              "id": "A",
+              "text": "nets wrongly positioned"
+            },
+            {
+              "id": "B",
+              "text": "strong waves and currents"
+            },
+            {
+              "id": "C",
+              "text": "too many fish"
+            },
+            {
+              "id": "D",
+              "text": "sharks cat holes in nets"
+            },
+            {
+              "id": "E",
+              "text": "moving sands"
+            },
+            {
+              "id": "F",
+              "text": "nets too short"
+            },
+            {
+              "id": "G",
+              "text": "holes in nets scare sharks"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-168-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO factors reduce the benefits of shark nets?",
+          "options": [
+            {
+              "id": "A",
+              "text": "nets wrongly positioned"
+            },
+            {
+              "id": "B",
+              "text": "strong waves and currents"
+            },
+            {
+              "id": "C",
+              "text": "too many fish"
+            },
+            {
+              "id": "D",
+              "text": "sharks cat holes in nets"
+            },
+            {
+              "id": "E",
+              "text": "moving sands"
+            },
+            {
+              "id": "F",
+              "text": "nets too short"
+            },
+            {
+              "id": "G",
+              "text": "holes in nets scare sharks"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/168_we.mp3"
+    }
+  ]
+}

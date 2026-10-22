@@ -1,0 +1,1088 @@
+{
+  "id": "pte-reading-174",
+  "title": "Academic Reading — Practice Test 174",
+  "kind": "practice",
+  "description": "3 texts, 35 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: an essential intermediary",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-174-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some dinosaurs were bigger than the blue whale.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The blue whale does not only eat krill.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some krill are smaller than shrimp.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are about 500 million tons of krill in the ocean.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 5. ______",
+          "answer": "Transparent",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 6. ______",
+          "answer": "Fluoride",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 7. ______",
+          "answer": "Enzymes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 8. ______",
+          "answer": "Gills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 9. ______",
+          "answer": "Phytoplankton",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Fishing for krill is",
+          "options": [
+            {
+              "id": "A",
+              "text": "not too difficult."
+            },
+            {
+              "id": "B",
+              "text": "mostly done in Antarctic waters."
+            },
+            {
+              "id": "C",
+              "text": "mostly done in Japanese waters."
+            },
+            {
+              "id": "D",
+              "text": "done with large fishing nets."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Krill",
+          "options": [
+            {
+              "id": "A",
+              "text": "move like ghosts."
+            },
+            {
+              "id": "B",
+              "text": "are processed soon after capture."
+            },
+            {
+              "id": "C",
+              "text": "are mostly used for human consumption."
+            },
+            {
+              "id": "D",
+              "text": "come in two varieties."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Phytoplankton",
+          "options": [
+            {
+              "id": "A",
+              "text": "outnumber krill."
+            },
+            {
+              "id": "B",
+              "text": "produce over half of the oxygen in the world."
+            },
+            {
+              "id": "C",
+              "text": "can be seen with the naked eye."
+            },
+            {
+              "id": "D",
+              "text": "can live anywhere in the ocean."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Blue whales",
+          "options": [
+            {
+              "id": "A",
+              "text": "are a very large species offish."
+            },
+            {
+              "id": "B",
+              "text": "can weigh 200 tons."
+            },
+            {
+              "id": "C",
+              "text": "prefer to be alone."
+            },
+            {
+              "id": "D",
+              "text": "are in the middle of a food chain."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "an essential intermediary",
+        "text": "There is a strange irony about the blue whale. With fully grown adults reaching up to 30 metres long, and weighing in at almost 200 tons, it is not only the largest animal in the world, but also the largest to have ever existed. Yes, not even the most imposing of the dinosaurs from the Jurassic era can match this sleek streamlined aquatic mammal in scale. So, where is the irony? It lies in the fact that this huge beast feeds primarily on one of the smallest life forms in the oceans, a tiny crustacean known as krill. Krill live in every ocean of the world. They thus come in many varieties, although all sporting a similar shrimp-like appearance, with an exoskeleton divided into three parts, and with two large antennae at the front, and pairs of legs running down the underside. These creatures are distinguishable from shrimp by their gills, which are externally mounted, and resemble rows of fibrous combs alongside their bodies. Another oddity is that their exoskeleton is usually transparent. This, and their small size, lead to the deceptive conclusion that they are an insubstantial presence, of little importance, until one is informed that an adult blue whale can consume almost 40 million krill, with a total weight of 3,600 kilograms, in just one day. It is this, their huge numbers, which makes these mysterious ghost-like crustaceans so important. Just looking at one species, the Antarctic krill, their collective weight (or bio-mass) is estimated to be about 500 million tons. Putting this another way, that is over twice the weight of all human beings currently on Earth. Some scientists estimate that, each year, as much as half of this is eaten by whales, seals, penguins, squid, and fish, illustrating that krill constitute an enormous food resource for other animals. The question is whether humans can get in on the act. Antarctic krill are the largest species, at six centimeters. Most other species are about two centimeters, and this makes them awkward to catch. Very fine fishing nets are needed, but these are difficult to drag through the water, quickly clogged, and easily broken. In addition, when lifted in large piles, the delicate krill crush each other, forcing out their internal fluids. They must also be peeled due to the dangerously high levels of fluoride in their exoskeleton, and finally, they must be quickly prepared and frozen due to the strong enzymes in their gut, which would otherwise cause rapid putrefaction. It is problems such as these which have limited processed krill to being mostly used as fish food in aquariums or aquaculture, or bait in commercial fishing operations, but otherwise very much out of the public's mind. Seafood-loving Japan is the only country in the world in which some krill end up on the table. The boiled, peeled, then frozen tail-meat is sold on the market, and there is some lower-grade krill-paste used as a food flavouring or colouring agent. These products originate from the small North-Pacific krill, yet it is the large Antarctic species which would seem to offer the best commercial prospects, and perhaps a more appetising meal. The majority of krill trawlers thus target the waters around coastal Antarctica, but it is a remote region, subject to harsh weather conditions, making operations there difficult and expensive, as well as raising issues of the ecological consequences, especially given the importance of krill as the basis of the food chain in that pristine and untouched environment. Yet to explore this food chain fully, one must go smaller still. Krill themselves are filter feeders, using very fine comb-like appendages on the front of their bodies to extract microscopic organisms known as phytoplankton. These live in almost every body of water in the world, but only in the well-lit surface layers, since these organisms need exposure to sunlight, from which they obtain their energy. In the same way that plants on land are ultimately the basis of all food chains there, so too are phytoplankton in the oceans. Since krill exist in such large numbers, logically then, their primary food source must be even more numerous. There is, in fact, so much phytoplankton that their collective photosynthesis accounts for up to half of the oxygen produced in the world. However, as with krill, the vast numbers of phytoplankton live unnoticed and unobserved. Their presence can only be indirectly deduced when they are pressed together by currents, where there can be correspondingly high concentrations of krill feeding on them. This can similarly result in the usually solitary blue whales being found together, and revealing one of the most remarkable and elusive food chains in nature: from phytoplankton, to krill, to the blue whale. In other words, from the tiniest elements in nature, in two short steps leading to a mighty and awe-inspiring leviathan of the deep, the largest animal that has ever existed. And the small ghostly krill are the essential intermediary in this wondrous process."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: a meat-eater's counter",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-174-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Animals attack"
+            },
+            {
+              "id": "ii",
+              "text": "Needless killing countered"
+            },
+            {
+              "id": "iii",
+              "text": "Better people?"
+            },
+            {
+              "id": "iv",
+              "text": "A need for statistics"
+            },
+            {
+              "id": "v",
+              "text": "The real cause of longer lives"
+            },
+            {
+              "id": "vi",
+              "text": "Untrustworthy numbers"
+            },
+            {
+              "id": "vii",
+              "text": "Cruel killing countered"
+            },
+            {
+              "id": "viii",
+              "text": "Comparing lives"
+            },
+            {
+              "id": "ix",
+              "text": "Quick efficient killing"
+            },
+            {
+              "id": "x",
+              "text": "The real cause of early deaths"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Life is______threatened by numerous (21) ______",
+          "answer": "stress-free and easy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Life is(20) ______threatened by numerous ______",
+          "answer": "predators",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Death is______brutalising and painful",
+          "answer": "quick and clean",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Theyhave some ______are unlikely to have this easy existence",
+          "answer": "quality of life",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Vegetariansbean-sprout crowd______",
+          "answer": "green-eaters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sheep and cattle______cud-chewing cousins",
+          "answer": "four-legged friends",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Lazy peoplecouch potatoes______",
+          "answer": "sofa sprouts",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "a meat-eater's counter",
+        "text": "(A) You might be forgiven sometimes for thinking that vegetarians are somehow superior human beings. In today's climate of New Age spiritualism, animal rights, and Mother Earth naturalism, confirmed meat-eaters must necessarily be categorised as selfish, environmentally-irresponsible, spiritually-deprived gluttons, whose dietary desire is akin to cannibalism. Each lamb chop, carving of roast beef, or chicken drumstick, signifies a brutal execution of a sentient animal, to whose suffering we remain callously indifferent. Here, I would like to offer some arguments to counter the more extreme claims of the bean-sprout crowd.\n\n(B) Vegetarians' first justification is that eating meat is cruel to animals. But when pondering cruelty, it may pay to reflect on how animals fare in the wild. I was recently watching a documentary concerning herbivores on the African plains — where the parasite and insect-tormented herds lead lives of hair-raising and nerve-jittering bolts and dashes as they are constantly stalked by a range of predators. Now, compare this to the animals munching grass in our domestic pastures. Our four-legged friends, watered, well-fed, and attended to when sick, have an essentially stress-free and easy existence.\n\n(C) But, the vegetarians claim, our slaughterhouses deal out brutal deaths. Brutal? Let us reflect again on that documentary. At one point, it showed an injured zebra, an animal which was quickly spotted by a pack of hyenas. The rest was a display of such cruelty and barbarity that it would make vegetarians think twice before intoning the mantra that 'nature is good'. Yet being viciously torn to pieces by snapping jaws is more or less the inevitable end of most animals in the wild. It is simply a fact that they do not expire peacefully — they face, instead, brutalising and painful exits. If not becoming another animal's dinner, they starve to death, or are victims of floods, droughts, and other merciless acts of nature. Compared to this, the relatively quick and clean death that we humans deliver to our cud-chewing cousins must be considered a privileged way to go.\n\n(D) So, eating meat is not 'cruel' — at least, not compared to the natural world, and in fact can even allow the animals in question a certain quality of life that they would almost certainly never enjoy in the wild. But the vegetarians counter that, we, the human species, have a higher awareness, and should avail ourselves of other forms of food, rather than causing the deaths of living creatures. Yet it is worth realising that for tens of thousands of years our species did not have this luxury of choice. Killing animals was essential in staying alive. It is only very recently (in terms of human history), that society has reached a stage of affluence whereby a sufficiently high amount of non-animal nutrition can be obtained, and then only by a privileged and small percentage of the world's population. Thus, the argument from moral high ground is, at best, an arbitrary one.\n\n(E) But then the vegetarians come out with their next core claim to superiority — that their diet is healthier. Eating meat is going to have such nasty consequences for the heart, lungs, kidneys, and immune system that we will end up in an early grave. One can agree that this may be true for people who eat too much meat, but is it true for those who eat meat in proportion with an otherwise balanced diet? So many dubious facts and figures are produced to 'prove' the vegetarians' viewpoint that I would recommend a quick read of a well-known book entitled, 'How to lie with statistics'. This emphasises two foundations for statistical validity: gaining truly representative samples, and eliminating outside variables, both of which the green-eaters ignore.\n\n(F) It is the second point I would like to look at. The lean and fit, health-conscious vegetarian doing his daily yoga and nightly guitar-strumming will certainly live much longer, on average, than the meat-eating, chain-smoking, beer-swilling, donut-chomping couch potatoes of this world, but not necessarily due (or in any way related) to the former's abstinence from meat. It is not hard to deduce that those cigarettes, beer, donuts, and sedentary lifestyle are almost certainly responsible for the meat-eater's diminished life expectancy. For a true comparison, one must compare lean and fit, health-conscious vegetarians with lean and fit, health-conscious non-vegetarians, the latter of whom mix moderate amounts of meat in their diet.\n\n(G) And this is the point. It is almost impossible in this complex, mixed, and multi-faceted modern society to find enough people who can constitute a truly representative sample, while eliminating the many outside variables. Any assertion that statistics 'prove' vegetarians live longer must note that these vegetarians have already made (compared to the average sofa sprouts) a very rigorous and disciplined health-enhancing lifestyle change, which is probably accompanied with many other similar choices, all of which are almost certainly the real cause of any statistical trends. Factor these into the equation, and so far there is no convincing statistical evidence that vegetarianism is better for the health."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: cubism",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-174-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "led a new abstraction movement?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Braque"
+            },
+            {
+              "id": "B",
+              "text": "Cezanne"
+            },
+            {
+              "id": "C",
+              "text": "Delaunay"
+            },
+            {
+              "id": "D",
+              "text": "Gris"
+            },
+            {
+              "id": "E",
+              "text": "Léger"
+            },
+            {
+              "id": "F",
+              "text": "Picasso"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "was the most influential?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Braque"
+            },
+            {
+              "id": "B",
+              "text": "Cezanne"
+            },
+            {
+              "id": "C",
+              "text": "Delaunay"
+            },
+            {
+              "id": "D",
+              "text": "Gris"
+            },
+            {
+              "id": "E",
+              "text": "Léger"
+            },
+            {
+              "id": "F",
+              "text": "Picasso"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "was affected by a global conflict?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Braque"
+            },
+            {
+              "id": "B",
+              "text": "Cezanne"
+            },
+            {
+              "id": "C",
+              "text": "Delaunay"
+            },
+            {
+              "id": "D",
+              "text": "Gris"
+            },
+            {
+              "id": "E",
+              "text": "Léger"
+            },
+            {
+              "id": "F",
+              "text": "Picasso"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "is inevitably linked with an art movement?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Braque"
+            },
+            {
+              "id": "B",
+              "text": "Cezanne"
+            },
+            {
+              "id": "C",
+              "text": "Delaunay"
+            },
+            {
+              "id": "D",
+              "text": "Gris"
+            },
+            {
+              "id": "E",
+              "text": "Léger"
+            },
+            {
+              "id": "F",
+              "text": "Picasso"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "was married?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Braque"
+            },
+            {
+              "id": "B",
+              "text": "Cezanne"
+            },
+            {
+              "id": "C",
+              "text": "Delaunay"
+            },
+            {
+              "id": "D",
+              "text": "Gris"
+            },
+            {
+              "id": "E",
+              "text": "Léger"
+            },
+            {
+              "id": "F",
+              "text": "Picasso"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a confusing abstraction in many colours?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a darker view, ahead of its time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "probably the first of its kind?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "an intriguing and multi-chromatic view?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "very representative of its type?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "an early painting which influenced another?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newspaper and Fruit Dish"
+            },
+            {
+              "id": "B",
+              "text": "Portrait of Picasso"
+            },
+            {
+              "id": "C",
+              "text": "Railway Crossing"
+            },
+            {
+              "id": "D",
+              "text": "Simultaneous Windows"
+            },
+            {
+              "id": "E",
+              "text": "The Bathers"
+            },
+            {
+              "id": "F",
+              "text": "Young Ladies of Avignon"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Cezanne Retrospective",
+          "options": [
+            {
+              "id": "A",
+              "text": "was attended by Cezanne."
+            },
+            {
+              "id": "B",
+              "text": "showed his Cubist paintings."
+            },
+            {
+              "id": "C",
+              "text": "was attended by very many people."
+            },
+            {
+              "id": "D",
+              "text": "influenced an artist to move to non-representational style."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Many Cubist innovators",
+          "options": [
+            {
+              "id": "A",
+              "text": "preferred still-life paintings."
+            },
+            {
+              "id": "B",
+              "text": "favoured monochrome."
+            },
+            {
+              "id": "C",
+              "text": "invented names for their styles."
+            },
+            {
+              "id": "D",
+              "text": "were not adequately recognised."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-174-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Cubism",
+          "options": [
+            {
+              "id": "A",
+              "text": "is fairly easily explained."
+            },
+            {
+              "id": "B",
+              "text": "has cubes in incoherent order."
+            },
+            {
+              "id": "C",
+              "text": "shows different views of a subject."
+            },
+            {
+              "id": "D",
+              "text": "was created by Picasso and Braque."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "cubism",
+        "text": "When the name of Picasso is spoken, the concept of 'Cubism' usually springs to mind. That this happens indicates just how deep and long-lasting has been its influence on the world, yet although many people know of the name 'Cubism', few can speak about it with any degree of conversancy. It is Georges Braque who is now credited as an equal pioneer in this revolutionary art movement, but claiming that these two artists alone created cubism oversimplifies a very complex issue. Defining Cubism itself is difficult. At its simplest, the three-dimensional object being painted can be considered broken into pieces, sometimes square or cube-shaped (hence the name). These are reassembled in less than coherent order, and often at different angles. They can overlap, and sometimes more than one view is presented at the same time, moving beyond the limits of a fixed observer. The terms 'multiple viewpoints' and 'mobile perspectives' are often used — that is, the subject is captured from different angles, at different times, with the corresponding images fused into a single picture. Braque's pre-war paintings began experimenting with this idea, which inevitably led to an association with Picasso, who had been dabbling also in rendering three-dimensional views into two-dimensional geometric shapes — for example, in his painting Young Ladies of Avignon — often labelled 'proto-cubist'. Some even consider this painting to be the true beginning of Cubism itself, as it inspired Braque to follow the lead, developing the movement towards its trademark features. Yet both artists were influenced by earlier painters, in particular, the later works of Cezanne. Cezanne was one of the first to divide the canvas into several views, as well as to begin presenting natural objects in geometric figures. Paul Cezanne had died in 1906, but a year later several museums exhibited his paintings in a retrospective of the artist's life. Inevitably, young painters in the Parisian art scene, including Picasso and Braque, would have seen these. Whilst not yet fractured into facets or cubes, Cezanne occasionally implanted an underlying geometry—for example, in one of his most famous (and unfinished) paintings, The Bathers. This work breaks tradition in its unflattering portrait of the women, whose naked forms are rendered in sharp symmetry, also forming a triangular pattern with the river and trees. It is said to have inspired Picasso's very similarly styled work, mentioned previously. Moving beyond those early years of Cubism, many other artists were exploring the same idea, but taking it in individual directions. They are often unfairly considered as having played less significant roles simply because they did not adhere to the strict perspectives of Braque or Picasso. Yet, conceivably they could have evolved their own awareness of Cubism more from Cezanne's pervading and almost universal influence on the Parisian art scene of that day, meaning that they must now be considered true innovators in their own right. Juan Gris, for example, produced many interesting works, yet now remains little regarded. Interestingly, being a compatriot of Picasso, the two artists became personally acquainted, to the extent that Gris painted his well-known Portrait of Picasso, now regarded as one of the best examples of the Cubist style. Gris ventured beyond the monochromatic (or single family of colours) employed by Picasso and Braque. He combined vibrant hues in interesting and sometimes unusual combinations, such as in his still life, Newspaper and Fruit Dish. Similarly exploratory were the Orphic Cubists (as they would later become known), who moved further towards abstraction, but with Gris's similar use of bright colours. These were used to convey meaning but blended in a way that went beyond the physical subject. Its main proponent was the Frenchman, Robert Delaunay, who, together with his wife, regularly exhibited in Parisian salons with increasingly non-representational forms. His Simultaneous Windows is barely recognisable as a window—just a blend of prismatic hues with one prominent square, giving a hint of three-dimensionality. Léger also followed a more personal form of Cubism. As with most of his generation, he had seen the Cezanne 1907 retrospective, which enkindled interest in experimentation with geometric forms. This eventually led to the completely abstract, in which tubes, cones, and cubes, are all splayed on the canvas in bold primary colours — seen, for example, in his Railway Crossing. Merc, in spite of its non-representational quality, is the suggestion of the harsh mechanisation and alienation of modern life, a theme which the artist's experiences in World War One only accentuated, and which pre-dates similar trends (such as pop art) by decades. Clearly, Cubism was a complex art movement, and names such as Analytical, Synthetic, and Orphic Cubism are constructs which were invented long after the events and artworks which they attempt to describe. These names appear to give a coherent order to what was actually a collective movement in which many individuals contributed. Among all this confusion, one does not doubt that the early years of last century were a fascinating period in the Parisian art scene."
+      }
+    }
+  ]
+}

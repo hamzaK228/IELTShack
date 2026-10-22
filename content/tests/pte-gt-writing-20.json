@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-20",
+  "title": "General Training Writing — Letter 20",
+  "kind": "practice",
+  "description": "Task 1 letter, 20 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-20-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You ordered a new cheque book from your bank two weeks ago but you have received nothing.\nWrite a letter to the manager complaining about the bad service. Say when and how you ordered the cheque book. Ask how much longer you will have to wait and ask the manager what action he will take over this matter.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

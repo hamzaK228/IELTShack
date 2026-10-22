@@ -1,0 +1,1364 @@
+{
+  "id": "pte-reading-120",
+  "title": "Academic Reading — Practice Test 120",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Disorder in Adults",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-120-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "can be positive in small doses but is generally associated with pressure",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stress"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "Attention Deficit Disorder"
+            },
+            {
+              "id": "D",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "E",
+              "text": "Attention Deficit Hyperactivity Disorder"
+            },
+            {
+              "id": "F",
+              "text": "Depression"
+            },
+            {
+              "id": "G",
+              "text": "Obsessive Compulsive Disorder"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "feeling that there is danger constantly present",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stress"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "Attention Deficit Disorder"
+            },
+            {
+              "id": "D",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "E",
+              "text": "Attention Deficit Hyperactivity Disorder"
+            },
+            {
+              "id": "F",
+              "text": "Depression"
+            },
+            {
+              "id": "G",
+              "text": "Obsessive Compulsive Disorder"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "has experiences that may or may not be part of the 'real' world",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stress"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "Attention Deficit Disorder"
+            },
+            {
+              "id": "D",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "E",
+              "text": "Attention Deficit Hyperactivity Disorder"
+            },
+            {
+              "id": "F",
+              "text": "Depression"
+            },
+            {
+              "id": "G",
+              "text": "Obsessive Compulsive Disorder"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "active to the point of losing concentration and becoming disruptive",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stress"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "Attention Deficit Disorder"
+            },
+            {
+              "id": "D",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "E",
+              "text": "Attention Deficit Hyperactivity Disorder"
+            },
+            {
+              "id": "F",
+              "text": "Depression"
+            },
+            {
+              "id": "G",
+              "text": "Obsessive Compulsive Disorder"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "good at art but not at communicating Types of Disorders",
+          "options": [
+            {
+              "id": "A",
+              "text": "Stress"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "Attention Deficit Disorder"
+            },
+            {
+              "id": "D",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "E",
+              "text": "Attention Deficit Hyperactivity Disorder"
+            },
+            {
+              "id": "F",
+              "text": "Depression"
+            },
+            {
+              "id": "G",
+              "text": "Obsessive Compulsive Disorder"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Autism Spectrum Disordermay excel in activities of a ______nature",
+          "answer": "creative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Attention Deficit Disordermay appear ______",
+          "answer": "quiet and dreamy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Schizophreniamay respond to experiencing episodes of the disease by behaving in very ______",
+          "answer": "unusual ways",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Depressionmy experience feelings of futility that lead to thoughts of ______",
+          "answer": "suicide",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which disorder could cause visible physical changes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "B",
+              "text": "Stress"
+            },
+            {
+              "id": "C",
+              "text": "Schizophrenia"
+            },
+            {
+              "id": "D",
+              "text": "Depression"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Episodes of which disorder may last for a limited period of time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ADHD"
+            },
+            {
+              "id": "B",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "C",
+              "text": "schizophrenia"
+            },
+            {
+              "id": "D",
+              "text": "depression"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which disorder can be triggered by the death of a loved one?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Autistic Spectrum Disorder"
+            },
+            {
+              "id": "B",
+              "text": "ADHD"
+            },
+            {
+              "id": "C",
+              "text": "Stress"
+            },
+            {
+              "id": "D",
+              "text": "OCD"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What characterises sufferers of OCD?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the fear of going outside"
+            },
+            {
+              "id": "B",
+              "text": "the performance of rituals"
+            },
+            {
+              "id": "C",
+              "text": "the desire to hurt others"
+            },
+            {
+              "id": "D",
+              "text": "the feeling that they are helpless to ease their distress"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Disorder in Adults",
+        "text": "Imagine you are getting up in the morning. You know you will need to go to the bathroom, but the thought of accidentally touching the doorknob is frightening. There may be dangerous bacteria on it. Of course you cleaned the entire bathroom yesterday, including the usual series of spraying disinfectant, washing and rinsing. As usual it took a couple of hours to do it the right way. Even then you weren't sure whether you had missed an area, so you had to re-wash the floor. Naturally the doorknob was sprayed and rubbed three times with a bactericidal spray. Now the thought that you could have missed a spot on the door knob makes you very nervous. This description might give you some sense of the tormented and anxious world that people with Obsessive Compulsive Disorder (OCD) live in. It is a world filled with dangers from outside and from within. Often elaborate rituals and thoughts are used to ward off feared events, but no amount of mental or physical activity seems adequate, so doubt and anxiety are often present. People who do not have OCD may perform behaviours in a ritualistic way, repeating, checking, or washing things out of habit or concern. Generally this is done without much, if any, worry. What distinguishes OCD as a psychiatric disorder is that the experience of obsessions, and the performance of rituals, reaches such an intensity or frequency that it causes significant psychological distress and interferes in a significant way with psycho-social functioning. The guideline of at least one hour spent on symptoms per day is often used as a measure of 'significant interference'. However, among patients who try to avoid situations that bring on anxiety and compulsions, the actual symptoms may not consume an hour. Yet their situations would dearly constitute interfering with functioning. Consider, for instance, a welfare mother who throws out more than $100 of groceries a week because of contamination fears. Although this behaviour has a major effect on her functioning, it might not consume one hour per day. Patients with OCD describe their experience as having thoughts (obsessions) that they associate with some danger. The sufferer generally recognises that it is his or her own thoughts, rather than something imposed by someone else (as in some paranoid schizophrenic patients). However, the disturbing thoughts cannot be dismissed, and simply nag at the sufferer. Something must then be done to relieve the danger and mitigate the fear. This leads to actions and thoughts that are intended to neutralise the danger. These are the compulsions. Because these behaviours seem to give the otherwise 'helplessly anxious' person something to combat the danger, they are temporarily reassuring. However, since the 'danger' is typically irrational or imaginary, it simply returns, thereby triggering another cycle of the briefly reassuring compulsions. From the standpoint of classic conditioning, this pattern of painful obsession followed by temporarily reassuring compulsion eventually produces an intensely ingrained habit. It is rare to see obsessions without compulsions. The two most common obsessions are fears of contamination and fear of harming oneself or others, while the two most common compulsions are checking and cleaning."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: the developing world",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-120-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Agriculture still plays a role in the economy of developing countries.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The population of the developing world increases at such a fast rate because they constantly need to renew the labour force.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Countries that spend more on imports than they can from exports can experience problems.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Like the developing world, oil-rich countries are also victims of dominance by Western powers.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Countries in the developing world",
+          "options": [
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The term 'the third world' implies",
+          "options": [
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "One factor that is prevalent in the developing world is",
+          "options": [
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "One consequence of the terms of trade was",
+          "options": [
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "the developing world",
+        "text": "(A) THE DEVELOPING WORLD – the economically underdeveloped countries of Asia. Africa. Oceania and Latin America – is considered as an entity with common characteristics, such as poverty, high birth rates, and economic dependence on the advanced countries. Until recently, the developing world was known as 'the third world'. The French demographer Alfred Sauvy coined the expression (in French) in 1952 by analogy with the 'third estate' – the commoners of France before and during the French Revolution – as opposed to priests and nobles, comprising the First and second estates respectively. 'Like the third estate', wrote Sauvy, 'the third world is nothing, and it wants to be something'. The term therefore implies that the third world is exploited, much as the third estate was exploited and that, like the third estate, its destiny is a revolutionary one. It conveys as well a second idea, also discussed by Sauvy – that of nonalignment, for the developing world belongs neither to the industrialised capitalist world nor to the industrialised former communist bloc. The expression 'third world' was used at the 1955 conference of Afro-Asian countries held in Bandung. Indonesia. In 1956 a group of social scientists associated with Sauvy's National Institute of Demographic Studies, in Paris, published a book called 'Le Tiers-Monde'. Three years later, the French economist Francois Perroux launched a new journal, on problems of underdevelopment, with the same title. By the end of the 1950s the term was frequently employed in the French media to refer to the underdeveloped countries of Asia. Africa, Oceania and Latin America. Present day politicians and social commentators, however, now use the term 'developing world' in a politically correct effort to dispel the negative connotations of 'third world'.\n\n(B) Countries in the developing world have a number of common traits: distorted and highly dependent economies devoted to producing primary products for the developed world; traditional, rural social structures; high population growth and widespread poverty. Nevertheless, the developing world is sharply differentiated, for it includes countries on various levels of economic development. And despite the poverty of the countryside and the urban shanty towns, the ruling elites of most third world countries are wealthy.\n\n(C) This combination of conditions in Asia, Africa, Oceania and Latin America is linked to the absorption of the developing world into the international capitalist economy, by way of conquest or indirect domination. The main economic consequence of Western domination was the creation, for the first time in history, of a world market. By setting up sub-economies linked to the West throughout the developing world, and by introducing other modern institutions, industrial capitalism disrupted traditional economies and, indeed, societies. This disruption led to underdevelopment.\n\n(D) Because the economies of underdeveloped countries have been geared to the needs of industrialised countries, they often comprise only a few modem economic activities, such as mining or the cultivation of plantation crops. Control over these activities has often remained in the hands of large foreign firms. The prices of developing world products are usually determined by large buyers in the economically dominant countries of the West, and trade with the West provides almost all the developing world's income. Throughout the colonial period, outright exploitation severely limited the accumulation of capital within the foreign dominated countries. Even after decolonisation (in the 1950s, 1960s, and 1970s), the economies of the developing world grew slowly, or not at all, owing largely to the deterioration of the 'terms of trade' – the relationship between the cost of the goods a nation must import from abroad and its income from the exports it sends to foreign countries. Terms of trade are said to deteriorate when the cost of imports rises faster than income from exports. Since buyers in the industrialised countries determined the prices of most products involved in international trade, the worsening position of the developing world was scarcely surprising. Only the oil-producing countries – after 1973 – succeeded in escaping the effects of Western domination of the world economy.\n\n(E) No study of the developing world could hope to assess its future prospects without taking into account population growth. While the mortality rate from poverty-related diseases continues to cause international concern, the birth rate continues to rise at unprecedented levels. This population explosion in the developing world will surely prevent any substantial improvements in living standards, as well as threaten people in stagnant economies with worsening poverty and starvation levels."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: biometrics",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-120-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "possible health hazards associated with the use of biometrics",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "convicted criminals were not the first to be identified by the use of biometrics",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the application of mathematics in assessing biometric data",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "despite its limitations, biometries has become a commercial field of activity",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "some biometric methods are useful only in conjunction with others",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Members of the public are becoming increasingly worried about the ______that may accompany the use of biometrics.",
+          "answer": "privacy issues",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Biometries can be used to improve the ______of drivers and passengers.",
+          "answer": "personal comfort",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Regardless of the technology used, it has one common purpose: to find somebody's ______and store it on computer.",
+          "answer": "(unique) characteristics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted (36) ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's (37) ______Apart from security, another important (38) ______behind biometric verification has been (39) ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our (40) ______",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            },
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of (35) ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's (37) ______Apart from security, another important (38) ______behind biometric verification has been (39) ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our (40) ______",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            },
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of (35) ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted (36) ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's ______Apart from security, another important (38) ______behind biometric verification has been (39) ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our (40) ______",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            },
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of (35) ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted (36) ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's (37) ______Apart from security, another important ______behind biometric verification has been (39) ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our (40) ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of (35) ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted (36) ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's (37) ______Apart from security, another important (38) ______behind biometric verification has been ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our (40) ______",
+          "options": [
+            {
+              "id": "i",
+              "text": "The great divide between rich and poor."
+            },
+            {
+              "id": "ii",
+              "text": "The status and destiny of the developing' world follows a European precedent."
+            },
+            {
+              "id": "iii",
+              "text": "Economic progress in the developing world slowed down In political unrest."
+            },
+            {
+              "id": "iv",
+              "text": "More people, less food."
+            },
+            {
+              "id": "v",
+              "text": "Western countries refuse to acknowledge their history of colonisation."
+            },
+            {
+              "id": "vi",
+              "text": "Open trade is the main reason these countries become impoverished."
+            },
+            {
+              "id": "vii",
+              "text": "Rivalry in the developing world between capitalist and former communist bloc countries."
+            },
+            {
+              "id": "viii",
+              "text": "Prices and conditions set by outsiders"
+            },
+            {
+              "id": "A",
+              "text": "economic dependence on developed countries."
+            },
+            {
+              "id": "B",
+              "text": "that decolonisation took a long time to achieve."
+            },
+            {
+              "id": "C",
+              "text": "dictate the needs of industrialised countries."
+            },
+            {
+              "id": "D",
+              "text": "share common characteristics."
+            },
+            {
+              "id": "E",
+              "text": "that many economies stagnated."
+            },
+            {
+              "id": "F",
+              "text": "a society that wants something it does not have."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-120-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As long ago as the 14th century, the Chinese made use of biometrics in order to tell young children apart, but it was only in the 1890s when it was first used by the authorities as a means of (35) ______ in criminal cases. The system developed by the Frenchman Bertillon – that of measuring adult bones – was flawed, however, and so police adopted (36) ______ as a more reliable way of identifying suspects. Governments, companies and even schools employ biometric technology to ensure, for example, that people do not enter a country illegally, gain access to certain buildings, or assume someone else's (37) ______Apart from security, another important (38) ______behind biometric verification has been (39) ______The use of biometrics, however, has its critics, who say that the data collected could be used for different purposes without our ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "identification"
+            },
+            {
+              "id": "B",
+              "text": "security"
+            },
+            {
+              "id": "C",
+              "text": "convenience"
+            },
+            {
+              "id": "D",
+              "text": "scanning"
+            },
+            {
+              "id": "E",
+              "text": "fingerprinting"
+            },
+            {
+              "id": "F",
+              "text": "identity"
+            },
+            {
+              "id": "G",
+              "text": "violation"
+            },
+            {
+              "id": "H",
+              "text": "measuring"
+            },
+            {
+              "id": "I",
+              "text": "justification"
+            },
+            {
+              "id": "J",
+              "text": "approval"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "biometrics",
+        "text": "(A) The term \"biometrics' is derived from the Greek words bio (life) and metric (to measure). It refers to technologies for measuring and analysing a person's physiological or behavioural characteristics, such as fingerprints, irises, voice patterns, facial patterns and hand measurements, for identification and verification purposes. One of the earliest known examples of biometrics in practice was a form of fingerprinting used in China in the 14th century. Chinese merchants stamped children's palm prints and footprints on paper with ink to distinguish the young children from one another. This method of biometrics is still being practised today.\n\n(B) Until the late 1800s, identification largely relied upon 'photographic memory.' In the 1890s, an anthropologist and police desk clerk in Paris named Alphonse Bertillon sought to fix the problem of identifying convicted criminals and turned biometrics into a distinct field of study. He developed a method of multiple body measurements which was named after him – Bertillonage. Bertillon based his system on the claim that measurement of adult bones does not change after the age of 20. He also introduced a cataloguing system, which enabled the filing and checking of records quite quickly. His system was used by police authorities throughout the world, until 1903, when two identical measurements were obtained for two different persons at Fort Leavenworth prison. The prison switched to fingerprinting the following day and the rest of the world soon followed abandoning Bertillonage forever. After the failure of Bertillonage, the police started using fingerprinting, which was developed by Richard Edward Henry of Scotland Yard, essentially reverting to the same methods used by the Chinese for years.\n\n(C) In the past three decades biometrics has moved from a single method (fingerprinting) to more than ten different methods. Hundreds of companies are involved with this development and continue to improve their methods as the technology available to them advances. As the industry grows, however, so does the public concern over privacy issues. Laws and regulations continue to be drafted and standards are beginning to be developed. While no other biometric has yet reached the wide range of use of fingerprinting, some are beginning to be used in both legal and business areas.\n\n(D) Identification and verification have long been in practice by presenting a personal document, such as a licence, ID card or a passport. It may also require personal information such as passwords or PINs. For security reasons, often two, or all three, of these systems are combined but as times progress, we are in constant need for more secure and accurate measures. Authentication by biometric verification is becoming increasingly common in corporate and public security systems, consumer electronics and point of-sale applications. In addition to security, the driving force behind biometric verification has been convenience. Already, many European countries are introducing a biometric passport which will carry a paper-thin computer chip to store the facial image and at least one additional biometric identifier. This will help to counter fraudulent efforts to obtain duplicate passports and will verify the identity of the holder against the document.\n\n(E) Identification and verification are mainly used today in the fight against crime with the methods of fingerprint and DNA analysis. It is also used in security for granting access rights by voice pattern recognition. Additionally, it is used for personal comfort by identifying a person and changing personal settings accordingly, as in setting car seats by facial recognition. Starting in early 2000, the use of biometrics in schools has become widespread, particularly in the UK and USA. A number of justifications are given for such practices, including combatting truancy, and replacing library cards or meal cards with fingerprinting systems. Opponents of school biometrics have raised privacy concerns against the creation of databases that would progressively include the entire population.\n\n(F) Biometric devices consist of a reader or scanning device, software that converts the gathered information into digital form, and a database that stores the biometric data for comparison with previous records. When converting the biometric input, the software identifies specific points of data as match points. The match points are processed using an algorithm into a value that can be compared with biometric data in the database. There are two types of biometrics: behavioural and physical. Behavioural biometrics are generally used for verification while physical biometrics can be used for either identification or verification.\n\n(G) Iris-pattern and retina-pattern authentication methods are already employed in some bank automatic teller machines. Voice waveform recognition, a method of verification that has been used for many years with tape recordings in telephone wiretaps, is now being used for access to proprietary databanks in research facilities. Facial-recognition technology has been used by law enforcement to pick out individuals in large crowds with considerable reliability. Hand geometry is being used in industry to provide physical access to buildings. Earlobe geometry has been used to disprove the identity of individuals who claim to be someone they are not (identity theft). Signature comparison is not as reliable, all by itself, as other biometric verification methods but offers an extra layer of verification when used in conjunction with one or more other methods. No matter what biometric methodology is used, the identification verification process remains the same. A record of a person's unique characteristic is captured and kept in a database. Later on, when identification verification is required, a new record is captured and compared with the previous record in the database. If the data in the new record matches that in the database record, the person's identity is confirmed.\n\n(H) As technology advances, and time goes on, more and more private companies and public utilities will use biometrics for safe, accurate identification. However, these advances will raise many concerns throughout society, where many may not be educated on the methods. Some believe this technology can cause physical harm to an individual using it, or that instruments used are unsanitary. For example, there are concerns that retina scanners might not always be clean. There are also concerns as to whether our personal information taken through biometric methods can be misused, tampered with, or sold, eg. by criminals stealing, rearranging or copying the biometric data Also, the data obtained using biometrics can be used in unauthorised ways without the individual's consent. Much still remains to be seen in the effectiveness of biometric verification before we can identify it as the safest system for identification."
+      }
+    }
+  ]
+}

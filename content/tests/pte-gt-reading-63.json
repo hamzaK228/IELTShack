@@ -1,0 +1,1091 @@
+{
+  "id": "pte-gt-reading-63",
+  "title": "General Training Reading — Practice Test 63",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: total fire bans",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can go to prison for a year if you light a fire outside.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Fire bans last for two days.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can contact your local radio station for more information.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can use your pizza oven if it is under your patio.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "total fire bans",
+        "text": "Total Fire Bans affect everyone. Whether you live in the city, the suburbs or in the country, you need to know when one is declared and what this means you can't do. WHAT IS A TOTAL FIRE BAN?\n\n(A) Total Fire Ban prohibits:\n\n• the lighting of any fires in the open air • any other activities in the open air that may start a fire. Undercover areas such as patios, pergolas and huts that are open or partially open to the weather are deemed to be in the open air. WHEN WILL A TOTAL FIRE BAN BE DECLARED? The decision to put a ban in place is based on weather forecast and local conditions. A Total Fire Ban will be declared on days when fires are most likely to threaten lives and property. HOW WILL I KNOW WHEN A TOTAL FIRE BAN HAS BEEN DECLARED?\n\nWhen a ban has been declared it will be:\n\n• on the DFES website www.dfes.wa.gov.au\n\n• on the Total Fire Ban information line 1800 709 355\n\n• broadcast on ABC local radio and other media outlets\n\n• published to subscribers through the DFES website's automated RSS feeds\n\n• published on DFES's Twitter account • displayed on local government roadside Fire Danger Rating signs. HOW LONG IS A TOTAL FIRE BAN IN PLACE FOR? The ban will generally be in place from 12.01am to 11.59pm on the day declared; however, if weather conditions change significantly, times may vary. WHAT ARE THE PENALTIES FOR IGNORING A TOTAL FIRE BAN? You could be fined up to $25 000 and/or jailed for 12 months for ignoring the ban."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Text 2",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Found in seafood.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Dangerous for pregnant women.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q7",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can be sick for up to three weeks.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q8",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can catch this from some common household pets.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "VI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Not usually found in animals.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "II",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can pick this disease up from the garden and it starts within a few hours.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Text 2",
+        "text": "i. Salmonella\n\nOrigins – Bowel, intestine of humans and animals [especially chickens). raw foods, untreated water\n\nOnset – 12-48 hours\n\nSymptoms – Nausea, vomiting, stomach cramps, diarrhoea, fever and headache for 3-21 days\n\nii Staphylococcus aureus (Toxin)\n\nOrigins – Skin, nose, saliva, bowel of humans\n\nOnset – 1-8 hours\n\nSymptoms – Diarrhoea, stomach cramps, nausea and vomiting. Last for about 24 hours\n\niii Clostridium perfringens\n\nOrigins – Soil, bowel, intestine of humans and animals\n\nOnset – 8-12 hours\n\nSymptoms – Stomach pains, diarrhoea and sometimes nausea and vomiting. Lasts for about 24 hours\n\niv Vibrio parahaemolyticus\n\nOrigins – Drinking water, shellfish and fish\n\nOnset – 12-24 hours\n\nSymptoms – Diarrhoea, stomach cramps, sometimes nausea and vomiting. May last for several days\n\nv Listeria monocytogenes\n\nOrigins – Soil, bowel, intestine of humans and animals, raw vegetables, processed foods\n\nOnset – 2 days to 3 months Symptoms – Flu-like symptoms: fever, headaches and pains. May cause miscarriage and stillbirth, meningitis and septicaemia\n\nvi Campylobacter\n\nOrigins – Raw poultry, raw meats, untreated water, unpasteurised milk; puppies, kittens, wild animals and birds\n\nOnset – 2-5 days\n\nSymptoms – Diarrhoea, abdominal pain, vomiting, fever and nausea. Last for 2-5 days"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: the facts about plastic",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Just under a quarter of waste plastic comes from ______",
+          "answer": "milk bottles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Just over two-thirds of recovered PET was made into ______",
+          "answer": "new/soft drink bottles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Plastic bottles are more energy efficient because they are ______",
+          "answer": "lightweight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Plastic that is thrown away has been found on ______where no people Live.",
+          "answer": "South Pacific islands",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "the facts about plastic",
+        "text": "PLASTIC BOTTLES • It takes less energy to manufacture and transport a plastic sauce bottle than a glass sauce bottle, as plastics are lightweight. • It takes 125 recycled plastic milk bottles to manufacture one 140-litre wheelie-bin from recycled plastic. • Over 24 000 tonnes of PET was recovered in Australia last year-that's over 5 7 5 million PET soft drink bottles! Around 18 000 tonnes of these were recycled in Australia-mainly into new soft drink bottles. • It takes 33 000 plastic soft drink bottles to make one tonne of plastic.\n\nSAVE OUR OCEANS • There are about 46 000 pieces of plastic floating in each square mile of our oceans. Discarded plastic has even been found on uninhabited South Pacific islands! • It is estimated that plastic kills up to 1 million sea birds, 100 000 sea mammals and countless fish each year, with many getting entangled in plastic six-pack rings, plastic strapping and nylon ropes. • The disposal of plastics into the ocean is prohibited under the international Convention for the Prevention of Pollution from Ships (MARPOL).\n\nContribution to plastic:\n\n• Soft drink bottles – 36%\n\n• Shrink wrap films, shopping bags and other plastics – 36%\n\n• Milk bottles – 21%\n\n• Detergent and shampoo bottles – 7%"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: advice to help you prevent plagiarism in your work",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Everything must be referenced, unless you made it yourself."
+            },
+            {
+              "id": "ii",
+              "text": "Express others· work your own way and acknowledge that it is not yours."
+            },
+            {
+              "id": "iii",
+              "text": "It is a bad habit to forget your sources."
+            },
+            {
+              "id": "iv",
+              "text": "To get better marks, use your own work as much as possible."
+            },
+            {
+              "id": "v",
+              "text": "Don't say another student's work is yours."
+            },
+            {
+              "id": "vi",
+              "text": "You can copy work as long as you reference it."
+            },
+            {
+              "id": "vii",
+              "text": "Note all sources used and reference them in the body of the text also."
+            },
+            {
+              "id": "viii",
+              "text": "Know where your material comes from and keep the information handy."
+            },
+            {
+              "id": "ix",
+              "text": "Copying and pasting is plagiarism."
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "advice to help you prevent plagiarism in your work",
+        "text": "(A) You must clearly indicate which part of your work is drawn from somewhere else. Paraphrasing is when you use what someone else has said or written, but you write it in your own words. If you paraphrase you must include an in-text citation so that readers can locate the source.\n\n(B) Carefully selected quotations add to the points you are making, but they don't, in themselves, add to the quality of your work. Put another way, if you submitted an essay made up entirely of quotations from other sources you would probably gain a low or zero mark. It is fine to quote other people occasionally, and it is expected that you do-but make sure you provide your own contribution or viewpoint. It is your work that earns you marks. Direct quotes . . . should always be put inside quotation marks. Longer quotes can be indented so they stand apart from the main body of the text. Each quote must be followed by an in-text citation.\n\n(C) Creation is when you produce something new. If you edit an existing item it would still need to be referenced.\n\n(D) Make sure you understand what type of referencing protocol you are required to follow for your unit. • For text-based assessments you will usually need to include in-text citations and a reference list that gives the full details of the source material. • For visual-based artefacts or portfolios you will usually need to include a reference list that gives the full details of the sources that you referred to when creating your work, anything that you have used and modified must be listed.\n\n(E) Always keep your work and the original reference together. Losing the original source of the information is poor academic practice, and it means you might end up submitting work without a reference, or you might end up submitting it with the wrong reference. You could, at any time, be required to produce the original source for comparison.\n\n(F) This is very important. If you copy and paste from a source and fail to reference it properly, then you have plagiarised. It doesn't matter whether you did this intentionally or not. Depending on the circumstances of the case, plagiarism may be treated as academic misconduct where serious penalties can apply.\n\n(G) Often students are encouraged to work together, to cooperate by sharing ideas and understandings. However, individual assessments (where your name is the only name on the cover sheet) are meant to be your own work. Copying from someone else's work is plagiarism, and serious penalties can apply. Do not allow anyone else to submit your work as their own: this is collusion, which is considered academic misconduct."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: acton community health centre",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The main focus of the health centre is to ensure simple ______for patients.",
+          "answer": "healthcare",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Patients may be able to see some doctors before ______",
+          "answer": "8.30 am",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In an emergency, you should call the ______telephone number.",
+          "answer": "main clinic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are over 45 years of age, you should have a heart check-up and a ______every two years.",
+          "answer": "cholesterol check",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Patients must give ______for their medical history to be disclosed to a third party.",
+          "answer": "permission",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You will need a valid certificate before you undertake a ______",
+          "answer": "diving course",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "acton community health centre",
+        "text": "The Acton Community Health Centre seeks to assist the local community and businesses with their health-care needs. The centre offers high standards of care in general practice as well as specialists in travel medicine and occupational health. This expertise offers solutions for local communities, local businesses and employers, medical specialists and insurers.\n\nSERVICES AVAILABLE\n\n• preventative services such as immunisations, well woman examinations and physicals\n\n• blood tests\n\n• treatment of chronic medical conditions such as diabetes, asthma, hypertension and heart disease\n\n• pregnancy testing and antenatal care • specialised medicals: diving, commercial drivers, aviation and insurance medicals.\n\nOFFICE HOURS, APPOINTMENTS AND PHYSICIAN REFERRALS New patients may schedule an appointment by calling (317) 555-2611, extension 3310. Office hours are 8:30 am to 5:00 pm, Monday to Friday, although some doctors may see patients as early as 7:30 am. Established patients should contact their doctor's secretary for a convenient appointment time or to obtain test results.\n\nAFTER-HOURS CARE Patients needing urgent medical attention when the centre is closed may contact their physician by calling the main clinic telephone number: (317) 555-2611. The clinic's answering service will then contact the physician on call. While it is not usual for doctors to make home visits, in an emergency, such a visit is possible.\n\nPREVENTIVE MEDICINE Acton Health Centre has a strong commitment to preventive medicine. The College of General Practitioners recommends checkups according to the following schedule:\n\nFrequency*Who**\n\nSmoking discussionannualsmokers\n\nPhysical activity adviceannualall\n\nCardio vascular risk check2 yearly>45 years\n\nBlood pressure checkannual>18 years\n\nCholesterol check2 yearly>45 years\n\nDiabetes checkannual>40 years\n\nKidney disease check5 yearly>50 years\n\n*Minimum frequency; more often for some at risk groups\n\n**For general population; earlier checks necessary for some at risk groups All consultations at Acton Community Health Centre are completely confidential. We never disclose anything discussed at a consultation to anyone without your permission.\n\nSCUBA DIVING MEDICALS Because the underwater environment places unique physiological stresses on the body, before doing a diving course you will need a valid SCUBA Diving Medical Certificate. Acton Community Health Centre has been performing diving medicals for over 40 years, carrying out a large number each week. For the medical, the doctor will review your medical history, and perform a lung function tests, audiometry (hearing test), a urine test, a physical exam and, in some cases, an ECG (heart tracing)."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: trolley psychology",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-63-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Shoppers generally move:",
+          "options": [
+            {
+              "id": "A",
+              "text": "anti-clockwise around a shop"
+            },
+            {
+              "id": "B",
+              "text": "clockwise around a shop"
+            },
+            {
+              "id": "C",
+              "text": "around the edge and go down the aisles when they want something"
+            },
+            {
+              "id": "D",
+              "text": "up one aisle and down the next."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why are essential, everyday items generally found at the back of the shop?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It’s easier for the staff to restock."
+            },
+            {
+              "id": "B",
+              "text": "It tempts you to buy more as you walk through the shop."
+            },
+            {
+              "id": "C",
+              "text": "Walking through is good exercise for the customer."
+            },
+            {
+              "id": "D",
+              "text": "It’s cooler at the back and better for fresh food."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why are there different fresh food sections in a supermarket?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to make you feel you are visiting more than one shop"
+            },
+            {
+              "id": "B",
+              "text": "to make you think the staff are experts in these sections"
+            },
+            {
+              "id": "C",
+              "text": "to provide extra customer service"
+            },
+            {
+              "id": "D",
+              "text": "to create a stronger aroma."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The word 'special' in a supermarket specifically refers to:",
+          "options": [
+            {
+              "id": "A",
+              "text": "an item you believe must be worthwhile buying"
+            },
+            {
+              "id": "B",
+              "text": "items you think you cannot buy anywhere else"
+            },
+            {
+              "id": "C",
+              "text": "items you think might be available for only a short time"
+            },
+            {
+              "id": "D",
+              "text": "all of the above."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What makes us spend a long time in certain sections of a supermarket?",
+          "options": [
+            {
+              "id": "A",
+              "text": "price and freshness"
+            },
+            {
+              "id": "B",
+              "text": "price and quality"
+            },
+            {
+              "id": "C",
+              "text": "brand and who we are buying for"
+            },
+            {
+              "id": "D",
+              "text": "too much choice and who we are buying for."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following will make you spend more?",
+          "options": [
+            {
+              "id": "A",
+              "text": "taking a shopping list"
+            },
+            {
+              "id": "B",
+              "text": "shopping alone"
+            },
+            {
+              "id": "C",
+              "text": "shopping in a big store"
+            },
+            {
+              "id": "D",
+              "text": "having a meal before you go to the supermarket."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People spend millions of dollars in supermarkets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People tend to spend more than they intended in supermarkets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bread and milk are usually more expensive than other items in the store.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You will usually save money by going on one big shopping trip, less frequently.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bread and milk are usually found together.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Left-handed people tend to walk over to the left in a shop.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-63-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most shoppers can't resist a bargain.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "trolley psychology",
+        "text": "Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. The most common path to travel in-store is around the outside perimeter, dipping in and out of the aisles as needed. As a result, the ends of each aisle are the most profitable part of the store. Product manufacturers pay big dollars to place their products there to grab shoppers' attention, and it's usually familiar brands that provide the greatest profit margin. Many supermarkets micro-manage the various fresh food sections of the shop. Instead of approaching the shop as a single entity, they separate areas into particular zones and have developed different marketing plans for each of these areas. These anchor departments usually include fresh fruit and vegetables, meat, dairy, and the bakery-and all are designed to give shoppers a sense of individual difference. Research indicates consumers will spend more time in the supermarket because of these different zones. Ever walked into a big supermarket just to buy some bread and milk and found yourself leaving with a basket of additional items? A classic retailing trick is to locate the milk and bread at the very back of the store ( often at either end) to encourage short-term shoppers to walk right through the shop and be tempted by the other, more expensive products along the way. According to Harrison, no matter what we might like to think, it's human nature to be attracted to a bargain. 'Although we think we know we're being manipulated, we tend to fall for it anyway.' Even the word 'special' plays on our subconscious. 'Just the word sets off a psychological process in your mind where if something is labelled \"special\" we think it must be good. It also feeds into a theory known as the scarcity effect. This is where we think that if it's on special, then it must only be available at this shop or for a short time, and we afford it more value than the products around it.' Confusion and emotional involvement will have an effect on how long a person spends in front of a particular area in the supermarket. You might, for example, find consumers spending a long time in front of the coffee selection area. Similarly, baby food and pet food purchases take longer because of emotional involvement. Soups and dressings often involve long buy times because of the sometimes-confusing variety of options on offer. As a result, long buy-time products are placed where shoppers will not feel hurried, crowded or that they're getting in the way of other customers while they work out what they're going to buy. These product areas will often be clearly marked out in a separate area. Take a list. People who shop with a list tend to spend less. Shop alone. People who shop as a couple tend to put more in their trolley, as each person will have their own ideas about what's important and should be purchased. Avoid big supermarkets. Don't shop at a big supermarket if you just want to drop in and pick up a few things-you're much better off in a small store. It takes more effort to get in and out of a big supermarket, and as a result you may feel the need to stock up once you're in there. Eat before you shop. Don't shop when you're hungry-it's a sure-fire way to end up with a trolley full of unnecessary purchases."
+      }
+    }
+  ]
+}

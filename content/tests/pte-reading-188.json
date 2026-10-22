@@ -1,0 +1,906 @@
+{
+  "id": "pte-reading-188",
+  "title": "Academic Reading — Practice Test 188",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Communicating in Colour",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-188-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What kind of climate do most chameleons live in? ______",
+          "answer": "Tropical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which animal caught a chameleon that Dr. Andrew Marshall saw? ______",
+          "answer": "(a) (twig) snake",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What was the new species named after? ______",
+          "answer": "(a / the) forest (of Magombera) / Magombera (forest)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which part of the body is unique to the species Kinyongla magomberae? ______",
+          "answer": "(the) nose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Few creatures can change colour as effectively as cuttlefish.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chameleons can imitate a pattern provided there are only two colours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chameleons appear to enjoy trying out new colours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Size matters more than colour when male chameleons compete.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "After a fight, the defeated male hides among branches of a tree.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Females use colour and movement to discourage males.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The popular explanation of why chameleons change colour has been proved wrong.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are more predators of chameleons in grassland habitats than in others.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Measuring animals' visual systems necessitates removing them from their habitat.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Communicating in Colour",
+        "text": "There are more than 160 known species of chameleons. The main distribution is in Africa and Madagascar, and other tropical regions, although some species are also found in parts of southern Europe and Asia. There are introduced populations in Hawaii and probably in California and Florida too. New species are still discovered quite frequently. Dr Andrew Marshall, a conservationist from York University, was surveying monkeys in Tanzania, when he stumbled across a twig snake in the Magombera forest which, frightened, coughed up a chameleon and fled. Though a colleague persuaded him not to touch it because of the risk from venom, Marshall suspected it might be a new species, and took a photograph to send to colleagues, who confirmed his suspicions. Kinyongia magomberae, literally \"the chameleon from Magombera\", is the result, and the fact it was not easy to identify is precisely what made it unique. The most remarkable feature of chameleons is their ability to change colour, an ability rivalled only by cuttlefish and octopi in the animal kingdom. Because of this, colour is not the best thing for telling chameleons apart and different species are usually identified based on the patterning and shape of the head, and the arrangement of scales. In this case it was the bulge of scales on the chameleon's nose. Chameleons are able to use colour for both communication and camouflage by switching from bright, showy colours to the exact colour of a twig within seconds. They show an extraordinary range of colours, from nearly black to bright blues, oranges, pinks and greens, even several at once. A popular misconception is that chameleons can match whatever background they are placed on, whether a chequered red and yellow shirt or a Smartie box. But each species has a characteristic set of cells containing pigment distributed over their bodies in a specific pattern, which determines the range of colours and patterns they can show. To the great disappointment of many children, placing a chameleon on a Smartie box generally results in a stressed, confused, dark grey or mottled chameleon. Chameleons are visual animals with excellent eyesight, and they communicate with colour. When two male dwarf chameleons encounter each other, each shows its brightest colours. They puff out their throats and present themselves side-on with their bodies flattened to appear as large as possible and to show off their colours. This enables them to assess each other from a distance. If one is clearly superior, the other quickly changes to submissive colouration, which is usually a dull combination of greys or browns. If the opponents are closely matched and both maintain their bright colours, the contest can escalate to physical fighting and jaw-locking, each trying to push each other along the branch in a contest of strength. Eventually, the loser will signal his defeat with submissive colouration. Females also have aggressive displays used to repel male attempts at courtship. When courting a female, males display the same bright colours that they use during contests. Most of the time, females are unreceptive and aggressively reject males by displaying a contrasting light and dark colour pattern, with their mouths open and moving their bodies rapidly from side to side. If the male continues to court a female, she often chases and bites him until he retreats. The range of colour- change during female displays, although impressive, is not as great as that shown by males. Many people assume that colour change evolved to enable chameleons to match a greater variety of backgrounds in their environment. If this was the case, then the ability of chameleons to change colour should be associated with the range of background colours in the chameleon's habitat, but there is no evidence for such a pattern. For example, forest habitats might have a greater range of brown and green background colours than grasslands, so forest-dwelling species might be expected to have greater powers of colour change. Instead, the males whose display colours are the most eye-catching show the greatest colour change. Their displays are composed of colours that contrast highly with each other as well as with the background vegetation. This suggests that the species that evolved the most impressive capacities for colour change did so to enable them to intimidate rivals or attract mates rather than to facilitate camouflage. How do we know that chameleon display colours are eye-catching to another chameleon – or, for that matter, to a predatory bird? Getting a view from the perspective of chameleons or their bird predators requires information on the chameleon s or bird's visual system and an understanding of how their brains might process visual information. This is because the perceived colour of an object depends as much on die brain's wiring as on the physical properties of the object itself. Luckily, recent scientific advances have made it possible to obtain such measurements in the field, and information on visual systems of a variety of animals is becoming increasingly available. The spectacular diversity of colours and ornaments in nature has inspired biologists for centuries. But if we want to understand the function and evolution of animal colour patterns, we need to know how they are perceived by the animals themselves – or their predators. After all, camouflage and conspicuousness are in the eye of the beholder."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: The Pursuit of Happiness",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-188-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the need for individuals to understand what really matters to them",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "tension resulting from a wide variety of alternatives",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the hope of success as a means of overcoming unhappy feelings",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "people who call themselves specialists",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "human beings' capacity for coping with change",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "doing things which are interesting in themselves",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q20",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following people argue against aiming for constant happiness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Martin Seligman"
+            },
+            {
+              "id": "B",
+              "text": "Eric Wilson"
+            },
+            {
+              "id": "C",
+              "text": "Sonja Lyubomirsky"
+            },
+            {
+              "id": "D",
+              "text": "Russ Harris"
+            },
+            {
+              "id": "E",
+              "text": "Barry Schwartz"
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q21",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following people argue against aiming for constant happiness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Martin Seligman"
+            },
+            {
+              "id": "B",
+              "text": "Eric Wilson"
+            },
+            {
+              "id": "C",
+              "text": "Sonja Lyubomirsky"
+            },
+            {
+              "id": "D",
+              "text": "Russ Harris"
+            },
+            {
+              "id": "E",
+              "text": "Barry Schwartz"
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q22",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following beliefs are identified as mistaken in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "inherited wealth brings less happiness than earned wealth"
+            },
+            {
+              "id": "B",
+              "text": "social status affects our perception of how happy we are"
+            },
+            {
+              "id": "C",
+              "text": "an optimistic outlook ensures success"
+            },
+            {
+              "id": "D",
+              "text": "unhappiness can and should be avoided"
+            },
+            {
+              "id": "E",
+              "text": "extremes of emotion are normal in the young"
+            }
+          ],
+          "answer": [
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q23",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following beliefs are identified as mistaken in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "inherited wealth brings less happiness than earned wealth"
+            },
+            {
+              "id": "B",
+              "text": "social status affects our perception of how happy we are"
+            },
+            {
+              "id": "C",
+              "text": "an optimistic outlook ensures success"
+            },
+            {
+              "id": "D",
+              "text": "unhappiness can and should be avoided"
+            },
+            {
+              "id": "E",
+              "text": "extremes of emotion are normal in the young"
+            }
+          ],
+          "answer": [
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In order to have a complete understanding of how people's minds work, Martin Seligman suggested that research should examine our most positive ______as closely as it does our psychological problems. Soon after arriving at a (25) ______in their lives, people become accustomed to what they have achieved and have a sense that they are lacking something. People who are (26) ______by nature are more likely to succeed if they make thorough preparation for a presentation.",
+          "answer": "Moods",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In order to have a complete understanding of how people's minds work, Martin Seligman suggested that research should examine our most positive (24) ______as closely as it does our psychological problems. Soon after arriving at a ______in their lives, people become accustomed to what they have achieved and have a sense that they are lacking something. People who are (26) ______by nature are more likely to succeed if they make thorough preparation for a presentation.",
+          "answer": "Milestone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In order to have a complete understanding of how people's minds work, Martin Seligman suggested that research should examine our most positive (24) ______as closely as it does our psychological problems. Soon after arriving at a (25) ______in their lives, people become accustomed to what they have achieved and have a sense that they are lacking something. People who are ______by nature are more likely to succeed if they make thorough preparation for a presentation.",
+          "answer": "Pessimistic",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The Pursuit of Happiness",
+        "text": "(A) In the late 1990; psychologist Martin Seligman of the University of Pennsylvania urged colleagues to observe optimal moods with the same kind of focus with which they had for so long studied illnesses: we would never learn about the full range of human functions unless we knew as much about mental wellness as we do about mental illness. A new generation of psychologists built up a respectable body of research on positive character traits and happiness-boosting practices. At the same time, developments in neuroscience provided new clues to what makes us happy and what that looks like In the brain. Self appointed experts took advantage of the trend with guarantees to eliminate worry, stress, dejection and even boredom. This happiness movement has provoked a great deal of opposition among psychologists who observe that the preoccupation with happiness has come at the cost of sadness, an important feeling that people have tried to banish from their emotional repertoire. Allan Horwitz of Rutgers laments that young people who are naturally weepy after breakups are often urged to medicate themselves instead of working through their sadness. Wake Forest University's Eric Wilson fumes that the obsession with happiness amounts to a 'craven disregard\" for the melancholic perspective that has given rise to the greatest works of art. \"The happy man,\" he writes, 'is a hollow man.'\n\n(B) After all people are remarkably adaptable. Following a variable period of adjustment, we bounce back to our previous level of happiness, no matter what happens to us. (There are some scientifically proven exceptions, notably suffering the unexpected loss of a job or the loss of a spouse. Both events tend to permanently knock people back a step.) Our adaptability works in two directions. Because we are so adaptable, points out Professor Sonja J.yubomirsky of the University of California, we quickly get used to many of the accomplishments we strive for in life, such as lauding the big job or getting married. Soon alter we reach a milestone, we start to feel that something is missing. We begin coveting another worldly possession or eyeing a social advancement. But such an approach keeps us tethered to a treadmill where happiness is always just out of reach, one toy or one step away. It's possible to get off the treadmill entirely by focusing on activities that are dynamic, surprising, and attention-absorbing. and thus less likely to bore us than, say, acquiring shiny new toys.\n\n(C) Moreover, happiness is not a reward tor escaping pain. Russ Harris, the author of The Happiness Trap, calls popular conceptions of happiness dangerous because they set people up for a 'struggle against reality*. They don't acknowledge that real life is full of disappointments, loss, and inconveniences. \"If you're going to live a rich and meaningful life.* Harris says, \"you're going to feel a full range of emotions.\" Action toward goals other than happiness makes people happy. It is not crossing the finish line that is most rewarding, it is anticipating achieving the goal. University of Wisconsin neuroscientist Richard Davidson has found that working hard toward a goal, and making progress to the point of expecting a goal to be realized, not only activates positive feelings but also suppresses negative emotions such as fear and depression.\n\n(D) We are constantly making decisions, ranging from what clothes to put on. to whom we should marry, not to mention all those flavors of ice cream. We base many of our decisions on whether we think a particular preference will increase our well-being. Intuitively, we seem convinced that the more choices we have, the better off we will ultimately be. But our world of unlimited opportunity imprisons us more than it makes us happy. In what Swarthmore psychologist Barrs- Schwartz calls \"the paradox of choice.\" lacing many possibilities leaves us stressed out – and less satisfied with whatever we do decide. Having too many choices keeps us wondering about all the opportunities missed.\n\n(E) Besides, not everyone can put on a happy face. Rirlxira Held, a professor of psychology at Bowdoin College, rails against \"the tyranny of the positive attitude\". 'Looking on the bright side isn't possible for some people and Is even counterproductive,\" she insists. 'When you put pressure on people to cope in a way that doesn't fit them, it not only doesn't work, it makes them feel like a failure on top of already feeling bad.\" The one-size-fits-all approach to managing emotional life is misguided, agrees Professor Julie Norem, author of The Positive Power of Negative Thinking. In her research, she has shown that the defensive pessimism that anxious people feel can be harnessed to help them get things done, which in turn makes them happier. A naturally pessimistic architect, for example, can set low expectations for an upcoming presentation and review all of the bad outcomes that she's imagining, so that she can prepare carefully and increase her chances of success.\n\n(F) By contrast, an individual who is not living according to their values, will not be happy, no matter how much they achieve. Some people, however, are not sure what their values are. In that case Harris has a great question: 'Imagine I could wave a magic wand to ensure that you would have the approval and admiration of everyone on the planet, forever. What, in that case, would you choose to do with your life?\" Once this has been answered honestly, you can start taking steps toward your ideal vision of yourself. The actual answer is unimportant, as long as you're living consciously. The state of happiness is not really a state at all. It's an ongoing personal experiment."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The Deep Sea",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-188-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the first paragraph, the writer finds it surprising that …",
+          "options": [
+            {
+              "id": "A",
+              "text": "we send robots to Mars rather than to the sea bed."
+            },
+            {
+              "id": "B",
+              "text": "we choose to explore the least accessible side of the moon."
+            },
+            {
+              "id": "C",
+              "text": "people reached the moon before they explored the deepest parts of the earth’s oceans."
+            },
+            {
+              "id": "D",
+              "text": "spaceships are sent beyond our solar system instead of exploring it."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer argues that saying 71 % of the earth's surface is ocean is not accurate because it",
+          "options": [
+            {
+              "id": "A",
+              "text": "ignores the depth of the world’s oceans."
+            },
+            {
+              "id": "B",
+              "text": "is based on an estimated volume."
+            },
+            {
+              "id": "C",
+              "text": "overlooks the significance of landscape features."
+            },
+            {
+              "id": "D",
+              "text": "refers to the proportion of water in which life is possible."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did the diving bell help divers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It allowed each diver to carry a supply of air underwater."
+            },
+            {
+              "id": "B",
+              "text": "It enabled piped air to reach deep below the surface."
+            },
+            {
+              "id": "C",
+              "text": "It offered access to a reservoir of air below the surface."
+            },
+            {
+              "id": "D",
+              "text": "It meant that they could dive as deep as 500 feet."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What point does the writer make about scientific discoveries between 1930 and 1970?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They were rarely the primary purpose of deep sea exploration."
+            },
+            {
+              "id": "B",
+              "text": "The people who conducted experiments were not professional scientists."
+            },
+            {
+              "id": "C",
+              "text": "Many people refused to believe the discoveries that were made."
+            },
+            {
+              "id": "D",
+              "text": "They involved the use of technologies from other disciplines."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Midocean Ridge is largely the same as when the continents emerged.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "We can make an approximate calculation of the percentage of the ocean which sunlight penetrates.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Many unexpected scientific phenomena came to light when exploration of the Midocean Ridge began.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The number of people exploring the abyss has risen sharply in the 21st century.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "One danger of the darkness is that deep sea vehicles become entangled in vegetation.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The construction of submersibles offers little protection from the cold at great depths.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A diving craft has to be ______enough to cope with the enormous pressure of the abyss, which is capable of crushing almost anything. Unlike creatures that live there, which are not (38) ______because they contain compressed water, a submersible is filled with (39) ______If it has a weak spot in its construction, there will be a (40) ______explosion of water into the craft.",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A diving craft has to be (37) ______enough to cope with the enormous pressure of the abyss, which is capable of crushing almost anything. Unlike creatures that live there, which are not ______because they contain compressed water, a submersible is filled with (39) ______If it has a weak spot in its construction, there will be a (40) ______explosion of water into the craft.",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A diving craft has to be (37) ______enough to cope with the enormous pressure of the abyss, which is capable of crushing almost anything. Unlike creatures that live there, which are not (38) ______because they contain compressed water, a submersible is filled with ______If it has a weak spot in its construction, there will be a (40) ______explosion of water into the craft.",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-188-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A diving craft has to be (37) ______enough to cope with the enormous pressure of the abyss, which is capable of crushing almost anything. Unlike creatures that live there, which are not (38) ______because they contain compressed water, a submersible is filled with (39) ______If it has a weak spot in its construction, there will be a ______explosion of water into the craft.",
+          "answer": "H",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The Deep Sea",
+        "text": "At a time when most think of outer space as the final frontier, we must remember that a great deal of unfinished business remains here on earth. Robots crawl on the surface of Mars, and spacecraft exit our solar system, but most of our own planet has still never been seen by human eyes. It seems ironic that we know more about impact craters on the far side of the moon than about the longest and largest mountain range on earth. It is amazing that human beings crossed a quarter of a million miles of space to visit our nearest celestial neighbor before penetrating just two miles deep into the earths own waters to explore the Midocean Ridge. And it would be hard to imagine a more significant part of our planet to investigate – a chain of volcanic mountains 42,000 miles long where most of the earth's solid surface was born, and where vast volcanoes continue to create new submarine landscapes. The figure we so often see quoted 71% of the earth's surface – understates the oceans' importance. If you consider instead three-dimensional volumes, the land dwellers' share of the planet shrinks even more toward insignificance: less than 1% of the total. Most of the oceans' enormous volume, lies deep below the familiar surface. The upper sunlit layer, by one estimate, contains only 2 or 3% of the total space available to life. The other 97% of the earth's biosphere lies deep beneath the water's surface, where sunlight never penetrates. Until recently, it was impossible to study the deep ocean directly. By the sixteenth century, diving bells allowed people to stay underwater for a short time: they could swim to the hell to breathe air trapped underneath it rather than return all the way to the surface. Later, other devices, including pressurized or armored suits, heavy' metal helmets, and compressed air supplied through hoses from the surface, allowed at least one diver to reach 500 feet or so. It was 1930 when a biologist named William Beebe and his engineering colleague Otis Barton sealed themselves into a new kind of diving craft, an invention that finally allowed humans to penetrate beyond the shallow sunlit layer of the sea and the history of deep-sea exploration began. Science then was largely incidental – something that happened along the way. In terms of technical ingenuity and human bravery, this part of the story is every' bit as amazing as the history of early aviation. Yet many of these individuals, and the deep-diving vehicles that they built and tested, are not well known. It was not until the 1970s that deep-diving manned submersibles were able to reach the Midocean Ridge and begin making major contributions to a wide range of scientific questions. A burst of discoveries followed in short order. Several of these profoundly changed whole fields of science, and their implications are still not fully understood. For example, biologists may now be seeing – in the strange communities of microbes and animals that live around deep volcanic vents – clues to the origin of life on earth. No one even knew that these communities existed before explorers began diving to the bottom in submersible. Entering the deep, black abyss presents unique challenges for which humans must carefully prepare if the wish to survive. It is an unforgiving environment, both harsh and strangely beautiful, that few who have not experienced it first hand can fully appreciate. Even the most powerful searchlights penetrate only lens of feet. Suspended particles scatter tile light and water itself is for less transparent than air; it absorbs and scatters light. The ocean also swallows other types of electromagnetic radiation, including radio signals. That is why many deep sea vehicles dangle from tethers. Inside those tethers, copper wires or fiber optic strands transmit signals that would dissipate and the if broadcast into open water. Another challenge is that the temperature near the bottom in very deep water typically hovers just four degrees above freezing, and submersibles rarely have much insulation. Since water absorbs heat more quickly than air. the cold down below seems to penetrate a diving capsule for more quickly than it would penetrate, say, a control van up above, on the deck of the mother ship. And finally, the abyss clamps down with crushing pressure on anything that enters it. 'I his force is like air pressure on land, except that water is much heavier than air. At sea level on land, we don't even notice I atmosphere of pressure, about 15 pounds per square inch, the weight of the earths blanket of air. In the deepest part of the ocean, nearly seven miles down, its about 1,200 atmospheres. 18,000 pounds per square inch. A square-inch column of lead would crush down on your body with equal force if it were 3,600 feet tall. Fish that live in the deep don't feel the pressure, because they are filled with water from their own environment. It has already been compressed by abyssal pressure as much as water can be (which is not much). A diving craft, however, is a hollow chamber, rudely displacing the water around it. That chamber must withstand the full brunt of deep sea pressure – thousands of pounds per square inch. If seawater with that much pressure behind it ever finds a way to break inside, it explodes through the hole with laser-like intensity. It was into such a terrifying environment that the first twentieth-century explorers ventured."
+      }
+    }
+  ]
+}

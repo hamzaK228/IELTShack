@@ -1,0 +1,182 @@
+{
+  "id": "diagnostic",
+  "title": "Full Diagnostic",
+  "kind": "diagnostic",
+  "description": "A short placement test across all four IELTS skills. Listening and Reading are scored automatically; Writing and Speaking prompts are saved for review.",
+  "durationMinutes": 35,
+  "sections": [
+    {
+      "id": "listening-1",
+      "skill": "listening",
+      "title": "Listening — Section 1",
+      "instructions": "Read the questions, then study the transcript. In the real test you hear the recording once.",
+      "passage": {
+        "id": "l1",
+        "title": "Transcript — Course enquiry",
+        "text": "Good morning, Riverside Language Centre. How can I help?\n\nHi, I'd like to ask about your evening English courses.\n\nOf course. The next course starts on 12 September and runs for twelve weeks. Classes are on Tuesday and Thursday evenings, from 6:30 to 8:30.\n\nAnd how much does it cost?\n\nThe full fee is £420. We ask for a £100 deposit to reserve your place, and the balance is due in the first week.\n\nDoes that include materials?\n\nAll classroom materials are included. Students do need to buy their own textbook — it's about £35."
+      },
+      "questions": [
+        {
+          "id": "l1-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The course begins on ______ September.",
+          "answer": "12",
+          "explanation": "The receptionist says the next course starts on 12 September.",
+          "difficulty": 1
+        },
+        {
+          "id": "l1-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Classes are held on Tuesday and ______ evenings.",
+          "answer": "Thursday",
+          "explanation": "Classes run on Tuesday and Thursday evenings, 6:30–8:30.",
+          "difficulty": 1
+        },
+        {
+          "id": "l1-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much is the deposit?",
+          "options": [
+            { "id": "A", "text": "£35" },
+            { "id": "B", "text": "£100" },
+            { "id": "C", "text": "£420" }
+          ],
+          "answer": "B",
+          "explanation": "A £100 deposit reserves the place; £420 is the full fee and £35 is the textbook.",
+          "difficulty": 1
+        },
+        {
+          "id": "l1-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What must students buy themselves?",
+          "options": [
+            { "id": "A", "text": "A textbook" },
+            { "id": "B", "text": "Classroom materials" },
+            { "id": "C", "text": "A course certificate" }
+          ],
+          "answer": "A",
+          "explanation": "Classroom materials are included, but students buy their own textbook.",
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "id": "reading-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1",
+      "instructions": "Read the passage and answer the questions.",
+      "passage": {
+        "id": "r1",
+        "title": "Urban heat islands",
+        "text": "Cities are often several degrees warmer than the countryside around them. This effect, known as the urban heat island, is caused largely by the materials used in construction. Concrete, asphalt and brick absorb heat during the day and release it slowly at night, so the air above a city stays warm long after sunset.\n\nA second factor is the loss of vegetation. Plants cool the air through evaporation as well as providing shade, and a dense city has little room for either. Traffic and air-conditioning add further heat directly to the streets.\n\nThe consequences are not only discomfort. Higher temperatures raise the demand for electricity, worsen air quality and increase the health risk for older residents during heatwaves. City planners now test several responses. Planting trees and creating parks provides shade and evaporation. Green roofs, which cover buildings with soil and plants, can reduce surface temperatures by several degrees. Painting roofs white reflects sunlight instead of absorbing it, although researchers note that the benefit varies with climate and building type. Cool pavements, which use lighter materials, lower surface temperatures but can be expensive to install."
+      },
+      "questions": [
+        {
+          "id": "r1-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the main cause of the urban heat island effect described in the passage?",
+          "options": [
+            { "id": "A", "text": "Rising global temperatures" },
+            { "id": "B", "text": "Building materials that store and release heat" },
+            { "id": "C", "text": "Increased rainfall in cities" },
+            { "id": "D", "text": "The height of modern buildings" }
+          ],
+          "answer": "B",
+          "explanation": "The first paragraph names concrete, asphalt and brick absorbing heat during the day and releasing it at night as the main cause.",
+          "difficulty": 1
+        },
+        {
+          "id": "r1-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Green roofs can lower the temperature of a building's surface.",
+          "options": [
+            { "id": "True", "text": "True" },
+            { "id": "False", "text": "False" },
+            { "id": "Not Given", "text": "Not Given" }
+          ],
+          "answer": "True",
+          "explanation": "The passage states that green roofs can reduce surface temperatures by several degrees.",
+          "difficulty": 1
+        },
+        {
+          "id": "r1-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Researchers agree that white roofs are the best solution in every climate.",
+          "options": [
+            { "id": "True", "text": "True" },
+            { "id": "False", "text": "False" },
+            { "id": "Not Given", "text": "Not Given" }
+          ],
+          "answer": "False",
+          "explanation": "The passage says the benefit of white roofs varies with climate and building type, so there is no universal claim.",
+          "difficulty": 2
+        },
+        {
+          "id": "r1-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Plants cool the air through ______ as well as by providing shade.",
+          "answer": "evaporation",
+          "explanation": "The second paragraph says plants cool the air through evaporation as well as providing shade.",
+          "difficulty": 1
+        },
+        {
+          "id": "r1-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which response is described as potentially expensive?",
+          "options": [
+            { "id": "A", "text": "Planting trees" },
+            { "id": "B", "text": "Green roofs" },
+            { "id": "C", "text": "Cool pavements" },
+            { "id": "D", "text": "Creating parks" }
+          ],
+          "answer": "C",
+          "explanation": "Cool pavements are said to lower surface temperatures but can be expensive to install.",
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "id": "writing-1",
+      "skill": "writing",
+      "title": "Writing — Task 1",
+      "instructions": "Write at least 150 words. This prompt is saved for self-review; it is not auto-scored.",
+      "questions": [
+        {
+          "id": "w1-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The chart below shows the percentage of households in four countries with access to the internet between 2000 and 2020. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+          "answer": "",
+          "explanation": "A strong Task 1 answer has a clear overview, groups the data logically, and supports claims with figures."
+        }
+      ]
+    },
+    {
+      "id": "speaking-1",
+      "skill": "speaking",
+      "title": "Speaking — Part 2",
+      "instructions": "Speak for 1–2 minutes. Record yourself or speak aloud, then rate your fluency and vocabulary.",
+      "questions": [
+        {
+          "id": "s1-q1",
+          "skill": "speaking",
+          "type": "speaking",
+          "graded": false,
+          "prompt": "Describe a skill you learned that was difficult at first. You should say: what the skill was, how you learned it, how long it took, and explain why it was difficult.",
+          "answer": "",
+          "explanation": "Aim for a clear structure: what → how → how long → why it was difficult, with one or two concrete examples."
+        }
+      ]
+    }
+  ]
+}

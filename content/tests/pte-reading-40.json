@@ -1,0 +1,918 @@
+{
+  "id": "pte-reading-40",
+  "title": "Academic Reading — Practice Test 40",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: alternative transportation",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-40-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The list below shows some problems that are associated with the use of private cars. Which FIVE of these problems are mentioned in the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Social isolation"
+            },
+            {
+              "id": "B",
+              "text": "High maintenance costs"
+            },
+            {
+              "id": "C",
+              "text": "Air pollution"
+            },
+            {
+              "id": "D",
+              "text": "Noise pollution"
+            },
+            {
+              "id": "E",
+              "text": "Traffic congestion"
+            },
+            {
+              "id": "F",
+              "text": "Stress"
+            },
+            {
+              "id": "G",
+              "text": "Lack of parking space"
+            },
+            {
+              "id": "H",
+              "text": "Rising price of gasoline"
+            },
+            {
+              "id": "I",
+              "text": "Reduced opportunities for physical exercise"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The list below shows some problems that are associated with the use of private cars. Which FIVE of these problems are mentioned in the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Social isolation"
+            },
+            {
+              "id": "B",
+              "text": "High maintenance costs"
+            },
+            {
+              "id": "C",
+              "text": "Air pollution"
+            },
+            {
+              "id": "D",
+              "text": "Noise pollution"
+            },
+            {
+              "id": "E",
+              "text": "Traffic congestion"
+            },
+            {
+              "id": "F",
+              "text": "Stress"
+            },
+            {
+              "id": "G",
+              "text": "Lack of parking space"
+            },
+            {
+              "id": "H",
+              "text": "Rising price of gasoline"
+            },
+            {
+              "id": "I",
+              "text": "Reduced opportunities for physical exercise"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The list below shows some problems that are associated with the use of private cars. Which FIVE of these problems are mentioned in the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Social isolation"
+            },
+            {
+              "id": "B",
+              "text": "High maintenance costs"
+            },
+            {
+              "id": "C",
+              "text": "Air pollution"
+            },
+            {
+              "id": "D",
+              "text": "Noise pollution"
+            },
+            {
+              "id": "E",
+              "text": "Traffic congestion"
+            },
+            {
+              "id": "F",
+              "text": "Stress"
+            },
+            {
+              "id": "G",
+              "text": "Lack of parking space"
+            },
+            {
+              "id": "H",
+              "text": "Rising price of gasoline"
+            },
+            {
+              "id": "I",
+              "text": "Reduced opportunities for physical exercise"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The list below shows some problems that are associated with the use of private cars. Which FIVE of these problems are mentioned in the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Social isolation"
+            },
+            {
+              "id": "B",
+              "text": "High maintenance costs"
+            },
+            {
+              "id": "C",
+              "text": "Air pollution"
+            },
+            {
+              "id": "D",
+              "text": "Noise pollution"
+            },
+            {
+              "id": "E",
+              "text": "Traffic congestion"
+            },
+            {
+              "id": "F",
+              "text": "Stress"
+            },
+            {
+              "id": "G",
+              "text": "Lack of parking space"
+            },
+            {
+              "id": "H",
+              "text": "Rising price of gasoline"
+            },
+            {
+              "id": "I",
+              "text": "Reduced opportunities for physical exercise"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The list below shows some problems that are associated with the use of private cars. Which FIVE of these problems are mentioned in the article?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Social isolation"
+            },
+            {
+              "id": "B",
+              "text": "High maintenance costs"
+            },
+            {
+              "id": "C",
+              "text": "Air pollution"
+            },
+            {
+              "id": "D",
+              "text": "Noise pollution"
+            },
+            {
+              "id": "E",
+              "text": "Traffic congestion"
+            },
+            {
+              "id": "F",
+              "text": "Stress"
+            },
+            {
+              "id": "G",
+              "text": "Lack of parking space"
+            },
+            {
+              "id": "H",
+              "text": "Rising price of gasoline"
+            },
+            {
+              "id": "I",
+              "text": "Reduced opportunities for physical exercise"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Car emissions can contribute to illnesses of the respiratory system.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cars are the largest source of environmental pollution in the modern world.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People are becoming more interested in hybrid cars.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Electric cars don't pollute the environment.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Solar-powered cars are currently too expensive for the average person to own.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Roads and highways contribute to water pollution.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bicycle riding has health benefits.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Car pools can reduce individuals' transportation costs. Cambridge IELTS Test 1 to 17",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "alternative transportation",
+        "text": "Transportation is a major issue in urban areas around the world. Rising fuel costs, environmental problems, and traffic-clogged roads are some of the concerns that have led people to consider alternative forms of transportation. Fuel-efficient cars and cars that run on alternative sources of energy are receiving increasing interest as people become more concerned about the costs of using gasoline. These costs include not only the ever increasing price of filling up a car's fuel tank but also the environmental costs of emitting huge amounts of car exhaust into the atmosphere. Climate change is an issue of global concern. Closer to home, cities have to consider the effects on the health of their citizens. Car emissions have been linked to a range of health problems, particularly respiratory problems. For example, studies have linked childhood asthma and stunted lung growth to exposure to car exhaust in the air. Research has also made connections between car emissions and heart disease, certain cancers, and immune system problems. The popularity of smaller, more fuel efficient cars is on the rise. Hybrid vehicles are also becoming more common. These cars have two engines— one that is battery powered and one that is gasoline powered. The battery- powered engine gets the car moving from a standstill. Once the car reaches a certain speed, the gasoline engine, which is more efficient at higher speeds, takes over to keep the car moving. There is also a growing interest in cars that are completely battery powered. These are cars that would be plugged into an electric outlet to recharge when not in use. Many consider such vehicles to be the car of the future. However, as long as the electricity is generated by coal-burning plants, as is often the case, these cars cannot be considered as using clean energy. Solar cars and hydrogen cars are other \"clean\" technologies that are receiving attention and hopes for the future. Car emissions are the most serious source of concern, but the sheer number of vehicles on the road—over 250 million in the United States alone and over one billion worldwide—has other repercussions, as well. The roads and highways that are built to accommodate the growing number of cars in use are a source of pollution themselves. Ground that is covered with pavement cannot absorb rainwater, thus motor oil and other pollutants are washed off the roads and into lakes, rivers, and the ocean. Chemicals, herbicides, concrete, asphalt, paint, and other materials that are used during road construction also contribute to environmental pollution. Personal convenience and health are also affected. While private cars are seen as a convenient way to get from place to place, crowded roads mean traffic moves much more slowly, making it difficult to travel, especially during \"rush hour\" periods. And people who spend hours each day sitting in cars stuck in traffic are not standing up, moving around, or getting any sort of exercise, a situation that can lead to a variety of health problems. Thus, in addition to developing passenger cars that run on alternative sources of fuel, we also need to look at alternative forms of transportation. These would include walking, bicycle riding, carpooling, and various types of public transportation. The benefits of walking and cycling are obvious. They cause no pollution and improve physical health. Car pools—several people sharing a ride in a private car—mean fewer cars on the road and allow the riders to share the expenses involved. Public transportation— buses, subways, commuter trains—has many benefits, as well. For one, it may provide users with opportunities for physical exercise as people have to get from their homes to the bus stops and train stations, and this is often done on foot. There are also mental health benefits, as relaxing on a train or bus while reading the newspaper or listening to music is a good deal less stressful than driving one's own car through rush hour traffic. All of these forms of transportation decrease the number of cars on the roads and greatly reduce emissions. Looking toward the future, cities need to pay as much attention, or more, to public transportation and to accommodating walkers and cyclists as they do to building roads and accommodating drivers of passenger cars."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: less television, less violence and aggression",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-40-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "watched TV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "violently",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "6 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "parents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "number of hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they ______Near the end of the study, the students began to suggest watching (20) ______",
+          "answer": "avoided TV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A study that was published in January 2001 found that when children (14) ______less, they behaved less (15) ______Students in a California elementary school participated in the study, which lasted (16) ______By the end of the study, title children's behavior had changed. For example, the children's (17) ______reported that the children were acting less violently than before. During the study, the children kept a record of the (18) ______they watched TV. Then, for ten days, they (19) ______Near the end of the study, the students began to suggest watching ______",
+          "answer": "less TV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Only one study has found a connection between TV and violent behavior.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There were more murders in Canada after people began watching TV.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The United States has more violence on TV than other countries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "TV was introduced in South Africa in the 1940s.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the passage,",
+          "options": [
+            {
+              "id": "A",
+              "text": "only children are affected by violence on TV"
+            },
+            {
+              "id": "B",
+              "text": "only violent TV programs cause violent behavior"
+            },
+            {
+              "id": "C",
+              "text": "children who watch too much TV get poor grades in school"
+            },
+            {
+              "id": "D",
+              "text": "watching a lot of TV may keep us from learning important social skills"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The authors of this passage believe that",
+          "options": [
+            {
+              "id": "A",
+              "text": "some violent TV programs are funny"
+            },
+            {
+              "id": "B",
+              "text": "the best plan is to stop watching TV completely"
+            },
+            {
+              "id": "C",
+              "text": "it’s better to watch TV with other people than on your own"
+            },
+            {
+              "id": "D",
+              "text": "seven hours a week of TV watching is acceptable"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "less television, less violence and aggression",
+        "text": "Cutting back on television, videos, and video games reduces acts of aggression among schoolchildren, according to a study by Dr. Thomas Robinson and others from the Stanford University School of Medicine. The study, published in the January 2001 issue of the Archives of Pediatric and Adolescent Medicine, found that third- and fourth-grade students who took part in a curriculum to reduce their TV video, and video game use engaged in fewer acts of verbal and physical aggression than their peers. The study took place in two similar San Jose, California, elementary schools. Students in one school underwent an 18-lesson, 6-month program designed to limit their media usage, while the others did not. Both groups of students had similar reports of aggressive behavior at the beginning of the study. After the six-month program, however, the two groups had very real differences. The students who cut back on their TV time engaged in six fewer acts of verbal aggression per hour and rated 2.4 percent fewer of their classmates as aggressive after the program. Physical acts of violence, parental reports of aggressive behavior, and perceptions of a mean and scary world also decreased, but the authors suggest further study to solidify these results. Although many studies have shown that children who watch a lot of TV are more likely to act violently, this report further verifies that television, videos, and video games actually cause the violent behavior, and it is among the first to evaluate a solution to the problem. Teachers at the intervention school included the program in their existing curriculum. Early lessons encouraged students to keep track of and report on the time they spent watching TV or videos, or playing video games, to motivate them to limit those activities on their own. The initial lessons were followed by TV-Turn off, an organization that encourages less TV viewing. For ten days, students were challenged to go without television, videos, or video games. After that, teachers encouraged the students to stay within a media allowance of seven hours per week. Almost all students participated in the Turnoff, and most stayed under their budget for the following weeks. Additional lessons encouraged children to use their time more selectively, and many of the final lessons had students themselves advocate reducing screen activities. This study is by no means the first to find a link between television and violence. Virtually all of 3,500 research studies on the subject in the past 40 years have shown the same relationship, according to the American Academy of Pediatrics. Among the most noteworthy studies is Dr. Leonard D. Eron's, which found that exposure to television violence in childhood is the strongest predictor of aggressive behavior later in life—stronger even than violent behavior as children. The more violent television the subjects watched at age eight, the more serious was their aggressive behavior even 22 years later. Another study by Dr. Brandon S. Centerwall found that murder rates climb after the introduction of television. In the United States and Canada, murder rates doubled 10 to 15 years after the introduction of television, after the first TV generation grew up. Centerwall tested this pattern in South Africa, where television broadcasts were banned until 1975. Murder rates in South Africa remained relatively steady from the mid-1940s through the mid-1970s. By 1987, however, the murder rate had increased 130 percent from its 1974 level. The murder rates in the United States and Canada had leveled1 off in the meantime. Centerwall's study implies that the medium of television, not just the con-tent, promotes violence, and the current study by Dr Robinson supports that conclusion. The Turnoff did not specifically target violent television, nor did the following allowance period. Reducing television in general reduces aggressive behavior. Even television that is not \"violent\" is more violent than real life and may lead viewers to believe that violence is funny, inconsequential, and a viable solution to problems. Also, watching television of any content robs us of the time to interact with real people. Watching too much TV may inhibit the skills and patience we need to get along with others without resorting to aggression. TV, as a medium, pro-motes aggression and violence. The best solution is to turn it off."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: issues affecting the southern resident orcas",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-40-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Top Ocean Predators"
+            },
+            {
+              "id": "ii",
+              "text": "Toxic Exposure"
+            },
+            {
+              "id": "iii",
+              "text": "Declining Fish Populations"
+            },
+            {
+              "id": "iv",
+              "text": "Pleasure Boating in the San Juan Islands"
+            },
+            {
+              "id": "v",
+              "text": "Underwater Noise"
+            },
+            {
+              "id": "vi",
+              "text": "Smog in Large Cities"
+            },
+            {
+              "id": "vii",
+              "text": "Impact of Boat Traffic"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Top Ocean Predators"
+            },
+            {
+              "id": "ii",
+              "text": "Toxic Exposure"
+            },
+            {
+              "id": "iii",
+              "text": "Declining Fish Populations"
+            },
+            {
+              "id": "iv",
+              "text": "Pleasure Boating in the San Juan Islands"
+            },
+            {
+              "id": "v",
+              "text": "Underwater Noise"
+            },
+            {
+              "id": "vi",
+              "text": "Smog in Large Cities"
+            },
+            {
+              "id": "vii",
+              "text": "Impact of Boat Traffic"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Top Ocean Predators"
+            },
+            {
+              "id": "ii",
+              "text": "Toxic Exposure"
+            },
+            {
+              "id": "iii",
+              "text": "Declining Fish Populations"
+            },
+            {
+              "id": "iv",
+              "text": "Pleasure Boating in the San Juan Islands"
+            },
+            {
+              "id": "v",
+              "text": "Underwater Noise"
+            },
+            {
+              "id": "vi",
+              "text": "Smog in Large Cities"
+            },
+            {
+              "id": "vii",
+              "text": "Impact of Boat Traffic"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Top Ocean Predators"
+            },
+            {
+              "id": "ii",
+              "text": "Toxic Exposure"
+            },
+            {
+              "id": "iii",
+              "text": "Declining Fish Populations"
+            },
+            {
+              "id": "iv",
+              "text": "Pleasure Boating in the San Juan Islands"
+            },
+            {
+              "id": "v",
+              "text": "Underwater Noise"
+            },
+            {
+              "id": "vi",
+              "text": "Smog in Large Cities"
+            },
+            {
+              "id": "vii",
+              "text": "Impact of Boat Traffic"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Killer whales (orcas) in the J, K, and L pods prefer to eat",
+          "options": [
+            {
+              "id": "A",
+              "text": "halibut"
+            },
+            {
+              "id": "B",
+              "text": "a type of salmon"
+            },
+            {
+              "id": "C",
+              "text": "a variety of animals"
+            },
+            {
+              "id": "D",
+              "text": "fish living at the bottom of the sea"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Some groups of salmon have become extinct because",
+          "options": [
+            {
+              "id": "A",
+              "text": "they have lost places to live"
+            },
+            {
+              "id": "B",
+              "text": "whales have eaten them"
+            },
+            {
+              "id": "C",
+              "text": "they don’t get good nutrition"
+            },
+            {
+              "id": "D",
+              "text": "the winters in the area are too cold"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Scientists believe some whales feed ______these whales dive very deep",
+          "answer": "on bottomfish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Scientists believe that the area is being over fishedrockfish caught today is ______than rockfish caught in the past",
+          "answer": "smaller",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Orcas are at the top of the ocean food chain______affects orcas more than it does other sea animals",
+          "answer": "toxic substances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Orcas are a ______specieswe can use orcas to make society aware of the problem in marine pollution",
+          "answer": "popular",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People enjoy boating, fishing and whale watching in the San Juan Islandson weekends there are ______near the whales",
+          "answer": "numerous boats/ vessels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Kayaks are ______marine animals hit them when they come up the air",
+          "answer": "quiet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of boats keep their motors runningwhales breathe ______",
+          "answer": "exhaust fumes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-40-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Boats are noisywhales have difficulty hearing and ______",
+          "answer": "communicating",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "issues affecting the southern resident orcas",
+        "text": "(A) Orcas, also known as killer whales, are opportunistic feeders, which means they will take a variety of different prey species. J, K, and L pods (specific groups of orcas found in the region) are almost exclusively fish eaters. Some studies show that up to 90 percent of their diet is salmon, with Chinook salmon being far and away their favorite. During the last 50 years, hundreds of wild runs of salmon have become extinct due to habitat loss and overfishing of wild stocks. Many of the extinct salmon stocks are the winter runs of Chinook and coho. Although the surviving stocks have probably been sufficient to sustain the resident pods, many of the runs that have been lost were undoubtedly traditional resources favored by the resident orcas. This may be affecting the whales' nutrition in the winter and may require them to change their patterns of movement in order to search for food. Other studies with tagged whales have shown that they regularly dive up to 800 feet in this area. Researchers tend to think that during these deep dives the whales may be feeding on bottomfish. Bottomfish species in this area would include halibut, rockfish, lingcod, and greenling. Scientists estimate that today's lingcod population in northern Puget Sound and the Strait of Georgia is only 2 percent of what it was in 1950. The average size of rockfish in the recreational catch has also declined by several inches since the 1970s, which is indicative of overfishing. In some locations, certain rockfish species have disappeared entirely. So even if bottomfish are not a major food resource for the whales, the present low numbers of available fish increases the pressure on orcas and all marine animals to find food. (For more information on bottomfish see the San Juan County Bottomfish Recovery Program.)\n\n(B) Toxic substances accumulate in higher concentrations as they move up the food chain. Because orcas are the top predator in the ocean and are at the top of several different food chains in the environment, they tend to be more affected by pollutants than other sea creatures. Examinations of stranded killer whales have shown some extremely high levels of lead, mercury, and polychlorinated hydrocarbons. Abandoned marine toxic waste dumps and present levels of industrial and human refuse pollution of the inland waters probably presents the most serious threat to the continued existence of this orca population. Unfortunately, the total remedy to this huge problem would be broad societal changes on many fronts. But because of the fact that orcas are so popular, they may be the best species to use as a focal point in bringing about the many changes that need to be made in order to protect the marine environment as a whole from further toxic poisoning.\n\n(C) The waters around the San Juan Islands are extremely busy due to international commercial shipping, fishing, whale watching, and pleasure boating. On a busy weekend day in the summer, it is not uncommon to see numerous boats in the vicinity of the whales as they travel through the area. The potential impacts from all this vessel traffic with regard to the whales and other marine animals in the area could be tremendous. The surfacing and breathing space of marine birds and mammals is a critical aspect of their habitat, which the animals must consciously deal with on a moment-to-moment basis throughout their lifetimes. With all the boating activity in the vicinity, there are three ways in which surface impacts are most likely to affect marine animals: (a) collision, (b) collision avoidance, and (c) exhaust emissions in breathing pockets. The first two impacts are very obvious and don't just apply to vessels with motors. Kayakers even present a problem here because they're so quiet. Marine animals, busy hunting and feeding under the surface of the water, may not be aware that there is a kayak above them and actually hit the bot-tom of it as they surface to breathe. The third impact is one most people don't even think of. When there are numerous boats in the area, especially idling boats, there are a lot of exhaust fumes being spewed out on the surface of the water. When the whale comes up to take a nice big breath of \"fresh\" air, it instead gets a nice big breath of exhaust fumes. It's hard to say how greatly this affects the animals, but think how breathing polluted air affects us (i.e., smog in large cities like Los Angeles, breathing the foul air while sitting in traffic jams, etc.).\n\n(D) Similar to surface impacts, a primary source of acoustic pollution for this population of orcas would also be derived from the cumulative underwater noise of vessel traffic. For cetaceans, the underwater sound environment is perhaps the most critical component of their sensory and behavioral lives. Orcas communicate with each other over short and long distances with a variety of clicks, chirps, squeaks, and whistles, along with using echolocation to locate prey and to navigate. They may also rely on passive listening as a primary sensory source. The long-term impacts from noise pollution would not likely show up as noticeable behavioral changes in habitat use, but rather as sensory damage or gradual reduction in population health. A new study at The Whale Museum called the SeaSound Remote Sensing Network has begun studying underwater acoustics and its relationship to orca communication."
+      }
+    }
+  ]
+}

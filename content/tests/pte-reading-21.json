@@ -1,0 +1,948 @@
+{
+  "id": "pte-reading-21",
+  "title": "Academic Reading — Practice Test 21",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Reading Passage One",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-21-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the location of the first cinema",
+          "options": [
+            {
+              "id": "A",
+              "text": "the simplicity of early films"
+            },
+            {
+              "id": "B",
+              "text": "the impact of early films"
+            },
+            {
+              "id": "C",
+              "text": "how short early films were"
+            },
+            {
+              "id": "D",
+              "text": "how imaginative early films were"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how cinema came to focus on stories",
+          "options": [
+            {
+              "id": "A",
+              "text": "the simplicity of early films"
+            },
+            {
+              "id": "B",
+              "text": "the impact of early films"
+            },
+            {
+              "id": "C",
+              "text": "how short early films were"
+            },
+            {
+              "id": "D",
+              "text": "how imaginative early films were"
+            },
+            {
+              "id": "i",
+              "text": "Ensure the reward system is fair"
+            },
+            {
+              "id": "ii",
+              "text": "Match rewards lo individuals"
+            },
+            {
+              "id": "iii",
+              "text": "Ensure targets are realistic"
+            },
+            {
+              "id": "iv",
+              "text": "Link rewards to achievement"
+            },
+            {
+              "id": "v",
+              "text": "Encourage managers to take more responsibility"
+            },
+            {
+              "id": "vi",
+              "text": "Recognise changes in employees' performance over time"
+            },
+            {
+              "id": "vii",
+              "text": "Establish targets and give feedback"
+            },
+            {
+              "id": "viii",
+              "text": "Ensure employees are suited to their jobs"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the speed with which cinema has changed",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how cinema teaches us about other cultures",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the attraction of actors in films",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is important to understand how the first audiences reacted to the cinema.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Lumiere Brothers' film about the train was one of the greatest films ever made.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cinema presents a biased view of other countries.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Storylines were important in very early cinema.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer refers to the film of the train in order to demonstrate",
+          "options": [
+            {
+              "id": "A",
+              "text": "the simplicity of early films"
+            },
+            {
+              "id": "B",
+              "text": "the impact of early films"
+            },
+            {
+              "id": "C",
+              "text": "how short early films were"
+            },
+            {
+              "id": "D",
+              "text": "how imaginative early films were"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Tarkovsky's opinion, the attraction of the cinema is that it",
+          "options": [
+            {
+              "id": "A",
+              "text": "aims to impress its audience"
+            },
+            {
+              "id": "B",
+              "text": "tells stories better than books"
+            },
+            {
+              "id": "C",
+              "text": "illustrates the passing of time"
+            },
+            {
+              "id": "D",
+              "text": "describes familiar events"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When cinema first began, people thought that",
+          "options": [
+            {
+              "id": "A",
+              "text": "it would always tell stories"
+            },
+            {
+              "id": "B",
+              "text": "it should be used in fairgrounds"
+            },
+            {
+              "id": "C",
+              "text": "its audiences were unappreciative"
+            },
+            {
+              "id": "D",
+              "text": "its future was uncertain"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the best title for this passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The rise of the cinema star"
+            },
+            {
+              "id": "B",
+              "text": "Cinema and novels compared"
+            },
+            {
+              "id": "C",
+              "text": "The domination of Hollywood"
+            },
+            {
+              "id": "D",
+              "text": "The power of the big screen Cambridge IELTS Test 1 to 17"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Key Point Two ______",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Key Point Three ______",
+          "answer": "3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Key Point Four ______",
+          "answer": "2",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Key Point Five ______",
+          "answer": "4",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Key Point Six ______",
+          "answer": "1",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Reading Passage One",
+        "text": "(A) The Lumiere Brothers opened their Cinematographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1 895. Before the eyes of the stunned, thrilled audience, photographs came to life and moved across a flat screen.\n\n(B) So ordinary and routine has this become to us that it takes a determined leap of the imagination to grasp the impact of those first moving images. But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century.\n\n(C) One of the Lumiere Brothers' earliest films was a 30-second piece which showed a section of a railway platform flooded with sunshine. A train appears and heads straight for the camera. And that is all that happens. Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a 'work of genius'. 'As the train approached,' wrote Tarkovsky, panic started in the theatre: people jumped and ran away. That was the moment when cinema was born. The frightened audience could not accept that they were watching a mere picture. Pictures were still, only reality moved; this must, therefore, be reality. In confusion, they feared that a real train was about to crush them.'\n\n(D) Early cinema audiences often experienced the same confusion. In time, the idea of film became familiar, the magic was accepted — but it never stopped being magic. Film has never lost its unique power to embrace its audiences and transport them to a different world. For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events. A still picture could only imply the existence of time, while time in a novel passed at the whim of the reader but in cinema, the real, objective flow of time was captured.\n\n(E) One effect of this realism was to educate the world about itself. For cinema makes the world smaller. Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived. Overwhelmingly, the lives recorded – at least in film fiction – have been American. From the earliest days of the industry, Hollywood has dominated the world film market. American imagery – the cars, the cities, the cowboys – became the primary imagery of film. Film carried American life and values around the globe.\n\n(F) And, thanks to film, future generations will know the 20th century more intimately than any other period. We can only imagine what life was like in the 14th century or in classical Greece. But the life of the modern world has been recorded on film in massive, encyclopedic detail. We shall be known better than any preceding generations.\n\n(G) The 'star' was another natural consequence of cinema. The cinema star was effectively born in 1910. Film personalities have such an immediate presence that, inevitably, they become super-real. Because we watch them so closely and because everybody in the world seems to bow who they are, they appear more real to us than we do ourselves. The star as magnified human self is one of cinema's most strange and enduring legacies.\n\n(H) Cinema has also given a new lease of life to the idea of the story. When the Lumiere Brothers and other pioneers began showing off this new invention, it was by no means obvious how it would be used. All that mattered at first was the wonder of movement. Indeed, some said that, once this novelty had worn off, cinema would fade away. It was no more than a passing gimmick, a fairground attraction.\n\n(I) Cinema might, for example, have become primarily a documentary form. Or it might have developed like television as a strange noisy transfer of music, information and narrative. But what happened was that it became, overwhelmingly, a medium for telling stories. Originally these were conceived as short stories – early producers doubted the ability of audiences to concentrate for more than the length of a re el. Then, in 1912, an Italian 2-hour film was hugely successful, and Hollywood settled upon the novel-length narrative that remains the dominant cinematic convention of today. J And it has all happened so quickly. Almost unbelievably, it is a mere 100 years since that train arrived and the audience screamed and fled, convinced by the dangerous reality of what they saw, and, perhaps, suddenly aware that the world could never be the same again – that, maybe, it could be better, brighter, more astonishing, more real than reality."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: MOTIVATING EMPLOYEES UNDER ADVERSE CONDITIONS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-21-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A shrinking organisation lends to lose its less skilled employees rather than its more skilled employees.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is easier to manage a small business than a large business.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "High achievers are well suited to team work.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some employees can feel manipulated when asked to participate in goal-setting.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The staff appraisal process should be designed by employees.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Employees' earnings should be disclosed to everyone within the organisation.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "high achievers",
+          "options": [
+            {
+              "id": "A",
+              "text": "They judge promotion to be important"
+            },
+            {
+              "id": "B",
+              "text": "They have less need of external goats"
+            },
+            {
+              "id": "C",
+              "text": "They think that the quality of their work is important"
+            },
+            {
+              "id": "D",
+              "text": "They resist goals which are imposed"
+            },
+            {
+              "id": "E",
+              "text": "They have limited job options"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "clerical workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "They judge promotion to be important"
+            },
+            {
+              "id": "B",
+              "text": "They have less need of external goats"
+            },
+            {
+              "id": "C",
+              "text": "They think that the quality of their work is important"
+            },
+            {
+              "id": "D",
+              "text": "They resist goals which are imposed"
+            },
+            {
+              "id": "E",
+              "text": "They have limited job options"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "production workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "They judge promotion to be important"
+            },
+            {
+              "id": "B",
+              "text": "They have less need of external goats"
+            },
+            {
+              "id": "C",
+              "text": "They think that the quality of their work is important"
+            },
+            {
+              "id": "D",
+              "text": "They resist goals which are imposed"
+            },
+            {
+              "id": "E",
+              "text": "They have limited job options"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "MOTIVATING EMPLOYEES UNDER ADVERSE CONDITIONS",
+        "text": "THE CHALLENGE It is a great deal easier to motivate employees in a growing organisation than a declining one. When organisations are expanding and adding personnel, promotional opportunities, pay rises, and the excitement of being associated with a dynamic organisation create Slings of optimism. Management is able to use the growth to entice and encourage employees. When an organisation is shrinking, the best and most mobile workers are prone to leave voluntarily. Unfortunately, they are the ones the organisation can least afford to lose- those with the highest skills and experience. The minor employees remain because their job options are limited. Morale also suffers during decline. People fear they may be the next to be made redundant. Productivity often suffers, as employees spend their time sharing rumours and providing one another with moral support rather than focusing on their jobs. For those whose jobs are secure, pay increases are rarely possible. Pay cuts, unheard of during times of growth, may even be imposed. The challenge to management is how to motivate employees under such retrenchment conditions. The ways of meeting this challenge can be broadly divided into six Key Points, which are outlined below.\n\nKEY POINT ONE There is an abundance of evidence to support the motivational benefits that result from carefully matching people to jobs. For example, if the job is running a small business or an autonomous unit within a larger business, high achievers should be sought. However, if the job to be filled is a managerial post in a large bureaucratic organisation, a candidate who has a high need for power and a low need for affiliation should be selected. Accordingly, high achievers should not be put into jobs that are inconsistent with their needs. High achievers will do best when the job provides moderately challenging goals and where there is independence and feedback. However, it should be remembered that not everybody is motivated by jobs that are high in independence, variety and responsibility.\n\nKEY POINT TWO The literature on goal-setting theory suggests that managers should ensure that all employees have specific goals and receive comments on how well they are doing in those goals. For those with high achievement needs, typically a minority in any organisation, the existence of external goals is less important because high achievers are already internally motivated. The next factor to be determined is whether the goals should be assigned by a manager or collectively set in conjunction with the employees. The answer to that depends on perceptions the culture, however, goals should be assigned. If participation and the culture are incongruous, employees are likely to perceive the participation process as manipulative and be negatively affected by it.\n\nKEY POINT THREE Regardless of whether goals are achievable or well within management's perceptions of the employee's ability, if employees see them as unachievable they will reduce their effort. Managers must be sure, therefore, that employees feel confident that their efforts can lead to performance goals. For managers, this means that employees must have the capability of doing the job and must regard the appraisal process as valid.\n\nKEY POINT FOUR Since employees have different needs, what acts as a reinforcement for one may not for another. Managers could use their knowledge of each employee to personalise the rewards over which they have control. Some of the more obvious rewards that managers allocate include pay, promotions, autonomy, job scope and depth, and the opportunity to participate in goal-setting and decision-making.\n\nKEY POINT FIVE Managers need to make rewards contingent on performance. To reward factors other than performance will only reinforce those other factors. Key rewards such as pay increases and promotions or advancements should be allocated for the attainment of the employee's specific goals. Consistent with maximising the impact of rewards, managers should look for ways to increase their visibility. Eliminating the secrecy surrounding pay by openly communicating everyone's remuneration, publicising performance bonuses and allocating annual salary increases in a lump sum rather than spreading them out over an entire year are examples of actions that will make rewards more visible and potentially more motivating.\n\nKEY POINT SIX The way rewards are distributed should be transparent so that employees perceive that rewards or outcomes are equitable and equal to the inputs given. On a simplistic level, experience, abilities, effort and other obvious inputs should explain differences in pay, responsibility and other obvious outcomes. The problem, however, is complicated by the existence of dozens of inputs and outcomes and by the fact that employee groups place different degrees of importance on them. For instance, a study comparing clerical and production workers identified nearly twenty inputs and outcomes. The clerical workers considered factors such as quality of work performed and job knowledge near the top of their list, but these were at the bottom of the production workers' list. Similarly, production workers thought that the most important inputs were intelligence and personal involvement with task accomplishment, two factors that were quite low in the importance ratings of the clerks. There were also important, though less dramatic, differences on the outcome side. For example, production workers rated advancement very highly, whereas clerical workers rated advancement in the lower third of their list. Such findings suggest that one person's equity is another's inequity, so an ideal should probably weigh different inputs and outcomes according to employee group."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The Search for the Anti-aging Pill",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-21-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Studies show drugs available today can delay the process of growing old.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is scientific evidence that eating fewer calories may extend human life.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Not many people are likely to find a caloric-restricted diet attractive.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Diet-related diseases are common in older people.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In experiments, rats who ate what they wanted led shorter lives than rats on a low-calorie diet.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Monkeys were less likely to become diabetic.",
+          "options": [
+            {
+              "id": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "id": "B",
+              "text": "control monkeys"
+            },
+            {
+              "id": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Monkeys experienced more chronic disease.",
+          "options": [
+            {
+              "id": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "id": "B",
+              "text": "control monkeys"
+            },
+            {
+              "id": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Monkeys have been shown to experience a longer than average life span.",
+          "options": [
+            {
+              "id": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "id": "B",
+              "text": "control monkeys"
+            },
+            {
+              "id": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Monkeys enjoyed a reduced chance of heart disease.",
+          "options": [
+            {
+              "id": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "id": "B",
+              "text": "control monkeys"
+            },
+            {
+              "id": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Monkeys produced greater quantities of insulin.",
+          "options": [
+            {
+              "id": "A",
+              "text": "caloric-restricted monkeys"
+            },
+            {
+              "id": "B",
+              "text": "control monkeys"
+            },
+            {
+              "id": "C",
+              "text": "neither caloric-restricted monkeys nor control monkeys"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "glucose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "free radicals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-21-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. ______",
+          "answer": "preservation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The Search for the Anti-aging Pill",
+        "text": "As researchers on aging noted recently, no treatment on the market today has been proved to slow human aging- the build-up of molecular and cellular damage that increases vulnerability to infirmity as we grow older. But one intervention, consumption of a low-calorie yet nutritionally balanced diet, works incredibly well in a broad range of animals, increasing longevity and prolonging good health. Those findings suggest that caloric restriction could delay aging and increase longevity in humans, too. Unfortunately, for maximum benefit, people would probably have to reduce their caloric intake by roughly thirty per cent, equivalent to dropping from 2,500 calories a day to 1,750. Few mortals could stick to that harsh a regimen, especially for years on end. But what if someone could create a pill that mimicked the physiological effects of eating less without actually forcing people to eat less? Could such a 'caloric-restriction mimetic', as we call it, enable people to stay healthy longer, postponing age-related disorders (such as diabetes, arteriosclerosis, heart disease and cancer) until very late in life? Scientists first posed this question in the mid-1990s, after researchers came upon a chemical agent that in rodents seemed to reproduce many of caloric restriction's benefits. No compound that would safely achieve the same feat in people has been found yet, but the search has been informative and has fanned hope that caloric-restriction (CR) mimetics can indeed be developed eventually.\n\nThe benefits of caloric restriction The hunt for CR mimetics grew out of a desire to better understand caloric restriction's many effects on the body. Scientists first recognized the value of the practice more than 60 years ago, when they found that rats fed a low-calorie diet lived longer on average than free-feeding rats and also had a reduced incidence of conditions that become increasingly common in old age. What is more, some of the treated animals survived longer than the oldest-living animals in the control group, which means that the maximum lifespan (the oldest attainable age), not merely the normal lifespan, increased. Various interventions, such as infection-fighting drugs, can increase a population's average survival time, but only approaches that slow the body's rate of aging will increase the maximum lifespan. The rat findings have been replicated many times and extended to creatures ranging from yeast to fruit flies, worms, fish, spiders, mice and hamsters. Until fairly recently, the studies were limited to short-lived creatures genetically distant from humans. But caloric-restriction projects underway in two species more closely related to humans- rhesus and squirrel monkeys- have scientists optimistic that CR mimetics could help people. The monkey projects demonstrate that, compared with control animals that eat normally, caloric-restricted monkeys have lower body temperatures and levels of the pancreatic hormone insulin, and they retain more youthful levels of certain hormones that tend to fall with age. The caloric-restricted animals also look better on indicators of risk for age-related diseases. For example, they have lower blood pressure and triglyceride levels (signifying a decreased likelihood of heart disease), and they have more normal blood glucose levels (pointing to a reduced risk for diabetes, which is marked by unusually high blood glucose levels). Further, it has recently been shown that rhesus monkeys kept on caloric-restricted diets for an extended time (nearly 15 years) have less chronic disease. They and the other monkeys must be followed still longer, however, to know whether low-calorie intake can increase both average and maximum lifespans in monkeys. Unlike the multitude of elixirs being touted as the latest anti-aging cure, CR mimetics would alter fundamental processes that underlie aging. We aim to develop compounds that fool cells into activating maintenance and repair.\n\nHow a prototype caloric-restriction mimetic works The best-studied candidate for a caloric-restriction mimetic, 2DG (2-deoxy-D-glucose), works by interfering with the way cells process glucose, it has proved toxic at some doses in animals and so cannot be used in humans. But it has demonstrated that chemicals can replicate the effects of caloric restriction; the trick is finding the right one. Cells use the glucose from food to generate ATP (adenosine triphosphate), the molecule that powers many activities in the body. By limiting food intake, caloric restriction minimizes the amount of glucose entering cells and decreases ATP generation. When 2DG is administered to animals that eat normally, glucose reaches cells in abundance but the drug prevents most of it from being processed and thus reduces ATP synthesis. Researchers have proposed several explanations for why interruption of glucose processing and ATP production might retard aging. One possibility relates to the ATP-making machinery's emission of free radicals, which are thought to contribute to aging and to such age-related diseases as cancer by damaging cells. Reduced operation of the machinery should limit their production and thereby constrain the damage. Another hypothesis suggests that decreased processing of glucose could indicate to cells that food is scarce (even if it isn't) and induce them to shift into an anti-aging mode that emphasizes preservation of the organism over such 'luxuries' as growth and reproduction."
+      }
+    }
+  ]
+}

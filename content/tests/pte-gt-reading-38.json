@@ -1,0 +1,774 @@
+{
+  "id": "pte-gt-reading-38",
+  "title": "General Training Reading — Practice Test 38",
+  "kind": "practice",
+  "description": "3 texts, 35 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: ACOUNTRY COMFORT INN, HUNTER VALLEY",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-38-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "When was Lieutenant Close given the land on which Morpeth grew? ______",
+          "answer": "1821",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On what river is Morpeth situated? ______",
+          "answer": "(The) Hunter (River)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "When did trains first get to Morpeth? ______",
+          "answer": "1870",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which TWO places to stay have restaurants? ______",
+          "answer": "A & C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which place claims to offer the cheapest rate? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "For more information, to which place can you telephone free of charge? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "At which place can the guests cook their own food? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q8",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "2.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "3.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "4.= ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "5.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            },
+            {
+              "id": "J",
+              "text": "Option J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "6.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q13",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "7.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "8.= ________",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "ACOUNTRY COMFORT INN, HUNTER VALLEY",
+        "text": "The Country Comfort Inn, Hunter Valley is a beautiful restored 125 year old building just 20 minutes from the vineyards. Formerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with pool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar and two restaurants. Special packages available.\n\nNew England Highway, Maitland\n\nCall toll free 1800 065 065 or (049) 32 52 88\n\n'Spend a night – not a fortune' That's a budget motel chain motto. The Siesta Motel rated 3 star is conveniently placed at the gateway to the winery district and nearby to the historic towns of Morpeth and Wollombi. The family owned and operated Siesta offers airconditioned comfort and a friendly atmosphere. A free light breakfast is delivered to your suite and excellent meals are available at the Maitland City Bowling Club near door. Quality of accommodation is assured and the tariff is the lowest in the district.\n\n258 New England Highway, Maitland\n\nPhone (049) 32 83 22 28 modern, comfortable 3 star units which open onto the swimming pool and barbeque area. All units feature TV and videos, air-conditioning, 2 with spas. Fully licensed restaurant with cocktail and lounge is open 7 nights. Close to all amenities.\n\nNew England Highway, East Maitland\n\nPhone (049) 33 54 88"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: numeracy centre",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-38-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A______3 hoursnone(16) ______",
+          "answer": "Free",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A(15) ______3 hoursnone______",
+          "answer": "Lecture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "B ______hoursnonelecture and (18) ______",
+          "answer": "3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "B (17) ______hoursnonelecture and ______",
+          "answer": "Tutorial",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "C 2 days______(20) ______and small groups",
+          "answer": "Course B/Statistics for marketing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "C 2 days(19) ______and small groups",
+          "answer": "Workshops",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "D______8 hoursnone(22) ______",
+          "answer": "$15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "D(21) ______8 hoursnone______",
+          "answer": "Workshops",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Narelle, from Taiwan, has to use a computer to do assignments in her business studies classes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Advertising"
+            },
+            {
+              "id": "B",
+              "text": "Keep your business up-to-date"
+            },
+            {
+              "id": "C",
+              "text": "Find information"
+            },
+            {
+              "id": "D",
+              "text": "Create a sample product"
+            },
+            {
+              "id": "E",
+              "text": "Find a good location"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Joe, who left high school 10 years ago, wants to brush up on his maths before he starts his studies for the year.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Advertising"
+            },
+            {
+              "id": "B",
+              "text": "Keep your business up-to-date"
+            },
+            {
+              "id": "C",
+              "text": "Find information"
+            },
+            {
+              "id": "D",
+              "text": "Create a sample product"
+            },
+            {
+              "id": "E",
+              "text": "Find a good location"
+            },
+            {
+              "id": "F",
+              "text": "Organisational structure"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Jenny needs an advanced course on computer graphics for her studies in Graphic Design. ______",
+          "answer": "N",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Geoff, who has to read many articles containing statistics, needs to know how to interpret and apply the facts and figures.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Advertising"
+            },
+            {
+              "id": "B",
+              "text": "Keep your business up-to-date"
+            },
+            {
+              "id": "C",
+              "text": "Find information"
+            },
+            {
+              "id": "D",
+              "text": "Create a sample product"
+            },
+            {
+              "id": "E",
+              "text": "Find a good location"
+            },
+            {
+              "id": "F",
+              "text": "Organisational structure"
+            },
+            {
+              "id": "G",
+              "text": "Can I find good staff?"
+            },
+            {
+              "id": "H",
+              "text": "Operations"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Bob needs to know how to perform some of the basic statistic equations for the assignments in his business course.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "numeracy centre",
+        "text": "Many business and marketing courses require a knowledge of introductory statistics, computing or mathematics. If you feel inadequately prepared for your course, you can get help from the Numeracy Centre, which offers FREE elementary help in maths and statistics. Crab a timetable from the Centre and drop in when it suits you.\n\nCOURSE A The first course available to students is a Revision Course in Basic Maths. This 3-hour lecture will review mathematical concepts necessary for elementary statistics, such as fractions, area and percentages up to a Year 8 level of mathematics. It is not necessary to book, so feel free to drop in. This session is FREE!\n\nCOURSE B For those students doing marketing courses, and other courses requiring statistical analysis, there is the Bridging Course in Statistics for Marketing. This three-day course introduces ideas in elementary statistics to provide a starting point for further developments in statistical skills later on in other courses. The course is run in sessions of three hours, in the form of a one-hour lecture followed by a two-hour tutorial. Examples will be drawn from the reference books listed. The tutorials will be interactive where possible (eg. drawing random samples from the population of numbered cards in class) with hands-on experience of data manipulation using MINITAB on a bank of PCs.\n\nCOURSE C Statistics for the Practitioner is slightly different to the previous course, which must be completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers.\n\nCOURSE D\n\n(A) further course of interest to many students is English for Computer Studies. Students with English as their second language who will be needing elementary computing for their courses are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. The cost of the course is $15 which includes notes and refreshments."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Text 4",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-38-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "YES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "NO",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "NOT GIVEN",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "YES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "YES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "YES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "NO if the statement does not agree with the writer ______",
+          "answer": "NO",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "(35)........................... Sources: books, industry associations, other people ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-38-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ask: ______",
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-38-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "(35)........................... Sources: books, industry associations, other people ______",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-38-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "(35)........................... Sources: books, industry associations, other people ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-38-q39",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "(35)........................... Sources: books, industry associations, other people ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-38-q40",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "(35)........................... Sources: books, industry associations, other people ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Text 4",
+        "text": "Business Planning What is a Business plan? It is probably best described as a summary and evaluation of your business idea, in writing. Preparation of a business plan is the first and most important task for the business starter. The plan should include details concerning the industry in which you operate, your product or service, marketing, production, personnel and financial strategies. What purpose does it serve?\n\n(A) business plan allows you to think through all the factors of a business, and to solve potential problems before you come to them. It will identify strengths and weaknesses and help to assess whether the business can succeed. It is a blueprint for starting, maintaining or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought.\n\nHow to produce a Business plan\n\nStep 1: Collect Information Gather as much relevant information as possible concerning the industry in which you intend to operate (the number of businesses already operating, the size of their operations, where they are located). Use books, industry associations, and existing business owners to help you. Collect all possible information regarding the market/s you are aiming for (who buys, why do they buy, what are the key features the customer looks for). Learn all you can about the product/s or services you intend to produce, distribute or offer.\n\nStep 2: Analysis Read over all the material you have collected and decide what is relevant to your business idea. You may have to modify your idea depending on what your research shows. The key question to ask is: \"Can you design a business that will earn enough to cover costs and pay a wage and reasonable profit to you as proprietor?\" When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper.\n\nStep 3: Strategy Formulation Decide how the business will operate. You should describe how the business will be managed, and the staff and organisational structure that will be in place. Diagrams may be useful to show how these areas will work. Don't forget to include the areas of responsibility for each member of staff. This is especially important if some of your staff will be family members.\n\nThere are three further parts that go together to make a comprehensive business plan: • A Marketing plan, which includes location, method of selling, packaging, pricing and so on. In all these areas you must be aware of consumer trends to make sure that your business does not become outdated or irrelevant. • An Operational plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered.\n\n• A Financial plan, which is a master budget for the operation and includes:\n\n– cash flow forecast\n\n– balance sheet\n\n– profit and loss statement\n\n– sources of finance – sales forecast and target. The financial aspects of the plan are most important and you should develop or access financial skills to make sure this part of your plan is accurate and realistic. Don't forget set-up costs and the money needed to see you through an initial period of low cash flow when calculating your first year's budget.\n\nUpdate your Business plan Nothing remains constant in business; circumstances change, markets change, fashions change, methods change. From time to time you must check your sources of information and reassess your business plan. What is relevant when you start is not necessarily so in five years' time. You may also need to revise targets and budgets if external factors (such as interest rates) vary. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. If you use these steps to develop a business plan, changing it according to circumstances, you will be well on the way to a successful business."
+      }
+    }
+  ]
+}

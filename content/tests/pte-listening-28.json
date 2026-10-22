@@ -1,0 +1,598 @@
+{
+  "id": "pte-listening-28",
+  "title": "Listening — Practice Test 28",
+  "kind": "practice",
+  "description": "One recording, 31 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-28-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: 41, ______ Barrowdale WH45JP",
+          "answer": "lower green street",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone: ______",
+          "answer": "01778552387",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Questions 21-23 ______",
+          "answer": "field",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Questions 31-40 ______",
+          "answer": "van",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "flyer 2000 ______",
+          "answer": "flyer 2000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "blue ______",
+          "answer": "blue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "flat tyre ______",
+          "answer": "flat tyre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "8",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "hill farm estate ______",
+          "answer": "hill farm estate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "local ______",
+          "answer": "local",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Manjiro started work as a when he was still a young boy. ______",
+          "answer": "fisherman",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "He spent on a deserted island before he was rescued. ______",
+          "answer": "6 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "He became friends with William Whitefield who was a ship's ______",
+          "answer": "captain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The cost of Manjiro's in America was covered by the Whitefield family. ______",
+          "answer": "education",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Manjiro eventually returned to Japan, where he carried out important work as a teacher and ______",
+          "answer": "interpreter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fairhaven and Tosashimizu are now officially ______",
+          "answer": "sister cities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Every two years, the John Manjiro is held in Fairhaven. ______",
+          "answer": "festival",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Whitefield family house ______",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-28-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Old Oxford school",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "School of Navigation",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the main thing Julia feels she has gained from her experience in retail?",
+          "options": [
+            {
+              "id": "A",
+              "text": "better understanding of customer attitudes"
+            },
+            {
+              "id": "B",
+              "text": "improved ability to predict fashion trends"
+            },
+            {
+              "id": "C",
+              "text": "more skill in setting priorities in her work"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why is Julia interested in doing the postgraduate course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will enable her to develop new types of technology"
+            },
+            {
+              "id": "B",
+              "text": "it will allow her to specialize in a design area of her choice"
+            },
+            {
+              "id": "C",
+              "text": "it will provide managerial training focusing on her needs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What would Julia like to do after she has completed the postgraduate course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "work overseas"
+            },
+            {
+              "id": "B",
+              "text": "start her own business"
+            },
+            {
+              "id": "C",
+              "text": "stay in an academic environment"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Library",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Computer centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Photomedia",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Time based media",
+          "options": [
+            {
+              "id": "A",
+              "text": "laboratories"
+            },
+            {
+              "id": "B",
+              "text": "rooms for individual study"
+            },
+            {
+              "id": "C",
+              "text": "inter-disciplinary focus"
+            },
+            {
+              "id": "D",
+              "text": "introductory course"
+            },
+            {
+              "id": "E",
+              "text": "purpose built premises"
+            },
+            {
+              "id": "F",
+              "text": "cafeteria"
+            },
+            {
+              "id": "G",
+              "text": "emphasis on creative use"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Assessment includes three ______ which take place at the end of the stages of the degree. Final assessment is based on a project and includes the students' (29) in the form of a written report and the (30) to which representatives of fashion companies are invited.",
+          "answer": "progress reviews",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Assessment includes three (28) which take place at the end of the stages of the degree. Final assessment is based on a project and includes the students' ______ in the form of a written report and the (30) to which representatives of fashion companies are invited.",
+          "answer": "(critical) reflection",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Assessment includes three (28) which take place at the end of the stages of the degree. Final assessment is based on a project and includes the students' (29) in the form of a written report and the ______ to which representatives of fashion companies are invited.",
+          "answer": "exhibition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Laughter is a ______ process – involves movement and sound",
+          "answer": "physical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• It is controlled by our ______",
+          "answer": "instincts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• May have begun as sign of ______ after a dangerous situation",
+          "answer": "relief",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Nowadays may help to develop ______ within a group",
+          "answer": "(social) bonds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Connected to ______ (e.g. use of humor by politicians or bosses)",
+          "answer": "power",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• May be used in a ______ way to keep someone out of a group",
+          "answer": "negative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Safe method for the ______ of emotions such as anger and sadness",
+          "answer": "release",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Leads to drop in levels of stress-related ______",
+          "answer": "hormones",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Improved the ______",
+          "answer": "immune system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-28-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Can stop ______ and improve sleep",
+          "answer": "bad dreams",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/28_we.mp3"
+    }
+  ]
+}

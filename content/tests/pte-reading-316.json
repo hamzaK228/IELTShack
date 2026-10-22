@@ -1,0 +1,790 @@
+{
+  "id": "pte-reading-316",
+  "title": "Academic Reading — Practice Test 316",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Why we need silence",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-316-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• their grandfather's wealth came from ______ and transportation businesses",
+          "answer": "Mining",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• their ______ was designed to give them an interest in activities such as collecting art",
+          "answer": "Education",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• they took lengthy ______ about the things they saw in art galleries",
+          "answer": "Notes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• their ______ showed they liked Old Master paintings, but they were expensive to buy",
+          "answer": "Journal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the first Impressionist paintings they bought showed places in ______",
+          "answer": "Venice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• they worked in a ______ for soldiers in France",
+          "answer": "Canteen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• were not considered typical collectors – they lived in isolation in the countryside and did not have any ______ who were artists",
+          "answer": "Friends",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Davies sisters' childhood influenced the way they decided to use their wealth.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Jean-Baptiste-Camille Corot paintings in the Davies sisters' collection were purchased from a gallery in France.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Hugh Blaker opposed the Davies sisters' decision to buy art by French Impressionists.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The exhibition of Cezanne paintings at the Bath gallery was very popular with the public.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The impact of the First World War encouraged Gwendoline to reconsider her interest in collecting art.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Davies sisters bought French Impressionist art during a period when very few people were doing so.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "examples of strategies to decrease the noise that the public are exposed to",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "data indicating the extent of the problem of excessive noise",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a description of physiological changes in our bodies when we hear sudden noises",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "evidence that a relatively quiet environment can be more beneficial than a totally silent one",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to Justin Feinstein, flotation tanks allow people to concentrate on their own ______, which helps them relax and enables them to meditate.",
+          "answer": "Breath",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a ______ to complete before and after using a flotation tank. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general (20) ______",
+          "answer": "Questionnaire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a (19) ______ to complete before and after using a flotation tank. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general ______",
+          "answer": "Wellbeing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In another experiment, the researchers had 48 people spend periods of 90 minutes either lying back in a chair or floating in a tank. Brain scans then revealed that those people who had been in a tank had decreased activity in parts of the brain associated with ______",
+          "answer": "Depression",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Why we need silence",
+        "text": "(A) Humans are finely attuned to noise, and for good reason. From an evolutionary perspective, sounds give us vital information, helping us navigate the world and avoid danger. To help ensure loud or unexpected noises get the attention they deserve, our internal chemistry alters in response to them. Our blood pressure goes up, muscles tense and glands release hormones that prepare us for fight or flight. In the short term, this is a good thing. When we are exposed to too much noise over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.\n\n(B) The World Health Organization has recently designated excessive noise as an 'underestimated threat5 to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night. A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health. 'There are no \"earlids\" that can protect your brain from noise,5 says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.\n\n(C) The good news is that several cities have been working to turn the volume down. One of the first to do so was London. 'By providing recommendations for quieter buses, reducing noise from roads and also controlling noise from aircraft, they were able to make the city quieter,' says Antonio. Other cities have introduced noise-reducing road coatings, for instance, alongside greenery that muffles sound. Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier, 'People are seeing the benefits of these more quiet environments in their cities,5 Antonio says. 'I expect we will see much more of this in the future.'\n\n(D) Researchers are also seeking to understand what aspects of silent experiences are most beneficial to our health. One of the best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation. While some people experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist. 'When you don't have external sensory stimuli coming in, the brain tries to fill the void to make sense of this dark and silent world,' he explains. 'In these tanks, some people can even hear the sound of their eyes blinking,' says Feinstein. 'But it is the ability to focus on the breath that helps people reach a relaxed or meditative state.'\n\n(E) To further explore flotation tanks as a therapeutic tool, Feinstein and his colleagues recruited 50 people with a variety of conditions related to stress and had them answer a questionnaire prior to and following a flotation session. Participants reported decreases in muscle tension, pain and symptoms of their conditions after a single, 1-hour float, alongside an increase in feelings of relaxation and overall wellbeing. Less is known about what effects sensory deprivation can have on the brain. To investigate, Feinstein's team had 48 people participate in either three 90-minute float sessions or three 90-minute periods of relaxing on a chair which reclined. Participants had their brains scanned using functional magnetic resonance imaging at the beginning and end of the trial. Float sessions uniquely decreased activity in the default mode network (DMN), a collection of brain regions commonly linked with depression. Feinstein says it is an exciting finding, because flotation tanks seem to offer a way of 'resetting' our nervous system to prevent it from getting out of balance.\n\n(F) Neurobiologist Tal Dotan Ben-Soussan is also an advocate of silence as a therapy. 'When we find ways to be quiet, we are not only quiet in our environment, but quiet in our inner selves,' she explains. 'This allows us to be more aware of what is happening around us and what the situation may require from us so we can provide [a more] adequate response.' Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person must need to want to engage in the experience. We see from animal models and human studies that volition and intentionality is important,' she says. 'When people do not want silence, it can be very distressing.'\n\n(G) Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly those who are in a heightened state of stress. 'People in these states may not be able to relax or calm down in a silent condition,' he says. Professional guidance can be useful, he adds, allowing people to approach silence slowly so that they can gradually enjoy the benefits. And Pfeifer is convinced that silence is more attainable in everyday life than people think. First, complete silence isn't necessary. In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room. Second, Pfeifer believes we don't need a lot of silence to gain benefits. 'You don't need to spend hours in silence,' he says. 'It is likely better to have more frequency of silence for a few minutes at a time than a longer period of silence only once a week. Just finding those places in your daily life where you can find some silence … can make a big difference.'"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Flotation Tanks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-316-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is unpleasant and upsetting for people to be placed in a silent environment against their will.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tal Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The trend towards creating quieter urban locations is likely to increase in the coming years.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tal Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "When our body's senses are completely deprived of input, our minds compensate for this by creating the illusion of images and sounds.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tal Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Even a short amount of silent time can have a positive impact.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tal Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "External and internal quietness makes us more conscious of events occurring in our surroundings and helps us react appropriately to these events. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nick Antonio"
+            },
+            {
+              "id": "B",
+              "text": "Justin Feinstein"
+            },
+            {
+              "id": "C",
+              "text": "Tal Dotan Ben-Soussan"
+            },
+            {
+              "id": "D",
+              "text": "Eric Pfeifer"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Flotation Tanks",
+        "text": "According to Justin Feinstein, flotation tanks allow people to concentrate on their own (18) ………………, which helps them relax and enables them to meditate. Feinstein and his colleagues conducted an experiment in which 50 people, who were all suffering from stress and related issues, were given a (19) ………………… to complete before and after using a flotation tank. Participants reported a reduction in their symptoms after an hour in the tank, together with signs of relaxation and improved general (20) ……………….. In another experiment, the researchers had 48 people spend periods of 90 minutes either lying back in a chair or floating in a tank. Brain scans then revealed that those people who had been in a tank had decreased activity in parts of the brain associated with (21) …………….."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Book review: The World of Sugar by Ulbe Bosma",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-316-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the reviewer suggest about the cultivation and trading of sugar in the first paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sugar has played a major role in international relations."
+            },
+            {
+              "id": "B",
+              "text": "Beet sugar has been made more internationally competitive."
+            },
+            {
+              "id": "C",
+              "text": "Cane sugar is thought to be of superior quality to beet sugar."
+            },
+            {
+              "id": "D",
+              "text": "New locations for cultivating sugar have increased production."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the second paragraph, when discussing the sugar market in Britain, the reviewer stresses",
+          "options": [
+            {
+              "id": "A",
+              "text": "how the sources used changed over time."
+            },
+            {
+              "id": "B",
+              "text": "how developments in agriculture affected trade."
+            },
+            {
+              "id": "C",
+              "text": "the increased demand for sugar over the years."
+            },
+            {
+              "id": "D",
+              "text": "the growing support for ethical methods of cultivation."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the reviewer doing in the third paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "describing an efficient approach to sugar cultivation"
+            },
+            {
+              "id": "B",
+              "text": "explaining why the use of sugar plantations declined"
+            },
+            {
+              "id": "C",
+              "text": "addressing a misconception about the growing of sugar cane"
+            },
+            {
+              "id": "D",
+              "text": "evaluating different approaches to the cultivation of sugar cane"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the final paragraph, what does the reviewer suggest is the overall message of Bosma's book?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sugar is a harmful and unnecessary product."
+            },
+            {
+              "id": "B",
+              "text": "Economic pressure is needed to control sugar production."
+            },
+            {
+              "id": "C",
+              "text": "Conditions for workers in sugar production should be improved."
+            },
+            {
+              "id": "D",
+              "text": "Intensive marketing of sugar has had disastrous consequences."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on ______ However, in other parts of the world such as South Asia and Latin America, (32) ______ continued.",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The book The World of Sugar points out the similarities in the way that sugar was cultivated around the world. In the big industries in both Germany and the US, sugar farming depended on (31) ______ However, in other parts of the world such as South Asia and Latin America, ______ continued.",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sugar production has also involved ______ who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on (34) ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sugar production has also involved (33) ______ who were eager to protect their markets. In countries such as Cuba the sugar industry therefore had a major influence on ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To support the interests of sugar producers, ______ were established. As a result of this, (36) ______ were penalised.",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To support the interests of sugar producers, (35) ______ were established. As a result of this, ______ were penalised.",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sugar has now become available in large quantities due to a range of agricultural developments.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Advertisers initially marketed sugar as a luxury product.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The invention of high-fructose corn syrup was a positive development.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-316-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "High-fructose corn syrup is an ingredient in many processed foods.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Book review: The World of Sugar by Ulbe Bosma",
+        "text": "Ulbe Bosnia's The World of Sugar is a genuinely global history. Bosma discusses all the sugar-growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century. But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar over the last hundred years. Beet sugar is grown mainly in Europe and the United States. It has also been massively subsidised and sold at artificially low prices on world markets, threatening the livelihood of producers of cane sugar. Bosnia's discussion of the sugar market in Britain gives a sense of the book's range. The sweet-toothed British first bought cane sugar from their own slavery-dependent colonial plantations. Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, such as Cuba and Brazil. Towards the end of the 19th century, the British started to import beet sugar from continental Europe. Only in the 20th century was there a move to develop a national beet sugar industry. The book provides a global labour history, investigating the wide range of labour regimes associated with growing sugar. Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men. For example, in Java, a huge exporter of sugar in the early 20th century, sugar cane was grown together with rice in an extraordinarily labour-intensive way by small farmers. The World of Sugar is also a story of similarity and continuity in sugar cultivation. For example, imported labour has been used for much large-scale production, German beet fields employed Polish workers; Mexicans and many others, including Sicilians, were vital to US sugar production. Cane cutting, Bosma shows, remains a poorly paid and brutal business to this day in many places in the world. But as well as this, the book is about the continuity of the use of traditional methods on small farms. In the mid 20th-century, this type of sugar production dominated in South Asia and Latin America. This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential over very long periods. Great firms and great interests have had profound influence on the policies of states. In many places – not just the British Caribbean but Cuba and the Philippines too – a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies. In the battle for control of the industry, it was inevitably the poor countries which came off worse. All this is explored by Bosma with wonderful subtlety and control. But sugar production was never just a matter of agriculture. It also involved the extraction, close to the place of harvest, of sucrose from the sugar plant, a process which required machinery powered by humans, animals, wind or steam. Further processes involved boiling (from the 19th century, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement. From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, both small and large. The growth of the industry entailed a very rapid diffusion of ideas and techniques from one country to another. Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories. Particular varieties of cane sugar and beet sugar spread very rapidly across the world, in accordance with local needs and demands. Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into a ubiquitous chemical. Over the same time, there has been a massive increase in consumption. Once regarded as a luxury, sugar came to be promoted as a valuable source of energy. But as the consumption of sugar has increased, so has the harm it does, whether to people's teeth or weight. In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries have been forced to tax sugar in order to bring that about. The sugar industry has a history of attacking its critics and, when it comes to obesity, of trying to blame fats, and lack of exercise and self-control. And the recent past has seen worrying new developments in mass sweetening. Fligh-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is far cheaper to produce. It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity. This is a wonderfully rich book, a model of global history, the history of production and the history of capitalism. Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the multiple tragedies involving sugar all the more powerful. He shows that we could always have done without sugar and that today we have many alternative sources of sweetness. Yet many of the poorest people in the world still depend on it to make a living."
+      }
+    }
+  ]
+}

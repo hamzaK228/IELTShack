@@ -1,0 +1,664 @@
+{
+  "id": "pte-listening-111",
+  "title": "Listening — Practice Test 111",
+  "kind": "practice",
+  "description": "One recording, 31 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-111-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Current occupation: ______",
+          "answer": "salesman",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Length of living in the north: ______ years",
+          "answer": "9",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Exact living area: ______",
+          "answer": "spring park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of accommodation: a shared ______",
+          "answer": "apartment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Public transport: take the ______ or a taxi",
+          "answer": "train",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Frequency of eating out: ______",
+          "answer": "once a month",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Places for entertainment: the places people usually go to, such as some great ______",
+          "answer": "clubs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Other free time activity: go to the ______",
+          "answer": "cinema",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Preferred exercises: go swimming, go to the gym, go ______",
+          "answer": "sailing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Part time course: ______",
+          "answer": "japanese",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about hard hats?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they must be worn in all areas"
+            },
+            {
+              "id": "B",
+              "text": "a deposit is needed to borrow the hats"
+            },
+            {
+              "id": "C",
+              "text": "they are available in all sizes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about the outside area of the mine? ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Visitors who have difficulty in going up and down",
+          "options": [
+            {
+              "id": "A",
+              "text": "can ask for help"
+            },
+            {
+              "id": "B",
+              "text": "have access to all areas"
+            },
+            {
+              "id": "C",
+              "text": "can make use of ramp"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is prohibited everywhere?",
+          "options": [
+            {
+              "id": "A",
+              "text": "smoking"
+            },
+            {
+              "id": "B",
+              "text": "taking photos"
+            },
+            {
+              "id": "C",
+              "text": "using mobile phones"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about underground tunnels?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the well is lit"
+            },
+            {
+              "id": "B",
+              "text": "the access is limited"
+            },
+            {
+              "id": "C",
+              "text": "protective clothing is unnecessary"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 16. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 17. ______",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 18. ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 19. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 20. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The ______ should be carefully chosen",
+          "answer": "watching time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• State of the sea: ______ or choppy",
+          "answer": "calm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• And state of ______",
+          "answer": "weather",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Visibility: ______",
+          "answer": "100 meters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Details in need of attention: the appearance of ______",
+          "answer": "fishing boats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The ______ and appearance of whales",
+          "answer": "behavior",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Scales: the ______ and species the possible age etc.",
+          "answer": "group size",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Sperm whale ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Northern right whale ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Minke whale ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-111-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where did he get the shipping experience?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sea voyage"
+            },
+            {
+              "id": "B",
+              "text": "family"
+            },
+            {
+              "id": "C",
+              "text": "first job"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The company experienced",
+          "options": [
+            {
+              "id": "A",
+              "text": "the immediately profitable business"
+            },
+            {
+              "id": "B",
+              "text": "the business which dealt with one commodity"
+            },
+            {
+              "id": "C",
+              "text": "the business world widely"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why did he want the mail contact?",
+          "options": [
+            {
+              "id": "A",
+              "text": "faster"
+            },
+            {
+              "id": "B",
+              "text": "stronger"
+            },
+            {
+              "id": "C",
+              "text": "more reliable"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What did he do when he won the bid?",
+          "options": [
+            {
+              "id": "A",
+              "text": "reduced the fleet of the ships"
+            },
+            {
+              "id": "B",
+              "text": "opened a new company"
+            },
+            {
+              "id": "C",
+              "text": "appointed a new British agent"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why did he choose Boston?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it was supported by the government"
+            },
+            {
+              "id": "B",
+              "text": "it had a good business environment"
+            },
+            {
+              "id": "C",
+              "text": "he once worked there"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What could be revealed about the 1844 event?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Boston had the biggest shipping company"
+            },
+            {
+              "id": "B",
+              "text": "Boston was not a good location for port"
+            },
+            {
+              "id": "C",
+              "text": "The US had bad weather conditions"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "He improved the sail safety by using communication. ______",
+          "answer": "radio",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "were produced on the board, so passengers would not feel uneasy during the journey. ______",
+          "answer": "newspapers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Before 1912, shipping companies paid more attention to the of the ships. ______",
+          "answer": "speed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-111-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Afterwards, companies poured more money into decoration which made the ships more like ______",
+          "answer": "hotels",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/111_we.mp3"
+    }
+  ]
+}

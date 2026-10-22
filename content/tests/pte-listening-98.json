@@ -1,0 +1,452 @@
+{
+  "id": "pte-listening-98",
+  "title": "Listening — Practice Test 98",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-98-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which is the first recommended transportation by the man?",
+          "options": [
+            {
+              "id": "A",
+              "text": "taxi"
+            },
+            {
+              "id": "B",
+              "text": "underground"
+            },
+            {
+              "id": "C",
+              "text": "coach"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the reason of the girl for not hiring a private car?",
+          "options": [
+            {
+              "id": "A",
+              "text": "bad weather"
+            },
+            {
+              "id": "B",
+              "text": "having lost her driving licence"
+            },
+            {
+              "id": "C",
+              "text": "too expensive"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the minimum coach fare?",
+          "options": [
+            {
+              "id": "A",
+              "text": "£12"
+            },
+            {
+              "id": "B",
+              "text": "£14"
+            },
+            {
+              "id": "C",
+              "text": "£16"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The disadvantage of taking a coach from airport is",
+          "options": [
+            {
+              "id": "A",
+              "text": "unsafe"
+            },
+            {
+              "id": "B",
+              "text": "too many people"
+            },
+            {
+              "id": "C",
+              "text": "too long time"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Nationality: ______",
+          "answer": "american",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Flight number: ______",
+          "answer": "BA188",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Heathrow airport terminal: ______",
+          "answer": "5",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ticket: single and ______",
+          "answer": "super save",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fare: £18 including ______",
+          "answer": "coffee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Credit card number: ______",
+          "answer": "3339518377996047",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Locationnear to ______out of town",
+          "answer": "city hall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Appointment systemnot badmore ______",
+          "answer": "efficient",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "modern(14) ______",
+          "answer": "medical facilities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(13) ______modern______",
+          "answer": "standard",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Doctor resource______doctors",
+          "answer": "12",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Dr. Jerry is good with ______",
+          "answer": "leg trouble",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Home visit time______10 am – 5 pm",
+          "answer": "9 am – 5 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Charge£ 8______",
+          "answer": "£9.50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO groups of patients get free medication from health centre?",
+          "options": [
+            {
+              "id": "A",
+              "text": "children under 10"
+            },
+            {
+              "id": "B",
+              "text": "UK residents"
+            },
+            {
+              "id": "C",
+              "text": "overseas students"
+            },
+            {
+              "id": "D",
+              "text": "pregnant or retired patients"
+            },
+            {
+              "id": "E",
+              "text": "people over 70 years old"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO groups of patients get free medication from health centre?",
+          "options": [
+            {
+              "id": "A",
+              "text": "children under 10"
+            },
+            {
+              "id": "B",
+              "text": "UK residents"
+            },
+            {
+              "id": "C",
+              "text": "overseas students"
+            },
+            {
+              "id": "D",
+              "text": "pregnant or retired patients"
+            },
+            {
+              "id": "E",
+              "text": "people over 70 years old"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– meet at door of ______at 9 am",
+          "answer": "student union",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– visit ______in the afternoon",
+          "answer": "library",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– computer centre: to get ______",
+          "answer": "username and password",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______apply for membership",
+          "answer": "sports centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– meet at auditorium in ______course coordinator",
+          "answer": "the morning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– course requirement and ______optional course requirements:",
+          "answer": "compulsory (courses)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Part 2: Course Agreement | Wednesday / – meet at auditorium in (25) ______course coordinator / – course requirement and (26) ______optional course requirements: / – ______80% / – assignment / – (28) ______group work / – exam open book / / Thursday / Go to department office to: / – get a (29) ______ / – hand in optional course form",
+          "answer": "attendance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______group work",
+          "answer": "presentation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– get a ______",
+          "answer": "curriculum",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Welcome Partyvenue ______on the third floor",
+          "answer": "common room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many species in oceans are there according to latest search?",
+          "options": [
+            {
+              "id": "A",
+              "text": "23,000"
+            },
+            {
+              "id": "B",
+              "text": "230,000"
+            },
+            {
+              "id": "C",
+              "text": "2,300,000"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q32",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Crustacean ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q33",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Mollusk and fish ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q34",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Species for environmental protection ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "degraded habitats ______",
+          "answer": "degraded habitats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "garbage ______",
+          "answer": "garbage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There are over invasive species in the Mediterranean Sea. ______",
+          "answer": "600",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The area with has a high rate of speciation ______",
+          "answer": "coral reefs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The two countries, have the most marine species in the world. ______",
+          "answer": "australia and japan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-98-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There will be around fish species in the world according to the survey. ______",
+          "answer": "22,000",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/98_we.mp3"
+    }
+  ]
+}

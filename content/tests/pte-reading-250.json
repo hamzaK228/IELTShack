@@ -1,0 +1,1086 @@
+{
+  "id": "pte-reading-250",
+  "title": "Academic Reading — Practice Test 250",
+  "kind": "practice",
+  "description": "3 texts, 36 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Light pollution",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-250-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "A reason that contributes to light pollution.",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A city's effort to mitigate light pollution.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The importance of darkness.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The popularity of light pollution in the world.",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Methods to reduce light pollution.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The reason why we have changed the night.",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How does light pollution influence creatures?",
+          "options": [
+            {
+              "id": "A",
+              "text": "by bad lighting design"
+            },
+            {
+              "id": "B",
+              "text": "by changing the cities and suburbs creatures are used to"
+            },
+            {
+              "id": "C",
+              "text": "by changing the directions of light"
+            },
+            {
+              "id": "D",
+              "text": "by changing the light creatures are used to"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Some aspects of animals' lives are affected by unwanted light, EXCEPT:",
+          "options": [
+            {
+              "id": "A",
+              "text": "Migration"
+            },
+            {
+              "id": "B",
+              "text": "Reproduction"
+            },
+            {
+              "id": "C",
+              "text": "Natural life span"
+            },
+            {
+              "id": "D",
+              "text": "Feeding"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Songbirds",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Horseshoe bat",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Nightingales",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Bewick's swans",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Sea turtles",
+          "options": [
+            {
+              "id": "A",
+              "text": "eat too much and migrate in advance."
+            },
+            {
+              "id": "B",
+              "text": "would not like to sing songs at night."
+            },
+            {
+              "id": "C",
+              "text": "is attracted by the light and then a crash happens."
+            },
+            {
+              "id": "D",
+              "text": "suffers from food shortages because of competitors."
+            },
+            {
+              "id": "E",
+              "text": "have become easier targets for predators."
+            },
+            {
+              "id": "F",
+              "text": "be active at unusual times."
+            },
+            {
+              "id": "G",
+              "text": "have trouble inbreeding."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Light pollution",
+        "text": "(A) If humans were truly at home under the light of the moon and stars, we would go into darkness happily, the midnight world as visible to us as it is to the vast number of nocturnal species on this planet. Instead, we are diurnal creatures, with eyes adapted to living in the sun's light. This is a basic evolutionary fact, even though most of us don't think of ourselves as diurnal beings any more than we think of ourselves as primates or mammals, or Earthlings. Yet it's the only way to explain what we've done to the night: We've engineered it to receive us by filling it with light.\n\n(B) This kind of engineering is no different than damming a river. Its benefits come with consequences—called light pollution—whose effects scientists are only now beginning to study. Light pollution is largely the result of bad lighting design, which allows artificial light to shine outward and upward into the sky, where it's not wanted, instead of focusing it downward, where it is. Ill-designed lighting washes out the darkness of night and radically alters the light levels and light rhythms—to which many forms of life, including ourselves, have adapted.\n\n(C) Now most of humanity lives under intersecting domes of reflected, refracted light, of scattering rays from overlit cities and suburbs, from light-flooded highways and factories. Nearly all of nighttime Europe is a nebula of light, as is most of the United States and all of Japan. In the south Atlantic the glow from a single fishing fleet squid fishermen during their prey with metal halide lamps—can be seen from space, burning brighter, in fact, than Buenos Aires or Rio de Janeiro.\n\n(D) We've lit up the night as if it were an unoccupied country when nothing could be further from the truth. Among mammals alone, the number of nocturnal species is astonishing. Light is a powerful biological force, and in many species, it acts as a magnet, a process being studied by researchers such as Travis Longcore and Catherine Rich, co-founders of the Los Angeles-based Urban Wildlands Group. The effect is so powerful that scientists speak of songbirds and seabirds being \"captured\" by searchlights on land or by the light from gas flares on marine oil platforms, circling and circling in the thousands until they drop. Migrating at night, birds are apt to collide with brightly lit tall buildings; immature birds on their first journey suffer disproportionately.\n\n(E) Insects, of course, cluster around streetlights, and feeding at those insect clusters is now ingrained in the lives of many bat species. In some Swiss valleys, the European lesser horseshoe bat began to vanish after streetlights were installed, perhaps because those valleys were suddenly filled with light-feeding pipistrelle bats. Other nocturnal mammals—including desert rodents, fruit bats, opossums, and badgers-forage more cautiously under the permanent full moon of light pollution because they've become easier targets for predators.\n\n(F) Some birds—blackbirds and nightingales, among others—sing at unnatural hours in the presence of artificial light. Scientists have determined that long artificial days— and artificially short nights induce early breeding in a wide range of birds. And because a longer day allows for longer feeding, it can also affect migration schedules. One population of Bewick's swans wintering in England put on fat more rapidly than usual, priming them to begin their Siberian migration early. The problem, of course, is that migration, like most other aspects of bird behaviour, is a precisely timed biological behaviour. Leaving early may mean arriving too soon for nesting conditions to be right\n\n(G) Nesting sea turtles, which show a natural predisposition for dark beaches, find fewer and fewer of them to nest on. Their hatchlings, which gravitate toward the brighter, more reflective sea horizon, find themselves confused by artificial lighting behind the beach. In Florida alone, hatchling losses number in the hundreds of thousands every year. Frogs and toads living near brightly lit highways suffer nocturnal light levels that are as much as a million times brighter than normal, throwing nearly every aspect of their behaviour out of joint, including their nighttime breeding choruses.\n\n(H) Of all the pollution we face, light pollution is perhaps the most easily remedied. Simple changes in lighting design and installation yield immediate changes in the amount of light spilt into the atmosphere and, often, immediate energy savings.\n\n(I) It was once thought that light pollution only affected astronomers, who need to see the night sky in all its glorious clarity. And, in fact, some of the earliest civic efforts to control light pollution—in Flagstaff, Arizona, half a century ago—were made to protect the view from Lowell Observatory, which sits high above that city. Flagstaff has tightened its regulations since then, and in 2001 it was declared the first International Dark Sky City. By now the effort to control light pollution has spread around the globe. More and more cities and even entire countries, such as the Czech Republic, have committed themselves to reducing unwanted glare. J Unlike astronomers, most of us may not need an undiminished view of the night sky for our work, but like most other creatures we do need darkness. Darkness is as essential to our biological welfare, to our internal clockwork, as light itself. The regular oscillation of waking and sleep in our lives, one of our circadian rhythms—is nothing less than a biological expression of the regular oscillation of light on Earth. So fundamental are these rhythms to our being that altering them is like altering gravity."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Lighting up the lies",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-250-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The possibility hidden in a mission impossible",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The uncertain effectiveness of functional magnetic resonance imaging for detecting lies",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The hazard lying behind the technology as a lie detector",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The limited fields for the use of lie detection technology",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Several successful cases of applying the results from the lie detection technology",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Cons of the current research related to lie-detector tests",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "There should be some requested work to improve the techniques regarding lie detection",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The lie detection for a convicted woman was first conducted by researchers in Europe.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The legitimization of using scans in the court might mean a promising and profitable business.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is always something wrong with neuroimaging.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is claimed that functional magnetic resonance imaging can check lies by observing the internal part of the brain rather than following up ______ to evaluate the anxiety as (25) ______ does. Audiences as well as (26) ______ are fascinated by this amazing lie-detection technology.",
+          "answer": "Peripheral measures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is claimed that functional magnetic resonance imaging can check lies by observing the internal part of the brain rather than following up (24) ______ to evaluate the anxiety as ______ does. Audiences as well as (26) ______ are fascinated by this amazing lie-detection technology.",
+          "answer": "A polygraph",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is claimed that functional magnetic resonance imaging can check lies by observing the internal part of the brain rather than following up (24) ______ to evaluate the anxiety as (25) ______ does. Audiences as well as ______ are fascinated by this amazing lie-detection technology.",
+          "answer": "Entrepreneurs",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Lighting up the lies",
+        "text": "(A) Last year Sean A. Spence, a professor at the school of medicine at the University of Sheffield in England, performed brain scans that showed that a woman convicted of poisoning a child in her care appeared to be telling the truth when she denied committing the crime. This deception study, along with two others performed by the Sheffield group, was funded by Quickfire Media, a television production company working for the U.K.'s Channel 4, which broadcast videos of the researchers at work as part of a three-part series called \"Lie Lab.\" The brain study of the woman later appeared in the journal European Psychiatry.\n\n(B) Functional magnetic resonance imaging (fMRI) purports to detect mendacity by seeing inside the brain instead of tracking peripheral measures of anxiety—such as changes in pulse, blood pressure or respiration —measured by a polygraph. Besides drawing hundreds of thousands of viewers, fMRI has pulled in entrepreneurs. Two companies—Cephos in Pepperell, Mass., and No Lie MRI in Tarzana, Calif.—claim to predict with 90 percent or greater certitude whether you are telling the truth. No Lie MRI, whose name evokes the casual familiarity of a walk-in dental clinic in a strip mall, suggests that the technique may even be used for \"risk reduction in dating\" .\n\n(C) Many neuroscientists and legal scholars doubt such claims—and some even question whether brain scans for lie detection will ever be ready for anything but more research on the nature of deception and the brain. An fMRI machine tracks blood flow to activated brain areas. The assumption in lie detection is that the brain must exert extra effort when telling a lie and that the regions that do more work get more blood. Such areas light up in scans; during the lie studies, the illuminated regions are primarily involved in decision making.\n\n(D) To assess how fMRI and other neurocience findings affect the law, the Mac- Arthur Foundation put up $10 million last year to pilot for three years the Law and Neuroscience Project. Part of the funding will attempt to set criteria for accurate and reliable lie detection using fMRI and other brain-scanning technology. \"I think it's not possible, given the current technology, to trust the results,\" says Marcus Raichle, a neuroscientist at the Washington University School of Medicine in St. Louis who heads the project's study group on lie detection. \"But it's not impossible to set up a research program to determine whether that's possible.\" A major review article last year in the American Journal of Law and Medicine by Henry T. Greely of Stanford University and Judy Illes, now at the University of British Columbia, explores the deficiencies of existing research and what may be needed to move the technology forward. The two scholars found that lie detection studies conducted so far (still less than 20 in all) failed to prove that fMRI is \"effective as a lie detector in the real world at any accuracy level.\"\n\n(E) Most studies examined groups, not individuals.Subjects in these studies were healthy young adults—making it unclear how the results would apply to someone who takes a drug that affects blood pressure or has a blockage in an artery. And the two researchers questioned the specificity of the lit-up areas; they noted that the regions also correlate with a wide range of cognitive behaviors, including memory, self- monitoring and conscious self-awareness.\n\n(F) The biggest challenge for which the Law and Neuroscience Project is already funding new research—is how to diminish the artificiality of the test protocol. Lying about whether a playing card is the seven of spades may not activate the same areas of the cortex as answering a question about whether you robbed the comer store. In fact, the most realistic studies to date may have come from the Lie Lab television programs. The two companies marketing the technology are not waiting for more data. Cephos is offering scans without charge to people who claim they were falsely accused if they meet certain criteria in an effort to get scans accepted by the courts. Allowing scans as legal evidence could open a potentially huge and lucrative market. \"We may have to take many shots on goal before we actually see a courtroom,\" says Cephos chief executive Steven Laken. He asserts that the technology has achieved 97 percent accuracy and that the more than 100 people scanned using the Cephos protocol have provided data that have resolved many of the issues that Greely and Illes cited.\n\n(G) But until formal clinical trials prove that the machines meet safety and effectiveness criteria, Greely and Illes have called for a ban on non-research uses. Trials envisaged for regulatory approval hint at the technical challenges. Actors, professional poker players and sociopaths would be compared against average Joes. The devout would go in the scanner after nonbelievers. Testing would take into account social setting. White lies—\"no, dinner really was fantastic\"—would have to be compared against untruths about sexual peccadilloes to ensure that the brain reacts identically.\n\n(H) There potential for abuse prompts caution. \"The danger is that people's lives can be changed in bad ways because of mistakes in the technology,\" Greely says. \"The danger for the science is that it gets a black eye because of this very high profile use of neuroimaging that goes wrong.\" Considering the long and controversial history of the polygraph, gradualism may be the wisest course to follow for a new diagnostic that probes an essential quality governing social interaction."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Alternatives",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-250-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the global average for electricity generated from coal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "41%"
+            },
+            {
+              "id": "B",
+              "text": "44%"
+            },
+            {
+              "id": "C",
+              "text": "49%"
+            },
+            {
+              "id": "D",
+              "text": "70%"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the average American pay each month for CO2 produced by a local power plant?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$17"
+            },
+            {
+              "id": "B",
+              "text": "$80"
+            },
+            {
+              "id": "C",
+              "text": "$113"
+            },
+            {
+              "id": "D",
+              "text": "Nothing"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "……………..",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "………………",
+          "options": [
+            {
+              "id": "A",
+              "text": "Henry T. Greely &Judy Illes"
+            },
+            {
+              "id": "B",
+              "text": "Steven Laken"
+            },
+            {
+              "id": "C",
+              "text": "Henry T. Greely"
+            },
+            {
+              "id": "D",
+              "text": "Marcus Raichle"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 31. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-250-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-250-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-250-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 34. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-250-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Sequestration is already used in the oil and gas sector. CCS may cut ______ in a short time.",
+          "answer": "Carbon emissions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• ______ in labour, industry, and states already support CCS.",
+          "answer": "Powerful lobbies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Alternatives, like ______energy, take up vast amounts of space.",
+          "answer": "Solar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The construction of new and the conversion of existing power plants and the liquefaction and transport of CO2 are very costly. While sequestration is possible, the scale would be enormous. Therefore, CCS would need ______",
+          "answer": "Massive state subsidies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Some CCS technology is ______ Gas-driven turbines for IGCC have not been used on an industrial scale. Shallow underground storage may be limited; deep ocean storage is currently impossible. Geologists fear leaks in quake-prone regions.",
+          "answer": "Untried",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-250-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Natural gas and solar PVs are cheaper. LCOE estimates for CCS = $0.09-15/kWh; for natural gas= ______and, for solar PV = $0.0849/kWh.",
+          "answer": "$0.0686/kWh",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Alternatives",
+        "text": "There are at least four reasonably-priced alternatives to CCS. Firstly, conventional pulverised coal power plants are undergoing redesign so more electricity can be produced from less coal. Before coal is phased out – as ultimately it will have to be – these plants could be more cost-eﬀective. Secondly, hybrid plants using natural gas and coal could be built. Thirdly, natural gas could be used on its own. Lastly, solar power is fast gaining credibility. In all this, an agreed measure of cost for electricity generation must be used. This is called a levelized cost of energy (LCOE) – an average cost of producing electricity over the lifetime of a power plant, including construction, financing, and operation, although pollution is not counted. In 2012, the CBO demonstrated that a new CCS plant had an LCOE of about $0.09-0.15 per kilowatt-hour (kWh), but according to the US Energy Information Administration, the LCOE from a conventional natural gas power plant without CCS is $0.0686/kWh, making it the cheapest way to produce clean energy. Solar power costs are falling rapidly. In 2013, the Los Angeles Department of Water and Power reported that energy via a purchase agreement from a large solar plant was $0.095/kWh, and Greentech Media, a company that reviews environmental projects, found a 2014 New Mexico solar project that generates power for $0.0849/kWh. Still, while so much coal and so many coal-fired plants exist, decommissioning them all may not be realistic. Whatever happens, the conundrum of cheap power and clean air may remain unsolved for some time."
+      }
+    }
+  ]
+}

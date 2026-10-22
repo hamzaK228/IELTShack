@@ -1,0 +1,674 @@
+{
+  "id": "pte-gt-reading-40",
+  "title": "General Training Reading — Practice Test 40",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: MEMBERS SERVICES, ROAD SERVICE AND INSURANCE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-40-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which exhibition can you visit in late August? ______",
+          "answer": "Developmental art",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A student would like a headset for the Greek Olympic Sculpture. How much will it cost?______",
+          "answer": "$4.50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which exhibition shows the work of young people? ______",
+          "answer": "Developmental art",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much must a member pay to see the exhibition of art from the United States?______",
+          "answer": "$5.00",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In which location would you find the oldest exhibits? ______",
+          "answer": "North gallery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which exhibit could a large group see most cheaply? ______",
+          "answer": "New year Festivities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you want to find out about a baby's car seat? ______",
+          "answer": "632",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you feel cheated by a repair shop near your home in Newcastle? ______",
+          "answer": "132",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you have trouble hearing and you need road service? ______",
+          "answer": "317",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you are going on a road trip and want to find out what activities are available? ______",
+          "answer": "122",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you want advice on purchasing a vehicle? ______",
+          "answer": "443",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which TWO paragraphs advise you how to show there is nothing to steal from the car? ______",
+          "answer": "C, H",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "MEMBERS SERVICES, ROAD SERVICE AND INSURANCE",
+        "text": "All insurance enquiries – 133\n\nCredit card payments – 344\n\nVisa, Mastercard for membership and insurance policies (open 24 hours, 7 days)\n\nTeleclaims – 123\n\nFor motor vehicle claims (open 24 hours, 7 days)"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: HELPLINE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-40-q13",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO paragraphs give advice about good places to park?",
+          "options": [
+            {
+              "id": "B",
+              "text": "Always lock valuables in the boot. Most car crime is opportunistic, so don't make it easy. And if something is too valuable to lose, the golden rule is take it with you."
+            },
+            {
+              "id": "D",
+              "text": "At night, always try to park in a brightly-lit area where your vehicle can be seen by passers-by. Poorly-lit streets are the thief's favourite hunting ground."
+            },
+            {
+              "id": "E",
+              "text": "Never park where you can see broken glass from car windows on the ground. Thieves are creatures of habit and will return to the scene of past successes."
+            },
+            {
+              "id": "F",
+              "text": "Install a car alarm."
+            },
+            {
+              "id": "G",
+              "text": "Where available, use car parks that are well lit and have boom gates. Don't leave your parking ticket in the car."
+            },
+            {
+              "id": "H",
+              "text": "In high-risk areas leave your glove box and ashtray open to show thieves that there is nothing in the car worth stealing."
+            },
+            {
+              "id": "I",
+              "text": "Don't buy goods offered for sale if the price seems suspiciously low. Chances are the goods have been stolen."
+            }
+          ],
+          "answer": [
+            "D",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which paragraph warns about the effects of a new law?",
+          "options": [
+            {
+              "id": "B",
+              "text": "Always lock valuables in the boot. Most car crime is opportunistic, so don't make it easy. And if something is too valuable to lose, the golden rule is take it with you."
+            },
+            {
+              "id": "D",
+              "text": "At night, always try to park in a brightly-lit area where your vehicle can be seen by passers-by. Poorly-lit streets are the thief's favourite hunting ground."
+            },
+            {
+              "id": "E",
+              "text": "Never park where you can see broken glass from car windows on the ground. Thieves are creatures of habit and will return to the scene of past successes."
+            },
+            {
+              "id": "F",
+              "text": "Install a car alarm."
+            },
+            {
+              "id": "G",
+              "text": "Where available, use car parks that are well lit and have boom gates. Don't leave your parking ticket in the car."
+            },
+            {
+              "id": "H",
+              "text": "In high-risk areas leave your glove box and ashtray open to show thieves that there is nothing in the car worth stealing."
+            },
+            {
+              "id": "I",
+              "text": "Don't buy goods offered for sale if the price seems suspiciously low. Chances are the goods have been stolen."
+            },
+            {
+              "id": "A",
+              "text": "A"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which paragraph tells the reader how to protect valuable items?",
+          "options": [
+            {
+              "id": "B",
+              "text": "Always lock valuables in the boot. Most car crime is opportunistic, so don't make it easy. And if something is too valuable to lose, the golden rule is take it with you."
+            },
+            {
+              "id": "D",
+              "text": "At night, always try to park in a brightly-lit area where your vehicle can be seen by passers-by. Poorly-lit streets are the thief's favourite hunting ground."
+            },
+            {
+              "id": "E",
+              "text": "Never park where you can see broken glass from car windows on the ground. Thieves are creatures of habit and will return to the scene of past successes."
+            },
+            {
+              "id": "F",
+              "text": "Install a car alarm."
+            },
+            {
+              "id": "G",
+              "text": "Where available, use car parks that are well lit and have boom gates. Don't leave your parking ticket in the car."
+            },
+            {
+              "id": "H",
+              "text": "In high-risk areas leave your glove box and ashtray open to show thieves that there is nothing in the car worth stealing."
+            },
+            {
+              "id": "I",
+              "text": "Don't buy goods offered for sale if the price seems suspiciously low. Chances are the goods have been stolen."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which students may use the LRC? ______",
+          "answer": "Language centre students",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What must full-time students show in order to receive an LRC number? ______",
+          "answer": "Photo-id card",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How will part-time students' deposits be refunded? ______",
+          "answer": "(in) cash",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What mark shows a book cannot be removed from the library? ______",
+          "answer": "REF in red",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What materials must be returned after one borrowing period? ______",
+          "answer": "IELTS (materials)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "HELPLINE",
+        "text": "Road Service – 114\n\n(open 24 hours, 7 days)\n\nHOME SECURITY – 553\n\nAlarm Systems – 554\n\nTECHNICAL ADVICE – 443 (8.30 am to 5 pm, Monday to Friday, 8.30 pm to 11 Saturday) for road tests, car buying, advice and assistance on motoring problems. Local call charge.\n\nChild restraint enquiries – 632\n\nRecorded road report for major highways – 222\n\nVEHICLE INSPECTIONS (7 am – 10 pm)\n\n1 300 362 802\n\nFINANCIAL SERVICES (8.30 am to 5 pm, Monday to Friday, 8.30 am to 11 Saturday)\n\nHome Loans – 701\n\nLife insurance – 976\n\nPersonal loans – 978\n\nLEGAL ADVICE (8.30 am to 5 pm, Monday to Friday)\n\nSydney – 191\n\nNewcastle – 132\n\nWollongong – 132\n\nCanberra – 426\n\nSMASH REPAIRS – 900\n\nRepairs guaranteed for life (7.30 am to 5 pm, Monday to Friday)\n\nBatteries – 111\n\nDRIVE TRAVEL – 122\n\nLocal touring information and attraction tickets\n\nSERVICE (HEARING IMPAIRED)\n\nRoad service – 317\n\nInsurance enquiries – 728"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: international business institute – buddy peer support scheme",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-40-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The main aim of the Buddy Peer Support Scheme is to help new students during exam periods.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students will be put in touch with others from their own language group.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The principal reward for the buddy is making new friends.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The buddy is responsible for making the first move to meet the new student.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies need to work one on one with the student in their care.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies will be paid a small allowance.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The buddy's obligations finish at the end of each term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies are required to attend two meetings per term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "international business institute – buddy peer support scheme",
+        "text": "Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend? Or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a buddy peer support scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What's in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. if you are an overseas student. it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy!\n\nResponsibilities of buddies 1. Telephone and arrange to make contact with the new student. 2. Meet the student and show him/her around the campus and the local area. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take phone calls from the new student to answer further questions that he / she may have from time to time. Meet to explain information to the new student in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no \"requirement\" to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet each other. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: how babies learn language",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-40-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The study of ______ in very young children has changed considerably in the last 50 years. It has been established that children can speak independently at age (30) ______ , and that this ability is innate. The child will, in fact, follow the speech patterns and linguistic behaviour of its carers and parents who act as (31) ______",
+          "answer": "Language development",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The study of (29) ______ in very young children has changed considerably in the last 50 years. It has been established that children can speak independently at age ______ , and that this ability is innate. The child will, in fact, follow the speech patterns and linguistic behaviour of its carers and parents who act as (31) ______",
+          "answer": "3 or 4; 3-4 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The study of (29) ______ in very young children has changed considerably in the last 50 years. It has been established that children can speak independently at age (30) ______ , and that this ability is innate. The child will, in fact, follow the speech patterns and linguistic behaviour of its carers and parents who act as ______",
+          "answer": "Models",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Babies actually benefit from \"baby talk\", in which adults ______ both sounds and facial expressions. Babies' ability to (33) ______ sound patterns rather than words comes earlier than was previously thought. It is very important that babies are included in (34) ______",
+          "answer": "Exaggerate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Babies actually benefit from \"baby talk\", in which adults (32) ______ both sounds and facial expressions. Babies' ability to ______ sound patterns rather than words comes earlier than was previously thought. It is very important that babies are included in (34) ______",
+          "answer": "Recognize",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Babies actually benefit from \"baby talk\", in which adults (32) ______ both sounds and facial expressions. Babies' ability to (33) ______ sound patterns rather than words comes earlier than was previously thought. It is very important that babies are included in ______",
+          "answer": "Conversation/interaction/communication",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Children can learn their first language without being taught.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "From the time of their birth, humans seem to have an ability to learn language.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "According to experts in the 1950s and '60s, language learning is very similar to the training of animals.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Repetition in language learning is important, according to Dr Eliot.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dr Golinkoff is concerned that \"baby talk\" is spoken too much by some parents.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-40-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The first word a child learns to recognise is usually \"Mummy\" or \"Daddy\".",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "how babies learn language",
+        "text": "During the first year of a child's life, parents and carers are concerned with its physical development; during the second year, they watch the baby's language development very carefully. It is interesting just how easily children learn language. Children who are just three or four years old, who cannot yet tie their shoelaces, are able to speak in full sentences without any specific language training. The current view of child language development is that it is an instinct-something as natural as eating or sleeping. According to experts in this area, this language instinct is innate – something each of us is born with. But this prevailing view has not always enjoyed widespread acceptance. In the middle of last century, experts of the time, including a renowned professor at Harvard University in the United States, regarded child language development as the process of learning through mere repetition. Language \"habits\" developed as young children were rewarded for repeating language correctly and ignored or punished when they used incorrect forms of language. Over time, a child, according to this theory, would learn language much like a dog might learn to behave properly through training. Yet even though the modern view holds that language is instinctive, experts like Assistant Professor Use Eliot are convinced that the interaction a child has with its parents and caregivers is crucial to its developments. The language of the parents and caregivers act as models for the developing child. In fact, a baby's day-to-day experience is so important that the child will learn to speak in a manner very similar to the model speakers it hears. Given that the models parents provide are so important, it is interesting to consider the role of \"baby talk\" in the child's language development. Baby talk is the language produced by an adult speaker who is trying to exaggerate certain aspects of the language to capture the attention of a young baby. Dr Roberta Golinkoff believes that babies benefit from baby talk. Experiments show that immediately after birth babies respond more to infant-directed talk than they do to adult-directed talk. When using baby talk, people exaggerate their facial expressions, which helps the baby to begin to understand what is being communicated. She also notes that the exaggerated nature and repetition of baby talk helps infants to learn the difference between sounds. Since babies have a great deal of information to process, baby talk helps. Although there is concern that baby talk may persist too long, Dr Golinkoff says that it stops being used as the child gets older, that is, when the child is better able to communicate with the parents. Professor Jusczyk has made a particular study of babies' ability to recognise sounds, and says they recognise the sound of their own names as early as four and a half months. Babies know the meaning of Mummy and Daddy by about six months, which is earlier than was previously believed. By about nine months, babies begin recognizing frequent patterns in language. A baby will listen longer to the sounds that occur frequently, so it is good to frequently call the infant by its name. An experiment at Johns Hopkins University in USA, in which researchers went to the homes of 16 nine-month-olds, confirms this view. The researchers arranged their visits for ten days out of a two week period. During each visit the researcher played an audio tape that included the same three stories. The stories included odd words such as \"python\" or \"hornbill\", words that were unlikely to be encountered in the babies' everyday experience. After a couple of weeks during which nothing was done, the babies were brought to the research lab, where they listened to two recorded lists of words. The first list included words heard in the story. The second included similar words, but not the exact ones that were used in the stories. Jusczyk found the babies listened longer to the words that had appeared in the stories, which indicated that the babies had extracted individual words from the story. When a control group of 16 nine-month-olds, who had not heard the stories, listened to the two groups of words, they showed no preference for either list. This does not mean that the babies actually understand the meanings of the words, just the sound patterns. It supports the idea that people are born to speak, and have the capacity to learn language from the day they are born. This ability is enhanced if they are involved in conversation. And, significantly, Or Eliot reminds parents that babies and toddlers need to feel they are communicating. Clearly, sitting in front of the television is not enough; the baby must be having an interaction with another speaker."
+      }
+    }
+  ]
+}

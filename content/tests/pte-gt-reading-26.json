@@ -1,0 +1,766 @@
+{
+  "id": "pte-gt-reading-26",
+  "title": "General Training Reading — Practice Test 26",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: westly general hospital – guide for patients",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-26-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which is the most luxurious hotel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "THE HARBOUR VIEW HOTEL"
+            },
+            {
+              "id": "C",
+              "text": "STAY HERE"
+            },
+            {
+              "id": "D",
+              "text": "THE ROYAL HOTEL"
+            },
+            {
+              "id": "E",
+              "text": "SYDNEY YOUTH HOSTEL"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which advertisement is NOT for a hotel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "THE HARBOUR VIEW HOTEL"
+            },
+            {
+              "id": "C",
+              "text": "STAY HERE"
+            },
+            {
+              "id": "D",
+              "text": "THE ROYAL HOTEL"
+            },
+            {
+              "id": "E",
+              "text": "SYDNEY YOUTH HOSTEL"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which hotel offers the cheapest deal for 2 people for 1 night?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At which TWO hotels can you have a party? ______",
+          "answer": "A+D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which hotel helps you with water sports?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "At which place can you NOT make an advanced reservation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "THE HARBOUR VIEW HOTEL"
+            },
+            {
+              "id": "C",
+              "text": "STAY HERE"
+            },
+            {
+              "id": "D",
+              "text": "THE ROYAL HOTEL"
+            },
+            {
+              "id": "E",
+              "text": "SYDNEY YOUTH HOSTEL"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What page would you turn to for a crossword? ______",
+          "answer": "95",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On what TWO pages can you read about sports? ______",
+          "answer": "20+65",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On what page can you read about readers' complaints? ______",
+          "answer": "5",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What page would you turn to if you wanted to go to the cinema? ______",
+          "answer": "73",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What does Alan Richards write about? ______",
+          "answer": "(new) films/movies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the subject of Pierre Arlangue's photographs in his new book? ______",
+          "answer": "alps/peaks/mountains",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Don't bring any money to the hospital.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Radios can interfere with hospital electronic equipment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Leave any false teeth at home.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should pack a bag to stay for the night even if you intend only to be a day patient.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Telephone services are provided through coin or card operated telephones.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You are allergic to some antibiotics.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Your brother wants to know when to come and see you.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You want to buy something to read at the hospital.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If a student has any further questions, he or she should ask someone at ______",
+          "answer": "the computer centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Computer courses that are not instructor-led, for undergraduates and postgraduates, can last as long as students like because they are ______",
+          "answer": "self-paced",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "All the materials provided for the courses are produced ______",
+          "answer": "in-house",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Any previous computer course in the archives can be re-used and also changed to be ______ to the requirements of students",
+          "answer": "tailor made",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "westly general hospital – guide for patients",
+        "text": "When you come to hospital for a planned stay, please remember that space is limited. We also advise you to bring an overnight bag even if you are only expecting to spend a day in hospital.\n\n(A) Clothing Please bring a selection of light clothing and personal belongings that may include: night clothes, a track suit, a sweater or fleece, a bathrobe, slippers or socks, glasses, contact lenses, dentures, a hearing aid, bottled drinks (plastic only), tissues, books and magazines, contact details of friends, cash to purchase items during your stay.\n\n(B) Toiletries Please bring a selection with you including a shaving kit if you are male. The hospital also runs a shop and trolley service from which extra items (additional toiletries, magazines, stamps, newspapers etc.) can be purchased.\n\n(C) Valuables We strongly advise you not to bring any valuables with you as their security cannot be guaranteed. A closet is provided for some personal items.\n\n(D) Electrical appliances We ask that you do not bring electrical appliances with you. TV, radio and payphones are provided.\n\n(E) Medicines Please bring all your current medication with you, preferably in their original containers. On arrival the nursing staff will ask about your history and allergies.\n\n(F) Maternity Please bring the appropriate baby clothes and feeding equipment. For further information, please contact the Maternity Unit on 740648.\n\n(G) What Not to Bring Please do not bring any valuables (jewellery), personal computers, radios, TVs. The hospital cannot be held responsible for the loss of any items during your stay. Please note that the hospital does not allow the use of mobile telephones due to possible interference with patient monitoring equipment.\n\n(H) Smoking and Drinking Policy Smoking and alcohol are strictly prohibited in Westley Hospital. Patients wishing to smoke must do so outdoors. No alcohol is allowed on the premises.\n\n(I) Visiting Hours For details about when your friends and family can visit, see the list in your room or ward or check our website."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Computing Services Training",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-26-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some departments at the university do not provide the computer training needed for their courses.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you cannot come for a course at a suitable time, you can do the course at home over the internet using self-study materials.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Other departments at the university usually have to pay a charge if they want to use computer department staff for teaching.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Computing Services Training",
+        "text": "Traditional Instructor–Led Courses We run courses on software and techniques for which we see a significant need within the University amongst staff and research students. To see details of these courses, and the current schedule, please enquire at the computing centre.\n\nSelf-Paced Training Materials These take various forms but the main materials are workbooks which are designed for use alongside applications software, and allow you to work your way through at your own pace. These introductory workbooks are designed for undergraduates and postgraduates on taught courses, so that, if departments do not provide specific computer use training, students can still acquire the skills required to benefit from the main items of software provided on open access PCs. These workbooks are Westley University specific, written in-house, so they tell you precisely what you have to do on an open access PC, but they can also function as introductory material for staff and research students with office PCs. They cover basic computer use and IT-related library skills. There are also workbooks for most of the current mainstream applications, so if there are no tutor-led courses at convenient times for you, or if you cannot spare the time to attend a course, or if we do not cover the application you wish to learn, or if you simply prefer to train at your own pace, you can use this material. Workbooks and related course materials used on previous courses are still available, so if we have stopped giving a particular course, you can probably still obtain copies of the notes and exercises. We can run any of our current or past courses, adapted to be tailor-made to the needs of particular groups, or we can develop courses to order if they are more or less in the areas of computer use we support. Providing there is sufficient demand, we will do our best to accommodate your requirements. Computer staff can also contribute to academic departments' teaching, but there are usually fees involved, particularly for significant amounts of course development or delivery. There is no fee if you want to incorporate any of our workbooks or other materials in courses you give yourself."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: some snakes of australia",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-26-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake is not an elapid? ______",
+          "answer": "carpet python",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake will eat other snakes of the same species? ______",
+          "answer": "copperhead",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake doesn't require much food? ______",
+          "answer": "bandy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake is potentially the largest? ______",
+          "answer": "carpet python",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake's primary food is other snakes? ______",
+          "answer": "bandy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which snake can sometimes be found in trees? ______",
+          "answer": "tiger snake",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A bite from a taipan is always fatal to humans.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Tiger snakes got their name from their supposed aggressiveness.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Elapid snakes are always poisonous",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Copperhead snake poison is not that harmful to humans.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The carpet python can kill humans.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Bandy bandy snakes are found outside Australia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-26-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You'll never find a bandy bandy over 1 metre long.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "some snakes of australia",
+        "text": "The most deadly Australian snake is undoubtedly the taipan (oxyuranus scutellatus). There are two types of taipan found in Australia, the coastal taipan and the inland or western taipan, the latter being the most venomous land snake found on earth. Growing to a possible length of 2.9 metres, the taipan has a light olive to dark brown back with a lighter coloured head. The underbelly is cream in colour. The taipan can be found in open forests, coastal heaths, grassy beach dunes and cultivated areas such as cane fields. It lives in the far north of Australia and down the Queensland coast, but has been found as far north as the Murray river in western New South Wales. The taipan is an aggressive hunter, moving at speed through grasslands with ease. On finding its prey by scent, the reptile flings itself at the victim and inflicts several rapid bites. Like most other venomous snakes, the taipan uses its venom sparingly. As they don't regard man as prey, they have been known to strike and bite without releasing any venom at all, leading to no adverse effects. Although the taipan is the deadliest Australian snake, few snakes can match the sinister reputation of the eastern tiger snake (notechis scutatis). However, recent observations indicate that their ferocity and aggressiveness are not as bad as once thought and that actually they are fairly timid. There are different types of tiger snake found in Australia but they are all highly poisonous and should be avoided. Until recently tiger snakes held the record for the most snakebite fatalities (now overtaken by the eastern brown snake). The body of the tiger snake has cross bands of yellow or cream on a background of grey, green or brown and this is what gives them their name. They have a heavy build and can grow up to 1.8 metres. In the wild they are mainly a swamp dwelling species and are often found around waterways. Their habitat is now threatened by the clearing of such areas for development. They have been known, though, to climb into surrounding vegetation to a height of about 1 metre. They mainly feed on frogs and mice as adults but will take the odd bird or lizard. Another highly dangerous Australian snake is the copperhead (austrelaps superbus). Although it is non-aggressive, if provoked it raises its forebody from the ground and flattens its neck, angry and hissing, ready to strike. Like all other Australian poisonous snakes it is an elapid, which means it has a neurotoxic venom. This venom mainly attacks the nerves of the body, but it also contains blood destroying properties. The poison from elapids is generally very dangerous to humans and the copperhead is no exception having very potent venom. Colour and size vary with where you find the snake. However, they can grow up to 1.8 metres in length and can be tan, brown or black. One feature of copperheads is that they are more tolerant to cold and can be found lying in the sun in mid-winter when other snakes are hibernating. The food of the copperhead, like most snakes, is frogs and reptiles. What is unusual is that they are threats to each other because they are sometimes prone to cannibalism. Pythons are also found in Australia, the carpet python (morlelia spilota) being the most common. There are several different types of carpet python in Australia. They are widespread and can be found in a variety of habitat from wet tropics to dry, nearly arid, desert. They can be found in variable colours but usually have lighter blotches on a darker background. Carpet pythons are also bigger than most Australian snakes and can grow up to a length of almost 4 metres. The carpet python is largely nocturnal and preys mainly on mammals, birds and reptiles. Non-venomous, pythons bite into their prey and, when the prey struggles, it only sinks further onto the fangs. Next, the python coils around the animal to squeeze its breath out or, in some cases, to constrict its muscles and cause the main blood vessels to burst. One of the easiest snakes to identify in Australia is the bandy bandy (vermicelli annulata). This is a distinctly marked elapid snake with black and white bands around it. It is found in 80% of mainland Australia. The bandy bandy averages about 60cm in length but can grow up to 80cm. It is found in all types of habitat from rainforest to swamps to deserts. It is usually found during the day under cover or on a mild night moving around the ground. The bandy bandy is a crepuscular or after-dark hunter though it seldom feeds due to its low metabolic rate. Unlike many of its cousins in Australia, it only feeds on blind snakes. Being an elapid, the bandy bandy is definitely a poisonous snake and looks alarmingly dangerous as it resembles the Malay krait and, when threatened, will flatten its body and raise its body in an aggressive manner. However, the markings and behaviour are a bluff and its venom is only mild and virtually harmless to humans."
+      }
+    }
+  ]
+}

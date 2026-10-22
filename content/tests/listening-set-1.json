@@ -1,0 +1,36 @@
+{
+  "id": "listening-set-1",
+  "title": "Listening — Form Completion",
+  "kind": "practice",
+  "description": "Section 1 form completion with a transcript (this sample has no audio yet). Ten answers, one word each.",
+  "durationMinutes": 10,
+  "sections": [
+    {
+      "id": "listening-form-1",
+      "skill": "listening",
+      "title": "Listening — Section 1",
+      "instructions": "Complete the form below. Write ONE WORD ONLY for each answer.",
+      "passage": {
+        "id": "lf-transcript",
+        "title": "Transcript — Shopping survey",
+        "text": "Good morning, I'm carrying out a survey about shopping in Broadbeach. Could I start with your name?\n\nYes, it's Martyn Hale.\n\nAnd how did you travel to the town centre today?\n\nBy bike — I usually cycle in.\n\nWhat have you come into town for today?\n\nThree things, actually. I've been to the bank, I'm looking for a new phone, and I'm collecting my watch — it was being repaired.\n\nWhich day do you usually shop?\n\nSaturday, when the market is on.\n\nWhat do you think of the shops here?\n\nThe service is excellent. But there are too many places selling shoes, and I'd like more places to buy books.\n\nAnd the new out-of-town shopping centre?\n\nI like the parking best — it's free. But I think the cinema is unnecessary; we already have one in town."
+      },
+      "layout": {
+        "title": "Survey about shopping in Broadbeach",
+        "template": "Name: Martyn {{lf-q1}}\nToday's journey to Broadbeach town centre: used his {{lf-q2}}\nPurpose of today's trip:\n• has visited the {{lf-q3}}\n• looking for a new {{lf-q4}}\n• collecting {{lf-q5}} (after repair)\nPreferred day for shopping: {{lf-q6}}\nOpinions about shopping in the town centre:\n• Finds the service in shops excellent\n• Thinks there are too many places selling {{lf-q7}}\n• Would like more places to buy {{lf-q8}}\nOpinions about the new out-of-town shopping centre:\n• Likes the {{lf-q9}} best\n• Believes the {{lf-q10}} is unnecessary"
+      },
+      "questions": [
+        { "id": "lf-q1", "skill": "listening", "type": "gap", "prompt": "Surname", "answer": "Hale", "explanation": "The speaker spells his full name as Martyn Hale.", "difficulty": 1 },
+        { "id": "lf-q2", "skill": "listening", "type": "gap", "prompt": "Transport", "answer": "bike", "explanation": "He says he travelled by bike.", "difficulty": 1 },
+        { "id": "lf-q3", "skill": "listening", "type": "gap", "prompt": "Place visited", "answer": "bank", "explanation": "He has been to the bank.", "difficulty": 1 },
+        { "id": "lf-q4", "skill": "listening", "type": "gap", "prompt": "Item he is looking for", "answer": "phone", "explanation": "He is looking for a new phone.", "difficulty": 1 },
+        { "id": "lf-q5", "skill": "listening", "type": "gap", "prompt": "Item being collected", "answer": "watch", "explanation": "He is collecting his watch after a repair.", "difficulty": 1 },
+        { "id": "lf-q6", "skill": "listening", "type": "gap", "prompt": "Shopping day", "answer": "Saturday", "explanation": "He usually shops on Saturday.", "difficulty": 1 },
+        { "id": "lf-q7", "skill": "listening", "type": "gap", "prompt": "Too many shops selling this", "answer": "shoes", "explanation": "He thinks there are too many places selling shoes.", "difficulty": 2 },
+        { "id": "lf-q8", "skill": "listening", "type": "gap", "prompt": "Would like more shops selling this", "answer": "books", "explanation": "He would like more places to buy books.", "difficulty": 2 },
+        { "id": "lf-q9", "skill": "listening", "type": "gap", "prompt": "Best feature of the new centre", "answer": "parking", "explanation": "He likes the free parking best.", "difficulty": 2 },
+        { "id": "lf-q10", "skill": "listening", "type": "gap", "prompt": "Unnecessary feature", "answer": "cinema", "explanation": "He believes the cinema is unnecessary.", "difficulty": 2 }
+      ]
+    }
+  ]
+}

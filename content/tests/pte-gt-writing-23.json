@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-23",
+  "title": "General Training Writing — Letter 23",
+  "kind": "practice",
+  "description": "Task 1 letter, 23 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-23-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "A friend of yours is going on holiday soon and has asked you to recommend a destination.\nWrite a letter to your friend and recommend a good place for a holiday that you have visited before. Say where you went, where you stayed, what you can do there and what the food was like.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

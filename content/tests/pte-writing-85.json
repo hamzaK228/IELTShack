@@ -1,0 +1,40 @@
+{
+  "id": "pte-writing-85",
+  "title": "Academic Writing — Practice Test 85",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-85-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The table below shows the hours of leisure time spent by people in different age groups in Someland. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words. hours of leisure time per year in someland Teens 20s 30s 40s 50s 60s 70s Watching TV/ videos 1,200 700 400 500 600 700 1,100 Socializing with 4 or less people 150 150 300 250 250 200 200 Socializing with 4 or more people 350 350 50 50 25 25 25 Individual exercise 150 100 200 200 50 75 150 Group exercise/ sport 450 350 200 150 50 0 0 Cinema 100 75 50 25 25 50 100\n\nTeens | 20s | 30s | 40s | 50s | 60s | 70s\nWatching TV/ videos | 1,200 | 700 | 400 | 500 | 600 | 700 | 1,100\nSocializing with 4 or less people | 150 | 150 | 300 | 250 | 250 | 200 | 200\nSocializing with 4 or more people | 350 | 350 | 50 | 50 | 25 | 25 | 25\nIndividual exercise | 150 | 100 | 200 | 200 | 50 | 75 | 150\nGroup exercise/ sport | 450 | 350 | 200 | 150 | 50 | 0 | 0\nCinema | 100 | 75 | 50 | 25 | 25 | 50 | 100",
+          "answer": "",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-writing-85-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Companies use a variety of methods to improve the sales of their products. What are those methods? Which is the most effective method? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

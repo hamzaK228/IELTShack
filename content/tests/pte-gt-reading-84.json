@@ -1,0 +1,653 @@
+{
+  "id": "pte-gt-reading-84",
+  "title": "General Training Reading — Practice Test 84",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Illington Public Library",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-84-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that is not carried out in people's homes. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that can look after children. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that can take place the day people call. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service available at any time, day or night. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that has its work covered by insurance ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that can supply recommendations from previously satisfied customers. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This advertisement is for a service that can be contacted by email. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The library is closed for maintenance once a month on the first Monday of each month.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you become a member online, you can pick up your membership card the same day.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Under 16's and old age pensioners have reduced rates when borrowing audiobooks, music CDs and DVDs.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can borrow a book for at least five weeks it you resew it.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Using the Inter library loan service incurs a small fee.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Library computer reservations cannot be made by email.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The library's computers for children can be used by adults if they are free.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Illington Public Library",
+        "text": "Opening hours\n\nMonday: 10 am – 5 pm\n\nTuesday: 9.30 am – 7 pm\n\nWednesday: Closed\n\nThursday: 9.30 am – 7 pm\n\nFriday: 9.30 am – 7 pm\n\nSaturday: 9.30 am – 1 pm\n\nSunday: Closed\n\nJoining the library Membership of the library services is free. You can join without delay at the library when you come to visit us by presenting proof of your name and current address. You can join also online and then pick up your library card one day later when you visit us and show us your ID.\n\nBorrowing\n\nYou will be able to borrow:\n\n• 10 books or audiobooks for 4 weeks\n\n• 8 music CDs for 2 weeks\n\n• 5 DVDs for 2 weeks You will usually have to pay to borrow audiobooks, CDs, and DVDs. Please ask staff about concessions and special offers. If the item you want isn't available, you may reserve it online or at any library. Renewals – You can renew most items for a further 2 weeks (up to a maximum of 3 times) in person, by telephone or online. If you telephone, please have your library card and the items to hand.\n\nInter Library Loans If you want a book or journal article that the library does not hold, you can request it free of charge through Inter Library Loans. The inter-lending team will try to obtain a copy from another library authority, but you must be a member of the library.\n\nLibrary Computers We have 10 computers which can be booked by members of the public in the library. Booking can be done in person or by telephone. You cannot book a computer by email. From the library computers. you can access the Internet. including web based e-mail. Computes also have word processing and desktop publishing software Installed. You can print items it you wish, at a small extra cost per sheet. In the children's section, there are 5 separate computers for use only by children under 14."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: E-Serve – The best website hosting in town",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-84-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People often fear starting a website for their business because of the expense and their own lack of______",
+          "answer": "(technical) knowledge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Constructing a website with E-Serve always begins with a fact-finding______",
+          "answer": "Consultations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "E-Serve can set up an e-commerce system for start-up businesses or______",
+          "answer": "Worldwide traders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Customers won't receive______as the pricing of hosting with E-Serve is transparent.",
+          "answer": "Unexpected charges",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One of E Serve's______can explain to potential customers what is needed in terms of e-Marketing.",
+          "answer": "(sales) executives",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Websites often need to be altered, due to the extremely______nature of business today.",
+          "answer": "Dynamic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Training and______on the E-Serve client interface does not cost clients anything.",
+          "answer": "Refresher courses",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "E-Serve – The best website hosting in town",
+        "text": "Having a website for a business today is a must, though some people shy away from it because they fear the expense and feel they are short of the technical knowledge. Here at E-Serve, we offer on affordable service and take care of all the specialised aspects, so you can focus on your business and products or services.\n\nMaking a Website We create everything you need for a professional website. We will start with a consultation with you to find out what you require. We will then create a mock-up, so you can see what things will look like before we carry on. After that, we will make your website, while constantly in contact with you, so that things end up the way you want them.\n\ne-Commerce Not every business operates their selling online, but if you want this option, we have lots of experience with setting up a system that will suit you. We can cover all types of business, from beginners to worldwide traders. Charging your package is easy, and we can help your systems change and grow as your business does.\n\nHosting With so many offers on the market it can be hard to make a choice. We have various transparent packages that you can choose from. We never lock you into a contract, so you can withdraw at any time or change your package without incurring any unexpected charges.\n\ne-Marketing Having a website, is not just about sticking a website onto the Web and waiting for the business to come to you. Operating a website on the Internet nowadays means marketing it hard through all aspects of social media, online PR and what is known as search engine optimisation. We can train you in all this or do a lot of it for you. It's a complex business, so contact one of our sales executives who can gin details on what you need to know and how exactly we can help you.\n\nClient Training Nowadays. businesses are tremendously dynamic and we understand that you will want to change your website from time to time. To save you having to ask us to change your website, we will train you to operate our systems, so that you can make the changes cheaply and when you want them. You won't need any knowledge of web design, coding or computer languages. You will just need to log into our client Interface and use our custom-made operating system to make your changes. Training will take place when your website is complete and refresher courses can be taken throughout the year. The training and refresher courses are all free of charge."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Calling in Sick",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-84-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "From when do employees begin to build up paid sack leave? ______",
+          "answer": "(their) first day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who should employees telephone if they are too sick to come to work? ______",
+          "answer": "(the) absence manager",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When will employees have to make up work if they call in sick at the weekend? ______",
+          "answer": "(the) following weekend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What must employees have acquired if the company is to put reasonable adjustments into place? ______",
+          "answer": "(any) disabilities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After how long can the company dismiss someone on long-term sickness? ______",
+          "answer": "8 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What organisation can be appealed to if employees feel they have been fired without cause? ______",
+          "answer": "(any) (employment) tribunal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Screw caps can create the perception of a lower class product. ______",
+          "answer": "MW",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Real corks even have a satisfying auditory effect on the person opening a bottle. ______",
+          "answer": "JC",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There is a worry that artificial cork may also affect a wine's flavour. ______",
+          "answer": "AD",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cork only became widely used when manufacturing methods were able to create uniformly sized bottles. ______",
+          "answer": "SM",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Used real corks can be recycle as shoes. ______",
+          "answer": "MB",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Real corks can sometimes negatively affect the flavour of the wine. ______",
+          "answer": "JC",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Even a single real cork can help protect the environment. ______",
+          "answer": "CW",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Using as much real cork as possible will ensure there is no shortage of the material. ______",
+          "answer": "JR",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Calling in Sick",
+        "text": "Everyone gets sick once in a while and we've issued these guidelines, so that you as an employee know what to do when this happens. All our staff accrue paid sick leave (PSL) from their first day. You will be able to use your accrued PSL as paid time off:\n\n• to deal with our own illness, injury or health conditions\n\n• to take care of a family member (including domestic partners) with an illness, injury or medical appointment You only need a sick note from a doctor after three days in a row of being sick (including weekends). M you are at just before or dunes your holiday, you can take it as sick leave instead. When you realise that you feel too sick to come to work, you should please call the absence manager as soon as you can. When talking to him/ her, briefly explain what you think is wrong with you and, if possible, when you might come back to work. If you can't get through to your line manager, write an email as soon as you can. It's important that we know you're sick as early as possible, so we can arrange cover for you to cope with urgent business that you would normally deal with. As our company operates at weekends, we have a policy that stales that if you call in sick at the weekend, you have to work the following weekend. This Is not to punish you, but only to cover the time of the worker who has to work to cover you. if you have developed any disabilities during your sickness, we are obliged to make reasonable adjustments to your work conditions, which could include shorter hours or adapting equipment. If you are off wort sick for more than four weeks, you will be considered long term sick. A long-term sick employee is still entitled to annual leave. After eight months, we can dismiss an employee who is long-term sick. but before we can do this, we must: • consider if you can return to work – e.g. working flexibly or part-time, doing different or less stressful work with training if necessary)\n\n• consult with you about when you could return to wort and if your health will improve You can take your case to an employment tribunal if you think you've been unfairly dismissed."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Passage Three",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-84-q36",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Choose FOUR letter A-H. Which of the following sentences below accurately describe information regarding cork given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cork does not allow any air at all to reach a bottle's contents"
+            },
+            {
+              "id": "B",
+              "text": "There is moisture in a cork that can lead to a wine bottle's contents being spoiled"
+            },
+            {
+              "id": "C",
+              "text": "Artificial corks closely resemble real corks"
+            },
+            {
+              "id": "D",
+              "text": "Wine producers have sent their product to university laboratories"
+            },
+            {
+              "id": "E",
+              "text": "Artificial cork use is becoming more popular with wine producers"
+            },
+            {
+              "id": "F",
+              "text": "Cork is no longer grown around the Mediterranean"
+            },
+            {
+              "id": "G",
+              "text": "Cork forests are good places for animals at risk of extinction to live"
+            },
+            {
+              "id": "H",
+              "text": "Cork is a difficult material to recycle"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q37",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Choose FOUR letter A-H. Which of the following sentences below accurately describe information regarding cork given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cork does not allow any air at all to reach a bottle's contents"
+            },
+            {
+              "id": "B",
+              "text": "There is moisture in a cork that can lead to a wine bottle's contents being spoiled"
+            },
+            {
+              "id": "C",
+              "text": "Artificial corks closely resemble real corks"
+            },
+            {
+              "id": "D",
+              "text": "Wine producers have sent their product to university laboratories"
+            },
+            {
+              "id": "E",
+              "text": "Artificial cork use is becoming more popular with wine producers"
+            },
+            {
+              "id": "F",
+              "text": "Cork is no longer grown around the Mediterranean"
+            },
+            {
+              "id": "G",
+              "text": "Cork forests are good places for animals at risk of extinction to live"
+            },
+            {
+              "id": "H",
+              "text": "Cork is a difficult material to recycle"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q38",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Choose FOUR letter A-H. Which of the following sentences below accurately describe information regarding cork given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cork does not allow any air at all to reach a bottle's contents"
+            },
+            {
+              "id": "B",
+              "text": "There is moisture in a cork that can lead to a wine bottle's contents being spoiled"
+            },
+            {
+              "id": "C",
+              "text": "Artificial corks closely resemble real corks"
+            },
+            {
+              "id": "D",
+              "text": "Wine producers have sent their product to university laboratories"
+            },
+            {
+              "id": "E",
+              "text": "Artificial cork use is becoming more popular with wine producers"
+            },
+            {
+              "id": "F",
+              "text": "Cork is no longer grown around the Mediterranean"
+            },
+            {
+              "id": "G",
+              "text": "Cork forests are good places for animals at risk of extinction to live"
+            },
+            {
+              "id": "H",
+              "text": "Cork is a difficult material to recycle"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q39",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Choose FOUR letter A-H. Which of the following sentences below accurately describe information regarding cork given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cork does not allow any air at all to reach a bottle's contents"
+            },
+            {
+              "id": "B",
+              "text": "There is moisture in a cork that can lead to a wine bottle's contents being spoiled"
+            },
+            {
+              "id": "C",
+              "text": "Artificial corks closely resemble real corks"
+            },
+            {
+              "id": "D",
+              "text": "Wine producers have sent their product to university laboratories"
+            },
+            {
+              "id": "E",
+              "text": "Artificial cork use is becoming more popular with wine producers"
+            },
+            {
+              "id": "F",
+              "text": "Cork is no longer grown around the Mediterranean"
+            },
+            {
+              "id": "G",
+              "text": "Cork forests are good places for animals at risk of extinction to live"
+            },
+            {
+              "id": "H",
+              "text": "Cork is a difficult material to recycle"
+            }
+          ],
+          "answer": [
+            "B",
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-84-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the best title for the passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A material for the future"
+            },
+            {
+              "id": "B",
+              "text": "Cork: A versatile material"
+            },
+            {
+              "id": "C",
+              "text": "The end of the line for cork"
+            },
+            {
+              "id": "D",
+              "text": "How cork is manufactured"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Passage Three",
+        "text": "Cooks have been used as bottle stoppers for as long as we have had wine. The Greeks in the fifth century BC sometimes used corks to close wine jugs. Following in their footsteps, the Romans also used the cork as a stopper and also coated corks with pitch to seal the closure. Cork was not immediately as successful as it is today and historian, Sally Marshall, explains why. \"Cork's success as a closure depends upon its fitting snugly into an opening with a relatively uniform diameter. Thus, it was not until the 17th century when glass bottles were first made with openings more or less the same size, that the cork truly came into its own\". Every time someone buys a bottle sealed with a natural cork stopper, they are helping to sustain one of the world's most biodiverse forests and protect an extraordinary ecosystem and industry. Using cork also helps protecting jobs. Jose Riverra, a Portuguese cork grower explains, \"While it might seem counterintuitive the best way to ensure that there is no shortage of cork is to use more cork. That is because the greater the demand for cork, the greater the economic incentive there will be to protect cork forests for future generations\". Cork's unique attributes make it a multipurpose material. Because it is composed of a honeycomb of microscopic cells, it is very light, easy to compress yet strong, impermeable to liquids and gases, adaptable to temperature and pressure, an insulator against moisture and noise, and resilient to fire. When it comes to preserving wine, cork allows just the right amount of oxygen to interact with the liquid, making it the perfect material to allow wine to age properly. Wine connoisseur, Jean Costaud, says it also adds to the wine experience. \"It's all to do with when the wine is opened. No artificial stopper can come close to reproducing the iconic 'pop' when the cork is removed\". With all the beneficial properties of corks as bottle closures, there is one significant defect. This is 'corkiness', a condition that exists when wine is tainted by the presence of a chemical compound called 2, 4, 6 – Trichloeoanisolle – TCA for short. This compound appears to be caused in the cork by the interaction of moisture, chlorine and mould that is always there. Corks are exposed to these elements during their production and TCA can form. Unfortunately, a human nose can detect this 'corkiness' at concentration as low as four parts per trillion! Jean Costaud explains the problem, \"A lightly corked wine may simply smell like cork, while a badly corked wine smells musty, like damp cardboard of old newspaper. The usual rich aroma and taste of the wine is stripped away by the musty odor\". Artificial corks and screw tops are the two main alternatives to natural wood corks. An artificial cork is made of ethylene vinyl acetate. It looks and feels like the real cork and a corkscrew is used to remove it from the bottle. It has two drawbacks: one is that if often fits so tightly in the bottle that it is very difficult to remove (a problem that will no doubt be resolved through research). American wine producer, Alice Deacon, is more interested in the second more technical problem. \"We want to know whether the synthetic material is truly non-reactive and inert over long periods of time. Will it impart any tastes of its own to the wine?\" Naturally wineries using these plastic corks are deliberately aging wines to see what happens, but it is too soon by several years to know the outcome. Nonetheless, more and more low and midrange producers are switching to an artificial cork. The screw cap provides an excellent air tight seal, although there is a question as to whether or not it will protect the wine over a very long period of time. The problem with the screw cap is psychological. Wine merchant, Mary Winters, sums up her clients' feelings. \"The image of a screw cap is firmly lodged in many minds as the epitome of cheap wine. Because of this many of the fine wine producers we deal with are sensitive to the fine wine market. They hesitate to switch to a screw cap, because they do not want their wine to be perceived as of inferior quality\". Supporters of cork publicise its environmentally friendly properties. The 6.6 million acres of cork oak forests in the Mediterranean Basin not only serve as a refuge for endangered species they also help reduce greenhouse emission. Environmentalist, Charles Wrathe, explains, \"It seems like a small thing, but every cork stopper represents a carbon offset of 113.5 grams\". Looked at differently, the 6.6 million acres of Mediterranean cork oaks capture approximately 14.4 million metric tons of carbon dioxide\". While waiting for the wine industry to make up its mind, cork has diversified in recent years, fashion designers and shoe manufacturers have started to use cork to create their signature footwear. Mike Baker, a CEO at a footwear company is a big fan. \"The transformation of used wine corks into durable and attractive footwear is an easy and elegant way to extend the lifecycle of this remarkable material while providing consumers with terrific and fashionable new product that literally lightens their carbon footprint\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "id": "pte-listening-60",
+  "title": "Listening — Practice Test 60",
+  "kind": "practice",
+  "description": "One recording, 30 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-60-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Item: ______",
+          "answer": "(photo) copier",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Length of time: ______",
+          "answer": "on going",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Starting: ______",
+          "answer": "immediately",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Reason 2: ______",
+          "answer": "original broken",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Reason 3: require ______",
+          "answer": "more functions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: ______",
+          "answer": "Mike Greene",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "fax machines ______",
+          "answer": "fax machines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "headphones ______",
+          "answer": "headphones",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "mobile phones ______",
+          "answer": "mobile phones",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(new) mouses ______",
+          "answer": "(new) mouses",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Arthur Island's summer population is",
+          "options": [
+            {
+              "id": "A",
+              "text": "7000"
+            },
+            {
+              "id": "B",
+              "text": "17000"
+            },
+            {
+              "id": "C",
+              "text": "22000"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The new bridge was completed in",
+          "options": [
+            {
+              "id": "A",
+              "text": "1971"
+            },
+            {
+              "id": "B",
+              "text": "1972"
+            },
+            {
+              "id": "C",
+              "text": "1974"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The island is particularly well known for its",
+          "options": [
+            {
+              "id": "A",
+              "text": "motor racing"
+            },
+            {
+              "id": "B",
+              "text": "seafood"
+            },
+            {
+              "id": "C",
+              "text": "native wildlife"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "There will be a stop-off at a",
+          "options": [
+            {
+              "id": "A",
+              "text": "worm farm"
+            },
+            {
+              "id": "B",
+              "text": "wildlife sanctuary"
+            },
+            {
+              "id": "C",
+              "text": "scenic lookout"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The tour price includes",
+          "options": [
+            {
+              "id": "A",
+              "text": "the wildlife park’s entrance fee"
+            },
+            {
+              "id": "B",
+              "text": "a meal at Reggie’s restaurant"
+            },
+            {
+              "id": "C",
+              "text": "tea and biscuits on the bus"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Wildlife park",
+          "options": [
+            {
+              "id": "A",
+              "text": "read other student's writing"
+            },
+            {
+              "id": "B",
+              "text": "proofread the essay"
+            },
+            {
+              "id": "C",
+              "text": "write text summaries"
+            },
+            {
+              "id": "D",
+              "text": "check the table of contents"
+            },
+            {
+              "id": "E",
+              "text": "produce graphs and tables"
+            },
+            {
+              "id": "F",
+              "text": "do theoretical research"
+            },
+            {
+              "id": "G",
+              "text": "compile the bibliography"
+            },
+            {
+              "id": "H",
+              "text": "analyse data"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Reggie's restaurant",
+          "options": [
+            {
+              "id": "A",
+              "text": "read other student's writing"
+            },
+            {
+              "id": "B",
+              "text": "proofread the essay"
+            },
+            {
+              "id": "C",
+              "text": "write text summaries"
+            },
+            {
+              "id": "D",
+              "text": "check the table of contents"
+            },
+            {
+              "id": "E",
+              "text": "produce graphs and tables"
+            },
+            {
+              "id": "F",
+              "text": "do theoretical research"
+            },
+            {
+              "id": "G",
+              "text": "compile the bibliography"
+            },
+            {
+              "id": "H",
+              "text": "analyse data"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Nature reserve",
+          "options": [
+            {
+              "id": "A",
+              "text": "read other student's writing"
+            },
+            {
+              "id": "B",
+              "text": "proofread the essay"
+            },
+            {
+              "id": "C",
+              "text": "write text summaries"
+            },
+            {
+              "id": "D",
+              "text": "check the table of contents"
+            },
+            {
+              "id": "E",
+              "text": "produce graphs and tables"
+            },
+            {
+              "id": "F",
+              "text": "do theoretical research"
+            },
+            {
+              "id": "G",
+              "text": "compile the bibliography"
+            },
+            {
+              "id": "H",
+              "text": "analyse data"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bicycle-hire shops",
+          "options": [
+            {
+              "id": "A",
+              "text": "read other student's writing"
+            },
+            {
+              "id": "B",
+              "text": "proofread the essay"
+            },
+            {
+              "id": "C",
+              "text": "write text summaries"
+            },
+            {
+              "id": "D",
+              "text": "check the table of contents"
+            },
+            {
+              "id": "E",
+              "text": "produce graphs and tables"
+            },
+            {
+              "id": "F",
+              "text": "do theoretical research"
+            },
+            {
+              "id": "G",
+              "text": "compile the bibliography"
+            },
+            {
+              "id": "H",
+              "text": "analyse data"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Main souvenir shops",
+          "options": [
+            {
+              "id": "A",
+              "text": "read other student's writing"
+            },
+            {
+              "id": "B",
+              "text": "proofread the essay"
+            },
+            {
+              "id": "C",
+              "text": "write text summaries"
+            },
+            {
+              "id": "D",
+              "text": "check the table of contents"
+            },
+            {
+              "id": "E",
+              "text": "produce graphs and tables"
+            },
+            {
+              "id": "F",
+              "text": "do theoretical research"
+            },
+            {
+              "id": "G",
+              "text": "compile the bibliography"
+            },
+            {
+              "id": "H",
+              "text": "analyse data"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Liz ______ Gather facts Begin writing essay Proofread graphs and tables",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sam Interview people ______ Draw conclusion and design essay structure (23) ______ (24) ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sam Interview people (22) ______ Draw conclusion and design essay structure ______ (24) ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sam Interview people (22) ______ Draw conclusion and design essay structure (23) ______ ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "colored paper ______",
+          "answer": "colored paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "easy money ______",
+          "answer": "easy money",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "limit ______",
+          "answer": "limit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "signature ______",
+          "answer": "signature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "department stamp ______",
+          "answer": "department stamp",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "contact details ______",
+          "answer": "contact details",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Movies are very influential because of their ______",
+          "answer": "popularity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In crime movies, the message given is that crime has ______",
+          "answer": "bad outcomes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "American movies are graded by a ______",
+          "answer": "trade association",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Violence is allowed in war movies which are ______",
+          "answer": "realistic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– designed for the whole ______",
+          "answer": "community",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "PG – movie contains some violence, suggestive humour or ______",
+          "answer": "scary scenes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– allows movies to show real ______",
+          "answer": "society",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– can maximize ______",
+          "answer": "viewership",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– some scenes are especially ______",
+          "answer": "graphic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-60-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– such movies made and shown by people ______",
+          "answer": "independent",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/60_we.mp3"
+    }
+  ]
+}

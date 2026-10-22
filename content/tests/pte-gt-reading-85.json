@@ -1,0 +1,829 @@
+{
+  "id": "pte-gt-reading-85",
+  "title": "General Training Reading — Practice Test 85",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Hardley Health Car Boot Sale",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-85-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Bookings are not possible ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Sleeping takes place with other people in the room ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Working in the city centre is necessary ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Check the website for deals ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A representative can visit ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Guests can cook themselves ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Dining takes place next to the water's edge ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The car boot sale is easily reached by public transport.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The car boot sale is cancelled in bad weather.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sellers must finish and leave by 2.30 pm.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sellers with a lot to sell can bring a truck at extra charge.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The website provides any latest news regarding the car boot sale.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who walk to the car boot sale will not be charged for entry.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Activities for children are available.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Hardley Health Car Boot Sale",
+        "text": "The Hardley Health Car Boot Sale is one of the largest in the area. Join us on every Sunday morning of the year to buy or sell at Hardley Health Arena. Surrounded by beautiful terraced amphitheatres and extensive areas of secure car parking, the multi-functional and all weather Hardley Health Arena is the all purpose open air arena complex. The Hardley Health Arena has easy access from different roads for drivers and the number 76 bus stops right outside. For the uninitiated, a car boot sale is when ordinary people clear out things they don't want any more, put them in the car boot and then sell the contents to the public. It is a great way to get rid of things and make money as a seller and to find bargains if you are a buyer. Open every Sunday, from 15th March to 15th December, rain, shine or snow!\n\nFor sellers\n\nOpen for setting up from 5 am\n\nTry and be with us by 6.30 am\n\n£10 per car\n\n£15 per van\n\nNo lorries, please\n\nNo reservation required\n\nHot food and drinks available from 5.30 am\n\nFor buyers/ borrowers\n\nOpen from 7 am\n\nParking for 5000 cars (50p per car/ motorbike)\n\nOn foot no charge\n\nHot food and drinks available all day\n\nSupervised fun and games area for kids\n\n(A) recent review from our website: \"Great, great, great! Would not miss it – every Sunday I am there without fail and always come away with a bargain\"."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Eastways Courier Services",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-85-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What features of the Eastways package Label allows a package or letter to be tracked? ______",
+          "answer": "(the) (bar) code",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is offered to sliver customers if they pass their monthly limit? ______",
+          "answer": "(considerable) discounts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How many letters can be delivered for free with Eastways' gold service? ______",
+          "answer": "Unlimited (numbers)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who will discuss the specialised service offered for online traders? ______",
+          "answer": "(a) sales executive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What factor influences the changes In Eastways' prices? ______",
+          "answer": "Fuel price fluctuations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What are readers advised to find on Eastways' website? ______",
+          "answer": "Recommendations",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Eastways Courier Services",
+        "text": "Eastways offers the most flexible and cost-effective courier service on the market today. We can pick up a package from your premises or you can drop things off at any of our centres, which are manned 24 hours a day. You can prepare and pay for any of the parcels that you want to send at your offices or at home. All you need to do is to log in to our website and fill in the package and receiver details. The fee is calculated automatically and charged to your account. You can pay by credit card if you don't have an account yet. You then just need to print out the label and stick it on the package. The bar code on the label will be scanned every time your package is moved and in this way you can track your package 24 hours a day and know exactly where it is and what its status is.\n\nBronze Service 20 letters or packages free of charge of weight up to 20 kilograms; discounts on national and international pick-ups and deliveries when 20 letters or packages are passed.\n\nSilver Service 50 letters or packages free of charge of weight up to 20 kilograms (discounts on weights over this); considerable discounts on national and international pick-ups and deliveries when 50 letters or packages are passed.\n\nGold Service Unlimited numbers of letter and packages of weight up to 20 kilograms (considerable discounts on weights over this); at pick-ups and deliveries free of charge for national and international deliveries.\n\nOnline Trader Service Successful business that sell online require a specialised, efficient and cost-effective service. To receive a bespoke service, call 0300 654 112 to discuss your requirements with a sales executive on our team. Our service can include dedicated daily pick-ups, weekend pickups and specialised bulk discounts. Please consult our website for current details of our price lists. Prices vary considerably due to fuel price fluctuations and our costs and charges are updated regularly to reflect rises and drops. Check our website for recommendations from hundreds of satisfied businesses in your area."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: MediaWork PLC – Security for New Staff",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-85-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Send a digital passport photo for the ID card. Keep the ______",
+          "answer": "Receipt",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Get the ID card from ______and wear it around my neck with its green cord",
+          "answer": "Reception",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• ______the card at the entrance – this keeps track of all employees' time in the building",
+          "answer": "Swipe",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Report to my department and then attend the ______in the 10th floor meeting room. Sign the (25) ______regarding the company using tracking cameras and software",
+          "answer": "(security) briefing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Report to my department and then attend the (24) ______in the 10th floor meeting room. Sign the ______regarding the company using tracking cameras and software",
+          "answer": "Waiver",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Go to the IT department on the 3rd floor to get the necessary ______call IT if there are ever any problem with these",
+          "answer": "Passwords",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Check and sign the ______in my department",
+          "answer": "Visitors' policy",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "MediaWork PLC – Security for New Staff",
+        "text": "Welcome to your new job at MediaWork. In order to ensure your personal security and the security of the company, we ask you to read, take note of, and act on the information below. First, we require a passport sized digital photo for your company ID card. Please email us one as soon as possible. If you have to pay for one, please retain the receipt so that you can be reimbursed. When you arrive for your first day at work, please go to reception. They will be expecting you and will issue you with your ID card. The card has a long green cord attached to it. Please wear the ID card around your neck at all tunes whilst In the company building. In this way it's easy to spot anyone who should not be in the building. After you receive your ID card and every time you enter or leave the company building, please swipe your card on the reader at the entrance. The reader is at chest level for people who already have the cards around their necks. The swiping of your card allows the company to track your working hours, so that they can correctly assess any overtime or flexitime that you do. It also allows the company to know who is in the building at any one time, in case there is a fire practice or emergency. After you have reported to your department, your first day induction well begin with a security briefing. This will let you know about various security procedures that are necessary in our company. This will take place in the meeting room on the 10th floor. During it, you will be asked to endorse a waiver, allowing us to monitor your movements around the building on our CCTV system and your movements on the Internet. Our systems are designed to cover all people's movements around the building for security purposes and they are not designed to single out you or any other individual. After your security briefing, please go to the IT department on the 3rd floor. The IT people will assign you all the passwords that you will need to operate our systems. Please commit these to memory as soon as you can. If you feel that any of your passwords are compromised, let the IT department know as soon as possible, so that they can cancel them and issue new ones. Finally, on return to your department, you will be asked to read and initial our visitors' policy. We all have visitors from time to time and your visitors must be met at reception by you, so that you can sign them in. Visitors will be issued a visitors' card which has a bright blue cord that must be worn around their necks for easy identification."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: A History of Bread",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-85-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "A key ingredient"
+            },
+            {
+              "id": "ii",
+              "text": "Bread as an industry"
+            },
+            {
+              "id": "iii",
+              "text": "South American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Techniques spread"
+            },
+            {
+              "id": "v",
+              "text": "A time of change"
+            },
+            {
+              "id": "vi",
+              "text": "Taxes affect trade"
+            },
+            {
+              "id": "vii",
+              "text": "The ancient process"
+            },
+            {
+              "id": "viii",
+              "text": "The essential process"
+            },
+            {
+              "id": "ix",
+              "text": "New recipes"
+            },
+            {
+              "id": "x",
+              "text": "Respect for a skill"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Few mainland European countries today favour the craft style bread made by independent bakeries.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The first leavening effects were done accidentally.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Romans were responsible for one of today's favoured types of bread.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Pasteur's work in the 19th century allowed bread to be manufactured more cheaply.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dough made with flour, water and yeast______in the mixture produce sugars from the starch.",
+          "answer": "Enzymes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-85-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Dough rises because of the______released by the liquid formed.",
+          "answer": "Carbon dioxide",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "A History of Bread",
+        "text": "(A) Although bread is not a staple food in all countries around the world, it is in many and in others it is of great importance. As an example, the UK bakery market is worth £3.6 billion annually and is one of the largest markets in the food industry. Total volume at present is approximately just under 4 billion units, the equivalent of almost 11 million loaves and packs sold every single day. There are three principal sectors that make up the UK baking industry. The larger baking companies produce around 80% of bread sold in the UK. In store bakeries within supermarkets produce about 17% and high street retail craft bakers produce the rest. In contrast to the UK, craft bakeries still dominate the market in many mainland European countries. This allows genuine craftspeople to keep alive and indeed develop skills that have been passed on for thousands of years.\n\n(B) Recent evidence indicates that humans processed and consumed wild cereal grains as far back as 23,000 years ago. Archaeologists have discovered simple stone mechanisms that were used for smashing and grinding various cereals to remove the inedible outer husks and to make the resulting grains into palatable and versatile food. As humans evolved, they mixed the resulting cracked and ground grains with water to create a variety of foods from this gruel to a stiffer porridge. By simply leaving the paste to dry out in the sun, a bread like crust would be formed. This early bread was particularly successful, when wild yeast from the air combined with the flour and water. The early Egyptians were curious about the bread 'rising' and attempted to isolate the yeast, so that they could introduce it directly into their bread. Bakers experimented with leavened doughs and through these experiments Egyptians were the first to uncover the secret of yeast usage. Hence, the future of bread was assured.\n\n(C) As travellers took bread making techniques and moved out from Egyptian lands, the art began spreading to all parts of Europe. A key civilisation was the Romans, who took their advanced bread techniques with them around Europe. The Romans preferred whiter bread, which was possible with the milling processes that they had refined. This led to white bread being perceived as the most valuable bread of them all, a preference that seems to have stuck with many people. The Romans also invented the first mechanical dough-mixer, powered by horses and donkeys.\n\n(D) Both simple, yet elusive, the art of controlling the various ingredients and developing the skills required to turn grain and water into palatable bread, gave status to individuals and societies for thousands of years. The use of barley and wheat led man to live in communities and made the trade of baker one of the oldest crafts in the world.\n\n(E) Before the Industrial Revolution, millers used windmills and watermills, depending on their locations, to turn the machinery that would grind wheat to flour. The Industrial Revolution really moved the process of bread making forwards. The first commercially successful engine did not appear until 1712, but it wasn't until the invention of the Boulton and Watt steam engine in 1786 that the process was advanced and refined. The first mill in London using the steam engines was so large and efficient that in one year in could produce more flour than the rest of the mills in London put together. In conjunction with steam power, a Swiss engineer in 1874 invented a new type of mill. He designed rollers made of steel that operated one above the other. It was called the reduction roller milling system, and these machines soon became accepted all over Europe.\n\n(F) Since Egyptian times, yeast has been an essential part of bread making around the world, but yeast was not really understood properly until the 19th century. It was only with the invention of the microscope, followed by the pioneering scientific work of Louis Pasteur in the late 1860s, that yeast was identified as a living organism and agent responsible for dough leavening. Shortly following these discoveries, it became possible to isolate yeast in pure culture form. With this newfound knowledge the stage was set for commercial production of baker's yeast and this began around the turn of the 20th century. Since that time, bakers, scientists and yeast manufacturers have been working to find and produce pure strains of yeast that meet the exacting and specified needs of the baking industry.\n\n(G) The basics of any bread dough are flour, water and of course yeast. As soon as these ingredients are stirred together, enzymes in the yeast and the flour cause large starch molecules to break down into simple sugars. The yeast metabolises these simple sugars and exudes a liquid that releases carbon dioxide into the dough's minute cells. As more and more tiny cells are filled, the dough rises and leavened bread is the result."
+      }
+    }
+  ]
+}

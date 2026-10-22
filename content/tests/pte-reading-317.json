@@ -1,0 +1,806 @@
+{
+  "id": "pte-reading-317",
+  "title": "Academic Reading — Practice Test 317",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Do animals dream?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-317-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "· similar brain patterns were observed when active and sleepingindicative of dreaming ______",
+          "answer": "Rats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Pigeons· when sleeping, pigeons displayed activity in parts of the brain that deal with ______ inputmay have been dreaming of flying",
+          "answer": "Visual",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Whales and dolphins· still have ______their brain awake when they sleep",
+          "answer": "Half",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "· don't experience REM sleep, as this could affect their sensitivity to ______ …their dreams are probably not very (5) ______",
+          "answer": "Temperature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "· don't experience REM sleep, as this could affect their sensitivity to (4) …their dreams are probably not very ______",
+          "answer": "Vivid",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dreaming about past experiences helps us to create lasting memories of them.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is now possible to tell what type of dream a dog is having.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "David Scheel's documentary was influential on other research into the sleeping patterns of octopuses.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "While it was asleep, the octopus called Costello reacted as if it was hunting.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Scheel believes more research into octopuses' dreams should be carried out.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "We may soon be able to share the dreams of other human beings.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Hearing may be an important part of the dreams of some animals.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Interest in the reasons why humans dream has increased greatly in recent times. Mapungubwe Located in southern Africa just below the Limpopo River, the kingdom of Mapungubwe, flourished between the 11th and 13th century CE",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a mention of the uncertainty regarding the purpose of certain objects",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the likelihood that a climatic factor increased the problems Mapungubwe faced",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            },
+            {
+              "id": "F",
+              "text": "equality"
+            },
+            {
+              "id": "G",
+              "text": "framework"
+            },
+            {
+              "id": "H",
+              "text": "confidentiality"
+            },
+            {
+              "id": "I",
+              "text": "approval"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a mention of the location where members of the king's family are thought to have lived",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to people who brought goods by ship",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an estimate of the size to which the Mapungubwe community grew",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a mention of agricultural produce being exchanged for other items",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q20",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q21",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "The archaeological record reveals information about gold and the kingdom of Mapungubwe. Which TWO pieces of information are mentioned by the writer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Not everyone in Mapungubwe used gold as a form of payment."
+            },
+            {
+              "id": "B",
+              "text": "Items of gold were placed close to where Mapungubwe kings were buried."
+            },
+            {
+              "id": "C",
+              "text": "The most valuable item discovered in Mapungubwe was a sceptre made of gold."
+            },
+            {
+              "id": "D",
+              "text": "The way gold was decorated in Mapungubwe was also practised in another kingdom."
+            },
+            {
+              "id": "E",
+              "text": "Working with gold was a respected occupation in the Mapungubwe community."
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mapungubwe community's ______ is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, (23) ______ and figures of various animals, as well as models of people with stretched (24) ______ It is possible that these had a role in ceremonies to honour (25) ______ In addition, pieces of (26) ______ made from a local metal have been found at the site.",
+          "answer": "Prosperity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mapungubwe community's (22) ______ is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, ______ and figures of various animals, as well as models of people with stretched (24) ______ It is possible that these had a role in ceremonies to honour (25) ______ In addition, pieces of (26) ______ made from a local metal have been found at the site.",
+          "answer": "Whistles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mapungubwe community's (22) ______ is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, (23) ______ and figures of various animals, as well as models of people with stretched ______ It is possible that these had a role in ceremonies to honour (25) ______ In addition, pieces of (26) ______ made from a local metal have been found at the site.",
+          "answer": "Bodies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mapungubwe community's (22) ______ is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, (23) ______ and figures of various animals, as well as models of people with stretched (24) ______ It is possible that these had a role in ceremonies to honour ______ In addition, pieces of (26) ______ made from a local metal have been found at the site.",
+          "answer": "Ancestors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mapungubwe community's (22) ______ is indicated by the amount of professionally made pottery discovered at the site. Many of these objects, such as beakers and bowls, are highly decorated and have been marked with stamps. Other finds include round ceramic objects, (23) ______ and figures of various animals, as well as models of people with stretched (24) ______ It is possible that these had a role in ceremonies to honour (25) ______ In addition, pieces of ______ made from a local metal have been found at the site.",
+          "answer": "Jewellery",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Do animals dream?",
+        "text": "Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate throughout the night. The first is rapid eye movement (REM) or active sleep. During this stage our eyes move, even though our eyelids are closed. Our muscles also twitch slightly, though they are largely paralysed so we don't hurt ourselves. In contrast, we also engage in non-REM sleep, during which we barely move at all. Most dream states, and certainly those with the most vivid dreams, happen during REM sleep. There's some evidence that other mammals may also dream. For example, researchers compared the brain patterns of rats running through a maze when awake with their brain patterns during REM sleep. They found the patterns were very similar and concluded that the sleeping rats were dreaming about going through the maze. But finding evidence of dreaming in non-mammals has proved more difficult. Their brains are very different from those of humans, and it can often be difficult to record their activity while they are sleeping. Recently, however, researchers succeeded in recording brain activity in sleeping pigeons. As in mammals, the recordings revealed both REM and non-REM sleep. Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons were dreaming about. That said, dreaming and REM sleep are unlikely to be universal in the animal kingdom. For example, sponges don't have brains, so they lack the machinery for dreaming. There are also some animals with unusual sleep patterns. These include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake. They also show no sign of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid. This is surprising because we tend to think of whales and dolphins as having complex inner lives. It's thought that they don't experience REM sleep because during REM sleep animals are more vulnerable to extremes of temperature. Nevertheless, in many cases REM sleep does seem to have benefits. Growing evidence from birds and mammals suggests that REM sleep and dreaming are important for forming memories and learning. It is believed that when events are replayed in dreams, this helps to integrate memories into longer-term storage. As soon as animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles. However, we still don't understand how this outward behaviour relates to internal experience. It seems impossible to know what it is like to be a rat or a pigeon, let alone imagine their dreamscapes. We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with that. Another non-human dreamer offers insight here. In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA housed an octopus named Heidi in a tank in his living room. At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she was pursuing a crab. Similarly, a report recently emerged of a sleeping octopus apparently having a nightmare. Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he were being attacked by a predator. The nightmare study is intriguing, says Scheel, but is only based on one animal. He argues that as well as outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams. The trouble is that we will never be able to experience any animal's dreams. That goes for other humans' dreams too. But we can try to imagine what these dreamscapes are like by meeting animals on their own terms. For example, vision is the dominant sense for many humans, and so our dreams are heavily visual too. Dogs primarily navigate the world using smell while spiders rely much more on vibrations. It is likely that dreaming has served multiple purposes since the first complex animals evolved. And if this is the case, it is possible that better understanding of these purposes might shed light on the true purpose of our own dreams."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Artificial Intelligence",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-317-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the first paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "predicting the future impact of Al"
+            },
+            {
+              "id": "B",
+              "text": "describing a public perception of Al"
+            },
+            {
+              "id": "C",
+              "text": "outlining some possible benefits of Al"
+            },
+            {
+              "id": "D",
+              "text": "highlighting the breadth of the influence of Al"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When discussing Al solutionism in the second paragraph, the writer",
+          "options": [
+            {
+              "id": "A",
+              "text": "points out a risk involved."
+            },
+            {
+              "id": "B",
+              "text": "specifies its probable origins."
+            },
+            {
+              "id": "C",
+              "text": "mentions its chief supporters."
+            },
+            {
+              "id": "D",
+              "text": "weighs up some pros and cons."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the fourth paragraph, the writer suggests that many politicians may",
+          "options": [
+            {
+              "id": "A",
+              "text": "have failed to appreciate the true potential of Al initiatives."
+            },
+            {
+              "id": "B",
+              "text": "have misunderstood the function of the machine-learning sector."
+            },
+            {
+              "id": "C",
+              "text": "be unaware of the challenges of implementing national Al initiatives."
+            },
+            {
+              "id": "D",
+              "text": "be too keen to enter the race to dominate the machine-learning sector."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neural networks are a promising area of A! technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most public sector organisations have not set up the necessary ______ to manage the huge amount of data required to enable Al to function. Complex bureaucracy is another issue, as each person involved needs (32) ______ to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the (33) ______ to take full advantage of machine intelligence.",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most public sector organisations have not set up the necessary (31) ______ to manage the huge amount of data required to enable Al to function. Complex bureaucracy is another issue, as each person involved needs ______ to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the (33) ______ to take full advantage of machine intelligence.",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most public sector organisations have not set up the necessary (31) ______ to manage the huge amount of data required to enable Al to function. Complex bureaucracy is another issue, as each person involved needs (32) ______ to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the ______ to take full advantage of machine intelligence.",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The medical profession experimented with an Al programme, but their experts had little faith in its ______ , and the programme was abandoned. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing (35) ______ within the legal profession.",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The medical profession experimented with an Al programme, but their experts had little faith in its (34) ______ , and the programme was abandoned. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing ______ within the legal profession.",
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Artificial Intelligence",
+        "text": "In many countries in the West, hysteria about the future of artificial intelligence (AI) is everywhere. There seems to be no shortage of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity. Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated every aspect of society. While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be best described as AI solutionism'. This is the philosophy that, given enough data, machine learning algorithms can solve all of humanity's problems. But, in fact, instead of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity. In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world. The pendulum has swung from the dystopian notion that AI will destroy humanity to the utopian belief that our algorithmic saviour is here. We are now seeing governments pledge support to national AI initiatives and compete in a technological race to dominate the burgeoning machine-learning sector. While many politicians proclaim the transformative effects of the coming AI revolution', they fail to realise the complexity around deploying advanced machine learning systems in the real world. One of the most promising varieties of AI technologies are neural networks. This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a much smaller scale. But what many politicians do not understand is that simply adding a neural network to a problem will not automatically mean that you'll find a solution. Similarly, adding a neural network to a system of government does not mean it will be instantaneously more inclusive or fair. AI systems need a lot of data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning. Most of the data remains stored in offline archives. The few digitised sources of data that exist tend to be buried in bureaucracy. More often than not, data is spread across different government departments that each require special permissions to be accessed. Above all, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence. For these reasons, the sensationalism over AI has attracted many critics. Stuart Russell, a professor of computer science at the University of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots. Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'. One of the many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks. This means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions. Many researchers have warned against the rolling out of AI without appropriate security standards and defence mechanisms. Still, AI security remains an often overlooked topic when machine learning systems are installed. If we are to reap the benefits and minimise the potential harms of AI, we must start thinking about how machine learning can be meaningfully applied to specific areas of government, business and society. This means we need to have a discussion about AI ethics and the distrust that many people have towards machine learning. Most importantly, we need to be aware of the limitations of AI and where people still need to take the lead. Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and separate the actual technological capabilities of AI from fantasy. The medical profession has also recognised the drawbacks to AI. The IBM Watson for Oncology programme was a piece of AI that was meant to help doctors treat cancer. Even though it was developed to deliver the best recommendations, human experts found it hard to trust the machine. As a result, the AI programme was abandoned in most hospitals where it was trialled. Similar difficulties arose in the legal domain when algorithms were used in courts in the US to sentence criminals. An algorithm calculated risk assessment scores and advised judges on the sentencing. The system was found to amplify structural racial discrimination and was later abandoned. There are some crucial lessons here for everyone aiming to boost investments in national AI programmes. These examples demonstrate that there is no AI solution for everything. Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by applying machine intelligence to it. All solutions come with a cost and not everything that can be automated should be."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: AS in government, medicine and the law",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-317-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Stuart Russell's proposals regarding the use of Al are impractical.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rodney Brooks' view has attracted unfair criticism from supporters of Al.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nowadays, the need to protect Al systems is always taken into account when they are set up.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In order to benefit from Al and minimise the harms, we have to explore people's concerns about its use.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-317-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What would be a suitable subtitle for reading passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "How to make the most of what Al has to offer"
+            },
+            {
+              "id": "B",
+              "text": "Why Al may not be the answer to our problems"
+            },
+            {
+              "id": "C",
+              "text": "Why governments should not invest in Al systems"
+            },
+            {
+              "id": "D",
+              "text": "How Al could improve the efficiency of the public sector"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "AS in government, medicine and the law",
+        "text": "Neural networks are a promising area of A! technology for governments. However, many politicians overestimate their capabilities, believing that the mere addition of a neural network will produce solutions and promote (30) ……………… Most public sector organisations have not set up the necessary (31) ……………. to manage the huge amount of data required to enable Al to function. Complex bureaucracy is another issue, as each person involved needs (32) ………………………………. to access the relevant data, which is often spread across different departments. But the main problem is that few public sector employees have the (33) ………………………………. to take full advantage of machine intelligence. The medical profession experimented with an Al programme, but their experts had little faith in its (34) ………… , and the programme was abandoned. US courts also abandoned the use of algorithms when it was found that these reflected and magnified the existing (35) …………….. within the legal profession.\n\nA reliability\n\nB funding\n\nC skills\n\nD prejudices\n\nE computers\n\nF equality\n\nG framework\n\nH confidentiality\n\nI approval"
+      }
+    }
+  ]
+}

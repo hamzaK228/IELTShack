@@ -1,0 +1,784 @@
+{
+  "id": "pte-gt-reading-43",
+  "title": "General Training Reading — Practice Test 43",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Evening Courses",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-43-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "After taking this course, participants will be able to teach their skill to others. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Participants will be expected to prepare at home for each class. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Certain materials will be included in the course fee. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course aims to teach people to prepare meals for guests. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will help participants to make the best use of a certain item. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course is for people who want to do more than follow instructions. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Following this course should improve participants health. Read the text and answer Questions 6-14. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Evening Courses",
+        "text": "(A) Cooking for today These are classes for those of you who can already make basic meal by keeping strictly to a simple recipe, but who would now like to use your imagination as well. We 'll learn how to make great family meals , discovering how to develop basic recipes into personal creations, with a few tricks and tips to help you become more confident.\n\n(B) Entertaining the easy way This course has plenty of ideas and tips for special occasions that you can enjoy preparing, love eating and be proud to provide. The recipes are adaptable to needs and lifestyle, building on your current skills and aimed at developing your own cooking style.\n\n(C) Cooking for the family Keen to make better food for your kids? This course is for parents who want to learn how to make fun food with the aim of showing their kids how to cook later at home. We'll learn plenty of tasty tips for snacks and picnics, family favourites, and dishes with fresh fruit and vegetables so that you and your family can get really fit and well and enjoy your food.\n\n(D) Jewellery making This course aims enable students to create silver jewellery. You first project will be make a silver ring and then you will have an opportunity to create another piece of your design. This is an introductory course. Base metals are supplied free. Please wear suitable workshop clothing and bring a notebook and pen.\n\n(E) Photography This course will allow you to take full advantage of your digital camera. Covering portrait, landscape and still-life photography, the classes will include effective use of lenses and lighting. To really benefit from the course, learners should have time to read ahead between sessions.\n\n(F) Creative writing Come and learn how to have fun with stories and other kinds of creative writing We will try out some new ideas and techniques for improving style and waking up the imagination , Writers who have not taken the foundation class will also be able to join , Provided they already have some experience of the subject."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: The Bike Foundry",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-43-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Bike Foundry sells only second-hand bicycles.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All the training sessions are held at the Bike Foundry.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Bike Basics course is aimed at new cyclists.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Snacks are provided for participants on the maintenance training courses.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Members of the Tool Club have access to cycle reference books.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most of the participants on the Cycling Training courses are beginners.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People can cancel their place on a training course one week before it begins and still get their money back.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The Bike Foundry",
+        "text": "The Bike Foundry aims to promote cycling, and to make an environmentally-friendly means of transport and leisure available to as many people as we can.\n\nOur Bikes All our bikes are hand-restored by our team and come with a three month's guarantee. We stock bikes to suit different needs, at affordable prices. We gratefully accept donations of unwanted bikes.\n\nTraining We offer maintenance and cycle training to schools and small groups on their own premises. Additionally we provide training to individuals and groups in our workshops.\n\nMaintenance Training\n\nBike Basics This is a three-hour course which will teach you everything you need to know to keep on top of simple maintenance issues like looking after brakes and gears and how to repair a puncture. By the end of the course you'll know how to take good care of your bike.\n\nHome Mechanics This twelve-hour course consists of teaching you how to use specialist tools and how to fit compatible replacement parts. It's aimed at those who have completed Bike Basics or have some prior knowledge. Courses are run regularly for groups of up to four trainees. We use professional mechanics' tools and employ experienced staff. Most importantly, we have tea- and coffee-making facilities and a fridge where participants can keep their sandwiches, etc. Unfortunately our training room is up a flight of stairs. For £10 a year you can join our Tool Club. Membership gives you access to our workshop for one evening a week. If you want to repair your bike and know how to fix it, but lack specialist tools, then join our club. There's a range of reference manuals available and a mechanic to offer advice.\n\nCycling Training Our qualified instructors can teach you how to ride your bike, whether you have had prior experience or not. If you're already riding and would like to build your confidence, we can teach you safe techniques to negotiate traffic.\n\nBooking Information\n\nTo book a place, email training@bikefoundry.org We ask for a 50% deposit to confirm your place, refundable up to seven days before the course."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Red Guava",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-43-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The hospital provides benefits to show its recognition of the______ of staff to its work.",
+          "answer": "Contribution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Financial benefits include pay for staff who are______or on maternity leave.",
+          "answer": "Sick",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "are available for staff who wish to buy a home. ______",
+          "answer": "Loans",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Helping staff with their work-life balance is not restricted to______",
+          "answer": "Parents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The hospital has______that are designed to help staff return to work after a long absence.",
+          "answer": "Policies/Schemes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The facilities on hospital premises include a large area for______",
+          "answer": "Parking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The cost of______is reduced by using the Red Guava scheme. Read the text on below page and answer Questions 22-27.",
+          "answer": "Holidays",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Red Guava",
+        "text": "This is a further discount benefit, which is available to employees of Hamberton. Red Guava provides discounts on holidays, for example, and can save you money in many other ways too."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Performance-related pay",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-43-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One of the reasons for introducing performance-related pay is in order to ______existing employees",
+          "answer": "Retain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employer and employee should agree on some ______that can be measured",
+          "answer": "Targets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Short-term schemes: bonus or the payment of a ______related to sales",
+          "answer": "Commission",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Long-term reward schemes: generally offered to employees at a ______level",
+          "answer": "Senior",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• keep records of any relevant ______",
+          "answer": "Meetings/letters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is illegal for employers to discriminate against any specific group, e.g. by giving less money to ______",
+          "answer": "Women",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "II",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Performance-related pay",
+        "text": "There are a number of reasons why your employer might introduce this type of pay scheme. They may:\n\n• be keen to retain current staff\n\n• want to compete for new talent • be seeking a fairer way of distributing wages. In order for performance-related schemes to work they should be based on clear, measurable targets agreed by both employer and employee. You will normally find out about these targets from your contract of employment and the performance appraisal meetings you have with your manager.\n\nShort-term schemes Short-term schemes usually offer bonus payments, or, depending on the type of work, commission on sales achieved. Payments vary and these schemes are normally used just to encourage staff to improve their own performance.\n\nLong-term schemes Long-term schemes offer rewards like share options, and can help to encourage loyalty to the organisation and its aims. Such schemes tend to be used as a way of retaining senior staff.\n\nWhat to do if you have problems If you don't receive bonus or commission payments which you believe you are owed, check your contract of employment or staff handbook to see how your bonus is paid. Ask your employer if you need more information.\n\nIf you think a mistake has been made, you should:\n\n• speak to your employer to see if there has been a misunderstanding\n\n• ask your employer to set out in writing how they have calculated your pay • keep copies of any letters and notes of any meetings.\n\nThere are three ways that the law might cover a case of unpaid bonuses:\n\n• breach of contract\n\n• unlawful deductions from wages • unlawful discrimination.\n\nDeductions from wages / breach of contract Any right to a bonus will normally be included in your contract of employment. It may not always be written down. It can be verbally agreed or understood to be there due to normal practice in your particular area of business. Failure to pay a bonus or commission that you are entitled to could amount to an unlawful deduction of wages.\n\nDiscrimination Your employer must not discriminate against particular groups of people – for example, by giving smaller bonuses to women. Ideally your employer should have some guidelines setting out the normal range of bonuses to give, and these must be followed without discriminating against any specific group."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Marine Ecosystems",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-43-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Boris Worm's main concern is that",
+          "options": [
+            {
+              "id": "A",
+              "text": "marine ecosystems will completely break down."
+            },
+            {
+              "id": "B",
+              "text": "insufficient attention is being paid to fish numbers."
+            },
+            {
+              "id": "C",
+              "text": "there will no longer be enough seafood for people to eat."
+            },
+            {
+              "id": "D",
+              "text": "politicians will be unwilling to discuss marine resources."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What point does John Shepherd make?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Marine conservation areas are not high on the list of visitor attractions."
+            },
+            {
+              "id": "B",
+              "text": "People know very little about how different species actually live."
+            },
+            {
+              "id": "C",
+              "text": "The public are much less likely to help unattractive creatures."
+            },
+            {
+              "id": "D",
+              "text": "The marine environment was better understood in the past."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following best summarises the text as a whole?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Scientists disagree about the state of the world’s oceans."
+            },
+            {
+              "id": "B",
+              "text": "A radical review of marine resource management is needed."
+            },
+            {
+              "id": "C",
+              "text": "The fishing industry is mainly responsible for today’s problems."
+            },
+            {
+              "id": "D",
+              "text": "The natural systems of our seas will not be able to repair themselves."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Wadden Sea was created when the sea rose as a consequence of ______slowly contracting. The waters were full of different species of marine creatures, and there were large numbers of 39______living on the wetlands along the shore. This continued until species began to decline 2,000 years ago. Overfishing was partly responsible for the changing circumstances, and so was pollution. At the same time there has been an increase in some nutrients in the Wadden Sea which can also destroy marine creatures and vegetation by depriving them of 40______which is essential for their survival.",
+          "answer": "Glaciers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Wadden Sea was created when the sea rose as a consequence of 38______slowly contracting. The waters were full of different species of marine creatures, and there were large numbers of ______living on the wetlands along the shore. This continued until species began to decline 2,000 years ago. Overfishing was partly responsible for the changing circumstances, and so was pollution. At the same time there has been an increase in some nutrients in the Wadden Sea which can also destroy marine creatures and vegetation by depriving them of 40______which is essential for their survival.",
+          "answer": "Birds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-43-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Wadden Sea was created when the sea rose as a consequence of 38______slowly contracting. The waters were full of different species of marine creatures, and there were large numbers of 39______living on the wetlands along the shore. This continued until species began to decline 2,000 years ago. Overfishing was partly responsible for the changing circumstances, and so was pollution. At the same time there has been an increase in some nutrients in the Wadden Sea which can also destroy marine creatures and vegetation by depriving them of ______which is essential for their survival.",
+          "answer": "Oxygen",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Marine Ecosystems",
+        "text": "A For some time now, the world's oceans and the people who fish them have been a constant source of bad environmental news: cod is effectively an endangered species of fish in some places now; every year thousands of dolphins are injured by fishing vessels, huge tuna farms are ruining the Mediterranean Sea. What is more, marine biologists recently warned that our seafood is in terminal decline. According to research published in Science last November, stocks of all the fish and shellfish that we currently eat will collapse before 2050. Or at least that's how the media reported it.\n\nB However the scientist who led the study has said that the main conclusion of his research has been buried beneath the headlines. While the danger to our seafood supply is real enough, says Boris Worm, assistant professor of marine conservation biology at Dalhousie University, Canada, there is a more serious point: that the way in which we manage the oceans is not only threatening the survival of individual species, it's upsetting the delicate balance of marine communities and thus causing the collapse of entire ecosystems. Research has shown that the number of ecosystems where all higher forms of life are extinct, so-called dead zones is increasing. The point that many reports failed to highlight, says Worm, is that we have to revolutionise the way our marine resources are run, changing the focus from stocks and quotas to biodiversity and ecosystem protection. And to do that, we must change the way the debate about our marine resources is conducted in the public domain.\n\nC Around 7,500 years ago, shrinking glaciers and the resulting higher water levels led to the development of what's called the Wadden Sea, a 13,500-square-kilometre area of the North Sea. During the first 5,000 years or so, the sea pulsated with life. There was a high level of biodiversity on the seabed too, and the salt marshes and mud flats on the coast supported millions of birds. This continued until around 2,000 years ago, when human pressure began to affect it. Research has shown that some of the larger creatures disappeared more than 500 years ago. And by the late 19th century, populations of most of the other mammals and fish were severely reduced, leading to the collapse of several traditional fisheries.\n\nD What's interesting is that overfishing isn't the main agent of the decline, as we might assume. It's due to an ongoing combination of exploitation, habitat destruction and pollution. Coastal development, for example, destroys large areas of wetlands that support a range of species. Pollution fuels a process known as eutrophication, which kills certain seagrasses. Nutrients such as nitrogen and phosphorus contained in human and industrial waste promote the growth of tiny phytoplankton. This over-enrichment of the sea can ultimately lead to the collapse of the entire system through oxygen starvation. Most marine ecosystems have an in-built capacity to deal with a certain amount of pollution because shellfish can absorb phytoplankton. But in many cases, these have been largely removed by fishing, so the effect of any nutrient-rich pollutants entering the system is increased. In a healthy system, coastal wetlands also act as filters, so their destruction causes even more pollution. These processes have been fairly well understood for a number of years.\n\nE What the Science paper has demonstrated, however, is that the decline in the health of ecosystems is greater where the number of different species is low. The population of marbled rock cod around the South Atlantic island of South Georgia, for example, still hasn't recovered after the fishing industry caused its collapse during the 1970s. By contrast, North Sea cod has withstood very heavy fishing for hundreds of years, says Worm, and although it has declined substantially, it hasn't yet collapsed completely. Worm believes that, 'to have a greater number of species makes an ecosystem more robust'. His theory is backed up by evidence from experiments into how ecosystems react to change.\n\nF And some positive news came from the study. Worm and his colleagues were able to show that it's possible to reverse such damage as long as there are enough species. A survey of 44 protected areas revealed increases in biodiversity and fish catches close to the reserves. Worm says, 'We should be focusing our attention on protecting all of our marine resources at the ecosystem level, and managing levels of fishing, pollution and habitat disturbance to ensure that crucial services that maintain the health of the ecosystem continue to function.' To anyone who knows anything about ecology, it would appear that Worm is just stating the obvious. And many protected areas on land are now managed in this way.\n\nG However, there has long been a tendency to view our oceans as a limitless resource, combined with a widespread failure to make an emotional connection with most marine wildlife. True, we have created a small number of marine protected areas. 'We seem to have understood the value of protecting ecosystems in areas such as the Australian Great Barrier Reef that we consider to be particularly beautiful/ says John Shepherd, Professor of Marine Sciences at Southampton University in the UK. 'Human nature will always draw us towards those species or habitats that are more aesthetically pleasing. That's why there will always be support for protecting pandas and very little for worms, even though nematodes play a vital role in maintaining the health of an ecosystem.'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-82",
+  "title": "Academic Writing — Practice Test 82",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-82-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The diagram below shows the typical stages of consumer goods manufacturing, including the process by which information is fed back to earlier stages to enable adjustment. Write a report for a university lecturer describing the process shown. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-82.png"
+        },
+        {
+          "id": "pte-writing-82-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people consider price as most important thing to consider when buying a product (such as a cell phone) or a service (e.g. medical treatment). Do you agree or disagree? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

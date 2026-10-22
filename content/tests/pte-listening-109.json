@@ -1,0 +1,622 @@
+{
+  "id": "pte-listening-109",
+  "title": "Listening — Practice Test 109",
+  "kind": "practice",
+  "description": "One recording, 25 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-109-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "water treatment plan ______",
+          "answer": "water treatment plan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "am ______",
+          "answer": "8 am",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "5 hours ______",
+          "answer": "2.5 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "visit (the) dam ______",
+          "answer": "visit (the) dam",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "youth hostel ______",
+          "answer": "youth hostel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "breakfast (and) supper ______",
+          "answer": "breakfast (and) supper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "600",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things does Cesar recommend bringing?",
+          "options": [
+            {
+              "id": "A",
+              "text": "binoculars"
+            },
+            {
+              "id": "B",
+              "text": "camera"
+            },
+            {
+              "id": "C",
+              "text": "penknife"
+            },
+            {
+              "id": "D",
+              "text": "map"
+            },
+            {
+              "id": "E",
+              "text": "raincoat"
+            },
+            {
+              "id": "F",
+              "text": "mobile phone"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things does Cesar recommend bringing?",
+          "options": [
+            {
+              "id": "A",
+              "text": "binoculars"
+            },
+            {
+              "id": "B",
+              "text": "camera"
+            },
+            {
+              "id": "C",
+              "text": "penknife"
+            },
+            {
+              "id": "D",
+              "text": "map"
+            },
+            {
+              "id": "E",
+              "text": "raincoat"
+            },
+            {
+              "id": "F",
+              "text": "mobile phone"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE things does Cesar recommend bringing?",
+          "options": [
+            {
+              "id": "A",
+              "text": "binoculars"
+            },
+            {
+              "id": "B",
+              "text": "camera"
+            },
+            {
+              "id": "C",
+              "text": "penknife"
+            },
+            {
+              "id": "D",
+              "text": "map"
+            },
+            {
+              "id": "E",
+              "text": "raincoat"
+            },
+            {
+              "id": "F",
+              "text": "mobile phone"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The last programme in the present series is ______",
+          "answer": "consumer's choice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Miss Patty Ching has been rewarded as 'Consumer of ' for her persistent effort to see through a result of a complaint. ______",
+          "answer": "Patty Ching",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "She took of photographs on her tour in Europe. ______",
+          "answer": "360",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What happened to her photos after she gave them to Top-class photo services for developing? ______",
+          "answer": "vanished",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The photo services compensated her for the loss in the end. ______",
+          "answer": "$2000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the problem that many listeners write about?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sale prices"
+            },
+            {
+              "id": "B",
+              "text": "bad quality stuff"
+            },
+            {
+              "id": "C",
+              "text": "faulty goods"
+            },
+            {
+              "id": "D",
+              "text": "bad assistant"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much was the sale price of the belt that Mr. Alvin liked?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$200"
+            },
+            {
+              "id": "B",
+              "text": "$100"
+            },
+            {
+              "id": "C",
+              "text": "$150"
+            },
+            {
+              "id": "D",
+              "text": "$300"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why should the consumer make a complaint about bad articles or service?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to cause a fuss"
+            },
+            {
+              "id": "B",
+              "text": "it won’t do what is claimed for"
+            },
+            {
+              "id": "C",
+              "text": "ask the shopkeeper for a favour"
+            },
+            {
+              "id": "D",
+              "text": "the shopkeeper should be responsible for it"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What should a consumer do when complaining in person?",
+          "options": [
+            {
+              "id": "A",
+              "text": "get a receipt for what you buy"
+            },
+            {
+              "id": "B",
+              "text": "speak to someone in authority"
+            },
+            {
+              "id": "C",
+              "text": "talk directly to the assistant"
+            },
+            {
+              "id": "D",
+              "text": "ask to see the seller"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What should a customer do when complaining on the phone?",
+          "options": [
+            {
+              "id": "A",
+              "text": "speak directly to the owner"
+            },
+            {
+              "id": "B",
+              "text": "ask for the manager"
+            },
+            {
+              "id": "C",
+              "text": "write a complaining letter"
+            },
+            {
+              "id": "D",
+              "text": "find out with whom you discuss the matter"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Student number: ______",
+          "answer": "C97H85",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "If no, reasons: ______",
+          "answer": "(has) practical experience",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The final date of the examination should be ______",
+          "answer": "20 June, 25 June",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr. Richardson explains that the set exercises",
+          "options": [
+            {
+              "id": "A",
+              "text": "required reference to a wide range of resources"
+            },
+            {
+              "id": "B",
+              "text": "should be at least 250 words in length"
+            },
+            {
+              "id": "C",
+              "text": "focus on key terms and concepts in media studies"
+            },
+            {
+              "id": "D",
+              "text": "do not have answers"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr. Richardson explains that essays 1 and 2",
+          "options": [
+            {
+              "id": "A",
+              "text": "are to be the same length"
+            },
+            {
+              "id": "B",
+              "text": "should both be analytical"
+            },
+            {
+              "id": "C",
+              "text": "both emphasise studies of audiences"
+            },
+            {
+              "id": "D",
+              "text": "should be especially easy for David"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "M ______",
+          "answer": "M",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "T ______",
+          "answer": "T",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 28. ______",
+          "answer": "J",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            },
+            {
+              "id": "J",
+              "text": "Option J"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-109-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which two time slots does Dr. Richardson suggest David use for his essay? ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-109-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What will David do before he decided which part of the programmes to use? ______",
+          "answer": "collect sample",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does John Upton compare a computer virus to?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a biological organism"
+            },
+            {
+              "id": "B",
+              "text": "a corrupt programme"
+            },
+            {
+              "id": "C",
+              "text": "an irritating person"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In 1949 ______of virus was presented by John Neumann, an addicted computer fan",
+          "answer": "first model",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "game was developed by a group of Americans for (34) ______on computers",
+          "answer": "core wars",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(33) ______game was developed by a group of Americans for ______on computers",
+          "answer": "entertainment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Development of a new ______in the 1980s",
+          "answer": "pastime",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker find surprising?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the rise in the number of software infections"
+            },
+            {
+              "id": "B",
+              "text": "the determination of those who develop viruses"
+            },
+            {
+              "id": "C",
+              "text": "the fact that people blame their own computers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "be (very) careful ______",
+          "answer": "be (very) careful",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "avoid trouble ______",
+          "answer": "avoid trouble",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "understand ______",
+          "answer": "understand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-109-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "be (well) prepared ______",
+          "answer": "be (well) prepared",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/109_we.mp3"
+    }
+  ]
+}

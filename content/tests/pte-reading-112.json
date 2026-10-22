@@ -1,0 +1,785 @@
+{
+  "id": "pte-reading-112",
+  "title": "Academic Reading — Practice Test 112",
+  "kind": "practice",
+  "description": "3 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Foot pedal irrigation",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-112-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is more effective to resolve poverty or food problem in large scale rather than in small scale.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Construction of gigantic dams costs more time in developing countries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Green revolution foiled to increase global crop production from the mid of 20th century.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Agricultural production in Bangladesh declined in last decade.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Farmer Abdul Rahman knew how to increase production himself.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Small pump spread into big project in Bangladesh in the past decade.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "answer": "bamboo",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "answer": "cylinders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "answer": "piston",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Filling the blanks in diagram of treadle pump's each parts. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. ______",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How large area can a treadle pump irrigate the field at a low level of expense? ______",
+          "answer": "half an acre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is Abdul's new roof made of? ______",
+          "answer": "corrugated tin",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much did Bangladesh farmers invest by IDE's stimulation? ______",
+          "answer": "$37.5 million",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Foot pedal irrigation",
+        "text": "(A) Until now, governments and development agencies have tried to tackle the problem through large-scale projects: gigantic dams, sprawling, irrigation canals and vast new fields of high-yield crops introduced during the Green Revolution, the famous campaign to increase grain harvests in developing nations. Traditional irrigation, however, has degraded the soil in many areas, and the reservoirs behind dams can quickly fill up with silt, reducing their storage capacity and depriving downstream farmers of fertile sediments. Furthermore, although the Green Revolution has greatly expanded worldwide farm production since 1950, poverty stubbornly persists in Africa, Asia and Latin America. Continued improvements in the productivity of large farms may play the main role in boosting food supply, but local efforts to provide cheap, individual irrigation systems to small farms may offer a better way to lift people out of poverty.\n\n(B) The Green Revolution was designed to increase the overall food supply, not to raise the incomes of the rural poor, so it should be no surprise that it did not eradicate poverty or hunger. India, for example, has been self-sufficient in food for 15 years, and its granaries are full, but more than 200 million Indians – one fifth of the country's population – are malnourished because they cannot afford the food they need and because the country's safety nets are deficient. In 2000, 189 nations committed to the Millennium Development Goals, which called for cutting world poverty in half by 2015. With business as usual, however, we have little hope of achieving most of the Millennium goals, no matter how much money rich countries contribute to poor ones.\n\n(C) The supply-driven strategies of the Green Revolution, however, may not help subsistence farmers, who must play to their strengths to compete in the global marketplace. The average size of a family farm is less than four acres in India, 1.8 acres in Bangladesh and about half an acre in China. Combines and other modern farming tools are too expensive to be used on such small areas. An Indian farmer selling surplus wheat grown on his one-acre plot could not possibly compete with the highly efficient and subsidized Canadian wheat farms that typically stretch over thousands of acres. Instead subsistence farmers should exploit the fact that their labor costs are the lowest in the world, giving them a comparative advantage in growing and selling high-value, intensely farmed crops.\n\n(D) Paul Polak saw firsthand the need for a small-scale strategy in 1981 when he met Abdul Rahman, a farmer in the Noakhali district of Bangladesh. From his three quarter-acre plots of rain-fed rice fields, Abdul could grow only 700 kilograms of rice each year – 300 kilograms less than what he needed to feed his family. During the three months before the October rice harvest came in, Abdul and his wife had to watch silently while their three children survived on one meal a day or less. As Polak walked with him through the scattered fields he had inherited from his father, Polak asked what he needed to move out of poverty. \"Control of water for my crops,\" he said, \"at a price I can afford.\"\n\n(E) Soon Polak learned about a simple device that could help Abdul achieve his goal: the treadle pump. Developed in the late 1970s by Norwegian engineer Gunnar Barnes, the pump is operated by a person walking in place on a pair of treadles and two handle arms made of bamboo. Properly adjusted and maintained, it can be operated several hours a day without tiring the users. Each treadle pump has two cylinders which are made of engineering plastic. The diameter of a cylinder is 100.5mm and the height is 280mm. The pump is capable of working up to a maximum depth of 7 meters. Operation beyond 7 meters is not recommended to preserve the integrity of the rubber components. The pump mechanism has piston and foot valve assemblies. The treadle action creates alternate strokes in the two pistons that lift the water in pulses.\n\n(F) The human-powered pump can irrigate half an acre of vegetables and costs only $25 (including the expense of drilling a tube well down to the groundwater). Abdul heard about the treadle pump from a cousin and was one of the first farmers in Bangladesh to buy one. He borrowed the $25 from an uncle and easily repaid the loan four months later. During the five-month dry season, when Bangladeshis typically farm very little, Abdul used the treadle pump to grow a quarter-acre of chili peppers, tomatoes, cabbage and eggplants. He also improved the yield of one of his rice plots by irrigating it. His family ate some of the vegetables and sold the rest at the village market, earning a net profit of $100. With his new income, Abdul was able to buy rice for his family to eat, keep his two sons in school until they were 16 and set aside a little money for his daughter's dowry. When Polak visited him again in 1984, he had doubled the size of his vegetable plot and replaced the thatched roof on his house with corrugated tin. His family was raising a calf and some chickens. He told me that the treadle pump was a gift from God.\n\n(G) Bangladesh is particularly well suited for the treadle pump because a huge reservoir of groundwater lies just a few meters below the farmers' feet. In the early 1980s IDE initiated a campaign to market the pump, encouraging 75 small private-sector companies to manufacture the devices and several thousand village dealers and tube-well drillers to sell and install them. Over the next 12 years one and a half million farm families purchased treadle pumps, which increased the farmers' net income by a total of $150 million a year. The cost of IDE's market-creation activities was only $12 million, leveraged by the investment of $37.5 million from the farmers themselves. In contrast, the expense of building a conventional dam and canal system to irrigate an equivalent area of farmland would be in the range of $2,000 per acre, or $1.5 billion."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Learning By Examples",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-112-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a comparison between rats learning and human learning",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to the earliest study in animal learning",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the discovery of who stripped the pine cone",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a description of a cost-effectiveness experiment",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The field trip to Israel was to investigate how black rats learn to strip pine cones.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The pine cones were stripped from bottom to top by black rats.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It can be learned from other relevant experiences to use a photocopier.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Stripping the pine cones is an instinct of the black rats.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "While the Nutcracker is more able to cache see, the Jay relies ______on caching food and is thus less specialized in this ability, but more (23) ______ To study their behavior of caching and finding their caches, an experiment was designed and carried out to test these two birds for their ability to remember where they hid the seeds.",
+          "answer": "less",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "While the Nutcracker is more able to cache see, the Jay relies (22) ______on caching food and is thus less specialized in this ability, but more ______ To study their behavior of caching and finding their caches, an experiment was designed and carried out to test these two birds for their ability to remember where they hid the seeds.",
+          "answer": "social",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the experiment, the cacher bird hid seeds in the ground while the other ______ As a result, the Nutcracker and the Mexican Jay showed different performance in the role of (25) ______ at finding the seeds—the observing (26) ______ didn't do as well as its counterpart.",
+          "answer": "watched",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the experiment, the cacher bird hid seeds in the ground while the other (24) ______ As a result, the Nutcracker and the Mexican Jay showed different performance in the role of ______ at finding the seeds—the observing (26) ______ didn't do as well as its counterpart.",
+          "answer": "observer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the experiment, the cacher bird hid seeds in the ground while the other (24) ______ As a result, the Nutcracker and the Mexican Jay showed different performance in the role of (25) ______ at finding the seeds—the observing ______ didn't do as well as its counterpart.",
+          "answer": "nutcracker",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Learning By Examples",
+        "text": "(A) Learning theory is rooted in the work of Ivan Pavlov, the famous scientist who discover and documented the principles governing how animals (humans included) learn in the 1900s. Two basic kinds of learning or conditioning occur, one of which is famously known as the classical condition. Classical conditioning happens when an animal learns to associate a neutral stimulus (signal) with a stimulus that has intrinsic meaning based on how closely in time the two stimuli are presented. The classic example of classical conditioning is a dog's ability to associate the sound of a bell (something that originally has no meaning to the dog) with the presentation of food (something that has a lot of meaning for the dog) a few moments later. Dogs are able to learn the association between bell and food, and will salivate immediately after hearing the bell once this connection has been made. Years of learning research have led to the creation of a highly precise learning theory that can be used to understand and predict how and under what circumstances most any animal will learn, including human beings, and eventually help people figure out how to change their behaviors.\n\n(B) Role models are a popular notion for guiding child development, but in recent years very interesting research has been done on learning by example in other animals. If the subject of animal learning is taught very much in terms of classical or operant conditioning, it places too much emphasis on how we allow animals to learn and not enough on how they are equipped to learn. To teach a course of mine I have been dipping profitably into a very interesting and accessible compilation of papers on social learning in mammals, including chimps and human children, edited by Heyes and Galef.\n\n(C) The research reported in one paper started with a school field trip to Israel to a pine forest where many pine cones were discovered, stripped to the central core. So the investigation started with no weighty theoretical intent, but was directed at finding out what was eating the nutritious pine seeds and how they managed to get them out of the cones. The culprit proved to be the versatile and athletic black rat (Rattus) and the technique was to bite each cone scale off at its base, in sequence from base to tip following the spiral growth pattern of the cone.\n\n(D) Urban black rats were found to lack the skill and were unable to learn it even if housed with experiences cone strippers. However, infants of urban mothers cross fostered to stripper mothers acquired the skill, whereas infants of stripper mothers fostered by an urban mother could not. Clearly the skill had to be learned from the mother. Further elegant experiments showed that naive adults could develop the skill if they were provided with cones from which the first complete spiral of scales had been removed, rather like our new photocopier which you can word out how to use once someone has shown you how to switch it on. In case of rats, the youngsters take cones away from the mother when she is still feeding on them, allowing them to acquire the complete stripping skill.\n\n(E) A good example of adaptive bearing we might conclude, but let's see the economies. This was determined by measuring oxygen uptake of a rat stripping a cone in a metabolic chamber to calculate energetic cost and comparing it with the benefit of the pine seeds measured by calorimeter. The cost proved to be less than 10% of the energetic value of the cone. An acceptable profit margin.\n\n(F) A paper in 1996 Animal Behavior by Bednekoff and Balda provides a different view of the adaptiveness of social learning. It concerns the seed catching behavior of Clark's nutcracker (Nucifraga Columbiana) and the Mexican jay (Aphelocoma ultramarine). The former is a specialist, catching 30,000 or so seeds in scattered locations that it will recover over the months of winter, the Mexican jay will also cache food but is much less dependent upon this than the nutcracker. The two species also differ in their social structure, the nutcracker being rather solitary while the jay forages in social groups.\n\n(G) The experiment is to discover not just whether a bird can remember where it hid a seed but also if it can remember where it saw another bird hide a seed. The design is slightly comical with a cacher bird wandering about a room with lots of holes in the floor hiding food in some of the holes, while watched by an observer bird perched in a cage. Two days later cachers and observers are tested for their discovery rate against an estimated random performance. In the role of cacher, not only nutcracker but also the less specialized jay performed above chance; more surprisingly, however, jay observers were as successful as jay cachers whereas nutcracker observers did no better than chance. It seems that, whereas the nutcracker is highly adapted at remembering where it hid its own seeds, the social living Mexican jay is more adept at remembering, and so exploiting, the caches of others."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: CONCLUDING REMARKS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-112-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Stradbroke became two islands",
+          "options": [
+            {
+              "id": "A",
+              "text": "by an intended destruction of the ship of the Cambus Wallace"
+            },
+            {
+              "id": "B",
+              "text": "by an explosion of dynamite on a ship and following nature erosion"
+            },
+            {
+              "id": "C",
+              "text": "by the movement sandhills on Stradbroke Island"
+            },
+            {
+              "id": "D",
+              "text": "by the volcanic eruption on island"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why are laundry activities for the resort carried out on the mainland",
+          "options": [
+            {
+              "id": "A",
+              "text": "In order to obtain its water supply via a bore system"
+            },
+            {
+              "id": "B",
+              "text": "In order to preserve the water and anti-pollution"
+            },
+            {
+              "id": "C",
+              "text": "In order to save the cost of installing onerous washing machines"
+            },
+            {
+              "id": "D",
+              "text": "In order to reduce the level of phosphates in water around"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the major water supplier in South Stradbroke Island is by",
+          "options": [
+            {
+              "id": "A",
+              "text": "desalinizing the sea water"
+            },
+            {
+              "id": "B",
+              "text": "collecting the rainfall"
+            },
+            {
+              "id": "C",
+              "text": "transporting from the mainland"
+            },
+            {
+              "id": "D",
+              "text": "boring ground water"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is applied for heating water on Couran Cove Island Resort",
+          "options": [
+            {
+              "id": "A",
+              "text": "the LPG-power"
+            },
+            {
+              "id": "B",
+              "text": "a diesel-powered plant"
+            },
+            {
+              "id": "C",
+              "text": "the wind power"
+            },
+            {
+              "id": "D",
+              "text": "the solar-power"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does, as the managers of resorts believe, the prospective future focus on",
+          "options": [
+            {
+              "id": "A",
+              "text": "more awards of for resort’s accommodation"
+            },
+            {
+              "id": "B",
+              "text": "sustainable administration and development in a long run"
+            },
+            {
+              "id": "C",
+              "text": "Economic and environmental benefits for the tourism enterprise"
+            },
+            {
+              "id": "D",
+              "text": "successful implementation the Resort Development Spectrum"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Being located away from the mainland, tourists can attain the resort only by ______ in a regular service. Within the resort, transports include trails for walking or tracks for both (33) ______ and the beach train. The on-island equipment is old-fashioned which is barely working such as the (34) ______ overhead. There is television, radio, an old (35) ______ and a small fridge. And you can buy the repellant for (36) ______ if you forget to bring some.",
+          "answer": "ferry",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Being located away from the mainland, tourists can attain the resort only by (32) ______ in a regular service. Within the resort, transports include trails for walking or tracks for both ______ and the beach train. The on-island equipment is old-fashioned which is barely working such as the (34) ______ overhead. There is television, radio, an old (35) ______ and a small fridge. And you can buy the repellant for (36) ______ if you forget to bring some.",
+          "answer": "bicycle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Being located away from the mainland, tourists can attain the resort only by (32) ______ in a regular service. Within the resort, transports include trails for walking or tracks for both (33) ______ and the beach train. The on-island equipment is old-fashioned which is barely working such as the ______ overhead. There is television, radio, an old (35) ______ and a small fridge. And you can buy the repellant for (36) ______ if you forget to bring some.",
+          "answer": "fan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Being located away from the mainland, tourists can attain the resort only by (32) ______ in a regular service. Within the resort, transports include trails for walking or tracks for both (33) ______ and the beach train. The on-island equipment is old-fashioned which is barely working such as the (34) ______ overhead. There is television, radio, an old ______ and a small fridge. And you can buy the repellant for (36) ______ if you forget to bring some.",
+          "answer": "air conditioner",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Being located away from the mainland, tourists can attain the resort only by (32) ______ in a regular service. Within the resort, transports include trails for walking or tracks for both (33) ______ and the beach train. The on-island equipment is old-fashioned which is barely working such as the (34) ______ overhead. There is television, radio, an old (35) ______ and a small fridge. And you can buy the repellant for ______ if you forget to bring some.",
+          "answer": "mosquito",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is true as to the contemporary situation of Couran Cove Island in the last paragraph",
+          "options": [
+            {
+              "id": "A",
+              "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+            },
+            {
+              "id": "B",
+              "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+            },
+            {
+              "id": "C",
+              "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+            },
+            {
+              "id": "D",
+              "text": "The principal group visiting the resort is international tourists."
+            },
+            {
+              "id": "E",
+              "text": "Its carrying capacity will restrict the future business' expansion."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is true as to the contemporary situation of Couran Cove Island in the last paragraph",
+          "options": [
+            {
+              "id": "A",
+              "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+            },
+            {
+              "id": "B",
+              "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+            },
+            {
+              "id": "C",
+              "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+            },
+            {
+              "id": "D",
+              "text": "The principal group visiting the resort is international tourists."
+            },
+            {
+              "id": "E",
+              "text": "Its carrying capacity will restrict the future business' expansion."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is true as to the contemporary situation of Couran Cove Island in the last paragraph",
+          "options": [
+            {
+              "id": "A",
+              "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+            },
+            {
+              "id": "B",
+              "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+            },
+            {
+              "id": "C",
+              "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+            },
+            {
+              "id": "D",
+              "text": "The principal group visiting the resort is international tourists."
+            },
+            {
+              "id": "E",
+              "text": "Its carrying capacity will restrict the future business' expansion."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-112-q40",
+          "skill": "reading",
+          "type": "short",
+          "graded": false,
+          "prompt": "Refer to the passage or diagram and answer question 40. (Answer key unavailable on the source page.)",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "CONCLUDING REMARKS",
+        "text": "(D) We examined a case study of good management practice and a pro-active sustainable tourism stance of an eco-resort. In three years of operation, Couran Cove Island Resort has won 23 international and national awards, including the 2001 Australian Tourism Award in the 4-Star Accommodation category. The resort has embraced and has effectively implemented contemporary environmental management practices. It has been argued that the successful implementation of the principles of sustainability should promote long-term social, economic and environmental benefits, while ensuring and enhancing the prospects of continued viability for the tourism enterprise. Couran Cove Island Resort does not conform to the characteristics of the ResortDevelopmentSpectrum, as proposed by Prideaux (2000). According to Prideaux, the resort should be at least at Phase 3 of the model (the National tourism phase), which describes an integrated resort providing 3-4 star hotel-type accommodation. The primary tourist market in Phase 3 of the model consists mainly of interstate visitors. However, the number of interstate and international tourists visiting the resort is small, with the principal visitor markets comprising locals and residents from nearby towns and the Gold Coast region. The carrying capacity of Couran Cove does not seem to be of any concern to the Resort management. Given that it is a private commercial ecotourist enterprise, regulating the number of visitors to the resort to minimize damage done to the natural environment on South Stradbroke Island is not a binding constraint. However, the Resort's growth will eventually be constrained by its carrying capacity, and quantity control should be incorporated in the management strategy of the resort."
+      }
+    }
+  ]
+}

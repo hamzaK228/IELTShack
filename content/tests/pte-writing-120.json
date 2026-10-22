@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-120",
+  "title": "Academic Writing — Practice Test 120",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-120-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The graph below shows the average monthly change in the prices of three metals during 2014. Summarize the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-120.jpg"
+        },
+        {
+          "id": "pte-writing-120-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "In many countries people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people. To what extent do the advantages of having an ageing population outweigh the disadvantages? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

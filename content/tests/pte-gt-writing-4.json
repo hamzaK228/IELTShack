@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-4",
+  "title": "General Training Writing — Letter 4",
+  "kind": "practice",
+  "description": "Task 1 letter, 4 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-4-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are studying a short course in another country. Your accommodation was arranged by the course provider. There is a major problem with the accommodation.\nWrite a letter to the course provider. In your letter,\nsay what the problem is\ndescribe the accommodation you thought you were getting\nask the provider to solve the problem",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

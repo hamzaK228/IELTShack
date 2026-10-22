@@ -1,0 +1,520 @@
+{
+  "id": "pte-listening-91",
+  "title": "Listening — Practice Test 91",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-91-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• An expanded section for books on ______",
+          "answer": "travel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A new section on local ______",
+          "answer": "history",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A community room for meetings (also possible to ______ there)",
+          "answer": "study",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A new section of books for ______",
+          "answer": "teenagers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The next Science club meeting: experiments using things from your ______",
+          "answer": "kitchen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• This Friday: a local author talks about a novel based on a real ______",
+          "answer": "crime",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• IT support is available on Tuesday-no ______ is necessary",
+          "answer": "appointment/ booking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Free check of blood ______ and cholesterol levels",
+          "answer": "sugar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The library shop sells wall charts, cards and ______",
+          "answer": "stamps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Evenings and weekends: free ______ is available",
+          "answer": "parking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 11. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-91-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 12. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-91-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO are the main reasons given for the popularity of activity holidays?",
+          "options": [
+            {
+              "id": "A",
+              "text": "clients make new friends"
+            },
+            {
+              "id": "B",
+              "text": "clients learn a useful skill"
+            },
+            {
+              "id": "C",
+              "text": "clients learn about a different culture"
+            },
+            {
+              "id": "D",
+              "text": "clients are excited by the risk involved"
+            },
+            {
+              "id": "E",
+              "text": "clients find them good value for money"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO are the main reasons given for the popularity of activity holidays?",
+          "options": [
+            {
+              "id": "A",
+              "text": "clients make new friends"
+            },
+            {
+              "id": "B",
+              "text": "clients learn a useful skill"
+            },
+            {
+              "id": "C",
+              "text": "clients learn about a different culture"
+            },
+            {
+              "id": "D",
+              "text": "clients are excited by the risk involved"
+            },
+            {
+              "id": "E",
+              "text": "clients find them good value for money"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How does BC Travel plan to expand the painting holidays?",
+          "options": [
+            {
+              "id": "A",
+              "text": "by adding to the number of locations"
+            },
+            {
+              "id": "B",
+              "text": "by increasing the range of levels"
+            },
+            {
+              "id": "C",
+              "text": "by employing more teachers"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why are BC Travel's cooking holidays unusual?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they only use organic foods"
+            },
+            {
+              "id": "B",
+              "text": "they have an international focus"
+            },
+            {
+              "id": "C",
+              "text": "they mainly involve vegetarian dishes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about the photography holidays?",
+          "options": [
+            {
+              "id": "A",
+              "text": "clients receive individual tuition"
+            },
+            {
+              "id": "B",
+              "text": "the tutors are also trained guides"
+            },
+            {
+              "id": "C",
+              "text": "advice is given on selling photographs"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– also reduces ______",
+          "answer": "stress",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Greece______control– includes exercise on the beach",
+          "answer": "weight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– one holiday that is specially designed for ______",
+          "answer": "families",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Locate and read relevant articles, noting key information and also ______ identify a problem or need",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Select interviewees – these may be site ______ , visitors for city (23)",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Select interviewees – these may be site (22) , visitors for city ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Check whether ______ of interviewees can be used",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Select relevant information and try to identify ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Do not end with ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Natalie and Dave agree one reason why so few people visit Horton Castle is that",
+          "options": [
+            {
+              "id": "A",
+              "text": "the publicity is poor"
+            },
+            {
+              "id": "B",
+              "text": "it is difficult to get to"
+            },
+            {
+              "id": "C",
+              "text": "there is little there of interest"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Natalie and Dave agree that the greatest problem with a visitor centre could be",
+          "options": [
+            {
+              "id": "A",
+              "text": "covering the investment costs"
+            },
+            {
+              "id": "B",
+              "text": "finding a big enough space for it"
+            },
+            {
+              "id": "C",
+              "text": "dealing with planning restrictions"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Dave say about conditions in the town of Horton?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there is a lot of unemployment"
+            },
+            {
+              "id": "B",
+              "text": "there are few people of working age"
+            },
+            {
+              "id": "C",
+              "text": "there are opportunities for skilled worker"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to Natalie, one way to prevent damage to the castle site would be to",
+          "options": [
+            {
+              "id": "A",
+              "text": "insist visitors have a guide"
+            },
+            {
+              "id": "B",
+              "text": "make visitors keep to the paths"
+            },
+            {
+              "id": "C",
+              "text": "limit visitor numbers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• It has also recently been found to affect birds which feed on ______",
+          "answer": "insects",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o The effects on birds' ______ or mental processes e.g. memory",
+          "answer": "behaviour",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o The effects on bird song (usually learned from a bird's ______ )",
+          "answer": "father",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Songs learned by birds exposed to mercury are less ______",
+          "answer": "complex",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o This may have a negative effect on birds' ______",
+          "answer": "reproduction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Allow more ______ for the experimenter",
+          "answer": "control",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Migrating birds such as ______ containing mercury may be eaten by humans",
+          "answer": "ducks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Mercury also causes problems in learning ______",
+          "answer": "language",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Mercury in a mother's body from ______ may affect the unborn child",
+          "answer": "food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-91-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• New regulations for mercury emissions will affect everyone's energy ______",
+          "answer": "cost/ price",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/91_we.mp3"
+    }
+  ]
+}

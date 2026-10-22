@@ -1,0 +1,1365 @@
+{
+  "id": "pte-gt-reading-46",
+  "title": "General Training Reading — Practice Test 46",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: AREA HOTELS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-46-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "plans to stay for over a month? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "is traveling with children? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "always travels with a dog? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "plans to go out for entertainment in the evenings? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "is on a business trip? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "likes to exercise every day? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "is looking for a place to hold a wedding reception? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "prefers cooking to eating in restaurants? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "pool user fees"
+            },
+            {
+              "id": "ii",
+              "text": "Lifeguard Training"
+            },
+            {
+              "id": "iii",
+              "text": "Pool Schedule"
+            },
+            {
+              "id": "iv",
+              "text": "Equipment Rental"
+            },
+            {
+              "id": "v",
+              "text": "Pool Rules"
+            },
+            {
+              "id": "vi",
+              "text": "Individual Membership Benefit"
+            },
+            {
+              "id": "vii",
+              "text": "Food"
+            },
+            {
+              "id": "viii",
+              "text": "Parking"
+            },
+            {
+              "id": "ix",
+              "text": "Classes"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "AREA HOTELS",
+        "text": "(A) Rosewood Hotel. Spend your vacation with us. We offer luxury suites, an Olympic-sized pool, a state-of-the-art fitness center, and a beauty spa. Leave business cares behind while you relax in luxury at the Rosewood. You'll never want to leave! Call 800-555-0942 for reservations.\n\n(B) The Woodside Motel is the place to stay while visiting our city. After a day of sightseeing, relax in the comfort of your luxury room. All our rooms have king-sized beds, free movies, and minibars. Our outdoor playground and indoor recreation room mean the little ones will never be bored. Babysitting service available. Enjoy your next family vacation at the Woodside Motel.\n\n(C) The Columbus Hotel is conveniently located in the heart of the city's theater district and close to the city's finest restaurants and clubs. Enjoy the spectacular view of the city skyline from the Columbus Rooftop Restaurant. Host your next conference or banquet with us. We have a selection of reception rooms and banquet rooms suitable for conferences and parties. Call 245-555-0982 to speak to our banquet coordinator, 245-555-0987 for dinner reservations at the Rooftop Restaurant, and 245-555-0862 to reserve a room.\n\n(D) Next time you're in town, stay at the City View Suites. Whether you're here to shop, play, or work, City View's location can't be beat. We're close to all major bus lines and right next to the city's business district. All rooms include kitchenettes. Call 492-555-5932 for reservations. Don't forget to ask about our special weekly and monthly rates.\n\n(E) Sunflower Motel offers reasonable rates, a convenient location, and cable TV in every room. Pets are welcome (extra charge applies). Special weekend rates. Call 488-555-0821 for reservations. Look at the five hotel advertisements, A-E. Which hotel is appropriate for each of the following people? Write the correct letter, A-E, on lines 1—8 on your answer sheet. You may use any letter more than once.\n\nWhich hotel is most appropriate for a person who 1. plans to stay for over a month? 2. is traveling with children? 3. always travels with a dog? 4. plans to go out for entertainment in the evenings? 5. is on a business trip? 6. likes to exercise every day? 7. is looking for a place to hold a wedding reception? 8. prefers cooking to eating in restaurants?"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Welcome to the Riverdale City Pool",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-46-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How much annual vacation time are employees allowed?",
+          "options": [
+            {
+              "id": "A",
+              "text": "No more than two weeks"
+            },
+            {
+              "id": "B",
+              "text": "Exactly two weeks"
+            },
+            {
+              "id": "C",
+              "text": "At least two weeks"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Who is qualified for health insurance benefits?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Full-time employees only"
+            },
+            {
+              "id": "B",
+              "text": "All employees and their spouses and children"
+            },
+            {
+              "id": "C",
+              "text": "All employees, but not their family members"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What must an employee's family member do in order to use the library?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Get an ID card"
+            },
+            {
+              "id": "B",
+              "text": "Apply for a job at Human Resources"
+            },
+            {
+              "id": "C",
+              "text": "Pay a fee"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Where can employees park their cars?",
+          "options": [
+            {
+              "id": "A",
+              "text": "In the employee parking areas only"
+            },
+            {
+              "id": "B",
+              "text": "Anywhere on campus"
+            },
+            {
+              "id": "C",
+              "text": "In both employee and visitor parking areas"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "If an employee takes one class in a year, how much will he or she have to pay?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nothing"
+            },
+            {
+              "id": "B",
+              "text": "The full tuition rate"
+            },
+            {
+              "id": "C",
+              "text": "A student service fee"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is required of employees who want to study for a degree?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Permission of their supervisors"
+            },
+            {
+              "id": "B",
+              "text": "Application for admission into a program"
+            },
+            {
+              "id": "C",
+              "text": "Payment of full tuition"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Welcome to the Riverdale City Pool",
+        "text": "The following information is provided for your convenience.\n\n(A) The Riverdale City Pool is for everybody's enjoyment. To make sure that all pool users have a pleasant experience, please observe the following: • All children under twelve must be accompanied by an adult. • Running and shouting in the pool area are not allowed. • Diving is permitted only in the designated area at the deep end of the adult pool. • Please shower before entering the pool. Thank you for your cooperation.\n\n(B) The pool is open for the summer season from May 15 through September 15. Hours are Monday—Thursday, noon until 7:30 P.M.; Friday, noon until 9:30 P.M.; Saturday and Sunday, 9:30 A.M. until 9:30 P.M. During the week, the pool will be open for classes only from 8:30 until 11:30 A.M. Three trained lifeguards will be on duty at all times that the pool is open.\n\n(C) The pool garage will be closed from June 1 to August 31 for renovations. We are sorry for any inconvenience this may cause. Pool users can leave their cars in the area behind the pool office during this time. A bicycle rack is also located there. There is no fee for using this area.\n\n(D) For Riverdale residents, charges for using the pool are $5 per individual per visit, $250 for an individual season pass, and $500 for a family season pass. For nonresidents, the charge is $7 per individual per visit. Season passes are not available to pool users who are not residents of Riverdale.\n\n(E) This summer we are offering swimming lessons for children, teens, and adults, as well as diving lessons and water aerobics. Morning lessons are from 9:30 to 10:30 and afternoon lessons are from 2:00 to 4:00. Fees start at $75 a week. The Riverdale swim team will continue this season as well. Please visit the pool office for a complete schedule of this summer's lessons and swimming meets.\n\n(F) The new snack bar is now open. The hours are 11:30—5:00 daily. It serves a variety of inexpensive drinks and snacks, including cold and hot sandwiches, ice cream treats, and homemade cookies. All items purchased at the snack bar as well as snacks, drinks, and lunches brought from home must be consumed in the picnic area."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Text 3",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-46-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course helps you with academic writing.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course shows you how to write personal letters.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course helps you improve your vocabulary.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course is about writing stories for children.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course teaches you about journalism.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course teaches you how to use punctuation.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This course is about business marketing.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Art of Correspondence"
+            },
+            {
+              "id": "B",
+              "text": "Client Communication"
+            },
+            {
+              "id": "C",
+              "text": "Rules of Communication"
+            },
+            {
+              "id": "D",
+              "text": "Fiction Workshop"
+            },
+            {
+              "id": "E",
+              "text": "What Do You Mean?"
+            },
+            {
+              "id": "F",
+              "text": "Write It Right"
+            },
+            {
+              "id": "G",
+              "text": "Express Your Opinion"
+            },
+            {
+              "id": "H",
+              "text": "Report It"
+            },
+            {
+              "id": "I",
+              "text": "Retelling Old Favorites"
+            },
+            {
+              "id": "J",
+              "text": "Writing to Sell"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "The Neoclassical Architectural Style"
+            },
+            {
+              "id": "ii",
+              "text": "Choosing a Location"
+            },
+            {
+              "id": "iii",
+              "text": "Naming the President's House"
+            },
+            {
+              "id": "iv",
+              "text": "First Ladies and Interior Design"
+            },
+            {
+              "id": "v",
+              "text": "A Designer Is Chosen"
+            },
+            {
+              "id": "vi",
+              "text": "Reconstruction of the President's House"
+            },
+            {
+              "id": "vii",
+              "text": "The President's House Burns Down"
+            },
+            {
+              "id": "viii",
+              "text": "Funding the Construction"
+            },
+            {
+              "id": "ix",
+              "text": "Renovation and Modernization"
+            },
+            {
+              "id": "x",
+              "text": "Completion of the First President's House"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Text 3",
+        "text": "Lakeville College\n\nEmployee Benefits\n\nVacations All employees are entitled to a minimum of two weeks paid vacation time annually. The actual days to be used as vacation are subject to approval by the individual employee's supervisor.\n\nInsurance All employees are eligible for any of the health insurance plans offered by the college. Information on the various plans are available from Human Resources. This benefit is extended to members of the employee's immediate family. Part time employees may apply for this benefit but will pay a higher percentage of the premium.\n\nUse of College Facilities All employees, full and part time, may use any of the college facilities, including the library, gym, swimming pool, and tennis courts, free of charge. A faculty or staff ID card must be shown when requesting access to these facilities. Immediate family members are also entitled to this benefit, but must obtain an ID card from Human Resources before using college facilities.\n\nParking Free parking is available on campus for all college employees; however, a parking sticker must be obtained from Human Resources. The sticker must be displayed on the windshield at all times when parked on campus. The sticker is valid for parking in specially designated employee parking areas as well as in any parking space marked \"Visitor.\" Student parking areas are reserved for student parking only.\n\nTaking Classes Employees may take classes in any department at the college. Show your faculty or staff ID when registering for the class. Employees may enroll in up to three classes per year free of charge. Any additional classes beyond that must be paid for at the full tuition rate. In addition, any employee wishing to pursue a degree must apply for and be accepted into the program of his or her choice before being considered a degree candidate. In this case, student service fees will apply. Write the correct letter, A, B, or C, on lines 15—20 on your answer sheet. 15. How much annual vacation time are employees allowed?\n\n(A) No more than two weeks\n\n(B) Exactly two weeks\n\n(C) At least two weeks 16. Who is qualified for health insurance benefits?\n\n(A) Full-time employees only\n\n(B) All employees and their spouses and children\n\n(C) All employees, but not their family members 17. What must an employee's family member do in order to use the library?\n\n(A) Get an ID card\n\n(B) Apply for a job at Human Resources\n\n(C) Pay a fee 18. Where can employees park their cars?\n\n(A) In the employee parking areas only\n\n(B) Anywhere on campus\n\n(C) In both employee and visitor parking areas 19. If an employee takes one class in a year, how much will he or she have to pay?\n\n(A) Nothing\n\n(B) The full tuition rate\n\n(C) A student service fee 20. What is required of employees who want to study for a degree?\n\n(A) Permission of their supervisors\n\n(B) Application for admission into a program\n\n(C) Payment of full tuition"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: The Construction of the White House",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-46-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Pierre Charles L'Enfant was",
+          "options": [
+            {
+              "id": "A",
+              "text": "an importer of stone."
+            },
+            {
+              "id": "B",
+              "text": "the designer of the capital city."
+            },
+            {
+              "id": "C",
+              "text": "the winner of a contest to build the president’s house."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The influential Book of Architecture was written by",
+          "options": [
+            {
+              "id": "A",
+              "text": "James Hoban."
+            },
+            {
+              "id": "B",
+              "text": "James Gibb."
+            },
+            {
+              "id": "C",
+              "text": "Napoleon."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The first president to live in the original president's house was",
+          "options": [
+            {
+              "id": "A",
+              "text": "John Adams."
+            },
+            {
+              "id": "B",
+              "text": "Thomas Jefferson."
+            },
+            {
+              "id": "C",
+              "text": "George Washington."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The White House burned down in",
+          "options": [
+            {
+              "id": "A",
+              "text": "1800."
+            },
+            {
+              "id": "B",
+              "text": "1812."
+            },
+            {
+              "id": "C",
+              "text": "1814."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Oval Office was built during the presidency of",
+          "options": [
+            {
+              "id": "A",
+              "text": "Taft."
+            },
+            {
+              "id": "B",
+              "text": "Truman."
+            },
+            {
+              "id": "C",
+              "text": "Jackson."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-46-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In 1901,",
+          "options": [
+            {
+              "id": "A",
+              "text": "the White House was repainted."
+            },
+            {
+              "id": "B",
+              "text": "the first lady bought new furniture."
+            },
+            {
+              "id": "C",
+              "text": "Theodore Roosevelt became president"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "The Construction of the White House",
+        "text": "(A) Located at 1600 Pennsylvania Avenue in Washington, DC, the White House was originally designed by James Hoban, an Irish-born American architect. In 1792, after defeating eight other entrants, Hoban won a contest to design mansion for the president of the United States. President George Washington oversaw the original construction, which began on October 13, 1792. Prior to the design contest, engineer Pierre Charles L'Enfant had worked with President Washington to design the capital city. L'Enfant's vision of the president's house was four times larger than the mansion Hoban built. Labor1 and material expenses required Hoban to build the house on a much smaller scale, with only two main floors instead of three. In addition, rather than using the expensive imported stone of his original plan, the majority of the brick he used was made right on site. Hoban employed builders and craftsmen from overseas as well as local slaves and laborers. The total expenditure for the project was $232,372. This was just a fraction of what L'Enfant's proposed palace would have cost.\n\n(B) James Hoban's design was a near copy of a residence in James Gibbs's Book of Architecture, published in 1728. Neoclassicism, influenced by the Greco—Roman style, was the popular choice for architects throughout Europe during that time. When Napoleon became emperor, he employed the best architects he knew to transform Paris into a classical Roman capital. Roman triumphal arches and Corinthian columns adorned all of Paris's major structures. Architects in Germany built monuments, halls, and theaters inspired by classic Greek structures such as the Acropolis in Athens. The popularity of the neoclassical style grew internationally, spreading as far as America. Though the architectural styles were borrowed from classical designs, each country added a unique flair in order to achieve a sense of nationalism in its capital.\n\n(C) The house that James Hoban designed was not completed until after the second president of the United States took office. Despite the unfinished interior, President John Adams and his family moved from the temporary capital in Philadelphia, Pennsylvania, into the president's house on November 1, 1800. Throughout his term, Adams lived in the mansion with half-finished walls, no heating, and no running water. The interior of the building was completed in 1801 during Thomas Jefferson's term. Before Jefferson moved in, he hired architect Benjamin Latrobe to install coal-burning fireplaces and two water closets. Latrobe also created two terraces on the east and west sides of the building and installed a furnace that relied on kettles and pipes in the basement.\n\n(D) Just over twenty years after the construction of the president's house began, the building was burned down during the War of 1812. After British troops torched the house on August 25, 1814, rumors surfaced as to whether the capital would be moved inland. However, the Battle of New Orleans, an encounter in which the Americans came out victorious over Britain, evoked a sense of nationalism in the country's heart. The victory inspired the rebuilding of the president's house, a task that was once again handed over to James Hoban.\n\n(E) Hoban worked on the rebuilding for two years before President Janies Monroe moved into the unfinished home and purchased a number of furnishings. Benjamin Latrobe, who later built the Capitol building, designed large porticos for the house with columns that supported the roof. In 1824, his south portico was completed with a double staircase leading up to the new porch. The north portico was completed in 1830 during the presidency of Andrew Jackson. Though these columns give the White House its distinguishing features today, there was some criticism at the time that they overshadowed the intricate stone carvings on the house. During Jackson's term, running water was installed, though a furnace and gas lighting were not introduced until the 1840s.\n\n(F) Major renovations on the president's house continued through the 1800s, including modern innovations such as the telephone and electric wiring. A hot water system, a greenhouse, a private bath, and a number of conservatories were also added. The conservatories, including the rose and orchid houses were removed in 1902, when construction began on the West Wing. The president's Oval Office was added to the West Wing at the order of President Taft in 1909. Each succeeding president and first lady contributed to the interior and its furnishings. Inspectors ordered a full renovation of the White House after the building almost collapsed while a balcony was being added for Harry Truman in the late 1940s. During the temporary closure, all of the modern conveniences, including central air conditioning were added. The last major modification to the White House was the removal of over forty layers of paint from the exterior walls in 1978.\n\n(G) For over 100 years, the White House was only a nickname associated with the presidents' home. This term was likely related to the whitewashed exterior that stonemasons completed in 1798. The home was either referred to as the \"President's House\" or the \"Executive Mansion\" until Theodore Roosevelt formally established it as the White House soon after taking office in 1901."
+      }
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "id": "pte-gt-reading-55",
+  "title": "General Training Reading — Practice Test 55",
+  "kind": "practice",
+  "description": "4 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: TRANSITION CAKE FOR THE ELOEHLY",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-55-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Only hospital patients can go on to have transition care.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Transition care may be long term or short term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Everyone receiving transition care must contribute to the cost.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Transition care at home is only available for patients who live alone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Transition care may be given on a hospital site.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You may lose your place in a care home if you have to leave it to receive transition care.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "TRANSITION CAKE FOR THE ELOEHLY",
+        "text": "What is transition care? Transition care is for older people who have been receiving medical treatment, but need more help to recover, and time to make a decision about the best place for them to live in the longer term. You can only access transition care directly from hospital. Transition care is focused on individual goals and therapies and is given for a limited time only. It offers access to a package of services that may include:\n\n• low-intensity therapy such as physiotherapy (exercise, mobility, strength and balance) and podiatry (foot care)\n\n• access to a social worker\n\n• nursing support for clinical care such as wound care\n\n• personal care Who provides transition care services? Transition care is often provided by non-government organisations and is subsidised by the government. If your circumstances allow, it is expected you'll contribute to the cost of your care. Daily care fees are set by the organisation that provides your transition care services (your service provider). They should explain these fees to you, and the amount charged should form part of the agreement between you and the service provider. The fee is calculated on a daily basis. Where do I receive transition care? Transition care is provided in your own home or in a 'live-in' setting. This setting can be part of an existing aged-care home or health facility such as a separate wing of a hospital. What if I'm already receiving services through a different programme? If you're already receiving subsidised residential care in an aged-care home, but you need to go somewhere else for transition care, your place in the aged-care home will be held until you return."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: CABIN BAGS FOR AIR TRAVEL",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-55-q7",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "The zips on this cabin bag may be difficult to use.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q8",
+          "skill": "reading",
+          "type": "short",
+          "graded": false,
+          "prompt": "Refer to the passage or diagram and answer question 8. (Answer key unavailable on the source page.)",
+          "answer": "",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The handles of this cabin bag have a number of different problems.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This cabin bag is very resistant to water.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q11",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "There's a good choice of patterns for the fabric of this cabin bag.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This cabin bag isn't very easy to move around.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q13",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This cabin bag has just one internal zipped pocket.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The trolley handle of this cabin bag is adjustable.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "CABIN BAGS FOR AIR TRAVEL",
+        "text": "If you want a small bag with wheels that you can take onto the plane with you, there's a wide choice. Here are some of the best.\n\n(A) The Flyer B3 is an ultra-lightweight cabin bag which can withstand some pretty harsh treatment, its nylon and polyester sides won't rip or burst open if it's dropped or thrown whilst in transit. However, the trolley handle feels quite thin and flimsy. The top carrying handle is hard and flat, and the side handle isn't easy to grip.\n\n(B) The Lightglide has two external pockets, both of which are zipped and lockable, but the inside pocket does not zip. In tests, we found the contents remain dry when given a good soaking, even around the zips. The trolley handle has a choice of two heights and the plastic hand grip doesn't have any sharp ridges that'll make your hands sore. For carrying there are fabric handles at the top and side.\n\n(C) The Foxton is easy to control across most surfaces. However, the zips don't always run smoothly especially around the corners, so you may have to give them a good tug, especially if the case is very full. This is definitely one to avoid if you're going somewhere rainy as it lets loads of water in, and documents in the pockets will also get pretty wet unless they're in plastic folders.\n\n(D) The Skybag has a single external zipped pocket and another located inside the lid. Your clothes are kept in place by two adjustable straps. The zips, are easy to grip and they run smoothly around the case. However, this cabin bag felt a little heavy to pull on all but smooth floors, and it was hard to steer compared with some of the other suitcases.\n\n(E) The Travelsure 35 is available in a huge range of fabric designs including leopard print or lipstick kisses. The retractable trolley handle is comfortable but can't be adjusted to suit users of different heights. There's no internal divider, but there are two handy zipped pockets in the lid. We test each bag by letting it fall onto a hard . floor – and our results show that you'll have to treat this bag with great care if you want it to last. The fabric tore so badly at one of the corners that it was unusable."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: College car parking policy – staff",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-55-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where can you buy parking permits at the college? ______",
+          "answer": "Hospitality Department",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which document shows the dates of term time? ______",
+          "answer": "Academic Calendar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the start date of annual parking permits? ______",
+          "answer": "1st October",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who is responsible for giving out parking fines if you park in the wrong place? ______",
+          "answer": "Nominated Contractor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do visitors need to show when parking? ______",
+          "answer": "Permits",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where can the nursery pick-up point be found? ______",
+          "answer": "Concorde building",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "College car parking policy – staff",
+        "text": "Parking permits and tickets Staff permits are required to park a motor vehicle (other than a motorcycle parked in the cycle bays) on campus between 8.30 am and 4.30 pm, Monday to Friday, during term time. Annual permits can be purchased from the Hospitality Department. Application forms can be downloaded from the College website. All permits/tickets must be clearly displayed in the windscreen of vehicles during the dates of term time, as published in the academic calendar. Please inform the Services Administrator of any changes to registration details on telephone ext. 406. Annual car parking permits can be purchased from 20th September and are valid for one academic year from 1st October to 30th June. The annual charges for car parking are displayed on the application form.\n\nEnforcement The nominated contractor will issue fixed Penalty Charge Notices (see below) on vehicles that fail to display a valid permit and/or parking ticket, or vehicles that are parked on yellow lines or in disabled parking bays without displaying a blue disabled-parking permit. Reductions of parking space availability may arise in order to accommodate College recruitment activities and/or estate development/maintenance projects. Vehicles that are in breach of the policy will be issued with a Penalty Charge Notice.\n\nPenalty Charge Notice (PCM) The PCN is £30, increasing to £60 seven days after issue. The nominated contractor is responsible for the collection of unpaid PCNs and may use legal action where necessary to recover unpaid PCNs. If issued with a PCN, appeals must be taken up directly with the parking enforcement company (details included on the notice) not the college.\n\nDisabled parking The college has designated car parking spaces for disabled car drivers. The college will make all reasonable efforts to ensure these parking spaces are used only by drivers who display their blue disabled-parking permits, and a valid pay-and-display or annual permit, as appropriate. If issues arise concerning the availability of the parking spaces, those concerned should raise the matter with the Domestic Services Department in order to effect a temporary solution.\n\nVisitors The College welcomes visitors and provides parking arrangements through pre-arranged permits, which must be displayed in the vehicle. Please contact the Hospitality Department for further information, On Open Days, sections of car parking on campus may be reserved for visitors.\n\nShort-term drop-off/pick-up provision There will be two short-term drop-off/pick-up spaces for users of the nursery, with a maximum often minutes' waiting time allowed. These are located outside Concorde Building. The nursery staff bays may not be used under any circumstances."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Maternity benefits",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-55-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the minimum period you must have worked for an employer in order to be eligible for SMP? ______",
+          "answer": "26 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "For how long is SMP payable every week as a percentage of your average weekly earnings? ______",
+          "answer": "6 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What sum is payable every week as the second part of SMP entitlement? ______",
+          "answer": "112.75",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the maximum length of time MA is payable? ______",
+          "answer": "39 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where can MA forms be obtained? ______",
+          "answer": "Antenatal clinics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apart from income, what else is considered when assessing how much Child Tax Credit is paid? ______",
+          "answer": "Personal circumstances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What are Sure Start Maternity Payments? ______",
+          "answer": "Grants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Solving the puzzle of a papyrus document"
+            },
+            {
+              "id": "ii",
+              "text": "The importance of written records and different ways of recording them"
+            },
+            {
+              "id": "iii",
+              "text": "The use of papyrus for a range of purposes"
+            },
+            {
+              "id": "iv",
+              "text": "Suggestions for future possibilities for papyrus"
+            },
+            {
+              "id": "v",
+              "text": "How papyrus was cultivated and different manufacturing methods"
+            },
+            {
+              "id": "vi",
+              "text": "The decline of papyrus use"
+            },
+            {
+              "id": "vii",
+              "text": "The preservation and destruction of papyrus documents"
+            },
+            {
+              "id": "viii",
+              "text": "The process of papyrus production"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Solving the puzzle of a papyrus document"
+            },
+            {
+              "id": "ii",
+              "text": "The importance of written records and different ways of recording them"
+            },
+            {
+              "id": "iii",
+              "text": "The use of papyrus for a range of purposes"
+            },
+            {
+              "id": "iv",
+              "text": "Suggestions for future possibilities for papyrus"
+            },
+            {
+              "id": "v",
+              "text": "How papyrus was cultivated and different manufacturing methods"
+            },
+            {
+              "id": "vi",
+              "text": "The decline of papyrus use"
+            },
+            {
+              "id": "vii",
+              "text": "The preservation and destruction of papyrus documents"
+            },
+            {
+              "id": "viii",
+              "text": "The process of papyrus production"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Solving the puzzle of a papyrus document"
+            },
+            {
+              "id": "ii",
+              "text": "The importance of written records and different ways of recording them"
+            },
+            {
+              "id": "iii",
+              "text": "The use of papyrus for a range of purposes"
+            },
+            {
+              "id": "iv",
+              "text": "Suggestions for future possibilities for papyrus"
+            },
+            {
+              "id": "v",
+              "text": "How papyrus was cultivated and different manufacturing methods"
+            },
+            {
+              "id": "vi",
+              "text": "The decline of papyrus use"
+            },
+            {
+              "id": "vii",
+              "text": "The preservation and destruction of papyrus documents"
+            },
+            {
+              "id": "viii",
+              "text": "The process of papyrus production"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Solving the puzzle of a papyrus document"
+            },
+            {
+              "id": "ii",
+              "text": "The importance of written records and different ways of recording them"
+            },
+            {
+              "id": "iii",
+              "text": "The use of papyrus for a range of purposes"
+            },
+            {
+              "id": "iv",
+              "text": "Suggestions for future possibilities for papyrus"
+            },
+            {
+              "id": "v",
+              "text": "How papyrus was cultivated and different manufacturing methods"
+            },
+            {
+              "id": "vi",
+              "text": "The decline of papyrus use"
+            },
+            {
+              "id": "vii",
+              "text": "The preservation and destruction of papyrus documents"
+            },
+            {
+              "id": "viii",
+              "text": "The process of papyrus production"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E PAPYRUS Used by the ancient Egyptians to make paper, the papyrus plant has helped to shape the world we live in",
+          "options": [
+            {
+              "id": "i",
+              "text": "Solving the puzzle of a papyrus document"
+            },
+            {
+              "id": "ii",
+              "text": "The importance of written records and different ways of recording them"
+            },
+            {
+              "id": "iii",
+              "text": "The use of papyrus for a range of purposes"
+            },
+            {
+              "id": "iv",
+              "text": "Suggestions for future possibilities for papyrus"
+            },
+            {
+              "id": "v",
+              "text": "How papyrus was cultivated and different manufacturing methods"
+            },
+            {
+              "id": "vi",
+              "text": "The decline of papyrus use"
+            },
+            {
+              "id": "vii",
+              "text": "The preservation and destruction of papyrus documents"
+            },
+            {
+              "id": "viii",
+              "text": "The process of papyrus production"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What was the problem with using animal skins and wood strips for writing on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They did not last for a long time."
+            },
+            {
+              "id": "B",
+              "text": "They were not easy to store."
+            },
+            {
+              "id": "C",
+              "text": "They were insufficiently flexible."
+            },
+            {
+              "id": "D",
+              "text": "They could be destroyed by fire."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why did papyrus manufacturers hammer the papyrus?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to remove water from the pith strips"
+            },
+            {
+              "id": "B",
+              "text": "to join the layers of pith strips together"
+            },
+            {
+              "id": "C",
+              "text": "to allow the pith strips to be easily cut"
+            },
+            {
+              "id": "D",
+              "text": "to position the layers of pith strips at the correct angle"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When referring to burning libraries and books, the writer is suggesting that",
+          "options": [
+            {
+              "id": "A",
+              "text": "information can be used for harm as well as for good."
+            },
+            {
+              "id": "B",
+              "text": "new ways must be found to ensure information is not lost."
+            },
+            {
+              "id": "C",
+              "text": "cultural knowledge depends on more than written texts."
+            },
+            {
+              "id": "D",
+              "text": "those in power may Wish to keep others in ignorance."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer refers to Thor Heyerdahl to illustrate the point that",
+          "options": [
+            {
+              "id": "A",
+              "text": "papyrus could be used as a food on long sea voyages."
+            },
+            {
+              "id": "B",
+              "text": "the ancient Egyptians already had advanced navigation skills."
+            },
+            {
+              "id": "C",
+              "text": "papyrus could be used to build boats for long sea journeys."
+            },
+            {
+              "id": "D",
+              "text": "the ancient Egyptians knew of the environmental benefits of papyrus"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer conclude about papyrus today?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is better for the environment than using paper."
+            },
+            {
+              "id": "B",
+              "text": "Its significance is restricted to its role in the past."
+            },
+            {
+              "id": "C",
+              "text": "It is still the best writing surface for some purposes."
+            },
+            {
+              "id": "D",
+              "text": "More efforts need to be made to ensure it stays in use."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Papyrus is rich in cellulose and in some conditions will be destroyed by fungal growths or be consumed by ______However, it can survive for long periods in an environment that is dry. It has been found in a 5,000-year-old (39) ______in Egypt, and in Herculaneum many papyrus documents were preserved following a huge (40) ______in 79 CE. in the town of Oxyrhynchus, unwanted administrative documents were left on rubbish dumps which were covered with sand, preserving them for many years.",
+          "answer": "Insects",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Papyrus is rich in cellulose and in some conditions will be destroyed by fungal growths or be consumed by (38) ______However, it can survive for long periods in an environment that is dry. It has been found in a 5,000-year-old ______in Egypt, and in Herculaneum many papyrus documents were preserved following a huge (40) ______in 79 CE. in the town of Oxyrhynchus, unwanted administrative documents were left on rubbish dumps which were covered with sand, preserving them for many years.",
+          "answer": "Tomb",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-55-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Papyrus is rich in cellulose and in some conditions will be destroyed by fungal growths or be consumed by (38) ______However, it can survive for long periods in an environment that is dry. It has been found in a 5,000-year-old (39) ______in Egypt, and in Herculaneum many papyrus documents were preserved following a huge ______in 79 CE. in the town of Oxyrhynchus, unwanted administrative documents were left on rubbish dumps which were covered with sand, preserving them for many years.",
+          "answer": "Eruption",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Maternity benefits",
+        "text": "If you are expecting a baby, there are a number of benefit schemes that could help you financially. However, eligibility differs for each individual scheme.\n\nStatutory Maternity Pay (SSVSP) You may be entitled to Statutory Maternity Pay (SMP) from your employer. This is a weekly payment, to help make it easier for you to take time off, both before and after the birth of your baby. SMP can be paid for up to 39 weeks. You are entitled to SMP if you have been employed by the same company for at least 26 weeks by the end of the 15th week before your baby is due. You must also be earning an average of at least £87 per week (before tax). The amount you get depends on how much you earn. For 6 weeks, you will receive 90% of your average weekly earnings. Then you will receive £112.75 per week for the remaining 33 weeks.\n\nMaternity Allowance (MA) Maternity Allowance (MA) is available to those who are employed or self-employed but not eligible for Statutory Maternity Pay (SMP). You may be entitled to Maternity Allowance if you have been employed or self-employed for at least 26 weeks in the 66 weeks before you are due to give birth. You don't have to work for the same employer for those 26 weeks. You also don't have to work full weeks (as a part week counts as a full week) during the same period. Maternity Allowance can be paid for up to 39 weeks, and is either paid at the same standard rate as SMP or 90% of your average weekly earnings. You'll receive whichever amount is the lower. You can find Maternity Allowance forms at antenatal clinics throughout the country.\n\nChild Tax Credit If you're on a low income, over 16, and are responsible for at least one child, you may also be entitled to Child Tax Credit. The amount you get will depend on your personal circumstances and income. When your income is being assessed, any child benefit, maintenance payments or Maternity Allowance payments will not be classed as income. This means that it will not be taken into account when calculating your Child Tax Credit.\n\nSure Start Maternity Payments If you get benefits or Child Tax Credit because you're on a low income, then you may be entitled to Sure Start Maternity Payments. These are individual grants to help towards the cost of a new baby."
+      }
+    }
+  ]
+}

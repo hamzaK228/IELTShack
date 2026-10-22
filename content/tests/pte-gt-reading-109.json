@@ -1,0 +1,740 @@
+{
+  "id": "pte-gt-reading-109",
+  "title": "General Training Reading — Practice Test 109",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Local countryside walks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-109-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is very little shade. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There are some steep sections. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is a choice of route on this walk. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is a special site for watching wildlife. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Dogs must not be allowed to run freely ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can sit down in several places. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Local countryside walks",
+        "text": "(A) Grove Mill – Take either the yellow path or the blue path – both eventually come out at the Old Water Mill and are at about the same level of difficulty. There is a shallow stream which runs alongside the yellow path. Dogs enjoy a swim here if it's hot and there are trees to help you cool while you want.\n\n(B) Blackhill Trail – Follow the marker posts carefully as you make your way through some dense forest. If you take a wrong turn as walkers often do your walk could end up being a lot longer than you expected. The sun may be shining but there is plenty of damp undergrowth so wear a tough pair of hiking boots if you don't want your feet to get wet. It isn't advisable to take small dogs on this trail.\n\n(C) Fern Way – The route is winding but fairly flat and doesn't require any special footwear or equipment. It is accessed by a gate with a strong bolt to keep sheep and cows in the field. The path is lined on both sides by firs and some majestic redwoods that date back to the nineteenth century. There are benches along the way where you can rest and admire the beauty of the area.\n\n(D) Bay Red Valley – Be prepared to go up and down a bit on this route. The first section is uphill then the path flattens out but not for long so you need to be fairly fit. The exercise is worth it though as there are some spectacular views across the valley. There is a viewing platform, from which you may be lucky enough to see one of the herds of deer that roam the area.\n\n(E) Brownwater Trail – A circular path will take you past tree and plant species from around the world that are cared for by a dedicated team of volunteers. If you bring your dog keep it on a lead as the smaller shrubs can be easily destroyed. The path itself is open and unprotected so be sure to wear a hat or you could get sunburnt."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Poppi Properties",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-109-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sally Hanugoldi is still renting a property with Poppi Properties.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sally Hanugoldi was the first person to view the flat.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sally made a quick decision to rent the property.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The flat was on a lower level than Sally changed over time.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Lillee's behaviour towards Sally changed over time.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The flat that Sally rented from Poppi Properties was unfurnished.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sally employed someone to clean her carpets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The landlord raised Sally's rent while she was living in the flat.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Poppi Properties",
+        "text": "Review by Sally Hanugoldi\n\n(I) have had a terrible experience with Poppi Properties and as an ex-tenant I advise you to go elsewhere if you want to rent or buy a property – as I have now done. When I initially viewed my Poppi Properties flat I was accompanied by Lillee Eggerton one of the two staff who run the company. The flat was located close to the office where I have been working for the past year so I went there before the working day had begun. I knew immediately that it was the right property for me because of the convenient location and a few days later I paid the deposit and the first two months' rent. The flat was on the 12th floor which I admit was a surprise to me as I thought it was lower when I first read about it but Lillee was very encouraging and I felt confident that I was making the right choice. At this point she was professional and kind but once I had moved into the property I discovered that she was far less approachable that she had been during the viewing period and whenever I tried to contact her she was unavailable. At the start of my tenancy a number of issues were unsatisfactory in the property. For example as a new tenant you have a right to expect your flat to be clean. In fact carpets should be professionally cleaned but mine had not even been hoovered. I had hoped that this problem would be addressed quickly but nothing happened and so I did the job myself. Similarly, the oven worked when I switched it on, but it was black inside and smelt horrible. The company did nothing so in the end I just avoided using the oven while I lived there. Several times I asked to speak to the landlord directly but was told this was not possible. No one should have to put up with these problems particularly when Poppi Properties charges such high rents."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Procedure for making a complaint at work",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-109-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– Ask to see your immediate manager on an ______ basis",
+          "answer": "Informal",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– If not satisfied find details of your company's grievance procedure. This may be in a handbook ______ or on an internet site",
+          "answer": "Manual",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– Write to your employer with details of your complaint. You may also suggest a ______ Make sure there is a date on your letter and keep a copy.",
+          "answer": "Solution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– Your employer should hold a meeting. You have the right to be accompanied by a ______ or a trade union representative.",
+          "answer": "Colleague",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– Your employer should then arrange a further meeting. Where possible this should be led by a manager who is ______ to the previous one",
+          "answer": "Senior",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– think about the possibility of ______",
+          "answer": "Mediation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– make an employment tribunal claim. This must be done within ______ of the date of the event.",
+          "answer": "3/ three months",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Procedure for making a complaint at work",
+        "text": "If you have a problem or complaint at work you might want to take this up with your employer. This is called raising a grievance. Often the best way to sort out a problem is to request an informal meeting with your immediate manager to explain your concerns. You may find it is possible to sort the problem out in this way without having to take any further action. However if you do not feel your problem has been solved you may decided to raise a formal grievance. In this case you should first try to find out your company's grievance procedure you should be able to find details of this in your Company Handbook, HR or Personnel manual or on your company' HR internal site. The next step will probably be to write to your employer. Explain your problem and if you can think of a possible solution for resolving it give details of this. When you have written your letter check that you have written the date and retain a copy so that you have a record of what you wrote. Your employer should arrange an initial meeting at a reasonable time and place to discuss your grievance. You are entitled to ask either a colleague from work or a trade union representative to go to the meeting with you. After the meeting your employer should write to you telling you what they have decided to do about your grievance. If you don't agree with your employer's decision you have the right to appeal against it this must be done in writing. A further meeting should then be called which should be led by a more senior manager if possible. If you are still not satisfied with the decision made at this meeting you may consider whether one way to solve the problem might be through mediation. This be done inside the company or by an external agent. Alternatively you can make an employment tribunal claim. You must do this no more then three months after the time when the event you are complaining about happened. If your application is received after this time limit the tribunal will not usually accept it."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Driving a taxi or private hire vehicle",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-109-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Private hire drivers only take passengers by arrangement with an ______",
+          "answer": "Operator",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A driver's job may involve helping those with ______ problems.",
+          "answer": "Physical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Working hours for drivers may vary but the greatest demand is in the ______",
+          "answer": "Evenings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The majority of drivers are ______",
+          "answer": "Self-employed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A driver needs to be familiar with the ______ of the area.",
+          "answer": "Geography",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It may be useful if a driver has evidence of some ______ ability.",
+          "answer": "Mechanical",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Driving a taxi or private hire vehicle",
+        "text": "Taxis are an important part of any town of city's transport system. Taxis have a licence plate and roof sign that states they are taxi. As a taxi driver you might be booked in advance, wait on a taxi rank or pick up passengers while on the move. You could combine normal pick up jobs with prearranged contracts such as regular trips for schoolchildren or those unable to drive. You might also make longer distance trips such as taking people to airports. The other type of passenger transport is a private hire vehicle. As a private hire driver, you can only collect passengers who have pre booked through your operator. You cannot be flagged down in the street.\n\nWhen working in a taxi or private hire vehicle you would:\n\n• Take job details over the radio from the operator at the office or by an in-car computer\n\n• Help to load and unload passengers' luggage\n\n• Assist passengers with any physical conditions that make it difficult for them to get in and out of the vehicle\n\n• Take payments\n\n• Keep the vehicle clean and roadworthy\n\n• Keep accounts and records if self employed\n\nWorking conditions and skills You would spend most of your time on the road sometimes in heavy traffic and you would be constantly on the move. The job allows you to choose your hours but you will find more work in the evenings. You would work between 40 and 60 hours a week if full time. In the UK, 17% of taxi drivers are employed full time, 17% are employed part time and 66% are self employed. As well as being a skilled driver you need to be good at communicating with people and helping customers. You must be tactful when dealing with problems and have good time management and numeracy skills.\n\nRequirements You will need a special licence from your local authority to be a taxi driver or private care hire driver. For this you usually need to be over 21 years old to have a clean current driving licence and to have been driving for at least 12 months. You may also need to pass a test of knowledge about the local geography. If you are using your own vehicle it will also need a special licence."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Forced rhubarb",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-109-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "The extra time is worth it"
+            },
+            {
+              "id": "ii",
+              "text": "The preferred rhubarb for consumers"
+            },
+            {
+              "id": "iii",
+              "text": "Yorkshire's declining air quality"
+            },
+            {
+              "id": "iv",
+              "text": "Observing the selection process"
+            },
+            {
+              "id": "v",
+              "text": "Suggesting a possible beginning"
+            },
+            {
+              "id": "vi",
+              "text": "A long standing family business"
+            },
+            {
+              "id": "vii",
+              "text": "The best region for forces rhubarb"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What aspect of forced rhubarb does the writer praise in paragraph C?",
+          "options": [
+            {
+              "id": "A",
+              "text": "its suitability for pies"
+            },
+            {
+              "id": "B",
+              "text": "the smoothness of its stems"
+            },
+            {
+              "id": "C",
+              "text": "its superiority over other types of rhubarb"
+            },
+            {
+              "id": "D",
+              "text": "the number of places it can be successfully grown"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why does the writer think forced rhubarb has become more popular among cooking experts?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is cheap and easy to grow"
+            },
+            {
+              "id": "B",
+              "text": "it is attractive and pleasant to eat"
+            },
+            {
+              "id": "C",
+              "text": "local farmers are producing more of it"
+            },
+            {
+              "id": "D",
+              "text": "imported varieties are in limited supply"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the final paragraph the writer suggests that forced rhubarb was first produced",
+          "options": [
+            {
+              "id": "A",
+              "text": "by accident"
+            },
+            {
+              "id": "B",
+              "text": "as animal feed"
+            },
+            {
+              "id": "C",
+              "text": "through trail and error"
+            },
+            {
+              "id": "D",
+              "text": "while growing something else"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During November rhubarb crowns are removed from the soil and replanted in dark sheds that have plenty of heating. These conditions encourage such fast growth that the buds make a ______ sound as the pink stalks appear.",
+          "answer": "Popping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The growing period lasts around three weeks. After that the rhubarb can be picked by a group of people known as ______ They use a (39) ______ to inspect the stems and to make sure they are as long as a human (40) ______",
+          "answer": "Pullers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The growing period lasts around three weeks. After that the rhubarb can be picked by a group of people known as (38) ______ They use a ______ to inspect the stems and to make sure they are as long as a human (40) ______",
+          "answer": "Candle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-109-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The growing period lasts around three weeks. After that the rhubarb can be picked by a group of people known as (38) ______ They use a (39) ______ to inspect the stems and to make sure they are as long as a human ______",
+          "answer": "Arm",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Forced rhubarb",
+        "text": "Rhubarb has large fan shaped leaves and long, green edible stalks which are commonly cooked with sugar to make pies and other desserts. One type of rhubarb is grown in the dark to produce longer, rosier stalks and this is called forced rhubarb.\n\n(A) In the north of England, a cold winter is good news for some and not just snowmen and woolly hat makers. According to Yorkshire farmer David Westwood, this year's forced rhubarb is the best for years. Westwood, a softly spoken Yorkshiremen should know. He's been growing and selling rhubarb for 62 years since he started picking on the farm aged 11. His son Jonathan works on the farm too, making him the sixth generation of the Westwoods to grow the pink stems of petioles as they are otherwise known.\n\n(B) We meet at his farm a few miles from the city of Wakefield which with the cities of Bradford and Leeds form the three points of the Rhubarb Triangle, the heart of the British rhubarb industry. 'It doesn't grow as well anywhere else,' insists Westwood. He has a number of theories as to why this is. The loam soil on a clay base is perfect for the roots or crowns which rhubarb grows from. In Victorian times – the mid to late 1800s – when rhubarb's popularity was at its peak the local coal mines provided cheap fuel for heating the sheds a crucial part of the forcing process which involves depriving the plants of light as they develop. At the same time the effluence from the industry enriched the soil for farmers. On top of that according to Westwood the high levels of pollution in the air would have been ideal for the rhubarb as rhubarb loves soot.\n\n(C) Westwood's farm produces both the greenish outdoor rhubarb the kind that grows well in gardens all over the country and the startingly pink forced rhubarb. It's this that is the cream of the crop the upper class of the rhubarb family. Forced rhubarb is the one that's most likely to convert rhubarb haters who've been traumatised by harshly flavoured school pies made from green overgrown outdoor stems. The slender magenta spears, with a sherbet-tangy flavour and delicate texture are a far cry from that coarse bitter stuff. It's also a rare local fruit (although technically a vegetable) at a time when imports dominate and a welcome splash of color in the drab winter months. No wonder chefs and food writers have fallen in love with forced rhubarb al over again. It's enjoying a remarkable renaissance for only 20 years ago it was in such decline that Westwood one of the last 12 growers left from a peak of 2000, was considering abandoning it.\n\n(D) There are certainly simpler ways to grow food. First the plant roots or crowns are grown outside for more than two years. Then at the start of their third winter they are left in the ground until it is cold enough to break the crown's dormancy. This is one of the factors that gives British rhubarb the edge over imports from the Netherlands which arrive in the country a scene stealing couple of weeks before the Yorkshire crop. To bring them to market that early the Dutch crowns are fed with gibberellic acid to replace the hormones naturally generated by a period of cold weather. Westwood is relaxed on the subject of the imported rhubarb remarking only. \"It's good looking all right but the flavor's nowhere near.\" Back in Yorkshire sometime around the middle of November the crowns are dug up transferred to shed with earthen floors and watered in. The light is blocked out completely and the heating is turned on. In the warm and dark the shoots appear so quickly that the buds can be heard gently popping. Withing 3 weeks or so the first round of picking or pulling as it's known can begin.\n\n(E) In Westwood's 1920s rhubarb sheds it is pitch black. I slip and slide on the narrow troughs that serve as paths between the beds of rhubarb crowns. It's a relief when a team of pullers arrive all local men some of whom have been working for Westwood for 40 years. Each carries a sturdy candle and their pale flickering light reveals a sea of yellow leaves stretching 40 meters to the far wall. The men walk the beds plucking the satiny stems expertly choosing only the ones that have reached the length of an arm. Then cradling the fuchsia pink bundles in their arms they move on to the next patch. It's an extraordinary sight in this age of mechanised, computerised agriculture. 'The pulling's done much the same way as it always has been' Westwood says. 'Electric light spoils the color.' A labour intensive process it goes some way to explain the admittedly eye-watering price of the best forced rhubarb that and the heating now from oil or propane rather than coal.\n\n(F) So how was this arcane cold dark heat process in use since Victorian times discovered? Westwood's story is appealingly earthy. A gardener threw an old crown onto the horse stable muck pile the manure was hot, and plant was soon covered. The stable boy must have been puzzled by the startling pink spears that came pushing through the dirt a week or two later but happily he had the good sense to gather them. Where there's muck there's money – and good eating indeed."
+      }
+    }
+  ]
+}

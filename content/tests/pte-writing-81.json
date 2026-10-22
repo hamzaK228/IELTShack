@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-81",
+  "title": "Academic Writing — Practice Test 81",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-81-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The chart below shows the employment rates across 6 countries in 1995 and 2005. Summarize the information by choosing and describe the main idea, and make comparisons where appropriate. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-81.png"
+        },
+        {
+          "id": "pte-writing-81-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "In many cities today, most people live in large apartment blocks. Does this kind of accommodation have more advantages or disadvantages? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

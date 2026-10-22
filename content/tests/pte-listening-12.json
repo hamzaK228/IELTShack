@@ -1,0 +1,470 @@
+{
+  "id": "pte-listening-12",
+  "title": "Listening — Practice Test 12",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-12-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day and date of event: ______ November",
+          "answer": "Saturday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number attending event: ______",
+          "answer": "55",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "5 dozens sets of ______ and",
+          "answer": "knives/ forks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "dozen each small/ medium glasses Six (5) Costings: Weekend package: 5pm Friday – 10am Monday: $1600 + tax (6) package: 5pm Saturday – 10am Monday: $1350 + tax (7) $50 (within 10Km) Breakage allowance: $60 Replacement costs: plates, bowls – $3.55 per item Small glasses – (8) per item Medium glasses – $4.40 per item Customer details: Full name: (9) Address: 28B, sandstone close, martinsborough Contact number: (10) 084 ______",
+          "answer": "(garden) chairs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "dozens sets of (3) and 40 plastic (4) ______",
+          "answer": "ice buckets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "package: 5pm Saturday – 10am Monday: $1350 + tax ______",
+          "answer": "same day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "$50 (within 10Km) ______",
+          "answer": "home delivery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Small glasses – ______ per item",
+          "answer": "$3.50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Full name: ______",
+          "answer": "Susan Millins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact number: ______ 084",
+          "answer": "3987695",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "feed on the guardrail beside the path",
+          "options": [
+            {
+              "id": "A",
+              "text": "swifts"
+            },
+            {
+              "id": "B",
+              "text": "bats"
+            },
+            {
+              "id": "C",
+              "text": "cockroaches"
+            },
+            {
+              "id": "D",
+              "text": "centipedes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "are dangerous to people",
+          "options": [
+            {
+              "id": "A",
+              "text": "swifts"
+            },
+            {
+              "id": "B",
+              "text": "bats"
+            },
+            {
+              "id": "C",
+              "text": "cockroaches"
+            },
+            {
+              "id": "D",
+              "text": "centipedes"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "collect in large groups",
+          "options": [
+            {
+              "id": "A",
+              "text": "swifts"
+            },
+            {
+              "id": "B",
+              "text": "bats"
+            },
+            {
+              "id": "C",
+              "text": "cockroaches"
+            },
+            {
+              "id": "D",
+              "text": "centipedes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "fly only at night",
+          "options": [
+            {
+              "id": "A",
+              "text": "swifts"
+            },
+            {
+              "id": "B",
+              "text": "bats"
+            },
+            {
+              "id": "C",
+              "text": "cockroaches"
+            },
+            {
+              "id": "D",
+              "text": "centipedes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "live on the roof of the cave",
+          "options": [
+            {
+              "id": "A",
+              "text": "swifts"
+            },
+            {
+              "id": "B",
+              "text": "bats"
+            },
+            {
+              "id": "C",
+              "text": "cockroaches"
+            },
+            {
+              "id": "D",
+              "text": "centipedes"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the guano from the caves used for? ______",
+          "answer": "fertilizer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What are the birds' nests from the cave used for? ______",
+          "answer": "soup",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "carry a ______",
+          "answer": "light/ torch",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "wear a and a hat. ______",
+          "answer": "jacket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "keep to the at all times. ______",
+          "answer": "trails/ path",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mary has been called in for a meeting because",
+          "options": [
+            {
+              "id": "A",
+              "text": "she has been working too hard"
+            },
+            {
+              "id": "B",
+              "text": "she has offered to lead an activity"
+            },
+            {
+              "id": "C",
+              "text": "she is going on a training programme"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The most important part of planning a field trip is:",
+          "options": [
+            {
+              "id": "A",
+              "text": "to organize activities for everyone"
+            },
+            {
+              "id": "B",
+              "text": "to know about the official rules for field trips"
+            },
+            {
+              "id": "C",
+              "text": "to think about and plan for problems"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Leaders must develop",
+          "options": [
+            {
+              "id": "A",
+              "text": "a tailored trip plan"
+            },
+            {
+              "id": "B",
+              "text": "an adventure activities plan"
+            },
+            {
+              "id": "C",
+              "text": "a hazard management plan"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mary's plan must consider such as local rain or wind, the land and the party members. ______",
+          "answer": "factors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mary's plan does not need to consider things such as tropical storms or serious illnesses, which are known as ______",
+          "answer": "events",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Everyone needs warm clothing and a ______",
+          "answer": "raincoat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Hiking – first aid kit, map and a ______",
+          "answer": "compass",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Avoid routes where an avalanche, mudslide or ______ is possible",
+          "answer": "flash flood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Think about the fitness and ______ of the group",
+          "answer": "experience",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Do not allow ______ to be responsible for transport",
+          "answer": "student drivers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ear drum ______",
+          "answer": "ear drum",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "auditory nerve ______",
+          "answer": "auditory nerve",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "speech processor ______",
+          "answer": "speech processor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "receiver ______",
+          "answer": "receiver",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids ______ normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because (40) can damage these cells.",
+          "answer": "amplify",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different ______ from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because (40) can damage these cells.",
+          "answer": "sound signals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in ______ , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because (40) can damage these cells.",
+          "answer": "speech therapy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any ______ ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because (40) can damage these cells.",
+          "answer": "natural hearing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the ______ of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because (40) can damage these cells.",
+          "answer": "duration",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-12-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help some people a lot, but do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells in the cochlea is a factor because ______ can damage these cells.",
+          "answer": "disease",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/12_we.mp3"
+    }
+  ]
+}

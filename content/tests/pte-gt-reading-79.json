@@ -1,0 +1,940 @@
+{
+  "id": "pte-gt-reading-79",
+  "title": "General Training Reading — Practice Test 79",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Volunteers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-79-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "As a volunteer, you will be helping students individually.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You may smoke in the playground.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You cannot take any medicine while at the school.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you forget to sign the register, you won't be insured for accidents.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The best way of communicating with teachers is in writing.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can choose your own hours of work.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The co-ordinator keeps student attendance rolls.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Volunteers",
+        "text": "Thank you for volunteering to work one-on-one with some of the students at our school who need extra help.\n\nSmoking policy Smoking is prohibited by law in the classrooms and anywhere on the school grounds.\n\nSafety and Health Volunteers are responsible for their own personal safety and should notify the school of any pre-existing medical conditions. Prescription and any other medications that you normally carry with you must be handed in to the school nurse on arrival and collected on departure. If you require them, the nurse will dispense them to you in her office.\n\nSign-in\n\n(A) sign-in book is located at office reception. Please sign this register every time you come to the school. This is important for insurance purposes and emergency situations. After signing the book, collect a Visitor's badge from the office. This must be worn at all times when you are on school premises. Remember to return the badge afterwards.\n\nMessages Teachers will communicate with volunteers via telephone, email or messages left at the office. Always ask for messages. You may communicate with teachers in the same way – the preferred method is to leave a memo in the relevant teacher's pigeonhole. These can be found at the end of the corridor in the staffroom block.\n\nWork hours We understand that your time commitment is entirely voluntary and therefore flexible. If your personal schedule should change and this affects your availability, please contact the Co-ordinator for Volunteers at the school on extension 402: alternatively, you could drop in to her office situated in F block.\n\nRole of the Co-ordinator The Co-ordinator is responsible for matching volunteer tutors with students, organising tutorial rooms, ensuring student attendance and overseeing volunteer tutor training. If you encounter any problems, contact her as above."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Camping in the bush",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-79-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Get the landowner's consent before walking across his land",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Use a sleeping mat",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Make a campfire in the bush",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Feed the birds",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Use a free-standing tent",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Dig a hole to bury rubbish in",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Get authorisation before setting out to camp in a national park",
+          "options": [
+            {
+              "id": "A",
+              "text": "Must do"
+            },
+            {
+              "id": "B",
+              "text": "May do"
+            },
+            {
+              "id": "C",
+              "text": "Must not do"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Camping in the bush",
+        "text": "Minimal impact bushwalking Responsible campers observe minimal impact bushwalking practices. This is a code of ethics and behaviour aimed at preserving the natural beauty of bushwalking areas.\n\nPlanning Good planning is the key to safe and successful camping trips. Obtaining a camping permit in advance of leaving to camp out overnight in a national park is obligatory. Bookings are also compulsory for some parks. There could be limits on group sizes in some parks. Occasionally campsites may be closed owing to bushfire danger or for other reasons. Always obtain permission from the owner prior to crossing private property.\n\nEquipment As well as your usual bushwalking gear, you will need the right equipment for camping. A fuel stove and fuel for cooking is essential: not only is it safer, faster and cleaner but it is easier to use in wet weather. It is recommended that you pitch a free-standing tent which requires few pegs and therefore has less ecological impact. Take a sleeping mat, if you have one, to put your sleeping bag on for a more comfortable night's sleep. You will also need a hand trowel to bury human waste — for proper sanitation and hygiene.\n\nCampfires The traditional campfire actually causes a huge amount of environmental damage. If you gather firewood, you are removing the vital habitat of insects, reptiles, birds and small mammals. When campfires lead to bushfires, they create enormous danger to native bush inhabitants and bushwalkers alike and result in destruction of the environment. Under no circumstances should you light a fire in the bush.\n\nCampsites Erect your tent at an existing site if possible; otherwise try to find a spot where you won't damage vegetation. Never cut branches or move rocks or disturb the soil unnecessarily. Aim to leave your campsite as you found it or even cleaner.\n\nRubbish Remove all rubbish — carry it out with you. Don't attempt to burn or bury rubbish because this creates a fire hazard and/or disturbs the soil. Animals can dig up buried rubbish and scatter it about. Never feed the local wildlife — carry out all food scraps as these disturb the natural nutrient balance and can create weed problems.\n\nWalk safely Keep on the track. Wear footwear suitable for the terrain. Take a map."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Conditions of employment",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-79-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Part-time workers are entitled to a higher rate of pay if they work more than their usual number of hours per week.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Casual workers may be hired by the hour or by the day.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A full-timer who takes a year off to have a baby can return to the same employer.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A full-time worker needs a doctor's note if he is sick for 4 days in a row.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A full-time night-shift worker is entitled to 5 weeks' paid holiday each year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Any workers over 55 are entitled to 3 weeks' notice of termination.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Casual workers can be dismissed without notice.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Conditions of employment",
+        "text": "Weekly hours of work – 40 hours per week at the ordinary hourly rate of pay for most full-time employees, plus reasonable additional hours (penalty rates apply). Part-time employees work a regular number of hours and days each week, but fewer hours than full-time workers. Casual employees are employed on an hourly or daily, basis.\n\nEntitlements (full-time employees): Parental leave – up to 12 months' unpaid leave for maternity, paternity and adoption related leave. Sick leave – up to 10 days' paid sick leave per year: more than 4 continuous days requires a medical certificate. Annual leave – 4 weeks' paid leave per annum, plus an additional week for shift workers. Public holidays – a paid day off on a public holiday, except where reasonably requested to work. Employees working on public holidays are entitled to 15% above their normal hourly rate. Notice of termination – 2 weeks' notice of termination (3 weeks it' the employee is more than 55 years old and has at least 2 years of continuous service) Note: The entitlements you receive will depend on whether you are employed on a full-time, part-time or casual basis. If you work part-time, you should receive all the entitlements of a full-time employee but on a pro-rata or proportional basis. If you are a casual worker, you do not have rights to any of the above entitlements nor penalty payments. Casual workers have no guarantee of hours to be worked and they do not have to be given advance notice of termination."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Writing effective emails",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-79-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Written communication"
+            },
+            {
+              "id": "ii",
+              "text": "Clarity"
+            },
+            {
+              "id": "iii",
+              "text": "Style"
+            },
+            {
+              "id": "iv",
+              "text": "Research"
+            },
+            {
+              "id": "v",
+              "text": "End of message"
+            },
+            {
+              "id": "vi",
+              "text": "One point per email"
+            },
+            {
+              "id": "vii",
+              "text": "Relevance"
+            },
+            {
+              "id": "viii",
+              "text": "Specify the response you seek"
+            },
+            {
+              "id": "ix",
+              "text": "The subject line"
+            },
+            {
+              "id": "x",
+              "text": "Internal emails"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Writing effective emails",
+        "text": "(A) Like a headline in a newspaper it should grab the recipient's attention and specify what the message is about — use a few well-chosen words. If the email is one of a series e.g. a weekly newsletter, include the date in the subject line. Never leave it blank.\n\n(B) If you need to email someone about several different issues, write a separate email for each subject. This allows the recipient to reply to each one individually in a timely manner. For instance, one subject might be dealt with quickly while another could involve some research. If you have several related points, put them all in the same email but present each point in a numbered or bulleted paragraph.\n\n(C) Your email should be clear and concise. Sentences should be short and to the point. The purpose of the message should he outlined in the first paragraph and the body should contain all of the relevant information.\n\n(D) Be sure to include a 'call to action' — a phone call or a follow-up appointment perhaps. To ensure a prompt reply, incorporate your contact information —name, title, company, phone/fax numbers or extensions, even your business address if necessary. Even internal messages must have contact information.\n\n(E) Only use this technique for very short messages or reminders where all the relevant information can fit in the subject line. Write EOM at the end of the line to indicate that the recipient doesn't have to open the email.\n\n(F) Emails, even internal ones, should not be too informal — after all, they are written forms of communication. Use your spell-check and avoid slang."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Making the cut",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-79-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A group of people, full length body shot ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Two people, only one facing camera, head and shoulders shot ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Distance shot of central city, from the air ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A single person, head and shoulders, off-centre angle shot ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Lone pedestrian, walking a city street ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A flaming bus, about to crash List of terms A Trunk shot B Dutch tilt C Establishing shot D Money shot E American shot F Long shot G Extreme close-up H Third person shot I First person shot J Close-up ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which TWO aspects of story can be shown with an establishing shot? ______",
+          "answer": "LOCALE (AND) THEME (IN EITHER ORDER)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What does a long shot focus our attention on? ______",
+          "answer": "(A) PIVOTAL CHARACTER/ INDIVIDUAL ACTIVITY",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do close-up restrict in order to make audiences nervous? ______",
+          "answer": "(THE) VISUAL FIELD",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What does a third person shot place importance on? ______",
+          "answer": "CHARACTER INTERACTION",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some shots are not used very often. Money shots have a high ______considering that they only last a few seconds. The money shot brings in a lot of money, however, and is an important part of a film's (39) ______Other less expensive shots can still be fascinating, a character can be made to seem (40) ______in both mind and body when filmed with a Dutch tilt for instance.",
+          "answer": "COST",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some shots are not used very often. Money shots have a high (38) ______considering that they only last a few seconds. The money shot brings in a lot of money, however, and is an important part of a film's ______Other less expensive shots can still be fascinating, a character can be made to seem (40) ______in both mind and body when filmed with a Dutch tilt for instance.",
+          "answer": "PROMOTIONAL MATERIALS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-79-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some shots are not used very often. Money shots have a high (38) ______considering that they only last a few seconds. The money shot brings in a lot of money, however, and is an important part of a film's (39) ______Other less expensive shots can still be fascinating, a character can be made to seem ______in both mind and body when filmed with a Dutch tilt for instance.",
+          "answer": "UNBALANCED",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Making the cut",
+        "text": "When we talk about how films convey meaning we tend to refer to acting, music, dialogue, props and narrative developments, but often forgotten is the visual essence of a film itself, which is the cutting together of moving images – \"motion pictures\"' – each one carefully tailored to meet a particular need or purpose. Most films and many important scenes within them open with an establishing shot. Typically this shot precedes our introduction to the main characters by presenting us with the locale in which the scene's action or dialogue is about to occur. Occasionally, however, a director will use an establishing shot with another goal in mind. An opening view of a thousand soldiers parading in synchronised fashion might have little to reveal about the film's geography, for example, but it does inform the audience that ideas about discipline and conformity are likely to arise in the material that follows. In this way, establishing shots can also introduce a film's theme. After an establishing shot, most directors choose a long shot in order to progress the narrative. This type of shot displays the entire human physique in relation to its surroundings, so it is ideal for bridging the narrative divide between location and individual activity. A long shot is therefore often used to centre on a pivotal character in the scene. A film might begin with an establishing shot of bleak, snowy mountains and then cut to a long shot of a lone skier, for example, or a sweeping panorama of a – bustling metropolis could segue into a street view of someone entering a building. From here the door is wide open for directors to choose whichever shots will enhance the narration. Close-up shots are popular in suspense sequences – a handgun being loaded, a doorknob being turned, the startled expression of someone freshly roused from sleep. Confining the visual field in this way adds to the viewer's apprehension. Dramatic films will probably want to emphasise character interaction. The third person shot – in which a third of the frame consists of a rear view of a person's upper torso and head – can tie effectively utilised here. This shot encourages us to actually slip into the persona of that character, and vicariously live through their experiences.\n\n(A) number of special-purpose shots are used quite rarely – once, if at all, in most films. One such type is the money shot. A money shot has no specific technical features or content, but is typically the most expensive element of a film's production values and conies with a cost massively disproportionate to its semen time (which may be limited to just a brief glimpse). Because of its spectacular, extravagant nature. However, the money shot is a major revenue generator and is widely exploited for use in promotional materials. Money shots are most popular amongst – but not limited to – high visual-impact genres such as action, war, thriller and disaster films. But more affordable shots can also add an interesting twist to the story. The Dutch tilt can depict a character in a state of psychological unease by shooting them from a jaunty angle. In this way they appear literally and metaphorically unbalanced. A trunk shot often shows a small group of characters peering into the trunk of a vehicle. It is filmed from a perspective within the trunk itself, although frequently to avoid camera damage directors will simply place a detached piece of trunk door in the corner of the frame. This shot was a favourite of Quentin Tarantino and has been used in many crime and gangster films, often as a first-person shot through the eyes of someone who is tied up and lying inside the vehicle. A shot that has gained traction in avant-garde circles is the extreme close-up. This is when a single detail of the subject is to be shown. Not all types of shots are used in order to enhance the narrative. Sometimes financial restrictions or technical limitations are a more pressing concern, especially for low-budget film makers. In the early murder mysteries of the 1920s and 1930s, the American shot – which acquired its name from French critics who referred to a \"plan americain\" – was used widely for its ability to present complex dialogue scenes without alterations in camera position. Using the American shot, directors have their cast assemble in single file while discussing key plot points. The result is an efficiently produced scene that conveys all relevant information, but the trade off is a natural tone. Because few people in real life would ever associate in such an awkward manner. American shots tend to result in a hammy, stiff feel to the production."
+      }
+    }
+  ]
+}

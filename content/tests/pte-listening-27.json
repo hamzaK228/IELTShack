@@ -1,0 +1,542 @@
+{
+  "id": "pte-listening-27",
+  "title": "Listening — Practice Test 27",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-27-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much is the beginner's course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "$190"
+            },
+            {
+              "id": "B",
+              "text": "$320"
+            },
+            {
+              "id": "C",
+              "text": "$330"
+            },
+            {
+              "id": "D",
+              "text": "$430"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the club insurance cover?",
+          "options": [
+            {
+              "id": "A",
+              "text": "injury to yourself"
+            },
+            {
+              "id": "B",
+              "text": "injury to your equipment"
+            },
+            {
+              "id": "C",
+              "text": "damage to people’s property"
+            },
+            {
+              "id": "D",
+              "text": "loss of personal belongings"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How do the girls want to travel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "public transport"
+            },
+            {
+              "id": "B",
+              "text": "private bus"
+            },
+            {
+              "id": "C",
+              "text": "car"
+            },
+            {
+              "id": "D",
+              "text": "bicycle"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: C10 Mr and Mrs ______",
+          "answer": "McDonald",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Newcastle ______",
+          "answer": "PO Box 2492",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Fax no.: 0249 ______",
+          "answer": "760412",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of card: ______",
+          "answer": "Visa",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q8",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Which TWO of the following items must people take with them? ______",
+          "answer": "D, F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q9",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Which TWO accommodation options mentioned are near the paragliding school? ______",
+          "answer": "A, F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Which weekend do the girls decide to go? ______",
+          "answer": "after exams",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Purpose of the trip: ______",
+          "answer": "a holiday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Recorded years of Aboriginal life: ______",
+          "answer": "over 40,000 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Main feature of park is the: ______",
+          "answer": "walls of China",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What took Alan by surprise?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the amount of rain"
+            },
+            {
+              "id": "B",
+              "text": "the main feature of the park"
+            },
+            {
+              "id": "C",
+              "text": "evidence of Aboriginal life"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How did Alan feel about having to wait in the park becaue of rain?",
+          "options": [
+            {
+              "id": "A",
+              "text": "he reluctantly accepted it"
+            },
+            {
+              "id": "B",
+              "text": "he war irritated by the rain"
+            },
+            {
+              "id": "C",
+              "text": "it made no difference to his enjoyment"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Alan say about those who helped him?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there were no other campers nearby"
+            },
+            {
+              "id": "B",
+              "text": "they willingly helped in the search"
+            },
+            {
+              "id": "C",
+              "text": "they kept our spirits up"
+            },
+            {
+              "id": "D",
+              "text": "they provided some dry clothes"
+            },
+            {
+              "id": "E",
+              "text": "the park ranger was unable to get through"
+            },
+            {
+              "id": "F",
+              "text": "the helicopter pilot led the search very well"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Alan say about those who helped him?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there were no other campers nearby"
+            },
+            {
+              "id": "B",
+              "text": "they willingly helped in the search"
+            },
+            {
+              "id": "C",
+              "text": "they kept our spirits up"
+            },
+            {
+              "id": "D",
+              "text": "they provided some dry clothes"
+            },
+            {
+              "id": "E",
+              "text": "the park ranger was unable to get through"
+            },
+            {
+              "id": "F",
+              "text": "the helicopter pilot led the search very well"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Alan say about those who helped him?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there were no other campers nearby"
+            },
+            {
+              "id": "B",
+              "text": "they willingly helped in the search"
+            },
+            {
+              "id": "C",
+              "text": "they kept our spirits up"
+            },
+            {
+              "id": "D",
+              "text": "they provided some dry clothes"
+            },
+            {
+              "id": "E",
+              "text": "the park ranger was unable to get through"
+            },
+            {
+              "id": "F",
+              "text": "the helicopter pilot led the search very well"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Alan say about the discoveries on the wall?",
+          "options": [
+            {
+              "id": "A",
+              "text": "he took photos of them"
+            },
+            {
+              "id": "B",
+              "text": "they could be clearly seen"
+            },
+            {
+              "id": "C",
+              "text": "some were large"
+            },
+            {
+              "id": "D",
+              "text": "they were unique"
+            },
+            {
+              "id": "E",
+              "text": "they proved to be ancient"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Alan say about the discoveries on the wall?",
+          "options": [
+            {
+              "id": "A",
+              "text": "he took photos of them"
+            },
+            {
+              "id": "B",
+              "text": "they could be clearly seen"
+            },
+            {
+              "id": "C",
+              "text": "some were large"
+            },
+            {
+              "id": "D",
+              "text": "they were unique"
+            },
+            {
+              "id": "E",
+              "text": "they proved to be ancient"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day of arrivalSunday______",
+          "answer": "thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "SubjectArchitecture______",
+          "answer": "psychology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of textbooks______(24) ______",
+          "answer": "14",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of textbooks(23) ______",
+          "answer": "5",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day of first lectureTuesday______",
+          "answer": "wednesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is Sally's study strategy in lectures? ______",
+          "answer": "write everything",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is Ben's study strategy for reading? ______",
+          "answer": "skim and underline",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the subject of Ben's first lecture? ______",
+          "answer": "the industrial revolution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the title of Ben's first tutorial paper? ______",
+          "answer": "why study architecture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the subject of Sally's first tutorial paper? ______",
+          "answer": "needs for sleep",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Undergraduate diplomaDiploma in Psychology – ______(32) ______",
+          "answer": "one year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Undergraduate diplomaDiploma in Psychology – (31) ______",
+          "answer": "none",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First degree______ – 3 yearsUndergraduate admission to university",
+          "answer": "bachelors of art",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Masters degreeMater of Psychology – 18 months______",
+          "answer": "degree in psychology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Graduate diploma______ – 12 monthsAppropriate honors degree",
+          "answer": "clinical psychology diploma",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Certificate______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Undergraduate diploma______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "First degree______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Masters degree______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-27-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Clinical diploma______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/27_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,1331 @@
+{
+  "id": "pte-gt-reading-19",
+  "title": "General Training Reading — Practice Test 19",
+  "kind": "practice",
+  "description": "2 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: CAUSTON HEALTH CENTRE PATIENT INFORMATION LEAFLET",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-19-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "what to do if you need help outside normal working hours",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "D",
+              "text": "pay for any meals they have."
+            },
+            {
+              "id": "E",
+              "text": "get a single one-hour break."
+            },
+            {
+              "id": "F",
+              "text": "look at the section staffing board."
+            },
+            {
+              "id": "G",
+              "text": "lose pay for their break times."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "who to speak to first for general information",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "D",
+              "text": "pay for any meals they have."
+            },
+            {
+              "id": "E",
+              "text": "get a single one-hour break."
+            },
+            {
+              "id": "F",
+              "text": "look at the section staffing board."
+            },
+            {
+              "id": "G",
+              "text": "lose pay for their break times."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "what happens when you register with the Centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "D",
+              "text": "pay for any meals they have."
+            },
+            {
+              "id": "E",
+              "text": "get a single one-hour break."
+            },
+            {
+              "id": "F",
+              "text": "look at the section staffing board."
+            },
+            {
+              "id": "G",
+              "text": "lose pay for their break times."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "what to do if you need to cancel a doctor's appointment",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "D",
+              "text": "pay for any meals they have."
+            },
+            {
+              "id": "E",
+              "text": "get a single one-hour break."
+            },
+            {
+              "id": "F",
+              "text": "look at the section staffing board."
+            },
+            {
+              "id": "G",
+              "text": "lose pay for their break times."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You must always see the same doctor if you visit the Centre.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you want a repeat prescription you must make an appointment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Helen Stranger is the Head Nurse.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is possible that receptionists will ask you to explain your problem.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should give the Health Centre your new contact details if you move house. Please note It is your responsibility to check that the total break time shown on the staffing sheets accurately reflects the breaks that you take. Any discrepancies should be raised with your Staff Co-ordinator immediately. SPECIAL REQUIREMENTS – FOOD HANDLERS Food handlers are those concerned with preparing and serving unwrapped food. Food handlers should report any instance of sickness, diarrhoea and/or stomach upset experienced either while at work or during a holiday to a member of the Personnel Management team. Any infections of ear, nose, throat, mouth, chest or skin should also be reported to a member of the Personnel Management team. Food handlers need to have an annual dental examination by the company dentist. Alternatively, a current certificate of dental fitness may be produced from their own dentist. This applies to all permanent staff who handles food.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Temporary employees only working 3 hours should ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees who work 11 hours should ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To find out when to have their breaks, employees should ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees working with food must ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Food handlers who have been ill should",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "D",
+              "text": "pay for any meals they have."
+            },
+            {
+              "id": "E",
+              "text": "get a single one-hour break."
+            },
+            {
+              "id": "F",
+              "text": "look at the section staffing board."
+            },
+            {
+              "id": "G",
+              "text": "lose pay for their break times."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is awarded on results obtained in the SCE exam.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Appointments"
+            },
+            {
+              "id": "B",
+              "text": "Weekends and Nights"
+            },
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is only available to students from the College's overseas branch.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Appointments"
+            },
+            {
+              "id": "B",
+              "text": "Weekends and Nights"
+            },
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is not offered every year.",
+          "options": [
+            {
+              "id": "B",
+              "text": "Weekends and Nights"
+            },
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Students need to apply for it.",
+          "options": [
+            {
+              "id": "B",
+              "text": "Weekends and Nights"
+            },
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is offered twice each year.",
+          "options": [
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It pays 100% of the student's tuition fees.",
+          "options": [
+            {
+              "id": "C",
+              "text": "Centre Nurses"
+            },
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It provides 50% of one year's fees.",
+          "options": [
+            {
+              "id": "D",
+              "text": "New Patients"
+            },
+            {
+              "id": "E",
+              "text": "Services Not Covered"
+            },
+            {
+              "id": "F",
+              "text": "Receptionists"
+            },
+            {
+              "id": "G",
+              "text": "Change of Address"
+            },
+            {
+              "id": "A",
+              "text": "talk to a staff co-ordinator."
+            },
+            {
+              "id": "B",
+              "text": "have two thirty-minute breaks."
+            },
+            {
+              "id": "C",
+              "text": "not take any breaks for meals."
+            },
+            {
+              "id": "H",
+              "text": "tell a member of the Personnel Management team."
+            },
+            {
+              "id": "I",
+              "text": "have an annual dental examination."
+            },
+            {
+              "id": "J",
+              "text": "consult their doctor."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "CAUSTON HEALTH CENTRE PATIENT INFORMATION LEAFLET",
+        "text": "(A) Appointments Please telephone 826969 (8.30am – 5.00pm: Mon – Fri). We suggest that you try to see the same doctor whenever possible because it is helpful for both you and your doctor to know each other well. We try hard to keep our appointments running to time, and ask you to be punctual to help us achieve this; if you cannot keep an appointment, please phone in and let us know as soon as possible so that it can be used for someone else. Please try to avoid evening appointments if possible. Each appointment is for one person only. Please ask for a longer appointment if you need more time.\n\n(B) Weekends and Nights Please telephone 823307 and a recorded message will give you the number of the doctor from the Centre on duty. Please remember this is in addition to our normal working day. Urgent calls only please. A Saturday morning emergency surgery is available between 9.30am and 10.00am. Please telephone for home visits before 10.00am at weekends.\n\n(C) Centre Nurses Liz Stuart, Martina Scott and Helen Stranger are available daily by appointment to help you with dressings, ear syringing, children's immunisations, removal of stitches and blood tests. They will also advise on foreign travel, and can administer various injections and blood pressure checks. For any over 75s unable to attend the clinic, Helen Stranger will make a home visit. AII three Centre Nurses are available during normal working hours to carry out health checks on patients who have been on doctors' lists for 3 years.\n\n(D) New Patients Within 3 months of registering with the Centre, new patients on regular medication are invited to attend a health check with their doctor. Other patients can arrange to be seen by one of the Centre Nurses.\n\n(E) Services Not Covered Some services are not covered by the Centre e.g. private certificates, insurance, driving and sports medicals, passport signatures, school medicals and prescriptions for foreign travel. There are recommended fees for these set by the National Medical Association. Please ask at reception.\n\n(F) Receptionists Our receptionists provide your primary point of contact-they are all very experienced and have a lot of basic information at their fingertips. They will be able to answer many of your initial queries and also act as a link with the rest of the team. They may request brief details of your symptoms or illness – this enables the doctors to assess the degree of urgency.\n\n(G) Change of Address Please remember to let us know if you decide to relocate. It is also useful for us to have a record of your telephone number."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Using the Internet and CD-ROM databases in the Library",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-19-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "To use the library printers, students must have.",
+          "options": [
+            {
+              "id": "A",
+              "text": "a floppy disk."
+            },
+            {
+              "id": "B",
+              "text": "correct change in coins."
+            },
+            {
+              "id": "C",
+              "text": "a photocopying card."
+            },
+            {
+              "id": "D",
+              "text": "their own paper."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "To copy search results to a floppy disk, students pay.",
+          "options": [
+            {
+              "id": "A",
+              "text": "$20."
+            },
+            {
+              "id": "B",
+              "text": "no fee."
+            },
+            {
+              "id": "C",
+              "text": "a fee based on actual costs."
+            },
+            {
+              "id": "D",
+              "text": "a fee dependent on the time taken."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "If library staff' search for information on CD-ROM, students pay.",
+          "options": [
+            {
+              "id": "A",
+              "text": "$20."
+            },
+            {
+              "id": "B",
+              "text": "no fee."
+            },
+            {
+              "id": "C",
+              "text": "a fee based on actual costs."
+            },
+            {
+              "id": "D",
+              "text": "a fee dependent on the time taken."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Students can learn to use the Internet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "at all times."
+            },
+            {
+              "id": "B",
+              "text": "in the first two weeks of term only."
+            },
+            {
+              "id": "C",
+              "text": "Monday to Friday only."
+            },
+            {
+              "id": "D",
+              "text": "between 9.00am and 11.30am only."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "To ensure efficient access to the library workstations, students should.",
+          "options": [
+            {
+              "id": "A",
+              "text": "queue to use a workstation in the Media Services Area."
+            },
+            {
+              "id": "B",
+              "text": "reserve a time to use a workstation."
+            },
+            {
+              "id": "C",
+              "text": "work in groups on one workstation."
+            },
+            {
+              "id": "D",
+              "text": "conduct as many searches as possible at one time."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "At any one time, students may use a library workstation for.",
+          "options": [
+            {
+              "id": "A",
+              "text": "half an hour."
+            },
+            {
+              "id": "B",
+              "text": "one hour."
+            },
+            {
+              "id": "C",
+              "text": "two hours."
+            },
+            {
+              "id": "D",
+              "text": "an unlimited time."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "American water withdrawal"
+            },
+            {
+              "id": "ii",
+              "text": "Economic pricing"
+            },
+            {
+              "id": "iii",
+              "text": "What the future holds"
+            },
+            {
+              "id": "iv",
+              "text": "Successful measures taken by some"
+            },
+            {
+              "id": "v",
+              "text": "The role of research"
+            },
+            {
+              "id": "vi",
+              "text": "The thirsty sectors"
+            },
+            {
+              "id": "vii",
+              "text": "Ways of reducing waste"
+            },
+            {
+              "id": "viii",
+              "text": "Interdependence of natural resources"
+            },
+            {
+              "id": "ix",
+              "text": "The demands of development"
+            },
+            {
+              "id": "x",
+              "text": "The consequences for agriculture"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from 38 ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental 39 ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 40 ______ already suffered by many countries today.",
+          "answer": "prosperous",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from 38 ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental 39 ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 40 ______ already suffered by many countries today.",
+          "answer": "population",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from 38 ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental 39 ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 40 ______ already suffered by many countries today.",
+          "answer": "(modern) technology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental 39 ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 40 ______ already suffered by many countries today.",
+          "answer": "leaks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from 38 ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 40 ______ already suffered by many countries today.",
+          "answer": "management",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-19-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other ways of protecting supplies are to reduce water loss resulting from 38 ______ in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental 39 ______ would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the ______ already suffered by many countries today.",
+          "answer": "water deficit",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Using the Internet and CD-ROM databases in the Library",
+        "text": "Bramley College now has full electronic information resources in the College Library to help you in your studies. On CD-ROM in the library we have about fifty databases, including many statistical sources. Want to know the average rainfall in Tokyo or the biggest export earner of Vanuatu? It's easy to find out. Whether you are in the School of Business or the School of Art & Design, it's all here for you. You can conduct your own CD-ROM search for no charge, and you can print out your results on the library printers using your library photocopying card. Alternatively, you can download your results to disk, again for no charge, but bring your own formatted floppy disk or CD-ROM. If you are not sure how to conduct a search for yourself, library staff can do it for you, but we charge $20 for this service, no matter how long or how short a time it takes. All library workstations have broadband access to the Internet, so you can find the web-based information you need quickly and easily If you are unfamiliar with using the Internet, help is available in several ways. You can start with the online tutorial Netstart; just click on the Netstart Icon on the Main Menu. The tutorial will take you through the basic steps to using the Internet, at any time convenient to you. If you prefer, ask one of the librarians for internet advice (best at quiet times between 9.00am and 11.30am weekdays) or attend one of the introductory group sessions that are held in the first two weeks of each term. Sign your name on the list on the Library Bulletin Board to guarantee a place, as they are very popular.\n\n(A) word of warning: demand for access to library workstations is very high, so you are strongly advised to book a workstation, and we have to limit your use to a maximum of one hour at any one time. Make your booking (for which you will receive a receipt) at the information Desk or at the enquiry desks in the Media Services Area (Level 1). Also, use of the computers is limited to Bramley students only, so you may be asked to produce your Student Identification Card to make a booking, or while using the workstations."
+      }
+    }
+  ]
+}

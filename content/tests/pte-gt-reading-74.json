@@ -1,0 +1,805 @@
+{
+  "id": "pte-gt-reading-74",
+  "title": "General Training Reading — Practice Test 74",
+  "kind": "practice",
+  "description": "6 texts, 35 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: daily work record",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who is Amanda Lee? ______",
+          "answer": "Employee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which day is the longest working day? ______",
+          "answer": "Wednesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At what stage is the assignment? ______",
+          "answer": "Continuing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What format must be used to record the hours worked? ______",
+          "answer": "hh:mm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who must verify and sign the work record before payment is processed? ______",
+          "answer": "Supervisor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which number must the work record be sent? ______",
+          "answer": "93907733",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What must be written on the Employment Declaration form? ______",
+          "answer": "Tax number",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "daily work record",
+        "text": "A1 Office Temps Pty Ltd\n\nTemporary Office Staff—no job too small\n\nLevel 4 356 Elizabeth Elswick\n\nTelephone 9390 5647 Facsimile 9390 7733\n\nDAILY WORK RECORD\n\nCompany details\n\nReporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill\n\nEmployee details\n\nName (BLOCK CAPITALS PLEASE): AMANDA LEE\n\nWeek Ending: Sunday 14/1/2011\n\nDayDateStartFinish(Less) BreakTotal\n\nMonday8/1/20119:0017:15:457:30\n\nTuesday9/1/20118:3017:00:308:00\n\nWednesday10/1/20118:4517:30:158:30\n\nThursday11/1/20119:1517:451:007:30\n\nFriday12/1/20119:0017:00:307:30\n\nSaturday13/1/2011\n\nSunday14/1/2011\n\nTotal39:00\n\nClient Signature:\n\nPlease sign and also print name (BLOCK CAPITALS PLEASE)\n\n(I) certify that the above hours, including any overtime, are a true and correct record of hours worked.\n\nAssignment details:\n\nContinuing\n\nA1 teamp signature\n\n(I) certify that the above hours, including any overtime, are a true and correct record of hours worked.\n\nINSTRUCTIONS Complete this Dally Work Record using the format hh:mm (nine-fifteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday.\n\nTO PROCESS YOUR PAY WE REQUIRE: Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certificates are sent out at the end of the financial year to your home address."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: general information for students",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Students who are having problems with their timetable",
+          "options": [
+            {
+              "id": "A",
+              "text": "should first talk to their lecturer at the Student Centre"
+            },
+            {
+              "id": "B",
+              "text": "can send an email to the Academic Advisor"
+            },
+            {
+              "id": "C",
+              "text": "should email a Student Advisor."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Lost student identification cards are reissued",
+          "options": [
+            {
+              "id": "A",
+              "text": "on proof of identity."
+            },
+            {
+              "id": "B",
+              "text": "at the Students’ Association Office."
+            },
+            {
+              "id": "C",
+              "text": "at the Office on Level 4, Broadway."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The concession card allows students",
+          "options": [
+            {
+              "id": "A",
+              "text": "to get discounted bus tickets."
+            },
+            {
+              "id": "B",
+              "text": "to travel half price when using public transit."
+            },
+            {
+              "id": "C",
+              "text": "to get half price cinema tickets."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Students can see a movie at a discounted rate",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the bigger cinemas on a concession pass"
+            },
+            {
+              "id": "B",
+              "text": "using a special card from the University"
+            },
+            {
+              "id": "C",
+              "text": "if there are any available at the Union Office."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Overdue library books must be returned",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the Security Office"
+            },
+            {
+              "id": "B",
+              "text": "in the library return box"
+            },
+            {
+              "id": "C",
+              "text": "only to the library."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The International Student ID card",
+          "options": [
+            {
+              "id": "A",
+              "text": "gives students discount prices at shops"
+            },
+            {
+              "id": "B",
+              "text": "is available to part-time students for an $8 fee"
+            },
+            {
+              "id": "C",
+              "text": "can be used for discounted international travel."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "general information for students",
+        "text": "STAMPS: These are sold at the Union Newsagency at both Broadway (Level 3A) and Markets (A Block) Campuses. STREET DIRECTORY: A copy can be found at the Students' Association Office, Level 3A, Broadway. LECTURE TIMETABLES: Lecture timetables can be obtained online, but if you have any timetable clashes, go to the Student Centre in your discipline or email the area Academic Advisor. STUDENT ID CARDS: This card allows you to borrow library books and table tennis equipment, get discounts at local stores, borrow sports equipment, and get cinema concessions at the smaller movie houses. It also acts as proof of identity where required. You will be given a card when you enrol. A lost card can be replaced by the Student Information Office, Level 4, Broadway. TRAVEL CONCESSION CARDS: These get you half price on public transport and they are issued upon enrolment. If you lose it or you need a replacement, then contact Student Information on Level 4- MOVIE CONCESSION PASS: To get a discount on movie tickets at major cinemas you need a special card, available from the Union Office at Broadway. LIBRARY BOOK RETURN: In front of the Security Office at the Broadway Campus there is a library book return box. Overdue books, however, cannot be left there and must be returned directly to the library. TRAVEL: The International Student Identity Card gets you discounts at museums, theatres, cinemas and retail outlets all over the world. It costs $8 (plus you need a passport-sized colour photograph of yourself) and is only available to full-time students. It is available at the Students' Association Office, Level 3A, Broadway."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: LCC POLICIES",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "LCC's in-house sporting teams are competitive but none excel like the ______team.",
+          "answer": "Soccer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Three-quarters of a student's tuition fee can be refunded on compassionate grounds in the ______teaching week.",
+          "answer": "First",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Health emergencies of a ______nature are referred to a clinic.",
+          "answer": "Minor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "All students are responsible for their own ______for the duration of their studies at LCC.",
+          "answer": "Attendance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "may be put on academic probation · Student frequently fails to complete homework: ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-74-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "may be put on academic probation · Student frequently fails to complete homework: ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-74-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Student does not respond to written notification of probation: ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-74-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Student does not respond to written notification of probation: ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-74-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Student is absent for 50 hours: ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "LCC POLICIES",
+        "text": "Attendance and Academic Progress The best way to learn English is to come to class regularly and to do your homework. If you miss several days of classes, for any reason, you cannot keep up with the other students. The Language and Culture Centre is a serious academic program in intensive English and wants all of its students to succeed. Therefore, students are expected to attend all classes regularly, do all classroom assignments, meet all class requirements, and make academic progress. Students who do not meet these standards may be placed on academic probation. Students placed on academic probation will meet with their teacher(s) and with either or both the Associate Director and International Student Advisor. Students will be informed in writing of the terms and length of their probation. Students who have 30 hours of absences are in danger of being placed on academic probation. Students failing to meet the terms of their probation will be terminated from the LCC for the remainder of the semester. This will also likely result in loss of student status with the US Immigration and Naturalisation Service. Students who have 50 hours of absences will not receive a Certificate of Successful Completion and will be terminated from the program. If a student is absent for 10 consecutive days with no explanation, the student will be terminated automatically from the program."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: sjh maintenance policy",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Care must be taken in terms of the type of cleaning product used on classroom equipment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dispensing receptacles in washrooms are topped up as necessary.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Janitorial staff are required to diagnose and fix minor problems.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Outdoor play areas are not used in winter.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Recycling bins are emptied on a weekly basis.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "sjh maintenance policy",
+        "text": "The purpose of this policy is to outline the duties and responsibilities of janitorial staff in the maintenance of workplace amenities, facilities and grounds in order to meet the health, safety, welfare and hygiene needs of staff and students at and visitors to SJH Secondary School.\n\nGeneral Cleanliness Classrooms are to be kept clean and tidy at all times. On each school day after school hours, floors are swept and mopped, or vacuumed if carpeted. In the event of any spills, floor surfaces are never left wet to prevent injuries due to slipping. Furniture is dusted and polished, but equipment, such as computer screens and overhead projectors, is wiped with appropriate agents to prevent damage. Keyboards, telephones and desk tops are wiped down with special solutions to keep these surface areas sanitised. Bathrooms are serviced and cleaned mid-morning, mid-day and early afternoon, and supplies restocked as necessary. Disinfectants are used on floors and toilets as well as wastebaskets. Dispensers are refilled with toilet paper, liquid soap and paper towels.\n\nGeneral repairs Janitors take care of minor repairs in the school. These include fixing school and office furniture, repairing clogged drains and toilets, replacing tight bulbs and tubes; and troubleshooting. It is the responsibility of the caretaker to ensure classroom equipment, such as ceiling mounted projectors, is in good working order. Managers are to be notified in a timely manner of any major repairs that need to be undertaken.\n\nSchool Grounds Caretakers are responsible for the upkeep of the school grounds. This includes cutting the grass, trimming the shrubs and looking after the garden beds as well as removing snow from the walkways and parking areas in winter. Gutters and drains are cleaned of debris regularly. Tree branches that obstruct or create hazardous situations take priority. Playground equipment is checked on a regular basis to make sure it is safe to use.\n\nWaste Materials Appropriately identified waste containers need to be available at locations where particular waste is generated. Two paper recycling bins and a secure waste bin service the high traffic area in the photocopying room. Removal of the former waste is carried out as necessary. Confidential waste Is collected by Poison Security on notification, usually weekly. Four bins are also strategically placed on school grounds – two for general waste and the other two for recyclable materials, namely cans and bottles, and paper. These are checked on a daily basis and emptied accordingly."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: international business institute buddy peer support scheme",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The main aim of the Buddy Peer Support Scheme is to help new students during exam periods.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students will be put in touch with others from their own language group.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The principal reward for the buddy is making new friends.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The buddy is responsible for making the first move to meet the new student.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies need to work one-on-one with the student in their care.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies participate on a voluntary basis.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Buddies are required to attend two meetings per term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The buddy's obligations finish at the end of each term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "international business institute buddy peer support scheme",
+        "text": "Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What's in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy!\n\nResponsibilities of buddies 1. Telephone and arrange to make contact with the new student. 2. Meet the student and show him/her around the campus and the local area. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Personal/Carer's Leave and Compassionate Leave",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-74-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Annual leave entitlements for IMS workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "increase only after a year of service."
+            },
+            {
+              "id": "B",
+              "text": "are based on the number of hours worked."
+            },
+            {
+              "id": "C",
+              "text": "apply to those employees who have worked for a year."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Employees who work extra hours",
+          "options": [
+            {
+              "id": "A",
+              "text": "earn additional paid leave entitlements."
+            },
+            {
+              "id": "B",
+              "text": "will receive additional leave shown in hours on their payslip."
+            },
+            {
+              "id": "C",
+              "text": "must submit a pay claim."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "An employee's request to take holidays",
+          "options": [
+            {
+              "id": "A",
+              "text": "can be easily refused by IMS under the law."
+            },
+            {
+              "id": "B",
+              "text": "has to be during IMS’s shutdown period."
+            },
+            {
+              "id": "C",
+              "text": "must be fairly considered by IMS."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "IMS employees' paid personal/carer's leave",
+          "options": [
+            {
+              "id": "A",
+              "text": "is determined by the employer on a yearly basis."
+            },
+            {
+              "id": "B",
+              "text": "is provided under the same conditions as their annual leave."
+            },
+            {
+              "id": "C",
+              "text": "includes both sick leave and compassionate leave."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-74-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "An IMS worker is entitled to use carer's leave to",
+          "options": [
+            {
+              "id": "A",
+              "text": "help his/her sister who’s been in a car accident."
+            },
+            {
+              "id": "B",
+              "text": "attend a grandmother’s funeral."
+            },
+            {
+              "id": "C",
+              "text": "take a nephew who accidently broke his arm to hospital."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Personal/Carer's Leave and Compassionate Leave",
+        "text": "IMS employees are provided with personal/carer's leave and compassionate leave as per Workplace Relations Standards. For each 12 month period you are entitled to 10 days of paid personal/ carer's leave, which covers both sick leave and carer's leave, and 2 days of paid compassionate leave. This leave also accrues and accumulates under the same conditions as your annual leave. Personal/carer's leave can be taken as a result of personal illness or injury, or to provide care or support for a member of your immediate family who is sick, injured or has an unexpected emergency Compassionate leave may be taken in the event of a death or life threatening illness of a member of your immediate family. For the purposes of this document, 'immediate family' includes the following: spouse, de facto partner, children, parents, grandparents, grandchildren and siblings. When personal, carer's or compassionate leave is taken, you must notify IMS as soon as possible of your inability to attend work. IMS may request evidence in the form of a medical certificate or statutory declaration to support your reason for the leave."
+      }
+    }
+  ]
+}

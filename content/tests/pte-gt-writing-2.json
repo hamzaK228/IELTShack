@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-2",
+  "title": "General Training Writing — Letter 2",
+  "kind": "practice",
+  "description": "Task 1 letter, 2 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-2-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You play a team sport with some friends. Last week a member of the team had an accident and wasn't able to play with you at the weekend. You decide to write to him in hospital, telling him about the match.\nWrite a letter to your friend. In your letter,\ntell him which team won\ndescribe the conditions on the day\nsay how you felt about the match",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

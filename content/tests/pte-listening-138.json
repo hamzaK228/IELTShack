@@ -1,0 +1,766 @@
+{
+  "id": "pte-listening-138",
+  "title": "Listening — Practice Test 138",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-138-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Customer name: Mr. ______",
+          "answer": "Sanders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Daytime telephone number: ______",
+          "answer": "4456786",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone number after 5 pm: As above (if no one answers, ______ )",
+          "answer": "leave a message",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of guests: ______",
+          "answer": "50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date: ______",
+          "answer": "25 June",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Shape: ______",
+          "answer": "round",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Size: ______",
+          "answer": "large",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of tables: ______",
+          "answer": "5",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The man decided to book",
+          "options": [
+            {
+              "id": "A",
+              "text": "a three course meal"
+            },
+            {
+              "id": "B",
+              "text": "a buffet"
+            },
+            {
+              "id": "C",
+              "text": "a banquet"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The man will have to pay",
+          "options": [
+            {
+              "id": "A",
+              "text": "£750 tomorrow"
+            },
+            {
+              "id": "B",
+              "text": "£100 per head"
+            },
+            {
+              "id": "C",
+              "text": "£1500 on the day of the party"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The East Front was added to the building",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The last big structural change was made",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The building was bombed",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The building became a palace",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The building was known as The Queen's House",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Houses of Parliament were destroyed by fire",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Marble Arch was moved",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 1837"
+            },
+            {
+              "id": "B",
+              "text": "between 1837 and 1900"
+            },
+            {
+              "id": "C",
+              "text": "after 1900"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Up to people attend garden parties at the palace each year. ______",
+          "answer": "8000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The garden contains more than species of wild flower. ______",
+          "answer": "350",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The public can visit the nineteen in August or September ______",
+          "answer": "state rooms",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What aspect of history is it important to learn something from? ______",
+          "answer": "(our) past mistakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What do we also need to know about our ancestors? ______",
+          "answer": "what they thought",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where are transferable skills useful? ______",
+          "answer": "in a job",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What kind of approach to learning does social science use? ______",
+          "answer": "flexible and adaptable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Anthropology",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Economics",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Education",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Geography",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Law",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Sociology and social work",
+          "options": [
+            {
+              "id": "A",
+              "text": "This will focus on how each generation learns about its own culture"
+            },
+            {
+              "id": "B",
+              "text": "This necessarily includes a study of physics and chemistry"
+            },
+            {
+              "id": "C",
+              "text": "This is studied from the point of view of human behavior"
+            },
+            {
+              "id": "D",
+              "text": "This will only be covered in terms of its theory"
+            },
+            {
+              "id": "E",
+              "text": "This also covers the distribution of wealth"
+            },
+            {
+              "id": "F",
+              "text": "This includes the study of archaeology"
+            },
+            {
+              "id": "G",
+              "text": "This has received criticism for not being scientific enough"
+            },
+            {
+              "id": "H",
+              "text": "This includes some work on urban planning"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Students should complete their work on the 1950s",
+          "options": [
+            {
+              "id": "A",
+              "text": "if they want to be allowed to continue attending lectures"
+            },
+            {
+              "id": "B",
+              "text": "because they will appreciate the information about the 1960s more"
+            },
+            {
+              "id": "C",
+              "text": "otherwise they face the possibility of being failed for their coursework"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the lecturer, the 'baby boom' happened",
+          "options": [
+            {
+              "id": "A",
+              "text": "because of relaxed attitudes in the sixties"
+            },
+            {
+              "id": "B",
+              "text": "during a time of war"
+            },
+            {
+              "id": "C",
+              "text": "because people felt more secure"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In the sixties the USA had 70 million",
+          "options": [
+            {
+              "id": "A",
+              "text": "teenagers"
+            },
+            {
+              "id": "B",
+              "text": "babies"
+            },
+            {
+              "id": "C",
+              "text": "adults"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the lecturer, compared to the 1950s, the 1960s were",
+          "options": [
+            {
+              "id": "A",
+              "text": "less conservative"
+            },
+            {
+              "id": "B",
+              "text": "more conservative"
+            },
+            {
+              "id": "C",
+              "text": "just as conservative"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the lecturer, literature changed the way women",
+          "options": [
+            {
+              "id": "A",
+              "text": "over 40 were treated by society"
+            },
+            {
+              "id": "B",
+              "text": "viewed issues of race in society"
+            },
+            {
+              "id": "C",
+              "text": "felt about their roles in society"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The rate of crime in the sixties",
+          "options": [
+            {
+              "id": "A",
+              "text": "rose 9% during the decade"
+            },
+            {
+              "id": "B",
+              "text": "was 9 times higher than in the fifties"
+            },
+            {
+              "id": "C",
+              "text": "was 9 times lower than in the fifties"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What happened at the start of the 1960s?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the first heart transplant"
+            },
+            {
+              "id": "B",
+              "text": "the introduction of the internet"
+            },
+            {
+              "id": "C",
+              "text": "the invention of lasers"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In October, 1962, US President Kennedy met advisers to discuss ______ which proved that the Cubans were installing nuclear missiles, presumably to use against the US. Kennedy was faced with three choices: to try to resolve the crisis diplomatically; to block the delivery of further weapons into Cuba; or to attack Cuba. Kennedy chose (39) option, which prevented the build up of more missiles and led to the withdrawal of the existing ones. Most are agreed that a (40) was narrowly avoided by Kennedy's decision.",
+          "answer": "(photographic) evidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In October, 1962, US President Kennedy met advisers to discuss (38) which proved that the Cubans were installing nuclear missiles, presumably to use against the US. Kennedy was faced with three choices: to try to resolve the crisis diplomatically; to block the delivery of further weapons into Cuba; or to attack Cuba. Kennedy chose ______ option, which prevented the build up of more missiles and led to the withdrawal of the existing ones. Most are agreed that a (40) was narrowly avoided by Kennedy's decision.",
+          "answer": "second",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-138-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In October, 1962, US President Kennedy met advisers to discuss (38) which proved that the Cubans were installing nuclear missiles, presumably to use against the US. Kennedy was faced with three choices: to try to resolve the crisis diplomatically; to block the delivery of further weapons into Cuba; or to attack Cuba. Kennedy chose (39) option, which prevented the build up of more missiles and led to the withdrawal of the existing ones. Most are agreed that a ______ was narrowly avoided by Kennedy's decision.",
+          "answer": "(nuclear) war",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/138_we.mp3"
+    }
+  ]
+}

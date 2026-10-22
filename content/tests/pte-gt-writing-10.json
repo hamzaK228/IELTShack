@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-10",
+  "title": "General Training Writing — Letter 10",
+  "kind": "practice",
+  "description": "Task 1 letter, 10 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-10-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are going on a short course to a training college abroad. It is a college that you have not been to before.\nWrite a letter to the accommodation officer. In your letter,\ngive details of your course and your arrival/departure date\nexplain your accommodation needs\nask for information about getting to and from the college",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

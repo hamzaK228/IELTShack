@@ -1,0 +1,956 @@
+{
+  "id": "pte-reading-26",
+  "title": "Academic Reading — Practice Test 26",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: THE DEPARTMENT OF ETHNOGRAPHY",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-26-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The twentieth-century collections come mainly from mainstream societies such as the US and Europe.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Department of Ethnography focuses mainly on modern societies.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Department concentrates on collecting single unrelated objects of great value.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The textile collection of the Department of Ethnography is the largest in the world.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Traditional societies are highly inventive in terms of technology.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Many small-scale societies have survived and adapted in spite of predictions to the contrary.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Bolivian textiles ______",
+          "answer": "TS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Indian coracles ______",
+          "answer": "AT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "airport art ______",
+          "answer": "FA",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Arctic kayaks ______",
+          "answer": "AT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "necessities of life of an Arabian farmer ______",
+          "answer": "FA",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "tents from the Middle East ______",
+          "answer": "SE",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "THE DEPARTMENT OF ETHNOGRAPHY",
+        "text": "The Department of Ethnography was created as a separate deportment within the British Museum in 1946, offer 140 years of gradual development from the original Department of Antiquities. If is concerned with the people of Africa, the Americas, Asia, the Pacific and parts of Europe. While this includes complex kingdoms, as in Africa, and ancient empires, such as those of the Americas, the primary focus of attention in the twentieth century has been on small-scale societies. Through its collections, the Department's specific interest is to document how objects are created and used, and to understand their importance and significance to those who produce them. Such objects can include both the extraordinary and the mundane, the beautiful and the banal. The collections of the Department of Ethnography include approximately 300,000 artefacts, of which about half are the product of the present century. The Department has a vital role to play in providing information on non-Western cultures to visitors and scholars. To this end, the collecting emphasis has often been less on individual objects than on groups of material which allow the display of a broad range of a society's cultural expressions. Much of the more recent collecting was carried out in the field, sometimes by Museum staff working on general anthropological projects in collaboration with a wide variety of national governments and other institutions. The material collected includes great technical series – for instance, of textiles from Bolivia, Guatemala, Indonesia and areas of West Africa – or of artefact types such as boats. The latter include working examples of coracles from India, reed boars from Lake Titicaca in the Andes, kayaks from the Arctic, and dug-out canoes from several countries. The field assemblages, such as those from the Sudan, Madagascar and Yemen, include a whole range of material culture representative of one people. This might cover the necessities of life of an African herdsman or on Arabian farmer, ritual objects, or even on occasion airport art. Again, a series of acquisitions might represent a decade's fieldwork documenting social experience as expressed in the varieties of clothing and jewellery styles, tents and camel trappings from various Middle Eastern countries, or in the developing preferences in personal adornment and dress from Papua New Guinea. Particularly interesting are a series of collections which continue to document the evolution of ceremony and of material forms for which the Department already possesses early (if nor the earliest) collections formed after the first contact with Europeans. The importance of these acquisitions extends beyond the objects themselves. They come from the Museum with documentation of the social context, ideally including photographic records. Such acquisitions have multiple purposes. Most significantly they document for future change. Most people think of the cultures represented in the collection in terms of the absence of advanced technology. In fact, traditional practices draw on a continuing wealth of technological ingenuity. Limited resources and ecological constraints are often overcome by personal skills that would be regarded as exceptional in the West. Of growing interest is the way in which much of what we might see as disposable is, elsewhere, recycled and reused. With the Independence of much of Asia and Africa after 1945, it was assumed that economic progress would rapidly lead to the disappearance or assimilation of many small-scale societies. Therefore, it was felt that the Museum should acquire materials representing people whose art or material culture, ritual or political structures were on the point of irrevocable change. This attitude altered with the realisation that marginal communities can survive and adapt in spite of partial integration into a notoriously fickle world economy. Since the seventeenth century, with the advent of trading companies exporting manufactured textiles to North America and Asia, the importation of cheap goods has often contributed to the destruction of local skills and indigenous markets. On the one hand modern imported goods may be used in an everyday setting, while on the other hand other traditional objects may still be required for ritually significant events. Within this context trade and exchange attitudes are inverted. What are utilitarian objects to a Westerner may be prized objects in other cultures – when transformed by local ingenuity – principally for aesthetic value. In the some way, the West imports goods from other peoples and in certain circumstances categorizes them as 'art'. Collections act as an ever-expanding database, nor merely for scholars and anthropologists, bur for people involved in a whole range of educational and artistic purposes. These include schools and universities as well as colleges of art and design. The provision of information about non-Western aesthetics and techniques, not just for designers and artists but for all visitors, is a growing responsibility for a Department whose own context is an increasingly multicultural European society."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Secrets of the Forest",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-26-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Amazonia as unable to sustain complex societies"
+            },
+            {
+              "id": "ii",
+              "text": "The role of recent technology in ecological research in Amazonia"
+            },
+            {
+              "id": "iii",
+              "text": "The hostility of the indigenous population to North American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Recent evidence"
+            },
+            {
+              "id": "v",
+              "text": "Early research among the Indian Amazons"
+            },
+            {
+              "id": "vi",
+              "text": "The influence of prehistoric inhabitants on Amazonian natural history"
+            },
+            {
+              "id": "vii",
+              "text": "The great difficulty of changing local attitudes and practices"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Amazonia as unable to sustain complex societies"
+            },
+            {
+              "id": "ii",
+              "text": "The role of recent technology in ecological research in Amazonia"
+            },
+            {
+              "id": "iii",
+              "text": "The hostility of the indigenous population to North American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Recent evidence"
+            },
+            {
+              "id": "v",
+              "text": "Early research among the Indian Amazons"
+            },
+            {
+              "id": "vi",
+              "text": "The influence of prehistoric inhabitants on Amazonian natural history"
+            },
+            {
+              "id": "vii",
+              "text": "The great difficulty of changing local attitudes and practices"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Amazonia as unable to sustain complex societies"
+            },
+            {
+              "id": "ii",
+              "text": "The role of recent technology in ecological research in Amazonia"
+            },
+            {
+              "id": "iii",
+              "text": "The hostility of the indigenous population to North American influences"
+            },
+            {
+              "id": "iv",
+              "text": "Recent evidence"
+            },
+            {
+              "id": "v",
+              "text": "Early research among the Indian Amazons"
+            },
+            {
+              "id": "vi",
+              "text": "The influence of prehistoric inhabitants on Amazonian natural history"
+            },
+            {
+              "id": "vii",
+              "text": "The great difficulty of changing local attitudes and practices"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The reason for the simplicity of the Indian way of life is that Amazonia has always been unable to support a more complex society.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a crucial popular misconception about the human history of Amazonia.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are lessons to be learned from similar ecosystems in other parts of the world.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most ecologists were aware that the areas of Amazonia they were working in had been shaped by human settlement.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The indigenous Amazonian Indians are necessary to the well-being of the forest.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It would be possible for certain parts of Amazonia to support a higher population.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In 1942 the US anthropology student concluded that the Siriono",
+          "options": [
+            {
+              "id": "A",
+              "text": "were unusually aggressive and cruel"
+            },
+            {
+              "id": "B",
+              "text": "had had their way of life destroyed by invaders"
+            },
+            {
+              "id": "C",
+              "text": "were an extremely primitive society"
+            },
+            {
+              "id": "D",
+              "text": "had only recently made permanent settlements"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The author believes recent discoveries of the remains of complex societies in Amazonia",
+          "options": [
+            {
+              "id": "A",
+              "text": "are evidence of early indigenous communities"
+            },
+            {
+              "id": "B",
+              "text": "are the remains of settlements by invaders"
+            },
+            {
+              "id": "C",
+              "text": "are the ruins of communities established since the European invasions"
+            },
+            {
+              "id": "D",
+              "text": "show the region has only relatively recently been covered by forest"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The assumption that the tropical ecosystem of Amazonia has been created solely by natural forces",
+          "options": [
+            {
+              "id": "A",
+              "text": "has often been questioned by ecologists in the past"
+            },
+            {
+              "id": "B",
+              "text": "has been shown to be incorrect by recent research"
+            },
+            {
+              "id": "C",
+              "text": "was made by Peter Feinsinger and other ecologists"
+            },
+            {
+              "id": "D",
+              "text": "has led to some fruitful discoveriesx"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The application of our new insights into the Amazonian past would",
+          "options": [
+            {
+              "id": "A",
+              "text": "warn us against allowing any development at all"
+            },
+            {
+              "id": "B",
+              "text": "cause further suffering to the Indian communities"
+            },
+            {
+              "id": "C",
+              "text": "change present policies on development in the region"
+            },
+            {
+              "id": "D",
+              "text": "reduce the amount of hunting, fishing, and ‘slash-and-burn’"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Secrets of the Forest",
+        "text": "(A) In 1942 Allan R Holmberg, a doctoral student in anthropology from Yale University, USA, ventured deep into the jungle of Bolivian Amazonia and searched out an isolated band of Siriono Indians. The Siriono, Holmberg later wrote, led a \"strikingly backward\" existence. Their villages were little more than clusters of thatched huts. Life itself was a perpetual and punishing search for food: some families grew manioc and other starchy crops in small garden plots cleared from the forest, while other members of the tribe scoured the country for small game and promising fish holes. When local resources became depleted, the tribe moved on. As for technology, Holmberg noted, the Siriono \"may be classified among the most handicapped people of the world\". Other than bows, arrows and crude digging sticks, the only tools the Siriono seemed to possess were \"two machetes worn to the size of pocket- knives\".\n\n(B) Although the lives of the Siriono have changed in the intervening decades, the image of them as Stone Age relics has endured. Indeed, in many respects the Siriono epitomize the popular conception of life in Amazonia. To casual observers, as well as to influential natural scientists and regional planners, the luxuriant forests of Amazonia seem ageless, unconquerable, a habitat totally hostile to human civilization. The apparent simplicity of Indian ways of life has been judged an evolutionary adaptation to forest ecology, living proof that Amazonia could not – and cannot – sustain a more complex society. Archaeological traces of far more elaborate cultures have been dismissed as the ruins of invaders from outside the region, abandoned to decay in the uncompromising tropical environment.\n\n(C) The popular conception of Amazonia and its native residents would be enormously consequential if it were true. But the human history of Amazonia in the past 11,000 years betrays that view as myth. Evidence gathered in recent years from anthropology and archaeology indicates that the region has supported a series of indigenous cultures for eleven thousand years; an extensive network of complex societies – some with populations perhaps as large as 100,000 – thrived there for more than 1,000 years before the arrival of Europeans. (Indeed, some contemporary tribes, including the Siriono, still live among the earthworks of earlier cultures.) Far from being evolutionarily retarded, prehistoric Amazonian people developed technologies and cultures that were advanced for their time. If the lives of Indians today seem \"primitive\", the appearance is not the result of some environmental adaptation or ecological barrier; rather it is a comparatively recent adaptation to centuries of economic and political pressure. Investigators who argue otherwise have unwittingly projected the present onto the past.\n\n(D) The evidence for a revised view of Amazonia will take many people by surprise. Ecologists have assumed that tropical ecosystems were shaped entirely by natural forces and they have focused their research on habitats they believe have escaped human influence. But as the University of Florida ecologist, Peter Feinsinger, has noted, an approach that leaves people out of the equation is no longer tenable. The archaeological evidence shows that the natural history of Amazonia is to a surprising extent tied to the activities of its prehistoric inhabitants.\n\n(E) The realization comes none too soon. In June 1992 political and environmental leaders from across the world met in Rio de Janeiro to discuss how developing countries can advance their economies without destroying their natural resources. The challenge is especially difficult in Amazonia. Because the tropical forest has been depicted as ecologically unfit for large-scale human occupation, some environmentalists have opposed development of any kind. Ironically, one major casualty of that extreme position has been the environment itself. While policy makers struggle to define and implement appropriate legislation, development of the most destructive kind has continued apace over vast areas.\n\n(F) The other major casualty of the \"naturalism\" of environmental scientists has been the indigenous Amazonians, whose habits of hunting, fishing, and slash-and-burn cultivation often have been represented as harmful to the habitat. In the clash between environmentalists and developers, the Indians, whose presence is in fact crucial to the survival of the forest, have suffered the most. The new understanding of the pre-history of Amazonia, however, points toward a middle ground. Archaeology makes clear that with judicious management selected parts of the region could support more people than anyone thought before. The long- buried past, it seems, offers hope for the future."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: HIGHS and LOWS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-26-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why did the divers perform less well in colder conditions?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They were less able to concentrate"
+            },
+            {
+              "id": "B",
+              "text": "Their body temperature fell too quickly"
+            },
+            {
+              "id": "C",
+              "text": "Their mental functions were immediately affected by the cold"
+            },
+            {
+              "id": "D",
+              "text": "They were used to swimming pool conditions"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The number of daylight hours",
+          "options": [
+            {
+              "id": "A",
+              "text": "affects the performance of workers in restaurants"
+            },
+            {
+              "id": "B",
+              "text": "influences animal feeding habits"
+            },
+            {
+              "id": "C",
+              "text": "makes animals like hamsters more active"
+            },
+            {
+              "id": "D",
+              "text": "prepares humans for having greater leisure time"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Human irritability may be influenced by",
+          "options": [
+            {
+              "id": "A",
+              "text": "how nervous and aggressive people are"
+            },
+            {
+              "id": "B",
+              "text": "reaction to certain weather phenomena"
+            },
+            {
+              "id": "C",
+              "text": "the number of ions being generated by machines"
+            },
+            {
+              "id": "D",
+              "text": "the attitude of people to thunderstorms"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Seasonal Affective Disorder is disrupting children's education in Russia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Serotonin is an essential cause of human aggression.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Scientific evidence links 'happy associations with weather' to human mood.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A link between depression and the time of year has been established.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Melatonin levels increase at certain times of the year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Positively charged ions can influence eating habits.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the text which THREE of the following conditions have been scientifically proved to have a psychological effect on humans? Choose THREE letters A—G and write them in boxes 35—37 on your answer sheet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of negative ions"
+            },
+            {
+              "id": "B",
+              "text": "rainy weather"
+            },
+            {
+              "id": "C",
+              "text": "food consumption"
+            },
+            {
+              "id": "D",
+              "text": "high serotonin levels"
+            },
+            {
+              "id": "E",
+              "text": "sunny weather"
+            },
+            {
+              "id": "F",
+              "text": "freedom from worry"
+            },
+            {
+              "id": "G",
+              "text": "lack of counselling facilities"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the text which THREE of the following conditions have been scientifically proved to have a psychological effect on humans? Choose THREE letters A—G and write them in boxes 35—37 on your answer sheet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of negative ions"
+            },
+            {
+              "id": "B",
+              "text": "rainy weather"
+            },
+            {
+              "id": "C",
+              "text": "food consumption"
+            },
+            {
+              "id": "D",
+              "text": "high serotonin levels"
+            },
+            {
+              "id": "E",
+              "text": "sunny weather"
+            },
+            {
+              "id": "F",
+              "text": "freedom from worry"
+            },
+            {
+              "id": "G",
+              "text": "lack of counselling facilities"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the text which THREE of the following conditions have been scientifically proved to have a psychological effect on humans? Choose THREE letters A—G and write them in boxes 35—37 on your answer sheet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of negative ions"
+            },
+            {
+              "id": "B",
+              "text": "rainy weather"
+            },
+            {
+              "id": "C",
+              "text": "food consumption"
+            },
+            {
+              "id": "D",
+              "text": "high serotonin levels"
+            },
+            {
+              "id": "E",
+              "text": "sunny weather"
+            },
+            {
+              "id": "F",
+              "text": "freedom from worry"
+            },
+            {
+              "id": "G",
+              "text": "lack of counselling facilities"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It has been established that social tension increases significantly in the United States during ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Research has shown that a hamster's bodyweight increases according to its exposure to ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-26-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Animals cope with changing weather and food availability because they are influenced by",
+          "options": [
+            {
+              "id": "A",
+              "text": "daylight"
+            },
+            {
+              "id": "B",
+              "text": "hot weather"
+            },
+            {
+              "id": "C",
+              "text": "melatonin"
+            },
+            {
+              "id": "D",
+              "text": "moderate temperatures"
+            },
+            {
+              "id": "E",
+              "text": "poor coordination"
+            },
+            {
+              "id": "F",
+              "text": "time cues"
+            },
+            {
+              "id": "G",
+              "text": "impaired performance"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "HIGHS and LOWS",
+        "text": "Hormone levels – and hence our moods -may be affected by the weather. Gloomy weather can cause depression, but sunshine appears to raise the spirits. In Britain, for example, the dull weather of winter drastically cuts down the amount of sunlight that is experienced which strongly affects some people. They become so depressed and lacking in energy that their work and social life are affected. This condition has been given the name SAD (Seasonal Affective Disorder). Sufferers can fight back by making the most of any sunlight in winter and by spending a few hours each day under special, full-spectrum lamps. These provide more ultraviolet and blue-green light than ordinary fluorescent and tungsten lights. Some Russian scientists claim that children learn better after being exposed to ultraviolet light. In warm countries, hours of work are often arranged so that workers can take a break, or even a siesta, during the hottest part of the day. Scientists are working to discover the links between the weather and human beings' moods and performance. It is generally believed that tempers grow shorter in hot, muggy weather. There is no doubt that crimes against the person rise in the summer, when the weather is hotter and fall in the winter when the weather is colder. Research in the United States has shown a relationship between temperature and street riots. The frequency of riots rises dramatically as the weather gets warmer, hitting a peak around 27-30°C. But is this effect really due to a mood change caused by the heat? Some scientists argue that trouble starts more often in hot weather merely because there are more people in the street when the weather is good. Psychologists have also studied how being cold affects performance. Researchers compared divers working in icy cold water at 5°C with others in water at 20°C (about swimming pool temperature). The colder water made the divers worse at simple arithmetic and other mental tasks. But significantly, their performance was impaired as soon as they were put into the cold water – before their bodies had time to cool down. This suggests that the low temperature did not slow down mental functioning directly, but the feeling of cold distracted the divers from their tasks. Psychologists have conducted studies showing that people become less sceptical and more optimistic when the weather is sunny. However, this apparently does not just depend on the temperature. An American psychologist studied customers in a temperature-controlled restaurant. They gave bigger tips when the sun was shining and smaller tips when it wasn't, even though the temperature in the restaurant was the same. A link between weather and mood is made believable by the evidence for a connection between behaviour and the length of the daylight hours. This in turn might involve the level of a hormone called melatonin, produced in the pineal gland in the brain. The amount of melatonin falls with greater exposure to daylight. Research shows that melatonin plays an important part in the seasonal behaviour of certain animals. For example, food consumption of stags increases during the winter, reaching a peak in February/ March. It falls again to a low point in May, then rises to a peak in September, before dropping to another minimum in November. These changes seem to be triggered by varying melatonin levels. In the laboratory, hamsters put on more weight when the nights are getting shorter and their melatonin levels are falling. On the other hand, if they are given injections of melatonin, they will stop eating altogether. It seems that time cues provided by the changing lengths of day and night trigger changes in animals' behaviour – changes that are needed to cope with the cycle of the seasons. People's moods too, have been shown to react to the length of the daylight hours. Sceptics might say that longer exposure to sunshine puts people in a better mood because they associate it with the happy feelings of holidays and freedom from responsibility. However, the belief that rain and murky weather make people more unhappy is borne out by a study in Belgium, which showed that a telephone counselling service gets more telephone calls from people with suicidal feelings when it rains. When there is a thunderstorm brewing, some people complain of the air being 'heavy' and of feeling irritable, moody and on edge. They may be reacting to the fact that the air can become slightly positively charged when large thunderclouds are generating the intense electrical fields that cause lightning flashes. The positive charge increases the levels of serotonin (a chemical involved in sending signals in the nervous system). High levels of serotonin in certain areas of the nervous system make people more active and reactive and, possibly, more aggressive. When certain winds are blowing, such as the Mistral in southern France and the Fohn in southern Germany, mood can be affected – and the number of traffic accidents rises. It may be significant that the concentration of positively charged particles is greater than normal in these winds. In the United Kingdom, 400,000 ionizers are sold every year. These small machines raise the number of negative ions in the air in a room. Many people claim they feel better in negatively charged air."
+      }
+    }
+  ]
+}

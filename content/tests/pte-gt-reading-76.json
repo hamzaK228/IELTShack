@@ -1,0 +1,794 @@
+{
+  "id": "pte-gt-reading-76",
+  "title": "General Training Reading — Practice Test 76",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Neighbourhood Support",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-76-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support fosters communication among neighbours. geeing them confidence to take charge of their own safety, and lessening their anxiety about ______Small groups of residents work together to make their streets safer, especially for children, the (2) ______and old people. Usually, (3) ______are put up and the safety aspects of neighbourhood are improved.",
+          "answer": "CRIME",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support fosters communication among neighbours. geeing them confidence to take charge of their own safety, and lessening their anxiety about (1) ______Small groups of residents work together to make their streets safer, especially for children, the ______and old people. Usually, (3) ______are put up and the safety aspects of neighbourhood are improved.",
+          "answer": "DISADVANTAGED",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support fosters communication among neighbours. geeing them confidence to take charge of their own safety, and lessening their anxiety about (1) ______Small groups of residents work together to make their streets safer, especially for children, the (2) ______and old people. Usually, ______are put up and the safety aspects of neighbourhood are improved.",
+          "answer": "SIGNS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support presents a unified ______when it comes to managing local problems. Membership of a group is free and voluntary and members we kept informed by the (5) ______However, one member is appointed as the (6) ______person.",
+          "answer": "VOICE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support presents a unified (4) ______when it comes to managing local problems. Membership of a group is free and voluntary and members we kept informed by the ______However, one member is appointed as the (6) ______person.",
+          "answer": "AREA COORDINATOR",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Neighbourhood Support presents a unified (4) ______when it comes to managing local problems. Membership of a group is free and voluntary and members we kept informed by the (5) ______However, one member is appointed as the ______person.",
+          "answer": "GROUP CONTACT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An organised group of Neighbourhood Support residents are also better able to cope with various types of ______",
+          "answer": "CIVIL EMERGENCY",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Neighbourhood Support",
+        "text": "Neighbourhood Support aims for a safer. more caring community by encouraging neighbours to talk to each other and by educating and empowering people to take responsibility for their own safety. Sharing Information can reduce the risk and fear of crime. A local group Is formed to provide a means for residents to meet and develop supportive and secure environment for everyone, particularly the young, elderly and disadvantaged. The group tries to prevent the occurrences of crime in the neighbourhood by erecting signs to Inform likely criminals that neighbours watch over one another's properties. Enhancing the safety features and appearance of the neighbourhood can be an effective way to minimise burglaries and car crime in the local area. Neighbourhood Support provides a common voice for dealing with local Issues such as graffiti, traffic problems, play areas and street lighting issues. Of course, not everyone in the street will want to Join. Only those who want protection and support are included. Groups vary in size from three to ten homes within sight of one another. There is no cost involved and the area coordinator keeps everyone up to date with what Is happening in the community. Information kits are provided to help set up each group. Usually one member is nominated to be the group contact but this role can be shared. Neighbourhood Support can also help people to deal with and survive a civil emergency, such as an earthquake or flood by being prepared as a group."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: School Disciplinary Procedures",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-76-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A student cannot be suspended unless the bad behaviour is continual.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A student can be suspended even if no one has actually been harmed yet.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Breaking school rules is grounds for automatic suspension.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "After-school detention is the punishment preferred by most parents.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A stand-down is for a minimum of five days each school term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Parents can speak at the board meeting to discuss suspension.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Schooling is compulsory for children until they turn sixteen.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "School Disciplinary Procedures",
+        "text": "Three types of behaviour can result in the suspension of a student from school. Often it may be a combination of two or even all three:\n\n• Gross misconduct that is damaging or dangerous — a very serious one-off incident\n\n• A pattern of disobedience that is a harmful or dangerous example to other students\n\n• There is the likelihood of someone being seriously hurt if the offending student is not removed When a student has misbehaved, the disciplinary process gets underway with an investigation by the principal of what actually happened. Suspension does not inevitably follow, even if school rules have been violated. It depends on whether any of the points mentioned above can be proven. The outcome of the enquiry could be that the student stays at school, but with some form of punishment such as cleaning the grounds or detention. However, students cannot be detained outside school hours without parental consent. For serious misdemeanours, there are several options. The first is a stand-down: removal from school for a fixed period of not more than five days per school term or ten days per year. The parents have to be notified and given the reasons in writing. The second option is suspension. The principal decides to suspend the student from school until the board of governors meets to discuss the case. Parents must be kept fully informed and will be given all the information that the board will consider. Generally, the board will meet within ten days and the parents have the right to be at the meeting, with or without a support person, and to be heard by the board before a decision is made. If the board decides to exclude a student who is under sixteen, the principal must try to arrange for enrolment in another school. Expulsion is the harshest punishment, but it can only apply to students aged sixteen or over. In such cases. there is no obligation on the principal to find another school. It should be noted that school discipline is not confined to misbehaviour in the school itself, but can extend to school trips, school buses, even downtown — if the student is in school uniform."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Preparing for an interview",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-76-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Find out more about the company by using ______reading published material or talking to people.",
+          "answer": "THE INTERNET",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Set up ______ to see the workplace. Present yourself well.",
+          "answer": "AN APPOINTMENT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Notice what employees wear and the ______they use when speaking at work",
+          "answer": "LEVEL OF FORMALITY",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• How will you answer questions? Arrange ______to gain more confidence.",
+          "answer": "MOCK INTERVIEWS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Sort out all your ______for the employer to inspect",
+          "answer": "PHYSICAL EVIDENCE/ ORIGINAL DOCUMENTS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Set off for the interview with plenty of time to spare and have a ______in case something unexpected happens",
+          "answer": "CONTINGENCY PLAN",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Preparing for an interview",
+        "text": "Congratulations! You've made it to the interview stage. Now is your opportunity to show that you have the skills, experience and personal attributes necessary for the job. Before the interview, do your research. Learn more about the public profile of the organisation and its products or services. You could do this through the Internet, company brochures or business publications. Talk to anyone you know who has worked for the organisation. It is advantageous to visit the workplace too. Arrange to do this openly by making an appointment. It shows you are eager, even if the visit is not feasible. When you visit, make sure you have prepared appropriate questions and are well groomed and well dressed. You should aim to discover more about the size of the company, their products and key markets. You should get a good idea of the dress code and what level of formality is required with regard to workplace communication and also how members of staff address one another. Above all, ascertain where the interview will take place. Predict what the interviewer might ask and prepare possible answers by reviewing the application form, the information package (if one was supplied) and the job description. Boost your self-assurance by practising mock interviews with a friend or family member. Have your physical evidence organised and ready to show the employer. He or she will want to sight original documents diplomas and certificates (with official translations), work or residence visas (if applicable) etc. Finally, prepare a neat and tidy outfit and decide how you will get to the interview on the day. It is a good idea to make a contingency plan for unforeseen events — in any case, allow for extra time so that you are not rushed. Avoid becoming flustered at the actual interview by anticipating all sorts of eventualities. For example, you may be asked to take a test of some kind (a skills or aptitude test for instance); you may be asked to solve a hypothetical problem, take part in a group activity or confront a whole panel of interviewers instead of just one."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Work Emails",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-76-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "ways to present material in small units",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how to sign off at the end of an email",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "methods to use for topics that require a lot of discussion",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how the writer could give the wrong impression",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an abbreviation that tells the recipient there is no need for action",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a time-saving tip",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how to communicate bad news",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Work Emails",
+        "text": "(A) Email is extensively used as a tool for communication at work. However, the number of emails office workers receive every day is overwhelming. Therefore, consider firstly whether the email you are about to write is necessary or even the best way to communicate. A telephone call or instant messaging is more appropriate for a back-and-forth dialogue, and reports of a potentially distressing nature should always be delivered in person if possible.\n\n(B) A well-written subject line should be concise, ideally no more than 6-8 words (so that the entire subject line can be read on a mobile device as well as an ordinary computer screen). It should highlight the most important information. A quick glance at their inbox will be enough for the addressee to get your message — if they do not need to waste time opening the email, use EOM (End of Message) to indicate all the information is in the subject line. Example: Marketing meeting 9.00 a.m. Friday 13th EOM.\n\n(C) If you do need to write a message, keep it straightforward and to the point. If you must communicate several different but related items, consider using numbered paragraphs or bullet points where you can chunk information into separate, well-structured segments. A different topic is best covered in a separate email permitting the recipient to respond to one topic at a time. If you want the recipient to do something, make this clear. If you are merely informing the reader of something, use FYI (For Your Information) in the subject or as a preface to the first sentence.\n\n(D) Emails are not necessarily less formal than traditional letters — they will reflect your professionalism, so be polite. They could also be printed and distributed to colleagues; therefore, avoid informal language, slang, emoticons and inappropriate abbreviations, such as LOL and others commonly used in casual text messages. Although it is good to be succinct, pay attention to your choice of words and sentence length or your intention might be misinterpreted. You could unwittingly convey a tone of annoyance by appearing terse when you are aiming to appear concise and economical.\n\n(E) Begin your email with a greeting. Choose a level of formality to reflect your relationship with the reader. Intra-company or peer-to-peer communications are generally less formal than messages to outside businesses. It is also polite to finish with an appropriate closing and signature. Use your full name and title for formal emails. A first name only is sufficient for colleagues with whom you are familiar. You may also want to include contact information — this can be part of your customised automatic signature. Finally, carefully proofread your emails before you hit the 'send' button."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Lie Detection – How to spot a liar",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-76-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A person uses a parrot statement ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A person uses a dodgeball statement ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A person uses a guilt-trip statement ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A person uses a protest statement ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A person uses a bolstering statement A to appear more truthful and convincing B to repeat a few words of the question C to ask a question instead of giving an answer D to clarify a question E to criticise the questioner F to delay answering G to deny his guilt H to give a reason in his defence I to avoid a direct response ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Liars would rather give too little than too much information.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Liars use qualifying statements if they need to take responsibility for their mistakes.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Truthful people are less likely to bolster their statements with religious phrases.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A slip of the tongue is an accidental error that could expose a hidden belief.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The statement: \"I was not in the office after hours\" contains which of the following verbal clues?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a filler"
+            },
+            {
+              "id": "B",
+              "text": "impersonal language"
+            },
+            {
+              "id": "C",
+              "text": "a non-contracted denial"
+            },
+            {
+              "id": "D",
+              "text": "a euphemism"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following is the least dependable as a marker of deception?",
+          "options": [
+            {
+              "id": "A",
+              "text": "vocal quality"
+            },
+            {
+              "id": "B",
+              "text": "verbal leaks"
+            },
+            {
+              "id": "C",
+              "text": "attitude"
+            },
+            {
+              "id": "D",
+              "text": "body language"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "An untruthful story is more likely to have",
+          "options": [
+            {
+              "id": "A",
+              "text": "a jumbled sequence of life events"
+            },
+            {
+              "id": "B",
+              "text": "expressions of emotion"
+            },
+            {
+              "id": "C",
+              "text": "a short main event section"
+            },
+            {
+              "id": "D",
+              "text": "an illogical grammatical structure"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-76-q40",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A truthful story is more likely to have",
+          "options": [
+            {
+              "id": "A",
+              "text": "to appear more truthful and convincing"
+            },
+            {
+              "id": "B",
+              "text": "to repeat a few words of the question"
+            },
+            {
+              "id": "C",
+              "text": "to ask a question instead of giving an answer"
+            },
+            {
+              "id": "D",
+              "text": "to clarify a question"
+            },
+            {
+              "id": "E",
+              "text": "to criticise the questioner"
+            },
+            {
+              "id": "F",
+              "text": "to delay answering"
+            },
+            {
+              "id": "G",
+              "text": "to deny his guilt"
+            },
+            {
+              "id": "H",
+              "text": "to give a reason in his defence"
+            },
+            {
+              "id": "I",
+              "text": "to avoid a direct response"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Lie Detection – How to spot a liar",
+        "text": "Native English speakers all have their own style of speech influenced by factors such as where they list and their socioeconomic status. Yet Pamela Myer reveals in her book Liespotting that when people tell lies, their verbal and non-verbal behaviours are nearly universal. Liars reveal themselves through various verbal tactics. They will use statement structure to avoid answering questions or to deflect suspicion. A parrot statement, repeating a question verbatim is used to stall for time in order to think up a suitable response. If someone genuinely wants to clarify a question, she might choose to repeat a key word or two but rarely the entire question. Beware also the dodgeball statesman – the suspect ignores the question just asked and instead tosses one straight back at you Then there is what Myer calls the guilt-trip statement a device that puts the enquirer on the defensive. The liar feigns offence and hopes that you will forget the question while you defend yourself against his accusation of unfairness or prejudices. Another tactic for deception is the protest statement. This is when the suspect avoids a direct response to a question by listing his favourable assets and deeds, so that you will think he is incapable of wrongdoing. The too link or too much statement is just that. The culprit will attempt to skirt the question by offering too little information or by being effusive – offering a wordy explanation but managing to avoid answering the question.\n\n(A) bolstering statement contains a phrase that adds emphasis in an attempt to sound more credible and sincere \"To be honest I have no idea how the stem got damaged.\"- Listen also for the qualifying phrase that people use to protect themselves from reproach or responsibility: \"As far as I recall…..\" If a religious phrase is used to bolster a statement for instance: \"Honest to God. I didn't touch her purse\", the speaker is most likely a hypocrite, because an honest person does not need to appeal to God or religion for support. Distancing statements are highly characteristic of deceptive speech. A deceiver will avoid using first person pronouns (I, me, myself) in order to literally keep himself completely out of the statement. He will also avoid using first names and, whet penult, use language that depersonalises another person, for example \"I don't know what that woman said.\" Euphemism substituting a mild or vague term for a harsher one, is another means of distancing the speaker from the action. \"I did not pocket the money\" instead of \"I didn't steal the money.\" Verbal leaks are said to occur when the mental burden of sustaining a lie becomes too much. The liar may 'um' and 'ah' too much or make grammar mistakes and other errors. A slip of the tongue is an unintentional mistake, often trivial, but occasionally revealing an unconscious thought or wish (the so-called Freudian slip). Consider \"I'd like to spank all teachers\"- George W Bush. A non-contracted denial is another verbal leak. It is usually uttered slowly with emphasis on 'not', as in: \"I did not leave the door open\". A fibber who cannot express himself in a straightforward manner because he needs time to think may pause frequently and speech disfluencies – meaningless words, sighs and throat clearing – will populate his dialogue. \"It was -ugh – late, when I, uh, got home, like, around midnight\". However, you would need to have a normal conversational baseline for the speaker in order to make an objective conversation as some people use fillers such as 'like' and you know' constantly. Vocal quality is another indicator of deception. Listen for higher pitch, a slower rate of speech and strain or tension in the voice. These are very subjective criteria, however, so take into account other facial, body language and verbal indicators. Vocal quality alone is the least reliable indicator unless you are very familiar with the speaker's standard mode of speech. In an effort to stay in control of the lie, the liar may control his body, becoming rigid and upright while his voice may assume a matching lifeless monotone. Sometimes actions do not correspond to words – an emphatic 'no' accompanied by a slight nod of the head is a sure giveaway. The manner of articulation and delivery combined with facial expressions, body language and verbal clues will suggest an overall attitude: and attitude is a crucial indicator of both truthfulness and deceit. Weigh up all the factors including whether the subject has been cooperative or unhelpful. Another weapon in the arsenal of lie detection is story analysis. Most stories have a beginning, a middle and an end, but real memories are not usually related in chronological order. Our emotions cause us to recall the most dramatic event first and in a lot of sensory detail, whereas the liar will 'remember' his story in chronological sequence. A false story often has a prolonged and detailed prologue setting the scene (with many truthful features such as time and place). Then the main event (the lie) is passed over quite quickly whereas, for the truthful person, this is the most important part of the action and it is recounted at length. The truth teller will also deliver an epilogue, at times becoming very emotional, as she describes the impact and after effects of the main event. Rarely does the false narrative conclude with an epilogue as the narrator was unaffected by the main event because it did not happen or, if it did not in the way he related it. Lie detection is more than jug picking up on the occasional verbal clue: rather, it is recognising a cluster of clues and appraising them in the light of the subject's nonverbal behaviour. By watching and listening carefully and for long enough, you will discern deception if it is there."
+      }
+    }
+  ]
+}

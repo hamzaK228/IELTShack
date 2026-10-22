@@ -1,0 +1,691 @@
+{
+  "id": "pte-gt-reading-65",
+  "title": "General Training Reading — Practice Test 65",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: cornwall",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-65-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cornwall has stunning coastal views including the most ______point in Great Britain.",
+          "answer": "Southerly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apart from the coastal views, the amazing landscapes have inspired an unexpected but thriving ______",
+          "answer": "art scene",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cornwall can now be compared to ______for its food and amazing chefs.",
+          "answer": "London",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One thing that makes Cornwall different from the rest of England is its ______heritage.",
+          "answer": "Celtic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The perfect place to discover insights into lifestyles from a bygone era is ______",
+          "answer": "Lanhydrock",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The perfect place to discover insights into Cornwall's industrial past is a ______",
+          "answer": "Tin Mine",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "cornwall",
+        "text": "It's hard not to fall in love with Cornwall. For some it's the happy memories of a childhood seaside holiday. For others it's the brief fling of a teenage summer. For most it's a passionate affair that lasts a lifetime…so let the affair begin! Where is Cornwall? Located in the far west of Great Britain, Cornwall is almost completely surrounded by the sea and has a magnificent 300 mile coastline. It is also the location of mainland Great Britain's most southerly promontory, The Lizard, and one of the UK's most westerly points, Land's End. What's so special about it? There are lots of things Cornwall is loved for; the dramatic coastline with its captivating fishing harbours; the spectacular beaches and the pounding surf that provide a natural playground for a variety of water sports; and of course the Cornish pasty and cream teas.\n\nExpect the unexpected But there are also lots of things about Cornwall that may surprise you. For instance, the wilderness of Bodmin Moor with its panorama of big skies. There's also the dynamic art scene found mainly in West Cornwall, inspired by the naturally stunning landscapes. More recently, Cornwall has become known for a food scene to rival London and beyond.\n\nHistory and culture Cornwall also has a tremendous history based on its Celtic roots; its Celtic Cornish culture; the warmth and friendliness of the people; and the Cornish language that can be seen in the village names. Cornwall is truly unique. Why not visit some of Cornwall's most iconic experiences. From towering castles, beautiful gardens and places steeped in legends and history, you'll be spoilt for choice. Here are a few to get you started.\n\nTrebah Garden – near Falmouth One of the great gardens of Cornwall and rated among the 80 finest gardens in the world, discover the magic of this beautiful Cornish valley garden with over four miles of footpath.\n\nLanhydrock – Bodmin Lanhydrock boasts a magnificent late Victorian country house with gardens and wooded estate. Discover two sides of Victorian life: those 'below stairs', and those 'upstairs'.\n\nGeevor Tin Mine – near Penzance Geevor tin mine is one of the largest preserved mine sites in the country and a Cornish Mining World Heritage Site. Housed in two acres of listed buildings, Geevor's collections and guides bring the story of Cornwall's rich industrial past to life."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: bees",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-65-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Apart from pollinating crops how else do bees help us?",
+          "options": [
+            {
+              "id": "A",
+              "text": "economically"
+            },
+            {
+              "id": "B",
+              "text": "economically"
+            },
+            {
+              "id": "C",
+              "text": "ecologically"
+            },
+            {
+              "id": "D",
+              "text": "all of the above"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why have the variety of flowers available for bees to pollinate fallen?",
+          "options": [
+            {
+              "id": "A",
+              "text": "conservation measures"
+            },
+            {
+              "id": "B",
+              "text": "less hedges"
+            },
+            {
+              "id": "C",
+              "text": "fertilizers"
+            },
+            {
+              "id": "D",
+              "text": "urban development"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "There are many reasons for the decline in bees but what is one of the major reasons for shrinking numbers of native honey bees?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Varroa mites"
+            },
+            {
+              "id": "B",
+              "text": "spill-over"
+            },
+            {
+              "id": "C",
+              "text": "managed bees"
+            },
+            {
+              "id": "D",
+              "text": "hard to assess"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why might bees end their hibernation at a different time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to pollinate more flowers"
+            },
+            {
+              "id": "B",
+              "text": "to get more food"
+            },
+            {
+              "id": "C",
+              "text": "climate change"
+            },
+            {
+              "id": "D",
+              "text": "to emerge with other bees"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Speed is not the only priority for the printer, they are also concerned with quality and have 10 quality control checks on each book before it is shipped. Sharp graphics and crisp text make it virtually impossible to distinguish a POD book from the more traditional offset copies. As technology continues to improve this can only get better. As an author, it is possible to choose the type of book you want; paperback, hardback, or e-book (now the most popular form of book), the size of your book, type of paper, and type of cover (laminated, cloth or jacketed for hardbacks). ______",
+          "answer": "forewing / forewings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Speed is not the only priority for the printer, they are also concerned with quality and have 10 quality control checks on each book before it is shipped. Sharp graphics and crisp text make it virtually impossible to distinguish a POD book from the more traditional offset copies. As technology continues to improve this can only get better. As an author, it is possible to choose the type of book you want; paperback, hardback, or e-book (now the most popular form of book), the size of your book, type of paper, and type of cover (laminated, cloth or jacketed for hardbacks). ______",
+          "answer": "antennae",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Speed is not the only priority for the printer, they are also concerned with quality and have 10 quality control checks on each book before it is shipped. Sharp graphics and crisp text make it virtually impossible to distinguish a POD book from the more traditional offset copies. As technology continues to improve this can only get better. As an author, it is possible to choose the type of book you want; paperback, hardback, or e-book (now the most popular form of book), the size of your book, type of paper, and type of cover (laminated, cloth or jacketed for hardbacks). ______",
+          "answer": "hindwing / hindwings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Speed is not the only priority for the printer, they are also concerned with quality and have 10 quality control checks on each book before it is shipped. Sharp graphics and crisp text make it virtually impossible to distinguish a POD book from the more traditional offset copies. As technology continues to improve this can only get better. As an author, it is possible to choose the type of book you want; paperback, hardback, or e-book (now the most popular form of book), the size of your book, type of paper, and type of cover (laminated, cloth or jacketed for hardbacks). ______",
+          "answer": "pollen basket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "We experienced our first information revolution with the development of the ______",
+          "answer": "printing press",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is no longer necessary to print books in their ______",
+          "answer": "thousands",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Print On Demand works by making sure that the printer has been given all of the relevant ______",
+          "answer": "electronic data",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If necessary the printer will scan and digitize your ______",
+          "answer": "hard copy/a PDF file",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Latest technology makes the difference between offset printing and Print On Demand almost ______to tell.",
+          "answer": "impossible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apart from the traditional hardback and paperback books authors can now publish in ______form.",
+          "answer": "e-book",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "bees",
+        "text": "Worker bees are between 8-19mm in length. They are divided into three distinct parts; head, thorax, abdomen. They have an almost completely black head, a thorax that is golden brown and black with patches of orange, and yellow bands can be easily seen on the abdomen. At the front of the head are two antennae for sensing their environment. They have four single wings. The largest are called forewings and the smallest hindwings. The hind legs are specialized for collecting pollen – each leg is flattened to form a pollen basket near the end of each leg. Love them or hate them, we need bees to pollinate many important food crops, including most fruit and vegetables. Bee pollinated crops are important sources of vitamins A and C, and minerals like calcium. By pollinating attractive wildflowers like bluebells and poppies, bees also help support the natural environment that people love – benefitting us culturally and economically, as well as ecologically. Calculations from the University of Reading show that £510 million of annual total crop sales in the UK are pollinated by bees and other insects. What would happen if there were suddenly no more bees to pollinate these crops? This is a question being asked by farmers, beekeepers, and scientists because bees are now dying in their millions and they want to know why. It's widely recognised now that changes in agriculture are the main cause of bee decline across Europe. For example, hay meadows, which are full of many different plant species, have declined by 97 per cent since the 1930s, removing an important source of food for bees. This has happened because of the trend towards growing the same crop (monocultures) over large fields. This has reduced the diversity of flowers available and resulted in the removal of hedges. Species that have more specialised food needs, like the Shrill Carder Bee, have been particularly hard hit. It is now listed as an endangered species. With less hedges bees find it more difficult to move between feeding and nesting sites. This is because hedges act as corridors for bees to move along, but with less hedges movement becomes more difficult. Pests and diseases are also a major threat to honey bees and other managed bees. The Varroa mite is thought to be one of the main causes of native honey bee loss. The impact on wild bees is harder to assess but 'spill-over' of diseases and pests between wild and managed bees has increasingly been observed. Climate change has an affect as it can alter the timing of plant flowering, or the time that bees come out of hibernation, which means bees may emerge before there is enough food available."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: yoga",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-65-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style where breathing and movement are in harmony.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style that focuses on improving your posture.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style for starters wanting to improve their breathing.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style that can help recovery from an injury and helps with posture.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style for someone hoping to lose weight.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style that helps muscles relax.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A style that helps you to develop your spirituality.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hatha"
+            },
+            {
+              "id": "B",
+              "text": "Vinyasa"
+            },
+            {
+              "id": "C",
+              "text": "Ashtanga"
+            },
+            {
+              "id": "D",
+              "text": "Iyengar"
+            },
+            {
+              "id": "E",
+              "text": "Bikram"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "yoga",
+        "text": "Developed more than 5,000 years ago, yoga can be a way of life that benefits you physically, mentally, and spiritually. But where to start? Here is a quick summary of five of the most common yoga styles practiced today.\n\nHatha Originated in India in the 15th century. Slow-paced, gentle, and focuses on breathing and meditation. Purpose – Introduces beginners to yoga with basic poses and relaxation techniques. Benefits – Relieves stress, provides physical exercise, and improves breathing. Good for – Beginners wanting to learn the basics of yoga.\n\nVinyasa Similar to Hatha, basic poses and breath-synchronized movements. Stresses the Sun Salutation, 12 poses where movement is matched to the breath. Purpose – Links the breath with movement, builds lean muscle mass throughout the body. Benefits – Helps improve strength and flexibility, tones the abdominal muscles, and reduces the risk of heart disease, high blood pressure, and type 2 diabetes. Good for – Beginners and advanced yogis alike seeking to strengthen their bodies.\n\nAshtanga Metaphorically focuses on eight limbs. Fast-paced, intense with lunges, push-ups. Purpose – Helps improve one's spiritual self. Benefits – Relieves stress, improves coordination, and helps with weight loss. Good for – Fit people looking to maintain strength, stamina, and spirituality.\n\nIyengar Covers all eight aspects of Ashtanga yoga and focuses on bodily alignment. Standing poses are emphasized, and are often held for long periods of time. Purpose – Strengthens and brings the body into alignment. Benefits – Helps improve balance, speeds up recovery from injury, builds up body strength. Good for – Beginners who want to learn the correct alignments in each pose and those with injuries, balance issues, and chronic medical conditions like arthritis.\n\nBikram Practiced in a 95 to 100 degree room. A series of 26 poses that allows for a loosening of tight muscles and sweating. Purpose – Flushes out toxins and deeply stretches the muscles. Benefits – Speeds up recovery from an injury, enhances flexibility, and cleanses the body. Good for – Beginners, advanced yogis who want to push themselves and those with injuries."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: british study centres english language school",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-65-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "1930sfirst established by current owner's grandfather ______",
+          "answer": "Joseph Cleaver",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "1970sthree ______were opened as the new face of the company",
+          "answer": "vocational colleges",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "six years after the first school another was opened in Brighton ______",
+          "answer": "2002",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "the third school was then opened in (32) ______",
+          "answer": "2004",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(31) ______the third school was then opened in ______",
+          "answer": "London",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "2008the University of Brighton is now one of ______where vacation courses are held for youngsters",
+          "answer": "5 institutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "2012______made it possible to have lessons online",
+          "answer": "video conferencing technology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is not much interaction between the student and teacher.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "James Cleaver is Simon Cleaver's father.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Oxford University is the oldest university in the world.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are a few banks by the Thames.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "They never teach students older than 25.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-65-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "They never have more than 14 students in the class.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "british study centres english language school",
+        "text": "English for Life Language courses at British Study Centres are planned and delivered to equip students with the language skills they need to achieve their future dreams. This is achieved through ongoing structured dialogue between the student and teacher involving the use of tutorials, needs analysis questionnaires and so on.\n\nSchool Locations Study English in four of the UK's most exciting cities: London, Oxford, Brighton and Bournemouth.\n\nEnglish Courses Choose from a range of General English, Exam Preparation (including IELTS) and Business English programmes.\n\nHistory of British Study Centres British Study Centres was founded in the 1930s by Joseph Cleaver, grandfather of current Chairman and Chief Executive, Simon Cleaver. The state-of-the-art Oxford language school is fitted with the very best in language learning facilities, offering students a unique modern learning experience. To this day the Company remains a family firm privately owned and managed by Simon and his family. In the early days the Company concentrated on correspondence courses and quickly established offices and examination centres across the entire (then) British Empire and beyond and in the process became the UK's largest group of correspondence colleges. In the 1970s, the Company, now run by Joseph's sons, James and Thomas, began to focus on face-to-face tuition with the establishment of vocational colleges in London, Oxford and Brighton. In the 1990s the Company established its first English language school in Oxford in 1996 followed by Brighton in 2002 and London in 2004. Since then all of these schools have expanded to cope with increasing demand. In 2008 the Company moved into the young learners market with the acquisition of ICH (International College Holidays) that specialized in vacation courses for 10-15 years olds. They now run these courses in 5 institutes including the University of Brighton. In 2010 the fourth school for adults opened in the south coast town of Bournemouth. In the same year they opened a specialist Teacher Training Facility in Oxford. In 2012 live online lessons were launched with teachers using the latest video conferencing technology. In recent years the Company has been honoured to win a number of awards associated with the language school industry, including twice winner of Study Travel Magazine's coveted 'Star' English Language School Europe award in 2010 and 2012, and winner of Study Travel Magazine's 'Star' Junior Courses for under 18s in 2012. Study English in Oxford BSC, a City Made for Students! 40,000 students and 39 unique university colleges give Oxford a very special 'student' atmosphere – an ideal place to learn English! It has a deserved worldwide reputation for the quality of education. Oxford University is the oldest English speaking university in the world, dating back to 1249. It is consistently ranked in the top three in the world. Oxford is located in the heart of England and benefits from excellent road and rail links to London (50 minutes) and the rest of the UK. The city sits on the banks of the Thames and boasts a variety of world-famous museums, galleries and libraries. Besides the traditional, there are hundreds of modern restaurants, pubs, clubs and riverside cafes to enjoy.\n\nKey Facts for Oxford BSC\n\nNo. of students (peak season) – 325\n\nNo. of students (low season) – 175\n\nAverage age – 25\n\nMinimum age – 16\n\nAverage class size – 11 (max 14)"
+      }
+    }
+  ]
+}

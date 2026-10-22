@@ -1,0 +1,759 @@
+{
+  "id": "pte-gt-reading-57",
+  "title": "General Training Reading — Practice Test 57",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: do you have a music project in mind that might benefit from funding?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-57-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Payment at this venue is optional.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Expert instructors are available for lessons.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "There is a restriction on what you can wear.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Some basic information is published in another place.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This has particular provision for very young children.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It has a feature especially recommended for educational parties.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q7",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "They will open at unscheduled times if you make an arrangement.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can apply to Dosoco now for grant funding.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can apply for a grant that will help to educate a musician.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Alexia Sloane lost her sight after attending a summer-school composition course",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Alexia now plays several instruments with the National Youth Orchestra of Great Britain.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Alexia has received an award for her work in music.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Applications can be made by filling in an online form.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In some cases Dosoco will cover the full cost of the project.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "do you have a music project in mind that might benefit from funding?",
+        "text": "Music is wonderfully therapeutic! This is recognised by The Dosoco Foundation, which supports local projects that use music for social good. The next round of Dosoco grant funding will shortly be open for applications. Grants are available from £700 to £1,000 (for organisations) and up to £300 (for individuals) in the areas of music education (e.g. working with a talented music student with either physical, social or learning disabilities), music access (e.g. a music club for groups that might struggle to start something on their own), music innovation (e.g. using an electronic device such as Raspberry Pi to help disabled people make music) and music therapy (e.g. an idea for using music to support positive mental health).\n\nCase study Dosoco recently awarded a grant to Alexia Sioame, a young composer with sight loss, to enable her to attend the sound-and-music summer-school composition course at the Purcell School. Alexia has since gained a place as a composer with the National Youth Orchestra of Great Britain – the first blind composer to be appointed – and has also been awarded the title of Young Composer of the Year. She was the first female composer ever to receive this honour in its ten-year history. Organisations, families and individuals can apply by completing a simple form. Dosoco can contribute up to 50% towards project costs. Projects must be locally based and must be new ideas for using music to make a positive impact on people's lives where help is really needed.\n\nFor more information please visit www.thedosocofoundation.org"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: guide to employees on workplace monitoring",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-57-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• your letters and ______",
+          "answer": "Emails",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Rules for monitoring are established by data protection law. This states that employers must carry out a procedure that is known as ______before introducing monitoring,",
+          "answer": "Impact assessment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• you are using ______intended for work",
+          "answer": "Equipment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to evaluate the ______of your work",
+          "answer": "Quality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to stop of find out about ______",
+          "answer": "Crime",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to stop the possibility of ______affecting systems",
+          "answer": "(computer) viruses",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• to check calls to ______(these cannot be recorded)",
+          "answer": "(confidential) helplines",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "guide to employees on workplace monitoring",
+        "text": "What is workplace monitoring? Employers have the right to monitor your activities in many situations at work. For example, your activities may be recorded on CCTV cameras, and your letters may be opened and read. In addition, your employer may use an automated software programme to check the emails you receive at work. Phone calls may be listened to and recorded, and the log of websites you use may be checked. All of these forms of monitoring are covered by data protection law. Data protection law doesn't prevent monitoring in the workplace. However, it does set down rules about the circumstances and the way in which monitoring should be carried out. Before deciding whether to introduce monitoring, your employer should identify any negative effects the monitoring may have on staff. This is called impact assessment.\n\nMonitoring electronic communications at work Your employer can legally monitor your use of electronic communications in the workplace if the monitoring relates to the business and the equipment being monitored is provided partly or wholly for work. Except in extremely limited circumstances, employers must take reasonable steps to let staff know that monitoring is happening, what is being monitored and why it is necessary. As long as your employer sticks to these rules, they don't need to get your consent before they monitor your electronic communications, but only if the monitoring is for specific reasons. These may be to establish facts which are relevant to the business or to check standards, for example, listening in to phone calls to assess the quality of your work. Monitoring is also allowed if its purpose is to prevent or detect crime. It may be necessary to make sure electronic systems are operating effectively, for example, to prevent computer viruses entering the system. Your employer is also allowed to listen in to any calls you make to confidential helplines, but in this case he or she is not allowed to record these calls."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: international experience canada: application process",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-57-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fill in the online ______to get a personal reference code",
+          "answer": "Questionnaire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Create your ______and provide the necessary information for the profile in your application",
+          "answer": "Account",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If sent an invitation, you must accept this within ______ you then have a limited time to (25) ______the application",
+          "answer": "10 days",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If sent an invitation, you must accept this within (24) ______ you then have a limited time to ______the application",
+          "answer": "Complete",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Your ______is required to send you an offer of employment number",
+          "answer": "Employer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Make the payment for participation online. You may receive a ______later if you change your mind",
+          "answer": "Refund",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What is the main problem faced by cattle farmers in Ethiopia, according to Professor Wood?",
+          "options": [
+            {
+              "id": "A",
+              "text": "TB is being transmitted from people to cattle."
+            },
+            {
+              "id": "B",
+              "text": "New breeds of cattle have led to an increase in TB."
+            },
+            {
+              "id": "C",
+              "text": "The traditional breeds of cattle are being affected by TB."
+            },
+            {
+              "id": "D",
+              "text": "TB has spread into places where it was previously unknown."
+            },
+            {
+              "id": "E",
+              "text": "Mark Carrington"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "When discussing the cultivation of cabbages in Ghana, the writer says that this crop",
+          "options": [
+            {
+              "id": "A",
+              "text": "TB is being transmitted from people to cattle."
+            },
+            {
+              "id": "B",
+              "text": "New breeds of cattle have led to an increase in TB."
+            },
+            {
+              "id": "C",
+              "text": "The traditional breeds of cattle are being affected by TB."
+            },
+            {
+              "id": "D",
+              "text": "TB has spread into places where it was previously unknown."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Fening believed that the new disease destroying cabbages was",
+          "options": [
+            {
+              "id": "A",
+              "text": "TB is being transmitted from people to cattle."
+            },
+            {
+              "id": "B",
+              "text": "New breeds of cattle have led to an increase in TB."
+            },
+            {
+              "id": "C",
+              "text": "The traditional breeds of cattle are being affected by TB."
+            },
+            {
+              "id": "D",
+              "text": "TB has spread into places where it was previously unknown."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Fening first suspected that the cabbage disease was caused by a virus because",
+          "options": [
+            {
+              "id": "A",
+              "text": "TB is being transmitted from people to cattle."
+            },
+            {
+              "id": "B",
+              "text": "New breeds of cattle have led to an increase in TB."
+            },
+            {
+              "id": "C",
+              "text": "The traditional breeds of cattle are being affected by TB."
+            },
+            {
+              "id": "D",
+              "text": "TB has spread into places where it was previously unknown."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "When doing further research in Cambridge, Fening and Carr discovered that",
+          "options": [
+            {
+              "id": "A",
+              "text": "TB is being transmitted from people to cattle."
+            },
+            {
+              "id": "B",
+              "text": "New breeds of cattle have led to an increase in TB."
+            },
+            {
+              "id": "C",
+              "text": "The traditional breeds of cattle are being affected by TB."
+            },
+            {
+              "id": "D",
+              "text": "TB has spread into places where it was previously unknown."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "international experience canada: application process",
+        "text": "If you want to travel and work temporarily in Canada as part of International Experience Canada (IEC), your first step is to become a candidate in one or more IEC pools. There are three categories of pool: International Co-op (Internship), Working Holiday and Young Professionals. To apply, first use our questionnaire to see if you meet the criteria to get into the IEC pools. This should take you about ten minutes. You can find it at www.cic.gc.ca/ctc-vac/ cometocanada.asp. After completing this, if you are eligible you will be sent a personal reference code, which you should use to create your online account. At the same time, you should fill in any remaining fields in your profile with the required information, including which IEC pools you want to be in. (Some parts will already have been completed for you.) If you are sent an invitation to proceed with your application, you will have 10 days to decide whether to accept this or not. If you accept, click the 'Start Application' button. You then have 20 days to complete your application. For International Co-op and Young Professionals categories, your employer in Canada must pay the compliance fee and inform you of your offer of employment number. (This does not apply to the Working Holiday pool.) Once you have received this, you should then upload copies of police and medical certificates, if required. If you do not have these, you should upload proof that you have applied for them. You should then pay your participation fee of C$126 online by credit card. (There is an additional payment of C$100 if you are applying for the Working Holiday category.) Your application will then be assessed. You can apply to withdraw at this stage and will be given a refund if you do this within 56 days. If your application is successful, you will receive a letter of introduction which you can show to Immigration when you enter Canada."
+      }
+    },
+    {
+      "id": "passage-7",
+      "skill": "reading",
+      "title": "Reading — Text 7: research on improving agricultural yields in africa",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-57-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A particular crop may make an important contribution to the local economy in one African country.",
+          "options": [
+            {
+              "id": "A",
+              "text": "James Wood"
+            },
+            {
+              "id": "B",
+              "text": "Ken Fening"
+            },
+            {
+              "id": "C",
+              "text": "John Carr"
+            },
+            {
+              "id": "D",
+              "text": "Theresa Manful"
+            },
+            {
+              "id": "E",
+              "text": "Mark Carrington"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Tests will be carried out by local people in the country where the research is focused.",
+          "options": [
+            {
+              "id": "A",
+              "text": "James Wood"
+            },
+            {
+              "id": "B",
+              "text": "Ken Fening"
+            },
+            {
+              "id": "C",
+              "text": "John Carr"
+            },
+            {
+              "id": "D",
+              "text": "Theresa Manful"
+            },
+            {
+              "id": "E",
+              "text": "Mark Carrington"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Different specialists must work together to ensure the success of a programme.",
+          "options": [
+            {
+              "id": "A",
+              "text": "James Wood"
+            },
+            {
+              "id": "B",
+              "text": "Ken Fening"
+            },
+            {
+              "id": "C",
+              "text": "John Carr"
+            },
+            {
+              "id": "D",
+              "text": "Theresa Manful"
+            },
+            {
+              "id": "E",
+              "text": "Mark Carrington"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "One type of insect attacking plants in Ghana was previously unknown there. List of Researchers",
+          "options": [
+            {
+              "id": "A",
+              "text": "James Wood"
+            },
+            {
+              "id": "B",
+              "text": "Ken Fening"
+            },
+            {
+              "id": "C",
+              "text": "John Carr"
+            },
+            {
+              "id": "D",
+              "text": "Theresa Manful"
+            },
+            {
+              "id": "E",
+              "text": "Mark Carrington"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trypanosomiasis is a disease caused by a parasite which is spread by an insect called the ______The parasite can remain unaffected by the host's (38) ______ because it is able to change the (39) ______ on its outer covering. It is uncommon among humans but has been found to affect most (40) ______in Ghana.",
+          "answer": "Tsetse fly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trypanosomiasis is a disease caused by a parasite which is spread by an insect called the (37) ______The parasite can remain unaffected by the host's ______ because it is able to change the (39) ______ on its outer covering. It is uncommon among humans but has been found to affect most (40) ______in Ghana.",
+          "answer": "Immune system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trypanosomiasis is a disease caused by a parasite which is spread by an insect called the (37) ______The parasite can remain unaffected by the host's (38) ______ because it is able to change the ______ on its outer covering. It is uncommon among humans but has been found to affect most (40) ______in Ghana.",
+          "answer": "Proteins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-57-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trypanosomiasis is a disease caused by a parasite which is spread by an insect called the (37) ______The parasite can remain unaffected by the host's (38) ______ because it is able to change the (39) ______ on its outer covering. It is uncommon among humans but has been found to affect most ______in Ghana.",
+          "answer": "Cattle",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p7",
+        "title": "research on improving agricultural yields in africa",
+        "text": "Three programmes are investigating ways of improving agricultural productivity in Africa. More than, half of the global population growth between now and 2050 is expected to occur in Africa, and more people means a requirement for more food. Ethiopia, for example, has the largest livestock population in Africa but with a growing population even its 53 million cattle are not enough. And now efforts to develop fanning there are bringing a significant health concern. Professor James Wood from the University of Cambridge explains that new breeds that are being introduced are more vulnerable to bovine TB (tuberculosis) than the zebu cattle which were previously reared there. 'This may have health implications for those who work with and live alongside infected cattle, and also raises concerns about transmission to areas which previously had low levels of TB,' he warns. Wood leads a research programme which is looking at the feasibility of control strategies, including cattle vaccination. The programme brings together veterinary scientists, epidemiologists, geneticists, immunologists and social scientists in eight Ethiopian and UK institutions. 'We need this mix because we are not only asking how effective strategies will be, but also whether farmers will accept them, and what the consequences are for prosperity and wellbeing,' says Wood. The impact that increasing productivity can have on farmers' livelihoods is not lost on an insect expert at the University of Ghana, Dr Ken Fening, who is working on another food-related research project. Cabbages are not indigenous to Africa but have become a major cash crop for Ghanaian farmers and an important source of income for traders from markets and hotels. 'A good crop can bring in money to buy fertilisers and farm equipment, and also help to pay for healthcare and education for the family,' he says. Recently, however, fields of stunted, yellowing cabbages, their leaves curled and dotted with mould, have become a familiar and devastating sight for the farmers of Ghana. From his field station base in Kpong, Ghana, Fening works closely with smallholder farmers on pest-control strategies. Two years ago they started reporting that a new disease was attacking their crops. 'It seemed to be associated with massive infestations of pink and green aphids,' says Fening, 'and from my studies of the way insects interact with many different vegetables, I'm familial* with the types of damage they can cause.' But farmers were typically seeing the total loss of their crops, and he realised that the devastation couldn't just be caused by sap-sucking insects. Despite no previous reports of viral diseases affecting cabbage crops in Ghana, the symptoms suggested a viral pathogen. Together with Cambridge plant biologist Dr John Carr, Fening collected samples of cabbage plants in Ghana showing signs of disease, and also aphids on the diseased plants. Back in Cambridge, Fening used screening techniques including a type of DNA 'fingerprinting' to identify the aphid species, and sophisticated molecular biology methods to try to identify the offending virus. 'Aphids are a common carrier of plant-infecting viruses,' explains Carr. 'The \"usual suspects\" are turnip mosaic virus and cauliflower mosaic virus, which affect cabbages in Europe and the US.' 'We found that two different species of aphids, pink and green, were generally found on the diseased cabbages,' says Fening. 'It turned out this was the first record of the green aphid species ever being seen in Ghana.' The pink aphid was identified as Myzus persicae (Sulzer). What's more, the virus was not what they expected, and work is now ongoing to identify the culprit. The sooner it can be characterised, the sooner sustainable crop protection strategies can be developed to prevent further spread of the disease not only in Ghana, but also in other countries in the region. Another researcher who hopes that eradication strategies will be the outcome of her research project is Dr Theresa Manful. Like Fening, she is a researcher at the University of Ghana. She has been working with Cambridge biochemist Professor Mark Carrington on a disease known as trypanosomiasis. 'This is a major constraint to cattle fearing in Africa,' she explains. 'Although trypanosomiasis is also a disease of humans, the number of cases is low, and the more serious concerns about the disease relate to the economic impact on agricultural production.' The parasite that causes the disease is carried by the tsetse fly, which colonises vast swathes of sub-Saharan Africa. Carrington says that a lot is now known about the parasite's molecular mechanisms, in particular the way it evades the immune system of the animal acting as its host by altering the proteins in its coat so as to remain 'invisible'. 'But then when you look at the effect on large animals, you realise that there is almost nothing known about the dynamics of an infection, and even whether an infection acquired at an early age persists for its lifetime,' he says. So Manful and Carrington set about testing cattle in Ghana. They discovered that nearly all were infected most of the time. For Manful, one of the important gains has been the ability to expand the research in Ghana: 'I now have a fully functional lab and can do DNA extraction and analysis in Ghana -1 don't have to bring samples to Cambridge. We are teaching students from five Ghanaian institutions the diagnostic methods.' 'Agriculture faces increasing challenges,' adds Carr. 'Bioscience is playing a crucial part in developing ways to mitigate pest impact and reduce the spread of parasites. We want to ensure not only that every harvest is successful, but also that it's maximally successful.'"
+      }
+    }
+  ]
+}

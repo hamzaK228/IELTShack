@@ -1,0 +1,728 @@
+{
+  "id": "pte-listening-201",
+  "title": "Listening — Practice Test 201",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-201-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Greyson Street, near the stationGood for people who are especially keen on ______ Quite expensive",
+          "answer": "Fish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The ______ is a good place for a drink",
+          "answer": "Roof",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In Bow Street next to the cinema______ food, good for sharingStaff are very friendly",
+          "answer": "Spanish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A limited selection of ______",
+          "answer": "Vegetarians",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The ______ At the top of a (6) A famous chef",
+          "answer": "Audley",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The (5) At the top of a ______ A famous chef",
+          "answer": "Hotel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "All the ______ are very good",
+          "answer": "Reviews",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Only uses ______ ingredients",
+          "answer": "Local",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Set lunch costs ______ per person",
+          "answer": "Thirty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Portions probably of ______ size",
+          "answer": "Average",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Heather says pottery differs from other art forms because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it lasts longer in the ground."
+            },
+            {
+              "id": "B",
+              "text": "it is practised by more people."
+            },
+            {
+              "id": "C",
+              "text": "it can be repaired more easily."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Archaeologists sometimes identify the use of ancient pottery from",
+          "options": [
+            {
+              "id": "A",
+              "text": "the clay it was made with."
+            },
+            {
+              "id": "B",
+              "text": "the marks that are on it."
+            },
+            {
+              "id": "C",
+              "text": "the basic shape of it."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Some people join Heather's pottery class because they want to",
+          "options": [
+            {
+              "id": "A",
+              "text": "create an item that looks very old."
+            },
+            {
+              "id": "B",
+              "text": "find something that they are good at."
+            },
+            {
+              "id": "C",
+              "text": "make something that will outlive them."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Heather value most about being a potter?",
+          "options": [
+            {
+              "id": "A",
+              "text": "its calming effect"
+            },
+            {
+              "id": "B",
+              "text": "its messy nature"
+            },
+            {
+              "id": "C",
+              "text": "its physical benefits"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Most of the visitors to Edelman Pottery",
+          "options": [
+            {
+              "id": "A",
+              "text": "bring friends to join courses."
+            },
+            {
+              "id": "B",
+              "text": "have never made a pot before."
+            },
+            {
+              "id": "C",
+              "text": "try to learn techniques too quickly."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Heather reminds her visitors that they should",
+          "options": [
+            {
+              "id": "A",
+              "text": "put on their aprons."
+            },
+            {
+              "id": "B",
+              "text": "change their clothes."
+            },
+            {
+              "id": "C",
+              "text": "take off their jewellery."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q17",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO things does Heather explain about kilns?",
+          "options": [
+            {
+              "id": "A",
+              "text": "what their function is"
+            },
+            {
+              "id": "B",
+              "text": "hen they were invented"
+            },
+            {
+              "id": "C",
+              "text": "ways of keeping them safe"
+            },
+            {
+              "id": "D",
+              "text": "where to put one in your home"
+            },
+            {
+              "id": "E",
+              "text": "what some people use instead of one"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q18",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO things does Heather explain about kilns?",
+          "options": [
+            {
+              "id": "A",
+              "text": "what their function is"
+            },
+            {
+              "id": "B",
+              "text": "hen they were invented"
+            },
+            {
+              "id": "C",
+              "text": "ways of keeping them safe"
+            },
+            {
+              "id": "D",
+              "text": "where to put one in your home"
+            },
+            {
+              "id": "E",
+              "text": "what some people use instead of one"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q19",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO points does Heather make about a potter's tools?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some are hard to hold."
+            },
+            {
+              "id": "B",
+              "text": "Some are worth buying."
+            },
+            {
+              "id": "C",
+              "text": "Some are essential items."
+            },
+            {
+              "id": "D",
+              "text": "Some have memorable names."
+            },
+            {
+              "id": "E",
+              "text": "Some are available for use by participants."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q20",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO points does Heather make about a potter's tools?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some are hard to hold."
+            },
+            {
+              "id": "B",
+              "text": "Some are worth buying."
+            },
+            {
+              "id": "C",
+              "text": "Some are essential items."
+            },
+            {
+              "id": "D",
+              "text": "Some have memorable names."
+            },
+            {
+              "id": "E",
+              "text": "Some are available for use by participants."
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q21",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO things do the students both believe are responsible for the increase in loneliness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "social media"
+            },
+            {
+              "id": "B",
+              "text": "smaller nuclear families"
+            },
+            {
+              "id": "C",
+              "text": "urban design"
+            },
+            {
+              "id": "D",
+              "text": "longer lifespans"
+            },
+            {
+              "id": "E",
+              "text": "a mobile workforce"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q22",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO things do the students both believe are responsible for the increase in loneliness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "social media"
+            },
+            {
+              "id": "B",
+              "text": "smaller nuclear families"
+            },
+            {
+              "id": "C",
+              "text": "urban design"
+            },
+            {
+              "id": "D",
+              "text": "longer lifespans"
+            },
+            {
+              "id": "E",
+              "text": "a mobile workforce"
+            }
+          ],
+          "answer": [
+            "C",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q23",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO health risks associated with loneliness do the students agree are based on solid evidence?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a weakened immune system"
+            },
+            {
+              "id": "B",
+              "text": "dementia"
+            },
+            {
+              "id": "C",
+              "text": "cancer"
+            },
+            {
+              "id": "D",
+              "text": "obesity"
+            },
+            {
+              "id": "E",
+              "text": "cardiovascular disease"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q24",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO health risks associated with loneliness do the students agree are based on solid evidence?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a weakened immune system"
+            },
+            {
+              "id": "B",
+              "text": "dementia"
+            },
+            {
+              "id": "C",
+              "text": "cancer"
+            },
+            {
+              "id": "D",
+              "text": "obesity"
+            },
+            {
+              "id": "E",
+              "text": "cardiovascular disease"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q25",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO opinions do both the students express about the evolutionary theory of loneliness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has little practical relevance."
+            },
+            {
+              "id": "B",
+              "text": "It needs further investigation."
+            },
+            {
+              "id": "C",
+              "text": "It is misleading."
+            },
+            {
+              "id": "D",
+              "text": "It should be more widely accepted."
+            },
+            {
+              "id": "E",
+              "text": "It is difficult to understand."
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q26",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO opinions do both the students express about the evolutionary theory of loneliness?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has little practical relevance."
+            },
+            {
+              "id": "B",
+              "text": "It needs further investigation."
+            },
+            {
+              "id": "C",
+              "text": "It is misleading."
+            },
+            {
+              "id": "D",
+              "text": "It should be more widely accepted."
+            },
+            {
+              "id": "E",
+              "text": "It is difficult to understand."
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When comparing loneliness to depression, the students",
+          "options": [
+            {
+              "id": "A",
+              "text": "doubt that there will ever be a medical cure for loneliness."
+            },
+            {
+              "id": "B",
+              "text": "claim that the link between loneliness and mental health is overstated."
+            },
+            {
+              "id": "C",
+              "text": "express frustration that loneliness is not taken more seriously."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why do the students decide to start their presentation with an example from their own experience?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to explain how difficult loneliness can be"
+            },
+            {
+              "id": "B",
+              "text": "to highlight a situation that most students will recognise"
+            },
+            {
+              "id": "C",
+              "text": "to emphasise that feeling lonely is more common for men than women"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The students agree that talking to strangers is a good strategy for dealing with loneliness because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it creates a sense of belonging."
+            },
+            {
+              "id": "B",
+              "text": "it builds self-confidence."
+            },
+            {
+              "id": "C",
+              "text": "it makes people feel more positive."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The students find it difficult to understand why solitude is considered to be",
+          "options": [
+            {
+              "id": "A",
+              "text": "similar to loneliness."
+            },
+            {
+              "id": "B",
+              "text": "necessary for mental health."
+            },
+            {
+              "id": "C",
+              "text": "an enjoyable experience."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o pollution from ______ on the river bank.",
+          "answer": "Factories",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In1957, the River Thames in London wasd1:1elared biologically ______",
+          "answer": "Dead",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Seals and even a ______ have been seen in the River Thames.",
+          "answer": "Whale",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Riverside warehouses are converted to restaurants and ______",
+          "answer": "Apartments",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o build a riverside ______",
+          "answer": "Park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Display ______ projects.",
+          "answer": "Art",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In Paris, ______ are created on the 8'desof the river every summer.",
+          "answer": "Beaches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Over 2 billion passengers already travel by ______ in cities round the world.",
+          "answer": "Ferry",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Instead of road transport, goods could be transported by large freight barges and electric ______ or, in future, by (40)",
+          "answer": "Bikes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-201-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Instead of road transport, goods could be transported by large freight barges and electric (39) or, in future, by ______",
+          "answer": "Drone",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/201_we.mp3"
+    }
+  ]
+}

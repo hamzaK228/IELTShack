@@ -1,0 +1,40 @@
+{
+  "id": "pte-writing-89",
+  "title": "Academic Writing — Practice Test 89",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-89-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The table below describes percentages of homeschooled students in Some Country in 1999-2004. Write a report for a university lecturer describing the information shown. Write at least 150 words. Grade/ year 1999 2000 2001 2002 2003 2004 Kindergarten 2.4 2.5 2.6 2.7 2.7 2.9 Grade 1-2 1.5 1.2 1.3 1.5 1.8 2.1 Grade 3-4 1.6 1.7 1.8 1.9 2.1 2.2 Grade 5-6 1.5 1.3 1.3 1.6 2.1 2.6 Grade 7-8 1.6 1.6 1.6 2.2 2.4 2.5\n\nGrade/ year | 1999 | 2000 | 2001 | 2002 | 2003 | 2004\nKindergarten | 2.4 | 2.5 | 2.6 | 2.7 | 2.7 | 2.9\nGrade 1-2 | 1.5 | 1.2 | 1.3 | 1.5 | 1.8 | 2.1\nGrade 3-4 | 1.6 | 1.7 | 1.8 | 1.9 | 2.1 | 2.2\nGrade 5-6 | 1.5 | 1.3 | 1.3 | 1.6 | 2.1 | 2.6\nGrade 7-8 | 1.6 | 1.6 | 1.6 | 2.2 | 2.4 | 2.5",
+          "answer": "",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-writing-89-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Maintaining public libraries is a waste of money since computer technology is now replacing their functions. To what extend do you agree or disagree? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

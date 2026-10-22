@@ -1,0 +1,474 @@
+{
+  "id": "pte-listening-29",
+  "title": "Listening — Practice Test 29",
+  "kind": "practice",
+  "description": "One recording, 24 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-29-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "9 am______Welcome talk by Director of Studies",
+          "answer": "Hervill Hall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "9.30 am Talk by the ______",
+          "answer": "social organiser",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "amClassroom 4(4) ______",
+          "answer": "10.45",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(3) ______amClassroom ______",
+          "answer": "placement test",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "12.30 am______Lunch",
+          "answer": "(indian) restaurant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "P ______",
+          "answer": "P",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "S ______",
+          "answer": "S",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "R ______",
+          "answer": "R",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "am ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-29-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 10. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-29-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "sunday ______",
+          "answer": "sunday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "am ______",
+          "answer": "7.30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "classical ______",
+          "answer": "classical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "am ______",
+          "answer": "12 am",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "served all day ______",
+          "answer": "served all day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(monthly) newsletter ______",
+          "answer": "(monthly) newsletter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "£15 ______",
+          "answer": "£15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "year ______",
+          "answer": "year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(membership) card ______",
+          "answer": "(membership) card",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(membership) number ______",
+          "answer": "(membership) number",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Degree: French with ______",
+          "answer": "film (studios)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "NOTE: ______ months spent in Bruges, Belgium",
+          "answer": "9/ nine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Organization: ______",
+          "answer": "restoration vacations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Duties: liaising between building owners and ______",
+          "answer": "volunteers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Duration of job: ______ months",
+          "answer": "6",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Job: translator and translation ______",
+          "answer": "coordinator",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Duties: translation, coordinating translations in other ______",
+          "answer": "offices",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Duration of job: ______ months",
+          "answer": "18",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "John hoped to train as a teacher because",
+          "options": [
+            {
+              "id": "A",
+              "text": "he hated working in the bank"
+            },
+            {
+              "id": "B",
+              "text": "he wants to return from Paris"
+            },
+            {
+              "id": "C",
+              "text": "he has always wanted to"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "John says living in France improved his",
+          "options": [
+            {
+              "id": "A",
+              "text": "French"
+            },
+            {
+              "id": "B",
+              "text": "cultural awareness"
+            },
+            {
+              "id": "C",
+              "text": "French and cultural awareness"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 31. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-29-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Blowpipe______New",
+          "answer": "plastic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Air bagLeather______",
+          "answer": "new",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Main pipe______Original",
+          "answer": "wood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ReedReed______",
+          "answer": "new",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Kentish pipe can be played",
+          "options": [
+            {
+              "id": "A",
+              "text": "in one way only"
+            },
+            {
+              "id": "B",
+              "text": "in two ways"
+            },
+            {
+              "id": "C",
+              "text": "in several ways"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The air bag allows the player to play",
+          "options": [
+            {
+              "id": "A",
+              "text": "without pauses"
+            },
+            {
+              "id": "B",
+              "text": "for a very long time"
+            },
+            {
+              "id": "C",
+              "text": "in many different styles"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Music originally written for Kentish pipe",
+          "options": [
+            {
+              "id": "A",
+              "text": "is very traditional"
+            },
+            {
+              "id": "B",
+              "text": "is very fast"
+            },
+            {
+              "id": "C",
+              "text": "no longer exists"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Geoffrey will play 17th century music",
+          "options": [
+            {
+              "id": "A",
+              "text": "written by his colleagues"
+            },
+            {
+              "id": "B",
+              "text": "found by his colleagues"
+            },
+            {
+              "id": "C",
+              "text": "adapted by his colleagues"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-29-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "He will also play",
+          "options": [
+            {
+              "id": "A",
+              "text": "classic rock tunes"
+            },
+            {
+              "id": "B",
+              "text": "a range of modern music"
+            },
+            {
+              "id": "C",
+              "text": "some familiar classical pieces"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/29_we.mp3"
+    }
+  ]
+}

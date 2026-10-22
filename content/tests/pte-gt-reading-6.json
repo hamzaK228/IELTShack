@@ -1,0 +1,1414 @@
+{
+  "id": "pte-gt-reading-6",
+  "title": "General Training Reading — Practice Test 6",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: MAIL ORDER BROCHURE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-6-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Women's cotton socks cost less than men's.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Men's silk shirts are available in more than five colours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Children's 7-shirts come in a variety of colours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The child's jacket has four pockets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you buy clothes worth $80 in August, you will receive a free alarm clock.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The charge for special next-day delivery in Australia is $7.95.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All clothing is guaranteed to arrive within two months.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book A",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "X",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Book B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Field Guide to Native Birds of Australia"
+            },
+            {
+              "id": "ii",
+              "text": "The Bush on Two Wheels: 100 Top Rides"
+            },
+            {
+              "id": "iii",
+              "text": "Bush Foods of Australian Aborigines"
+            },
+            {
+              "id": "iv",
+              "text": "A Pictorial History of the Dinosaur in Australia"
+            },
+            {
+              "id": "v",
+              "text": "Bushwalking in Australia"
+            },
+            {
+              "id": "vi",
+              "text": "World Geographica"
+            },
+            {
+              "id": "vii",
+              "text": "Driving Adventures for 4-wheel-drive Vehicles"
+            },
+            {
+              "id": "viii",
+              "text": "Survival Techniques in the Wild"
+            },
+            {
+              "id": "ix",
+              "text": "Encyclopaedia of Australian Wildlife"
+            },
+            {
+              "id": "x",
+              "text": "Guide to the Art of the Australian Desert"
+            },
+            {
+              "id": "xi",
+              "text": "Field Guide to Animals of the World"
+            },
+            {
+              "id": "J",
+              "text": "J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book C Example Book D vi",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book E",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "II",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book F",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "IX",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book G",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Book H Example Book I vii",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            },
+            {
+              "id": "IX",
+              "text": "Paragraph IX"
+            },
+            {
+              "id": "X",
+              "text": "Paragraph X"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "MAIL ORDER BROCHURE",
+        "text": "Want some great clothing ideas for your family?\n\nOur key for clothing specials in July:\n\nM for men W for women C for children\n\nFor under $10\n\nCotton socks C – made of pure cotton for long wearing\n\nWoollen socks C – to keep young feet warm in winter\n\nSports socks M – to go with jeans and other casual clothes\n\nPatterned belts W – to go with jeans and other casual clothes\n\nFor under $25\n\nCotton shirts W – for day and evening wear\n\nSilk shirts M – five sizes, in designer colours, for that special social occasion\n\nT-shirts C – hard-wearing, white with a variety of animal motifs\n\nColour T-shirts M W – cotton and polyester blend, plain colours, no ironing\n\nFor under $50\n\nBlue jeans M W – non-shrink, colourfast, small sizes only\n\nSilk shirts M W – plain and patterned, all sizes\n\nHooded jacket C – protects from the wind, 4 sizes, large strong pockets\n\njacket W – waterproof with zipper front, all sizes Or you can buy a gift voucher so that someone else can choose. These come in $10, $20 and $50 amounts.\n\nAdditional monthly specials for July to September\n\nJuly – $10 voucher with any purchase over $60 August – Travel alarm clock worth $19.95 free with purchases of $80 or more! September – Children's backpacks. Free with any credit card purchase over $75!\n\nNote: Postage and packing charges\n\nThese are applied to each order as follows:\n\nWithin Australia:\n\n$7.95 per address, regular post\n\n$17.95 for Express Delivery Service (overnight)\n\nOverseas:\n\nSurface Mail (allow a minimum of two months for delivery)\n\nAirmail (allow around two weeks delivery to most destinations)"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: WORK & TRAVEL USA",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-6-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The program cost includes internal flights within the USA.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Emergency assistance offered in the program includes legal advice.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "InterExchange offers similar programs in countries other than the USA.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "InterExchange is part of a government program.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are no restrictions on the type of job you can do.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is an upper age limit for applicants.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "All students receive a transcript of results and relevant award documentation when they end their studies with the College.",
+          "options": [
+            {
+              "id": "vii",
+              "text": "Driving Adventures for 4-wheel-drive Vehicles"
+            },
+            {
+              "id": "viii",
+              "text": "Survival Techniques in the Wild"
+            },
+            {
+              "id": "ix",
+              "text": "Encyclopaedia of Australian Wildlife"
+            },
+            {
+              "id": "x",
+              "text": "Guide to the Art of the Australian Desert"
+            },
+            {
+              "id": "xi",
+              "text": "Field Guide to Animals of the World"
+            },
+            {
+              "id": "A",
+              "text": "This book describes the creativity of Aboriginal people living in the driest parts of Australia. Stunning reproductions of paintings, beautiful photography and informative text."
+            },
+            {
+              "id": "B",
+              "text": "Pocket-sized maps and illustrations with detailed information on the nesting sites and migration patterns of Australia. This is a classic booklet suitable for both beginner and expert."
+            },
+            {
+              "id": "C",
+              "text": "Packed full of information for the avid hiker, this book is a must. Photographs, maps and practical advice will guide your journeys on foot through the forests of the southern continent."
+            },
+            {
+              "id": "D",
+              "text": "More than-an atlas – this book contains maps, photographs and an abundance of information on the land and climate of countries from around the globe."
+            },
+            {
+              "id": "E",
+              "text": "Australia's premier mountain biking guidebook – taking you through a host of national parks and state forests."
+            },
+            {
+              "id": "F",
+              "text": "Here's the A-Z of Australian native animals – take an in-depth look at their lives and characteristics, through fantastic photographs and informative text."
+            },
+            {
+              "id": "G",
+              "text": "Graphic artists have worked with researchers and scientists to illustrate how these prehistoric animals lived and died on the Australian continent."
+            },
+            {
+              "id": "H",
+              "text": "A definitive handbook on outdoor safety – with a specific focus on equipment, nutrition, first aid, special clothing and bush skills."
+            },
+            {
+              "id": "I",
+              "text": "Detailed guides to 15 scenic car tours that will take you onto fascinating wilderness tracks and along routes that you could otherwise have missed."
+            },
+            {
+              "id": "J",
+              "text": "J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On enrolment, all students receive automatic membership to the Social Club and Public Speaking Club. Students may choose to participate in any arranged activities. The College encourages and promotes interaction between students and teaching and non-teaching staff. ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Successful completion and the achievement of an",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Arthur Phillip College is one of the top business colleges in Sydney, Australia. The College offers a wide range of educational and training programs in business and related areas. Its accredited vocational training courses are designed to meet the needs of individual students and industry.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "At Arthur Phillip College you will learn from lectures, seminars, case studies, group projects, individual assignments and class workshops. Lectures and seminars present concepts and ideas and provide for question-and-answer sessions. Students are expected to take an active role in the learning process through class participation, presentations and projects.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Courses at Arthur Phillip College involve an average of 25 hours per week of tuition time, with supervised group study accounting for a further 5 hours per week. At least 10 hours per week of individual study is also recommended for most courses.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "During this program, you will meet the Director of Studies, teachers and key administrative staff such as the Accommodation Officer and Student Counsellor so that, right from your first day, you will know how each of them can help you during your time at the College.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "WORK & TRAVEL USA",
+        "text": "Do you want to have the best summer holiday ever? Have you just graduated and want to escape for a unique experience abroad? Only $1950 will make It all happen!\n\nThis unbeatable program fee includes:\n\n• return flight from Sydney to Los Angeles (onward travel in USA not included)\n\n• 3 months' insurance cover\n\n• 2 nights' accommodation on arrival plus meet and greet and airport transfer\n\n• arrival orientation by experienced InterExchange staff\n\n• visa application fees\n\nYou also have:\n\n• access to a J-l visa enabling you to work in the USA\n\n• an extensive directory of employers\n\n• InterExchange support throughout the program\n\n• 24-hour emergency support throughout the length of the program\n\nCall toll-free 1800 678 738 InterExchange has 50 yeors' experience in international student exchange programs. 18,000 students from around the world travel yearly to the USA on this very program. InterExchange con also offer you work opportunities in other countries. WHAT IS INTEREXCHANGE?\n\nInterExchange, one of the world's leading operators of international exchange programs and related services:\n\n• is a non-profit, non-governmental organisation\n\n• has 700 professional staff in 30 countries worldwide\n\n• was founded in 1947 InterExchange operates these programs for students all around the world. It offers you trained and travelled staff, plus full support during the application process. You can choose any job that interests you anywhere in the USA, whether that is working in a law firm in Boston, a famous ski resort in Colorado or serving coffee and doughnuts in the buzzing streets of New York. You can select the period you work and the period you travel; you may want to work for 1 month and travel for 3, or work the entire duration of your stay. The choice is yours.\n\nYOU CAN TAKE UP THIS OPPORTUNITY IF YOU ARE:\n\n• a full-time student at an Australian university or TAFE college\n\n• presently enrolled, or finishing this year, or you have deferred a year of study\n\n• over 18 years old by November in the academic year in which you apply to InterExchange\n\n• enthusiastic about the experience of a lifetime"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: The Lack Of Sleep",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-6-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the different amounts of sleep that people require",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "an investigation into the results of sleep deprivation",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "some reasons why people may suffer from sleep disorders",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "lifestyle changes which can help overcome sleep-related problems",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a process by which sleep helps us to remain mentally and physically healthy",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "claims about a commercialised man-made product for sleeplessness",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the role of physical changes in sleeping habits",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the processes involved during sleep",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sleep can cure some illnesses.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The various stages of sleep occur more than once a night.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dreaming and sleep-walking occur at similar stages of sleep.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sleepers move around a lot during the REM stage of sleep.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-6-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The body temperature rises relatively early in elderly people.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The Lack Of Sleep",
+        "text": "Section A It is estimated that the average man or woman needs between seven-and-a-half and eight hours' sleep a night. Some can manage on a lot less. Baroness Thatcher, for example, was reported to be able to get by on four hours' sleep a night when she was Prime Minister of Britain. Dr Jill Wilkinson, senior lecturer in psychology at Surrey University and co-author of 'Psychology in Counselling and Therapeutic Practice', states that healthy individuals sleeping less than five hours or even as little as two hours in every 24 hours are rare, but represent a sizeable minority.\n\nSection B The latest beliefs are that the main purposes of sleep are to enable the body to rest and replenish, allowing time for repairs to take place and for tissue to be regenerated. One supporting piece of evidence for this rest-and-repair theory is that production of the growth hormone somatotropin, which helps tissue to regenerate, peaks while we are asleep. Lack of sleep, however, can compromise the immune system, muddle thinking, cause depression, promote anxiety and encourage irritability.\n\nSection C Researchers in San Diego deprived a group of men of sleep between Sam and lam on just one night, and found that levels of their bodies' natural defences against viral infections had fallen significantly when measured the following morning. 'Sleep is essential for our physical and emotional well-being and there are few aspects of daily living that are not disrupted by the lack of it', says Professor William Regelson of Virginia University, a specialist in insomnia. 'Because it can seriously undermine the functioning of the immune system, sufferers are vulnerable to infection.'\n\nSection D For many people, lack of sleep is rarely a matter of choice. Some have problems getting to sleep, others with staying asleep until the morning. Despite popular belief that sleep is one long event, research shows that, in an average night, there are five stages of sleep and four cycles, during which the sequence of stages is repeated. In the first light phase, the heart rate and blood pressure go down and the muscles relax. In the next two stages, sleep gets progressively deeper. In stage four, usually reached after an hour, the slumber is so deep that, if awoken, the sleeper would be confused and disorientated. It is in this phase that sleep-walking can occur, with an average episode lasting no more than 15 minutes. In the fifth stage, the rapid eye movement (REM) stage, the heartbeat quickly gets back to normal levels, brain activity accelerates to daytime heights and above and the eyes move constantly beneath closed lids as if the sleeper is looking at something. During this stage, the body is almost paralysed. This REM phase is also the time when we dream.\n\nSection E Sleeping patterns change with age, which is why many people over 60 develop insomnia. In America, that age group consumes almost half the sleep medication on the market. One theory for the age-related change is that it is due to hormonal changes. The temperature General Training: Reading and Writing rise occurs at daybreak in the young, but at three or four in the morning in the elderly. Age aside, it is estimated that roughly one in three people suffer some kind of sleep disturbance. Causes can be anything from pregnancy and stress to alcohol and heart disease. Smoking is a known handicap to sleep, with one survey showing that ex-smokers got to sleep in 18 minutes rather than their earlier average of 52 minutes.\n\nSection F Apart from self-help therapy such as regular exercise, there are psychological treatments, including relaxation training and therapy aimed at getting rid of pre-sleep worries and anxieties. There is also sleep reduction therapy, where the aim is to improve sleep quality by strictly regulating the time people go to bed and when they get up. Medication is regarded by many as a last resort and often takes the form of sleeping pills, normally benzodiazepines, which are minor tranquillizers.\n\nSection G Professor Regelson advocates the use of melatonin for treating sleep disorders. Melatonin is a naturally secreted hormone, located in the pineal gland deep inside the brain. The main function of the hormone is to control the body's biological clock, so we know when to sleep and when to wake. The gland detects light reaching it through the eye; when there is no light, it secretes the melatonin into the bloodstream, lowering the body temperature and helping to induce sleep. Melatonin pills contain a synthetic version of the hormone and are commonly used for jet lag as well as for sleep disturbance. John Nicholls, sales manager of one of America's largest health food shops, claims that sales of the pill have increased dramatically. He explains that it is sold in capsules, tablets, lozenges and mixed with herbs. It is not effective for all insomniacs, but many users have weaned themselves off sleeping tablets as a result of its application."
+      }
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "id": "pte-listening-38",
+  "title": "Listening — Practice Test 38",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-38-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wants to study abroad during: the entire ______ year of university",
+          "answer": "third",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Previous experience living abroad: a summer ______ in Buenos Aires, Argentina",
+          "answer": "language program",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Need financial aid for: plane ______ to South America",
+          "answer": "tickets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Intended degree: bachelor of arts in Spanish and Latin American ______",
+          "answer": "history",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Leela's friend who studied in China said",
+          "options": [
+            {
+              "id": "A",
+              "text": "the food was very different"
+            },
+            {
+              "id": "B",
+              "text": "the people were friendly"
+            },
+            {
+              "id": "C",
+              "text": "there was difficulty communicating"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "One problem people studying abroad have is",
+          "options": [
+            {
+              "id": "A",
+              "text": "with having enough money"
+            },
+            {
+              "id": "B",
+              "text": "feeling homesick and missing friends"
+            },
+            {
+              "id": "C",
+              "text": "eating different kinds of food"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Corben says that when applying for a study abroad program",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leela needs to get parental permission"
+            },
+            {
+              "id": "B",
+              "text": "Leela needs to keep things organized"
+            },
+            {
+              "id": "C",
+              "text": "Leela has to raise money"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Leela must make sure her classes abroad will towards her degree. ______",
+          "answer": "count",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The minimum grade point to study abroad is 3.2. ______",
+          "answer": "average",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "After filling out the application Leela must them to the Office of Study Abroad. ______",
+          "answer": "submit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The food festival takes place",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the beginning of April"
+            },
+            {
+              "id": "B",
+              "text": "at the end of April"
+            },
+            {
+              "id": "C",
+              "text": "in the middle of March"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The East Asian section will feature cuisine from",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vietnam and Thailand"
+            },
+            {
+              "id": "B",
+              "text": "Japan and China"
+            },
+            {
+              "id": "C",
+              "text": "France and Italy"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Latin American section will have",
+          "options": [
+            {
+              "id": "A",
+              "text": "South American food"
+            },
+            {
+              "id": "B",
+              "text": "South Asian cuisine"
+            },
+            {
+              "id": "C",
+              "text": "food from Germany"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Besides food tasting there will also be",
+          "options": [
+            {
+              "id": "A",
+              "text": "live music and dancing"
+            },
+            {
+              "id": "B",
+              "text": "stores selling their products"
+            },
+            {
+              "id": "C",
+              "text": "events that show people how to cook"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "For a list of events, people can",
+          "options": [
+            {
+              "id": "A",
+              "text": "call the information centre"
+            },
+            {
+              "id": "B",
+              "text": "look them up on the internet"
+            },
+            {
+              "id": "C",
+              "text": "pick up a brochure"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker highly recommends that participants",
+          "options": [
+            {
+              "id": "A",
+              "text": "practice their cooking techniques"
+            },
+            {
+              "id": "B",
+              "text": "buy their aprons beforehand"
+            },
+            {
+              "id": "C",
+              "text": "register in advance for workshops"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "World Tour of SpicesIntroduce different spices and flavor profilesAdults who want to seriously ______",
+          "answer": "learn cooking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Candy AdventuresMake healthy candy and sweetsMainly ______",
+          "answer": "children",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Salads ______Make tasty salads and dressingAnyone interested in (20) ______",
+          "answer": "forever",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Salads (19) ______Make tasty salads and dressingAnyone interested in ______",
+          "answer": "healthy eating",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The continuing education program is for people who",
+          "options": [
+            {
+              "id": "A",
+              "text": "want to learn new hobbies"
+            },
+            {
+              "id": "B",
+              "text": "want to start getting another degree"
+            },
+            {
+              "id": "C",
+              "text": "cannot find employment elsewhere"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The woman is interested in",
+          "options": [
+            {
+              "id": "A",
+              "text": "making money to travel the world"
+            },
+            {
+              "id": "B",
+              "text": "learning about accounting"
+            },
+            {
+              "id": "C",
+              "text": "being an entrepreneur"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The city centre is accessible by public transportation but",
+          "options": [
+            {
+              "id": "A",
+              "text": "is under renovation now"
+            },
+            {
+              "id": "B",
+              "text": "does not offer as many classes"
+            },
+            {
+              "id": "C",
+              "text": "is more expensive"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The woman takes care of her ill father during",
+          "options": [
+            {
+              "id": "A",
+              "text": "weekends"
+            },
+            {
+              "id": "B",
+              "text": "the evening"
+            },
+            {
+              "id": "C",
+              "text": "normal working hours"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The man finally suggests taking classes",
+          "options": [
+            {
+              "id": "A",
+              "text": "through the internet"
+            },
+            {
+              "id": "B",
+              "text": "at the city centre campus"
+            },
+            {
+              "id": "C",
+              "text": "at the suburban satellite campus"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The class for returning students teaches time management techniques like",
+          "options": [
+            {
+              "id": "A",
+              "text": "how to organize and use one’s time efficiently"
+            },
+            {
+              "id": "B",
+              "text": "how to talk to your teachers"
+            },
+            {
+              "id": "C",
+              "text": "making friends in class"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The class that reviews study skills goes over",
+          "options": [
+            {
+              "id": "A",
+              "text": "beginning English grammar"
+            },
+            {
+              "id": "B",
+              "text": "basic math skills"
+            },
+            {
+              "id": "C",
+              "text": "writing for academic classes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the dialogue the woman can go online in order to",
+          "options": [
+            {
+              "id": "A",
+              "text": "email fellow students"
+            },
+            {
+              "id": "B",
+              "text": "contact teachers"
+            },
+            {
+              "id": "C",
+              "text": "sign up for classes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The price of online classes is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the same as everything else"
+            },
+            {
+              "id": "B",
+              "text": "cheaper than going to either campus"
+            },
+            {
+              "id": "C",
+              "text": "more expensive than going to the city centre campus"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Textbooks and other course materials are",
+          "options": [
+            {
+              "id": "A",
+              "text": "free when taking the online course"
+            },
+            {
+              "id": "B",
+              "text": "available at campus bookstores"
+            },
+            {
+              "id": "C",
+              "text": "available online"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The entire college felt very excited about this generous ______",
+          "answer": "gift",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• There was a lot of money given to the school but not enough for every single ______",
+          "answer": "idea",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pen question ______",
+          "answer": "open question",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "different ______",
+          "answer": "different",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "vote ______",
+          "answer": "vote",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "4",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pros and cons ______",
+          "answer": "pros and cons",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A, D ______",
+          "answer": "A, D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why would a significantly minority of students not benefit from improved dining facilities?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they always make their own food and do not use those facilities"
+            },
+            {
+              "id": "B",
+              "text": "they live off campus and do not eat their meals at school"
+            },
+            {
+              "id": "C",
+              "text": "they cannot afford to eat on campus and buy their food from other places"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-38-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is one argument against improving the athletics building?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it would change the make up of the student body population"
+            },
+            {
+              "id": "B",
+              "text": "only a small proportion of students actually"
+            },
+            {
+              "id": "C",
+              "text": "it would harm the reputation of the university"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/38_we.mp3"
+    }
+  ]
+}

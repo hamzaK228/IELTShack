@@ -1,0 +1,1516 @@
+{
+  "id": "pte-reading-234",
+  "title": "Academic Reading — Practice Test 234",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: The Beautiful Game",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-234-q1",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of Newton Heath?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            }
+          ],
+          "answer": [
+            "C",
+            "D",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q2",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of Newton Heath?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            }
+          ],
+          "answer": [
+            "C",
+            "D",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q3",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of Newton Heath?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            }
+          ],
+          "answer": [
+            "C",
+            "D",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to expert opinion, there is little ______ that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or (5) ______ . External triggers such as newspaper reports and antagonistic (6) ______ can be attributed to escalation of the problem in certain situations. Some psychologists believe that such behaviour and membership of trouble-making groups can give certain individuals a sense of (7) ______ that may otherwise be missing in their lives.",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to expert opinion, there is little (4) ______ that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or ______ . External triggers such as newspaper reports and antagonistic (6) ______ can be attributed to escalation of the problem in certain situations. Some psychologists believe that such behaviour and membership of trouble-making groups can give certain individuals a sense of (7) ______ that may otherwise be missing in their lives.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to expert opinion, there is little (4) ______ that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or (5) ______ . External triggers such as newspaper reports and antagonistic ______ can be attributed to escalation of the problem in certain situations. Some psychologists believe that such behaviour and membership of trouble-making groups can give certain individuals a sense of (7) ______ that may otherwise be missing in their lives.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to expert opinion, there is little (4) ______ that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or (5) ______ . External triggers such as newspaper reports and antagonistic (6) ______ can be attributed to escalation of the problem in certain situations. Some psychologists believe that such behaviour and membership of trouble-making groups can give certain individuals a sense of ______ that may otherwise be missing in their lives.",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "details about stipulations made to offer financial assistance to the club",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "reasons for disruption of national competitions",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "information about why the problem of violence at football matches may be perceived by the general public to be larger than it is.",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "deliberations about the Manchester United name",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a reference to a new competition",
+          "options": [
+            {
+              "id": "A",
+              "text": "isolation"
+            },
+            {
+              "id": "B",
+              "text": "policing"
+            },
+            {
+              "id": "C",
+              "text": "anger"
+            },
+            {
+              "id": "D",
+              "text": "occupation"
+            },
+            {
+              "id": "E",
+              "text": "belief"
+            },
+            {
+              "id": "F",
+              "text": "proof"
+            },
+            {
+              "id": "G",
+              "text": "class"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "The Beautiful Game",
+        "text": "(A) Every nation has a sport to represent it. In the U.S., there is baseball; in New Zealand, rugby. In the UK, football is the national sporting obsession. While many UK teams have gained international recognition, Manchester United is among those most well-known on a global scale. Yet while most people, regardless of the sporting preference or nationality, have some passing knowledge of Manchester United, fewer can claim knowledge of the origins of the team. Manchester United came into being in 1902 as a result of bankruptcy of the team formerly known as Newton Heath. Newton Heath began life as Newton Heath LYR (Lancashire and Yorkshire Railway) club and as the name suggests, the original team was comprised of railway workers. Despite turning professional in 1885 and becoming the founding member of the Football Lions in 1889, Newton Heath – nicknamed the 'Heathens' – was constantly troubled by financial difficulties.\n\n(B) Salvation came in the form of local brewer, John Henry Davis, who agreed to invest in the team on condition of being given some interest in running it. After consideration of the alternatives titles of Manchester Central and Manchester Celtic, the club was christened Manchester United in April 1902. United's first manager, though officially titled Secretary, was Ernest Mangnall, who was appointed in September 1903, but it was not until the season of 1905/1906, that United experienced its first taste of success. His side reached the quarterfinals of the F.A, Cup and were runners up in the second division.\n\n(C) In 1907, United claimed the championship for the first time and won the first ever Charity Shield trophy in 1908. In the following year, United claimed the F.A. Cup trophy after beating Bristol City. Manchester United moved to its new stadium, Old Trafford, in early 1910. The move to the stadium, owned by the John Henry Davis brewery (a Manchester beer-making company), was proven to be fortunate as on the 17th of February, 1910, two days before the team's first scheduled game, the previous stadium Banks Street was destroyed in a fire. The new stadium had a capacity for a crowd of 80,000 spectators and despite losing to their first visiting team Liverpool, Manchester United were once again league champions at the end of the first full season playing from Old Trafford.\n\n(D) The following years were to be less of a success. From 1912 to the onset of the First World War, no significant victories were achieved. During the war the football league was suspended and only regional competitions took place. 1919 saw the return of Manchester United to league football with only two of the original members in the team.\n\n(E) Although Britain has a long and proud history of football adoration, contemporary football supporters from the UK have gained a negative reputation for outbursts of violence against rival supporters, earning the label 'football hooligan'. The football hooliganism phenomenon has attracted the attention of a number of researchers and psychologists who have offered theories relating to its causes. It is generally agreed that a combination of factors may initiate this type of anti-social behaviour and that it is unrealistic to contend that all such behaviour stems from a particular psychological make-up or belongs to a specific age or class. Experts do however believe that rampaging hooligan behaviour can instil a sense of belonging and 'community' in participants who feel that they can strongly identify with their group, regardless of the fact that the group's behaviour is negative.\n\n(F) Analysts also argue that the motivations for outbursts of violence experienced in an international setting are even more complex. Whilst alcohol and xenophobia no doubt play a part they say, some psychologists hold that policing tactics, to a large degree, dictate the level of disturbance likely to occur. Evidence supports the view that confrontational policing is much more likely to escalate than calm any incidences of trouble. The media's actions have also been criticised due to the belief by some that messages given in newspaper reporting may also exacerbate the existing problem of football hooliganism.\n\n(G) Critics say that certain headlines used by tabloid newspapers may glorify acts of violence and at least, the prolific news reports which are published in the UK about this issue cause perpetrators to receive undue attention and acknowledgement for their actions. Whilst few disagree that football hooliganism is a significant social problem, many researchers hold that sensationalist media reporting may also be creating undue panic since the problem is often presented as much more widespread than is the reality. Extreme cases of hooliganism from British fans has reduced significantly over recent years, and while it may take some considerable time for the negative reputation they have earned to subside, it is also true that a large proportion of supporters have no involvement in violence and simply share a love of the game."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: CAN WE BELIEVE OUR OWN EYES?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-234-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What type of illusion is a result of interference with neurone activity? ______",
+          "answer": "Physiological (illusion)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which two factors influence the way we process information on a cognitive level? ______",
+          "answer": "Knowledge and experience",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which theory holds that individuals see only the true reality of a situation? ______",
+          "answer": "Direct realism",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "may be perceived differently by individuals of diverse ethnic origin",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "may override our natural ability to make rational judgement",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "may be interpreted differently even by the same subject",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "may result due to chemical stimulation",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "has been used to question the validity of arguments in a different field",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Fictional illusions",
+          "options": [
+            {
+              "id": "A",
+              "text": "may eventually lead to schizophrenia."
+            },
+            {
+              "id": "B",
+              "text": "are the only type which are completely subjective."
+            },
+            {
+              "id": "C",
+              "text": "are very similar to paradox illusions."
+            },
+            {
+              "id": "D",
+              "text": "are typical of cognitive illusions."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "According to ambiguous illusion theory, which face of the Necker Cube is interpreted to be the front of the box due to the general tendency to view objects from above?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which diagram represents the Muller-Lyer illusion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Newton Health Football Club was established in 1902"
+            },
+            {
+              "id": "B",
+              "text": "It was the only Lancashire based club at the time"
+            },
+            {
+              "id": "C",
+              "text": "It developed from a club with a similar name"
+            },
+            {
+              "id": "D",
+              "text": "It ceased being an amateur team in 1885"
+            },
+            {
+              "id": "E",
+              "text": "It was the most famous British football club of the period"
+            },
+            {
+              "id": "F",
+              "text": "The club experienced economic hitches"
+            },
+            {
+              "id": "G",
+              "text": "Its name changed one more time before becoming Manchester United"
+            },
+            {
+              "id": "H",
+              "text": "intelligence"
+            },
+            {
+              "id": "I",
+              "text": "excitement"
+            },
+            {
+              "id": "J",
+              "text": "unity"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Penrose Stairs are an example of a model which",
+          "options": [
+            {
+              "id": "A",
+              "text": "can persuade the viewer they are seeing something infeasible."
+            },
+            {
+              "id": "B",
+              "text": "has disproven established theories on knowledge."
+            },
+            {
+              "id": "C",
+              "text": "is a naturally occurring paradox illusion."
+            },
+            {
+              "id": "D",
+              "text": "can be seen in a number of international locations."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Occurrences on 'gravity' or 'magnetic' hills result due to",
+          "options": [
+            {
+              "id": "A",
+              "text": "the mineral content of soil in the area."
+            },
+            {
+              "id": "B",
+              "text": "factors currently unexplained from a scientific perspective."
+            },
+            {
+              "id": "C",
+              "text": "misleading natural points of reference."
+            },
+            {
+              "id": "D",
+              "text": "rising slopes being misinterpreted as on a decline."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "CAN WE BELIEVE OUR OWN EYES?",
+        "text": "(A) An optical illusion refers to a visually perceived image that is deceptive or misleading in that information transmitted from the eye to the brain is processed in a way that the related assumption or deduction does not represent the true physical reality. Our perceptions of what we think we see can be influenced by a number of external factors; 'illusions' can be classified into two main categories these being 'physiological illusions' and 'cognitive' illusions, the latter category can then be divided again into four sub-types.\n\n(B) Physiological illusions occur as a result of excessive stimulation of the eyes and brain which leads to a temporary state of confusion and mixed messages. For example, after exposure to extremely vivid lights, the eyes may need time to adapt and immediately after the stimulus, we may see things that would not be the norm. In the same way a contingent perceptual after-effect may be experienced after staring at a particular colour and the receptors in the brain may process subsequent colours inaccurately until overload has passed.\n\n(C) Cognitive illusions, on the other hand, are said to arise not as a result of neurone activity as with the aforementioned category, but due to assumptions we may consciously make based on our knowledge and experience of the world. The four categories of cognitive illusion are 'ambiguous' illusions, 'distorting' illusions 'paradox' illusions and 'fictional' illusions. Inclusion of 'fictional' illusions into the cognitive group is somewhat misleading; however, as this type of illusion is unique in that it is only seen by an individual in a given situation and exists in no tangible form. A fictional illusion is in reality a hallucination which arises as a result of drug use or a brain condition such as schizophrenia.\n\n(D) Ambiguous illusions are pictures or objects which are structured in such a way that alternative perceptions of their structure are possible. Different individuals may instantly perceive the object or picture in a different way than another and, in fact, the same individual is often able to see and interpret the image or object in more than one form. A classic example of an ambiguous illusion is the Necker cube. This cube is a standard line drawing which our visual senses generally interpret as a three dimensional box. Wien the lines of the box cross, the picture intentionally does not define which is in front and which is behind. However, when individuals view the box, it is the automatic response of the mind to interpret what is seen. Generally our thought process patterns work in the way that we view objects from above; for this reason, when most people look at the Necker Cube they will interpret the lower left face as being the front of the box, the base of the front face being parallel to the floor as their thought processes convert the image to three dimensions. However, it is also possible to interpret the image differently in that the front of the box could also be seen to be in a different position.\n\n(E) The Necker Cube made contributions to researchers' understanding of the human visual system, providing evidence that the brain is a neural network with two distinct and interchangeable states. It has also been used in epistemology – the study of knowledge – as evidence to disprove the theory upheld by 'direct realism' that the way the human mind perceives the world is the way the world actually is. To illustrate, with the՜ Necker cube we are generally able to see one or both versions of a three dimensional cube, when in fact only a two dimensional drawing comprised of 12 lines exists.\n\n(F) Distorting illusions affect an individual's ability to judge size, length, or curvature; the Muller-Lyer illusion which consists of three lines with arrow-like endings is a prime example. In this illusion the middle arrow has both arrow ends pointing out, while the line above it has arrow' ends pointing in and the third and final line possesses one inward pointing and one outward pointing arrow' end. ¿Most respondents from certain backgrounds generally respond that the middle arrow is the longest (though all are in fact the same). However, cultural backgrounds affect perceptions related to this illusion; international research having shown that non-Western subjects, particularly those generally not exposed to rectangular shaped buildings and door frames in their day to day life, are less likely to misinterpret the true length of the three drawings.\n\n(G) Paradox illusions encourage the mind to believe that we are seeing something we know to be impossible. The Penrose Stairs and the Penrose Triangle, developed by Lionel Penrose are examples of models created to illustrate this phenomenon. Many naturally occurring optical illusions also exist. Throughout the world there a number of locations where objects can be perceived to roll uphill; our cognitive and pre-learned knowledge inform us that this is impossible; however information received by the visual senses of observers creates conflict. These areas are often known as 'gravity hills or 'magnetic' hills and are often popular with tourists; the mystical properties of the area often promoted vigorously to add mystique or claimed to arise as a result of the special properties and magnetic influence of the area's land.\n\n(H) The scientific explanation for such phenomenon is that such areas are set on slightly sloping ground without a visible horizon against which to establish perspective. In addition, surrounding points of reference we would generally expect to be perpendicular, such as trees, are in fact on a slope. The interpretation of what observers believe they are experiencing is therefore confused, downward slopes may be perceived to be horizontal or tilting upwards and cars with hand brakes released on such ground appear to roll upwards when in fact they a rolling, as gravity dictates, in a downhill direction. While our innate sense of balance under normal situations helps us determine the inclination of the ground, interference from the visual stimuli as outlined above and lack of reference from points on the horizon can override this ability in such situations, especially if the gradient is gentle."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: GRAVITY",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-234-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph H",
+          "options": [
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Differentiation between gravity and gravitational pull is generally only made by academics in the field.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Gravity levels in areas around the equator are significantly higher than around the poles.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It was first believed that lower gravity levels in Hudson Bay could be attributed to its location between the poles and the equator.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Molten rock activity within the magma layer has had less of an impact on gravity levels in the Hudson Bay area than the Laurentidelce sheet.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The GRACE project's main focus was areas of Canada and North America once thought to be covered by the Laurentidelce sheet.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The impact of ______ on objects falling to the ground was not considered by Aristotle. Investigations of (38) ______ first led to the discovery of the unusual levels in Hudson Bay. The earth's surface has been observed to sink as a direct result of (39) ______ The largest proportion of the Laurentideice sheet was (40) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "crystalline spheres"
+            },
+            {
+              "id": "B",
+              "text": "mass"
+            },
+            {
+              "id": "D",
+              "text": "continental plates"
+            },
+            {
+              "id": "E",
+              "text": "gravity fields"
+            },
+            {
+              "id": "F",
+              "text": "warming"
+            },
+            {
+              "id": "H",
+              "text": "mantle layers"
+            },
+            {
+              "id": "I",
+              "text": "convection currents"
+            },
+            {
+              "id": "J",
+              "text": "air resistance"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The impact of (37) ______ on objects falling to the ground was not considered by Aristotle. Investigations of ______ first led to the discovery of the unusual levels in Hudson Bay. The earth's surface has been observed to sink as a direct result of (39) ______ The largest proportion of the Laurentideice sheet was (40) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "crystalline spheres"
+            },
+            {
+              "id": "B",
+              "text": "mass"
+            },
+            {
+              "id": "D",
+              "text": "continental plates"
+            },
+            {
+              "id": "E",
+              "text": "gravity fields"
+            },
+            {
+              "id": "F",
+              "text": "warming"
+            },
+            {
+              "id": "H",
+              "text": "mantle layers"
+            },
+            {
+              "id": "I",
+              "text": "convection currents"
+            },
+            {
+              "id": "J",
+              "text": "air resistance"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The impact of (37) ______ on objects falling to the ground was not considered by Aristotle. Investigations of (38) ______ first led to the discovery of the unusual levels in Hudson Bay. The earth's surface has been observed to sink as a direct result of ______ The largest proportion of the Laurentideice sheet was (40) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            },
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-234-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The impact of (37) ______ on objects falling to the ground was not considered by Aristotle. Investigations of (38) ______ first led to the discovery of the unusual levels in Hudson Bay. The earth's surface has been observed to sink as a direct result of (39) ______ The largest proportion of the Laurentideice sheet was ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fictional illusions"
+            },
+            {
+              "id": "B",
+              "text": "Paradox illusions"
+            },
+            {
+              "id": "C",
+              "text": "Distorting illusions"
+            },
+            {
+              "id": "D",
+              "text": "Ambiguous illusions"
+            },
+            {
+              "id": "i",
+              "text": "Return to previous form"
+            },
+            {
+              "id": "ii",
+              "text": "Substantiating a hypothesis"
+            },
+            {
+              "id": "iii",
+              "text": "Historic theories"
+            },
+            {
+              "id": "iv",
+              "text": "The general rule of gravity and an exception"
+            },
+            {
+              "id": "v",
+              "text": "The initial explanation"
+            },
+            {
+              "id": "vi",
+              "text": "How proximity to the poles affected Hudson Bay"
+            },
+            {
+              "id": "vii",
+              "text": "Scientific definition and contemporary views"
+            },
+            {
+              "id": "viii",
+              "text": "Relevance to our future"
+            },
+            {
+              "id": "ix",
+              "text": "An alternative view point"
+            },
+            {
+              "id": "x",
+              "text": "Consolidating theories"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "GRAVITY",
+        "text": "(A) Without forces of gravitation, Earth and other planets would be unable to stay in their orbits around the Sun. the Moon would be unable to orbit the Earth, tidal waves would not occur and the rising of hot air or water convection would be impossible. Gravitation is a phenomenon winch allows objects to attract other matter; the physics behind it have been explained in The Theory of Relativity and Newton's Law of Universal Gravitation; though attempts to explain gravity hail back to ancient times. In 4th Century B.C. the Greek philosopher Aristotle developed the hypothesis that all objects were drawn into their correct position by crystalline spheres and that a physical mass would fall towards the earth in direct proportion to its weight.\n\n(B) In the late 16th century Galileo deduced that while gravitation propels all objects to the ground at the same rate, air resistance resulted in heavier objects appearing to fall more quickly; his theories contradicting earlier belief systems put in place by Aristotle and others; so paving the way for formulation of the modern theories of today. Though the two terms are now used interchangeably in layman use, strictly by scientific definition, there are distinct differences between 'gravitation' and 'gravity'. The first relates to the influence exerted by different objects which allow them to attract other objects, whereas 'gravity' refers specifically to the force possessed by such objects which facilitates gravitation. Certain scientific theories hold that gravitation may be initiated by a combination of factors and not simply the existence of gravity alone; though doubts have been raised regarding some of these theories.\n\n(C) Gravity is directly proportional to mass; a smaller object possessing less gravity. To illustrate, the Moon is a quarter of the Earth's size and possesses only 1/6 of its gravity. The mass of the Earth itself is not spread out proportionally, being flatter at the poles than the equator as a result of its rotation; gravity and gravitational pull in different locations throughout the world also vary. In the 1960s, as a result of research into the worldwide gravity fields, it was discovered that inexplicably areas around and including the Hudson Bay area of Canada appeared to possess significantly lower levels of gravity than other parts of the globe; the reasons for this dissimilarity have since been extensively investigated resulting in two explanations.\n\n(D) The original theory presented attributed this anomaly to activity which occurs 100-200 kilometres below the Earth's surface within the layer known as the 'mantle'. The mantle is comprised of hot molten rock known as magma which flows under the earth's surface causing convection currents. These convection currents can result in the lowering of the continental plates which make up the Earth's surface, as a result when this occurs, the mass in that area and its gravity is also reduced. Research findings indicated that such activity had occurred in the Hudson Bay region.\n\n(E) More recently a second conjecture suggested that, in fact, lower levels of gravity in the area are a result of occurrences during the Ice Age. The Laurentidelce sheet, which covered most of Canada and the northern tip of the USA until it melted 10,000 years ago, is thought to have been 3.2 kms thick in most parts and 3.7 kms thick over two areas of Hudson Bay. The sheer weight of the ice layer weighed down the surface of the earth below, leaving a deep indentation once it had melted, having caused the area around Hudson Bay to become thinner as the earth's surface was pushed to the edges of the icesheet.\n\n(F) Extensive investigation has since been carried out by the Harvard-Smithsonian Center for Astrophysics using data collected by satellites during the Gravity Recovery and Climate Experiment (GRACE) between 2002 and 2006. The satellites are placed 220kms apart and orbit 500kms above Earth. Being extremely sensitive to even minor differences in gravitational pull of the areas of earth they pass over, as the first satellite enters an area with decreased gravity it moves slightly away from the earth as the gravitational pull is reduced and also moves slightly further away from the sister satellite that follows, such activity allowing scientists to create maps of gravitational fields. The GRACE findings also allowed scientists to estimate the appearance of Hudson Bay over 10,000 years ago, prior to the great thaw. The areas possessing the lowest gravity today correlate with the areas covered in the thickest layers of ice at that time.\n\n(G) Researchers now believe that both theories regarding reduced gravity levels in the Hudson Bay region are accurate and that the area's characteristics are a result of both magma activity and the impact of the Laurentidelce sheet. It has been estimated that the former has resulted in 55-75% of gravity reduction and that pressure resulting from the latter accounts for 25-45%.\n\n(H) The effects of the Laurentidelce sheet are reversible due to the earth layer's capability to 'rebound' in response to removal of the weight which once restricted it. Return to the original position, however, is an extremely slow process; it is estimated that the area around Hudson Bay will take a further 5,000 years to recover the altitude it once possessed prior to the Laurentidelce sheet. The rebound activity in the area is also measurable through observation of sea levels; unlike the rest of the world, sea levels are not rising in the area as a result of melting icecaps, but are dropping as the land recovers its previous form\n\n(I) Research conducted into the Laurentidelce sheet has significant implications on a global scale. The increased knowledge of how that particular area has changed over time and the long-term implications activity in the Ice Age had, pave the way to a better understanding of how current changes elsewhere will manifest themselves over the long term."
+      }
+    }
+  ]
+}

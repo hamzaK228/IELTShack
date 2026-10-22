@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-14",
+  "title": "General Training Writing — Letter 14",
+  "kind": "practice",
+  "description": "Task 1 letter, 14 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-14-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You eat at your college cafeteria every lunchtime. However, you think it needs some improvements.\nWrite a letter to the college magazine. In your letter,\nexplain what you like about the cafeteria\nsay what is wrong with it\nsuggest how it could be improved",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

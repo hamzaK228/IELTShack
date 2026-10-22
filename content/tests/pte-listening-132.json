@@ -1,0 +1,758 @@
+{
+  "id": "pte-listening-132",
+  "title": "Listening — Practice Test 132",
+  "kind": "practice",
+  "description": "One recording, 28 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-132-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cheapest properties: £ per week ______",
+          "answer": "90",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Minimum period of contract ______",
+          "answer": "8 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Office open Saturdays until ______",
+          "answer": "4 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "List of properties available on ______",
+          "answer": "Internet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 5. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 6. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 7. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Eastern Towers",
+          "options": [
+            {
+              "id": "A",
+              "text": "get feedback from teaching staff"
+            },
+            {
+              "id": "B",
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Granby Mansions",
+          "options": [
+            {
+              "id": "A",
+              "text": "get feedback from teaching staff"
+            },
+            {
+              "id": "B",
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Busby Garden",
+          "options": [
+            {
+              "id": "A",
+              "text": "get feedback from teaching staff"
+            },
+            {
+              "id": "B",
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You must book in advance. ______",
+          "answer": "breakfast",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There are some interesting in the lounge. Activities ______",
+          "answer": "paintings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The visit to the has been cancelled. ______",
+          "answer": "castle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There will be a talk about from the area on Saturday. ______",
+          "answer": "famous people",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The visit to the will take place on Saturday. ______",
+          "answer": "antiques show",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There is a collection of in the art gallery. ______",
+          "answer": "old postcards",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 17. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 18. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 19. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 20. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How old are the students of the nursing program?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are teenagers"
+            },
+            {
+              "id": "B",
+              "text": "they are in their twenties"
+            },
+            {
+              "id": "C",
+              "text": "they belong to different age groups"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do the speakers say about the group project?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it helps to improve relationship among different classmates"
+            },
+            {
+              "id": "B",
+              "text": "it helps to develop problem solving skills"
+            },
+            {
+              "id": "C",
+              "text": "it provides supportive learning environment"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which part of the program surprised Paul?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there is a number of essay to write"
+            },
+            {
+              "id": "B",
+              "text": "there is a lot of practical work"
+            },
+            {
+              "id": "C",
+              "text": "there is internship provided"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do they feel about learning law?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is essential training"
+            },
+            {
+              "id": "B",
+              "text": "it is too theoretical"
+            },
+            {
+              "id": "C",
+              "text": "it takes up too much time"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Essays ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Lectures ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Research ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Online forum ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Placement tests ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-132-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Freshmen",
+          "options": [
+            {
+              "id": "A",
+              "text": "get feedback from teaching staff"
+            },
+            {
+              "id": "B",
+              "text": "do more reading"
+            },
+            {
+              "id": "C",
+              "text": "get help from school supporting staff"
+            },
+            {
+              "id": "D",
+              "text": "get help for nursing problems"
+            },
+            {
+              "id": "E",
+              "text": "manage time properly"
+            },
+            {
+              "id": "F",
+              "text": "be well prepared"
+            },
+            {
+              "id": "G",
+              "text": "review the notes regularly"
+            },
+            {
+              "id": "H",
+              "text": "do not set unrealistic goals"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Although it is called wild, most varieties of wild rice are ______",
+          "answer": "cultivated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wild rice is mostly found in lakes that have water. ______",
+          "answer": "fresh",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wild rice was gathered by Indians before any ever arrived. ______",
+          "answer": "explorers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Early visitors thought that wild rice had greatly increased the and of the Indians. ______",
+          "answer": "strength, hardiness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Heavy wisdomseeds ______into water",
+          "answer": "blown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Grains ______difficult to beat",
+          "answer": "too green",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Grains left on too long______into the water",
+          "answer": "fall off",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You need to harvest ______ pounds of seed to yield 1 pound of wild rice.",
+          "answer": "three",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wild rice on the market that is harvested by ______ is slowly being pushed.",
+          "answer": "hand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-132-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "'Indian harvested' or 'organic'hybridized and gathered in ______",
+          "answer": "airboat",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/132_we.mp3"
+    }
+  ]
+}

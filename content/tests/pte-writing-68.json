@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-68",
+  "title": "Academic Writing — Practice Test 68",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-68-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The line graph below shows the percentage of tourists to England who visited four different attractions in Brighton. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-68.png"
+        },
+        {
+          "id": "pte-writing-68-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people think that people who are over 60 years old should not work and should be made to retire. To what extend do you agree or disagree? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "id": "pte-listening-51",
+  "title": "Listening — Practice Test 51",
+  "kind": "practice",
+  "description": "One recording, 30 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-51-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Educational qualification: Degree in ______",
+          "answer": "engineering",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Previous job: ______",
+          "answer": "car salesman",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hobbies: ______",
+          "answer": "chess",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Main skills: ______",
+          "answer": "electronics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Expected salary ($): ______",
+          "answer": "1200",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Can start? ______",
+          "answer": "immediately",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Other? ______",
+          "answer": "Spanish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 8. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 9. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 10. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does the centre provide first? ______",
+          "answer": "consultations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is important to control? ______",
+          "answer": "diet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does the centre assess? ______",
+          "answer": "fitness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How often is the exercise schedule reviewed? ______",
+          "answer": "monthly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How many exercise programs are available? ______",
+          "answer": "three",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "developing confidence ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "reducing stress ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "building fitness ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "meeting others ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-51-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "finding information",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jogging machines"
+            },
+            {
+              "id": "B",
+              "text": "Yoga studio"
+            },
+            {
+              "id": "C",
+              "text": "Weight units"
+            },
+            {
+              "id": "D",
+              "text": "Front-desk area"
+            },
+            {
+              "id": "E",
+              "text": "Squash courts"
+            },
+            {
+              "id": "F",
+              "text": "Shower blocks"
+            },
+            {
+              "id": "G",
+              "text": "Swimming pool"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The position needs someone good at",
+          "options": [
+            {
+              "id": "A",
+              "text": "computers"
+            },
+            {
+              "id": "B",
+              "text": "dealing with people"
+            },
+            {
+              "id": "C",
+              "text": "arts"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The directors will select someone from the faculty of",
+          "options": [
+            {
+              "id": "A",
+              "text": "arts"
+            },
+            {
+              "id": "B",
+              "text": "computing"
+            },
+            {
+              "id": "C",
+              "text": "business"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The position will require the person to",
+          "options": [
+            {
+              "id": "A",
+              "text": "work long hours"
+            },
+            {
+              "id": "B",
+              "text": "train others"
+            },
+            {
+              "id": "C",
+              "text": "do weekend work"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The position will come with a",
+          "options": [
+            {
+              "id": "A",
+              "text": "car"
+            },
+            {
+              "id": "B",
+              "text": "parking space"
+            },
+            {
+              "id": "C",
+              "text": "much better salary"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The best aspect of the job is it",
+          "options": [
+            {
+              "id": "A",
+              "text": "gives more responsibility"
+            },
+            {
+              "id": "B",
+              "text": "comes with a private office"
+            },
+            {
+              "id": "C",
+              "text": "is a step to higher positions"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Years of experience______7812",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "QualificationMBA______DegreeCertificates",
+          "answer": "MBP",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Possible concerns______Limited English(29) ______(30) ______",
+          "answer": "not stable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Possible concerns(28) ______Limited English______(30) ______",
+          "answer": "bad attitude",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Possible concerns(28) ______Limited English(29) ______",
+          "answer": "health problems",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Caves are",
+          "options": [
+            {
+              "id": "A",
+              "text": "often ignored"
+            },
+            {
+              "id": "B",
+              "text": "mostly in remote areas"
+            },
+            {
+              "id": "C",
+              "text": "often difficult to explore"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "People who explore caves",
+          "options": [
+            {
+              "id": "A",
+              "text": "mostly need to know about cartography"
+            },
+            {
+              "id": "B",
+              "text": "enjoy overcoming the difficulties"
+            },
+            {
+              "id": "C",
+              "text": "usually know about cave sciences"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "China has",
+          "options": [
+            {
+              "id": "A",
+              "text": "probably the most undiscovered caves"
+            },
+            {
+              "id": "B",
+              "text": "a growing number of cave explorers"
+            },
+            {
+              "id": "C",
+              "text": "some of the best documented caves"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Usually involves ______Good example in (35) ______Generally quite (36) ______",
+          "answer": "limestone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Usually involves (34) ______Good example in ______Generally quite (36) ______",
+          "answer": "Iceland",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Usually involves (34) ______Good example in (35) ______Generally quite ______",
+          "answer": "short",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "calcium ______",
+          "answer": "calcium",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "flowstone ______",
+          "answer": "flowstone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "1986",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-51-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "DissolutionVolcanic lava tubesAction of waves Usually involves (34) ______Good example in (35) ______Generally quite (36) ______ (34) (35) (36) (37) (38) (39) ______",
+          "answer": "bottom up",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/51_we.mp3"
+    }
+  ]
+}

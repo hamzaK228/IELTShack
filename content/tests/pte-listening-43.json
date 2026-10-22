@@ -1,0 +1,652 @@
+{
+  "id": "pte-listening-43",
+  "title": "Listening — Practice Test 43",
+  "kind": "practice",
+  "description": "One recording, 17 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-43-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Model______",
+          "answer": "yaris",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Color______",
+          "answer": "yellow",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of cylinders______",
+          "answer": "4",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of doors______",
+          "answer": "2",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Extras______",
+          "answer": "radio",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Price agreed ($)______",
+          "answer": "12,400",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Age (years)______",
+          "answer": "3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 8. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 9. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 10. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Wilsons ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "DVD shop ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Student union office ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Engineering institute ______",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Fitness room ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bookshop ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Yoga club ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Aerobic dancing ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Prayer centre ______",
+          "answer": "I",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            },
+            {
+              "id": "I",
+              "text": "Option I"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Chess club ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-43-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The most important part of a presentation is the ______ , thus it is important to use a hook, such as a surprising fact, (22) , or a puzzling problem. The best presenters treat their audiences as (23) and (24) them in the subject matter, which they make interesting.",
+          "answer": "first minute",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The most important part of a presentation is the (21) , thus it is important to use a hook, such as a surprising fact, ______ , or a puzzling problem. The best presenters treat their audiences as (23) and (24) them in the subject matter, which they make interesting.",
+          "answer": "interesting story",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The most important part of a presentation is the (21) , thus it is important to use a hook, such as a surprising fact, (22) , or a puzzling problem. The best presenters treat their audiences as ______ and (24) them in the subject matter, which they make interesting.",
+          "answer": "equals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The most important part of a presentation is the (21) , thus it is important to use a hook, such as a surprising fact, (22) , or a puzzling problem. The best presenters treat their audiences as (23) and ______ them in the subject matter, which they make interesting.",
+          "answer": "involve",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One______contextCultural (26) ______and management styles",
+          "answer": "historical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One(25) ______contextCultural ______and management styles",
+          "answer": "differences",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "TwoCurrent perspectivesComplexity of ______workplace",
+          "answer": "multicultural",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ThreeMail dilemmaReview productive ______",
+          "answer": "diversity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "FourRecommendationsTheory of human ______",
+          "answer": "universals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "FiveQuestions timePrepare answers related to industrial ______",
+          "answer": "democracy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "hydrogen ______",
+          "answer": "hydrogen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "approach ______",
+          "answer": "approach",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "similar ______",
+          "answer": "similar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "heat ______",
+          "answer": "heat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "energy ______",
+          "answer": "energy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tokamak ______",
+          "answer": "Tokamak",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "magnetic field ______",
+          "answer": "magnetic field",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "cooled ______",
+          "answer": "cooled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "unstable ______",
+          "answer": "unstable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-43-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ne second ______",
+          "answer": "one second",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/43_we.mp3"
+    }
+  ]
+}

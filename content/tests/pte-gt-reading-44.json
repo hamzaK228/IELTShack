@@ -1,0 +1,703 @@
+{
+  "id": "pte-gt-reading-44",
+  "title": "General Training Reading — Practice Test 44",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: BARCHESTER OFFICE TOWERS VISITOR INFORMATION",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-44-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "have lunch",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "cash a check",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "mail a letter",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "get a pass to enter the building",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "read a newspaper",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "fax a document",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "look at a map of the building",
+          "options": [
+            {
+              "id": "A",
+              "text": "if you can do this on the ground floor"
+            },
+            {
+              "id": "B",
+              "text": "if you can do this on the second floor"
+            },
+            {
+              "id": "C",
+              "text": "if you can do this on the third floor"
+            },
+            {
+              "id": "D",
+              "text": "if you can do this on the fourth floor"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Spring Willow Farm is closed during the winter months.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Children are not allowed to visit the farm.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Spring Willow Farm charges visitors an admission fee.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The guided tours last two hours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The museum has gifts for sale.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Farmers are offered a special discount on classes.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The museum buildings are open in the evening.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "BARCHESTER OFFICE TOWERS VISITOR INFORMATION",
+        "text": "Welcome to Barchester Office Towers. Visitors must register with the Security Desk in order to obtain a visitor's badge and be allowed entrance to the building. The Security Desk is located on the ground floor lobby near the main entrance. The security officer on duty will direct you to the office you are visiting. In addition, a map of the building is displayed near the main elevators, located behind the Security Desk. To reach the rooftop parking area, take the elevator to the fourth floor, then follow the signs. Also located on that floor is the City View Restaurant, Serving three meals a day, Tuesday-Sunday. Barchester Office Towers offers a number of business services for the convenience of tenants and visitors. The Copy Center is located on the second floor. Photocopy and fax services are available here. Computers with internet access are also available. The Copy Center is open twenty-four hours a day. You must show your visitors badge when requesting services.\n\n(A) small branch post office is located down the hall from the Copy Center. Envelopes and stamps are sold here. Mail pickup is twice a day, at 7:30 a.m. and 5:00 p.m. On the third floor, you will find a branch of the National Bank. All basic banking services are offered. Next to the bank is the Barchester Coffee Shop. Coffee, tea, and snacks are sold here, and most major daily newspaper and business magazine are available for perusal. The coffee shop is open from 7:00 a.m. until 4:30 p.m. Monday-Saturday."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Spring Willow Farm Museum and Education Center",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-44-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section A ______",
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q16",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section B ______",
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q17",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section C ______",
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q18",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section D ______",
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q19",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section E ______",
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q20",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section F i Feeling Confident ii Solving Problems iii Room Arrangement iv Equipment V Defining Your Purpose vi Using Visuals vii Your Audience viii Speaking Well ______",
+          "answer": "iii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Spring Willow Farm Museum and Education Center",
+        "text": "Spring Willow Farm is a fully operating farm designed to educate the public about farm operation, farming history, and issues facing farmers today.\n\nSchedule We are open to the public year-round, with reduced hours during the winter months. Closed Mondays and holidays.\n\nVisiting the Farm Visitors are free to tour the farm on their own. Please note that children must be accompanied by an adult at all times. Maps are available at the information desk in the Main Building. Guided tours are included in the cost of admission. Tours leave from the Main Building front entrance at 10:00 a .m. and 2:00 p .m. daily. The ground floor of the Main Building is open to visitors. It contains exhibits explaining daily farm life in different periods of history, with displays showing farm implements, kitchen and other household utensils, photographs, and more. The information desk is also located here, as well as the Farm Museum Gift Shop.\n\nClasses The museum offers classes on various aspects of farming and farm history two evenings a week throughout the year. Ask at the information desk for a schedule of upcoming classes. In addition, classes on special subjects related to farming can be arranged for your club or group. Please contact the Education Office for further information. All classes take place in the classrooms located on the second floor of the Main Building. Do the following statements agree with the information given in the text about the Spring Willow Farm Museum and Education Center? On lines 8—14 on your answer sheet, write:\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this 8. Spring Willow Farm is closed during the winter months. 9. Children are not allowed to visit the farm. 10. Spring Willow Farm charges visitors an admission fee. 11. The guided tours last two hours. 12. The museum has gifts for sale. 13. Farmers are offered a special discount on classes. 14. The museum buildings are open in the evening."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: How to Give an Effective Presentation",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-44-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "All______must participate in an orientation session.",
+          "answer": "New employees",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The______will take place in the company conference room.",
+          "answer": "Next orientation session",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The manual should be read before______",
+          "answer": "(attending) the orientation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The employee manual contains information about the company's ______",
+          "answer": "Procedures and policies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The signed statement should be submitted to ______",
+          "answer": "The employee's supervisor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "will answer questions about the content of the manual. ______",
+          "answer": "Human resources",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The due date for the signed statement is______",
+          "answer": "March",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "held together with rope",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "made from a hollowed-out log",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "made waterproof with gum and grease",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "constructed with the use of both fire and water",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "easy to carry over land",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "sealed with pitch and tar",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "How to Give an Effective Presentation",
+        "text": "When planning an effective presentation, there are a number of things to keep in mind.\n\n(A) First ask yourself, \"Why am I giving this presentation?\" The point of your presentation may be to outline a project plan, report on work that has been done, solve a problem, provide training, or generate support for an idea. Once you are clear on the reason for your presentation, it will be easier to organize your information.\n\n(B) If you are not used to giving presentations, you may feel nervous. There are a few things you can do to counteract this. The most important thing is to rehearse your presentation several times until you feel comfortable with it. Before you begin speaking, take a few deep breaths. This will help you relax. Stand up straight and look your audience in the eye. Most of all, don't try to be perfect. This is an impossible goal.\n\n(C) Even though you may be using a microphone, you still need to pay attention to your voice. Talk slowly and clearly. Pause often to give your audience time to absorb the information. Do not garble your words or talk so quickly that no one can follow you.\n\n(D) There is no better way to lose your audience than to stand at the front of the room and talk on and on but give them nothing to look at. Plan to use presentation software to show charts and graphs, photographs, maps, or other graphics that will make your ideas clearer. This is particularly important for numbers, but it is also useful for other kinds of information.\n\n(E) Before you begin your presentation, remember to check the microphone, computer, and any other special tools you may be using. Make sure everything is in working order before you start talking so that there will be no interruptions due to breakdowns.\n\n(F) Something that is often overlooked but that is very important for an effective presentation is the location setup. Make sure that the seating is placed so that it allows everyone to see your slides and hear your voice. The chairs should be comfortable, too."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Canoes Around the World",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-44-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "made to carry just a few people TYPES OF CANOES",
+          "options": [
+            {
+              "id": "A",
+              "text": "birch-bark"
+            },
+            {
+              "id": "B",
+              "text": "dugout"
+            },
+            {
+              "id": "C",
+              "text": "plank"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with 36 ______ . Because they could travel over 37 ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry 38 ______ Today,39______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to 40 ______canoes.",
+          "answer": "Parallel floats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching 35 ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with ______ . Because they could travel over 37 ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry 38 ______ Today,39______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to 40 ______canoes.",
+          "answer": "A platform",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching 35 ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with 36 ______ . Because they could travel over ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry 38 ______ Today,39______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to 40 ______canoes.",
+          "answer": "Huge expanses",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching 35 ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with 36 ______ . Because they could travel over 37 ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry ______ Today,39______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to 40 ______canoes.",
+          "answer": "Many fighters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching 35 ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with 36 ______ . Because they could travel over 37 ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry 38 ______ Today,______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to 40 ______canoes.",
+          "answer": "(modern) recreational",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-44-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Polynesians turned dugout canoes into outrigger canoes by attaching 35 ______ to them. Double-hulled canoes were made by connecting two outrigger canoes with 36 ______ . Because they could travel over 37 ______of ocean in these canoes, Polynesians were able to inhabit islands all across the Pacific Ocean. In West Africa, large war canoes were used to carry 38 ______ Today,39______canoes are made of modern materials such as aluminium, fiberglass, and plastic. These modern canoes are similar in form to ______canoes.",
+          "answer": "Birch-bark",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Canoes Around the World",
+        "text": "Many cultures throughout the world have developed some form of canoe—a long, slender, open boat powered by handheld paddles. In each case, the technologies and materials used to construct the canoe reflect the resources available to that particular culture. There are three basic types of canoe: the frame-andbark canoe, the dugout, and the plank canoe. Developed by cultures on every continent since prehistoric times, canoes continue to be used today both for survival and for recreation. The birch-bark canoe, an example of the frame-and-bark type of construction, was developed in the region that is now the northeastern United States and eastern Canada. Native Americans constructed birch-bark canoes by building a frame from spruce wood and then using roots to stitch pieces of birch bark over the frame. In areas where birch was not available, bark from elm or spruce trees was used instead. After the bark was sewn to the frame, the canoes were then sealed with a mixture of spruce gum and bear grease. These substances worked very well to make the boat watertight. Birch-bark canoes were lightweight and thus easily portaged around waterfalls or from lake to lake. Most were designed to hold no more than two or three people and were used for lake and river travel. When Europeans opened up the fur trade in North America in the seventeenth century, the French traders used larger versions (30 to 40 feet in length) to transport furs in large quantities across the Great Lakes for shipment back to Europe. The dugout—a canoe created from a single tree trunk—has been used in many areas throughout the world. Simple versions of hollowed-out logs were used by native peoples throughout much of North America. Coastal groups such as the Haida and Tlinglit in the Pacific Northwest developed large dugout crafts 60 feet or longer that could carry large numbers of people on the ocean for trade, warfare, fishing, whaling, and travel to ceremonial gatherings. First, the outer and inner bark around the entire circumference of a tall, straight tree, often a cedar or redwood, was removed. This process, called girdling, cuts off the flow of sap, thus killing the tree and making it easier to chop down. Then the tree was felled and cut to the appropriate length. The opening of the dugout was created by repeatedly burning the wood, then carving it out with tools. In early times, stone tools were used, but later metal tools came into use. Once the canoe was carved out, the boat builders filled it with water and brought the water to a boil using stones heated on a fire. This softened the wood and the weight of the water caused the walls of the canoe to bow outward, giving it more width than the original girth of the tree. The ocean-going Chumash people of what is now southern California developed the tomol, or plank canoe. They created their canoes by cutting planks from redwood trees, carving and shaping them into a canoe without any frame. They lashed the planks together by drilling holes and tying them with cords. Pitch from pine trees and tar, also found locally, were used between the planks and over the entire hull for waterproofing. The canoe played a major role in the spread of all the Pacific Island cultures. These cultures developed outrigger and double-hulled dugout canoes. Outriggers have one or more parallel floats attached to a dugout canoe with poles for increased stability in ocean waves. Double-hulled canoes have a platform between two parallel dugouts. These highly stable designs, combined with sails, enabled the Polynesians to go on epic ocean journeys and to inhabit far-flung islands. Several families (or as many as 200 people in the largest vessels), could sail in each of these double-hulled canoes with food, water, and domesticated plants and animals across huge expanses of ocean, and in this way the Polynesian people spread throughout the Pacific, establishing new communities on previously uninhabited islands. In areas of dense rain forest throughout the world, including the Amazon basin, and parts of Africa and Asia, river travel with dugouts was, and in many cases still is, the primary means of transportation. In West Africa, large war canoes capable of transporting many fighters were carved from single trees. Descendants of the ancient canoes are still widely used today. Traditional cultures around the world still use dugout canoes for fishing and transportation. Today's modern recreational canoes, while now often constructed with aluminum, fiberglass, wood, and canvas, plastic, and other synthetic materials, still retain the shape and basic design of the birch-bark canoes developed in the distant past. The catamaran sailboat, widely used in racing, is a direct descendant of the double-hulled sailing canoe used thousands of years ago by the Polynesian cultures."
+      }
+    }
+  ]
+}

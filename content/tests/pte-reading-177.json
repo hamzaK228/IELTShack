@@ -1,0 +1,984 @@
+{
+  "id": "pte-reading-177",
+  "title": "Academic Reading — Practice Test 177",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: fordlandia",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-177-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Henry Wickham destroyed the Brazilian rubber boom.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rubber trees are well suited to Malaysia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Tapajos river is very wide.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Fordlandia may have succeeded.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Onefirst piece of land not ______for rubber treesno (6) ______of rubber produced",
+          "answer": "Appropriate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Onefirst piece of land not (5) ______for rubber treesno ______of rubber produced",
+          "answer": "significant quantity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Two______were unfamiliar with farmingan unwise (8) ______approach",
+          "answer": "Company engineers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Two(7) ______were unfamiliar with farmingan unwise ______approach",
+          "answer": "monocultural (farming)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Threenot following ______a (10) ______",
+          "answer": "local customs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Threenot following (9) ______a ______",
+          "answer": "riot (followed)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The natural enemy of rubber trees is ______",
+          "answer": "leaf blight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Plantations definitely need the skills of ______",
+          "answer": "trained horticulturists",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fordlandia closed down upon the invention of ______",
+          "answer": "synthetic rubber",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "fordlandia",
+        "text": "Natural latex, or rubber, comes from the sap of rubber trees. Native to the Amazon region of South America, they had long been a Brazilian monopoly, and the boom in wild rubber had made many remote jungle towns rich, until thousands of seeds of the tree were smuggled out by an entrepreneurial Brit, Henry Wickham. These were used to start plantations throughout British East-Asia, where the trees, facing none of their natural insect or fungal enemies, thrived. Thus, the Brazilian rubber boom crashed, leaving control of the world's supplies with the plantation owners in Malaysia (where to this day, most of the world's natural rubber is still produced). But in the late 1920s, the automobile tycoon, Henry Ford, had a vision. He believed in vertical integration—that is, a supply chain of car parts and products united through his ownership. With his factories producing hundreds of thousands of cars, each of them needing rubber tyres, Ford wanted his own source of rubber and resented dealing with the British plantation interests. He therefore decided to buy a huge tract of Amazonian rainforest, where he would transplant his American workers and lifestyle, in order to make the largest rubber plantation on the planet. It would be called Fordlandia — ambitious, grandiose, and doomed from the beginning. The first mistake was to hire a rather untrustworthy Brazilian to scout for the best location in the Amazon, This man recommended a damp, rocky, and infertile series of hillsides near the Tapajos river, a tributary of the wide and mighty Amazon. In 1928, Ford blindly acquired a 10,000-square-kilometre concession and immediately ordered an immense amount of infrastructure to be built—at huge cost. To this end, earth-moving equipment arrived, tractors, stump-pullers, trains, prefabricated living quarters, and food-making equipment. The surface jungle was cleared, scores of Ford's employees were relocated, and out of this wilderness sprang an instant slice of America, complete with a modern hospital, library, hotels, ice cream makers, and row upon row of prefabricated houses positioned along nicely paved streets. The second big mistake was that, incredibly, Ford never thought to consult trained horticulturists. He naively assumed that his own company engineers, who had proven their worth in the production of cars, would prove equally adept at this agricultural endeavour. Thus, they planted the rubber trees thickly together, believing that they would nourish in their home environment. However, in the Amazonian jungle, wild rubber trees are actually few and far between — a defence against the prodigious insect life which chews, drills, sucks, and bites. In such environments, monocultural farming approaches are dubious at best. Ford's young rubber trees had no sooner appeared from the ground than they were attacked by caterpillars, ants, red spiders, and most significantly, South American leaf blight, which, to this day, limits the number of rubber plantations in this, the tree's native land. The next problem was based on cultural differences. The newly planted fields needed hundreds of local workers, who, although well paid, were expected to follow Ford's patronising vision of a healthy lifestyle. Instead of the local custom of working before and after the roastingly hot middle of the day, Ford's workers were forced to do the standard company 9-to-5 shift. Similarly, they had to eat American food and take part in weekend activities considered sufficiently wholesome, such as poetry reading and square-dancing. Alcohol was strictly forbidden at work, in the housing estates, or within Fordlandia's sphere of influence. After a year denied their local customs, the disgruntled workers had had enough, and a riot followed, leaving the hapless American staff scurrying into the jungle to escape injury. It was all finally quelled with the arrival of the Brazilian army. After three years, and no significant quantity of rubber to show for it all, Ford did what he should have done from the beginning—hired a trained horticulturist, who ultimately concluded that, in whatever manner the rubber trees were planted, the land was not appropriate for their cultivation. With such humiliating news, anyone less stubborn would have given up, yet Ford purchased another tract of land some fifty miles downstream of the Tapajos river—flatter, drier, better drained, and more suitable for machinery — and started all over again. This time, Ford imported blight-resistant Malaysian rubber trees, and much more horticultural expertise. Still, 10 years later, in 1942, the operation could only produce a paltry 750 tons of latex rubber. Ford's factories were hoping for almost 40,000. The final nail in the coffin was the development of synthetic rubber, and in 1945, it was time to admit defeat, although it was not Ford who did so. By that time he was old and ill and had relinquished control of his company to his grandson, Henry Ford II, who closed down the entire rubber operation. The holdings were sold back to the Brazilian government for a pittance, leaving a loss of over $20 million (which would be over 10 times that much in today's terms) — a complete and utter financial disaster."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: shakespeare: the authorship question",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-177-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Shakespeare's name appears on many documents.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "He was considered a genius even in his lifetime.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "He was well-educated.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "When he died, not all the plays had been published.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "We have six examples of Shakespeare's ______",
+          "answer": "Signatures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "He used ordinary language in his ______",
+          "answer": "Will",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The lack of public grieving upon his death is ______",
+          "answer": "Perplexing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Those who believe Shakespeare was not the author are called ______",
+          "answer": "anti-Stratfordians",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "socially unacceptable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "protect (his) identity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Complete the flowchart. Choose NO MORE THAN THREE WORDS from the passage for each answer. ______",
+          "answer": "documentary evidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which sentence was mentioned in the reading passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sir Francis Bacon was the smartest of the candidates."
+            },
+            {
+              "id": "B",
+              "text": "Edward de Vere was in the same social class as Shakespeare."
+            },
+            {
+              "id": "C",
+              "text": "Christopher Marlowe is the prime candidate."
+            },
+            {
+              "id": "D",
+              "text": "William Stanley wrote plays for courtly audiences."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The author believes that Shakespeare",
+          "options": [
+            {
+              "id": "A",
+              "text": "did not write the plays."
+            },
+            {
+              "id": "B",
+              "text": "may not have written the plays."
+            },
+            {
+              "id": "C",
+              "text": "probably wrote the plays."
+            },
+            {
+              "id": "D",
+              "text": "certainly wrote the plays."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "shakespeare: the authorship question",
+        "text": "If one were asked to name the greatest writer in the English language, few would hesitate in answering, 'William Shakespeare'. Although he dabbled in poetry, his central claim to fame is his plays, almost 40 of them. Extensively studied, constantly performed, adapted, and reinterpreted into modern contexts, Shakespeare's plays remain as popular as ever. But did he write them, that is the question? The immediate reaction is to wonder why anyone would even ask this. Although there is little documentary evidence of Shakespeare's life, what does exist unequivocally identifies him as the author of the plays. His name appears on title pages of a few publications, printing orders, and theatrical documents, and is mentioned by contemporary commentators and a fellow playwright, both publicly and in private memoirs, in every case in a way that is consistent with Shakespeare being the author. Consequently, for hundreds of years, no one held any doubts whatsoever on the matter. There it would have remained, had Shakespeare's post-humous reputation not reached such lofty heights. With the widespread acceptance of his dramatic genius, apparent inconsistencies were perceived. Chief among these was how such literature could originate from, as viewed by some, a humble ill-educated country bumpkin and bawdy stage entrepreneur, about whom so little was known. Details of Shakespeare's schooling and upbringing in the small market town of Stratford-Upon-Avon are non-existent, but among his surviving children there is no evidence of strong education or even basic literacy skills. No original written texts have ever been found, and Shakespeare's six surviving signatures are all unsteady, showing inconsistent style and spelling. Most tellingly for some are the circumstances of Shakespeare's death. Firstly, there is his will, a commonplace and unpoetic document, making no mention whatsoever of the considerable body of papers, reference books, and miscellaneous plays, poetry, and writings that one would expect a playwright of Shakespeare's stature to possess. Apparently he was unconcerned about the rights to both his own plays (many of which remained unpublished at that time) and his own literary heritage. The second fact is that, upon his death, there were no eulogies, mourning notices, or testimonies from those who knew him. All this seems very perplexing for a playwright and poet who, whilst not necessarily considered the most polished, professional, or learned by his peers, had nevertheless achieved considerable wealth, respect, and fame, even in his own lifetime. Such thoughts first became public in the mid-19th century — and have never really slopped, developing the grand title, 'The Shakespeare authorship question\", and dividing those interested into two sides: the Stratfordians: those who support Shakespeare as the author, and the anti-Stratfordians: those who do not. For the latter body, the only way to overcome the documentary evidence in support of Shakespeare's authorship is to assume a conspiracy existed among a select group of people, perhaps including Shakespeare himself, in order to protect the real author's identity. So who was he (and in those times, it goes without saying that it could not be a 'she')? The anti-Stratfordians search for a university-educated, upper-class candidate — someone who would inevitably have had knowledge of aristocratic manners and mores, and familiarity with the proceedings and politics of the royal court, all of which so often appear in the plays themselves. The reason for the conspiracy is that producing such works, full with themes of royal revenge and murder, intrigue and assassination, mob rule and rebellion, could render a nobleman liable to the dangerous charge of subversion. Some have also argued that, at that time, it was considered socially unacceptable for the upper-class to publish creative literature for monetary gain, being instead confined to circulating their writings among their peers, or seeing them performed among courtly audiences. There are four leading contenders. Sir Francis Bacon was the first nominated, and certainly had the best intellectual credentials, being well-versed in law, philosophy, essay writing, and science. However, since the 1920s, Edward de Vere, an aristocratic earl who patronised and sponsored actors and the arts, has become the leading contender. Only slightly less favoured is a fellow playwright, Christopher Marlowe. Born into the same social class as Shakespeare, he at least went to university, although his early death in a tavern brawl presents difficulties — unless one assumes his demise was fabricated to allow him to continue writing under Shakespeare's name. Finally, there is William Stanley, another aristocratic earl. Contemporary accounts attest to the fact that he wrote plays for the common people, and throughout his life he displayed interest and support for the theatre. And the evidence? Mere historical and literary conjecture, vague similarities in writing styles, and loose coincidences between the lives and travels of these contenders when compared to the scenes and settings of many of the plays in question. In other words, nothing solid at all. The case is so flimsy that reputable scholars barely discuss it, and rightly so. Although capable of attracting public interest and selling books, unless some real evidence emerges, I would say that the authorship question is not questionable at all."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: the immunisation controversy",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-177-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph H",
+          "options": [
+            {
+              "id": "i",
+              "text": "Easy publicity"
+            },
+            {
+              "id": "ii",
+              "text": "Increasing outbreaks of disease"
+            },
+            {
+              "id": "iii",
+              "text": "Some real reasons"
+            },
+            {
+              "id": "iv",
+              "text": "All or nothing"
+            },
+            {
+              "id": "v",
+              "text": "Autism on the rise"
+            },
+            {
+              "id": "vi",
+              "text": "Past successes"
+            },
+            {
+              "id": "vii",
+              "text": "A sad consequence"
+            },
+            {
+              "id": "viii",
+              "text": "An unfortunate coincidence"
+            },
+            {
+              "id": "ix",
+              "text": "A simple explanation"
+            },
+            {
+              "id": "x",
+              "text": "Some dubious evidence"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q34",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations?",
+          "options": [
+            {
+              "id": "A",
+              "text": "believing they cause problems"
+            },
+            {
+              "id": "B",
+              "text": "wanting to save money"
+            },
+            {
+              "id": "C",
+              "text": "wanting freedom of choice"
+            },
+            {
+              "id": "D",
+              "text": "not believing drug manufacturers"
+            },
+            {
+              "id": "E",
+              "text": "the pain of vaccinations"
+            },
+            {
+              "id": "F",
+              "text": "the influence of creationists"
+            },
+            {
+              "id": "G",
+              "text": "preferring alternative medicine"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q35",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations?",
+          "options": [
+            {
+              "id": "A",
+              "text": "believing they cause problems"
+            },
+            {
+              "id": "B",
+              "text": "wanting to save money"
+            },
+            {
+              "id": "C",
+              "text": "wanting freedom of choice"
+            },
+            {
+              "id": "D",
+              "text": "not believing drug manufacturers"
+            },
+            {
+              "id": "E",
+              "text": "the pain of vaccinations"
+            },
+            {
+              "id": "F",
+              "text": "the influence of creationists"
+            },
+            {
+              "id": "G",
+              "text": "preferring alternative medicine"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q36",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations?",
+          "options": [
+            {
+              "id": "A",
+              "text": "believing they cause problems"
+            },
+            {
+              "id": "B",
+              "text": "wanting to save money"
+            },
+            {
+              "id": "C",
+              "text": "wanting freedom of choice"
+            },
+            {
+              "id": "D",
+              "text": "not believing drug manufacturers"
+            },
+            {
+              "id": "E",
+              "text": "the pain of vaccinations"
+            },
+            {
+              "id": "F",
+              "text": "the influence of creationists"
+            },
+            {
+              "id": "G",
+              "text": "preferring alternative medicine"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Autism is",
+          "options": [
+            {
+              "id": "A",
+              "text": "sometimes caused by vaccinations."
+            },
+            {
+              "id": "B",
+              "text": "a very subtle neurological disorder."
+            },
+            {
+              "id": "C",
+              "text": "most likely inherited."
+            },
+            {
+              "id": "D",
+              "text": "increasing."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The 1998 paper was",
+          "options": [
+            {
+              "id": "A",
+              "text": "the cause of falling vaccination rates."
+            },
+            {
+              "id": "B",
+              "text": "defended by the medical journal."
+            },
+            {
+              "id": "C",
+              "text": "verified by other studies."
+            },
+            {
+              "id": "D",
+              "text": "funded by patients."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Vaccinations",
+          "options": [
+            {
+              "id": "A",
+              "text": "have removed most smallpox from the world."
+            },
+            {
+              "id": "B",
+              "text": "are supported by solid evidence."
+            },
+            {
+              "id": "C",
+              "text": "are defended on some websites."
+            },
+            {
+              "id": "D",
+              "text": "are no longer necessary."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-177-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Alternative medicine practitioners",
+          "options": [
+            {
+              "id": "A",
+              "text": "believe vaccinations are generally good."
+            },
+            {
+              "id": "B",
+              "text": "can be impersonal and uncaring."
+            },
+            {
+              "id": "C",
+              "text": "are often supported by politicians."
+            },
+            {
+              "id": "D",
+              "text": "are often quite cheap."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "the immunisation controversy",
+        "text": "(A) Carl Sagan once said, 'Science loses ground to pseudo-science because the latter seems to offer more comfort.' Yes, hard science, proven facts, and indisputable logic are often not sufficiently consoling, and thus routinely eliminated from the equation. Never, though, has this been more distressing than with the so-called 'anti-vaccination' movement. The end result has been the needless death of very young children, the most helpless of bystanders, and yet it seems there is no end in sight.\n\n(B) It is strange to believe that vaccination, with such a long and distinguished track record, is now under assault. Smallpox, for example, had killed over half a billion human beings throughout history but was eradicated — completely removed from the face of the Earth — via immunisation programs. Similarly, polio, rubella, whooping cough, measles, and a slew of other diseases which routinely decimated the youth are now, virtually, things of the past. The days of high infant mortality, short life spans, and nasty brutish lives are indeed long gone, and we owe it all to this crucial insight into disease prevention.\n\n(C) And this is part of the problem. With the once terrible epidemics lying outside of human memory, a growing number of people are convinced that vaccinations are no longer necessary, and that the small risk of adverse effects outweighs the benefits. One reason for this belief is that many genetic disorders related to brain impairment often emerge at around two years of age — that is, the same period in which babies receive vaccinations. If one in a hundred babies is destined to develop autism among a vaccinated group, then observable symptoms of the problem will likely appear after a vaccination shot, leading distraught parents to link one event to the other.\n\n(D) This misattribution is compounded by the Internet, which now hosts a sprawling forum of anti-vaccination lobby groups and their websites, full with unsubstantiated claims, fraudulent research, anecdotal evidence, and the passionate tirades of multitudes, firmly convinced of the correctness of their case. Authority is undermined, statistics ignored, and hard science excluded. Is it so surprising? If creationists and alternative medicine practitioners can gain respectability and widespread public and political support, so too can the pseudo-science of the anti-vaccinationists. When faced with this wave of propaganda, it would be hard for many parents, motivated by the intense desire to protect their children, not to be influenced.\n\n(E) At this point, it must be clarified that there is no credible evidence whatsoever to support the anti-vaccinationists' claims. Over a score of peer-reviewed studies have found nothing to link the MMR (measles/mumps/rubella) vaccine to autism, or even the more subtle neurological problems, and every reason to continue with vaccinations. The so-called increase in autism so often attributed to vaccinations merely results from more accurate diagnoses. Children who in the past would have been labeled as 'retarded' or 'slow' are now identified as having one of the three main grades of autism (which is probably genetically determined). Yet this argument falls on deaf ears, and the counter-claimants have succeeded in reducing vaccination rates among certain communities to the extent that outbreaks of preventable childhood illnesses (such as polio, meningitis, and measles) are occurring.\n\n(F) The MMR controversy is a sad case. In 1998, a high-profile paper linked this vaccine to autism. It was later shown that the author was receiving funds from various groups engaged in a lawsuit against vaccine manufacturers, and that the study was both ethically and methodologically faulty. Data had been manipulated, and results misreported. Similar studies found no link whatsoever, and in 2004, the medical journal which hosted the original article formally retracted its conclusion. Yet vaccination rates in the UK. had dropped to 80% in the subsequent years. In late 1999, a measles outbreak occurred in North Dublin (which had vaccination rates as low as 60%), resulting in 100 hospitalisations and three deaths.\n\n(G) One of the key arguments of the anti-vaccinationists is that they have the right to choose their medication. These people attack what they see as the impersonal, intrusive, and uncaring edifice of modern medical science. However, the success of immunisation programs depends on a sufficiently high number of the population being immune, which forces the disease to die out through lack of carriers. If there are enough susceptible individuals to provide a chain of disease transmission, safety is compromised for all, and this is why free choice should not be an issue, particularly when the hard evidence presents an overwhelming case. Personally, I would have thought that when children started dying from preventable diseases, the anti-vaccinationists' case would die also.\n\n(H) But there are other agendas at play. Anti-vaccinationists can posture as moral crusaders, dismissing those who support immunisation as being in the payment of big pharmaceutical companies, whom they see as dishonest and immoral. Talk show hosts, women's magazines, paid 'experts', lawyers, and media celebrities, all benefit from creating controversy when none existed, while alternative medicine practitioners and snake-oil salesmen all oppose vaccination, believing that their own slew of pills, potions, and unproven expensive treatments do the job better. Against all this, how can rational science prevail?"
+      }
+    }
+  ]
+}

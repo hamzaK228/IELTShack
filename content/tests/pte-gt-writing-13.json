@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-13",
+  "title": "General Training Writing — Letter 13",
+  "kind": "practice",
+  "description": "Task 1 letter, 13 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-13-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "An English-speaking friend wants to spend a two-week holiday in your region and has written asking for information and advice.\nWrite a letter to your friend. In your letter,\noffer to find somewhere to stay\ngive advice about what to do\ngive information about what clothes to bring",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

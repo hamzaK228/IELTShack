@@ -1,0 +1,716 @@
+{
+  "id": "pte-listening-126",
+  "title": "Listening — Practice Test 126",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-126-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the caller's surname?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fleischer"
+            },
+            {
+              "id": "B",
+              "text": "Fischer"
+            },
+            {
+              "id": "C",
+              "text": "Benett"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The caller says the correct color of his car is",
+          "options": [
+            {
+              "id": "A",
+              "text": "sky blue"
+            },
+            {
+              "id": "B",
+              "text": "light green"
+            },
+            {
+              "id": "C",
+              "text": "white"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What time does the caller say he went to collect his car?",
+          "options": [
+            {
+              "id": "A",
+              "text": "9.30 pm"
+            },
+            {
+              "id": "B",
+              "text": "8 pm"
+            },
+            {
+              "id": "C",
+              "text": "8.30 pm"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where does the caller usually store the front panel of his radio?",
+          "options": [
+            {
+              "id": "A",
+              "text": "in his pocket"
+            },
+            {
+              "id": "B",
+              "text": "the hospital"
+            },
+            {
+              "id": "C",
+              "text": "in the glove compartment"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the advisor say she will send through the mail to the caller?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a radio"
+            },
+            {
+              "id": "B",
+              "text": "some CDs"
+            },
+            {
+              "id": "C",
+              "text": "some forms"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Policy number: ______",
+          "answer": "G34C245",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of claim: Stolen ______",
+          "answer": "car",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Place where offence was reported: York ______ Station",
+          "answer": "police",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Other items stolen: Card radio, CDs and an old ______",
+          "answer": "jacket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Documents requested to support claim: Police report and ______",
+          "answer": "registration details",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many patients does the hospital consult every year?",
+          "options": [
+            {
+              "id": "A",
+              "text": "3,000"
+            },
+            {
+              "id": "B",
+              "text": "5,000"
+            },
+            {
+              "id": "C",
+              "text": "11,000"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When can patients meet the female doctor?",
+          "options": [
+            {
+              "id": "A",
+              "text": "on weekday mornings"
+            },
+            {
+              "id": "B",
+              "text": "three days a week"
+            },
+            {
+              "id": "C",
+              "text": "only on Mondays and Fridays"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who is the expert on treating hearing loss?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mr. Robert"
+            },
+            {
+              "id": "B",
+              "text": "Mr. Green"
+            },
+            {
+              "id": "C",
+              "text": "Mr. Edwards"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where are patients recommended to buy their medicine?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the supermarket in the town"
+            },
+            {
+              "id": "B",
+              "text": "pharmacies nearby the city centre"
+            },
+            {
+              "id": "C",
+              "text": "the health care’s pharmacy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What will the patients be asked about whether they are willing to do?",
+          "options": [
+            {
+              "id": "A",
+              "text": "letting one student attend the consultation"
+            },
+            {
+              "id": "B",
+              "text": "asking postgraduate students to do treatment"
+            },
+            {
+              "id": "C",
+              "text": "meeting students in group discussion"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Reception ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-126-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mr. Green’s room ______",
+          "answer": "H",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            },
+            {
+              "id": "H",
+              "text": "Option H"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-126-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Medical records office",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fleischer"
+            },
+            {
+              "id": "B",
+              "text": "Fischer"
+            },
+            {
+              "id": "C",
+              "text": "Benett"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Surgery room ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-126-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Manager's office",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fleischer"
+            },
+            {
+              "id": "B",
+              "text": "Fischer"
+            },
+            {
+              "id": "C",
+              "text": "Benett"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The man wants information on course for",
+          "options": [
+            {
+              "id": "A",
+              "text": "people going back to college"
+            },
+            {
+              "id": "B",
+              "text": "postgraduate student"
+            },
+            {
+              "id": "C",
+              "text": "business executives"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The 'Study for success' seminar lasts for",
+          "options": [
+            {
+              "id": "A",
+              "text": "one day"
+            },
+            {
+              "id": "B",
+              "text": "two days"
+            },
+            {
+              "id": "C",
+              "text": "three days"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In the seminar the work on writing aims to improve",
+          "options": [
+            {
+              "id": "A",
+              "text": "confidence"
+            },
+            {
+              "id": "B",
+              "text": "speed"
+            },
+            {
+              "id": "C",
+              "text": "clarity"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Reading sessions help students to read",
+          "options": [
+            {
+              "id": "A",
+              "text": "analytically"
+            },
+            {
+              "id": "B",
+              "text": "as fast as possible"
+            },
+            {
+              "id": "C",
+              "text": "thoroughly"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The seminar tries to",
+          "options": [
+            {
+              "id": "A",
+              "text": "prepare learners physically"
+            },
+            {
+              "id": "B",
+              "text": "encourage interest in learning"
+            },
+            {
+              "id": "C",
+              "text": "develop literacy skills"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A key component of the course is learning how to ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-126-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Students who wants to do the 'Study for success' seminar should",
+          "options": [
+            {
+              "id": "A",
+              "text": "register with the faculty office"
+            },
+            {
+              "id": "B",
+              "text": "contact their course convenor"
+            },
+            {
+              "id": "C",
+              "text": "reserve a place in advance"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The 'Learning skills for university study' course takes place on",
+          "options": [
+            {
+              "id": "A",
+              "text": "Monday, Wednesday and Friday"
+            },
+            {
+              "id": "B",
+              "text": "Monday, Tuesday and Wednesday"
+            },
+            {
+              "id": "C",
+              "text": "Monday, Thursday and Friday"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A feature of this course is ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-126-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The man chooses the 'Study for success' seminar because",
+          "options": [
+            {
+              "id": "A",
+              "text": "he is over forty"
+            },
+            {
+              "id": "B",
+              "text": "he wants to start at the beginning"
+            },
+            {
+              "id": "C",
+              "text": "he seeks to revise his skills"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Public speaking means speaking to ______ people",
+          "answer": "10 or more",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Lack of confidence usually due to ______",
+          "answer": "lack of practice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• First part of public speaking is ______",
+          "answer": "preparation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• This includes ______ and length of talk",
+          "answer": "topic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Make speech notes on small cards to talk from ______ with the audience (very important)",
+          "answer": "eye contact",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Bigger audience requires ______ speech",
+          "answer": "slower",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Project your voice – rehearse and ______",
+          "answer": "record yourself",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Check intonation: varied tone and rhythm gives ______",
+          "answer": "meaning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Lastly think about your ______ and gestures",
+          "answer": "posture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-126-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Avoid scratching and fiddling because this ______ and irritates your audience",
+          "answer": "distracts",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/126_we.mp3"
+    }
+  ]
+}

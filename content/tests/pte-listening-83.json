@@ -1,0 +1,460 @@
+{
+  "id": "pte-listening-83",
+  "title": "Listening — Practice Test 83",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-83-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Last name: ______",
+          "answer": "Symonds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of birth: 11th December ______",
+          "answer": "1996",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of membership: ______",
+          "answer": "full time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Activities: badminton and ______",
+          "answer": "swimming",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Payment details: total – £450, to be paid ______",
+          "answer": "monthly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What exercises do you do regularly? ______",
+          "answer": "jogging",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Do you have any injuries? Has a ______",
+          "answer": "bad ankle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is your goal or target? A better ______",
+          "answer": "fitness level",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is your occupation? A ______",
+          "answer": "charity worker",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How did you hear about the club? ______",
+          "answer": "radio",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The next event at the hotel will be",
+          "options": [
+            {
+              "id": "A",
+              "text": "trade fair"
+            },
+            {
+              "id": "B",
+              "text": "wedding"
+            },
+            {
+              "id": "C",
+              "text": "party"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The number of guests will be",
+          "options": [
+            {
+              "id": "A",
+              "text": "less than 50"
+            },
+            {
+              "id": "B",
+              "text": "from 50 to 100"
+            },
+            {
+              "id": "C",
+              "text": "more than 100"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Guests will start arriving at",
+          "options": [
+            {
+              "id": "A",
+              "text": "7.15"
+            },
+            {
+              "id": "B",
+              "text": "7.30"
+            },
+            {
+              "id": "C",
+              "text": "7.45"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The entertainment will be a",
+          "options": [
+            {
+              "id": "A",
+              "text": "live band"
+            },
+            {
+              "id": "B",
+              "text": "comedian"
+            },
+            {
+              "id": "C",
+              "text": "magician"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "offer drinks to guests",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan"
+            },
+            {
+              "id": "B",
+              "text": "Ahmed"
+            },
+            {
+              "id": "C",
+              "text": "Gary"
+            },
+            {
+              "id": "D",
+              "text": "Olav"
+            },
+            {
+              "id": "E",
+              "text": "Monica"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "take guests' coats and hats",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan"
+            },
+            {
+              "id": "B",
+              "text": "Ahmed"
+            },
+            {
+              "id": "C",
+              "text": "Gary"
+            },
+            {
+              "id": "D",
+              "text": "Olav"
+            },
+            {
+              "id": "E",
+              "text": "Monica"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "show guests where to go",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan"
+            },
+            {
+              "id": "B",
+              "text": "Ahmed"
+            },
+            {
+              "id": "C",
+              "text": "Gary"
+            },
+            {
+              "id": "D",
+              "text": "Olav"
+            },
+            {
+              "id": "E",
+              "text": "Monica"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order to get the guests to move to the restaurant the hotel manager will ______",
+          "answer": "ring a bell",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Seating plans will be placed on each table and also in the ______",
+          "answer": "lounge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There will be a total of three ______",
+          "answer": "speeches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pine forests ______",
+          "answer": "pine forests",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "water ______",
+          "answer": "water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "print ______",
+          "answer": "print",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "sort ______",
+          "answer": "sort",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "remove ink ______",
+          "answer": "remove ink",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What part of the assignment is Alan going to start working on? ______",
+          "answer": "introduction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where will Melanie get more information on used paper collection? ______",
+          "answer": "council",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What will they add to the assignment to make it more interesting? ______",
+          "answer": "data",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What do they agree to complete by the end of the month? ______",
+          "answer": "first draft",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Who will they ask to review their work? ______",
+          "answer": "tutor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Main purposes – warmth and ______",
+          "answer": "protection",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Main component keratin – makes fingernails ______",
+          "answer": "flexible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Full head of hair can support a large weight – equal to two ______",
+          "answer": "elephants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Average number of strands of hair – ______ for an adult",
+          "answer": "100,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Large amount of money spent on ______ for hair in the UK",
+          "answer": "products",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "a. Bulb – like a ______ over end of hair follicle",
+          "answer": "cap",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "b. Root – contains glands that supply ______ to hair strand",
+          "answer": "oil",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "c. Shaft – not ______",
+          "answer": "active",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Changes in diet will take longer to affect your hair than your ______",
+          "answer": "skin",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-83-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Vitamins C, D and E are all important for healthy hair and ______ are one of the best sources of Vitamin C.",
+          "answer": "blue-berries",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/83_we.mp3"
+    }
+  ]
+}

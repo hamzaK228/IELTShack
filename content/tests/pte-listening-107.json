@@ -1,0 +1,866 @@
+{
+  "id": "pte-listening-107",
+  "title": "Listening — Practice Test 107",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-107-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Average rent: ______ £ a month",
+          "answer": "850",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Linda travels to work by ______",
+          "answer": "bike",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Limited ______ in city centre",
+          "answer": "parking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Trains to London every ______ minutes",
+          "answer": "30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Poor train service at ______",
+          "answer": "weekend(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• New ______ opened recently",
+          "answer": "cinema",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ has excellent reputation",
+          "answer": "hospital",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Good ______ on Bridge Street",
+          "answer": "dentist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Meet Linda on ______ after 5.30 pm",
+          "answer": "thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In the ______ opposite the station",
+          "answer": "cafe",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "using a gym",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "running",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "swimming",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "cycling",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "doing yoga",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "training with a personal trainer",
+          "options": [
+            {
+              "id": "A",
+              "text": "not dependent on season"
+            },
+            {
+              "id": "B",
+              "text": "enjoyable"
+            },
+            {
+              "id": "C",
+              "text": "low risk of injury"
+            },
+            {
+              "id": "D",
+              "text": "fitness level unimportant"
+            },
+            {
+              "id": "E",
+              "text": "sociable"
+            },
+            {
+              "id": "F",
+              "text": "fast results"
+            },
+            {
+              "id": "G",
+              "text": "motivating"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "For which TWO reasons does the speaker say people give up going to the gym?",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of time"
+            },
+            {
+              "id": "B",
+              "text": "loss of confidence"
+            },
+            {
+              "id": "C",
+              "text": "too much effort required"
+            },
+            {
+              "id": "D",
+              "text": "high costs"
+            },
+            {
+              "id": "E",
+              "text": "feeling less successful than others"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "For which TWO reasons does the speaker say people give up going to the gym?",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of time"
+            },
+            {
+              "id": "B",
+              "text": "loss of confidence"
+            },
+            {
+              "id": "C",
+              "text": "too much effort required"
+            },
+            {
+              "id": "D",
+              "text": "high costs"
+            },
+            {
+              "id": "E",
+              "text": "feeling less successful than others"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO pieces of advice does the speaker give for setting goals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "write goals down"
+            },
+            {
+              "id": "B",
+              "text": "have achievable aims"
+            },
+            {
+              "id": "C",
+              "text": "set a time limit"
+            },
+            {
+              "id": "D",
+              "text": "give yourself rewards"
+            },
+            {
+              "id": "E",
+              "text": "challenge yourself"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO pieces of advice does the speaker give for setting goals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "write goals down"
+            },
+            {
+              "id": "B",
+              "text": "have achievable aims"
+            },
+            {
+              "id": "C",
+              "text": "set a time limit"
+            },
+            {
+              "id": "D",
+              "text": "give yourself rewards"
+            },
+            {
+              "id": "E",
+              "text": "challenge yourself"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What first inspired Jim to choose this project?",
+          "options": [
+            {
+              "id": "A",
+              "text": "textiles displayed in an exhibition"
+            },
+            {
+              "id": "B",
+              "text": "a book about a botanic garden"
+            },
+            {
+              "id": "C",
+              "text": "carpets he saw on holiday"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jim eventually decided to do a practical investigation which involved",
+          "options": [
+            {
+              "id": "A",
+              "text": "using a range of dyes with different fibres"
+            },
+            {
+              "id": "B",
+              "text": "applying different dyes to one type of fibre"
+            },
+            {
+              "id": "C",
+              "text": "testing one dye and a range of fibres"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When doing his experiments Jim was surprised by",
+          "options": [
+            {
+              "id": "A",
+              "text": "how much natural material was needed to make the dye"
+            },
+            {
+              "id": "B",
+              "text": "the fact that dyes were widely available on the internet"
+            },
+            {
+              "id": "C",
+              "text": "the time that he had to leave the fabric in the dye"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What problem did Jim have with using tartrazine as a fabric dye?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it caused a slight allergic reaction"
+            },
+            {
+              "id": "B",
+              "text": "it was not a permanent dye on cotton"
+            },
+            {
+              "id": "C",
+              "text": "it was ineffective when used on nylon"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "turmeric",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Beetroot",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Tyrian purple",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Lowood",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "cochineal",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "metal oxide",
+          "options": [
+            {
+              "id": "A",
+              "text": "it is expensive"
+            },
+            {
+              "id": "B",
+              "text": "the color is too strong"
+            },
+            {
+              "id": "C",
+              "text": "the color is not long lasting"
+            },
+            {
+              "id": "D",
+              "text": "it is very poisonous"
+            },
+            {
+              "id": "E",
+              "text": "it can damage the fabric"
+            },
+            {
+              "id": "F",
+              "text": "the color may be unexpected"
+            },
+            {
+              "id": "G",
+              "text": "it is unsuitable for some fabrics"
+            },
+            {
+              "id": "H",
+              "text": "it is not generally available"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They are brown but recongisable by their blue ______",
+          "answer": "tongue(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Their diet consists mainly of ______",
+          "answer": "plants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Their main predators are large birds and ______",
+          "answer": "snakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• One study found that lizards can use the ______ to help them navigate",
+          "answer": "sky",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Observations show that these lizards keep the same ______ for several years",
+          "answer": "partner(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o To improve the survival of their young (but little ______ has been noted between parents and children)",
+          "answer": "contact",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o To provide ______ for female lizards",
+          "answer": "protection",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A study was carried out using GPS systems attached to the ______ of the lizards",
+          "answer": "tail(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "taken ______",
+          "answer": "steps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-107-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• This may be in order to reduce chances of ______",
+          "answer": "injury/ injuries",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/107_we.mp3"
+    }
+  ]
+}

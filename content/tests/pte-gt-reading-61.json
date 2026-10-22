@@ -1,0 +1,769 @@
+{
+  "id": "pte-gt-reading-61",
+  "title": "General Training Reading — Practice Test 61",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Community business cards",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which service provides daycare? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which service is provided at a local shopping centre? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which three services provide improvements to the home? (Ex: A,B,C) ______",
+          "answer": "D, E, F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which service offers something free? Read the texts below and answer questions 5-10. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Community business cards",
+        "text": "A – HAIRDRESSING\n\nGinger's Unisex Hair Studio\n\nSPECIAL\n\nWed & Thurs only\n\nColour/Foils & Blow-wave and\n\nReceive a FREE Haircut\n\nEnquiries to 9489 8888\n\nShop 5 Smith Arcade\n\n104 Old Northern Hwy, Northland\n\nB – DRY CLEANERS\n\nFor quality & friendly service\n\n• Wedding & evening dresses\n\n• Duvets & blankets\n\n• Curtains • Woollens/silks etc.\n\n• Alterations and mending\n\nPhone 9244 0000\n\nShop 1, Mundaring Shopping Centre\n\n700 Great Eastern Highway, Mundaring\n\n(C) – GOOD MANNERS DOG TRAINING Dog daycare & training centre\n\n• Small classes for all ages\n\n• Positive methods\n\n• Qualified trainer\n\n• Classes in Westland & hills\n\nEnquiries: 9244 4056 or 5419 924 133\n\nWeb: www.goodmanners.net.au\n\nD – CLEANING\n\nA-TOP CLEANING\n\nCarpet steam cleaning\n\nWindow cleaning\n\n28 yrs Owner operator\n\nPhone: 4419 924 575\n\nE – BUILDING SERVICES GCH CONSTRUCTION\n\nGreg, qualified tradesman\n\nBricklaying & limestone\n\nPaving & concrete\n\nBuilding maintenance\n\nRenovations & new homes\n\n6423 233 058\n\ngchconstruction@bigpond.com\n\nF – AIR CONDITIONING & GAS\n\nMarkham Air & Appliances Pty Ltd\n\nSplit system installations\n\nAir-conditioning service & repairs\n\nAppliance service & repair (gas & electric)\n\nPhone: 4468 118 491\n\nEftpos available"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: HIGHLIGHTS OF PERU SIGHTSEEING HIGHLIGHTS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The capital city of Peru, Lima, is the main highlight of the tour.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Guests will travel by train to Machu Picchu.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Guests will have the opportunity to meet a descendant of an old Peruvian family.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Kike Pinto is a local expert musician who plays traditional Andean instruments.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The farewell dinner will include a range of traditional Peruvian food.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A souvenir group photo can be purchased at the end of the tour. Read the texts below and answer questions 11-14.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "HIGHLIGHTS OF PERU SIGHTSEEING HIGHLIGHTS",
+        "text": "• Lima Discover the city's colonial sights, including the expansive Plaza San Martin and its impressive cathedral and government palace; visit the Church of San Francisco and its catacombs. • Sacred Valley Visit Awanakancha and meet llamas, vicunas and alpacas; pick up some handicrafts at the lively Pisac market; explore the massive Inca fortress of Ollantayambo. • The Vistadome Ride aboard the Vistadome train to Machu Picchu; enjoy large panoramic windows, first-class service and a light meal.\n\nINSIDER HIGHLIGHTS • Hidden Treasures Enjoy at least one surprise Hidden Treasure experience, unique to your itinerary, courtesy of your expert tour director. • Be My Guest Join Doctor Francisco Diez Canseco Tavara, the descendant of an old Peruvian family, for a welcome reception and typical Peruvian lunch; visit the beautiful estate and learn about the Diez Canseco family's and Peru's history. • Machu Picchu Immerse yourself in the history and atmosphere of this UNESCO World Heritage Site on a guided tour and during free time for independent exploration. • Cusco Delve into the city's Inca and Spanish colonial past; explore the Plaza de Armas; visit the Church of Santo Domingo and Korikancha or Temple of the Sun; explore the citadel of Sacsayhuaman and nearby shrines and Inca warehouses. • Audio headsets For all guided visits and included sightseeing. • Local speciality Visit a weaving centre in the Sacred Valley to watch artisan weavers at work; on the way to Cusco, visit a chicheria and taste chichi, the traditional Andean corn beer. • Local expert Meet Kike Pinto, founder and Director of the Museum of Andean and Amazon Musical Instruments, for a presentation on Andean instruments and music in Cusco.\n\nDINING HIGHLIGHTS\n\n• Welcome reception with your tour director in Lima\n\n• 7 full breakfasts\n\n• 1 picnic box lunch\n\n• 2 three-course dinners\n\n• farewell dinner with wine and folklore show in Cusco\n\n• Be My Guest with wine in Lima\n\nCLASS HIGHLIGHTS\n\n• Includes all first-class features\n\n• A Trafalgar bonus-all Intra-Air Flights: Lima to Cusco and Cusco to Lima, including porter service at all airports\n\n• Qualified local guides in Lima, the Sacred Valley, Machu Picchu and Cusco • Souvenir photo captures treasured memories of your trip with a complimentary group photo taken at a landmark location."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: PART 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Influenza is a virus which is easily spread from person to person via infected droplets in the air and by ______with the virus.",
+          "answer": "hands infected",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is necessary to ______against influenza because the virus is constantly changing.",
+          "answer": "get vaccinated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The influenza virus can lead to medical complications such as ______, or can make existing medical conditions worse.",
+          "answer": "pneumonia and/or bronchitis",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is recommended that vaccination take place in autumn so that ______before the winter flu season starts.",
+          "answer": "immunity can develop",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "PART 1",
+        "text": "Get vaccinated Influenza, commonly known as the flu, is caused by a virus which spreads easily from person to person through infected droplets in the air and by hands infected with the virus. The virus infects your nose, throat and, sometimes, your lungs. In most people it causes mild to moderate symptoms for about a week, but some people can develop severe illness and complications which may need to be treated in hospital and can even result in death. Flu complications include pneumonia and bronchitis. Flu can also make some underlying medical conditions worse. Flu is a vaccine-preventable disease. Because the flu virus is constantly changing, it is necessary to get vaccinated every year. The flu vaccine protects against the three strains of the virus which are most likely to occur over the winter. Vaccination is recommended in autumn to give time for immunity to develop before the flu season starts. You cannot get flu from the vaccine.\n\nPART 2 To prevent complications from flu it is recommended that people in the eligible groups outlined in this brochure get vaccinated each year.\n\n65 years and over People aged 65 years and over have the highest risk of complications associated with seasonal flu. Vaccination decreased hospitalisation and mortality rates by up to 50 per cent.\n\nIndigenous people Respiratory diseases are major causes of preventable sickness and death in Indigenous people. All Indigenous people are now eligible for the free flu vaccine from 15 years of age.\n\nPregnancy Pregnant women are at higher risk of severe complications associated with the virus. The flu vaccine is safe for pregnant women, including in the first trimester. Vaccinating against flu during pregnancy also provides protection for the baby during the first vulnerable months of life.\n\nPeople medically at risk People with some existing medical conditions are at increased risk of complication from flu and may now be eligible for free seasonal flu vaccine. These include anyone who is over six months of age and has a condition such as:\n\n• heart disease\n\n• chronic respiratory conditions\n\n• chronic illness requiring medical follow-up or hospitalisation in the past year\n\n• diseases of the neuromuscular system\n\n• impaired immunity, or • aged six months to 10 years and on long-term aspirin therapy."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Guard against burnout!",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "High school students can avoid study burnout by studying well, and by having reasonable, but not overly high, expectations of results.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It doesn't matter where a student decides to study, as study environment has no effect on study burnout.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Final-year high school students experience more burnout than any other group of students.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "One way to assess your learning is to try to explain what you have learnt to someone else.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Successful exam students are usually those who give up other social and sports activities and focus on their study.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If a student is studying too much, it is advised that parents offer to take him/her out, away from the study environment.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "According to a study in Finland, students who stopped socialising with friends before exams had a higher rate of burnout.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Guard against burnout!",
+        "text": "Burnout doesn't just affect people in the workforce-high school students who feel bored, overwhelmed and overworked can also be at risk. A Finnish study looking at burnout in students found it was linked to high expectations of school demands, feeling cynical about school work and feeling inadequate as a student. But being prepared, studying well and having reasonable expectations about results could help avoid burnout. Department of Education psychologist Penelope Radunovich said that there were ways to avoid burning out before the final exams. The first was to set up a good study environment. While some students could study while talking to someone and with the TV blaring, others needed perfect silence. Ms Radunovich said students needed to work out what worked for them. She said the most important thing for students to do was to make sure they understood the material. 'Spend 30 minutes studying, learning and understanding, then take 10 minutes to question yourself,' she said. 'Say do I understand this? Could I tell my mother or a stranger or my friends what I have been doing? If there is nobody to explain it to, do it out loud and, if you don't understand it, go over it again.\n\n'If you can explain what you've learnt, then you have understood.' Parents can help prevent burnout by keeping an eye on their children and how much study they are doing. If a Year 12 student is becoming cynical about their work or they look like they are studying to the point of exhaustion, then she suggests chatting to them or offering to take them to the movies and away from the study environment. 'I asked kids about burnout and they said some people do feel burnt out and, when they get to that point, they stop working and go do some exercise or have a snack, listen to some music or talk to their friends,' she said. 'The kids who do really well are the ones who do a lot of other things.'"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: CAMPUS LIBRARY INFORMATION",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What I can do if I have not finished a book by the time I need to return it.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "II",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "How long I can borrow items for.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What I should do if this particular library does not have the book I need.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What I can do if I need a book, but live too far away from the library.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "VI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What I can do if another borrower has the book I want.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "What I can do if I would like extra help with some research, but there is nothing on the shelves.",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            }
+          ],
+          "answer": "IV",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "CAMPUS LIBRARY INFORMATION",
+        "text": "(I) All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for one week. Some items in high demand may have restricted (shorter) borrowing periods. II Borrowed items should be returned on or before their due date. If you do not return items on time you will not be able to borrow until they are returned. It is your responsibility to ensure all items are returned in good condition. You will be invoiced for lost or damaged items. Most items may be renewed once, provided they are not overdue or required by other borrowers. This may be done at the library or on the phone. III You may reserve items currently on loan or at another Polytechnic West campus by asking library staff to place a hold for you. Polytechnic West students are entitled to borrow resources from most other T AFE colleges and from Murdoch, Notre Dame and Edith Cowan universities. Students can apply direct to their choice of host institution for reciprocal borrowing.\n\nYou will need to take:\n\n• Current enrolment form from Polytechnic West\n\n• Current student/library ID card IV The library has reference resources to help you find the information you need. These are the Not For Loan items. Staff can also show you a range of online databases and internet sites relevant to your area of study via the library website. The library website provides online access to the library catalogue, interactive tours, surf skills, help sheets, referencing and subject guides, useful websites and search engines, and full-text journal and newspaper articles from our online databases. Click on the 'Databases' link to access databases including: Australian Standards, Building Code of Australia, Ebsco, General OneFile, Learning Federation, Netlibrary (E-books), Oxford Dictionary, Proquest and World Book. V Computers and an MFD (for printing) are available in the library for students to use for study purposes. These computers provide access to online databases and the internet. A range of software applications found in the classrooms are also available on the library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. VI Postal loans and off-campus library services are available for external students. Contact your relevant library for further details. VII The library website provides online access to the library catalogue, interactive tours, surf skills, help sheets, referencing and subject guides, useful websites and search engines, and full-text journal and newspaper articles from our online databases. Click on the 'Databases' link to access databases including: Australian Standards, Building Code of Australia, Ebsco, General OneFile, Learning Federation, Netlibrary (E-books), Oxford Dictionary, Proquest and World Book. The library catalogue is a database of the resources held by Training WA libraries and Department of Training library. You can limit your search to items located at your campus, or within all Polytechnic West libraries."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: FOOD AND DRINK IN CHINA",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-61-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Regional cuisines of China ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The importance of food in Chinese culture ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Cigarette-smoking in Chinese culture ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Overview of four regional culinary ·schools' ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Popular Chinese drinks ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The importance of vegetable dishes in Chinese cooking ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The importance of teahouses in Chinese culture ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Although aspects of Chinese cuisine are very healthy, such as the use of many different ______and the habit of eating small amounts of food often, the adding of MSG to cooking, too much added sugar, and the (36) ______can be linked to high levels of some cancers in China.",
+          "answer": "Vegetables",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Although aspects of Chinese cuisine are very healthy, such as the use of many different (35) ______and the habit of eating small amounts of food often, the adding of MSG to cooking, too much added sugar, and the ______can be linked to high levels of some cancers in China.",
+          "answer": "over-use of pickling",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In addition to the availability of some Western foods in China nowadays, there are several regional cuisines to choose from. The Cantonese cuisine is known to use many ingredients; Shandong cuisine uses a lot of ______Sichuan cuisine is known to be hot and spicy, and Huiyang food combines the flavours and colours of the best dishes from places (38) ______the Yangzte River.",
+          "answer": "seafood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In addition to the availability of some Western foods in China nowadays, there are several regional cuisines to choose from. The Cantonese cuisine is known to use many ingredients; Shandong cuisine uses a lot of (37) ______Sichuan cuisine is known to be hot and spicy, and Huiyang food combines the flavours and colours of the best dishes from places ______the Yangzte River.",
+          "answer": "south of",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Chinese drink teas, wines, spirits and beers, with one Chinese wine company more recently developing wine with a wine-grower from ______Chinese teahouses are usually situated near cities in (40) ______and are places for quiet conversation.",
+          "answer": "France",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-61-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Chinese drink teas, wines, spirits and beers, with one Chinese wine company more recently developing wine with a wine-grower from (39) ______Chinese teahouses are usually situated near cities in ______and are places for quiet conversation.",
+          "answer": "beautiful surroundings",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "FOOD AND DRINK IN CHINA",
+        "text": "(A) Most Westerners will have tasted and enjoyed Chinese food in various forms in their own countries, and may even have learned the delicate art of eating with chopsticks. But they may be less prepared for what the writer Colin Thubron memorably describes as the 'passionate relationship' of the Chinese to food. Folk memories of famine are recent (the last were in the 1960s) and there are still areas where people's diet is limited and poor. Refrigeration is more widespread now, but the Chinese almost never eat 'ready meals'; food is freshly cooked for each meal, and fish, meat and poultry are often killed only a short time before they are cooked. Shopping in the markets or shops is done with immense gusto, and everything is prodded, shaken, sniffed and thoroughly checked before being purchased. It is debatable whether, in purely Western terms, the Chinese eat a 'healthy' diet. They eat many vegetables, things are cooked fast so that the goodness is not destroyed, and people eat small quantities fairly frequently-'grazing', rather than eating huge meals at one sitting, which is one reason why they tend to be much slimmer than people in the increasingly obese West. On the other hand they use a large amount of the very salty MSG (monosodium glutamate, or taste powder) in their cooking, as well as sugar; and in some regions of China there is a high incidence of certain types of cancer, due to the overuse of pickling, the only way some vegetables can be preserved through the winter. At any rate, the Western visitor will experience a fantastic range of different foods, some wonderful (dumplings, tofu, sweet and sour soup, Mongolian hotpot, and hundreds more treats), and some less to Western tastes, such as 'hundred-year- old eggs' or donkey stew. If the Westerner is overwhelmed by a desire for a more familiar food, these days help is at hand. In the bigger cities, though more rarely in the rural areas, there are plenty of fast- food outlets selling hamburgers and pizzas; there are some Italian, Indian, Japanese, Korean and Mexican restaurants, and also newly opened supermarkets (mostly French) that sell the foods of which, in the past, homesick Westerners could only dream-for example, bread, cheese, milk, coffee and real chocolate.\n\n(B) Chinese local dishes are said to have four, eight and ten culinary schools, depending on which authority is consulted. Canton, Shandong, Sichuan and Yangzhou make up four of them: if you count Hunan, Fujian, Anhui and Zhejiang, you have eight culinary schools; add in Beijing and Shanghai, and that makes ten. You should also try the Middle Eastern-type cooking of the Muslim minorities, such as the Hui and Uighur people, whose roadside stalls produce wonderful (and very cheap) lamb kebabs wrapped in naan bread with salad and hot spicy sauce. Here are a few pointers about some of the schools of cookery.\n\n(C) Cantonese cuisine adopts the good points of all other culinary schools, and its selection of ingredients is extensive. River food and seafood are widely used, as well as birds, rats, snakes and insects. There is a saying that 'The Cantonese will eat anything with wings, except a plane, and anything with four legs, except a table.' Cantonese cuisine pays attention to the use of fresh ingredients and has unique cooking methods. Representative dishes are 'three kinds of snake stewed', cat meat, snake soup, casserole mountain turtle and crispy skin suckling pig. Shandong cuisine is dominated by seafood, reflecting its nature as a peninsula surrounded by the sea. Typical dishes include stewed sea cucumber with scallion, stewed snakehead eggs, sea slugs with crab ovum, Dezhou grilled chicken and walnut kernel in cream soup. Sichuan cuisine is renowned for its searingly hot, peppery flavour. The varietyof tastes is summed up in the phrase 'a hundred dishes with a hundred flavours'. Famous dishes include shredded pork with fish flavour, stewed beancurd with minced pork in pepper sauce, and dry-roast rock carp. Those who are not used to extremely hot food should proceed with care. The Sichuanese use a special black pepper that leaves the lips numb-a bit frightening the first time it happens, but not unpleasant when one grows accustomed to it. Huaiyang cuisine integrates the cream of dishes in Yangzhou, Zhenjiang, Huaian and other places south of the Yangtze River, stressing freshness and tenderness, careful preparation, cutting skill, bright colour, beautiful arrangements and light flavouring. Famous dishes include beggar's chicken, fried mandarin fish with sweet and sour sauce, sliced chicken with egg white, salted duck, steamed crab meat and minced pork balls cooked in a casserole.\n\n(D) Vegetable dishes have been popular since the Song dynasty (960-1279) and they were greatly developed in the Ming and Qing dynasties (1368-1911). They were divided into three schools: Monastery Vegetable Dishes, Court Vegetable Dishes and Folk Vegetable Dishes. The main features of vegetable dishes are their unique style and their health benefits. Main materials include green leaf vegetables, fruit, edible mushrooms, and bean-curd products with vegetable oil as a condiment, all of which are delicious in taste, rich in nutrition, easy to digest, and believed to be helpful in preventing cancer.\n\n(E) The Chinese drink large quantities of tea (mostly 'green tea', as opposed to the 'black' tea that is more commonly drunk in the West) and they add no milk or sugar. Tea is drunk constantly at meetings and at work, less so in restaurants and at formal meals, though it is always available if asked for. It is usually served in mugs with lids to keep it warm. Teabags and tea strainers are not used, and drinking tea without swallowing a mouthful of tea leaves requires concentration: try using the lid as a strainer when sipping. Tea is divided into green, black, perfumed, white and Wulong tea. The most valuable green teas are Longjing and Biluochun; black tea, Qihong and Yunfeng; scented tea, Jasmine; white tea, Yinzhenbaihao, Gongmei and Shoumei; Wulong tea, Dahongpao and Tieguanyin. The Chinese will frequently give beautifully decorated tea caddies of special teas as a present. Other drinks you may be offered are yellow rice wine, served hot in little porcelain cups. It tastes rather like sherry. More lethal is maotai, the Chinese answer to vodka; there are also many light Chinese beers, as well as a growing range of Chinese wines-Great Wall wine is perhaps the best known and has improved considerably since the producers set up a joint venture with a French wine-grower. Soft drinks such as mineral water and Coca Cola are available everywhere, and fruit juices made from the exotic tropical fruits grown in the south of China are delicious.\n\n(F) One interesting development in the 1990s has been the re-emergence of teahouses, traditionally the haunts of the intellectuals and literati, who would idle away hours in stimulating conversation or in composing poems. In workaholic, post-liberation China, such establishments were considered a decadent remnant of the feudal society. But with the emergence of the five-day working week, and with more emphasis on quality leisure time, the traditional teahouse is once again blossoming in major cities. Teahouses have one thing in common: tranquillity-a precious commodity in China. The quiet atmosphere is broken only by leisurely music played on the zheng, a twenty-one- or twenty-five-stringed plucked instrument, in some ways similar to the zither. Conversation tends to be carried out in hushed tones. Teahouses are located at quiet places in beautiful surroundings, often near lakes; most cities have several now. The teahouse has its own slot on TV, too-the British television company Granada has coproduced with Chinese TV a 230-part TV soap called Joy Luck Street, based around the comings and goings in a teahouse; it was inspired by the long-running British TV soap Coronation Street, whose central location is a good old English pub.\n\n(G) Among men in China, much less so among women, smoking is widespread, and at formal meals cigarettes are almost always offered along with the tea. Most Chinese people do not seem to be at all worried about the links between smoking and health problems. It is very hard to escape from other people's cigarettes in restaurants. Young Chinese men set on having a good night out can even be seen holding a lit cigarette in one hand and a pair of chopsticks in the other-managing to smoke and eat at the same time."
+      }
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "id": "pte-gt-reading-108",
+  "title": "General Training Reading — Practice Test 108",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Want to rent a property",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-108-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The agency expects customers to provide letters of recommendation. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The agency provides certain information on properties held by its competitors. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The agency began business in its present location. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Employees have specific roles at the agency. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The agency carefully chooses the property owners that it works with. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Want to rent a property",
+        "text": "(A) Aynho Properties – With over 50 years' of experience we offer a comprehensive sales and lettings service. Our firm has been based in Shipton Street since its foundation and so we have a thorough knowledge of the surrounding neighborhood. Our staff make every effort to match clients' needs to an appropriate property whether you are looking to rent an apartment a bungalow or a house.\n\n(B) Danesdale Agency – As soon as you walk in our door we will make every effort to find the right flat for you to rent. Everything we do is based on good practice – you supply written references and pay the rent on time and in return we will visit the property every four months to ensure it is maintained and that any necessary repairs are done.\n\n(C) Jakesford Properties – As a family run business with over 20 years' experience in the property market we pride ourselves on treating every client with kindness and consideration. The landlords on our books have been selected with great care so that you can be sure they will look after your interests. Thousands of customers from all over the world have written to us to express their appreciation for the services we have offered them.\n\n(D) Kasama Letting – Our highly experienced team works hard to provide peace of mind for both tenants and landlords. James Kettering our customer liaison officer is always at the end of the phone to answer any queries you may have. We also have an administration officer who deals with contracts rents and personal queries.\n\n(E) Leftfield Letting – While the main objective of some letting agents is to get as much money as possible for their properties we aim to secure a fair deal for tenants and a trouble free service for landlords. We use modern marketing techniques that include price comparisons for similar properties with other agencies in the area so that you can make a fully informed decision."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Cycle Lights",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-108-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is illegal to cycle after sunset without bike lights.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Front and rear lights can be attached to the rider.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A torch worn on a cyclists' head must be white.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are some legal restrictions on flashing lights.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Reflectors are most commonly available in packs of four.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Reflective heel strips are allowed instead of pedal reflectors.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The law concerning the design of pedals is unsatisfactory.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cycling during the daytime is safer than cycling at night.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is against the law to cycle in daytime fog without lights.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Cycle Lights",
+        "text": "You must have approved front and rear lights that are lit, clean and working properly when cycling between sunset and sunrise. It's no defence to say that it was past sunset but not yet dark. The legal lighting obligations for cyclists are determined by sunset and sunrise times – not the hours of darkness which starts 30 minutes after the former end 30 minutes before the latter and dictate when motorists must switch from sidelights to headlights. Cycling UK's guide to cycling regulations explains the Road Vehicles Lighting Regulations in detail but in summary you need a white light at the front and a red light at the rear visible from the front and rear respectively and fixed to your bike. A light obscured by a saddlebag isn't legal and neither is a torch on your head though there's nothing to stop you using a head-torch as an additional light. The regulations also now allow flashing lights provided they flash between 60 and 240 times per minute. The legal requirements for reflectors include a red rear reflector and four amber pedal reflectors one at the front and rear of each pedal. Common sense might suggest that a reflective heel stripe or ankle band could replace an amber pedal reflector but unfortunately thee do not meet the legal requirements. This is an annoying problem for riders who use bikes where the feel are attached to the pedals and cannot slip. These pedals are not designed with enough space to accommodate reflectors and make this an area of legislation in need to change. Unlike with other vehicles lights are not a legal requirement for cyclists when there is seriously reduced visibility during the daytime although we would not recommend cycling through dense fog without lighting up."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Maintaining a safe environment for employees working on computers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-108-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Change in the user's ______",
+          "answer": "Position",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Move, soundproof, or separate noisy equipment using ______",
+          "answer": "Partitions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Reduce glare from nearby ______e.g. using adjustable blinds",
+          "answer": "Windows",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o Check ______from equipment",
+          "answer": "Heat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• An input into task achievement and ______",
+          "answer": "Planning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Regular short breaks at times of their own ______",
+          "answer": "Choice",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Maintaining a safe environment for employees working on computers",
+        "text": "Workstation Furniture The work desk or work surface should be big enough to allow the user to arrange the screen, keyboard and documents etc. in a flexible way. It should be stable and positioned so that it's comfortable when an employee uses a document holder but also big enough to let the user work comfortably and to alter their position.\n\nThe working environment You need to assess noise levels. The equipment should not be so noisy that it distracts the user. If you cannot use quieter equipment consider soundproofing or moving the equipment. You could use partitions between noisy equipment and the rest of the workstation as an alternative. Lighting is also an important consideration. Surrounding windows must have curtains or blinds which users can adjust to prevent reflected glare. If needed provide users with lighting appropriate to their tasks and particular workstation. Users should have control over their lighting to prevent reflected glare. Temperature wise the equipment should not give out so much heat that the user becomes uncomfortable so monitor this. It's also important that you maintain ventilation and you control humidity so that it is at a level which keeps the user comfortable.\n\nTask design and rest breaks Good design of the task can be as important as the right choice of furniture and equipment. Whenever possible you should design jobs so that employees have a mix of activities and some control over which tasks they perform and when. You should match staffing levels to workload so that individuals are neither overworked nor underworked and give employees some say in the way is carried out and the planning that goes into it. An employee's need for rest breaks will vary depending on the type of work they are doing and how intensely they are working. As a general rule however short, frequent breaks are better than longer, less frequent ones. A 5-10 minutes break after 50-60 minutes work is better than 15-20 minute break after two hours. The employee should at times have a choice over when to take breaks and they should be encouraged to do non-work activities during their break ideally away from the workstation."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Using portable ladders",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-108-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employers should keep a ______ of ladder safety inspections.",
+          "answer": "Record",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employers should check the ______ of a ladder is suitable for the job.",
+          "answer": "Length",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ______ and joints of the ladder need particularly close inspection.",
+          "answer": "Steps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Make sure the ______ of the ladder are resting on a clean, hard surface.",
+          "answer": "Feet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Protect the ladder from vehicles by using ______",
+          "answer": "Cones",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Use a ______ to keep people away from the ladder.",
+          "answer": "Sign",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Keep the ladder in place using ties rather than ______",
+          "answer": "Blocks",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Using portable ladders",
+        "text": "Employers need to oversee all ladders that are owned by their company. Detailed visual inspections should be carried out on a regular basis, and they should have an up to date record of these. Before starting a job employers are also responsible for ensuring any ladder is the right length to meet the needs of the task reaching out from the very top of a ladder is highly dangerous. Once you get a ladder you as a user of the ladder should conduct a pre use check each working day. Conducting pre use checks should have been part of your training and should be done in accordance with the manufacturer's guidelines. When doing a check it is important to focus on the steps and make sure they are not loose as this could cause an accident. Similarly a cracked joint in the ladder could cause it to fail. Almost all falls from ladders happen because the ladder moves unexpectedly. The key factor in preventing falls from ladders is to ensure your ladder is stable whilst being used. First make sure that you choose level ground on which to set up you ladder. There are specially designed tools you can use to ensure this – don't just use a piece of wood. Second check the ground surface is dirt free and solid so the feet can grip and the ladder doesn't sink. Before you go up your ladder look at the surrounding environment. Make sure the ladder cannot be struck by vehicles. If necessary safeguard the area by placing red and white cones around it. Ensure it will not be pushed over by other hazards such as opening doors. Doors and windows may need to be secured where possible. Finally think about the hazards to the general pubic and make sure they cannot walk underneath it or get too near to it. A danger sign at the base is often the best way of doing this. To secure the ladder tie it to a suitable point such as a window or railing making sure both sides are attached. Where this is not practical secure it to the wall near the base of the ladder with ties; avoid using blocks to wedge the ladder in place as they can easily move."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: The story of the Fosbury Flop",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-108-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A suggestion that Fosbury should change his way of jumping. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A reference to an opportunity offered to Fosbury that made him feel honored. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A reference to the fact that Fosbury was a very influential high jumper. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Conflicting explanations given by Fosbury for the way the idea for the Fosbury Flop began. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A reference to a time when Fosbury was dissatisfied with his athletic performance. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When interviewed about his development of the Fosbury Flop, Dick Fosbury",
+          "options": [
+            {
+              "id": "A",
+              "text": "always insisted that he had carefully designed it on scientific principles"
+            },
+            {
+              "id": "B",
+              "text": "said he wanted to develop a technique by an injury he suffered while making a jump"
+            },
+            {
+              "id": "C",
+              "text": "claimed it was inspired by an injury he suffered while making a jump"
+            },
+            {
+              "id": "D",
+              "text": "stated that it had been done gradually without any overall pain"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Fosbury achieved a sudden improvement in the height he could jump when he",
+          "options": [
+            {
+              "id": "A",
+              "text": "started to adapt the scissors technique"
+            },
+            {
+              "id": "B",
+              "text": "became much more determined to win competitions"
+            },
+            {
+              "id": "C",
+              "text": "decided to abandon the scissors technique"
+            },
+            {
+              "id": "D",
+              "text": "found a new way of using the belly roll style"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When describing the way that Fosbury's jump evolved, Richard Hoffer stressed that",
+          "options": [
+            {
+              "id": "A",
+              "text": "Fosbury’s height slowed down his progress"
+            },
+            {
+              "id": "B",
+              "text": "the process was more controlled that it appeared"
+            },
+            {
+              "id": "C",
+              "text": "Forbury was not really aware of his own technique"
+            },
+            {
+              "id": "D",
+              "text": "the process included specialist input from engineers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Fosbury defended his idea that his style of jumping was natural by pointing out that",
+          "options": [
+            {
+              "id": "A",
+              "text": "it was achievable by younger jumpers"
+            },
+            {
+              "id": "B",
+              "text": "it was copied successfully by other athletes"
+            },
+            {
+              "id": "C",
+              "text": "it was achievable without any special training"
+            },
+            {
+              "id": "D",
+              "text": "it was independently discovered by other athletes"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When first interviewed, Fosbury called his jumping style a ______ but he realised that this had not made an impression on the (38) ______ .In his next interview, he used a name taken from the description given to a newspaper photo – and this was the name that everyone noted. He says the name was appropriate because his town is near a (39) ______ and a (40) ______ does a similar type of flopping movement when brought to land.",
+          "answer": "Back layout",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When first interviewed, Fosbury called his jumping style a (37) ______ but he realised that this had not made an impression on the ______ .In his next interview, he used a name taken from the description given to a newspaper photo – and this was the name that everyone noted. He says the name was appropriate because his town is near a (39) ______ and a (40) ______ does a similar type of flopping movement when brought to land.",
+          "answer": "Journalist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When first interviewed, Fosbury called his jumping style a (37) ______ but he realised that this had not made an impression on the (38) ______ .In his next interview, he used a name taken from the description given to a newspaper photo – and this was the name that everyone noted. He says the name was appropriate because his town is near a ______ and a (40) ______ does a similar type of flopping movement when brought to land.",
+          "answer": "River",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-108-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When first interviewed, Fosbury called his jumping style a (37) ______ but he realised that this had not made an impression on the (38) ______ .In his next interview, he used a name taken from the description given to a newspaper photo – and this was the name that everyone noted. He says the name was appropriate because his town is near a (39) ______ and a ______ does a similar type of flopping movement when brought to land.",
+          "answer": "Fish",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "The story of the Fosbury Flop",
+        "text": "(A) On October 20, 1968 a 21 year old university student from the USA called Dick Fosbury completely transformed the sport of high jumping with a gold medal and Olympic record jump of 2.24 mts at the Mexico City games. Forbury accomplished this fabulous feat by sailing over crossbar head first and backward. As colorfully described that day by the Los Angeles Times, \"Fosbury goes over the bar like a guy being pushed out of a 30 storey window.'\n\n(B) At first when asked about how this unorthodox manoeuvre originated, Fosbury would joke with sportswriters, informing some that because of this university background in physics and engineering he had initially designed the Flop on paper and telling others that he had accidentally discovered this technique when he once tripped and fell backward on his take off. However in later interviews Fosbury revealed that the technique actually unfolded over many years and involved countless trials and errors. \"It was simply a natural technique that evolved.\" He said, \"I never thought about how to change it and I am sure my coach was going crazy because it kept evolving. I didn't know anyone else in the world would be able to use it.\"\n\n(C) Fosbury explained that when he first learned to high jump at the age of 10 or 11, he tried jumping with the scissors style. He said, \" I used that style until I went into high school where my coach explained that I was never going to get anywhere with that technique. He started me with the belly roll technique. However I was really lousy with that style. I expressed my frustration to coach and he said that if I really wanted I could still use the scissors.\" So in his next competition, Fosbury went back to the scissors style. He explained, \"As the bar was raised each time, I began to lift my hips up and my shoulders went back in reaction to that. At the end of the competition I had improved my best by 15 cm to 1 m 78 and even placed third. The next two years in high school with my curved approach I began to lead with my shoulder and eventually was going over head first like today's Floppers.\"\n\n(D) In this way, the Flop evolved, not from design, but from a trial and error process which combined repeated effort with the biomechanics of Fosbury's gangling 1 m 93 physique. Sports Illustrated writer Richard Hoffer wrote, \"It was on-site engineering his body and mind working together making reflexive adjustment with only one goal getting over the bar. Hoffer explained that although Fosbury's arms and legs seemed to be all over the place, those movements that served to get him a centimeter higher were retained, while the others were gradually eliminated as the technique evolved.\n\n(E) What did Fosbury think of the seeming awkwardness of his Flop? \"I believe that the Flop was a natural style,\" he said, \"And I was just the first to find it. I can say that because the Canadian jumper Debbie Brill was a few years younger than I was and also developed the same technique only a few years after me and without ever having seen me.\"\n\n(A) striking coincidence? Yes indeed. But perhaps not as striking as the fact that a high school student called Bruce Quande was photographed on May 24, 1963 flopping backward over the crossbar. This was the same month that Fosbury recalls having flopped for the first time in the competition when he was at high school.\n\n(F) But completing the Flop successfully was only half the battle the return to earth still had to be negotiated. Few would even consider such an experiment knowing they had have to land on their necks. When Fosbury was jumping in high school he had to land in pits which were filled with wood chips, sawdust or sand. On one occasion Fosbury hit his head on the wooden border or the pit. Another time he landed totally out of the pit, flat on his back knocking the wind out of him. The next year Fosbury's high school became the first in the region to install foam rubber in its high jump pit thereby cushioning the jumper's fall and encouraging the use of the potentially dangerous Flop. The Fosbury Flop and cushioned landing areas thus appear to have co-evolved.\n\n(G) Fosbury explains how he came to name the Flop. \"I am very proud that I received the naming rights. But the term by which the style is known did not appear overnight. To tell the truth the first time was that I was interviewed and asked 'What do you call this?' I used my engineering analytical side and I referred to it as a back lay out.' It was not interesting and the journalist didn't even write it down. I noted this. The next time that I was interviewed that's when I said: 'Well at home in my town they call it the Fosbury Flop' – and everyone wrote it down. I was the first time to call it that but it came from a caption on a newspaper photo that said: \"Fosbury flops over bar.' The context was that our town was on a river, very popular for fishing an hour from the Pacific Ocean. And when you land a fish on the bank it's flopping. That's the action and so it's a good description by a journalist and I remembered it.\""
+      }
+    }
+  ]
+}

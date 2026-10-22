@@ -1,0 +1,919 @@
+{
+  "id": "pte-gt-reading-66",
+  "title": "General Training Reading — Practice Test 66",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Gordon Ramsey – Maze, London",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-66-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Excellent food but not a good view from the restaurant.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Spoilt a birthday celebration and food was far too expensive.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Complimentary drinks and wonderful food.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Inspired by the owner and encouraged to go by word-of-mouth.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The waiters were very attentive.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Spoilt a birthday celebration and food was terrible.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Claridge's"
+            },
+            {
+              "id": "B",
+              "text": "China Tang"
+            },
+            {
+              "id": "C",
+              "text": "The Seafood Restaurant"
+            },
+            {
+              "id": "D",
+              "text": "Fifteen"
+            },
+            {
+              "id": "E",
+              "text": "Maze"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Gordon Ramsey – Maze, London",
+        "text": "Comments – Two free glasses of champagne upon entering the restaurant. Very relaxed atmosphere. Friendly staff. Met Gordon at our table. The kitchen is spotless. The service was slow but wonderful food."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: GREGGS Bakery",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-66-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "They have the largest bakery shops in the United Kingdom.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "They only sell pasties, sausage rolls, in their savoury product range.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Lots of people complain because the cafe prices are more than the shop prices.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Vegetarians can't eat doughnuts as they have animal derivatives or rennet in them.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Food could cause an allergic reaction because they like to mix baked food together.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "They can always prepare made-to-order sandwiches by asking at the counter.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Greggs pay for the postage when delivering e-gifts.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If you have forgotten to bring some money you could pay by mobile phone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The London Pass is the best way to save time and money when ______",
+          "answer": "Sightseeing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You save time because there is no longer a need to ______",
+          "answer": "Queue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You won't have to calculate how much money you have left because the London Pass is ______",
+          "answer": "one pass/one simple pass",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are planning to see as much of London as possible you could consider a ______",
+          "answer": "Travelcard",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you are not happy with the various attractions and special offers we provide you can take advantage of our ______",
+          "answer": "money back guarantee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If a leisurely few hours on a boat sounds good then try our ______",
+          "answer": "Thames River Cruise",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You save exactly ______when you visit the London Bridge Experience.",
+          "answer": "£24.00",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "GREGGS Bakery",
+        "text": "Greggs plc is the largest bakery chain in the United Kingdom and has 1,671 outlets. It specialises in savoury products such as pasties, sausage rolls but also sells sandwiches and sweet items including doughnuts and vanilla slices.\n\nThe Perfect Start to your Day Why not get your day off to a great start with the perfect meal? Treating yourself to a tasty breakfast instantly brightens up a morning, making that long day at the office seem much more bearable. Café and Shop prices are different. Why? Firstly, VAT is applicable for a 'sit down service'. In addition, our running costs are greatly increased in terms of additional team members, cutlery, tables, extra cleaning required, and so on, which unfortunately means it is more expensive to run a café operation. Which of your products are suitable for vegetarians? We have a range of sandwiches and savouries which are meat free including Egg Mayonnaise, Cheese Savoury and Cheese and Tomato. We also have the Cheese & Onion Pasty and Cheese & Tomato Pizza, which are made solely with vegetarian ingredients and don't contain any animal derivatives or animal rennet. Do you have allergy free products? Unfortunately, we're unable to recommend any of our products to people with allergies because our food is freshly baked and prepared in open bakery and shop environments so cross-contamination could inadvertently occur. Why is mayo on so many sandwiches? We have introduced 'no mayo' sandwiches which are clearly labelled. In addition, if we have the ingredients and you'd really like your sandwich without mayonnaise, we will try and do this for you. Just ask at the counter. What kind of Greggs gifts can I buy? We offer three different kinds of gifting options; a Gift Card, an e-Gift, and an m-Gift.\n\nGift Card Give a Greggs Gift Card to someone and they can buy anything they like from Greggs. It's the perfect way to say thanks – to wish them a happy birthday – or just as a surprise to show that you care.\n\ne-gift Send the gift of Greggs by email. It's simple, secure and won't cost you a penny in postage. You can pick the email design, add a personal message and choose exactly when it's delivered.\n\nm-gift Want to send a Greggs Gift Card to their mobile phone? Choose an m-gift and we'll text it to their mobile phone so they can shop at Greggs straight away."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: The Body Shop",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-66-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Who owns the company now?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Anita Roddick and her parents."
+            },
+            {
+              "id": "B",
+              "text": "Body Shop and L’Oréal."
+            },
+            {
+              "id": "C",
+              "text": "L’Oréal."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did Anita Roddick decide on the name \"The Body Shop\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The name came to her in a dream."
+            },
+            {
+              "id": "B",
+              "text": "She copied the name from an undertaker."
+            },
+            {
+              "id": "C",
+              "text": "She took the name from a store in America."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What happened three decades after launching \"The Body Shop\"?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They retired."
+            },
+            {
+              "id": "B",
+              "text": "They bought L’Oréal."
+            },
+            {
+              "id": "C",
+              "text": "They accepted a takeover bid by L’Oréal."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did \"The Body Shop\" promote itself?",
+          "options": [
+            {
+              "id": "A",
+              "text": "by stereotyping women"
+            },
+            {
+              "id": "B",
+              "text": "socially"
+            },
+            {
+              "id": "C",
+              "text": "through environmental and social issues"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What did Anita do about very skinny models?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She gave them some food."
+            },
+            {
+              "id": "B",
+              "text": "She tried to empower women around the world."
+            },
+            {
+              "id": "C",
+              "text": "They started to work for her."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What did Gordon Brown say about Anita Roddick?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She was a pioneer for environmental issues."
+            },
+            {
+              "id": "B",
+              "text": "She was very fashionable."
+            },
+            {
+              "id": "C",
+              "text": "She made the mass market sustainable."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "The Body Shop",
+        "text": "The Body Shop International PLC, known as The Body Shop, has a range consisting of 1,200 products, including cosmetics and make-up in its 2,500 franchised stores in 611 countries. The company, which has its international headquarters in Littlehampton, West Sussex, England, was founded in 1976 by Anita Roddick and is now part owned by parent company L'Oréal corporate group. In 1970 Anita visited \"The Body Shop\" in California. It was part of a car repair shop and they sold naturally-scented soaps and lotions. In 1976, Anita opened a similar shop in the UK, using the same business name. From its first launch in the UK in 1976, The Body Shop experienced rapid growth, expanding at a rate of 50 percent annually. The opening of Roddick's first modest shop received early attention when the Brighton newspaper, The Evening Argus, carried an article about an undertaker with a nearby store who complained about the use of the name \"The Body Shop.\" In March 2006, The Body Shop agreed to a £652.3 million takeover by L'Oréal. It was reported that Anita and Gordon Roddick, who set up The Body Shop 30 years previously, made £130 million from the sale. The Body Shop turned increasingly toward social and environmental campaigns to promote its business in the late 1980s. In 1997, Roddick launched a global campaign to raise self-esteem in women and against the media stereotyping of women. It focused on unreasonably skinny models in the context of rising numbers suffering from bulimia and anorexia. Following her death in 2007, Prime Minister Gordon Brown paid tribute to Dame Anita, calling her \"one of the country's true pioneers\" and an \"inspiration\" to businesswomen. He said: \"She campaigned for green issues for many years before it became fashionable to do so and inspired millions to the cause by bringing sustainable products to a mass market. She will be remembered not only as a great campaigner but also as a great entrepreneur.\" In October 2009, The Body Shop was awarded a 'Lifetime Achievement Award' by the RSPCA in Britain, in recognition of its uncompromised policy which ensures ingredients are not tested on animals by its suppliers."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Ecotourism",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-66-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "be prepared to live simply",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "be a role model by mixing with the locals",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "respect cultural differences",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "your adventure never stops",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "be careful about how you show your friendship",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "J",
+              "text": "Paragraph J"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to remember that a Nikon camera in one culture might be like a ______for another in terms of social position. Giving a small gift as a token of your (34) ______might encourage some children (35) ______Being an ecotourist guarantees that your holidays won't be like (36) ______So relax and learn to be (37) ______",
+          "answer": "ring in the nose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to remember that a Nikon camera in one culture might be like a (33) ______for another in terms of social position. Giving a small gift as a token of your ______might encourage some children (35) ______Being an ecotourist guarantees that your holidays won't be like (36) ______So relax and learn to be (37) ______",
+          "answer": "friendship",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to remember that a Nikon camera in one culture might be like a (33) ______for another in terms of social position. Giving a small gift as a token of your (34) ______might encourage some children ______Being an ecotourist guarantees that your holidays won't be like (36) ______So relax and learn to be (37) ______",
+          "answer": "to beg",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to remember that a Nikon camera in one culture might be like a (33) ______for another in terms of social position. Giving a small gift as a token of your (34) ______might encourage some children (35) ______Being an ecotourist guarantees that your holidays won't be like ______So relax and learn to be (37) ______",
+          "answer": "a package holiday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important to remember that a Nikon camera in one culture might be like a (33) ______for another in terms of social position. Giving a small gift as a token of your (34) ______might encourage some children (35) ______Being an ecotourist guarantees that your holidays won't be like (36) ______So relax and learn to be ______",
+          "answer": "be flexible and adapt",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What are you recommended to do before you start your travels? ______",
+          "answer": "educate yourself",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What might other tourists leave behind? ______",
+          "answer": "trash",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-66-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What should a positive local economy try to avoid? ______",
+          "answer": "potentially destructive practices",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Ecotourism",
+        "text": "\"Take only photographs, leave only footprints.\" This is really the essence of being a tourist in an eco tour, but to be that perfect needs time. To make sure you get the most out of your holiday before, during and after your trip, and show the respect the people and places you go to deserve, follow the guidelines shown here.\n\n(A) Educate yourself as much as possible about your destination. It can be useful to learn a little about not only current events but also the culture, customs and history of the area. Spend a little time learning some of their language, even if it's only hello, please, thank you and numbers. People will appreciate the effort you have made to communicate with them. What can you find out about their ecosystems? What animals are endangered and why?\n\n(B) One reason to find out something about where you are going and the people who live there is so that you don't start offending them as soon as you step off the plane. The old saying goes, \"When in Rome do as the Romans do\" can be quite useful when thinking about what to wear. Not everyone dresses the same and some people might be more conservative than you are. Do not judge the people or their cultural habits by using your own cultural values. The differences between you are just that – differences – and are not a sign of one culture being wrong or inferior.\n\n(C) While we might think nothing of hanging a Nikon around our neck or walking around with an iPad, in many places these are seen as signs of very rich people. In brief, be sensitive to cultural status symbols as these can create barriers between you and the local people. And remember, that ring in the nose that you are laughing at might just mean you are making fun of the local chief!\n\n(D) It's very common for tourists to want to give little gifts of friendship to people they meet. Stop and think like an ecotourist. How many little children have greeted you on your travels by holding out their hand and asking for money? Maybe they started to beg when they realised that tourists have more money than they do and have sweets or pencils in their bag. It is far better to donate money or supplies to a local organisation that can be found either by research or asking your tour operator.\n\n(E) Expect the unexpected as eco holidays can be far more unpredictable than a package holiday but can provide experiences of a lifetime. Take changes to your plans as an opportunity to learn and a chance to become closer to the culture that you are now living in. This is the time to be flexible and adapt to the situation.\n\n(F) A large luxury hotel in the middle of nowhere takes far more resources to build and maintain than does a small family run inn. So, expect to stay in more basic settings; maybe very basic. This is part of the learning experience and will help bring you closer to understanding the lives of the people who actually live there. Resources might be a problem and so the influx of tourists will only add to the problems. Be sensitive to this especially when washing becomes a luxury and food is as far removed from fine dining as it can be.\n\n(G) What you do when you are there can affect the lives of the people who live there after you have left. With this in mind use makeshift bathrooms at least 70 metres from any water source. Take all trash with you and if you find things left by other tourists then take that too. Don't take any souvenirs back with you especially if you have bought parts of endangered animals like feathers, claws and skin. You are only helping to create a little business and the demise of another animal species.\n\n(H) Always consider how your visit can benefit the local economy. Are you adding to their problems or in some way helping them? This is an integral part of true ecotourism. Think local and start to use local transportation, guides, inns, restaurants and markets. This helps create an economy that is based on positive alternatives to potentially destructive practices and can involve the whole community. This is the true essence of ecotourism.\n\n(I) A true ecotourist is also an ambassador for his or her country. If we are honest, the image of western travellers is not always a good one but you can change this. Take the opportunity to talk to local people in a real exchange of cultural experiences. Never miss an opportunity to get to know someone; it could be the person sitting next to you on a local bus, or the person cooking your dinner. Take the chance when you can. J Once home, your journey should continue. Share your experiences with anyone who will listen. Try to send money to one of the local organizations or write an article for one of the papers in your town. As much as possible try to promote the place you have been to and encourage other people to go to experience what you have."
+      }
+    }
+  ]
+}

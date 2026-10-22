@@ -1,0 +1,520 @@
+{
+  "id": "pte-listening-18",
+  "title": "Listening — Practice Test 18",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-18-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phil Parrott______teacher– (2) ______",
+          "answer": "sports",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phil Parrott(1) ______teacher– ______",
+          "answer": "energetic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "-Too health-conscious?______because of equipment",
+          "answer": "big room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "David ______Lawyer– Older",
+          "answer": "spencer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______To pay less for gas and electricity",
+          "answer": "hardworking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Leo Norris______– Funny",
+          "answer": "engineer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Not ______or______",
+          "answer": "competitive, stressed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Outdoor typeSomewhere to keep his ______",
+          "answer": "bicycle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Leo's phone number (mobile) ______",
+          "answer": "07776872433",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Leo would like to move in on ______",
+          "answer": "28 september",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Refreshments will be served",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the front counter"
+            },
+            {
+              "id": "B",
+              "text": "in the lobby"
+            },
+            {
+              "id": "C",
+              "text": "at the back of the hall"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Nick Noble advertised",
+          "options": [
+            {
+              "id": "A",
+              "text": "on the radio"
+            },
+            {
+              "id": "B",
+              "text": "on a billboard"
+            },
+            {
+              "id": "C",
+              "text": "in the newspaper"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The original number of founding members was about",
+          "options": [
+            {
+              "id": "A",
+              "text": "12"
+            },
+            {
+              "id": "B",
+              "text": "20"
+            },
+            {
+              "id": "C",
+              "text": "200"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The club provides activities primarily for reasonable fit",
+          "options": [
+            {
+              "id": "A",
+              "text": "males up to 75"
+            },
+            {
+              "id": "B",
+              "text": "females with young children"
+            },
+            {
+              "id": "C",
+              "text": "males and females of any age"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tuesday and SaturdayAbout 3-5 hoursCoordinator ______",
+          "answer": "tramping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Thursday and SundayUp to 3 hours(17) ______",
+          "answer": "walks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(16) ______Thursday and SundayUp to 3 hours______",
+          "answer": "organiser",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "WanderersSunday______Leader",
+          "answer": "variable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "weekendsSaturday and SundayAll weekend(20) ______",
+          "answer": "mystery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(19) ______weekendsSaturday and SundayAll weekend______",
+          "answer": "chairman",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the main topic of assignment?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the historical development of television"
+            },
+            {
+              "id": "B",
+              "text": "the development of new media"
+            },
+            {
+              "id": "C",
+              "text": "the cultural future of television"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to Emilie which new technology will become the biggest competition for television?",
+          "options": [
+            {
+              "id": "A",
+              "text": "iPods"
+            },
+            {
+              "id": "B",
+              "text": "mobile phones"
+            },
+            {
+              "id": "C",
+              "text": "video games"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the tutor the average length of a television become",
+          "options": [
+            {
+              "id": "A",
+              "text": "45 minutes"
+            },
+            {
+              "id": "B",
+              "text": "4 to 5 minutes"
+            },
+            {
+              "id": "C",
+              "text": "10 minutes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What part of the library is going to be closed for one week?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the sociology section"
+            },
+            {
+              "id": "B",
+              "text": "the media studies section"
+            },
+            {
+              "id": "C",
+              "text": "the journals section"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which body do they decide to complain to?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Premises committee"
+            },
+            {
+              "id": "B",
+              "text": "Students’ Union"
+            },
+            {
+              "id": "C",
+              "text": "the library"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What will the reprographics office do?",
+          "options": [
+            {
+              "id": "A",
+              "text": "send emails to your tutor"
+            },
+            {
+              "id": "B",
+              "text": "send your dissertation to you"
+            },
+            {
+              "id": "C",
+              "text": "send your dissertation to your tutor"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does the tutor compare homemade videos with? ______",
+          "answer": "a podcast",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the title of Mrs Jone's lecture? ______",
+          "answer": "culture and society",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where is the lecture? ______",
+          "answer": "university theatre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When is the final date for the assignment? ______",
+          "answer": "4 July",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Samuel Wells before Scholastic House opened in 1903. ______",
+          "answer": "died (in 1900)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There were original students. ______",
+          "answer": "10",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Scholastic House became in 1963. ______",
+          "answer": "co-educational",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "One of these students became a prominent ______",
+          "answer": "teacher",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Scholastic House experienced difficulties during ______",
+          "answer": "the great war",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The college has a tradition of learning and ______",
+          "answer": "tolerance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Since 1972, controversial have been discussed. ______",
+          "answer": "topics/ issues",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The college discusses controversial issues because it",
+          "options": [
+            {
+              "id": "A",
+              "text": "informs the debate"
+            },
+            {
+              "id": "B",
+              "text": "reduces tension"
+            },
+            {
+              "id": "C",
+              "text": "encourages argument"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The principal believes that",
+          "options": [
+            {
+              "id": "A",
+              "text": "science is less advanced than medicine"
+            },
+            {
+              "id": "B",
+              "text": "philosophy is more useful than science"
+            },
+            {
+              "id": "C",
+              "text": "science is ahead of philosophy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-18-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The principal urges the students to",
+          "options": [
+            {
+              "id": "A",
+              "text": "accept what they are told"
+            },
+            {
+              "id": "B",
+              "text": "ask questions at all times"
+            },
+            {
+              "id": "C",
+              "text": "think only about their studies"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/18_we.mp3"
+    }
+  ]
+}

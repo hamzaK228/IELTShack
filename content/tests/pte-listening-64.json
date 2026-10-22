@@ -1,0 +1,648 @@
+{
+  "id": "pte-listening-64",
+  "title": "Listening — Practice Test 64",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-64-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Location:______London",
+          "answer": "southwest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Rooms:Two ______bedrooms",
+          "answer": "double",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The other room used as:An ______",
+          "answer": "office",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Downstairs:Kitchen-diner, conservatory and ______",
+          "answer": "lounge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which of these extra services does the customer agree to do?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Change the bed linen"
+            },
+            {
+              "id": "B",
+              "text": "Do some gardening work"
+            },
+            {
+              "id": "C",
+              "text": "Clean the glass"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the customer want cleaned every three months?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Curtains"
+            },
+            {
+              "id": "B",
+              "text": "Carpets"
+            },
+            {
+              "id": "C",
+              "text": "Mats"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the customer want done with clothes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wash and iron the clothes"
+            },
+            {
+              "id": "B",
+              "text": "Iron the clothes"
+            },
+            {
+              "id": "C",
+              "text": "Clean and dry the clothes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The agent's address is 12 ______ Road.",
+          "answer": "amyes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Her house will get cleaned next ______",
+          "answer": "thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The maximum time of cleaning service is ______ hours",
+          "answer": "3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main purpose of the service is to",
+          "options": [
+            {
+              "id": "A",
+              "text": "educate people."
+            },
+            {
+              "id": "B",
+              "text": "persuade people to fly."
+            },
+            {
+              "id": "C",
+              "text": "provide people with comfort."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The number of people working at Sydney Airport is",
+          "options": [
+            {
+              "id": "A",
+              "text": "200"
+            },
+            {
+              "id": "B",
+              "text": "360"
+            },
+            {
+              "id": "C",
+              "text": "440"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dogs are chosen according to",
+          "options": [
+            {
+              "id": "A",
+              "text": "their ability to stay calm."
+            },
+            {
+              "id": "B",
+              "text": "their friendliness."
+            },
+            {
+              "id": "C",
+              "text": "their skill at locating narcotics."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The number of postal items processed last year amounted to",
+          "options": [
+            {
+              "id": "A",
+              "text": "4,400."
+            },
+            {
+              "id": "B",
+              "text": "52,000."
+            },
+            {
+              "id": "C",
+              "text": "72,000."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "People carrying items that are not allowed",
+          "options": [
+            {
+              "id": "A",
+              "text": "will get arrested."
+            },
+            {
+              "id": "B",
+              "text": "will be refused on board."
+            },
+            {
+              "id": "C",
+              "text": "will be given a warning."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which of the following is NOT allowed to be taken on the flight?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Carry-on items"
+            },
+            {
+              "id": "B",
+              "text": "Plant seeds"
+            },
+            {
+              "id": "C",
+              "text": "Parcels"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the proper security protocol for a pocket knife found in a carry-on suitcase?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It is returned to the passenger after examination."
+            },
+            {
+              "id": "B",
+              "text": "It is thrown away in a safe receptacle."
+            },
+            {
+              "id": "C",
+              "text": "It is passed on to higher-level authorities."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The acceptable material for packing goods in Australia is ______",
+          "answer": "paper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The belongings most of time are refused due to problems with the ______",
+          "answer": "package labels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The customs must be given notice of the goods from ______ days before it arrives in Australia.",
+          "answer": "2 to",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 21. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 22. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 23. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 24. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 25. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 26. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-64-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "If you need to find information on a certain book, you can use ______ check-out cards.",
+          "answer": "pink and yellow",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "If you want to find information in a specific field, use the ______ guides.",
+          "answer": "subjects",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Computers in some ______ cannot be linked to the network.",
+          "answer": "universities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You can find more information in a ______ on my desk.",
+          "answer": "blue folder",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The student thought there were no crocodiles in Northern Africa because",
+          "options": [
+            {
+              "id": "A",
+              "text": "North Africa contains very little wildlife for the crocodile to prey on."
+            },
+            {
+              "id": "B",
+              "text": "she found no mention in the literature of their existence there."
+            },
+            {
+              "id": "C",
+              "text": "there is very little water in North Africa."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Generally, crocodiles live in groups of about",
+          "options": [
+            {
+              "id": "A",
+              "text": "20"
+            },
+            {
+              "id": "B",
+              "text": "38"
+            },
+            {
+              "id": "C",
+              "text": "46"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "African crocodiles usually live in areas with",
+          "options": [
+            {
+              "id": "A",
+              "text": "hot, dry climates."
+            },
+            {
+              "id": "B",
+              "text": "hot, wet rainforests."
+            },
+            {
+              "id": "C",
+              "text": "warm, wet climates."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Crocodiles in dry areas live in caves located",
+          "options": [
+            {
+              "id": "A",
+              "text": "underground."
+            },
+            {
+              "id": "B",
+              "text": "in mountainsides."
+            },
+            {
+              "id": "C",
+              "text": "underwater."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What change caused changes in crocodile populations in North Africa?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They were driven away by a fierce predator."
+            },
+            {
+              "id": "B",
+              "text": "Crocodiles evolved from desert creatures to wetland creatures."
+            },
+            {
+              "id": "C",
+              "text": "North Africa used to be wetland but slowly turned to desert over time."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Desert crocodiles sometimes live in places with dry periods that last up to ______ months.",
+          "answer": "8",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A hole dug by a female crocodile in which to lay eggs can have a ______ of up to 60 cm.",
+          "answer": "depth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Local people are not ______ crocodiles.",
+          "answer": "afraid of",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Crocodiles ______ out of fear when humans populate their habitat.",
+          "answer": "attack",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-64-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Researchers want to study more about population size, ______ , and relations to other populations of crocodiles.",
+          "answer": "migration patterns",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/64_we.mp3"
+    }
+  ]
+}

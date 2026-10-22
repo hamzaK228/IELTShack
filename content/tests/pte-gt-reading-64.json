@@ -1,0 +1,648 @@
+{
+  "id": "pte-gt-reading-64",
+  "title": "General Training Reading — Practice Test 64",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Waitrose – High Street Branch",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-64-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person willing to move location for one year. Salary is low but ideal for someone interested in social work ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a high school student who loves exercise and animals with a few evenings free every week ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "an independent kind of person prepared to work at night or early mornings with transport ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a high school graduate looking for their first job, must like talking to people ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a cheerful person who loves working with young children who is able to sing and has own transport ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a person who loves working with young children in return for a basic allowance, accommodation and time to study ______",
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Waitrose – High Street Branch",
+        "text": "(A) Waitrose – High Street Branch\n\nPosition available for two cleaners\n\nNight shift and/or early morning Must be able to work unsupervised, to a time limit. No experience needed. Must have own transport.\n\nDrop in and ask for Pete Evans\n\n(B) WORKSHOP PRESENTERS Do you have a bubbly outgoing personality? Love children? Good singing voice. Responsible and positive attitude. Will run musical workshops for preschool children.\n\nClasses are 30-45 minutes in length / training provided Own transport essential. Call into ABC Academy – Brook Street between 10am – 2pm and ask for Jenny.\n\n(C) Dog Walker An animal loving person needed to walk our two lovely Yorkshire Terriers three times a week. Evenings preferred.\n\nNo weekends 16 years or older is ideal\n\nCall: 0916-202-7445 to apply\n\n(D) Nanny Wanted To help look after two children – 2 and 5 years old. Experience useful but patience and willingness to learn is enough. Accommodation, food and pocket money provided. Flexible working times. Ideal for foreign student studying English.\n\nPlease send resume and photo to – Evelyn1978@hotmail.com\n\nE. 20 full time volunteers wanted One year project. Willing to relocate with free accommodation. Basic salary provided. Supporting people with disabilities and young people from broken homes. 18-65 can apply. Experience preferred but not essential.\n\n(F) Web-based company\n\nUrgently requires a graphic designer\n\nWorking knowledge of Photoshop College graduate preferred but enthusiastic computer nerd can apply.\n\nSend short resume (with photo) to – MegaBites, 10 Oak Road, Ashbourne\n\n(G) OLDE WORLDE CAFÉ\n\nWaitress needed. (Full-time / Part-time) Previous restaurant or café experience preferred. Must be physically active and able to take orders. Salary according to experience.\n\nWill consider: high school graduate Call 0245-67332 for interview. Ask for Mary."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Mobile Phone Etiquette",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-64-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Stop using your phone if you think people will find it ______",
+          "answer": "Annoying",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Other people will tell you about your phone etiquette. If they don't like it they might ask you to ______",
+          "answer": "stop talking / talk quietly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you want to keep your ______to yourself then keep (10) ______",
+          "answer": "secrets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you want to keep your (9) ______to yourself then keep ______",
+          "answer": "your distance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you really want to keep the conversation between the two of you then ______is the best way to keep people from hearing.",
+          "answer": "text messaging",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trying to do too many things at once can be a problem. You know that using your mobile in a ______is frowned upon but using it in your car could be fatal. In America, of all car accidents there were (13) ______fatalities in 2011 because the driver was using a phone.",
+          "answer": "queue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Trying to do too many things at once can be a problem. You know that using your mobile in a (12) ______is frowned upon but using it in your car could be fatal. In America, of all car accidents there were ______fatalities in 2011 because the driver was using a phone.",
+          "answer": "350",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Finally, if you have any ______you should know that talking on your mobile in a theatre is a big no-no in mobile phone etiquette.",
+          "answer": "common sense",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Mobile Phone Etiquette",
+        "text": "Etiquette is a code of behavior that allows people to follow the standards accepted in society. Although these rules can change from country to county many similarities can be found. Many of the manners we develop are based on three categories; health, courtesy, and cultural norms. It is through these that we develop the customs and habits of a society.\n\nEtiquette 1 This is where you have to think more of others than yourself. Don't think of all those times that you had to put up with people talking on the phone in the cinema, on the train, and in the queue at McDonalds. Simply imagine all the ways other people will find you annoying if you use your mobile phone.\n\nEtiquette 2 The good thing about people is that sooner or later someone will tell you that you are annoying them. Their request to stop talking or talk quietly might seem unreasonable but if you really want to be a model mobile phone user just follow their request.\n\nEtiquette 3 To stop #2 from happening, and to keep your secrets to yourself then keep your distance – 3 metres – between you and anyone else.\n\nEtiquette 4 Even if you are following #3 you don't need to shout. This just makes it easier for people to hear you and much easier to annoy them.\n\nEtiquette 5 Remember, people don't want to hear you talking on the phone so they certainly don't want to hear the other person either. Don't turn your speaker on!\n\nEtiquette 6 If you don't want to be talked about keep your personal details to yourself. This means that #3 is probably not far enough from wagging ears. Either save the conversation for later or start using text messaging.\n\nEtiquette 7 Don't multi-task, it could cost you your life. Don't use the time you are spending in a queue to phone someone and certainly don't use the mobile phone when you are driving. In many countries this is illegal but it is also dangerous. National data show mobile phones were involved in 350 fatal crashes in 2011.\n\nEtiquette 8 There are many places such as a library, museum, theatre, and hospital where, hopefully, common sense tells you not use your phone."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Savants",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-64-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant reminds people of a computer as everything he reads he remembers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant learnt one language very quickly and speaks many more.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant developed extraordinary powers after an accident.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant plays the piano.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant inspired a movie.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant avoids falling over with sonar like ability.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This savant loves to draw buildings with incredible accuracy.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Leslie Lemke"
+            },
+            {
+              "id": "B",
+              "text": "Orlando Serrell"
+            },
+            {
+              "id": "C",
+              "text": "Kim Peek"
+            },
+            {
+              "id": "D",
+              "text": "Stephen Wiltshire"
+            },
+            {
+              "id": "E",
+              "text": "Ellen Boudreaux"
+            },
+            {
+              "id": "F",
+              "text": "Daniel Tammet"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Savants",
+        "text": "Super heroes like Superman have powers that are the envy of many children and even adults. Yet, we don't have to read comic books to find people with super powers. These\n\n1. Leslie Lemke Born blind, he was 15 when he eventually learnt how to walk. When he was 16 he played Tchaikovsky's Piano Concerto No. 1. after hearing this piece of music on the television the previous night. He is now able to play any piece of music simply by listening to it once.\n\n2. Orlando Serrell He was not born a savant. He was ten years old when he was hit on the head with a baseball. Since then he has been able to perform complicated calendar calculations and remember the weather every day from the day of the accident.\n\n3. Kim Peek Kim was the inspiration for the character played by Dustin Hoffman in the Rain Man. His nickname is \"Kimputer\" because he has read over 12,000 books and remembers everything about them. He reads two pages at once – his left eye reads the left page and his right eye reads the right page – in 3 seconds!\n\n4. Stephen Wiltshire When he was nine he learnt to talk but before this he had already developed a love for drawing. After a helicopter ride in Tokyo he drew an accurate and detailed view of the city on a piece of paper 10 metres long!\n\n5. Ellen Boudreaux Like Leslie Lemke, Ellen Boudreaux is a blind autistic savant with exceptional musical abilities. She can play music perfectly after hearing it just once. She can also walk around without bumping into things. She does this by making little chirping sounds that seem to act like a human sonar.\n\n6. Daniel Tammet Daniel is exceptionally gifted mathematically and linguistically. He can speak 11 languages fluently and learnt one of them, Icelandic, in 7 days. He appears normal but Daniel contends that he actually had to will himself to learn how to talk to and behave around people."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Job Sharing",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-64-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You don't have to find an exact copy of you when looking for a job share partner but they must have similar ______",
+          "answer": "standards",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A successful job share means being able to share information with the same filing system so that each day flows into another in a ______manner.",
+          "answer": "seamless",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One thing is certain and that is no matter how well prepared you are ______will happen.",
+          "answer": "things",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An important thing to remember is that when you job share you won't get the ______of a fulltime job.",
+          "answer": "income",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In a job share you can no longer accept all the ______",
+          "answer": "praise",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You might not always have the same ______because your life might be moving in another direction.",
+          "answer": "commitment",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Job Sharing",
+        "text": "Job sharing is the perfect solution for people who want to carry on with their career but also raise a family. Before you do it you need to learn a few things as it can be more difficult than it might seem.\n\nJob Sharing Is Like Marriage When looking for a job share partner you need to look for someone that is the perfect teammate. You don't need to find someone who is a carbon copy of you but certainly they need to have a similar professional style, work ethic, and standards as you.\n\nJob Sharing Relies on Communication For a job share to work smoothly and efficiently you must work like one person. The transition from one person to another, from one day to the next must be seamless. Sharing information successfully can be done by setting up a shared email account, and using the same filing system to organise computer and paper files.\n\nBe Flexible No matter how well organized your schedule is things happen. Your child needs to visit the dentist. A friend flies in to visit you. A hundred and one reasons why you can't be at work tomorrow. If you have a good job sharing relationship then your partner will cover for you.\n\nJob Sharing Means Less Income This might be obvious but when you job share you not only share the work but you also share the income. That's right you will only get half the income maybe even less if you decide to do less than half the work.\n\nYou Share Accomplishments Just as in a marriage many things you do, probably all the things you do, will be achieved because of you and your job share partner. In other words, you must share any praise for accomplishments.\n\nYour Circumstances May Change No matter how much you like your job, things change and so your commitment to it might also change. Things that you can't predict now might make you think about getting a fulltime job again; your spouse might move to another city, you decide to go back to university who knows what the future might bring?"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Mission to Mars",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-64-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the plan to have a permanent human settlement on Mars based on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "new technology"
+            },
+            {
+              "id": "B",
+              "text": "new and old technology"
+            },
+            {
+              "id": "C",
+              "text": "existing technology"
+            },
+            {
+              "id": "D",
+              "text": "recent technology"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How is the ideal site for the settlement found?",
+          "options": [
+            {
+              "id": "A",
+              "text": "GPS"
+            },
+            {
+              "id": "B",
+              "text": "rover"
+            },
+            {
+              "id": "C",
+              "text": "the settlers"
+            },
+            {
+              "id": "D",
+              "text": "some luck"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "After the outpost is operational how does the rover recharge its batteries?",
+          "options": [
+            {
+              "id": "A",
+              "text": "from the living units"
+            },
+            {
+              "id": "B",
+              "text": "from the life support unit"
+            },
+            {
+              "id": "C",
+              "text": "from its own solar panels"
+            },
+            {
+              "id": "D",
+              "text": "from the cargo units"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Where does oxygen come from?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nitrogen and argon"
+            },
+            {
+              "id": "B",
+              "text": "water"
+            },
+            {
+              "id": "C",
+              "text": "Martian atmosphere"
+            },
+            {
+              "id": "D",
+              "text": "Life support system"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate (37) ______, and perform (38) ______",
+          "answer": "press conferences",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate (37) ______, and perform (38) ______",
+          "answer": "online",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate (37) ______, and perform (38) ______",
+          "answer": "3/ three",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate (37) ______, and perform (38) ______",
+          "answer": "6/ six",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated ______, cultivate (37) ______, and perform (38) ______",
+          "answer": "Location",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate ______, and perform (38) ______",
+          "answer": "Food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To begin the process of selecting suitable astronauts two (32) ______are held in two cities around the world. The first application is (33) ______and available to every nationality. This is followed by a further (34) ______rounds and results in the selection of (35) ______teams that then start training. During training they learn how to cope with life in an isolated (36) ______, cultivate (37) ______, and perform ______",
+          "answer": "medical procedures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How will it be possible for people on Mars to contact people on Earth? ______",
+          "answer": "communication satellite",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-64-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What point is reached when the crew start their journey to Mars? ______",
+          "answer": "no return",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Mission to Mars",
+        "text": "2011 Mars One Founded In 2011 Bas Lansdorp and Arno Wielders lay the foundation of the Mars One mission plan. Discussion meetings are held with potential suppliers of aerospace components in the USA, Canada, Italy and United Kingdom. Mission architecture, budgets and timelines are solidified from the feedback of supplier engineers and business developers. A baseline design for a mission of permanent human settlement on Mars achievable with existing technology is the result.\n\n2013 Start Crew Selection In April 2013, the Astronaut Selection Program is launched at press conferences in New York and Shanghai. Round One is an online application open to all nationalities. The selection program proceeds with three additional rounds over the course of two years. At the end of it around six teams of four individuals are selected for training. A new batch of the Astronaut Selection Program begins every year to replenish the training pool regularly. An analogue of the Mars habitat is constructed on Earth for technology testing and training purposes.\n\n2015 Start of Crew Training Selected candidates from the first batch of applicants enter full-time training groups. This training continues until the launch in 2024. The group's ability to deal with prolonged periods of time in a remote location is the most important part of their training. They learn to repair components of the habitat and rover, learn to grow their own food, and train in medical procedures. The first outpost simulation, a Mars-like terrain that is relatively easy to reach is chosen. A second training outpost is located at a more remote environment like the Arctic desert.\n\n2018 Demo and Comsat Mission\n\n(A) Demonstration Mission is launched to Mars in May 2018; it provides proof of concept for some of the technologies that are important for a human mission. A communication satellite is also launched that is placed into a Mars stationary orbit. It enables 24/7 communication between the two planets. It can relay images, videos and other data from the Mars surface.\n\n2020 Rover Mission Launched One intelligent rover and one trailer are launched. The rover can use the trailer to transport the landers to the outpost location. On Mars, the rover drives around the chosen region to find the best location for the settlement. An ideal location for the settlement is far enough north for the soil to contain enough water, equatorial enough for maximum solar power and flat enough to facilitate construction of the settlement. When the settlement location is determined, the rover prepares the surface for arrival of the cargo missions. It also clears large areas where solar panels will lie. A second communications satellite is launched into orbit around the Sun.\n\n2022 Cargo Missions Launched Six cargo missions are launched and two living units, two life support systems, and two supply units are sent to Mars in July 2022. In February 2023 all units land on Mars using a rover signal as a beacon.\n\n2023 Outpost Operational The six cargo units land on Mars, up to 10 km away from the outpost. The rover picks up the first life support unit using the trailer, takes it to the right place, and deploys the thin film solar panel of the life support unit. The rover can now connect to the life support unit to recharge its batteries much faster than using only its own panels, allowing it to do much more work. The rover picks up all the other cargo units and then deploys the thin film solar panel of the second life support unit and the inflatable sections of the living units. The life support unit is connected to the living units by a hose that can transport water, air and electricity. The life support system is now activated. The rover feeds Martian soil into the life support system. Water is extracted from the Martian soil by evaporating the subsurface ice particles in an oven. The evaporated water is condensed back to its liquid state and stored. Part of the water is used for producing oxygen. Nitrogen and argon, filtered from the Martian atmosphere make up the other components of the breathable air inside the habitat.\n\n2024 Departure Crew One In April 2024, the components of the Mars transit vehicle are launched to Earth orbit on receiving the green light on the status of the systems on Mars. First, a transit habitat and a Mars lander with an assembly crew on-board are launched into an orbit around the Earth. The assembly crew docks the Mars lander to the transit habitat. Two propellant stages are launched a month later and are also connected. The first Mars crew, now fully trained, is launched into the same Earth orbit. In orbit the Mars One crew switches places with the assembly crew, who descend back to Earth. Engines of the propellant stages are fired and the transit vehicle is launched on a Mars transit trajectory. This is the point of no return; the crew is now bound to a 210-day flight to Mars."
+      }
+    }
+  ]
+}

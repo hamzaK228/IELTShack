@@ -1,0 +1,710 @@
+{
+  "id": "pte-listening-171",
+  "title": "Listening — Practice Test 171",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-171-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 1. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-171-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 2. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-171-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What did she have inside her briefcase?",
+          "options": [
+            {
+              "id": "A",
+              "text": "wallet, pens and novel"
+            },
+            {
+              "id": "B",
+              "text": "papers and wallet"
+            },
+            {
+              "id": "C",
+              "text": "pens and novel"
+            },
+            {
+              "id": "D",
+              "text": "papers, pen and novel A B C D"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 4. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-171-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What time was it when she lost her briefcase?",
+          "options": [
+            {
+              "id": "A",
+              "text": "5.20"
+            },
+            {
+              "id": "B",
+              "text": "5.25"
+            },
+            {
+              "id": "C",
+              "text": "5.30"
+            },
+            {
+              "id": "D",
+              "text": "5.55"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: Mary ______",
+          "answer": "Prescott",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Flat 2, ______ and (8) Road Canterbury",
+          "answer": "41",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Flat 2, (7) and ______ Road Canterbury",
+          "answer": "fountain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone: ______",
+          "answer": "752239",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Estimated value of lost item: ______ £",
+          "answer": "pound",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "NEWS HEADLINES",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rivers flood in the north"
+            },
+            {
+              "id": "B",
+              "text": "Money promised for drought victims – Example"
+            },
+            {
+              "id": "C",
+              "text": "Nurses on strike in Melbourne"
+            },
+            {
+              "id": "D",
+              "text": "Passengers rescued from ship"
+            },
+            {
+              "id": "E",
+              "text": "Passengers rescued from plane"
+            },
+            {
+              "id": "F",
+              "text": "Bus and train drivers national strike threat"
+            },
+            {
+              "id": "G",
+              "text": "Teachers demand more pay"
+            },
+            {
+              "id": "H",
+              "text": "New uniform for QANTAS staff"
+            },
+            {
+              "id": "I",
+              "text": "National airports under new management"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "NEWS HEADLINES",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rivers flood in the north"
+            },
+            {
+              "id": "B",
+              "text": "Money promised for drought victims – Example"
+            },
+            {
+              "id": "C",
+              "text": "Nurses on strike in Melbourne"
+            },
+            {
+              "id": "D",
+              "text": "Passengers rescued from ship"
+            },
+            {
+              "id": "E",
+              "text": "Passengers rescued from plane"
+            },
+            {
+              "id": "F",
+              "text": "Bus and train drivers national strike threat"
+            },
+            {
+              "id": "G",
+              "text": "Teachers demand more pay"
+            },
+            {
+              "id": "H",
+              "text": "New uniform for QANTAS staff"
+            },
+            {
+              "id": "I",
+              "text": "National airports under new management"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "NEWS HEADLINES",
+          "options": [
+            {
+              "id": "A",
+              "text": "Rivers flood in the north"
+            },
+            {
+              "id": "B",
+              "text": "Money promised for drought victims – Example"
+            },
+            {
+              "id": "C",
+              "text": "Nurses on strike in Melbourne"
+            },
+            {
+              "id": "D",
+              "text": "Passengers rescued from ship"
+            },
+            {
+              "id": "E",
+              "text": "Passengers rescued from plane"
+            },
+            {
+              "id": "F",
+              "text": "Bus and train drivers national strike threat"
+            },
+            {
+              "id": "G",
+              "text": "Teachers demand more pay"
+            },
+            {
+              "id": "H",
+              "text": "New uniform for QANTAS staff"
+            },
+            {
+              "id": "I",
+              "text": "National airports under new management"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Government plans to give ______ $ to assist the farmers. This money was to be spent on improving Sydney's (15) but has now been re-allocated. Australia has experienced its worst drought in over fifty years. Farmers say that the money will not help them because it is (16)",
+          "answer": "$ 250 million",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Government plans to give (14) $ to assist the farmers. This money was to be spent on improving Sydney's ______ but has now been re-allocated. Australia has experienced its worst drought in over fifty years. Farmers say that the money will not help them because it is (16)",
+          "answer": "road system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The Government plans to give (14) $ to assist the farmers. This money was to be spent on improving Sydney's (15) but has now been re-allocated. Australia has experienced its worst drought in over fifty years. Farmers say that the money will not help them because it is ______",
+          "answer": "too late",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "An aeroplane which was carrying a group of ______ was forced to land just (18) minutes after take-off. The passengers were rescued by",
+          "answer": "school children",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "An aeroplane which was carrying a group of (17) was forced to land just ______ minutes after take-off. The passengers were rescued by",
+          "answer": "3",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The operation was helped because of the good weather. The passengers thanked the (20) for saving their lives but unfortunately they lost their (21) ______",
+          "answer": "boats",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(19) The operation was helped because of the good weather. The passengers thanked the ______ for saving their lives but unfortunately they lost their (21)",
+          "answer": "pilot",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(19) The operation was helped because of the good weather. The passengers thanked the (20) for saving their lives but unfortunately they lost their ______",
+          "answer": "instruments",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The orientation meeting",
+          "options": [
+            {
+              "id": "A",
+              "text": "took place recently"
+            },
+            {
+              "id": "B",
+              "text": "took place last term"
+            },
+            {
+              "id": "C",
+              "text": "will take place tomorrow"
+            },
+            {
+              "id": "D",
+              "text": "will take place next week"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Attendance at lectures is",
+          "options": [
+            {
+              "id": "A",
+              "text": "optional after 4 pm"
+            },
+            {
+              "id": "B",
+              "text": "closely monitored"
+            },
+            {
+              "id": "C",
+              "text": "difficult to enforce"
+            },
+            {
+              "id": "D",
+              "text": "sometimes unnecessary"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Tutorials take place",
+          "options": [
+            {
+              "id": "A",
+              "text": "every morning"
+            },
+            {
+              "id": "B",
+              "text": "twice a week"
+            },
+            {
+              "id": "C",
+              "text": "three mornings a week"
+            },
+            {
+              "id": "D",
+              "text": "three afternoons a week"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The lecturer's name is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Roberts"
+            },
+            {
+              "id": "B",
+              "text": "Rawson"
+            },
+            {
+              "id": "C",
+              "text": "Rogers"
+            },
+            {
+              "id": "D",
+              "text": "Robertson"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ for 25 minutes",
+          "answer": "talk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "write up work ______",
+          "answer": "write up work",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Essay Topic: usually ______",
+          "answer": "can choose",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of exam: ______",
+          "answer": "open book",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Library: important books are in ______",
+          "answer": "closed reserve",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Focus of course: focus on ______",
+          "answer": "vocational",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker works within the Faculty of",
+          "options": [
+            {
+              "id": "A",
+              "text": "Science and Technology"
+            },
+            {
+              "id": "B",
+              "text": "Arts and Social Sciences"
+            },
+            {
+              "id": "C",
+              "text": "Architecture"
+            },
+            {
+              "id": "D",
+              "text": "Law"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The faculty consists firstly of",
+          "options": [
+            {
+              "id": "A",
+              "text": "subjects"
+            },
+            {
+              "id": "B",
+              "text": "degrees"
+            },
+            {
+              "id": "C",
+              "text": "divisions"
+            },
+            {
+              "id": "D",
+              "text": "departments"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "and ______",
+          "answer": "history and economics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Students may have problems with ______ and",
+          "answer": "deadlines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The subjects taken in the first semester in this course are psychology, sociology, (34) and • Students may have problems with (35) and ______",
+          "answer": "attendance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker says students can visit her",
+          "options": [
+            {
+              "id": "A",
+              "text": "every morning"
+            },
+            {
+              "id": "B",
+              "text": "some mornings"
+            },
+            {
+              "id": "C",
+              "text": "mornings only"
+            },
+            {
+              "id": "D",
+              "text": "Friday morning"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, a tutorial",
+          "options": [
+            {
+              "id": "A",
+              "text": "is a type of lecture"
+            },
+            {
+              "id": "B",
+              "text": "is less important than a lecture"
+            },
+            {
+              "id": "C",
+              "text": "provides a chance to share views"
+            },
+            {
+              "id": "D",
+              "text": "provides an alternative to groupwork"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When writing essays, the speaker advises the students to",
+          "options": [
+            {
+              "id": "A",
+              "text": "research their work well"
+            },
+            {
+              "id": "B",
+              "text": "name the books they have read"
+            },
+            {
+              "id": "C",
+              "text": "share work with their friends"
+            },
+            {
+              "id": "D",
+              "text": "avoid using other writers’ ideas"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-171-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker thinks that plagiarism is",
+          "options": [
+            {
+              "id": "A",
+              "text": "a common problem"
+            },
+            {
+              "id": "B",
+              "text": "an acceptable risk"
+            },
+            {
+              "id": "C",
+              "text": "a minor concern"
+            },
+            {
+              "id": "D",
+              "text": "a serious offence"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/171_we.mp3"
+    }
+  ]
+}

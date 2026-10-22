@@ -1,0 +1,1087 @@
+{
+  "id": "pte-gt-reading-12",
+  "title": "General Training Reading — Practice Test 12",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: EASTERN ENERGY",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-12-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Customers should inform Eastern Energy of a change of address on arrival at their new home.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Customers are expected to read their own gas or electricity meters.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is now cheaper to use gas rather than electricity as a form of heating.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Eastern Energy supplies energy to households throughout the country.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Energy Efficiency Line also handles queries about energy supply.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All complaints about energy supply should be made by phone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Customers are not charged for the call when they report a fault in supply.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Re-heating"
+            },
+            {
+              "id": "ii",
+              "text": "Foods with skins"
+            },
+            {
+              "id": "iii",
+              "text": "Keeping your oven clean"
+            },
+            {
+              "id": "iv",
+              "text": "Standing time"
+            },
+            {
+              "id": "v",
+              "text": "Rapid cooking times"
+            },
+            {
+              "id": "vi",
+              "text": "Using a thermometer"
+            },
+            {
+              "id": "vii",
+              "text": "Small quantities of food"
+            },
+            {
+              "id": "viii",
+              "text": "Deep fat frying"
+            },
+            {
+              "id": "ix",
+              "text": "Foods low in moisture"
+            },
+            {
+              "id": "x",
+              "text": "Liquids"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "EASTERN ENERGY",
+        "text": "We are here to help and provide you with personal advice on any matters connected with your bill or any other queries regarding your gas and electricity supply.\n\nMoving home Please give as much notice as possible if you are moving home, but at least 48 hours is required for us to make the necessary arrangements for your gas and electricity supply. Please telephone our 24-hour line on 01316 753219 with details of your move. In most cases we are happy to accept your meter reading on the day you move. Tell the new occupant that Eastern Energy supply the household, to ensure the service is not interrupted. Remember we can now supply electricity and gas at your new address, anywhere in the UK. If you do not contact us, you may be held responsible for the payment for electricity used after you have moved.\n\nMeter reading Eastern Energy uses various types of meter ranging from the traditional dial meter to new technology digital display meters. Always read the meter from left to right, ignoring any red dials. If you require assistance, contact our 24-hour line on 0600 7310 310.\n\nEnergy Efficiency Line If you would like advice on the efficient use of energy, please call our Energy Efficiency Line on 0995 7626 513. Please do not use this number for any other enquiries.\n\nSpecial services Passwords – you can choose a password so that, whenever we visit you at home, you will know it is us. For more information, ring our helpline on 0995 7290 290.\n\nHelp and advice If you need help or advice with any issues, please contact us on 01316 440188.\n\nComplaints We hope you will never have a problem or cause to complain, but, if you do, please contact our complaints handling team at PO Box 220, Stanfield, ST55 6GF or telephone us on 01316 753270.\n\nSupply failure If you experience any problems with your electricity supply, please call free on 0600 7838 836,24 hours a day, seven days a week."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: CHOOSING PREMISES FOR A NEW BUSINESS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-12-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some people choose expensive premises because they want to create an impressive______for their company.",
+          "answer": "image",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Businesses which depend on______need to be on or near the principal shopping areas.",
+          "answer": "passing trade",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Businesses which produce goods must check there is______to the premises for delivery vehicles.",
+          "answer": "access",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When choosing a building for your premises, find out whether______could be removed to create more room.",
+          "answer": "walls",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Make sure that the______states what type of building alterations might be permitted.",
+          "answer": "contract",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If business premises are located close to______, extensions may not be allowed.",
+          "answer": "housing",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "CHOOSING PREMISES FOR A NEW BUSINESS",
+        "text": "What you need Three factors dominate the priorities of small businesses looking for premises: cost, cost and cost. Nobody ever has enough money, so there is an overwhelming temptation to go for the cheapest property. It is a mistake that can take decades to rectify – and even threaten the future of a promising business. Ironically some firms swing too far in the other direction, committing themselves to a heavy initial outlay because they believe in the importance of image – and that does not come cheap. Finding the right premises is the real secret. That can, and will, vary enormously according to the type of business. But there are some general rules that apply to any operation.\n\nLocation High street premises are important for shops which rely on passing trade – but these are expensive. Rents fall quickly within a few metres of main roads. Offices, however, need not be located centrally, particularly if most business is done on the phone or via email. Manufacturing and storage relies heavily on access. Think about how vans and lorries will deliver and collect goods from the premises. Nearby parking can be important for staff, and public transport can be even more so, as traffic restrictions tighten.\n\nSize This is a crucial decision. Health and Safety laws provide basic guidance on how much room is required per office desk or manufacturing operation. But remember to allow for growth.\n\nGrowth Every small business aims to become a big business, but this prospect can be obstructed if the wrong decisions are made early on. It is important to consider flexibility from the start. Can a building be physically altered internally by knocking down walls or by extending outwards or adding extra floors? Is there spare land next door to expand later if necessary? Landlords obviously have to agree to any changes so it is important that the contract includes details of what will be allowed and how much extra will be charged on top of the costs of rebuilding or alteration. Planning rules must also be considered. Local authorities are not always open to discussion about the future of premises. They may have rigid rules about increasing density of development. The building may be in a conservation area or near housing, in which case it will be much more difficult to consider changes. 15 Some people choose expensive premises because they want to create an impressive……………for their company. 16 Businesses which depend on………………..need to be on or near the principal shopping areas. 17 Businesses which produce goods must check there is……………………to the premises for delivery vehicles. 18 When choosing a building for your premises, find out whether………………could be removed to create more room. 19 Make sure that the………………….states what type of building alterations might be permitted. 20 If business premises are located close to………………, extensions may not be allowed.\n\nRead the text below and answer Question 21-27"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: CALIFORNIA STATE COLLEGE WORKING CONDITIONS AND BENEFITS FOR EMPLOYEES",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-12-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where do most employees collect their wages? ______",
+          "answer": "their department",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who has to authorise any overtime an employee wishes to do? ______",
+          "answer": "(the) supervisor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who is not paid extra for working more than 40 hours a week? ______",
+          "answer": "exempt employees",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where should employees go if they wish to have the parking charge taken off their salary? ______",
+          "answer": "Human Resources",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What method is used to calculate part-time employees' holidays? ______",
+          "answer": "(a) prorated system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which documents must employees fill in to select their Personal Holiday? ______",
+          "answer": "leave request forms",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the name of the special entitlement provided to employees with birthdays in the second half of December? ______",
+          "answer": "(a) grace period",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "CALIFORNIA STATE COLLEGE WORKING CONDITIONS AND BENEFITS FOR EMPLOYEES",
+        "text": "Payday Employees are paid every other Friday. If Friday is a holiday, payday will be the following Monday. Generally employees pick up the pay checks in their department if not they may be picked up at the Business Office.\n\nOvertime All time worked over eight hours in one day and forty hours in a workweek, and also the first eight hours worked on the seventh day of work in a workweek is considered overtime for non-exempt employees. The supervisor must approve all overtime before overtime occurs. Hours in excess of eight hours on the seventh day and in excess of twelve hours in one day will be paid at double time. Exempt employees receive no additional compensation for overtime hours.\n\nParking All employees who will be parking in a staff parking zone must obtain a parking permit. A monthly pre-tax payroll deduction can be made by visiting Human Resources. If you wish to pay cash, present your staff I.D. and license number to the Cashier's Office.The Safety Department will ticket cars without a parking permit and a fine will be applied.\n\nI.D. Card All employees are required to carry an I.D. card. If an employee loses his/her card, there will be an automatic charge of $5.00 to issue a duplicate. If an employee gives up employment, his/her I.D. card must be returned prior to release of final paycheck.\n\nHolidays All regular and temporary full-time employees generally receive approximately 13 paid holidays during the course of each calendar year Regular part-time employees will receive holiday benefits worked out using a prorated system.The holiday schedule is initiated annually\n\nPersonal Holiday Each employee is granted one extra day as a Personal Holiday at the time of hire, and at the beginning of each calendar year Personal Holiday hours must be taken at one time (eight hours full-time or prorated based on the employee's time). Employees requesting Personal Holiday will be required to complete 'Leave Request' forms. No more than one Personal Holiday is authorized annually\n\nBirthday Holiday All regular and temporary full-time or part-time employees are entitled to take their birthday off with pay. An employee has a fifteen-day span before and following his/her birthday to take the paid day off. What is known as a grace period through January 15th is given to those employees whose birthdays fall between December 16th and end of the year."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Text 5",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-12-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The drugs in the suitcase",
+          "options": [
+            {
+              "id": "A",
+              "text": "were hidden inside the lining."
+            },
+            {
+              "id": "B",
+              "text": "had pepper and coffee around them."
+            },
+            {
+              "id": "C",
+              "text": "had previously been frozen."
+            },
+            {
+              "id": "D",
+              "text": "had a special smell to repel dogs."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Most dogs are not good at finding drugs because",
+          "options": [
+            {
+              "id": "A",
+              "text": "they don’t work well with a handler."
+            },
+            {
+              "id": "B",
+              "text": "they lack the right training."
+            },
+            {
+              "id": "C",
+              "text": "the drugs are usually very well hidden."
+            },
+            {
+              "id": "D",
+              "text": "they lack certain genetic qualities."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Florence is a good drug detector because she",
+          "options": [
+            {
+              "id": "A",
+              "text": "has a better sense of smell than other dogs."
+            },
+            {
+              "id": "B",
+              "text": "is not easily distracted."
+            },
+            {
+              "id": "C",
+              "text": "has been specially trained to work at airports."
+            },
+            {
+              "id": "D",
+              "text": "enjoys what she is doing."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Dogs like Florence may help scientists understand",
+          "options": [
+            {
+              "id": "A",
+              "text": "how human and dog brains differ."
+            },
+            {
+              "id": "B",
+              "text": "how people can use both sides of their brain."
+            },
+            {
+              "id": "C",
+              "text": "why some people have difficulty paying attention."
+            },
+            {
+              "id": "D",
+              "text": "the best way for people to maintain their focus."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In 1993, the Australian Customs",
+          "options": [
+            {
+              "id": "A",
+              "text": "decided to use its own dogs again."
+            },
+            {
+              "id": "B",
+              "text": "was successful in finding detector dogs."
+            },
+            {
+              "id": "C",
+              "text": "changed the way it obtained dogs."
+            },
+            {
+              "id": "D",
+              "text": "asked private breeders to provide more dogs."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer mentions a number of important qualities that detector dogs must have. Which FOUR of the following qualities are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a good relationship with people"
+            },
+            {
+              "id": "B",
+              "text": "a willingness to work in smelly conditions"
+            },
+            {
+              "id": "C",
+              "text": "quick reflexes"
+            },
+            {
+              "id": "D",
+              "text": "an ability to work in noisy conditions"
+            },
+            {
+              "id": "E",
+              "text": "an ability to maintain concentration"
+            },
+            {
+              "id": "F",
+              "text": "a willingness to work without constant encouragement"
+            },
+            {
+              "id": "G",
+              "text": "the skill to find things in long grass"
+            },
+            {
+              "id": "H",
+              "text": "experience as hunters"
+            },
+            {
+              "id": "I",
+              "text": "a desire for people's approval"
+            },
+            {
+              "id": "J",
+              "text": "the ability to search a large number of places rapidly"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer mentions a number of important qualities that detector dogs must have. Which FOUR of the following qualities are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a good relationship with people"
+            },
+            {
+              "id": "B",
+              "text": "a willingness to work in smelly conditions"
+            },
+            {
+              "id": "C",
+              "text": "quick reflexes"
+            },
+            {
+              "id": "D",
+              "text": "an ability to work in noisy conditions"
+            },
+            {
+              "id": "E",
+              "text": "an ability to maintain concentration"
+            },
+            {
+              "id": "F",
+              "text": "a willingness to work without constant encouragement"
+            },
+            {
+              "id": "G",
+              "text": "the skill to find things in long grass"
+            },
+            {
+              "id": "H",
+              "text": "experience as hunters"
+            },
+            {
+              "id": "I",
+              "text": "a desire for people's approval"
+            },
+            {
+              "id": "J",
+              "text": "the ability to search a large number of places rapidly"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer mentions a number of important qualities that detector dogs must have. Which FOUR of the following qualities are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a good relationship with people"
+            },
+            {
+              "id": "B",
+              "text": "a willingness to work in smelly conditions"
+            },
+            {
+              "id": "C",
+              "text": "quick reflexes"
+            },
+            {
+              "id": "D",
+              "text": "an ability to work in noisy conditions"
+            },
+            {
+              "id": "E",
+              "text": "an ability to maintain concentration"
+            },
+            {
+              "id": "F",
+              "text": "a willingness to work without constant encouragement"
+            },
+            {
+              "id": "G",
+              "text": "the skill to find things in long grass"
+            },
+            {
+              "id": "H",
+              "text": "experience as hunters"
+            },
+            {
+              "id": "I",
+              "text": "a desire for people's approval"
+            },
+            {
+              "id": "J",
+              "text": "the ability to search a large number of places rapidly"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer mentions a number of important qualities that detector dogs must have. Which FOUR of the following qualities are mentioned by the writer of the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a good relationship with people"
+            },
+            {
+              "id": "B",
+              "text": "a willingness to work in smelly conditions"
+            },
+            {
+              "id": "C",
+              "text": "quick reflexes"
+            },
+            {
+              "id": "D",
+              "text": "an ability to work in noisy conditions"
+            },
+            {
+              "id": "E",
+              "text": "an ability to maintain concentration"
+            },
+            {
+              "id": "F",
+              "text": "a willingness to work without constant encouragement"
+            },
+            {
+              "id": "G",
+              "text": "the skill to find things in long grass"
+            },
+            {
+              "id": "H",
+              "text": "experience as hunters"
+            },
+            {
+              "id": "I",
+              "text": "a desire for people's approval"
+            },
+            {
+              "id": "J",
+              "text": "the ability to search a large number of places rapidly"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Methods of determining if a child has ADHD are now widely accepted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "After about five minutes of a vigilance test, some subjects will still notice some blips.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Vigilance tests help improve concentration.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-12-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If a few grams of a drug are well concealed, even the best dogs will miss them.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Text 5",
+        "text": "(A) Very Special Dog\n\nFlorence is one of a new breed of dog who is making the work of\n\nthe Australian Customs much easier It is 8.15 a.m. A flight lands at Melbourne's Tullamarine International Airport. Several hundred pieces of baggage are rushed from the plane onto a conveyor belt in the baggage reclaim annexe. Over the sound of roaring engines, rushing air vents and grinding generators, a dog barks. Florence, a sleek black labrador, wags her tail. Among the cavalcade of luggage passing beneath Florence's all-smelling nose, is a nondescript hardback suitcase. Inside the case, within styrofoam casing, packed in loose pepper and coffee, wrapped in freezer paper and heat-sealed in plastic, are 18 kilograms of hashish. The cleverly concealed drugs don't fool super-sniffer Florence, and her persistent scratching at the case alerts her handler. Florence is one of a truly new breed: the product of what is perhaps the only project in the world dedicated to breeding dogs solely to detect drugs. Ordinary dogs have a 0.1% chance of making it in drug detection. The new breeding programme, run by the Australian Customs, is so successful that more than 50% of its dogs make the grade. And what began as a wholly practical exercise in keeping illegal drugs out of Australia may end up playing a role in an entirely different sphere – the comparatively esoteric world of neurobiology. It turns out that it's not Florence's nose that makes her a top drug dog, but her unswerving concentration, plus a few other essential traits. Florence could help neurobiologists to understand both what they call 'attention processing', the brain mechanisms that determine what a person pays attention to and for how long, and its flip side, problems such as Attention Deficit/Hyperactivity Disorder (ADHD). As many as 3 to 5% of children are thought to suffer from the condition in the US, where the incidence is highest, although diagnosis is often controversial.\n\nThe Australian Customs has used dogs to find drugs since 1969. Traditionally, the animals came from pounds and private breeders. But, in 1993, fed up with the poor success rate of finding good dogs this way, John Vandeloo, senior instructor with the Detector Dog Unit, joined forces with Kath Champness, then a doctoral student at the University of Melbourne, and set up a breeding programme. Champness began by defining six essential traits that make a detector dog. First, every good detector dog must love praise because this is the only tool trainers have at their disposal, but the dog must still be able to work for long periods without it. Then it needs a strong hunting instinct and the stamina to keep sniffing at the taxing rate of around 300 times per minute. The ideal detector is also fearless enough to deal with jam-packed airport crowds and the roaring engine rooms of cargo ships. The remaining two traits are closely related and cognitive in nature. A good detector must be capable of focusing on the task of searching for drugs, despite the distractions in any airport or dockside. This is what neurobiologists call 'selective attention'. And finally, with potentially tens of thousands of hiding places for drugs, the dog must persevere and maintain focus for hours at a time. Neurobiologists call this 'sustained attention'. Vandeloo and Champness assess the dogs' abilities to concentrate by marking them on a scale of between one and five according to how well they remain focused on a toy tossed into a patch of grass. Ivan scores a feeble one. He follows the toy, gets half-way there, then becomes distracted by places where the other dogs have been or by flowers in the paddock. Rowena, on the other hand, has phenomenal concentration; some might even consider her obsessive. When Vandeloo tosses the toy, nothing can distract her from the searching, not other dogs, not food. And even if no one is around to encourage her, she keeps looking just the same. Rowena gets a five.\n\n(A) person's ability to pay attention, like a dog's, depends on a number of overlapping cognitive behaviours, including memory and learning – the neurobiologist's attention processing. Attention in humans can be tested by asking subjects to spot colours on a screen while ignoring shapes, or to spot sounds while ignoring visual cues, or to take a 'vigilance test'. Sitting a vigilance test is like being a military radar operator. Blips appear on a cluttered monitor infrequently and at irregular intervals. Rapid detection of all blips earns a high score. Five minutes into the test, one in ten subjects will start to miss the majority of the blips, one in ten will still be able to spot nearly all of them and the rest will come somewhere in between. Vigilance tasks provide signals that are infrequent and unpredictable – which is exactly what is expected of the dogs when they are asked to notice just a few odour molecules in the air, and then to home in on the source. During a routine mail screen that can take hours, the dogs stay so focused that not even a postcard lined with 0.5 grams of heroin and hidden in a bulging sack of letters escapes detection. With the current interest in attentional processing, as well as human conditions that have an attention deficit component, such as ADHD, it is predicted that it is only a matter of time before the super-sniffer dogs attract the attention of neurobiologists trying to cure these conditions."
+      }
+    }
+  ]
+}

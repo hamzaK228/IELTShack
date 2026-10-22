@@ -1,0 +1,844 @@
+{
+  "id": "pte-listening-96",
+  "title": "Listening — Practice Test 96",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-96-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day of week: ______",
+          "answer": "saturday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Room needed for: 7.30 pm until ______",
+          "answer": "11.30 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of event: ______",
+          "answer": "(music) concert",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of guests: 60 including some ______ guests",
+          "answer": "disabled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Catering requirements: ______ and drinks",
+          "answer": "sandwiches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Equipment required: ______",
+          "answer": "piano",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Transport arrangements: travel by ______",
+          "answer": "coach",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Total cost: ______ £",
+          "answer": "225",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: Rob ______",
+          "answer": "JEZOWSKI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phone: ______",
+          "answer": "07232855496",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "wet processing by machine",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "machine drying",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "natural drying",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "polishing",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "sorting by size",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "sorting by color",
+          "options": [
+            {
+              "id": "A",
+              "text": "needs additional staff"
+            },
+            {
+              "id": "B",
+              "text": "separates beans for different purposes"
+            },
+            {
+              "id": "C",
+              "text": "is an unnecessary step"
+            },
+            {
+              "id": "D",
+              "text": "is more expensive"
+            },
+            {
+              "id": "E",
+              "text": "increases flavor"
+            },
+            {
+              "id": "F",
+              "text": "is less polluting"
+            },
+            {
+              "id": "G",
+              "text": "uses less space"
+            },
+            {
+              "id": "H",
+              "text": "required special skills"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO areas of the building are not part of the tour?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the tasting room"
+            },
+            {
+              "id": "B",
+              "text": "the shop"
+            },
+            {
+              "id": "C",
+              "text": "the staff canteen"
+            },
+            {
+              "id": "D",
+              "text": "the visitor centre"
+            },
+            {
+              "id": "E",
+              "text": "the reception area"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO areas of the building are not part of the tour?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the tasting room"
+            },
+            {
+              "id": "B",
+              "text": "the shop"
+            },
+            {
+              "id": "C",
+              "text": "the staff canteen"
+            },
+            {
+              "id": "D",
+              "text": "the visitor centre"
+            },
+            {
+              "id": "E",
+              "text": "the reception area"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things will each member of staff be provided with?",
+          "options": [
+            {
+              "id": "A",
+              "text": "protective shoes"
+            },
+            {
+              "id": "B",
+              "text": "a name badge"
+            },
+            {
+              "id": "C",
+              "text": "a cap"
+            },
+            {
+              "id": "D",
+              "text": "gloves"
+            },
+            {
+              "id": "E",
+              "text": "pen and notebook"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things will each member of staff be provided with?",
+          "options": [
+            {
+              "id": "A",
+              "text": "protective shoes"
+            },
+            {
+              "id": "B",
+              "text": "a name badge"
+            },
+            {
+              "id": "C",
+              "text": "a cap"
+            },
+            {
+              "id": "D",
+              "text": "gloves"
+            },
+            {
+              "id": "E",
+              "text": "pen and notebook"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What gives Tim the idea for his dissertation proposal?",
+          "options": [
+            {
+              "id": "A",
+              "text": "his grandmother asked him to record her language"
+            },
+            {
+              "id": "B",
+              "text": "he heard about a linguistic project he wanted to join"
+            },
+            {
+              "id": "C",
+              "text": "he learned about conserving languages on his course"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When talking about the impact of technology, Tim",
+          "options": [
+            {
+              "id": "A",
+              "text": "points out a problem caused by its spread"
+            },
+            {
+              "id": "B",
+              "text": "explains how it can be used to conserve language"
+            },
+            {
+              "id": "C",
+              "text": "emphasizes its importance for communication"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Tim and his tutor decide that in the introduction to his dissertation he should discuss",
+          "options": [
+            {
+              "id": "A",
+              "text": "the impact of media on language"
+            },
+            {
+              "id": "B",
+              "text": "how globalization has helped remote communities"
+            },
+            {
+              "id": "C",
+              "text": "the reasons why he talks to his grandmother in English"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Tim say about documenting dying languages?",
+          "options": [
+            {
+              "id": "A",
+              "text": "he believes writing a language down stops it from falling out of use"
+            },
+            {
+              "id": "B",
+              "text": "he sees little point in trying to revive languages that are already dead"
+            },
+            {
+              "id": "C",
+              "text": "he is unconvinced that his grandmother’s language can be saved"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Tim's tutor explains to him that recording minority languages is",
+          "options": [
+            {
+              "id": "A",
+              "text": "something that schoolchildren can be involved in"
+            },
+            {
+              "id": "B",
+              "text": "a way to allow future generations to experience them"
+            },
+            {
+              "id": "C",
+              "text": "a useful tool for training language teachers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When talking about language and culture Tim",
+          "options": [
+            {
+              "id": "A",
+              "text": "highlights why family traditions are important to him"
+            },
+            {
+              "id": "B",
+              "text": "describes how the two subjects are linked together"
+            },
+            {
+              "id": "C",
+              "text": "expresses a desire to learn about his family’s customs"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO areas of language does the tutor recommend Tim to focus on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "written language"
+            },
+            {
+              "id": "B",
+              "text": "context of speech"
+            },
+            {
+              "id": "C",
+              "text": "translations of written samples"
+            },
+            {
+              "id": "D",
+              "text": "vocabulary items"
+            },
+            {
+              "id": "E",
+              "text": "grammar points"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO areas of language does the tutor recommend Tim to focus on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "written language"
+            },
+            {
+              "id": "B",
+              "text": "context of speech"
+            },
+            {
+              "id": "C",
+              "text": "translations of written samples"
+            },
+            {
+              "id": "D",
+              "text": "vocabulary items"
+            },
+            {
+              "id": "E",
+              "text": "grammar points"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO approaches to recording do Tim and his tutor decide he should take?",
+          "options": [
+            {
+              "id": "A",
+              "text": "covering as much as possible"
+            },
+            {
+              "id": "B",
+              "text": "doing several recording sessions"
+            },
+            {
+              "id": "C",
+              "text": "keeping a record of times and places"
+            },
+            {
+              "id": "D",
+              "text": "writing things down immediately"
+            },
+            {
+              "id": "E",
+              "text": "waiting a few days before listening back to it"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO approaches to recording do Tim and his tutor decide he should take?",
+          "options": [
+            {
+              "id": "A",
+              "text": "covering as much as possible"
+            },
+            {
+              "id": "B",
+              "text": "doing several recording sessions"
+            },
+            {
+              "id": "C",
+              "text": "keeping a record of times and places"
+            },
+            {
+              "id": "D",
+              "text": "writing things down immediately"
+            },
+            {
+              "id": "E",
+              "text": "waiting a few days before listening back to it"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Humans first started tracking time",
+          "options": [
+            {
+              "id": "A",
+              "text": "30,000 years ago"
+            },
+            {
+              "id": "B",
+              "text": "25,000 years ago"
+            },
+            {
+              "id": "C",
+              "text": "5,000 years ago"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Horizon tracking involved recording",
+          "options": [
+            {
+              "id": "A",
+              "text": "where the sun rose and set"
+            },
+            {
+              "id": "B",
+              "text": "the times of sunrise and sunset"
+            },
+            {
+              "id": "C",
+              "text": "the length of the shortest day"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Time measurement improved when",
+          "options": [
+            {
+              "id": "A",
+              "text": "trees were planted on hill tops"
+            },
+            {
+              "id": "B",
+              "text": "special constructions were erected"
+            },
+            {
+              "id": "C",
+              "text": "people began living in larger groups"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The first clocks worked by making a small hole in a and allowing water to drip out. ______",
+          "answer": "bucket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sundials measured time by noting where the sun's shadow fell on the marked on the dial. ______",
+          "answer": "lines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Workers in China and Japan changed activities when the of the incense changed. ______",
+          "answer": "smell",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What object made the wheels of a mechanical clock go round? ______",
+          "answer": "weight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What invention created a problem with communities having different times? ______",
+          "answer": "railways",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In which year was a time system for England nationally agreed? ______",
+          "answer": "1847",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-96-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Which building in Greenwich was chosen as the point from which to measure time? ______",
+          "answer": "observatory",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/96_we.mp3"
+    }
+  ]
+}

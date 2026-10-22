@@ -1,0 +1,683 @@
+{
+  "id": "pte-gt-reading-110",
+  "title": "General Training Reading — Practice Test 110",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: outdoor activities for all the family",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "running in the evening ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "seeing newborn animals ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "parents and children doing different activities at the same time ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "choosing from alternative routes ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "learning about how other people help animals ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "an event occurring only at a centre time of the year ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "identifying where animals have been ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "outdoor activities for all the family",
+        "text": "(A) Perry Forest – Our walks cater for all ages and all degrees of fitness, and are suitable for children as well as adults. Every Saturday and Sunday throughout the year our experts lead several walks. So whether you want a short stroll on level ground or a more challenging walk to the top of Shepherds Hill we have something for you.\n\n(B) Pugsley Beach Nature Reserve – The reserve has plenty of wildlife whatever the time of year with its numerous species of birds and plants that grow hardly anywhere else but the autumn is when hundreds of grey seals arrive on the beach to have their young. The covered viewing area offers spectacular close up views of all this and hot drinks and snacks are available to help you keep warm.\n\n(C) Marston Hill – If you ever wonder what wildlife trusts do for the environment come to Marston Hall where our rangers will show you how they manage wildlife habitats from providing feeding boxes for squirrels to creating ponds for frogs and many other creatures. They'll also take you on a short walk through the ancient pine forest in search of animal tracks ang signs.\n\n(D) Craven Discovery Centre – Here at the discovery centre youngsters are introduced to the animals in our petting zoo where they can stroke or feed the sheep, rabbits, ponies and other residents. Then they're taken on a walk through the wood. Meanwhile the adults can take part in our of our woodland activities such as learning basic woodworking skills.\n\n(E) Shelford Family Wild Outing – Go birdwatching or catch insects as daylight fades then have a gentle job along the River Wale by moonlight and end by toasting marshmallows on a campfire. It's all part of a Family Wild Outing in Shelford organised by the local wildlife trust. Ideal for both adults and children.\n\n(F) Garston Park – Come to Garston Park when the sun has set and explore the solar system. Ideal for children and their parents who are interested in astronomy. Our experts will help you to find your way among the stars and then we gather in the visitor centre for refreshments. Please note that events are cancelled if the weather is cloudy."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: hinchingbrooke school sixth form",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some sixth form students intend to start work immediately after leaving school.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "An increasing number of students are accepted at medical school.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most sixth form students come from other schools.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "External applicants have an interview before they can be accepted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Applications to the sixth form can only be made through MyChoice16 website.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "External applicants can talk to current students at the open evening.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students meet their tutor whenever one of them requests a meeting.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "hinchingbrooke school sixth form",
+        "text": "Hinchingbrooke School consists of the lower school for students aged 11 to 16 and the sixth form for ages 16 to 18+. In the sixth form we provide a strong programme of guidance for students whether they are planning on going to university into training or straight into the workplace. We have a high rate of success with applications to universities including growing success in recent years for medical school applicants. While the majority of sixth form students enter from the lower school, recent significant expansion of the sixth form is largely the result of an increase in applicants from other schools in the area. We pride ourselves on giving these external students a particularly warm welcome. We welcome your interest in joining our sixth form and look forward to offering you a place if you satisfy our minimum entry requirements. If you are an internal student please apply through the MyChoice16 application system. This is also where external students need to view course information. If you are an external student whose current school does use this application for online applications please see our website for an application form to the school. We hold an annual open evening in the autumn term when you can come and view our facilities and ask any questions you may have. Care, guidance and support in the sixth form at Hinchingbrooke is something of which we are very proud of and each of our students is treated as an individual. You will be assigned a professional sixth form tutor who will provide you with support and guidance and will responsible for helping you make sensible choices about your future career path. You will meet with your tutor at a fixed time every fortnight to discuss progress and any concerns you or your subject teachers may have about your effort and achievement. You will also set targets for yourself in agreement with your tutor and subject teachers and your progress towards achieving these targets will be monitored in your tutor meetings."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: tree cutters at work",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– Chainsaws, clothing and all ______ are then loaded onto the lorry",
+          "answer": "Tools",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The team talk briefly at the site about the overall ______ before the work begins",
+          "answer": "Procedure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– The climber's anchor point must have the necessary height and ______ for the job",
+          "answer": "Strength",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– A pulley and some ______ assist in the removal of the top branches",
+          "answer": "Rope",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– At this point signs are placed on the ______",
+          "answer": "Footpath",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– For safety the actions of both the tree cutter and ______ must be regularly checked",
+          "answer": "Pedestrians",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– A special machine creates ______ out of some of the wood",
+          "answer": "Chippings",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "tree cutters at work",
+        "text": "Today the tree cutting team consists of myself, Gary and Mikael. We are going to cut down a tall tree that is inside the boundary of a busy timer yard. It's Saturday not a working day for the yard and it is far easier to remove a tree when no one else is around. As supervisor I first pop into our office to sort out the paperwork for the day which includes the risk assessments. Then I look at the most up to date weather forecast as wind and rain make our job much more difficult. Luckily we have picked a good day. Next we load up the equipment – things like petrol driven chainsaws of varying sizes, helmets and waterproofs, spades, rakes and other tools etc. must all go on the truck before the three of us set off. On arrival at the site we have a quick discussion on the procedure for the day. After that one of – today it's Gary – goes up the tree to quickly select his anchor point. This is the position from which he will cut down the tree. It must be high enough to enable access throughout the tree's branches but also have sufficient strength to support the climber. The first few big branches can be cut from the tree in large pieces and dropped into the yard so we make good progress during the morning and start our wood pile there. Having removed the more accessible branches we have lunch and then set up a simple system to reach the smaller upper branches. This involves placing a pulley in the tree and using thick rope to drag the branches down. When they are cut these will fall further away outside the boundary of the yard. On the other side of the perimeter fence is a wide grass verge and then a footpath where I set up a number of signs to alert the public to our activities. Working alongside a road requires vigilance so I monitor the movements of pedestrians and as Gary starts work I watch what he is doing so it can ensure safety. Once the branches are on the ground I throw them back over the fence to Mikael who cuts them up and feeds the machine that dices them into very small pieces called woo chippings."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: plumbing skills",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Residential– working underfloor in a ______area",
+          "answer": "Narrow",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– always use the appropriate ______for each tool",
+          "answer": "Cutting chart",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– consider how different ______will be affected",
+          "answer": "Tradespeople",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– take images of structures to locate important materials like ______",
+          "answer": "(reinforcing) steel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– providing quick ______solutions– deals well with people who have a lot of (27) ______or disruption as a result of their problems",
+          "answer": "Cost-effective",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– providing quick (26) ______solutions– deals well with people who have a lot of ______or disruption as a result of their problems",
+          "answer": "Inconvenience",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "plumbing skills",
+        "text": "In a residential building such as a block of flats, underfloor jobs that involve plumbing mechanical and electrical systems are common. They may need to take place in a narrow space that is often only about 35 cm deep. In addition the floors are typically covered with a wood product, engineered to resemble solid wood that has very strict criteria as far as drilling and cutting are concerned. The plumber cannot just go in and cut holes and lay pipes. He must first think about what he is doing read and understand the cutting chart that accompanies each of his tools and visualise how his work will impact on other tradespeople before proceeding. Commercial plumbers working on office buildings, hotels, restaurants etc. have the same issues and coordination problems as residential plumbers but often have to install equipment that is more sophisticated. This is because it forms part of integrated systems where mechanical work and plumbing work are combined. The equipment will have specific installation instructions so it is critical that the plumber has the cognitive ability to understand these. In addition often the structures are complex, and the floors and walls must be X-rayed prior to drilling to order to avoid hitting key elements such as reinforcing steel. Service plumbers go in where others have been and often face situations where they must troubleshoot various possible causes of a plumbing problem. In order to do this effectively they must have complete knowledge of say a customer's shower until they are servicing even if they did not install it. They must have the ability to translate the symptoms they can see such as leaks and blockages into the actual problem and then take the appropriate action to rectify the issue in a fast and cost effective way. Often service plumbers encounter residential or commercial customers who are either facing great inconvenience or have had their operations severely disrupted because of a plumbing issue. Successful service plumbers not only need good mechanical skills but they typically need very good people skills to provide necessary support."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: why it is important to save species like the dormouse",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It was necessary to do some preparation before the 40 dormice could be released in Wensleydale. First members of PTES has to choose a suitable wooded area for them. Then ______ gave them a thorough check. The team divided the animals into (29) ______ before introducing them to their temporary tree homes. These were boxes which were enclosed by cages. Initially the dormice could not get out but the team brought (30) ______ on a regular basis.",
+          "answer": "Vets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It was necessary to do some preparation before the 40 dormice could be released in Wensleydale. First members of PTES has to choose a suitable wooded area for them. Then (28) ______ gave them a thorough check. The team divided the animals into ______ before introducing them to their temporary tree homes. These were boxes which were enclosed by cages. Initially the dormice could not get out but the team brought (30) ______ on a regular basis.",
+          "answer": "Pairs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It was necessary to do some preparation before the 40 dormice could be released in Wensleydale. First members of PTES has to choose a suitable wooded area for them. Then (28) ______ gave them a thorough check. The team divided the animals into (29) ______ before introducing them to their temporary tree homes. These were boxes which were enclosed by cages. Initially the dormice could not get out but the team brought ______ on a regular basis.",
+          "answer": "Food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Once the dormice got used to their new environment a gap was cut in the netting so they could go out and return when they wanted. Then before the animals were ready to start their annual ______ in the autumn, the team took their temporary homes away; they intended to return and review the success of the project next year.",
+          "answer": "Hibernation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "why it is important to save species like the dormouse",
+        "text": "More than 100 years after they were last recorded by naturalists in the Wensleydale valley in northern England rare dormice have returned to a secret woodland location there. Twenty breeding pairs of rare hazel dormice were recently reintroduced as part of a national scheme to reverse the decline of one of Britain's most threatened mammals. This reintroduction led by the People's Trust for Endangered Species (PTES) and supported by a coalition of conservation groups is the 22nd in the last 23 years. Dormice depend on well managed woodlands and healthy connected hedgerows for their survival. But changes in land use since the 1940s have been so dramatic that the dormice that remain have limited living space and are increasingly isolated. Ahead of the release the PTES found a site of dense good quality woodland while the captive bred dormice waited in quarantine. After examination by vets the dormice were placed in their soft release accommodation in pairs. This consisted of secure wooden boxes fitted to trees and surrounded by a meter square cage. For 10 days the dormice were checked and given food daily then a small opening was made allowing them the freedom to explore while retaining the security of the cage. Everything was removed in October when the animals started preparing to go into hibernation for the winter. 'The hope is that we have a free living population in the wood but we won't know how they have fared until next year' said Ian White of the PTES. Unsuitable habitat, captive bred animals and incorrect management could all ruin the chances of success of such schemes. However a distinctive factor of this release White explained is the intention of linking up with another released dormouse population 3 miles away by managing the land between. The goal is to create a wider landscape for dormice and that will make the population more robust. Woodlands were traditionally managed through regularly cutting back certain trees to ground level to stimulate growth and provide firewood or timber for local residents. This system was known as coppicing, and as an added bonus it happened to provide varied food and plenty of light for dormice. But the practice has been largely lost with much remaining woodland sliced up by roads railways and fields. England also had more than 50% of its hedgerows dug up between 1946 and 1993 as small fields were combined to make larger ones and farmland was sold for building projects. All this has had an adverse effect on dormouse populations. 'It's very important that we reintroduce the dormouse because they are a good species to get people involved with conservation,' said White. 'They are a fascinating species that is rare but you can still see. They promote good woodland management and what's good for dormice is good for a large range of species.' Helen Meech the director of Rewilding Britain, an organisation campaigning to restore lost species and habitats to the British countryside said that such reintroductions would increase people's familiarity with living with more wild animals once again. People's everyday wildlife experience is becoming limited to seeing grey squirrels and pigeons she explained. 'We are increasingly disconnected from nature. In 30 to 40 years' time we might get to the point where we can start to think about bringing back wolves, bison or moose but let's start with species that will have a lighter impact for now.' Over centuries, Britain has lost many key species that are critical for healthy ecosystems. Here are some of the species conservationists have reintroduced or are proposing to reintroduce. The lynx is believed to have disappeared from Britain about 1000 year ago. Experts say it would help control the fast growing population of red deer allowing forests to regenerate and support greater biodiversity. The preference of the lynx a shy animal to stay in its woodland habitat would make a threat to livestock of humans unlikely. After an absence of 400 years beavers are back in Britain. The Devon Beaver project cites improvements in biodiversity and water after the reintroduction of a pair near Okehampton in 2011. Scotland's first reintroduction in Knapdale forest in 2009 was hailed an outstanding success but an unlicensed free living population in the river Tay has caused problems. Lost to Britain in the 1700s the wolf is the most controversial species proposed for reintroduction given its potential to kill agricultural livestock. But they are critical to the restoration of ecosystems that have been overgrazed by deer. Despite their fearsome reputation they present a low risk to people. Because of the space a wolf population would need the Scottish Highlands would be an obvious place for their reintroduction and could generate millions of pounds in tourism. The sea eagle also known as the white tailed eagle was driven to extinction in Britain earlier this century. A reintroduction programme has seen it return to the Inner Hebrides island of Mull. Proposals to bring it back to the east of England failed following concerns from landowners about the threat to livestock. Successful schemes in Europe have offered compensation for this. Then there is the wild boar which disappeared in the 13th century because of hunting. They increase biodiversity and create space for trees and plants to grow but can cause damage to crops and gardens. The species has been quietly re-establishing itself in the woodlands of Britain for several decades."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: The procedure for the dormouse reintroduction in Wensleydale",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-110-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Ian White says that one aim of releasing 40 dormice in Wensleydale is to",
+          "options": [
+            {
+              "id": "A",
+              "text": "allow the public to observe the animals in the future"
+            },
+            {
+              "id": "B",
+              "text": "test whether the area is sufficient for a large group"
+            },
+            {
+              "id": "C",
+              "text": "experiment with new methods of caring for them"
+            },
+            {
+              "id": "D",
+              "text": "get the group to mix with others that live nearby"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Coppicing is mentioned in the fourth paragraph as an example of",
+          "options": [
+            {
+              "id": "A",
+              "text": "how changes in their natural habitat have affected dormouse numbers"
+            },
+            {
+              "id": "B",
+              "text": "what was often in woodland in the past to help dormice survive"
+            },
+            {
+              "id": "C",
+              "text": "the relative importance of woodland and hedges in the countryside"
+            },
+            {
+              "id": "D",
+              "text": "the particular types of trees that grow best in the English climate"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Why does Ian White support the widespread reintroduction of dormice?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are animals that can easily be bred in captivity"
+            },
+            {
+              "id": "B",
+              "text": "the steps taken to help them will also benefit many other animals"
+            },
+            {
+              "id": "C",
+              "text": "the public will be more likely to go for walks in woods and fields"
+            },
+            {
+              "id": "D",
+              "text": "they are animals that should particularly attract younger children"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does Helen Meech hope that the dormice project will lead to?",
+          "options": [
+            {
+              "id": "A",
+              "text": "an increase in the populations of the most common species"
+            },
+            {
+              "id": "B",
+              "text": "a public who are used to sharing their environment with wildlife"
+            },
+            {
+              "id": "C",
+              "text": "a general awareness of the need to reintroduce larger animals soon"
+            },
+            {
+              "id": "D",
+              "text": "a willingness to spend time improving natural landscapes in the UK"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is suggested about wolves returning to the UK?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the best solution would be to keep them in a secure wildlife park"
+            },
+            {
+              "id": "B",
+              "text": "they would definitely need to be kept far away from humans"
+            },
+            {
+              "id": "C",
+              "text": "there is only one area of the UK which would accept them"
+            },
+            {
+              "id": "D",
+              "text": "their presence could revive some damaged environments"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This species has already begun to settle in the UK without human assistance.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The lynx"
+            },
+            {
+              "id": "B",
+              "text": "The beaver"
+            },
+            {
+              "id": "C",
+              "text": "The wolf"
+            },
+            {
+              "id": "D",
+              "text": "The sea eagle"
+            },
+            {
+              "id": "E",
+              "text": "The wild boar"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "This species would be particularly suitable for reintroduction as it is unlikely to try to come into contact with people.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The lynx"
+            },
+            {
+              "id": "B",
+              "text": "The beaver"
+            },
+            {
+              "id": "C",
+              "text": "The wolf"
+            },
+            {
+              "id": "D",
+              "text": "The sea eagle"
+            },
+            {
+              "id": "E",
+              "text": "The wild boar"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q39",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It is possible that reintroducing this species could bring considerable financial benefits to one area.",
+          "options": [
+            {
+              "id": "A",
+              "text": "The lynx"
+            },
+            {
+              "id": "B",
+              "text": "The beaver"
+            },
+            {
+              "id": "C",
+              "text": "The wolf"
+            },
+            {
+              "id": "D",
+              "text": "The sea eagle"
+            },
+            {
+              "id": "E",
+              "text": "The wild boar"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-110-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Some countries which have already reintroduced this species have systems to repay farmers if it kills any of their animals. List of Animals",
+          "options": [
+            {
+              "id": "A",
+              "text": "The lynx"
+            },
+            {
+              "id": "B",
+              "text": "The beaver"
+            },
+            {
+              "id": "C",
+              "text": "The wolf"
+            },
+            {
+              "id": "D",
+              "text": "The sea eagle"
+            },
+            {
+              "id": "E",
+              "text": "The wild boar"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "The procedure for the dormouse reintroduction in Wensleydale",
+        "text": "It was necessary to do some preparation before the 40 dormice could be released in Wensleydale. First members of PTES has to choose a suitable wooded area for them. Then (28) …………… gave them a thorough check. The team divided the animals into (29) …………… before introducing them to their temporary tree homes. These were boxes which were enclosed by cages. Initially the dormice could not get out but the team brought (30) ……………….. on a regular basis. Once the dormice got used to their new environment a gap was cut in the netting so they could go out and return when they wanted. Then before the animals were ready to start their annual (31) ……………. in the autumn, the team took their temporary homes away; they intended to return and review the success of the project next year."
+      }
+    }
+  ]
+}

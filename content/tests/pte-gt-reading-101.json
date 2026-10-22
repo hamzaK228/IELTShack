@@ -1,0 +1,620 @@
+{
+  "id": "pte-gt-reading-101",
+  "title": "General Training Reading — Practice Test 101",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: the guardian newspaper's travel",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-101-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "This is the first year that The Guardian has run a travel photography competition.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Any photograph for the competition must have been taken on an overseas trip.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The end-of-year exhibition in London is free for the public to attend.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The judging panel is made up of a group of journalists and a professional photographer.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The trip to Swedish Lapland will only be offered to one winner.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Every activity on the trip is focused on improving photography techniques.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Anyone going on the trip may take some of the cold weather clothing home at the end of the trip.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Articles written about the trip may be changed before being published.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "the guardian newspaper's travel",
+        "text": "The photo competition is back, giving you another chance to win an incredible trip to Swedish Lapland. Do you have a camera and love travelling? If so, our annual photography competition run by the Travel section of The Guardian is for you. It's an opportunity for you to capture the essence of the journeys you make, whether far afield or close to home, and for us to showcase your work online. The winner of each month's competition will also see their shot mounted and displayed in the end-of-year exhibition for the public at The Guardian's offices in London. Once the exhibition is finished, each monthly winner will receive a framed copy of their shot to place with pride on their own wall. There will be a different theme for each month. Members of The Guardian travel writing team, and photographer Michael Ryan of Fotovue.com will judge the monthly entries and the overall winner. To enter you must be living in the UK from the time you submit your entry into the competition to the time you are selected as a winner. The competition is open to all photographers (both amateur and professional). The overall winner (chosen from the 12 monthly winners) will go on an amazing four- night trip to Swedish Lapland. The host for this specialist holiday is Fredrik Broman, who has been a nature photographer for 21 years. Fredrik will assist the winner and other participants in photographing a wide variety of winter subjects. Each day has a specific focus. The trip includes winter light photography workshops, an image editing workshop, a night photography course, and an action photography workshop. Included in the prize: return flights from the UK, four nights' accommodation with full board, cold weather clothing for the duration of the trip – thermal overalls, winter boots, gloves, hats and woollen socks – fully qualified wilderness guides, and instructors. The overall winner will be required to write a report of the trip, and take accompanying photographs, which will be printed in the Travel section of The Guardian at a later date. The Guardian reserves the right, however, to modify your report and photos as necessary. Your name will of course appear with the article and photos."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: running headphones",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-101-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These headphones would suit someone who doesn't mind spending a lot to get good quality. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The battery on these headphones has a surprisingly long life. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is possible to keep in contact with other people while using these headphones. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Although these headphones are cheaper than most, music sounds quite good through them. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These headphones are very strong and do not require gentle handling. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These headphones allow users to move around their playlist of music easily while they are exercising. ______",
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "running headphones",
+        "text": "Listening to music on headphones makes running and even working out at the gym much more enjoyable. Here are some alternatives to choose from.\n\n(A) Plantronics Backbeat Fit These headphones are really tough so you don't need to worry about just throwing them into your bag before or after a workout. As well as providing reasonably clear sound they will also last a remarkable eight hours on a single charge.\n\n(B) Sennheiser CX685 Sports These headphones are impressively practical. Designed to fit firmly in your ear, however energetic you are, they're tight without being uncomfortable, and have a handy remote and a mic for phone calls. They will also resist some water being spilt on them.\n\n(C) Nokia WH-510 Coloud Pop These stylish headphones have fantastic bass, giving you a bit of extra oomph when you run. They also have a tangle-free cable which avoids any time-consuming messing about before you set off on your run.\n\n(D) Sony NWZ-W273S It's hard to imagine using any other headphones once you've tried these. As well as being wireless and waterproof at a depth of 2m, they even have a built-in MP3 player that can hold up to 1,000 songs. A charge provides up to an hour of playback.\n\n(E) Betron B750S If you're on a tight budget, it can always feel risky buying a bottom of the market pair of headphones, but with these you needn't worry. Not only do they provide fair sound quality, they also come with a pouch to keep them in.\n\n(F) Happy Plugs The sound quality on these is decent, although you're probably not going to be hugely impressed. They also come with a handy remote built into the cable to skip and pause songs with while you work out.\n\n(G) Powerbeats 2 If money is not an issue, then these are definitely worth considering. They make everything sound so crisp and they're so light and comfortable that it's easy to forget that you're even wearing them."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: a case study of a risk assessment for general office cleaning",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-101-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "He talked to health and safety ______about the risks",
+          "answer": "Representatives",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– the policy of the company regarding ______(e.g. clear walkways)",
+          "answer": "Housekeeping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– procedures to be followed in case of a ______",
+          "answer": "Fire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– facilities available to cleaners (e.g. space available for ______)",
+          "answer": "Storage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– a way of ______risks and hazards",
+          "answer": "Reporting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "He compared there to information that the HSE provided on its ______",
+          "answer": "Website",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "He displayed a copy of the risk assessment inside a ______available to all cleaning staff",
+          "answer": "Cupboard",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "a case study of a risk assessment for general office cleaning",
+        "text": "(A) commercial cleaning service took on a new contract to clean an office complex. Before sending cleaning staff to the offices, the manager of the cleaning service carried out a risk assessment using guidance provided by the Health and Safety Executive (HSE). To identify the hazards, the cleaning service manager visited the office complex and walked through the areas where cleaning staff would be working, noting things that might pose potential risks. Following this, he consulted the health and safety representatives of the cleaning service about these risks, taking into account the needs of any particular staff members, such as whether they were pregnant or aged under 18. In order to gather further information, he then had a meeting with the client company during which a number of issues were discussed. These included the client company's own standard of housekeeping, such as the immediate clearing up of spills and keeping walkways clear, as well as the action to be taken if a fire broke out. He also established what facilities and equipment would be available to the cleaners, including the amount of storage space available, as well as the availability of sinks and taps, etc. and agreed on a method of reporting near-miss accidents and risks discovered by cleaners (e.g. damaged floor tiles). Following the meeting, the manager created a risk assessment document. He wrote down who could be harmed by each risk or hazard identified and in what way, and he then described what controls, if any, were in existence to manage these hazards. The manager then compared these to the good practice guidance set out on the HSE's website and identified any areas where improvement was needed. The manager discussed the findings with the cleaning staff, making sure they understood the risks of the job and how these risks would be monitored. One cleaner, whose first language was not English, had difficulty understanding this, so the manager arranged for translation to be done by a bilingual cleaner from another team. Finally, to ensure that all the cleaning staff had access to a copy of the risk assessment, the manager pinned a copy in the cupboard where cleaning equipment was kept."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: preparing for a virtual job interview",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-101-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some companies prefer to interview job applicants digitally because of lower______",
+          "answer": "Costs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As with the standard recruitment process, virtual recruitment opens with______",
+          "answer": "Screening",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Applicants should read any details about the advertised post carefully and pick out important______ which they can discuss if necessary.",
+          "answer": "Topics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is a good idea for applicants to check if they can be clearly understood when they use a______",
+          "answer": "Headset",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Applicants may not be familiar with the______that the person conducting the interview will use, so they should try it out.",
+          "answer": "Software",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is very useful to go through a______of the interview, with someone playing the part of the interviewer.",
+          "answer": "Rehearsal",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "preparing for a virtual job interview",
+        "text": "Businesses are always looking for new ways to increase efficiency and profits. For example, organisations often reduce costs by conducting virtual job interviews. The video or Skype interview benefits both interviewer and interviewee, especially when an applicant would otherwise need to travel far. Despite the convenience though, it poses unique challenges.\n\nHow a virtual interview is the same The typical interview process usually entails multiple steps. First, there is screening, lasting about thirty minutes. Its purpose is to ensure candidates have the basic requirements. In the second interview, they're assessed for their technical skills and on whether they would fit the organisation. Virtual interviews follow the same steps so you'll need to focus on the same core topics. Identify what the critical topics are based on the job description and prepare to talk about them. If you can, gather inside information so you can impress interviewers with your knowledge.\n\nHow a virtual interview is different Normally, you travel somewhere for an interview. One advantage of that is that you aren't responsible for the place, whereas in a virtual interview you must ensure you have an appropriate location and appropriate equipment. Modern technology is great when it works, but a pain when it doesn't. So, it's wise to check you can operate your webcam, especially if you don't use it often. Test the headset too and find out how intelligible your voice sounds. It's also wise to establish what software the interviewer is going to work with and give it a trial run. Probably the biggest problem in a virtual interview is what the camera can see. You want the interviewer to see you as a professional. Having a messy or cluttered room behind you won't help you achieve this image – a clear white background is usually a safe bet. The most important part of your preparation is to run through everything first as best you can. Have a friend conduct a rehearsal with you before the big day. This will help you know how to behave in front of the camera. All things considered, though, virtual interviews should be treated like any other type of interview. Being at home requires as much preparation as a traditional interview. If you follow the steps mentioned above, you have every chance of getting the job you want. Good luck!"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: tuning up your leadership skills",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-101-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a summary of the different aspects of leadership that are covered in the study ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a description of how band leaders sometimes passed on their leadership skills to others ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a summary of the backgrounds of the band leaders chosen for the study ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "examples of ways in which one band leader encouraged his musicians to be more creative ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "an overview of the main similarities between the work of business people and jazz musicians ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "a description of two contrasting ways of leading a team ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The study by Ucbasaran and Lockett was the first to compare the worlds of music and business.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "One reason why jazz musicians were chosen for the research is because the setting in which they work is unpredictable.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The researchers decided to cover only certain aspects of leadership.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When assembling their teams, the band leaders all prioritised players",
+          "options": [
+            {
+              "id": "A",
+              "text": "who had special technical skill."
+            },
+            {
+              "id": "B",
+              "text": "who were used to working independently."
+            },
+            {
+              "id": "C",
+              "text": "who had an individual style of their own."
+            },
+            {
+              "id": "D",
+              "text": "who would get on well with other band members."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What obstacle might jazz leaders face in reducing destructive conflict among team members?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They may also reduce productive conflict in the process."
+            },
+            {
+              "id": "B",
+              "text": "Their team members tend to have especially strong personalities."
+            },
+            {
+              "id": "C",
+              "text": "They are unaware of the theory concerning different types of conflict."
+            },
+            {
+              "id": "D",
+              "text": "Their team members may be unwilling to cooperate in reducing this."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What approach to group coordination was shared by Ellington, Davis and Blakey?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They allowed musicians to be creative within certain agreed limits."
+            },
+            {
+              "id": "B",
+              "text": "They increased opportunities for success and reduced chances of failure."
+            },
+            {
+              "id": "C",
+              "text": "They provided a structure within which musicians could express themselves."
+            },
+            {
+              "id": "D",
+              "text": "They coordinated the work of their teams so each member contributed equally."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-101-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Ucbasaran and her colleagues found that the high turnover of members in jazz bands",
+          "options": [
+            {
+              "id": "A",
+              "text": "was eventually reduced by the policies of the band leaders."
+            },
+            {
+              "id": "B",
+              "text": "was welcomed by band leaders for the benefits it brought."
+            },
+            {
+              "id": "C",
+              "text": "was due to a shortage of effective band leaders."
+            },
+            {
+              "id": "D",
+              "text": "was a feature of the growing popularity of jazz."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "tuning up your leadership skills",
+        "text": "(A) Ever since management expert Peter Drucker compared the job of Chief Executive Officer to that of an orchestra conductor, the business world has been exploring comparisons and inspirations from the world of music. Now Warwick Business School Professors Deniz Ucbasaran and Andy Lockett are hitting all the right notes with their study of famous jazz musicians, Leading Entrepreneurial Teams: Insights From Jazz, providing some essential insights for entrepreneurial team leaders. Ucbasaran and Lockett (together with Durham Business School Professor Michael Humphries) chose jazz for a number of reasons. For a start, jazz bands are synonymous with creativity, improvisation and innovation, all essential ingredients for entrepreneurship. Jazz groups and their members often operate in uncertain and dynamic environments, characterised by rapid change. Yet through collective endeavour many jazz bands find their own structure and harmony and become profitable enterprises – both creatively and commercially.\n\n(B) The authors decided to focus on three of the best known names in jazz – Duke Ellington, Miles Davis and Art Blakey. American composer Duke Ellington was a pioneering jazz orchestra leader from the 1920s through to the 1970s. Trumpet player Miles Davis was instrumental in the development of a number of new jazz styles, including bebop and jazz fusion. Jazz drummer Arthur 'Art' Blakey became famous as the leader of his band the Jazz Messengers. The research focused on the way that these jazz greats created and ran their musical enterprises. In particular, Ucbasaran and Lockett focused on three specific areas of leadership activity: team formation, team coordination and team turnover. There were strong similarities in the processes the band leaders used to assemble their diverse teams of talent. In particular, they looked for musicians with a different sound or way of playing, one that was unique to that band member and would improve the overall sound of the band. That feature was as much bound up with the personality of the individual musician as it was to do with their technical proficiency.\n\n(C) But disparate teams, many different personalities, and high levels of creativity are a recipe for group conflict. And, sure enough, there was plenty of dysfunctional conflict and disruptive clashes of egos and personalities evident in the jazz ensembles. Traditional team leadership theory suggests that to get the best team performance the leader should foster conflict that is productive in its effects, while minimising destructive conflict. But this is difficult when the sources of productive and destructive conflict are the same; that is, differences in personality and thinking. So how do leaders deal with destructive conflict? It didn't seem to bother the likes of Ellington, Davis and Blakey. Their attitude was 'the music comes first'. The moments of musical genius when everything came together excused minor problems such as if individuals occasionally turned up late for practice, or stepped out of a performance for a quick snack.\n\n(D) Teams must coordinate their behaviour and action to achieve an outcome. The team leader can assume a number of different roles when helping the team achieve its objectives. Some leaders are very directive, detailing what tasks they want team members to perform, and how they want them to go about those tasks. But that was not the approach Ellington, Davis and Blakey adopted. Instead, these leaders acted more as facilitators, empowering the musicians to collectively coordinate their behaviour and action to produce the desired outcome. As Ucbasaran and Lockett note, Miles Davis discouraged band members from rehearsing in case it led to musical cliches from over-practice. Similarly, he often asked his musicians to play a piece in an unusual key, so they did not rely on learned fingering patterns. The performers were not left entirely to their own devices though. All three leaders created a general framework within which team members could work, providing guidance but also the freedom to explore, express and make mistakes.\n\n(E) The third aspect of leadership behaviour that Ucbasaran and her colleagues looked at was managing team turnover – people joining and leaving the team. In the jazz ensembles studied, musicians joined and left on a regular basis. Yet the high turnover of team members, despite the resulting loss of knowledge and skills, was seen in a positive light. That was partly because of the advantages of getting a fresh shot of knowledge, ideas and creativity when new members joined.\n\n(A) common reason for the jazz musicians leaving was that they felt sufficiently qualified to go and run another band. The three band leaders were understanding about this, particularly as it was a process they had also been through. In some cases, in particular with Art Blakey, they actively encouraged and coached team members to become leaders. As the jazz icons Ellington, Davis and Blakey would no doubt agree, there is no magic score that if followed note by note will make you a great leader of creative talent. However, take an entrepreneur, a few cues from the aforementioned jazz trio, mix in a little improvisation, and you are more likely to hear the sweet sound of success. As Louis Armstrong once sang: 'Now that's jazz'."
+      }
+    }
+  ]
+}

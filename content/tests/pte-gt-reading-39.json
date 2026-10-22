@@ -1,0 +1,695 @@
+{
+  "id": "pte-gt-reading-39",
+  "title": "General Training Reading — Practice Test 39",
+  "kind": "practice",
+  "description": "2 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Information for students at the Language and Culture Center",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-39-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which message changes the time and place of a meeting? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which message is probably personal? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which message is from a company which is trying to sell something?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Please call Nanoy She will be at 8187546 if you miss her at home"
+            },
+            {
+              "id": "B",
+              "text": "INTEROFFICE MEMO Meeting in the boardroom on Friday, July 10 at 10 am has been changed to Monday, July 13. Same time, same place. Please bring the notes of the previous meeting"
+            },
+            {
+              "id": "C",
+              "text": "You are invited to a demonstration of our new audio-visual office products at 10 Barry Avenue Queenstown, 5 pm July 28 RSVP. Refreshments will be servedD MEMO TO: C. Gates Please confirm your flights with Qantas. We have you booked to depart August 21 at 10 am and to return a week later, arriving August 28 at 7 pm. The company will pay all expenses of this trip. E Please note: 10.30 12.30 July 27 Websters Trading Company Meeting 30 Barrow Street 12 Jones RoadF MEMO TO: C. GATES Check amendments to the Ling Kee contract. Do we really want to offer 10%? Please see me this morning at 10 in my office"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Make a copy of the Daily Work Record for your own record. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fax the Work Record back to J&B Pty Ltd on 390 7733 by 10 am Monday. To process your pay we require: Your bank details to be completed on the enclosed Banking form Details required are: Bank cod (BSB), account number, account name, a completed employment declaration form including your tax number. To ensure you are taxed correctly tax certificates are sent out at the end of the financial year to your home address. ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which daily time record shows the longest break? ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In which section did Amanda indicate whether the job is still going on? ______",
+          "answer": "M",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What format must be used to record the hours worked? ______",
+          "answer": "hh:mm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What should employees copy for their own records? ______",
+          "answer": "(Daily) work record",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who must check and sign the work record before payment will be processed? ______",
+          "answer": "(your/the)supervisor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What day must the work record be received? ______",
+          "answer": "Monday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What must be written on the Employment Declaration form? ______",
+          "answer": "(your) Tax number",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tax certificates are sent to ______ Here and on the next page are several passages giving information for overseas students at the Language and Culture Center in Houston in the USA.",
+          "answer": "Your/the employee's home address",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the UC students can play or ______or______",
+          "answer": "Pool, table tennis",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You can meet students from your own country at ______",
+          "answer": "International clubs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You should go first to the______ if you are sick.",
+          "answer": "University health center",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "must be held by every student. ______",
+          "answer": "Health insurance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cancellation of classes due to______ is announced on radio and television.",
+          "answer": "(a weather) emergency/emergency weather conditions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "if your teacher is late you should wait for ______",
+          "answer": "15 minutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If you withdraw in the second week of classes you may receive ______of your tuition fees.",
+          "answer": "50%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student frequently fails to complete homework______(22) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student frequently fails to complete homework(21) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student does not respond to letter announcing academic probation______(24) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student does not respond to letter announcing academic probation(23) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student is absent for 30 hours______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student is absent for 50 hours______(27) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Student is absent for 50 hours(26) ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic ii: women and Japanese companies",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            },
+            {
+              "id": "E",
+              "text": "E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic iii: why men sometimes resign from Japanese companies",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            },
+            {
+              "id": "G",
+              "text": "G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Information for students at the Language and Culture Center",
+        "text": "Student information\n\nCampus Activities LCC students can enjoy many sports at the university. You will find tennis and handball courts, gymnasiums, and indoor and outdoor swimming pools. At the University Center (UC), you can play pool or table tennis. LCC student teams compete in university intramural sports. The LCC has one of the best soccer teams on campus! Please sign up and play. You can also see films and plays, attend lectures, and go to concerts on campus. There are many international clubs where you can meet other students from your home country.\n\nEmergencies\n\nWeather Emergency If the University of Houston closes because of emergency weather conditions, the LCC will also close. In the event of an emergency, all LCC students are advised to listen to major radio or television stations for announcements regarding cancellation of classes or the closing of the campus.\n\nTeacher Emergency Always wait in the classroom 15 minutes for your teacher. 1f the teacher does not come after 15 minutes, you may leave. Please go to your next scheduled class on time.\n\nWithdrawing from the LCC You may withdraw from the LCC if you have a medical emergency, a family emergency, or if you wish to return to your home country. If you withdraw for one of these reasons, you may receive a partial refund of your tuition. The LCC cannot refund your application fee, contract fee, insurance fee, or late registration fee.\n\n(A) tuition refund must be approved by the director and will be given according to the following schedule:\n\nTime of Withdrawal Amount of Refund\n\nRegistration week 90%\n\nFirst week of classes 75%\n\nSecond week of classes 50%\n\nThird week and after No refund\n\nHealth Care If you are ill, see a doctor at the University Health Center first. LCC students can visit a doctor at the Health Center. Medicines are available through the pharmacy. You should use the Health Center as often as you need to. The Health Center is located behind the Student Service Center. For some health problems, you may need to see an outside doctor. The Health Center can help you find one. There are many clinics in Houston for minor emergencies. Some of them are open 24 hours a day. For big emergencies there are good hospitals in Houston. All LCC students must have health insurance. You must buy health insurance through the LCC unless you have proof of another health insurance plan or financial responsibility for at least $50,000.\n\nLCC policies\n\nAttendance and Academic Progress The best way to learn English is to come to class regularly and to do your homework. If you miss several days of classes, for any reason, you cannot keep up with the other students. The Language and Culture Center is a serious academic program in intensive English and wants all of its students to succeed. Therefore, students are expected to attend all classes regularly, do all classroom assignments, meet all class requirements, and make academic progress. Students who do not meet these standards may be placed on academic probation. Students placed on academic probation will meet with their teacher(s) and with either or both the associate director and foreign student advisor. Students will be informed in writing of the terms and length of their probation. Students who have 30 hours of absences are in danger of being placed on academic probation. Students failing to meet the terms of their probation will be terminated from the LCC for the remainder of the semester. This will also likely result in loss of student status with the US Immigration and Naturalization Service. Students who have 50 hours of absences will not receive a Certificate of Successful Completion and will be terminated from the program. If a student is absent for ten consecutive days with no explanation, the student will be terminated automatically from the program."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: employment in japan",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-39-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic iv: permanency in employment in Japan",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not important"
+            },
+            {
+              "id": "B",
+              "text": "is for factory workers only"
+            },
+            {
+              "id": "C",
+              "text": "is for professionals only"
+            },
+            {
+              "id": "D",
+              "text": "is for all staff."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic v; recruiting season: who, when and where",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not important"
+            },
+            {
+              "id": "B",
+              "text": "is for factory workers only"
+            },
+            {
+              "id": "C",
+              "text": "is for professionals only"
+            },
+            {
+              "id": "D",
+              "text": "is for all staff."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic vi: the social aspect of work",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            },
+            {
+              "id": "H",
+              "text": "H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic vii: the salary structure",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not important"
+            },
+            {
+              "id": "B",
+              "text": "is for factory workers only"
+            },
+            {
+              "id": "C",
+              "text": "is for professionals only"
+            },
+            {
+              "id": "D",
+              "text": "is for all staff."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic viii: the recruitment strategy of foreign firms",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            },
+            {
+              "id": "F",
+              "text": "F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Topic ix: Japanese people after retirement",
+          "options": [
+            {
+              "id": "A",
+              "text": "tuition refund must be approved by the director and will be given according to the following schedule:"
+            },
+            {
+              "id": "B",
+              "text": "may lose student status with US Immigration and Naturalization Service"
+            },
+            {
+              "id": "C",
+              "text": "receives advice and counselling"
+            },
+            {
+              "id": "D",
+              "text": "may be put on academic probation"
+            },
+            {
+              "id": "I",
+              "text": "I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Japanese employers believe that moving professionals within companies and listening to workers' views leads to ______",
+          "answer": "Loyalty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees receive their wages monthly and a bonus ______",
+          "answer": "Twice yearly/ twice a year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Japanese workers often form close personal relationships and older staff may even become a______ to junior staff.",
+          "answer": "Mentor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Company training in Japan",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not important"
+            },
+            {
+              "id": "B",
+              "text": "is for factory workers only"
+            },
+            {
+              "id": "C",
+              "text": "is for professionals only"
+            },
+            {
+              "id": "D",
+              "text": "is for all staff."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-39-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Foreign firms are keen to employ Japanese women because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the women are more intelligent than men"
+            },
+            {
+              "id": "B",
+              "text": "the women that apply are more capable than the men that apply"
+            },
+            {
+              "id": "C",
+              "text": "the women will be only short-term employees"
+            },
+            {
+              "id": "D",
+              "text": "the women prefer guaranteed security"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "employment in japan",
+        "text": "(A) Every autumn, when recruitment of new graduates and school leavers begins, major cities in Japan are flooded with students hunting for a job. Wearing suits for the first time, they run from one interview to another. The season is crucial for many students, as their whole lives may be determined during this period.\n\n(B) In Japan, lifetime employment is commonly practised by large companies. While people working in small companies and those working for subcontractors do not in general enjoy the advantages conferred by the large companies, there is a general expectation that employees will in fact remain more or less permanently in the same job.\n\n(C) Unlike in many Western countries where companies employ people whose skills can be effective immediately, Japanese companies select applicants with potential who can be trained to become suitable employees. For this reason, recruiting employees is an important exercise for companies, as they invest a lot of time and money in training new staff. This is basically true both for factory workers and for professionals. Professionals who have studied subjects which are of immediate use in the workplace, such as industrial engineers, are very often placed in factories and transferred from one section to another. By gaining experience in several different areas and by working in close contact with workers, the engineers are believed, in the long run, to become more effective members of the company. Workers too feel more involved by working with professionals and by being allowed to voice their opinions. Loyalty is believed to be cultivated in this type of egalitarian working environment.\n\n(D) Because of this system of training employees to be all-rounders, mobility between companies is low. Wages are set according to educational background or initial field of employment, ordinary graduates being employed in administration, engineers in engineering and design departments and so on. Both promotions and wage increases tend to be tied to seniority, though some differences may arise later on as a result of ability and business performance. Wages are paid monthly, and the net sum, after the deduction of tax, is usually paid directly into a bank account. As well as salary, a bonus is usually paid twice a year. This is a custom that dates back to the time when employers gave special allowances so that employees could properly celebrate boil, a Buddhist festival held in mid-July in Tokyo, but on other dates in other regions. The festival is held to appease the souls of ancestors. The second bonus is distributed at New Year. Recently, bonuses have also been offered as a way of allowing workers a share in the profits that their hard work has gained.\n\n(E) Many female graduates complain that they are not given equal training and equal opportunity in comparison to male graduates. Japanese companies generally believe that female employees will eventually leave to get married and have children. It is also true that, as well as the still-existing belief among women themselves that nothing should stand in the way of child-rearing, the extended hours of work often do not allow women to continue their careers after marriage.\n\n(F) Disappointed career-minded female graduates often opt to work for foreign firms. Since most male graduates prefer to join Japanese firms with their guaranteed security, foreign firms are often keen to employ female graduates as their potential tends to be greater than that of male applicants.\n\n(G) Some men, however, do leave their companies in spite of future prospects, one reason being to take over the family business. The eldest sons in families that own family companies or businesses such as stores are normally expected to take over the business when their parents retire. It is therefore quite common to see a businessman, on succeeding to his parents' business, completely change his professional direction by becoming, for example, a shopkeeper.\n\n(H) On the job, working relationships tend to be very close because of the long hours of work and years of service in common. Social Life in fact is frequently based on the workplace. Restaurants and nomi-ya, \"pubs\", are always crowded at night with people enjoying an evening out with their colleagues. Many companies organise trips and sports days for their employees. Senior staff often play the role of mentor. This may mean becoming involved in the lives of junior staff in such things as marriage and the children's education.\n\n(I) The average age of retirement is between 55 and 60. For most Westerners, retirement may be an eagerly awaited time to undertake such things as travel and hobbies. Many Japanese, however, simply cannot get used to the freedom of retirement and they look for ways of constructively using their time. Many look for new jobs, feeling that if they do not work they will be abandoned by society. This has recently led to the development in some municipalities of municipal job centres which advertise casual work such as cleaning and lawn mowing. Given that Japan is facing the problem of an increasingly ageing society, such activities may be vital in the future."
+      }
+    }
+  ]
+}

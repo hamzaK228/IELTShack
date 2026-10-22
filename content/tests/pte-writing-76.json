@@ -1,0 +1,40 @@
+{
+  "id": "pte-writing-76",
+  "title": "Academic Writing — Practice Test 76",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-76-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The table below shows the sales at a small restaurant in a downtown business district. Summarize the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words. sales: Week of October 7-13 Monday Tuesday Wednesday Thursday Friday Saturday Sunday Lunch $2,400 $2,450 $2,400 $2,375 $2,500 $1,950 $1,550 Dinner $3,623 $3,850 $3,445 $3,800 $4,350 $2,900 $2,450\n\nMonday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday\nLunch | $2,400 | $2,450 | $2,400 | $2,375 | $2,500 | $1,950 | $1,550\nDinner | $3,623 | $3,850 | $3,445 | $3,800 | $4,350 | $2,900 | $2,450",
+          "answer": "",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-writing-76-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people use technology to take advice for their medical problems rather than seeing a doctor. Why this is so? It is positive or negative development according to you? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

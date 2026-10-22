@@ -1,0 +1,756 @@
+{
+  "id": "pte-reading-139",
+  "title": "Academic Reading — Practice Test 139",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Radiocarbon Dating – The Profile of Nancy Athfield",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-139-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nancy Athfield first discovered the ancient remains in Cambodia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The remains found in the Cambodia was in good condition.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nancy took some time off from her regular work to do research in Cambodia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Cambodia government asked Nancy to radiocarbon the remains.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The filmmakers aimed to find out how the Angkor was rebuilt.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nancy initially doubted whether the royal family was hidden in Cambodia.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nancy disproved the possibility that the remains belonged to the Angkor royal family.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• During her mid-teens, Nancy wasn't expected to attend ______",
+          "answer": "University/ college",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Her PhD degree was researching when a kind of ______ first went into New Zealand.",
+          "answer": "Rat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Her research showed that the subject's ______accounted for the fault in the earlier research.",
+          "answer": "Diet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• She was a professional ______before she went back to Cambodia in 2003.",
+          "answer": "Archaeologist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• When she returned Cambodia, the lack of ______ was a barrier for her research.",
+          "answer": "Funding",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Then she compiled the ______of the Cambodia radiocarbon dating of the ancients.",
+          "answer": "Database",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Radiocarbon Dating – The Profile of Nancy Athfield",
+        "text": "Have you ever picked up a small stone off the ground and wondered how old it was? Chances are, that stone has been around many more years than your own lifetime. Many scientists share this curiosity about the age of inanimate objects like rocks, fossils and precious stones. Knowing how old an object is can provide valuable information about our prehistoric past. In most societies, human beings have kept track of history through writing. However, scientists are still curious about the world before writing, or even the world before humans. Studying the age of objects is our best way to piece together histories of our pre-historic past. One such method of finding the age of an object is called radiocarbon dating. This method can find the age of any object based on the kind of particles and atoms that are found inside of the object. Depending on what elements the object is composed of, radiocarbon can be a reliable way to find an object's age. One famous specialist in this method is the researcher Nancy Athfield. Athfield studied the ancient remains found in the country of Cambodia. Many prehistoric remains were discovered by the local people of Cambodia. These objects were thought to belong to some of the original groups of humans that first came to the country of Cambodia. The remains had never been scientifically studied, so Nancy was greatly intrigued by the opportunity to use modern methods to discover the true age of these ancient objects. Athfield had this unique opportunity because her team, comprised of scientists and filmmakers, were in Cambodia working on a documentary. The team was trying to discover evidence to prove a controversial claim in history: that Cambodia was the resting place for the famous royal family of Angkor. At that time, written records and historic accounts conflicted on the true resting place. Many people across the world disagreed over where the final resting place was. For the first time, Athfield and her team had a chance to use radiocarbon dating to find new evidence. They had a chance to solve the historic mystery that many had been arguing over for years. Athfield and her team conducted radiocarbon dating of many of the ancient objects found in the historic site of Angkor Wat. Nancy found the history of Angkor went back to as early as 1620. According to historic records, the remains of the Angkor royal family were much younger than that, so this evidence cast a lot of doubt as to the status of the ancient remains. The lesearch ultimately raised more questions. If the remains were not of the royal family, then whose remains were being kept in the ancient site? Athfield's team left Cambodia with more questions unanswered. Since Athfield's team studied the remains, new remains have been unearthed at the ancient site of Angkor Wat, so it is possible that these new remains could be the true remains of the royal family. Nancy wished to come back to continue her research one day. In her early years, the career of Athfield was very unconventional. She didn't start her career as a scientist. At the beginning, she would take any kind of job to pay her bills. Most of them were low-paying jobs or brief Community service opportunities. She worked often but didn't know what path she would ultimately take. But eventually, her friend suggested that Athfield invest in getting a degree. The friend recommended that Athfield attend a nearby university. Though doubtful of her own qualifications, she applied and was eventually accepted by the school. It was there that she met Willard Libby, the inventor of radiocarbon dating. She took his class and soon had the opportunity to complete hands-on research. She soon realised that science was her passion. After graduation, she quickly found a job in a research institution. After college, Athfield's career in science blossomed. She eventually married, and her husband landed a job at the prestigious organisation GNN. Athfield joined her husband in the same organisation, and she became a lab manager in the institution. She earned her PhD in scientific research, and completed her studies on a kind of rat when it first appeared in New Zealand. There, she created original research and found many flaws in the methods being used in New Zealand laboratories. Her research showed that the subject's diet led to the fault in the earlier research. She was seen as an expert by her peers in New Zealand, and her opinion and expertise were widely respected. She had come a long way from her old days of working odd jobs. It seemed that Athfield's career was finally taking off. But Athfield's interest in scientific laboratories wasn't her only interest. She didn't settle down in New Zealand. Instead, she expanded her areas of expertise. Athfield eventually joined the field of Anthropology, the study of human societies, and became a well-qualified archaeologist. It was during her blossoming career as an archaeologist that Athfield became involved with the famous Cambodia project. Even as the filmmakers ran out of funding and left Cambodia, Athfield continued to stay and continue her research. In 2003, the film was finished in uncertain conclusions, but Nancy continued her research on the ancient ruins of Angkor Wat. This research was not always easy. Her research was often delayed by lack of funding, and government paperwork. Despite her struggles, she committed to finishing her research. Finally, she made a breakthrough. Using radiocarbon dating, Athfield completed a database for the materials found in Cambodia. As a newcomer to Cambodia, she lacked a complete knowledge of Cambodian geology, which made this feat even more difficult. Through steady determination and ingenuity, Athfield finally completed the database. Though many did not believe she could finish, her research now remains an influential and tremendous contribution to geological sciences in Cambodia. In the future, radiocarbon dating continues to be a valuable research skill. Athfield will be remembered as one of the first to bring this scientific method to the study of the ancient ruins of Angkor Wat."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Stress of Workplace",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-139-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Work stress usually happens in the high level of a business.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jan Eisner"
+            },
+            {
+              "id": "B",
+              "text": "Vanessa Stoykov"
+            },
+            {
+              "id": "C",
+              "text": "Gal Zauberman"
+            },
+            {
+              "id": "D",
+              "text": "Neil Plumridge"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "More people involved would be beneficial for stress relief.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jan Eisner"
+            },
+            {
+              "id": "B",
+              "text": "Vanessa Stoykov"
+            },
+            {
+              "id": "C",
+              "text": "Gal Zauberman"
+            },
+            {
+              "id": "D",
+              "text": "Neil Plumridge"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Temporary holiday sometimes doesn't mean less work.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jan Eisner"
+            },
+            {
+              "id": "B",
+              "text": "Vanessa Stoykov"
+            },
+            {
+              "id": "C",
+              "text": "Gal Zauberman"
+            },
+            {
+              "id": "D",
+              "text": "Neil Plumridge"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Stress leads to a wrong direction when trying to satisfy customers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jan Eisner"
+            },
+            {
+              "id": "B",
+              "text": "Vanessa Stoykov"
+            },
+            {
+              "id": "C",
+              "text": "Gal Zauberman"
+            },
+            {
+              "id": "D",
+              "text": "Neil Plumridge"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It is commonly accepted that stress at present is more severe than in the future. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jan Eisner"
+            },
+            {
+              "id": "B",
+              "text": "Vanessa Stoykov"
+            },
+            {
+              "id": "C",
+              "text": "Gal Zauberman"
+            },
+            {
+              "id": "D",
+              "text": "Neil Plumridge"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following workplace stress is NOT mentioned according to Plumridge in the following options?",
+          "options": [
+            {
+              "id": "A",
+              "text": "not enough time spent on family"
+            },
+            {
+              "id": "B",
+              "text": "unable to concentrate on work"
+            },
+            {
+              "id": "C",
+              "text": "inadequate time of sleep"
+            },
+            {
+              "id": "D",
+              "text": "alteration of appointment"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following solution is NOT mentioned in helping reduce the work pressure according to Plumridge?",
+          "options": [
+            {
+              "id": "A",
+              "text": "allocate more personnels"
+            },
+            {
+              "id": "B",
+              "text": "increase more time"
+            },
+            {
+              "id": "C",
+              "text": "lower expectation"
+            },
+            {
+              "id": "D",
+              "text": "do sports and massage"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the point of view of Jan Eisner towards work stress?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Medical test can only reveal part of the data needed to cope with stress"
+            },
+            {
+              "id": "B",
+              "text": "Index of body samples plays determined role."
+            },
+            {
+              "id": "C",
+              "text": "Emotional affection is superior to physical one."
+            },
+            {
+              "id": "D",
+              "text": "One well designed solution can release all stress."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistics from National worker's compensation indicate stress plays the most important role in ______Staffs take about (23) ______for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about (24) ______of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as (25) ______as well as (26) ______could be a treatment to release stress; However, specialists recommended another practical way out, analyse workloads once again.",
+          "answer": "Workplace injury",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistics from National worker's compensation indicate stress plays the most important role in (22) ______Staffs take about ______for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about (24) ______of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as (25) ______as well as (26) ______could be a treatment to release stress; However, specialists recommended another practical way out, analyse workloads once again.",
+          "answer": "16.6 weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistics from National worker's compensation indicate stress plays the most important role in (22) ______Staffs take about (23) ______for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about ______of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as (25) ______as well as (26) ______could be a treatment to release stress; However, specialists recommended another practical way out, analyse workloads once again.",
+          "answer": "7%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistics from National worker's compensation indicate stress plays the most important role in (22) ______Staffs take about (23) ______for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about (24) ______of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as ______as well as (26) ______could be a treatment to release stress; However, specialists recommended another practical way out, analyse workloads once again.",
+          "answer": "Golf",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Statistics from National worker's compensation indicate stress plays the most important role in (22) ______Staffs take about (23) ______for absence from work caused by stress. Not just time is our main concern but great expenses generated consequently. An official insurer wrote sometime that about (24) ______of all claims were mental issues whereas nearly 27% costs in all claims. Sports such as (25) ______as well as ______could be a treatment to release stress; However, specialists recommended another practical way out, analyse workloads once again.",
+          "answer": "Massage",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Stress of Workplace",
+        "text": "(A) How busy is too busy? For some it means having to miss the occasional long lunch; for others it means missing lunch altogether. For a few, it is hot being able to take a \"sickie\" once a month. Then there is a group of people for whom working every evening and weekend is normal, and franticness is the tempo of their lives. For most senior executives, workloads swing between extremely busy and frenzied. The vice-president of the management consultancy AT Kearney and its head of telecommunications for the Asia-Pacific region, Neil Plumridge, says his work weeks vary from a \"manageable\" 45 hours to 80 hours, but average 60 hours.\n\n(B) Three warning signs alert Plumridge about his workload: sleep, scheduling and family. He knows he has too much on when he gets less than six hours of sleep for three consecutive nights; when he is constantly having to reschedule appointments; \"and the third one is on the family side\", says Plumridge, the father of a three-year-old daughter, and expecting a second child in October. \"If I happen to miss a birthday or anniversary, I know things are out of control.\" Being \"too busy\" is highly subjective. But for any individual, the perception of being too busy over a prolonged period can start showing up as stress: disturbed sleep, and declining mental and physical health. National workers' compensation figures show stress causes the most lost time of any workplace injury. Employees suffering stress are off work an average of 16.6 weeks. The effects of stress are also expensive. Comcare, the Federal Government insurer, reports that in 2003-04, claims for psychological injury accounted for 7% of claims but almost 27% of claim costs. Experts say the key to dealing with stress is not to focus on relief—a game of golf or a massage-—but to reassess workloads. Neil Plumridge says he makes it a priority to work out what has to change; that might mean allocating extra resources to a job, allowing more time or changing expectations. The decision may take several days. He also relies on the advice of colleagues, saying his peers coach each other with business problems. \"Just a fresh pair of eyes over an issue can help,\" he says.\n\n(C) Executive stress is not confined to big organisations. Vanessa Stoykov has been running her own advertising and public relations business for seven years, specialising in work for financial and professional services firms. Evolution Media has grown so fast that it debuted on the BRW Fast 100 list of fastest-growing small enterprises last year—just after Stoykov had her first child. Stoykov thrives on the mental stimulation of running her own business. \"Like everyone, I have the occasional day when I think my head's going to blow off,\" she says. Because of the growth phase the business is in, Stoykov has to concentrate on short-term stress relief—weekends in the mountains, the occasional \"mental health\" day—rather than delegating more work. She says: \"We're hiring more people, but you need to train them, teach them about the culture and the clients, so it's actually more work rather than less.\"\n\n(D) Identify the causes: Jan Eisner, Melbourne psychologist who specialises in executive coaching, says thriving on a demanding workload is typical of senior executives and other high-potential business adrenalin periods followed by quieter patches, while others thrive under sustained pressure. \"We could take urine and blood hormonal measures and pass a judgement of whether someone's physiologically stressed or not,\" she says. \"But that's not going to give us an indicator of what their experience of stress is, and what the emotional and cognitive impacts of stress are going to be.\"\n\n(E) Eisner's practice is informed by a movement known as positive psychology, a school of thought that argues \"positive\" experiences—feeling engaged, challenged, and that one is making a contribution to something meaningful—do not balance out negative ones such as stress; instead, they help people increase their resilience over time. Good stress, or positive experiences of being challenged and rewarded, is thus cumulative in the same way as bad stress. Eisner says many of the senior business people she coaches are relying more on regulating bad stress through methods such as meditation and yoga. She points to research showing that meditation can alter the biochemistry of the brain and actually help people \"retrain\" the way their brains and bodies react to stress. \"Meditation and yoga enable you to shift the way that your brain reacts, so if you get proficient at it you're in control.\"\n\n(F) Recent research, such as last year's study of public servants by the British epidemiologist Sir Michael Marmot, shows the most important predictor of stress is the level of job control a person has. This debunks the theory that stress is the prerogative of high-achieving executives with type-A personalities and crazy working hours. Instead, Marmot's and other research reveals they have the best kind of job: one that combines high demands (challenging work) with high control (autonomy). \"The worst jobs are those that combine high demands and low control. People with demanding jobs but little autonomy have up to four times the probability of depression and more than double the risk of heart disease,\" LaMontagne says. \"Those two alone count for an enormous part of chronic diseases, and they represent a potentially preventable part.\" Overseas, particularly in Europe, such research is leading companies to redesign organisational practices to increase employees' autonomy, cutting absenteeism and lifting productivity.\n\n(G) The Australian vice-president of AT Kearney, Neil Plumridge says, \"Often stress is caused by our setting unrealistic expectations of ourselves. I'll promise a client I'll do something tomorrow, and then [promise] another client the same thing, when I really know it's not going to happen. I've put stress on myself when I could have said to the clients: Why don't I give that to you in 48 hours?' The client doesn't care.\" Overcommitting is something people experience as an individual problem. We explain it as the result of procrastination or Parkinson's law: that work expands to fdl the time available. New research indicates that people may be hard-wired to do it.\n\n(H) A study in the February issue of the Journal of Experimental Psychology shows that people always believe they will be less busy in the future than now. This is a misapprehension, according to the authors of the report, Professor Gal Zauberman, of the University of North Carolina, and Professor John Lynch, of Duke University. \"On average, an individual will be just as busy two weeks or a month from now as he or she is today. But that is not how it appears to be in everyday life,\" they wrote. \"People often make commitments long in advance that they would never make if the same commitments required immediate action. That is, they discount future time investments relatively steeply.\" Why do we perceive a greater \"surplus\" of time in the future than in the present? The researchers suggest that people underestimate completion times for tasks stretching into the future, and that they are bad at imagining future competition for their time."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Robert Louis Stevenson",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-139-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Stevenson's biographers KF and CP",
+          "options": [
+            {
+              "id": "A",
+              "text": "underestimated the role of family played in Stevenson’s life."
+            },
+            {
+              "id": "B",
+              "text": "overestimated the writer’s works in the literature history."
+            },
+            {
+              "id": "C",
+              "text": "exaggerated Stevenson’s religious belief in his works."
+            },
+            {
+              "id": "D",
+              "text": "elevated Stevenson’s role as a writer."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The main point of the second paragraph is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the public give a more fair criticism to Stevenson’s works."
+            },
+            {
+              "id": "B",
+              "text": "recent criticism has been justified."
+            },
+            {
+              "id": "C",
+              "text": "the style of Stevenson’s works overweigh his faults in his life."
+            },
+            {
+              "id": "D",
+              "text": "Stevenson’s works’ drawback is lack of ethical nature."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the author, adventure stories",
+          "options": [
+            {
+              "id": "A",
+              "text": "do not provide plot twists well."
+            },
+            {
+              "id": "B",
+              "text": "cannot be used by writers to show moral values."
+            },
+            {
+              "id": "C",
+              "text": "are more fashionable art form."
+            },
+            {
+              "id": "D",
+              "text": "can be found in other’s works but not in Stevenson’s."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the author say about Stevenson's works?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They describe the life of people in Scotland."
+            },
+            {
+              "id": "B",
+              "text": "They are commonly regarded as real literature."
+            },
+            {
+              "id": "C",
+              "text": "They were popular during Stevenson’s life."
+            },
+            {
+              "id": "D",
+              "text": "They transcend the local culture and stories."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The lifestyle of Stevenson",
+          "options": [
+            {
+              "id": "A",
+              "text": "made his family envy him so much."
+            },
+            {
+              "id": "B",
+              "text": "should be responsible for his death."
+            },
+            {
+              "id": "C",
+              "text": "gained more attention from the public than his works."
+            },
+            {
+              "id": "D",
+              "text": "didn’t well prepare his life in Samoa."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Although Oscar Wilde admired Robert Louis Stevenson very much, he believed Stevenson could have written greater works.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Robert Louis Stevenson encouraged Oscar Wilde to start writing at first.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Galsworthy thought Hardy is greater writer than Stevenson is.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Critics only paid attention to Robert Louis Stevenson's writing topics.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writer in the history of Scotland, but Sir Walter Scott is more proficient in ______ while Stevenson has better (37) ______Scott's books illustrate (38) ______especially in terms of tragedy, but a lot of readers prefer Stevenson's (39) ______What's more, Stevenson's understanding of (40) ______ made his works have the most unique expression of Scottish people.",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writer in the history of Scotland, but Sir Walter Scott is more proficient in (36) ______ while Stevenson has better ______Scott's books illustrate (38) ______especially in terms of tragedy, but a lot of readers prefer Stevenson's (39) ______What's more, Stevenson's understanding of (40) ______ made his works have the most unique expression of Scottish people.",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writer in the history of Scotland, but Sir Walter Scott is more proficient in (36) ______ while Stevenson has better (37) ______Scott's books illustrate ______especially in terms of tragedy, but a lot of readers prefer Stevenson's (39) ______What's more, Stevenson's understanding of (40) ______ made his works have the most unique expression of Scottish people.",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writer in the history of Scotland, but Sir Walter Scott is more proficient in (36) ______ while Stevenson has better (37) ______Scott's books illustrate (38) ______especially in terms of tragedy, but a lot of readers prefer Stevenson's ______What's more, Stevenson's understanding of (40) ______ made his works have the most unique expression of Scottish people.",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-139-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writer in the history of Scotland, but Sir Walter Scott is more proficient in (36) ______ while Stevenson has better (37) ______Scott's books illustrate (38) ______especially in terms of tragedy, but a lot of readers prefer Stevenson's (39) ______What's more, Stevenson's understanding of ______ made his works have the most unique expression of Scottish people.",
+          "answer": "I",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Robert Louis Stevenson",
+        "text": "(A) Scottish novelist, poet, essayist, and travel writer, Robert Louis Stevenson was born at 8 Howard Place, Edinburgh, Scotland, on 13 November 1850. It has been more than 100 years since his death. Stevenson was a writer who caused conflicting opinions about his works. On one hand, he was often highly praised for his expert prose and style by many English-language critics. On the other hand, others criticised the religious themes in his works, often misunderstanding Stevenson's own religious beliefs. Since his death a century before, critics and biographers have disagreed on the legacy of Stevenson's writing. Two biographers, KF and CP , wrote a biography about Stevenson with a clear focus. They chose not to criticise aspects of Stevenson's personal life. Instead, they focused on his writing, and gave high praise to his writing style and skill. The literary pendulum has swung these days. Different critics have different opinions towards Robert Louis Stevenson's works. Though today, Stevenson is one of the most translated authors in the world, his works have sustained a wide variety of negative criticism throughout his life. It was like a complete reversal of polarity—from highly positive to slightly less positive to clearly negative; after being highly praised as a great writer, he became an example of an author with corrupt ethics and lack of moral. Many literary critics passed his works off as children's stories or horror stories, and thought to have little social value in an educational setting. Stevenson's works were often excluded from literature curriculum because of its controversial nature. These debates remain, and many critics still assert that despite his skill, his literary works still lack moral value. One of the main reasons why Stevenson's literary works attracted so much criticism was due to the genre of his writing. Stevenson mainly wrote adventure stories, which was part of a popular and entertaining writing fad at the time. Many of us believe adventure stories are exciting, offers engaging characters, action, and mystery but ultimately can't teach moral principles. The plot points are one-dimensional and rarely offer a deeper moral meaning, instead focusing on exciting and shocking plot twists and thrilling events. His works were even criticised by fellow authors. Though Stevenson's works have deeply influenced Oscar Wilde, Wilde often joked that Stevenson would have written better works if he wasn't born in Scotland. Other authors came to Stevenson's defence, including Galsworthy who claimed that Stevenson is a greater writer than Thomas Hardy. Despite Wilde's criticism, Stevenson's Scottish identity was an integral part of his written works. Although Stevenson's works were not popular in Scotland when he was alive, many modern Scottish literary critics claim that Sir Walter Scott and Robert Louis Stevenson are the most influential writers in the history of Scotland. While many critics exalt Sir Walter Scott as a literary genius because of his technical ability, others argue that Stevenson deserves the same recognition for his natural ability to capture stories and characters in words. Many of Scott's works were taken more seriously as literature for their depth due to their tragic themes, but fans of Stevenson praise his unique style of story-telling and capture of human nature. Stevenson's works, unlike other British authors, captured the unique day to day life of average Scottish people. Many literary critics point to this as a flaw of his works. According to the critics, truly important literature should transcend local culture and stories. However, many critics praise the local taste of his literature. To this day, Stevenson's works provide valuable insight to life in Scotland during the 19th century. Despite much debate of Stevenson's writing topics, his writing was not the only source of attention for critics. Stevenson's personal life often attracted a lot of attention from his fans and critics alike. Some even argue that his personal life eventually outshone his writing. Stevenson had been plagued with health problems his whole life, and often had to live in much warmer climates than the cold, dreary weather of Scotland in order to recover. So he took his family to a south pacific island Samoa, which was a controversial decision at that time. However, Stevenson did not regret the decision. The sea air and thrill of adventure complimented the themes of his writing, and for a time restored his health. From there, Stevenson gained a love of travelling, and for nearly three years he wandered the eastern and central Pacific. Much of his works reflected this love of travel and adventure that Stevenson experienced in the Pacific islands. It was as a result of this biographical attention that the feeling grew that interest in Stevenson's life had taken the place of interest in his works. Whether critics focus on his writing subjects, his religious beliefs, or his eccentric lifestyle of travel and adventure, people from the past and present have different opinions about Stevenson as an author. Today, he remains a controversial yet widely popular figure in Western literature."
+      }
+    }
+  ]
+}

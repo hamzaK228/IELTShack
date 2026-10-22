@@ -1,0 +1,766 @@
+{
+  "id": "pte-reading-67",
+  "title": "Academic Reading — Practice Test 67",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: caves",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-67-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There are several ______of caves with the most common and largest being located in limestone or marble. Coastal caves are created in cliffs usually by waves. In lava flows, the solidified outer crusts that remain once the molten core has drained away also form (2) ______Limestone is to be found all over New Zealand, but not all of it contains caves. While many caves are known, there are large numbers that have yet to be uncovered. The main (3) ______for limestone caves are Te Kuiti Group rocks.",
+          "answer": "types",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There are several (1) ______of caves with the most common and largest being located in limestone or marble. Coastal caves are created in cliffs usually by waves. In lava flows, the solidified outer crusts that remain once the molten core has drained away also form ______Limestone is to be found all over New Zealand, but not all of it contains caves. While many caves are known, there are large numbers that have yet to be uncovered. The main (3) ______for limestone caves are Te Kuiti Group rocks.",
+          "answer": "tunnels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There are several (1) ______of caves with the most common and largest being located in limestone or marble. Coastal caves are created in cliffs usually by waves. In lava flows, the solidified outer crusts that remain once the molten core has drained away also form (2) ______Limestone is to be found all over New Zealand, but not all of it contains caves. While many caves are known, there are large numbers that have yet to be uncovered. The main ______for limestone caves are Te Kuiti Group rocks.",
+          "answer": "areas",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Earth moving creating ______at partings",
+          "answer": "cracks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Rain water trickling down through the soil and ______in rocks",
+          "answer": "fractures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Once ______opened",
+          "answer": "passages",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Extended by sand/ pebbles, taken along by ______",
+          "answer": "streams",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "or silt and pebble accumulation changes stream course ______",
+          "answer": "erosion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO of the following features of caves in the softer limestones are mentioned in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are often long"
+            },
+            {
+              "id": "B",
+              "text": "they are all at least 7.2km long"
+            },
+            {
+              "id": "C",
+              "text": "most of them are vertical"
+            },
+            {
+              "id": "D",
+              "text": "they only ever have one passage"
+            },
+            {
+              "id": "E",
+              "text": "they are characteristically horizontal"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which TWO of the following features of caves in the softer limestones are mentioned in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are often long"
+            },
+            {
+              "id": "B",
+              "text": "they are all at least 7.2km long"
+            },
+            {
+              "id": "C",
+              "text": "most of them are vertical"
+            },
+            {
+              "id": "D",
+              "text": "they only ever have one passage"
+            },
+            {
+              "id": "E",
+              "text": "they are characteristically horizontal"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The limestone found in New Zealand is more than 450 million years old.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Stalactites are more often white to yellow than brown or red.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Stalagmites never grow very large.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "caves",
+        "text": "1 Caves are natural underground spaces, commonly those into which man can enter. There are three major types: the most widespread and extensive are those developed in soluble rocks, usually limestone or marble, by underground movement of water; on the coast are those formed in cliffs generally by the concentrated pounding of waves along joints and zones of crushed rock; and a few caves are formed in lava flows, where the solidified outer crust is left after the molten core has drained away to form rough tunnels, like those on the small basalt volcanoes of Auckland. 2 Limestone of all ages, ranging from geologically recent times to more than 450 million years ago, is found in many parts of New Zealand, although it is not all cavernous. Many caves have been discovered, but hundreds still remain to be explored. The most notable limestone areas for caves are the many hundreds of square kilometres of Te Kuiti Group (Oligocene) rocks from Port Waikato south to Mokau and from the coast inland to the Waipa Valley – especially in the Waitomo district; and the Mount Arthur Marble (upper Ordovician) of the mountains of north-west Nelson (fringed by thin bands of Oligocene limestone in the valleys and near the coast). 3 Sedimentary rocks (including limestone) are usually laid down in almost horizontal layers or beds which may be of any thickness, but most commonly of 5-7.5 cm. These beds may accumulate to a total thickness of about a hundred metres. Pure limestone is brittle, and folding due to earth movements causes cracks along the partings, and joints at angles to them. Rain water percolates down through the soil and the fractures in the underlying rocks to the water table, below which all cavities and pores are filled with water. This water, which is usually acidic, dissolves the limestone along the joints and, once a passage is opened, it is enlarged by the abrasive action of sand and pebbles carried by streams. Extensive solution takes place between the seasonal limits of the water table. Erosion may continue to cut down into the floor, or silt and pebbles may build up floors and divert stream courses. Most caves still carry the stream that formed them. 4 Caves in the softer, well-bedded Oligocene limestones are typically horizontal in development, often with passages on several levels, and frequently of considerable length. Gardner's Gut, Waitomo, has two main levels and more than seven kilometres of passages. Plans of caves show prominent features, such as long, narrow, straight passages following joint patterns as in Ruakuri, Waitomo, or a number of parallel straights oriented in one or more directions like Te Anaroa, Rockville. Vertical cross sections of cave passages may be tall and narrow following joints, as in Burr Cave, Waitomo; large and ragged in collapse chambers, like Hollow Hill, Waitomo (233m long, 59.4m wide, and 30.48m high); low and wide along bedding planes, as in Luckie Strike, Waitomo; or high vertical water-worn shafts, like Rangitaawa Shaft (91m). Waitomo Caves in the harder, massive Mount Arthur Marble (a metamorphosed limestone) are mainly vertical in development, many reaching several hundred metres, the deepest known being Harwood Hole, Takaka (370m). 5 The unique beauty of caves lies in the variety of mineral encrustations which are found sometimes completely covering walls, ceiling, and floor. Stalactites (Gk. stalaktos, dripping) are pendent growths of crystalline calcium carbonate (calcite) formed from solution by the deposition of minute quantities of calcite from percolating ground water. They are usually white to yellow in colour, but occasionally are brown or red. Where water evaporates faster than it drips, long thin straws are formed which may reach the floor or thicken into columns. If the source of water moves across the ceiling, a thin drape, very like a stage curtain, is formed. Helictites are stalactites that branch or curl. Stalagmites (Gk. stalagmos, that which dripped) are conical or gnarled floor growths formed by splashing, if the water drips faster than it evaporates. These may grow toward the ceiling to form columns of massive proportions. Where calcite is deposited by water spreading thinly over the walls or floor, flowstone is formed and pools of water may build up their edges to form narrow walls of rimstone. Gypsum (calcium sulphate) is a white cave deposit of many crystal habits which are probably dependent on humidity. The most beautiful form is the gypsum flower which extrudes from a point on the cave wall in curling and diverging bundles of fibres like a lily or orchid."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Passage 2",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-67-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The direction of water going down the plug-hole",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not related to where you are"
+            },
+            {
+              "id": "B",
+              "text": "is independent of the side of the Equator you are on"
+            },
+            {
+              "id": "C",
+              "text": "is linked to the side of the Equator you are on"
+            },
+            {
+              "id": "D",
+              "text": "was first discovered by the Daily Mail in the 1950s"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In determining left-handedness, hereditary factors are generally considered",
+          "options": [
+            {
+              "id": "A",
+              "text": "as important"
+            },
+            {
+              "id": "B",
+              "text": "as having no impact"
+            },
+            {
+              "id": "C",
+              "text": "as being a major influence"
+            },
+            {
+              "id": "D",
+              "text": "as being the prime cause"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The reason why",
+          "options": [
+            {
+              "id": "A",
+              "text": "almost everyone is right-handed is unknown"
+            },
+            {
+              "id": "B",
+              "text": "some people are right-handed is ambiguous"
+            },
+            {
+              "id": "C",
+              "text": "Plato worked out the mystery of left-handedness is not known"
+            },
+            {
+              "id": "D",
+              "text": "many people are right-handed is now clear"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The word 'southpaw' is",
+          "options": [
+            {
+              "id": "A",
+              "text": "an Anglo-Saxon term"
+            },
+            {
+              "id": "B",
+              "text": "not a negative term"
+            },
+            {
+              "id": "C",
+              "text": "suggestive of evil"
+            },
+            {
+              "id": "D",
+              "text": "a negative term"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The left was connected with",
+          "options": [
+            {
+              "id": "A",
+              "text": "being unclean by the Greeks"
+            },
+            {
+              "id": "B",
+              "text": "goodness by the French"
+            },
+            {
+              "id": "C",
+              "text": "fortune and bird-flight by many cultures"
+            },
+            {
+              "id": "D",
+              "text": "good fortune in ancient Greece and Rome"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who was the originator of the political concept of left? ______",
+          "answer": "Thomas Carlyle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What did the ancient Romans use to predict the future? ______",
+          "answer": "bird-flight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What does an itchy palm in the left hand mean? ______",
+          "answer": "losing money",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In which direction is wine passed round the table? ______",
+          "answer": "clockwise",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Gorillas, unlike other primates, ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Fish colour and eye position ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Most plant climbers ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the past some experts",
+          "options": [
+            {
+              "id": "A",
+              "text": "appear to have been against left-handedness"
+            },
+            {
+              "id": "B",
+              "text": "are usually the same in both hemispheres"
+            },
+            {
+              "id": "C",
+              "text": "are apparently not always dependent on hemisphere"
+            },
+            {
+              "id": "D",
+              "text": "seem to have difficulty using both hands"
+            },
+            {
+              "id": "E",
+              "text": "looked on left-handedness with indifference"
+            },
+            {
+              "id": "F",
+              "text": "tend to grow clockwise rather that anti-clockwise"
+            },
+            {
+              "id": "G",
+              "text": "seem to use their left-hand more"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "H These are all questions which the medical profession in the UK has recently had to address, and which remain the subject of continuing debate. One thing is clear, however: the higher a profession's status, the better equipped it is to meet these challenges.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Left-handedness and primates"
+            },
+            {
+              "id": "B",
+              "text": "A defence of right-handedness"
+            },
+            {
+              "id": "C",
+              "text": "A defence of left-handedness"
+            },
+            {
+              "id": "D",
+              "text": "Left-handedness and good luck"
+            },
+            {
+              "id": "E",
+              "text": "Left-handedness and bad luck"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Passage 2",
+        "text": "1 Left- or right-handed bath water? This seems a silly question, but it was the subject of a serious scientific investigation sponsored by the Daily Mail in 1965. The investigation showed that the direction water swirls down the plug-hole vortex depends on which side of the Equator you are. 2 As for homo sapiens, between 5 and 30% of the population are estimated to be left-handed, with more males than females, although -in one test, 95% of foetuses were found to suck their right thumb in the womb. The general consensus of opinion is that left-handedness is determined by a dominant right cerebral hemisphere controlling the left side of the body, and vice versa. Hereditary factors have been ruled out. So too have earlier theories concerning the need for soldiers to shield their hearts, and the desirability of learning to use Stone Age tools and implements with the hand they were designed for, as well as Plato's idea that it all boiled down to which arm a baby was cradled with. However, the almost universal human preference for dextrality, or right-handedness, remains a mystery. 3 Prejudice against the left hand dates back to ancient times and is so entwined with religious beliefs and superstitions that it still exists today in everyday speech. Sinister, the Latin for left hand, means 'suggestive of evil' in English, while the French gauche is awkward, or clumsy. Left itself derives from Anglo Saxon lef (weak and fragile). The non-judgmental term southpaw, by contrast, originates from the Chicago baseball stadium where pitchers faced west, so the pitching arm of a left-hander is to the South. 4 Other negative terms include pen pushers, while a left-handed compliment, is actually an insult. Thomas Carlyle, who described right-handedness as the oldest institution in the world, introduced the political concept of 'left' in his work on the French Revolution – in the 1789 Paris Assembly the nobles sat on the right, opposite the radicals. 5 Associations with luck also go back to early history. The ancient Greek and Roman augurs foretold the future from bird-flight. While the former faced North, with the propitious sunrise side to their right, the latter, before changing later, when sinister took on its ominous meaning, looked southward, so the left was for good omens. 6 Superstitions world-wide reflect this bias. In Morocco, as in many countries, an itchy left palm means losing money, and a twitching left eyelid denotes the death of a relative or sorrow, whereas the right side has felicitous indications. We throw salt over our left shoulder to thwart the demons creeping up on us, but bless with the right hand. One pours wine with this hand and passes it round the table clockwise, the direction of the sun. 7 Our relatives, the primates, appear to be ambidextrous, or able to use both hands, although gorillas have heavier left arms seemingly due to greater utilization. Aristotle observed that crabs and lobsters had larger right claws. Rats are 80% dextral, yet polar bears are believed to be left-pawed. Flat fish provide interesting data: in northern seas plaice and sole have their eyes and colour on the right side, but tropical halibut are the other way round. If this is to do with light and sun rotation, it may explain why Indian Ocean sole are reversed, but not why northern halibut are' just as sinistral as their southern cousins. In the plant kingdom, honeysuckle is a rare example of a left-handed climber that twines anti-clockwise, or widdershins! 8 Although we live in a more tolerant age, not so long ago in the UK youngsters were forced to use their right hand, 'to learn the value of conformity' (A. N. Palmer), often resulting in the stuttering speech defects common in 'switched sinistrals' like George VI. In the 1950s the American psychiatrist Abram Blau accused left-handed children of infantile perversity and a stubborn refusal to accept dextrality. 9 Not all experts were so anti- sinistral, however. The 17th century Norfolk scholar Sir Thomas Browne wrote of the prejudices against left- handedness, but accepted that a small proportion of people would always be so and saw no reason to prevent them. Apart from being considered difficult, anti-social troublemakers, left-handers have also been thought to be artistic, creative and gifted. 10 Famous lefties include Leonardo da Vinci, Michelangelo, Benjamin Franklin, Bill Clinton, Joan of Arc, Lewis Carroll, Paul McCartney, Jimi Hendrix, Jean Genet, Beethoven and many others. 11 Finally, in defence of all sinistrals, if the left side of the body is really controlled by the right hemisphere of the brain, then left-handers are the only people in their right minds!"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: physician rule thyself",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-67-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how professionals have adjusted to socio-cultural developments",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the typical characteristics that a profession has",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the role that is played by governments in different countries",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a description of the relationship between professionals and their clients",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the fact that there is no clear definition of what a profession is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Professionals cannot always ensure that the______given will satisfy the client.",
+          "answer": "(specialist) advice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Liberal market principles in the US have meant that the state has had less impact on the development of the professions than______",
+          "answer": "academic institutions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An agreed set of qualifications and experience give professionals a______",
+          "answer": "licence to practice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Over the past 50 years or so, the status of politicians has been in______",
+          "answer": "(long-term) decline",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There is a doubt as to whether______is a mechanism to safeguard a profession's social and economic privileges.",
+          "answer": "self regulation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Various public influencesprofessionals ______about work",
+          "answer": "more open",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Modern technologypeople more knowledgeable and so more ______",
+          "answer": "demanding",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-67-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Progress in professional knowledgea greater degree of ______needed",
+          "answer": "specialisation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "physician rule thyself",
+        "text": "(A) When is an occupation a profession? There appears to be no absolute definition, but only different ways of looking at the issue, from historical, cultural, sociological, moral, political, ethical or philosophical viewpoints. It is often said that professions are elites who undertake specialized, selfless work, in accordance with ethical codes, and that their work is guaranteed by examination and a licence to practise. In return, however, they request exclusive control over a body of knowledge, freedom to practise, special rewards and higher financial and economic status.\n\n(B) The public needs experts to offer them specialist advice, but because this advice is specialized they are not in a position to know what advice they need: this has to be defined in conversation with the professional. Professional judgement could be at odds with client satisfaction since the latter cannot then be \"the chief measure of whether the professional has acted in a trustworthy fashion.\" Professional elites have negative potential: to exploit their power and prestige for economic goals; to allow the search for the necessary theoretical or scientific knowledge to become an end in itself; to lose sight of client well-being in the continuing fragmentation of specialist knowledge.\n\n(C) Professions in different cultures are subject to different levels of state intervention, and are shaped by this. In England our relatively weak state and the organic growth of professional groups, many of them licensed by Royal Charter, means that regulation became an arrangement among elites. Similarly, in the US, where liberal market principles have had a free rein, academic institutions have had more influence than the state in the development of the professions. By contrast, in many European countries the state has defined and controlled the market for the professions since the late eighteenth and early nineteenth centuries. In all cases, the activities of the professions affect public interest, and so the state has a legitimate interest in them.\n\n(D) In general, the higher the social status of a profession the greater the degree of public trust in it, and the more freedom to operate it enjoys. There are, however, certain features which appear to be common to most, if not all, professions. In addition to a specialised knowledge base, it appears that there is an agreed set of qualifications and experience which constitutes a licence to practise. There is also frequently an agreed title or form of address, coupled with a particular, often conservative, public image, and an accepted mode of dress. Standards are maintained mainly through self-regulatory bodies. Also, financial rewards may be increased through private practice.\n\n(E) Within different cultures, and at different times, the relative status of different professions may vary. For example, in Western Europe, the status of politicians has been in long-term decline since the middle of the twentieth century. Teachers would appear to have higher status in France and Italy than in the UK, where medicine and the law have traditionally been the 'elite professions'.\n\n(F) The higher a profession's social status the more freedom it enjoys. Therefore, an occupation wanting to maintain or improve its status will try to retain as much control as possible over its own affairs. As in so many other areas, socio-cultural change has affected the professions considerably in recent years. Market forces and social pressures have forced professionals to be more open about their modes of practice. In addition, information technology has enabled the public to become much better informed, and therefore more demanding. Moreover, developments in professional knowledge itself have forced a greater degree of specialisation on experts, who constantly have to retrain and do research to maintain their position.\n\n(G) Self-regulation then becomes an even more important thing for a profession to maintain or extend. But in whose interests? Is self-regulation used to enable a profession to properly practise without undue interference, or is it used to maintain the status of the profession for its own ends? Is it used to enable those with appropriate education and training to join the profession? Another question that needs to be answered is whether self-regulation restricts access so that the profession retains its social and economic privileges? Or again is it used to protect clients by appropriately disciplining those who have transgressed professional norms, or to protect the public image of the profession by concealing allegations that would damage it?\n\n(H) These are all questions which the medical profession in the UK has recently had to address, and which remain the subject of continuing debate. One thing is clear, however: the higher a profession's status, the better equipped it is to meet these challenges."
+      }
+    }
+  ]
+}

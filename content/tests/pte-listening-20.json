@@ -1,0 +1,590 @@
+{
+  "id": "pte-listening-20",
+  "title": "Listening — Practice Test 20",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-20-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mr. Jones moved to Los Angeles",
+          "options": [
+            {
+              "id": "A",
+              "text": "two weeks ago"
+            },
+            {
+              "id": "B",
+              "text": "three weeks ago"
+            },
+            {
+              "id": "C",
+              "text": "two days ago"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When does Mr. Jones have to go to his office? ______",
+          "answer": "next monday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mr. Jones for a(n)",
+          "options": [
+            {
+              "id": "A",
+              "text": "insurance company"
+            },
+            {
+              "id": "B",
+              "text": "medical company"
+            },
+            {
+              "id": "C",
+              "text": "real estate company"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mr. Jones' appointment with the doctor is at ______ am on",
+          "answer": "9",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jones' appointment with the doctor is at (4) am on ______",
+          "answer": "thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jones to have ______ (7) (8)",
+          "answer": "blood pressure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jones to have (6) ______ (8)",
+          "answer": "urine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jones to have (6) (7) ______",
+          "answer": "ECG",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is Mr. Jones' home telephone number including the area code? ______",
+          "answer": "8055230296",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is secretary's first name? ______",
+          "answer": "Rebecca",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mr. Smith manages group tours to Australia, New Zealand and the ______",
+          "answer": "southsea islands",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Morning Sun Travel did some and developed their new tour. ______",
+          "answer": "(market) research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "From the Five Seasons Hotel Sydney, one can clearly see a harbor, a bridge and ______",
+          "answer": "opera house",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mr. Smith says that to get used to the time difference it is best to",
+          "options": [
+            {
+              "id": "A",
+              "text": "have a rest"
+            },
+            {
+              "id": "B",
+              "text": "visit a harbor"
+            },
+            {
+              "id": "C",
+              "text": "go outside"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A wombat looks like a with two short legs. ______",
+          "answer": "bear",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "After the visit to the Sydney Olympic Site the tour group will return to downtown Sydney by",
+          "options": [
+            {
+              "id": "A",
+              "text": "bus"
+            },
+            {
+              "id": "B",
+              "text": "boat"
+            },
+            {
+              "id": "C",
+              "text": "seaplane"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How high will the seaplane fly over Bondi Beach? ______",
+          "answer": "500 feet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "and (19) cuisine. ______",
+          "answer": "greek",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(18) and ______ cuisine.",
+          "answer": "mexican",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "After Sydney, what is the destination on the tour itinerary? ______",
+          "answer": "melbourne",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why is Ann late preparing her talk?",
+          "options": [
+            {
+              "id": "A",
+              "text": "her mother is ill"
+            },
+            {
+              "id": "B",
+              "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+            },
+            {
+              "id": "C",
+              "text": "Ann and her mother cannot pay for extra help"
+            },
+            {
+              "id": "D",
+              "text": "the neighbours are all too busy to help her mother"
+            },
+            {
+              "id": "E",
+              "text": "she spends too much time playing computer games"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why is Ann late preparing her talk?",
+          "options": [
+            {
+              "id": "A",
+              "text": "her mother is ill"
+            },
+            {
+              "id": "B",
+              "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+            },
+            {
+              "id": "C",
+              "text": "Ann and her mother cannot pay for extra help"
+            },
+            {
+              "id": "D",
+              "text": "the neighbours are all too busy to help her mother"
+            },
+            {
+              "id": "E",
+              "text": "she spends too much time playing computer games"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why is Ann late preparing her talk?",
+          "options": [
+            {
+              "id": "A",
+              "text": "her mother is ill"
+            },
+            {
+              "id": "B",
+              "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+            },
+            {
+              "id": "C",
+              "text": "Ann and her mother cannot pay for extra help"
+            },
+            {
+              "id": "D",
+              "text": "the neighbours are all too busy to help her mother"
+            },
+            {
+              "id": "E",
+              "text": "she spends too much time playing computer games"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When studying ______ in high school, Bill read about an experiment on how wearing a uniform can change people's (25)",
+          "answer": "social studies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When studying (24) in high school, Bill read about an experiment on how wearing a uniform can change people's ______",
+          "answer": "personalities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bill thinks that the professor is from",
+          "options": [
+            {
+              "id": "A",
+              "text": "University of America"
+            },
+            {
+              "id": "B",
+              "text": "University of California"
+            },
+            {
+              "id": "C",
+              "text": "University of Los Angeles"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The police took the students to a",
+          "options": [
+            {
+              "id": "A",
+              "text": "school"
+            },
+            {
+              "id": "B",
+              "text": "prison"
+            },
+            {
+              "id": "C",
+              "text": "police station"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Bill say the arrested students did not know the other students?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they had not been introduced"
+            },
+            {
+              "id": "B",
+              "text": "they went to different schools"
+            },
+            {
+              "id": "C",
+              "text": "to prevent them realizing they were there for the experiment they had signed up for"
+            },
+            {
+              "id": "D",
+              "text": "the other students were in uniform"
+            },
+            {
+              "id": "E",
+              "text": "the professor did not want them to know each other"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Bill say the arrested students did not know the other students?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they had not been introduced"
+            },
+            {
+              "id": "B",
+              "text": "they went to different schools"
+            },
+            {
+              "id": "C",
+              "text": "to prevent them realizing they were there for the experiment they had signed up for"
+            },
+            {
+              "id": "D",
+              "text": "the other students were in uniform"
+            },
+            {
+              "id": "E",
+              "text": "the professor did not want them to know each other"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bill says the 'prisons' started having ______",
+          "answer": "nervous breakdown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The lecturer will talk about",
+          "options": [
+            {
+              "id": "A",
+              "text": "the media"
+            },
+            {
+              "id": "B",
+              "text": "the internet"
+            },
+            {
+              "id": "C",
+              "text": "types of message"
+            },
+            {
+              "id": "D",
+              "text": "Yahoo"
+            },
+            {
+              "id": "E",
+              "text": "advertising"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The lecturer will talk about",
+          "options": [
+            {
+              "id": "A",
+              "text": "the media"
+            },
+            {
+              "id": "B",
+              "text": "the internet"
+            },
+            {
+              "id": "C",
+              "text": "types of message"
+            },
+            {
+              "id": "D",
+              "text": "Yahoo"
+            },
+            {
+              "id": "E",
+              "text": "advertising"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "type ______",
+          "answer": "type",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "message ______",
+          "answer": "message",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Advertisers always want to change people's",
+          "options": [
+            {
+              "id": "A",
+              "text": "buying habits"
+            },
+            {
+              "id": "B",
+              "text": "life"
+            },
+            {
+              "id": "C",
+              "text": "working habits"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People usually buy ______ because they recognize the name of the manufacture. The speaker says that Shell has purchased a (37) and marketed a beer they called (38) San Fran Video Store handed out cards with a (39) and a (40) Of the store locations of them.",
+          "answer": "products",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People usually buy (36) because they recognize the name of the manufacture. The speaker says that Shell has purchased a ______ and marketed a beer they called (38) San Fran Video Store handed out cards with a (39) and a (40) Of the store locations of them.",
+          "answer": "brewery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People usually buy (36) because they recognize the name of the manufacture. The speaker says that Shell has purchased a (37) and marketed a beer they called ______ San Fran Video Store handed out cards with a (39) and a (40) Of the store locations of them.",
+          "answer": "grandads old air",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People usually buy (36) because they recognize the name of the manufacture. The speaker says that Shell has purchased a (37) and marketed a beer they called (38) San Fran Video Store handed out cards with a ______ and a (40) Of the store locations of them.",
+          "answer": "message",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-20-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People usually buy (36) because they recognize the name of the manufacture. The speaker says that Shell has purchased a (37) and marketed a beer they called (38) San Fran Video Store handed out cards with a (39) and a ______ Of the store locations of them.",
+          "answer": "list",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/20_we.mp3"
+    }
+  ]
+}

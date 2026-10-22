@@ -1,0 +1,744 @@
+{
+  "id": "pte-gt-reading-62",
+  "title": "General Training Reading — Practice Test 62",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: WHAT'S ON IN WINTER",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-62-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which two activities involve outdoor sport? (Ex:A,B) ______",
+          "answer": "A, B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which activity would music lovers enjoy? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which activity is held monthly? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which activity would suit young science lovers? ______",
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "WHAT'S ON IN WINTER",
+        "text": "(A) The Great Outdoors\n\nSundays, June and July\n\nORIENTEERING Where: various bush and farm locations Orienteering is an outdoor activity that combines adventure and sport with navigational skills through the bush. Take a hike or mountain-bike ride through a set course in a different bush or farm location on each excursion with guidance from a compass and a map. Each course is within an hour's drive of the CBD. This is a fun, easy way to enhance fitness for the whole family, ages 7-70. To learn more about orienteering or sign up for a course, visit wa.orienteering. asn.au or call 9215 0700.\n\n(B) Mountain Designs Adventure Race Australia\n\n4 July\n\nWhere: bush camp and forest retreat Adventure Race Australia heightens the thrill of adventure racing, combining biking, running, trekking, kayaking, rock climbing and other adventure sports to test physical strength, endurance and willpower. The race caters to both inexperienced and seasoned racers with a 'Raw' course for beginners and a 'Hardcore' course for racers who want an extra challenge. To get involved go to adventureaustralia.com.au\n\n(C) Film Frenzy\n\n21 June & 19 July\n\nMEMORABLE MOVIES IN MIDLAND\n\nWhere: Town Hall Take a trip down memory lane at the Memorable Movies gathering, held once a month. This June the memorable movie is Roman Holiday, the 1953 classic starring Gregory Peck and Audrey Hepburn. Then in July there is a school holiday special presentation of The World's Fastest Indian, a true-life story of motorcycle enthusiast and world-record breaker Burt Munro, starring Anthony Hopkins.\n\n(D) Festivals and Fairs\n\n17 to 19 June\n\nHILLARYS ANTIQUE AND VINTAGE FAIR\n\nWhere: Hillarys Boat Harbour The Antique and Vintage Fair will showcase hidden treasures from the past, including fascinating items from antique furniture to retro fashion. Antique valuers will also be on the premises to give expert advice on buying and selling as attendees peruse the various stalls underneath one giant tent.\n\n(E) Music Magic\n\n29 to 30 July\n\n(A) TRIBUTE TO LOUIS ARMSTRONG\n\nWhere: Concert Hall Louis Armstrong revolutionised American jazz and dominated the scene for more than 60 years. He defines the jazz style and is a legendary figure in music history. Conductor Benjamin Northey will accompany trumpeter James Morrison to pay tribute to the famous musician by playing some of his most well-known and beloved hits. Go to waso.com.au for more details.\n\n(F) All the Rest\n\nUntil 18 October\n\nWHODUNNIT? EXHIBITION\n\nWhere: Scitech Become a detective for a day at the Whodunnit? Exhibition. The exhibition is a fabricated crime scene in a zoo: someone has shot and killed a security guard, and a famous white rhino is missing. Guests use forensic science to obtain evidence and solve the crimes. For details visit scitech.org."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: BARE-HEADED BIKER DIES IN HELMET PROTEST RIDE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-62-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "This incident took place in Onondaga, New York.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The motorcyclist was wearing a helmet when he crashed and died.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "More than a hundred motorcyclists were taking part in this protest ride.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "New York State requires motorcyclists to wear helmets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All states in the USA require motorcyclists to wear helmets.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Protests in the USA against compulsory use of motorcycle helmets have at times been successful.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Access roads to the national park can at times be closed due to ______",
+          "answer": "heavy rain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Using wood for campfires in the park is not encouraged, so campers are asked to use a ______for cooking.",
+          "answer": "portable gas stove",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is not permitted for visitors to collect rocks, ______from the national park.",
+          "answer": "gemstones and fossils",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Visitors can stay overnight at the camping ground near the Gorge, or can ______to other accommodation at Gascoyne Junction.",
+          "answer": "travel/drive 60 km/be arranged",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "BARE-HEADED BIKER DIES IN HELMET PROTEST RIDE",
+        "text": "New York. A motorcyclist taking part in a protest against helmet laws has died after he went over his handlebars and hit his head on the pavement. Philip Contos, 55, probably would have survived the accident on Saturday in Onondaga if he was wearing a helmet, police said. Mr Contos was riding a Harley-Davidson when he braked and lost control. New York is one of 20 states that require motorcyclists to wear helmets. Lobbying by motorcyclist groups has led some states to repeal helmet laws."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: POLYTECHNIC WEST AMEP HOME TUTOR ROLE DESCRIPTION",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-62-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A volunteer who wants to work with ______needs to provide extra documentation.",
+          "answer": "people under",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In addition to language, tutors must also help students understand ______",
+          "answer": "Australian culture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Volunteers will not be paid for ______",
+          "answer": "travel and expenses",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tutors need to ______to further their skills and knowledge.",
+          "answer": "undertake training",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tutors are given training in ______of other cultures.",
+          "answer": "awareness",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Volunteers must keep in touch with ______staff.",
+          "answer": "Home Tutor Scheme",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Volunteers must tutor at least ______every week.",
+          "answer": "one hour",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "POLYTECHNIC WEST AMEP HOME TUTOR ROLE DESCRIPTION",
+        "text": "Position objective To provide English-language support, links to the community and an understanding of Australian culture to migrants and humanitarian entrants from culturally and linguistically diverse (CaLD) backgrounds.\n\nReporting line The Home Tutor Scheme Coordinator is the manager for all home tutors and directs the activities of all home tutors.\n\nTerms of voluntary employment The position is unpaid and voluntary. Reimbursement for travel and out-of- pocket expenses is not provided.\n\nEssential requirements\n\nEngagement as a home tutor is subject to\n\n• program needs\n\n• satisfactory police and referee checks\n\n• satisfactory Working With Children Check (WWCC) for those working with young people under the age of eighteen\n\n• completion of the required training program\n\n• participation in ongoing professional development • satisfactory performance and conduct.\n\nDuties\n\n• Provide English-language support and a general understanding of Australian culture and/ or\n\n• prepare appropriate sessions using standardised home tutor teaching materials\n\n• maintain regular contact with the Home Tutor Scheme staff\n\n• keep a record of visits, activities completed, and achievements on the forms supplied by the Home Tutor Scheme • return records to the Home Tutor Scheme each month.\n\nEssential skills and qualities\n\n• Proficient and intelligible spoken and written English\n\n• good interpersonal and communication skills\n\n• an understanding of and empathy with people from diverse cultural backgrounds\n\n• a non-judgemental attitude • an ability to work independently.\n\nTime commitment\n\n• Minimum of one hour per week • Minimum of six months duration.\n\nQualifications\n\nNo formal qualifications or proficiency in a second language are required\n\nMeeting places\n\n• The student's home\n\n• A Polytechnic West AMEP centre or community location • Another mutually convenient meeting place.\n\nTraining for volunteers\n\nHome tutors are provided with:\n\n• 15 hours initial training, including cross-cultural awareness training\n\n• ongoing advice and support\n\n• standardised, quality controlled home tutor guidance material (available online or in print)\n\n• regular newsletters\n\n• access to the Home Tutor Scheme blog • other resources supplied or suggested by the Home Tutor Scheme staff.\n\nDress code Neat casual and culturally appropriate.\n\nTermination of voluntary employment Employment as a volunteer is subject to satisfactory performance of the duties as outlined and adherence to the Code of Conduct-Home Tutor Scheme. Home tutors may be asked to leave the program if the Home Tutor Scheme Coordinator deems that they are unsatisfactory."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: UNIVERSITY LIFE: GROUP ORAL PRESENTATIONS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-62-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "First, ask your tutor how your team ______This will determine whether the whole team is to be assessed equally or whether individual marks will be awarded.",
+          "answer": "will be assessed/marked",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After exchanging contact details with other members of your team, brainstorm the task and decide as a team what the purpose of the task is and ______",
+          "answer": "what is required/its requirements/ the requirements",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Due to the balance of roles within your team, consider the ______of your team, as well as the problems your team might face.",
+          "answer": "strengths/strong points",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Decide which personal skills you each have that might be most helpful to your team. These could include computer skills, speaking ability, creative skills or being able to ______to meet a deadline.",
+          "answer": "finish/complete tasks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Plan and make a list of all tasks required for the presentation, and start to ______for particular tasks. Consider all issues, including who will obtain equipment and prepare visual aids.",
+          "answer": "organise and volunteer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Organise early meeting dates and decide on deadlines. If you plan to make a ______or slides, decide when you will all need to email attachments to each other so you can share information and decide on layout.",
+          "answer": "PowerPoint/PowerPoint presentation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "UNIVERSITY LIFE: GROUP ORAL PRESENTATIONS",
+        "text": "We have already discussed how to organise a group written assignment. We will repeat some of this information below, applying it to the oral presentation.\n\nPLANNING YOUR ORAL PRESENTATION\n\nFirst clarify with your lecturer how your group oral presentation will be assessed: • Will you be assessed on the group processes, or just on the product of your team? Will you all be given the same team mark, or is there an individual component within the mark? Has the lecturer put in place any procedures to deal with assessing students who do not do their fair share of the work? • Must all group members make the same contribution to the task (e.g. each member must speak for five minutes; each member must contribute to a group PowerPoint), or must you all make equivalent contributions to the task? In the latter case, for example, one member might put together the entire group PowerPoint, then speak for less time than the others during the group's oral presentation. As soon as you are given your group assignment, meet as a team very briefly to work through the following steps.\n\nSTEP 1 Immediately introduce yourselves, and exchange mobile phone numbers, email addresses and MSN (or other) sign-in names. Write these details down now (or enter them into your phones), but do not continue the process until you know each other's details.\n\nSTEP 2 Brainstorm the task you have been given. Clarify together the exact purpose of the presentation. Argue and talk until you all agree about the objective and the requirements. If the instructions seem ambiguous, talk to the lecturer and make sure you are all aware of any specifications or expectations of this assignment.\n\nSTEP 3 Look at the chart of Belbin's team roles. (If you haven't talked about this chart yet in class, you may need to spend some time discussing it in your group, or perhaps agree that you will all look at it at home and discuss it at your next meeting.) Talk about the roles each of you tends to play in teams, and consider the balance of roles you have in this team. Given the combination of roles you have, what strengths and problems do you anticipate your team might have?\n\nSTEP 4 It's time to be honest and tell each other about your own skills-those that are relevant to this team assignment. For example: • I am good at following through research, and getting all the details correct. • My critical reading skills are good-I give useful feedback on other people's ideas. I have lots of creative ideas. • I finish tasks on time. • I speak fluently and confidently. • I'm good at organising an audience (e.g. during a question-and-answer session or an audience involvement activity). • I can make excellent PowerPoint slides. Try to be open about your capabilities and expectations of the assignment. However, note that none of you can shirk the responsibility of being part of a team-you must all do an equal amount of work. Look back at the section on teamwork and conflict resolution. It is also a good time to talk about whether you are aiming for a High Distinction or a mere Pass. If there are discrepancies in the group on this point, try to resolve these in an adult manner. For example, if you are the only group member aiming for a High Distinction, consider these issues: • What are you prepared to do to make this more likely to happen? • How will you feel if other team members get a higher mark than they deserve thanks to your effort? • Are the other members prepared to meet you halfway?\n\nSTEP 5 Plan-and write down-all the tasks and roles you think are required for this assignment, and start to organise and volunteer for particular tasks. (But be aware that the tasks may change as you all start working on the assignment.) You will need to do more work at the next meeting to clarify exactly what you need to do to complete the assignment successfully. Consider all practical issues, such as obtaining equipment and preparing visual aids. If this is your first group work assignment, accept that this process may be imperfect, but as time passes you will all get to know each other more and know who does what job well. If this is the first time you have met your peers, try to use consensus to assign tasks or roles.\n\nSTEP 6 Organise at least two meeting dates now, and decide on some deadlines. Make the first meeting date soon-within the next seven days. Discuss the possibility of simultaneous chat time together. If you're going to make a team PowerPoint or set of overhead transparencies, make decisions about when you must email attachments to each other so that you can share information and make team layout decisions."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: DRIVEN TO DISTRACTION",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-62-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Different driver conversations carry different accident risks.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "With new in-car technologies there are new driver dangers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "There are different types of driver distractions, and statistics show how frequently drivers engage in them.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The role distraction plays in causing accidents can be seen from accident insurance claims.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The relationship between driving on familiar roads and distracted driving.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Development of in-car technology and how it could be used to block distracted driving behaviour.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The results of a measured test showing the impact on driving ability of specific distractive behaviour.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Section A"
+            },
+            {
+              "id": "B",
+              "text": "Section B"
+            },
+            {
+              "id": "C",
+              "text": "Section C"
+            },
+            {
+              "id": "D",
+              "text": "Section D"
+            },
+            {
+              "id": "E",
+              "text": "Section E"
+            },
+            {
+              "id": "F",
+              "text": "Section F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Research shows that a driver speaking to a passenger is less dangerous than a driver speaking on a mobile phone, because the passenger wilt automatically moderate the conversation depending on the surrounding driving conditions.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "On a familiar route for a driver, research shows that fewer accidents happen.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "To encourage sales of new cars, car manufacturers constantly develop new in-car technologies (such as USB ports and wi-fi access), and researchers believe that this development could contribute to further driver distraction and higher accident rates.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Although most people agree that the use of mobile phones while driving is distracting, nearly half admit they take calls, and around a third admit they make calls while driving.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Male drivers engaging in distracted behaviour such as texting or talking on a phone usually change their behaviour when they see a police car next to them; however, female drivers often continue with the behaviour or don't notice the police car.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-62-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A measured test showed that not every example of distractive behaviour has an impact on core driving competency.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "DRIVEN TO DISTRACTION",
+        "text": "(A) Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. 'If there is a marked police car, lots of people will change their behaviour, but with some of this behaviour, they are so caught up they don't notice the police car right next to them.'\n\n(B) Acting Sgt Green said drivers can feel falsely confident about the road conditions, particularly on familiar routes, but an accident can occur in seconds. 'On the roads the environment changes every day. You could drive down that street a hundred times but on the 101st time, there could be road works or a pedestrian that steps out-anything can happen,' he said. Despite recent changes to laws regarding the use of mobile phones-with a fine and three demerit points for people using them illegally-Acting Sgt Green said drivers still flout the law. Police are handing out an average of 225 infringement notices a week, down on past years' figures, but still very high. 'We are out there enforcing it but people are still using the phones on a daily basis and as they become more sophisticated, they are reading emails, sending messages, watching videos,' he said. 'If you are on the phone, you are not concentrating on what is going on around you.'\n\n(C) Identifying the exact role of distraction in crashes is difficult but the RA.C's Glen Walker said people making or def ending claims are quick to point out when the other driver is at fault. 'When you speak to someone to settle a claim they will say \"the other driver was too busy putting on lipstick and rear-ended me,\"' said Mr Walker, Manager of the Technical Claims Unit. 'Getting distracted while changing a CD is a very common one. So is reaching into the glove box. There was one guy who drove into a house because he was getting a bit amorous with the woman in the car.' Mr Walker said some of the stories of distracted driving can be amusing but in his previous work as a police officer he had seen fatal accidents caused by a momentary lapse of attention. 'It only takes just a little bit of distraction and things get very dangerous very fast.'\n\n(D) Professor Mark Stevenson is a leading road safety researcher and director of the Accident Research Centre and School of Public Health and Preventive Medicine at Monash University. He said the risks of mobile phones in cars have been well established, with major studies showing any use by a driver raises the risk of an accident. He and other researchers have examined the phone records of hundreds of drivers attending hospital after a crash, finding the risk of crashing is four times greater if the driver is using their mobile phone-regardless of whether it is hand-held or hands-free. While that may sound surprising, there are crucial differences between a conversation with a passenger and one on a mobile, he said. 'There have been laboratory studies that have shown that if you have a driver holding a conversation with a passenger, the passenger will moderate the conversation because they are scanning the scene in front of the vehicle and they can see the situation changing for the driver,' Professor Stevenson said. 'If you are at a complex intersection with a lot of traffic, lots of things around, what happens is that the passenger will moderate the conversation and not get into a heated debate right at that moment. That doesn't happen on the phone.' The pressure of maintaining a conversation in tricky road conditions reduces the driver's ability to react. 'It is the cognitive processing that's delayed-and that means reaction time and the manoeuvres required all slow down as a result of the phone conversation,' he said. Because of growing evidence that even hands-free phones can be dangerous, several Australian states have banned mobile phones in cars for P Platers and the Draft National Road Safety Strategy released this year even suggested that there was evidence to support a total ban on all mobile phone use while driving. 'We know from our research that it still increases the risk of crashing almost four-fold,' Professor Stevenson said. 'It's just not going far enough.'\n\n(E) If mobile phone use has been problematic for driver distraction, the next wave of in-car technology could be worse. In the US, the issue has received considerable public debate in the wake of high-profile cases, including a state police officer who crashed and killed two sisters after travelling at 200km/h while talking on the mobile and emailing from his laptop. In January, the US Transportation Secretary met with American carmakers, asking them to limit the use of distracting technology in vehicles. At the same time, however, struggling manufacturers hope that bundling technology into cars might boost sales, particularly among young drivers. Car manufacturer Ford is updating a system that will allow text messages and Facebook updates to be read to the driver, while other manufacturers are looking for ways to give drivers updates about nearby amenities and expand the dashboard display with USB ports, bigger maps and wi-fi access. 'The technology is developing so fast that our understanding of how much it increases our risk of crashing is not keeping up,' Professor Stevenson said. 'Are these things truly there to benefit us or are they just increasing the distraction factor for drivers?' While technology is helping cause the problems, Professor Stevenson believed it could also be used to fight distraction by switching off all phones and other devices-whether drivers want it to or not. 'There is potential down the track with in-vehicle technologies that you could block any transmission while the car is in motion,' he said. 'That would be a passive intervention-you don't need any behavioural change to ensure that happens.' RAC Head of Member Advocacy Matt Brown said members are already concerned by the level of mobile phone use they see on the roads and believes more care is needed before increasing the load. 'We want cars to be comfortable and user-friendly, but the safety of the driver and other road users has to be the top priority,' he said. 'You wouldn't go to a factory floor and clutter it up with devices that would take the worker's mind off the machinery. What happens in a car is no different.' 'In fact the law requires employers to remove any potential hazards.'\n\n(F) An open driving track with just a few orange cones to navigate doesn't sound like much of a challenge-but the mother and son who navigated the course for the RAC found it much tougher once they were asked to do something else at the same time. Kim, 52, said she was used to using a mobile phone in her own car through a Bluetooth system and found concentrating on buttons and the road at the same time difficult. 'I don't even dial my phone normally; it's voice activated and I just tell it to call the person and it does,' she said. 'It is really difficult to try to dial and talk and manage the phone and drive through the obstacles at the same time.' Kim found talking hands-free on the mobile relatively easy but struggled with texting and said programming the car's G PS system was almost impossible. Kim's son Matt, 21, was a bit more confident that he would be able to text while driving but negotiating the orange-cone chicanes and then a tight lane, designed to represent driving over a bridge, proved too difficult. 'I clipped the bridge and if it was real I guess I would have been getting wet,' he said. 'Texting was definitely harder than I expected and programming the GPS was very difficult.' RAC driver trainer Dave Meinen, who conducted the assessment, said the tests proved that even minor distractions could compromise a motorist's ability to drive. 'We tested the drivers against a range of distractions and every single one of them had an impact on core driving competencies, including driver attention, accuracy, lane control, speed control, hazard perception and reaction time,' Mr Meinen said. 'At the end of the day good drivers just drive; they don't get distracted.'"
+      }
+    }
+  ]
+}

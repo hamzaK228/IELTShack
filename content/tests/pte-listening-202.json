@@ -1,0 +1,532 @@
+{
+  "id": "pte-listening-202",
+  "title": "Listening — Practice Test 202",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-202-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• va ______",
+          "answer": "Break",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• how much ______ the caring involves",
+          "answer": "Time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o helping her have a ______",
+          "answer": "Shower",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o dealing with ______",
+          "answer": "Money",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• loss of ______",
+          "answer": "Memory",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ her",
+          "answer": "Lifting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• preventing a ______",
+          "answer": "Fall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• transport costs, e.g. cost of a ______",
+          "answer": "Taxi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• car-related costs, e.g. fuel and ______",
+          "answer": "Insurance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• help to reduce ______",
+          "answer": "Stress",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q11",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "walking around the town centre ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q12",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "helping at concerts ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q13",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "getting involved with community groups ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q14",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "helping with a magazine ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q15",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "participating at lunches for retired people ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "helping with the website",
+          "options": [
+            {
+              "id": "A",
+              "text": "providing entertainment"
+            },
+            {
+              "id": "B",
+              "text": "providing publicity about a council service"
+            },
+            {
+              "id": "C",
+              "text": "contacting local businesses"
+            },
+            {
+              "id": "D",
+              "text": "giving advice to visitors"
+            },
+            {
+              "id": "E",
+              "text": "collecting feedback on events"
+            },
+            {
+              "id": "F",
+              "text": "selling tickets"
+            },
+            {
+              "id": "G",
+              "text": "introducing guest speakers at an event"
+            },
+            {
+              "id": "H",
+              "text": "encouraging cooperation between local organisations"
+            },
+            {
+              "id": "I",
+              "text": "helping people find their seats"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which event requires the largest number of volunteers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the music festival"
+            },
+            {
+              "id": "B",
+              "text": "the science festival"
+            },
+            {
+              "id": "C",
+              "text": "the book festival"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the most important requirement for volunteers at the festivals?",
+          "options": [
+            {
+              "id": "A",
+              "text": "interpersonal skills"
+            },
+            {
+              "id": "B",
+              "text": "personal interest in the event"
+            },
+            {
+              "id": "C",
+              "text": "flexibility"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "New volunteers will start working in the week beginning",
+          "options": [
+            {
+              "id": "A",
+              "text": "2 September."
+            },
+            {
+              "id": "B",
+              "text": "9 September."
+            },
+            {
+              "id": "C",
+              "text": "23 September."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the next annual event for volunteers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a boat trip"
+            },
+            {
+              "id": "B",
+              "text": "a barbecue"
+            },
+            {
+              "id": "C",
+              "text": "a party"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q21",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Population ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q22",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Health ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q23",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Economies ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q24",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Culture ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Poverty",
+          "options": [
+            {
+              "id": "A",
+              "text": "The information given about this was too vague"
+            },
+            {
+              "id": "B",
+              "text": "This may not be relevant to their course."
+            },
+            {
+              "id": "C",
+              "text": "This will involve only a small number of statistics."
+            },
+            {
+              "id": "D",
+              "text": "It will be easy to find facts about this."
+            },
+            {
+              "id": "E",
+              "text": "The facts about this may not be reliable."
+            },
+            {
+              "id": "F",
+              "text": "No useful research has been done on this."
+            },
+            {
+              "id": "G",
+              "text": "The information provided about this was interesting."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Rosie says that in her own city the main problem is",
+          "options": [
+            {
+              "id": "A",
+              "text": "crime."
+            },
+            {
+              "id": "B",
+              "text": "housing."
+            },
+            {
+              "id": "C",
+              "text": "unemployment."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What recent additions to the outskirts of their cities are both students happy about?",
+          "options": [
+            {
+              "id": "A",
+              "text": "conference centres"
+            },
+            {
+              "id": "B",
+              "text": "sports centres"
+            },
+            {
+              "id": "C",
+              "text": "retail centres"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The students agree that developing disused industrial sites may",
+          "options": [
+            {
+              "id": "A",
+              "text": "have unexpected costs."
+            },
+            {
+              "id": "B",
+              "text": "damage the urban environment."
+            },
+            {
+              "id": "C",
+              "text": "destroy valuable historical buildings."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The students will mention Masdar City as an example of an attempt to achieve",
+          "options": [
+            {
+              "id": "A",
+              "text": "daily collections for waste recycling."
+            },
+            {
+              "id": "B",
+              "text": "sustainable energy use."
+            },
+            {
+              "id": "C",
+              "text": "free transport for everyone."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When discussing the Eco town of Greenhill Abbots, Colin is uncertain about",
+          "options": [
+            {
+              "id": "A",
+              "text": "what its objectives were."
+            },
+            {
+              "id": "B",
+              "text": "why there was opposition to it."
+            },
+            {
+              "id": "C",
+              "text": "how much of it has actually been built."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The growth in interest in food fashions started with ______ of food being shared on social media.",
+          "answer": "Photos/ photographs/ pictures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Sales of ______ food brands have grown this way.",
+          "answer": "Vegan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Famous ______ are influential.",
+          "answer": "Chefs/ cooks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o ______ were invited to visit growers in South Africa.",
+          "answer": "Journalists/ reporters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Advertising focused on its ______ benefits.",
+          "answer": "Health",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Promotion in the USA through ______ shops reduced the need for advertising.",
+          "answer": "Coffee",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o It appealed to consumers who are concerned about the ______",
+          "answer": "Environment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o has helped strengthen the ______ of Norwegian seafood.",
+          "answer": "Reputation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Its success led to an increase in its ______",
+          "answer": "Price/ cost",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-202-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Overuse of resources resulted in poor quality ______",
+          "answer": "Soil",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/202_we.mp3"
+    }
+  ]
+}

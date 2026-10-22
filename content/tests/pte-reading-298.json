@@ -1,0 +1,1038 @@
+{
+  "id": "pte-reading-298",
+  "title": "Academic Reading — Practice Test 298",
+  "kind": "practice",
+  "description": "3 texts, 35 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Sleeping on the job",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-298-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "According to the passage, which of the following statements is supported by recent research?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Napping is an indicator of laziness."
+            },
+            {
+              "id": "B",
+              "text": "Two thirds of Americans sleep too much."
+            },
+            {
+              "id": "C",
+              "text": "Napping in the workplace is a current trend."
+            },
+            {
+              "id": "D",
+              "text": "Short naps at work increase productivity."
+            },
+            {
+              "id": "E",
+              "text": "resist the trend toward napping"
+            },
+            {
+              "id": "F",
+              "text": "fall asleep in the afternoon"
+            },
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The number one cause of car accidents is fatigue.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who nap in the afternoon are lazy.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A nap in the middle of the day can improve your mood.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who nap regularly live longer.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The majority of Americans sleep at least eight hours a night.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Humans are biologically programmed to ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees of some progressive companies are encouraged to ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Traditional employers are likely to",
+          "options": [
+            {
+              "id": "A",
+              "text": "drink coffee to stay awake during the afternoon"
+            },
+            {
+              "id": "B",
+              "text": "have a nap during breaks"
+            },
+            {
+              "id": "C",
+              "text": "fall asleep when they are bored"
+            },
+            {
+              "id": "D",
+              "text": "sneak naps without permission"
+            },
+            {
+              "id": "E",
+              "text": "resist the trend toward napping"
+            },
+            {
+              "id": "F",
+              "text": "fall asleep in the afternoon"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the transportation industry, napping is a matter of ______",
+          "answer": "Safety",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On some airlines, pilots can sleep in the cockpit if ______",
+          "answer": "Not on duty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer, in America the workplace is becoming …",
+          "options": [
+            {
+              "id": "A",
+              "text": "less flexible."
+            },
+            {
+              "id": "B",
+              "text": "more exciting."
+            },
+            {
+              "id": "C",
+              "text": "less demanding."
+            },
+            {
+              "id": "D",
+              "text": "more stressful."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer, what is the main reason why employers support the idea of naps at work?",
+          "options": [
+            {
+              "id": "A",
+              "text": "for health reasons"
+            },
+            {
+              "id": "B",
+              "text": "to promote safety"
+            },
+            {
+              "id": "C",
+              "text": "to increase productivity"
+            },
+            {
+              "id": "D",
+              "text": "to encourage creativity"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Sleeping on the job",
+        "text": "North Americans are not a people of the siesta. There is a tendency to associate afternoon naps with laziness and non-productivity. Latin Americans and some in European cultures take a different view. In Mexico and Greece, for example, it is customary to close businesses between noon and about 4:00 pm – siesta time. Recent studies are showing that if you can take a 15 to 30-minute nap while at work in the afternoon, you'll be more alert, more energetic, happier doing what you do, more productive and therefore more likely to get ahead. Napping on the job is not yet a trend but there is serious talk in academic circles about the merits of 'power napping'. By some estimate, the average American collects an annual 'sleep debt' of 500 hours – subtracting from an assumed norm of eight hours a night. Two out of three Americans get less than eight hours of sleep a night during the work week, according to a recent study by the National Sleep Foundation in Washington. Forty percent say they're so tired that it interferes with their daily activities. Sleep researcher William Anthony, a professor of psychology at Boston University, says fatigue is a significant problem in modern society. He says sleepiness is a leading cause of auto accidents, second only to drunkenness. All that drowsiness costs an estimated $18 billion annually in lost productivity. 'We have a simple message,' says Professor Anthony. 'People should be allowed to nap at their breaks. The rationale is a productivity one – workers are sleepy, and when they're sleepy on the job they're not productive.' Some companies are encouraging sleep at work, primarily for safety. The Metropolitan Transit Authority, which runs the New York subway system and two suburban railroads, is considering power naps for its train operators and bus drivers. Another railway has started letting its train operators take nap breaks of up to 45 minutes but only when trains are stopped at designated spots off the main lines and dispatchers have been notified. Some overseas air carriers permit airline pilots, when not on duty, to nap in the cockpit. Airlines in the United States have not accepted this practice yet. According to the Encyclopedia of Sleep and Dreaming: 'There is a biologically-based tendency to fall asleep in mid-afternoon just as there is a tendency to fall asleep at night. Moreover, if sleep the night before is reduced or disturbed for any reason, a nap the subsequent afternoon is not only more likely to occur, but it can also relieve sleepiness and increase alertness.' The nap zone, documented in numerous studies, is typically between noon and 3:00 pm. Some people power through this natural slowdown with caffeine or sugar but if employers allowed naps, the benefits would be improvements in mood and performance, especially in mid-afternoon. Workers would concentrate better and persevere in tasks longer. Workers commonly sneak naps even without permission but some companies have begun encouraging naps as part of their policies on boosting production. One US distributor is opening a 2,000-square-foot nap facility that provides beds for up to 20 of its 225 workers at a time. A company in Japan sets up tents in business offices, provides eyeshades and ear plugs, and encourages employees to snooze in the middle of the work day. According to Professor Anthony, 'You're not going to see napping at traditional types of operations … but in 21st century-style operations, this isn't going to be a perk. It's going to have more to do with productivity. Smart employers are understanding that their employees need rest to do their best.' Some suspect that corporate naptime, like other perks, is just a way to keep people at the office longer. On the other hand, growing flexibility in hours, for some workers, is allowing nap times to become more common. With eleven million Americans telecommuting and another forty million winking out of their bonus full- or part-time, office hours are basically as long as you can stay awake. One thing is sure: longer commutes, more intense, stressful workday and higher production demands are taking a toll. So, with Americans sleeping less and working longer hours, some employers are warming up to the idea that a little nap in the middle of the day can be good for business.\n\nQuestions 1 Circle the correct answer A-D. 1. According to the passage, which of the following statements is supported by recent research? A Napping is an indicator of laziness. B Two thirds of Americans sleep too much.\n\n(C) Napping in the workplace is a current trend.\n\n(D) Short naps at work increase productivity."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Homeopathy",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-298-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "The future of homeopathy"
+            },
+            {
+              "id": "ii",
+              "text": "Concerns about homeopathy"
+            },
+            {
+              "id": "iii",
+              "text": "Comparison with traditional western medicine"
+            },
+            {
+              "id": "iv",
+              "text": "Dr. S. Hahnemann"
+            },
+            {
+              "id": "v",
+              "text": "Theoretical and experimental basis"
+            },
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A single product is mixed with alcohol and ______ then left to stand for 2-4 weeks.",
+          "answer": "Water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The mixture is then ______ vigorously.",
+          "answer": "Shaken",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As the remedy becomes more diluted, it gets ______",
+          "answer": "Stronger",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Homeopathy",
+        "text": "(A) Homeopathy is an alternative system of medicine, founded in the early 19th century by a German physician, Dr. Samuel Hahnemann. Since 1980, homeopathy has experienced a strong resurgence of interest in North and South America as well as in Europe. Surveys indicate that more than a third of French physicians have prescribed homeopathic remedies and almost 50 percent of British physicians have referred patients for homeopathic treatment.\n\n(B) Hahnemann's discovery of the principle of homeopathy was accidental. After taking some quinine, he noticed that he developed malaria-like symptoms. Since malaria patients were treated with quinine, he speculated that possibly malaria is cured by quinine because it causes malaria-like symptoms in healthy people. He decided to explore his theory by testing other substances used as medicine at the time, such as arsenic and belladonna. His tests were conducted by either taking the substances internally himself or by administering them to healthy volunteers and then recording all of the symptoms the volunteers experienced. He continued his experiments on a wide range of natural substances, often toxic. These recorded results created 'drug pictures' which formed the basis for the new system of medicine. The next step was to give the tested substances to patients suffering from the same group of symptoms represented by the drug picture recorded. The results were incredible. People were being cured from diseases that had never been cured before. He condensed his theory into a single Latin phrase: similia similibus curentur (let likes be cured by likes). This means that a disease can be cured by a medicine which produces in a healthy person symptoms similar to those experienced by the patient.\n\n(C) The process of making remedies is very precise. A homeopathic remedy is normally a single substance. The substances may be made from plants, minerals and even animals, for example snake venom and cuttlefish ink. To make remedies, the raw material is dissolved in a mixture that contains approximately 90% alcohol and 10% water. The mixture is left to stand for 2 to 4 weeks, shaken occasionally then strained. The resulting liquid or tincture is then diluted according to very specific measures to a factor of 1:100. For example, to produce a remedy called 1c potency or strength, one drop of the tincture is added to 99 drops of alcohol/water mixture. To produce a 2c potency, one drop of the 1c mixture is added to 99 drops of alcohol/water mixture. Between each mixture the remedy is shaken vigorously. Hahnemann believed that through this process, the energy of the substance was released. Once the remedy has been diluted beyond a 12c potency, it is unlikely that even a molecule of the original substance remains. Yet, ironically, the more dilute the remedy, the stronger it is. This makes no sense in light of present-day science but regardless of what science tells us is impossible, in practice, the higher the dilution the stronger and more lasting the effect.\n\n(D) It is this use of high dilutions that has given rise to controversy. Many conventional doctors claim that homeopathy functions only as a placebo because the dosage is so small. However, the clinical experience of homeopathy shows that this tiny dose can be effective: it works on unconscious people and infants, and it even works on animals. Controlled clinical studies performed by medical researchers are demonstrating that homeopathy can be an effective method of treatment for many diseases.\n\n(E) The most important part of homeopathic treatment lies in the lengthy interview which the homeopath conducts with the patient. The idea behind this one to two hour consultation is to build up a psychological, emotional and physical history of the patient, to discover the underlying patterns of disease. The homeopath then decides which medicine to prescribe based on the closest match between the patient's symptoms and the known symptoms elicited by the medicine in a healthy body. A single dose is given for the shortest period of time necessary to stimulate the body's healing power.\n\n(F) How does the concept of homeopathy differ from that of conventional medicine? Very simply, homeopathy attempts to stimulate the body to recover itself. Instead of looking upon the symptoms as something wrong which must be set right, the homeopath sees them as signs of the way the body is attempting to help itself. Another basic difference between conventional medical therapy and homeopathy is in the role of medication. In much of conventional therapy the illness is controlled through regular use of medical substances. If the medication is withdrawn, the person returns to illness. For example, a person who takes a pill for high blood pressure every day is not undergoing a cure but is only controlling the symptoms. Homeopathy's aim is the cure: 'The complete restoration of perfect health,' as Dr. Hahnemann said.\n\n(G) Homeopathy has made significant progress in treating diseases which orthodox medicine finds difficult. Best at dealing with inflammatory conditions such as arthritis, skin conditions, migraines and respiratory problems linked to allergies, it has also proved highly successful at treating asthma. But homeopathy is not an appropriate treatment for degenerative diseases such as emphysema. It cannot treat diseases which destroy tissue, although it can still be beneficial if used in combination with other treatments. Two of the main advantages of homeotherapy are the low cost of the medications and the rarity of adverse reactions. The medicines are inexpensive, safe, and easy to use, so people can learn to handle many of the common illnesses for which they currently seek medical help. The resulting savings in costs and the increase in personal independence represent a significant contribution to health care."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Making a homeopathic remedy",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-298-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Homeopathy differs from conventional medicine in a number of ways. Conventional medicine views symptoms as an indication of something wrong in the body whereas homeopathy sees them as signs that the body is attempting to ______ The uses of medication differ also. Many types of conventional medication (24) ______ but if the medicine is taken away, the illness returns. The intention of homeopathy is to bring about a complete cure. Homeopathic remedies are (25) ______ than conventional medicine and have fewer (26) ______",
+          "answer": "Heal itself",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Homeopathy differs from conventional medicine in a number of ways. Conventional medicine views symptoms as an indication of something wrong in the body whereas homeopathy sees them as signs that the body is attempting to (23) ______ The uses of medication differ also. Many types of conventional medication ______ but if the medicine is taken away, the illness returns. The intention of homeopathy is to bring about a complete cure. Homeopathic remedies are (25) ______ than conventional medicine and have fewer (26) ______",
+          "answer": "Control symptoms",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Homeopathy differs from conventional medicine in a number of ways. Conventional medicine views symptoms as an indication of something wrong in the body whereas homeopathy sees them as signs that the body is attempting to (23) ______ The uses of medication differ also. Many types of conventional medication (24) ______ but if the medicine is taken away, the illness returns. The intention of homeopathy is to bring about a complete cure. Homeopathic remedies are ______ than conventional medicine and have fewer (26) ______",
+          "answer": "Cheaper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Homeopathy differs from conventional medicine in a number of ways. Conventional medicine views symptoms as an indication of something wrong in the body whereas homeopathy sees them as signs that the body is attempting to (23) ______ The uses of medication differ also. Many types of conventional medication (24) ______ but if the medicine is taken away, the illness returns. The intention of homeopathy is to bring about a complete cure. Homeopathic remedies are (25) ______ than conventional medicine and have fewer ______",
+          "answer": "Side effects",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The first one has been done for you as an example. · Example: C ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-298-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The first one has been done for you as an example. · Example: C ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-298-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Example: C ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-298-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Question 30 ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-298-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Question 31 ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-298-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "FibreStrong and durable______",
+          "answer": "Low quality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Drug contentNo active substances named ______Up to 10%",
+          "answer": "THC",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "mildew-resistant",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemp"
+            },
+            {
+              "id": "B",
+              "text": "Wood"
+            },
+            {
+              "id": "C",
+              "text": "Cotton"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "dioxin is a by-product of processing",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemp"
+            },
+            {
+              "id": "B",
+              "text": "Wood"
+            },
+            {
+              "id": "C",
+              "text": "Cotton"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "can be harvested more than once a year",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemp"
+            },
+            {
+              "id": "B",
+              "text": "Wood"
+            },
+            {
+              "id": "C",
+              "text": "Cotton"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "large amounts of fertiliser needed",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemp"
+            },
+            {
+              "id": "B",
+              "text": "Wood"
+            },
+            {
+              "id": "C",
+              "text": "Cotton"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "fire-retardant properties",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hemp"
+            },
+            {
+              "id": "B",
+              "text": "Wood"
+            },
+            {
+              "id": "C",
+              "text": "Cotton"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "requires mild temperature Questions 40 Choose the correct answer A-D. 40. The main purpose of this article is",
+          "options": [
+            {
+              "id": "A",
+              "text": "to criticise government policy on hemp."
+            },
+            {
+              "id": "B",
+              "text": "to show the economic benefits of hemp."
+            },
+            {
+              "id": "C",
+              "text": "to compare hemp and marijuana."
+            },
+            {
+              "id": "D",
+              "text": "to promote research into new uses of hemp."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-298-q40",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The main purpose of this article is",
+          "options": [
+            {
+              "id": "vi",
+              "text": "Revival of homeopathy"
+            },
+            {
+              "id": "vii",
+              "text": "Preparation of medicines"
+            },
+            {
+              "id": "viii",
+              "text": "Debate over effectiveness"
+            },
+            {
+              "id": "ix",
+              "text": "Advantages and limitations of homeopathy"
+            },
+            {
+              "id": "x",
+              "text": "Aspects of treatment"
+            },
+            {
+              "id": "A",
+              "text": "single product is mixed with alcohol and (20) …………….. then left to stand for 2-4 weeks."
+            },
+            {
+              "id": "B",
+              "text": "Articles praise hemp as a potential billion dollar crop"
+            },
+            {
+              "id": "C",
+              "text": "Widespread cultivation of hemp (Example)"
+            },
+            {
+              "id": "D",
+              "text": "Prohibition of marijuana"
+            },
+            {
+              "id": "E",
+              "text": "Newspaper articles link hemp to violent crime"
+            },
+            {
+              "id": "F",
+              "text": "Development of stripping machines"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Making a homeopathic remedy",
+        "text": "The remedies come from plant, animal and mineral sources.\n\n(A) single product is mixed with alcohol and (20) …………….. then left to stand for 2-4 weeks. This mixture is strained to produce a tincture which can be diluted. 1 drop of this tincture is added to 99 drops of alcohol/water. The mixture is then (21) …………. vigorously. This produces a remedy with a potency of 1c. As the remedy becomes more diluted, it gets (22) …………….."
+      }
+    }
+  ]
+}

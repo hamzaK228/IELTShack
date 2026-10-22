@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-7",
+  "title": "General Training Writing — Letter 7",
+  "kind": "practice",
+  "description": "Task 1 letter, 7 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-7-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You saw an advertisement for a tennis course in England but you have one or two problems and can't stay the whole course.\nWrite a letter to the course director. In your letter,\nexplain your interest in the course\ndescribe your problems\nfind out if a refund is possible",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

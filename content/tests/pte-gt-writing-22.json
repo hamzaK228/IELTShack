@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-22",
+  "title": "General Training Writing — Letter 22",
+  "kind": "practice",
+  "description": "Task 1 letter, 22 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-22-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You have been invited to attend an interview for a place studying a course in a college. Unfortunately because of a previous appointment you cannot come at the time they wish.\nWrite a letter to the admissions tutor and explain your position. Apologise and offer to come on another day or later the same day. Ask also how long the interview will be and whether there will be any tests during it.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

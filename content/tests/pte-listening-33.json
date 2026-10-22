@@ -1,0 +1,650 @@
+{
+  "id": "pte-listening-33",
+  "title": "Listening — Practice Test 33",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-33-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: ______",
+          "answer": "black",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Post code: ______",
+          "answer": "2085",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone: 98356712(home), ______ (work)",
+          "answer": "94561309",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Driver's licence number: ______",
+          "answer": "2020BD",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of birth: 25th ______ , 1977",
+          "answer": "July",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What types of films does Louise like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Action"
+            },
+            {
+              "id": "B",
+              "text": "Comedies"
+            },
+            {
+              "id": "C",
+              "text": "Musicals"
+            },
+            {
+              "id": "D",
+              "text": "Romance"
+            },
+            {
+              "id": "E",
+              "text": "Westerns"
+            },
+            {
+              "id": "F",
+              "text": "Wildlife"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What types of films does Louise like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Action"
+            },
+            {
+              "id": "B",
+              "text": "Comedies"
+            },
+            {
+              "id": "C",
+              "text": "Musicals"
+            },
+            {
+              "id": "D",
+              "text": "Romance"
+            },
+            {
+              "id": "E",
+              "text": "Westerns"
+            },
+            {
+              "id": "F",
+              "text": "Wildlife"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What types of films does Louise like?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Action"
+            },
+            {
+              "id": "B",
+              "text": "Comedies"
+            },
+            {
+              "id": "C",
+              "text": "Musicals"
+            },
+            {
+              "id": "D",
+              "text": "Romance"
+            },
+            {
+              "id": "E",
+              "text": "Westerns"
+            },
+            {
+              "id": "F",
+              "text": "Wildlife"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How much does it cost to join the library? ______",
+          "answer": "$25",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "When will Louise's card be ready? ______",
+          "answer": "next week",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prepared a ______ for the trip",
+          "answer": "route book",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Total length of trip ______",
+          "answer": "900 miles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Climbed highest peak in ______",
+          "answer": "North America",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What took the group by surprise?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the amount of rain"
+            },
+            {
+              "id": "B",
+              "text": "the number of possible routes"
+            },
+            {
+              "id": "C",
+              "text": "the length of the journey"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How did Charles feel about having to change routes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He reluctantly accepted it"
+            },
+            {
+              "id": "B",
+              "text": "He was irritate by the diversion"
+            },
+            {
+              "id": "C",
+              "text": "It made no difference to him"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Charles say about his friends?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He met them at one stage on the trip"
+            },
+            {
+              "id": "B",
+              "text": "They kept all their meeting arrangements"
+            },
+            {
+              "id": "C",
+              "text": "One of them helped arrange the transport"
+            },
+            {
+              "id": "D",
+              "text": "One of them owned the hotel they stayed in"
+            },
+            {
+              "id": "E",
+              "text": "Some of them travelled with him"
+            },
+            {
+              "id": "F",
+              "text": "Only one group lasted 96 days"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Charles say about his friends?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He met them at one stage on the trip"
+            },
+            {
+              "id": "B",
+              "text": "They kept all their meeting arrangements"
+            },
+            {
+              "id": "C",
+              "text": "One of them helped arrange the transport"
+            },
+            {
+              "id": "D",
+              "text": "One of them owned the hotel they stayed in"
+            },
+            {
+              "id": "E",
+              "text": "Some of them travelled with him"
+            },
+            {
+              "id": "F",
+              "text": "Only one group lasted 96 days"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Charles say about his friends?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He met them at one stage on the trip"
+            },
+            {
+              "id": "B",
+              "text": "They kept all their meeting arrangements"
+            },
+            {
+              "id": "C",
+              "text": "One of them helped arrange the transport"
+            },
+            {
+              "id": "D",
+              "text": "One of them owned the hotel they stayed in"
+            },
+            {
+              "id": "E",
+              "text": "Some of them travelled with him"
+            },
+            {
+              "id": "F",
+              "text": "Only one group lasted 96 days"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Charles say about the donkeys?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He rode them when he was tired"
+            },
+            {
+              "id": "B",
+              "text": "He named them after places"
+            },
+            {
+              "id": "C",
+              "text": "One of them died"
+            },
+            {
+              "id": "D",
+              "text": "They behaved unpredictably"
+            },
+            {
+              "id": "E",
+              "text": "They were very small"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Charles say about the donkeys?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He rode them when he was tired"
+            },
+            {
+              "id": "B",
+              "text": "He named them after places"
+            },
+            {
+              "id": "C",
+              "text": "One of them died"
+            },
+            {
+              "id": "D",
+              "text": "They behaved unpredictably"
+            },
+            {
+              "id": "E",
+              "text": "They were very small"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day of arrivalSunday______",
+          "answer": "(on) friday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "SubjectHistory______",
+          "answer": "biology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of books to read______(24) ______",
+          "answer": "57",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of books to read(23) ______",
+          "answer": "43",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day of first lectureTuesday______",
+          "answer": "wednesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is Jane's study strategy in lectures? ______",
+          "answer": "records them",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is Tim's study strategy for reading? ______",
+          "answer": "skimming",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the subject of Tim's first lecture? ______",
+          "answer": "French Revolution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the title of Tim's first essay? ______",
+          "answer": "why study history",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What is the subject of Jane's first essay? ______",
+          "answer": "animal language",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sports administrator______(32) ______in sports administration",
+          "answer": "4 month certificate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sports administrator(31) ______in sports administration",
+          "answer": "employment/ job",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sports psychologist______Degree in psychology",
+          "answer": "one year diploma",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Physical education trainerFour years degree in education______",
+          "answer": "none",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Recreation officer______None",
+          "answer": "6 month certificate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "CourseType of course: Durations and levelEntry requirements Physical fitness instructorExample: 6 months certificateNone Sports administrator(31) ______(32) ______in sports administration Sports psychologist(33) ______Degree in psychology Physical education trainerFour years degree in education(34) ______ Recreation officer(35) ______None (31) (32) (33) (34) (35) ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-33-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 37. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-33-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 38. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-33-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 39. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-33-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 40. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/33_we.mp3"
+    }
+  ]
+}

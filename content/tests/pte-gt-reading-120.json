@@ -1,0 +1,545 @@
+{
+  "id": "pte-gt-reading-120",
+  "title": "General Training Reading — Practice Test 120",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Text 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-120-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People who like finding out about industrial history may find this cycle trail interesting. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Cyclists might find it advisable to get off their bikes on this trail and go a short distance on foot. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is possible to buy something to eat when cycling along this trail. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can stop on this trail and see some farm animals. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Cyclists can stop for a while on this trail and sit by the sea. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A very old building is close to this trail and is open to the public. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Riders can extend the distance they cycle if they take this trail. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Text 1",
+        "text": "Great cycling trails Why not take the bike and try one of these wonderful cycling routes next weekend?\n\n(A) Bo'ness to Blackness Castle, Edinburgh If you like cycling on flat ground and enjoy having interesting things to look at, this is one of the best trails in Scotland. Among its plus points, there are fantastic views of three of the bridges across the river Forth. Simply return by the same path or continue on to South Queensferry for a longer day out.\n\n(B) The Montgomery Canal cycle path, Wales Dragonflies, swans, buzzards, fish and other creatures can be spotted as you cycle alongside the canal. The path is in good condition and broad enough for a family to ride safely. A day out cycling in the area can also include a visit to the nearby thirteenth-century Powis Castle and its beautiful gardens.\n\n(C) A walking and cycling path in Birmingham, West Midlands The busy city of Birmingham has several well-known bike trails, including a quiet route along the Bourn Brook to Woodgate Valley country park. One hump-backed bridge is best walked across, but the rest of the route is flat and suitable for a range of bikes. It's then 2km along the signposted path to Woodgate Valley, which is perfect for picnics, has a family-friendly visitor attraction especially known for its sheep, and offers a break from cycling.\n\n(D) The Cycle Trail in the Forest of Dean, Gloucestershire The path is on a former railway route from the time when the area was involved in coal mining. Cyclists can visit sites from this period on the way, but those just along for the views won't be disappointed. Stop for lunch at one of the numerous picnic spots along the way. The route is circular, fully marked and suitable for the whole family, including the dog.\n\n(E) The Wirral Trail, Liverpool The trail is safe, fiat and with plenty of cafes on the way. Take in the views of North Wales, have a rest on the beach at Caldy or Thurstaston, then cross the border into Cheshire and on towards Chester. Both West Kirby and Chester have regular direct trains back to Liverpool."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: What steps to take to become a fashion designer",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-120-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Consider whether to specialize in a less popular area, such as ______ rather than clothing",
+          "answer": "Accessories",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Try to get an internship in a business where you will be a good ______",
+          "answer": "Fit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Having identified a business where you want to work, go and hand in the application personally, even if this involved significant ______",
+          "answer": "Expense",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• To get your work seen, make sure you produce a ______ on various digital platforms and approach specialist (12) ______involved in recruiting fashion designers",
+          "answer": "Profile",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• To get your work seen, make sure you produce a (11) ______ on various digital platforms and approach specialist ______involved in recruiting fashion designers",
+          "answer": "Agencies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Review the ______ you have done and make sure it is as comprehensive as possible by gaining further expensive",
+          "answer": "Training",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Do not rely on your ability alone, and establish as many useful ______as possible",
+          "answer": "Contacts",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "What steps to take to become a fashion designer",
+        "text": "First, it's important to think about what types of fashion designers are in demand currently. There are so many womenswear designers, yet not as many menswear, sportswear or accessories designers. Opportunities might be greater in those categories. When applying for internships, think about what you'll bring to the company as well as what they can offer you: Is the company going to teach you skills that are relevant to your future career? What mix of skills can you bring to the company that is relevant to their needs? Try to find the company that's the right fit for you, and you are much more likely to be what the company is looking for as well. Knocking on doors can lead to fantastic opportunities: Designers are very busy and overwhelmed with people applying to work with them, but they're far more impressed by people that try that little bit harder. For example, some graduates go overseas to New York or Milan to deliver a self-directed design project and CV to the designer of their choice. Of course that can lead to considerable expense, but it often results in success. Make use of online fashion and business networking sites. Create your profile on each one, as you never know who might be looking. Apply to as many fashion hiring agencies as you can – there are more than 20 in the UK alone. Not all of them take on new graduates, but try them all anyway. Consider your training and fill in any gaps in it. Assistant designers and interns can make themselves more employable through investing time in obtaining, for example, computer-aided design (CAD) skills. Unfortunately, not all colleges and universities have CAD as an integral part of their courses. If this has affected you, you should study using online learning applications. Finally, talent is not enough – you need to get out there and make sure everybody knows about your skills. Graduates should be aware that they need to be proactive and persistent. It's all down to developing new contacts and utilising the ones you already have."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Types of training in business",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-120-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Consulting: keeping a record of the ______ worked",
+          "answer": "Hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Restaurants: dealing with computerised ______",
+          "answer": "Orders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Factory workers: identification of low-quality products and the appropriate action resulting in lower production costs and more effective ______",
+          "answer": "Marketing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Administrative assistant: using the ______",
+          "answer": "Phone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sales: evaluating the ______ of clients and providing assistance",
+          "answer": "Needs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cashier: using a cash till and dealing with an incorrect ______",
+          "answer": "Price",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Skills in communication, e.g. ______",
+          "answer": "Listening",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Types of training in business",
+        "text": "The type of training provided in a business will depend on the resources available for training, the type of company, and the priority the company places on training. Technical training is a type of training meant to teach the new employee the technological aspects of the job. For example, in a consulting business, technical training might be used so the consultant knows how to operate the system to input the number of hours that should be charged to a client. In a restaurant, the server might need to be trained on how to process customers' orders using a tablet. In production focused businesses, quality training involves familiarizing employees with the means of preventing, detecting, and eliminating non-quality products. In a world where quality can set your business apart from competitors, this type of training provides employees with the knowledge to recognize products that are not up to quality standards and teaches them what action to take in this scenario. This type of training can result in cost savings in production as well as provide an edge in the marketing of the product. Skills training includes proficiencies needed to actually perform the job. For example, an administrative assistant might be trained in how to answer the phone, while a salesperson might be trained in assessment of customer needs and on how to offer the customer the necessary information to make a buying decision. A cashier needs to know not only the technology to ring something up on the till, but what to do if something has been given the wrong price.\n\n(A) fourth type of training is called 'soft skills' training. Soft skills refer to personality traits and personal habits that may influence relationships with other people. Executives say there is an increasing need for people who have not only the technical skills to do a job but also the necessary soft skills, such as being good at different types of communication, including listening to colleagues and customers. In a retail or restaurant environment, essential soft skills might include how to motivate others, establish rapport and keep a conversation going. Skills such as these are used in every interaction with customers and are a key component of the customer experience."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: The small business lifecycle",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-120-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 1: Initial development – Once you have your business idea, ask for different people's ______ about it. You need to be clear about what you can do, whether your idea will find a market, and where the finance will come from.",
+          "answer": "Opinions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 2: Startup – Remember that ______ at this stage can affect the future success of the business. Listen to what your customers say and be prepared to adapt your original idea. Don't worry if you are (24) ______by all the changes at this stage.",
+          "answer": "Mistakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 2: Startup – Remember that (23) ______ at this stage can affect the future success of the business. Listen to what your customers say and be prepared to adapt your original idea. Don't worry if you are ______by all the changes at this stage.",
+          "answer": "Confused",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 3: Establishment – You should now be seeing increase in profits. The demands of this stage mean you must be good at managing your time. It's particularly important to be personally involved with ______ and to build up an effective team with clear goals.",
+          "answer": "Recruitment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 4: Expansion – It's important to expand but the risks involved must also be considered. Careful planning is necessary to ensure that ______is not affected.",
+          "answer": "Quality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Stage 5: Maturity – To maintain growth rates, it may be necessary for the company to have a different ______ Another possibility is to sell the business.",
+          "answer": "Leader",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does Gisela Marti criticise about nurseries in the third paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the length of time children spend there"
+            },
+            {
+              "id": "B",
+              "text": "the number of arguments children have there"
+            },
+            {
+              "id": "C",
+              "text": "the lack of physical space for children’s play there"
+            },
+            {
+              "id": "D",
+              "text": "the amount of organisation children are exposed to there"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When talking about danger, Gisela Marti suggests that teachers may have to",
+          "options": [
+            {
+              "id": "A",
+              "text": "learn how to reduce it."
+            },
+            {
+              "id": "B",
+              "text": "adjust their response to it."
+            },
+            {
+              "id": "C",
+              "text": "explore what causes it."
+            },
+            {
+              "id": "D",
+              "text": "agree when to avoid it."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did the children feel about getting their toys back?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They were impatient to get them back."
+            },
+            {
+              "id": "B",
+              "text": "They had not expected to get them back."
+            },
+            {
+              "id": "C",
+              "text": "They had lost interest in getting them back."
+            },
+            {
+              "id": "D",
+              "text": "They had mixed feelings about getting them back."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Those children who are not part of the project have poorer social skills than those who are.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gisela Marti"
+            },
+            {
+              "id": "B",
+              "text": "Gudrun Huber"
+            },
+            {
+              "id": "C",
+              "text": "Elke Schubert"
+            },
+            {
+              "id": "D",
+              "text": "Klaus's father"
+            },
+            {
+              "id": "E",
+              "text": "Elsa Davies"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A goal of the project is to enable children to express both agreement and disagreement.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gisela Marti"
+            },
+            {
+              "id": "B",
+              "text": "Gudrun Huber"
+            },
+            {
+              "id": "C",
+              "text": "Elke Schubert"
+            },
+            {
+              "id": "D",
+              "text": "Klaus's father"
+            },
+            {
+              "id": "E",
+              "text": "Elsa Davies"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An excess of toys can lead to irritation in a child.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gisela Marti"
+            },
+            {
+              "id": "B",
+              "text": "Gudrun Huber"
+            },
+            {
+              "id": "C",
+              "text": "Elke Schubert"
+            },
+            {
+              "id": "D",
+              "text": "Klaus's father"
+            },
+            {
+              "id": "E",
+              "text": "Elsa Davies"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "People working in education may fail to appreciate the importance of children deciding themselves how to fill their time.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gisela Marti"
+            },
+            {
+              "id": "B",
+              "text": "Gudrun Huber"
+            },
+            {
+              "id": "C",
+              "text": "Elke Schubert"
+            },
+            {
+              "id": "D",
+              "text": "Klaus's father"
+            },
+            {
+              "id": "E",
+              "text": "Elsa Davies"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "At first, the employees at the nursery found it hard to allow the children to do whatever they wanted to do. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gisela Marti"
+            },
+            {
+              "id": "B",
+              "text": "Gudrun Huber"
+            },
+            {
+              "id": "C",
+              "text": "Elke Schubert"
+            },
+            {
+              "id": "D",
+              "text": "Klaus’s father"
+            },
+            {
+              "id": "E",
+              "text": "Elsa Davies"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On the first day of the project, a video shows that the children at the nursery did not know what to do in the ______ because it contained no toys. The next day, they used tables, blankets and (37) ______ to build a den. The excitement of doing this changed their mood and resulted in a lot of noise and activity.",
+          "answer": "Classroom",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On the first day of the project, a video shows that the children at the nursery did not know what to do in the (36) ______ because it contained no toys. The next day, they used tables, blankets and ______ to build a den. The excitement of doing this changed their mood and resulted in a lot of noise and activity.",
+          "answer": "Shoes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to Gisela Marti, once they had adapted to the new approach, they began to make up ______ and do shows. They might have imagined they were in the (39) ______, for example, or travelling on a train. All these activities taught them how to (40) ______",
+          "answer": "Games",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to Gisela Marti, once they had adapted to the new approach, they began to make up (38) ______ and do shows. They might have imagined they were in the ______, for example, or travelling on a train. All these activities taught them how to (40) ______",
+          "answer": "Circus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-120-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to Gisela Marti, once they had adapted to the new approach, they began to make up (38) ______ and do shows. They might have imagined they were in the (39) ______, for example, or travelling on a train. All these activities taught them how to ______",
+          "answer": "Socialize/socialize",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "The small business lifecycle",
+        "text": "From the moment you make the decision to set up a business, you're in the 'business lifecycle'. This will see you progress from idea to startup, and if successful, through to the growth and maturity phases. Stage 1 is Initial Development. This is the very beginning of the business lifecycle. You've got your business idea and you're ready to take the plunge. But before you do this you should get as many opinions as possible from friends, family, colleagues, or any industry specialists you have access to. Ultimately, the success of your business will come down to your own abilities, the state of the market and, of course, the decisions you make about the source of finance for your startup. Once you're satisfied that your idea is ready to go, you move on to Stage 2, which is Startup. Many believe this is the riskiest stage of the entire lifecycle, since mistakes made then can have an impact many years later. Based on the feedback from your first customers, you have to be ready to adapt your product or service. It can even get to the point where you are making so many changes to it that you start to feel a bit confused about what you're doing. Don't worry—this feeling will soon disappear as your company develops. Stage 3 is Establishment. You should now be seeing your profits improve slowly and steadily, but you may struggle to divide the time available to you between the growing demands of your business. Employing the right people is essential, so you need to take a major part in recruitment. It is your job now to start establishing order and cohesion as you mobilize your team according to clearly defined and communicated goals. By Stage 4, Expansion, you may see rapid growth in profits and wish to move forward. However, you need to be aware of the risks of expanding too carelessly, and should keep an eye on how far expansion might affect the quality of what you provide to your existing customers. Stage 5 is Maturity. Here you may wish to further expand the business. Many companies in this situation bring in a new leader at this stage, to face the new challenges. Other entrepreneurs may decide that they should sell the company at this stage, and move on to a new project."
+      }
+    }
+  ]
+}

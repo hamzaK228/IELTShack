@@ -1,0 +1,641 @@
+{
+  "id": "pte-gt-reading-41",
+  "title": "General Training Reading — Practice Test 41",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Text 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Visitor can help to make one particular event a success at this festival. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can listen to local musicians here. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "At this festival, people can listen to music in lots of different places ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is not necessary to pay for one of the events here. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is possible to stay overnight at this festival. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Children will enjoy this festival. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Visitors can get advice here. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can watch craftspeople at work here. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Text 1",
+        "text": "(A) Bath International Music Festival From electronics to folk, jazz and classical, this festival is renowned for bringing world-class musicians to this historical city. Starting with a great night of free music, 'Party in the city' this year is going to be no exception.\n\n(B) The Great Escape Often referred to as Europe's leading festival for new music, more than 300 bands will perform to around 10,000 people in 30-plus venues, meaning you are sure to see the next big thing in music.\n\n(C) Springwatch Festival The much loved television series Springwatch celebrates the countryside as it does every year, with sheep herding, wood carving demonstrations, insect hunts and more activities, accompanied by live music and a great farmers' market, offering all sorts of mouth-watering produce.\n\n(D) Wychwood Music Festival Right nominated for the best family festival award every year since it began in 2005, this festival offers a combination of different music genres- many featuring artists from around the Wychwood area – and comedy, alongside a selection of outdoor cafes serving amazing world foods.\n\n(E) Love Food Festival Bringing together a selection of the finest produce, this festival aims to educate visitors about how food should be produced and where it should come from, through sampling a range of tasty treats, cooked on site\n\n(F) The 3 Wishes Faery Festival The UK's most magical, this is a three-day festival of folk art, live music and fashion shows set in the beautiful wild surroundings of Bodmin Moor. If you don't fancy taking a tent, some local residents usually offer to put visitors up.\n\n(G) Bath International Dance Festival Featuring demonstrations from world champion dancers and star from the TV series Strictly Come Dancing, the festival promises toe tapping action, including a world record attempt, where everyone is invited to join in."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: BIG ROCK CLIMBING CENTRE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "When climbing at the big Rock Centre, it is compulsory to be attached by a rope.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who just want to watch the climbing can enter the Centre without paying.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People can arrange to have a climbing session in their own garden if they wish.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A certain item of clothing is forbidden for participants.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The mobile Climbing wall can only be used in dry, calm weather.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is inadvisable for children who are afraid of heights to use the mobile climbing Wall.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "BIG ROCK CLIMBING CENTRE",
+        "text": "Big Rock Climbing Center is modern, friendly professionally run centre offering over 1,200 square metres of fantastic indoor climbing. We use trained and experienced instructors to give you the opportunity to learn and develop climbing skills, keep fit and have fun. Master our 11 m-high climbing walls using a rope harness, for an unbeatable sense of achievement. Or experience the thrills of climbing without any harness in our special low-level arena, which has foam mats on the floor is cushion any fall safety. Who is Big Rock for? Almost anyone can enjoy Big Rock. Previous climbing experience and specialist equipment are not required. You can come on your own or with friends and family comes as a fun alternative to the gym or for a special day out with the kids. If you are visiting the friends or family but not climbing, or just fancy coming to look, please feel free to relax in our excellent cafe overlooking the climbing areas.\n\nMobile Climbing Wall Available on a day hire basis at any location, the big Rock mobile Climbing Wall is the perfect way to enhance any show festival or event. The mobile wall can be used indoors or outdoors and features four unique 7.3 m-high climbing faces designed to allow four people to climb simultaneously. Quick to set up and pack up, the mobile climbing wall is staffed by qualified and experienced climbing instructors, providing the opportunity to climb the wall in a controlled and safe environment. when considering what to wear, we have found that trousers and t-shirts are ideal. We will however, ask people to remove scarves. Most flat shoes are suitable as long as they are enclosed and support the foot. The mobile wall is very adaptable and can be operated in light rain and winds up to 50 kph. There are however, particular measures that we take in such conditions. What about hiring the mobile climbing wall for my school or college? As climbing is different from the usual team games practiced at schools, we have found that some students who don't usually like participating in sports are willing to have a go on the mobile climbing wall. If you are connected that some children may not want to take part because they feel nervous if they climb, then please be assured that our instructors will support then up to a level which they are comfortable with. They will still benefit greatly from the experience."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Remember word-of-mouth: the best advertising there is",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some______will help you to discover the most effective places to advertise.",
+          "answer": "Research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A ______ of your customers will show you how they feel about your company.",
+          "answer": "Survey",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A ______of forms of advertising will make it more likely that potential customers will ﬁnd out about you.",
+          "answer": "Mix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "lf you can, provide customers with useful______about your business.",
+          "answer": "Updates",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Measuring the effects of your advertising can give you ______ that will improve your business.",
+          "answer": "Information",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Success in ﬁnding new customers largely depends on your ______",
+          "answer": "Reputation",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Remember word-of-mouth: the best advertising there is",
+        "text": "(A) recent survey found that consumers are 50% more likely to be inﬂuenced by word-of-mouth recommendations than by TV or radio ads. So your reputation is your greatest asset If your current customers are impressed with your company, they'll be more inclined to recommend you to others. On the ﬂip side, if they experience bad service they probably won't complain to you — but you can be sure they will to their friends."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Working Time Regulations for Mobile Workers",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "They don't apply to ______workers.",
+          "answer": "Self-employed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Maximum working hours: 60 hours a week, provided the ______is no more than 48 hours.",
+          "answer": "Average",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Night work can be more than 10 hours with the ______of the workers.",
+          "answer": "Agreement",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Work includes driving, loading and unloading, and carrying out various ______ of the vehicle.",
+          "answer": "Checks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "going on a ______or other form of transport with a vehicle",
+          "answer": "Train",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "a period at the workstation when the driver has some ______might count as a period of availability",
+          "answer": "Freedom",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "time spent stopping and starting the vehicle when ______causes delays being in a queue, e.g. in order to load or unload.",
+          "answer": "Congestion",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Working Time Regulations for Mobile Workers",
+        "text": "These rules apply to drivers and crew of heavy goods vehicles or public service vehicles. The rules limit the amount of time that can be worked. Those deﬁned in the Regulations as being self-employed are currently not covered by the Regulations. What are the limits? • An average of 48 hours' work per week. • In any single week up to 60 hours can be worked so long as the 48-hour average is maintained. • Night work is limited to 10 hours per night, unless there is a workforce agreement to work longer. • Statutory annual leave and any sick leave and/or maternity/paternity leave counts as working time. What counts as work? In general, any activities performed in connection with the transport operation count as work, for example, driving, loading/unloading and those checks that are the responsibility of drivers, such as checking lights, brakes, etc. There are a number of periods of time that do not count as work, for example, travelling between home and your normal place of work, lunch or other breaks and periods of availability. Periods of availability are periods of time during which the mobile worker is not required to remain at their workstation but is required to be available for work, the foreseeable duration of which is known about in advance, for example: • Delays at a distribution centre. • Reporting for work then being informed that no duties are to be undertaken for a speciﬁed period. • Accompanying a vehicle being transported, for example by train.\n\n(A) period of availability can be taken at the workstation. Providing the worker has a reasonable amount of freedom (e.g. they can read and relax) for a known duration. this could satisfy the requirements of a period of availability.\n\nSituations when a period of time should not be recorded as a period of availability: • Hold-ups due to congestion, because the driver would be stopping and starting the vehicle. • Frequently moving up within a queue (e.g. waiting within a queue to load or unload) every other minute."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: A brief history of automata",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ancient Greeks had a number of ______concerning automate. According to one, the god Hephaestus created two assistants made of gold. The Greeks probably also created real automata; it seems most likely that the mechanism which controlled them consisted of 29 ______which were worked by human operators. Some automate were designed to be 30______ with an educational purpose.",
+          "answer": "Myths",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ancient Greeks had a number of 28 ______concerning automate. According to one, the god Hephaestus created two assistants made of gold. The Greeks probably also created real automata; it seems most likely that the mechanism which controlled them consisted of ______which were worked by human operators. Some automate were designed to be 30______ with an educational purpose.",
+          "answer": "Levers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ancient Greeks had a number of 28 ______concerning automate. According to one, the god Hephaestus created two assistants made of gold. The Greeks probably also created real automata; it seems most likely that the mechanism which controlled them consisted of 29 ______which were worked by human operators. Some automate were designed to be ______ with an educational purpose.",
+          "answer": "Tools",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "A brief history of automata",
+        "text": "An automaton is a machine, usually made to resemble a person or animal, that operates on its own, once it has been started. Although few are constructed nowadays, they have a history stretching back well over two thousand years. Several myths show that the ancient Greeks were interested in the creation of automata. In one, Hephaestus, the god of all mechanical arts, was reputed to have made two female statues of pure gold which assisted him and accompanied him wherever he went. As well as giving automata a place in mythology, the Greeks almost certainly created some. These were probably activated by levers and powered by human action, although there are descriptions of steam and water being used as sources of power. Automata were sometimes intended as toys, or as tools for demonstrating basic scientiﬁc principles. Other ancient cultures, too, seem to have developed automata. In Egypt, Ctesibius experimented with air pressure and pneumatic principles. One of his creations was a singing blackbird powered by water. A Chinese text of the third century BC describes a life-size, human-shaped ﬁgure that could walk rapidly, move its head up and down, sing and wink its eye. Much later, Arab engineers of the ninth and thirteenth centuries wrote detailed treatises on how to build programmable musical fountains, mechanical servants, and elaborate clocks. A ninth-century ruler in Baghdad had a silver and gold tree with metal birds that sang. The art of creating automata developed considerably during the ﬁfteenth century, linked with improvements in clock making: the mechanisms of automata and clocks had a great deal in common. Some truly remarkable automata were produced at this time. Muller was reputed to have made an artiﬁcial eagle which ﬂew to greet the Emperor on his entry into Nuremberg, Germany, in 1470, then returned to perch on top of a city gate and, by stretching its wings and bowing, saluted the emperor on his arrival. Leonardo da Vinci made a lion in honour of the king of France, which advanced towards him, stopped, opened its chest with a claw and pointed to the French coat of arms. Automata were normally very expensive toys for the very rich. They were made for royal or aristocratic patrons, to be viewed only by themselves and selected guests – who were expected to be impressed by their wealth. Automata were also created for public show, however, and many appeared on clock towers, such as me one in Bern, Switzerland, built in 1530. During the eighteenth century, some watchmakers made automata to contribute to the progress of medicine and the natural sciences, particularly to investigate the mechanical laws governing the structure and movement of living things. Many of their creations simulated almost perfectly the complex structure of human beings and animals. Maillardet made extensive use of gearing and cogs to produce automata of horses, worked by turning a handle. Vaucanson produced a duck made of gilded copper which ate, drank and quacked like a real duck. He also made a life-size Female flute player. Air passes through the complex mechanism, causing the lips and ﬁngers of the player to move naturally on the flute, opening and closing holes on it. This automaton had a repertoire of twelve tunes. In another well—known piece, Merlin's silver swan made in 1773, the swan sits in a stream consisting of glass rods where small silver ﬁsh are swimming. When the clockwork is wound, a music box plays and the glass rods rotate, giving the impression of a ﬂowing stream. The swan turns its head from side to side. lt soon notices the ﬁsh and bends down to catch and. eat one, then raises its head to the upright position. The mechanism still works. One of the most skilled makers of automata was the Swiss watchmaker jaquet-Droz. He produced three automata which, even today, are considered wonders of science and mechanical engineering. One of these, The Writer, simulates a boy sitting at a desk, dipping his pen into the ink and writing perfectly legibly. Another Stunning creation of the eighteenth century was the Mechanical Theatre in the grounds of Austria's Hellbrunn Palace, home of the Archbishop of Salzburg. Designed by the miner Rosenegger, and completed in 1752, this depicts the nobility's idea of a perfect society, with every class in its proper place. The ﬁgures inside a palace depict eighteenth- century court life, while industrious activity is carried on in and around this building. A total of 141 mobile and 52 immobile little ﬁgures demonstrate all manner of trades of the period: building workers bring materials to the foreman, who drinks; butchers slaughter an ox; a barber shaves a man. A dancing bear performs, guards march past the palace, a farmer pushes an old woman in a wheelbarrow over the road. The theatre shows great skill in clock making and water technology, consisting of hidden waterwheels, copper wiring and cogwheels. During the nineteenth century, mass production techniques meant that automata could be made cheaply and easily, and they became toys for children rather than an expensive adult amusement. Between 1860 and 1910, small family businesses in Paris made thousands of clockwork automata and mechanical singing birds and exported them around the world. However, the twentieth century saw traditional forms of automata fall out of favour."
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: Automata and the ancient Greeks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-41-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "created an automaton that represented a bird in water interacting with its surroundings",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ctesibius"
+            },
+            {
+              "id": "B",
+              "text": "Arab engineers"
+            },
+            {
+              "id": "C",
+              "text": "da Vinci"
+            },
+            {
+              "id": "D",
+              "text": "Maillardet"
+            },
+            {
+              "id": "E",
+              "text": "Vaucanson"
+            },
+            {
+              "id": "F",
+              "text": "Merlin"
+            },
+            {
+              "id": "G",
+              "text": "Jaquet-Droz"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "created an automaton that performed on a musical instrument",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ctesibius"
+            },
+            {
+              "id": "B",
+              "text": "Arab engineers"
+            },
+            {
+              "id": "C",
+              "text": "da Vinci"
+            },
+            {
+              "id": "D",
+              "text": "Maillardet"
+            },
+            {
+              "id": "E",
+              "text": "Vaucanson"
+            },
+            {
+              "id": "F",
+              "text": "Merlin"
+            },
+            {
+              "id": "G",
+              "text": "Jaquet-Droz"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "produced documents about how to create automata",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ctesibius"
+            },
+            {
+              "id": "B",
+              "text": "Arab engineers"
+            },
+            {
+              "id": "C",
+              "text": "da Vinci"
+            },
+            {
+              "id": "D",
+              "text": "Maillardet"
+            },
+            {
+              "id": "E",
+              "text": "Vaucanson"
+            },
+            {
+              "id": "F",
+              "text": "Merlin"
+            },
+            {
+              "id": "G",
+              "text": "Jaquet-Droz"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "created automata which required a human being to operate the mechanism",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ctesibius"
+            },
+            {
+              "id": "B",
+              "text": "Arab engineers"
+            },
+            {
+              "id": "C",
+              "text": "da Vinci"
+            },
+            {
+              "id": "D",
+              "text": "Maillardet"
+            },
+            {
+              "id": "E",
+              "text": "Vaucanson"
+            },
+            {
+              "id": "F",
+              "text": "Merlin"
+            },
+            {
+              "id": "G",
+              "text": "Jaquet-Droz"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "used air and water power List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ctesibius"
+            },
+            {
+              "id": "B",
+              "text": "Arab engineers"
+            },
+            {
+              "id": "C",
+              "text": "da Vinci"
+            },
+            {
+              "id": "D",
+              "text": "Maillardet"
+            },
+            {
+              "id": "E",
+              "text": "Vaucanson"
+            },
+            {
+              "id": "F",
+              "text": "Merlin"
+            },
+            {
+              "id": "G",
+              "text": "Jaquet-Droz"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Mechanical Theatre shows court life inside a ______",
+          "answer": "Palace",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the Mechanical Theatre, building workers, butchers and a barber represent various ______ of the time.",
+          "answer": "Trades",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "provides the power that operates the Mechanical Theatre. ______",
+          "answer": "Water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "New ______ that developed in the nineteenth century reduced the cost of the production of automate.",
+          "answer": "Techniques",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-41-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the nineteenth century, most automata were intended for use by______",
+          "answer": "children",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "Automata and the ancient Greeks",
+        "text": "The ancient Greeks had a number of 28 ……………………………………concerning automate. According to one, the god Hephaestus created two assistants made of gold. The Greeks probably also created real automata; it seems most likely that the mechanism which controlled them consisted of 29 …………………………which were worked by human operators. Some automate were designed to be 30……………………………………… with an educational purpose."
+      }
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "id": "pte-listening-191",
+  "title": "Listening — Practice Test 191",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-191-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Recommends surfing for ______ holidays in summer",
+          "answer": "Family",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Need to be quite ______",
+          "answer": "Fits",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Lahinch has some good quality ______ and surf schools",
+          "answer": "Hotels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Good surf school at ______ beach",
+          "answer": "Carrowniskey",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Surf camp lasts for one ______",
+          "answer": "Week",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Can also explore the local ______ by kayak",
+          "answer": "Bay",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Best month to go ______",
+          "answer": "September",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "/ nineteen ______",
+          "answer": "19/ nineteen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "/ thirty ______",
+          "answer": "30/ thirty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Boots ______",
+          "answer": "Boots",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q11",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO facts are given about the school's extended hours childcare service?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It started recently."
+            },
+            {
+              "id": "B",
+              "text": "More children attend after school than before school."
+            },
+            {
+              "id": "C",
+              "text": "An average of 50 children attend in the mornings."
+            },
+            {
+              "id": "D",
+              "text": "A child cannot attend both the before and after school sessions."
+            },
+            {
+              "id": "E",
+              "text": "The maximum number of children who can attend is 70."
+            }
+          ],
+          "answer": [
+            "B",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q12",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "Which TWO facts are given about the school's extended hours childcare service?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It started recently."
+            },
+            {
+              "id": "B",
+              "text": "More children attend after school than before school."
+            },
+            {
+              "id": "C",
+              "text": "An average of 50 children attend in the mornings."
+            },
+            {
+              "id": "D",
+              "text": "A child cannot attend both the before and after school sessions."
+            },
+            {
+              "id": "E",
+              "text": "The maximum number of children who can attend is 70."
+            }
+          ],
+          "answer": [
+            "B",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much does childcare cost for a complete afternoon session per child?",
+          "options": [
+            {
+              "id": "A",
+              "text": "£3.50"
+            },
+            {
+              "id": "B",
+              "text": "£5.70"
+            },
+            {
+              "id": "C",
+              "text": "£7.20"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the manager say about food?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Children with allergies should bring their own food."
+            },
+            {
+              "id": "B",
+              "text": "Children may bring healthy snacks with them."
+            },
+            {
+              "id": "C",
+              "text": "Children are given a proper meal at 5 p.m."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is different abo t arrangements in the school holidays?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Children from other schools can attend."
+            },
+            {
+              "id": "B",
+              "text": "Older children can attend."
+            },
+            {
+              "id": "C",
+              "text": "A greater number of children can attend."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Spanish",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited availability"
+            },
+            {
+              "id": "B",
+              "text": "is no longer available"
+            },
+            {
+              "id": "C",
+              "text": "is for over 8s only"
+            },
+            {
+              "id": "D",
+              "text": "requires help from parents"
+            },
+            {
+              "id": "E",
+              "text": "involves an additional fee"
+            },
+            {
+              "id": "F",
+              "text": "is a new activity"
+            },
+            {
+              "id": "G",
+              "text": "was requested by children"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Music",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited availability"
+            },
+            {
+              "id": "B",
+              "text": "is no longer available"
+            },
+            {
+              "id": "C",
+              "text": "is for over 8s only"
+            },
+            {
+              "id": "D",
+              "text": "requires help from parents"
+            },
+            {
+              "id": "E",
+              "text": "involves an additional fee"
+            },
+            {
+              "id": "F",
+              "text": "is a new activity"
+            },
+            {
+              "id": "G",
+              "text": "was requested by children"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Painting",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited availability"
+            },
+            {
+              "id": "B",
+              "text": "is no longer available"
+            },
+            {
+              "id": "C",
+              "text": "is for over 8s only"
+            },
+            {
+              "id": "D",
+              "text": "requires help from parents"
+            },
+            {
+              "id": "E",
+              "text": "involves an additional fee"
+            },
+            {
+              "id": "F",
+              "text": "is a new activity"
+            },
+            {
+              "id": "G",
+              "text": "was requested by children"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Yoga",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited availability"
+            },
+            {
+              "id": "B",
+              "text": "is no longer available"
+            },
+            {
+              "id": "C",
+              "text": "is for over 8s only"
+            },
+            {
+              "id": "D",
+              "text": "requires help from parents"
+            },
+            {
+              "id": "E",
+              "text": "involves an additional fee"
+            },
+            {
+              "id": "F",
+              "text": "is a new activity"
+            },
+            {
+              "id": "G",
+              "text": "was requested by children"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Cooking",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited availability"
+            },
+            {
+              "id": "B",
+              "text": "is no longer available"
+            },
+            {
+              "id": "C",
+              "text": "is for over 8s only"
+            },
+            {
+              "id": "D",
+              "text": "requires help from parents"
+            },
+            {
+              "id": "E",
+              "text": "involves an additional fee"
+            },
+            {
+              "id": "F",
+              "text": "is a new activity"
+            },
+            {
+              "id": "G",
+              "text": "was requested by children"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Holly has chosen the Orion Stadium placement because",
+          "options": [
+            {
+              "id": "A",
+              "text": "it involves children."
+            },
+            {
+              "id": "B",
+              "text": "it is outdoors."
+            },
+            {
+              "id": "C",
+              "text": "it sounds like fun."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which aspect of safety does Dr Green emphasise most?",
+          "options": [
+            {
+              "id": "A",
+              "text": "ensuring children stay in the stadium"
+            },
+            {
+              "id": "B",
+              "text": "checking the equipment children will use"
+            },
+            {
+              "id": "C",
+              "text": "removing obstacles in changing rooms"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Dr Green say about the spectators?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They can be hard to manage."
+            },
+            {
+              "id": "B",
+              "text": "They make useful volunteers."
+            },
+            {
+              "id": "C",
+              "text": "They shouldn’t take photographs."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What has affected the schedule in the past?",
+          "options": [
+            {
+              "id": "A",
+              "text": "bad weather"
+            },
+            {
+              "id": "B",
+              "text": "an injury"
+            },
+            {
+              "id": "C",
+              "text": "extra time"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Communication",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Organisation",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Time management",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Creativity",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Leadership",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Networking",
+          "options": [
+            {
+              "id": "A",
+              "text": "being flexible"
+            },
+            {
+              "id": "B",
+              "text": "focusing on details"
+            },
+            {
+              "id": "C",
+              "text": "having a smart appearance"
+            },
+            {
+              "id": "D",
+              "text": "hiding your emotions"
+            },
+            {
+              "id": "E",
+              "text": "relying on experts"
+            },
+            {
+              "id": "F",
+              "text": "trusting your own views"
+            },
+            {
+              "id": "G",
+              "text": "doing one thing at a time"
+            },
+            {
+              "id": "H",
+              "text": "thinking of the future"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• It was believed that birds hibernated underwater or buried themselves in ______",
+          "answer": "Mud",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– In autumn he observed that redstart's experience the loss of ______ and thought that they turned into robins.",
+          "answer": "Feathers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Aristotle's assumptions were logical because the two species of birds had a similar ______",
+          "answer": "Shape",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Charles Morton popularised the idea that birds fly to the ______ in winter.",
+          "answer": "Moon",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In 1822, a stork was killed in Germany which had an African spear in its ______",
+          "answer": "Neck",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– previously there had been no ______ that storks migrate to Africa",
+          "answer": "Evidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Little was known about the ______ and journeys of migrating birds until the practice of ringing was established.",
+          "answer": "Destinations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– It was thought large birds carried small birds on some journeys because they were considered incapable of travelling across huge ______",
+          "answer": "Oceans",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Ringing depended on what is called the ______ of dead birds.",
+          "answer": "Recovery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-191-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In 1931, the first ______ to show the migration of European birds was printed.",
+          "answer": "Atlas",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/test-3.mp3"
+    }
+  ]
+}

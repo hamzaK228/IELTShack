@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-111",
+  "title": "Academic Writing — Practice Test 111",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-111-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The plans below show the site of an airport now and how it will look after redevelopment next year. Summarise the information be selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-111.png"
+        },
+        {
+          "id": "pte-writing-111-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Many manufactured food and drink products contain high level of sugars which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar. Do you agree or disagree? Write at least 250 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "id": "pte-gt-reading-14",
+  "title": "General Training Reading — Practice Test 14",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: STUDENT LIFE AT CANTERBURY COLLEGE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-14-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can't eat at this restaurant on Monday evening.",
+          "options": [
+            {
+              "id": "A",
+              "text": "RICHMOND EXPERIMENTAL THEATRE"
+            },
+            {
+              "id": "B",
+              "text": "WORLD CULTURE DAY"
+            },
+            {
+              "id": "C",
+              "text": "SCOTTISH DANCING"
+            },
+            {
+              "id": "D",
+              "text": "THE RENAISSANCE SINGERS"
+            },
+            {
+              "id": "E",
+              "text": "DRAWING WITH COLOUR"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can have a meal here in peaceful country surroundings.",
+          "options": [
+            {
+              "id": "A",
+              "text": "RICHMOND EXPERIMENTAL THEATRE"
+            },
+            {
+              "id": "B",
+              "text": "WORLD CULTURE DAY"
+            },
+            {
+              "id": "C",
+              "text": "SCOTTISH DANCING"
+            },
+            {
+              "id": "D",
+              "text": "THE RENAISSANCE SINGERS"
+            },
+            {
+              "id": "E",
+              "text": "DRAWING WITH COLOUR"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can eat here on a Sunday night.",
+          "options": [
+            {
+              "id": "A",
+              "text": "RICHMOND EXPERIMENTAL THEATRE"
+            },
+            {
+              "id": "B",
+              "text": "WORLD CULTURE DAY"
+            },
+            {
+              "id": "C",
+              "text": "SCOTTISH DANCING"
+            },
+            {
+              "id": "D",
+              "text": "THE RENAISSANCE SINGERS"
+            },
+            {
+              "id": "E",
+              "text": "DRAWING WITH COLOUR"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can have your order delivered for an extra fee.",
+          "options": [
+            {
+              "id": "A",
+              "text": "RICHMOND EXPERIMENTAL THEATRE"
+            },
+            {
+              "id": "B",
+              "text": "WORLD CULTURE DAY"
+            },
+            {
+              "id": "C",
+              "text": "SCOTTISH DANCING"
+            },
+            {
+              "id": "D",
+              "text": "THE RENAISSANCE SINGERS"
+            },
+            {
+              "id": "E",
+              "text": "DRAWING WITH COLOUR"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "You can have dinner here and then stay the night.",
+          "options": [
+            {
+              "id": "A",
+              "text": "RICHMOND EXPERIMENTAL THEATRE"
+            },
+            {
+              "id": "B",
+              "text": "WORLD CULTURE DAY"
+            },
+            {
+              "id": "C",
+              "text": "SCOTTISH DANCING"
+            },
+            {
+              "id": "D",
+              "text": "THE RENAISSANCE SINGERS"
+            },
+            {
+              "id": "E",
+              "text": "DRAWING WITH COLOUR"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "A friendly greeting awaits new members.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Some relevant skills are preferred.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This activity could cheer you up.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This activity is suitable for a variety of ages.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Individual guidance will be provided.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Participants can take part in a public performance.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This activity could help someone who wants to overcome shyness.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This activity promises rapid progress.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This activity is not held during the day.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Many students are allocated a job experience placement abroad.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The elections for the Union President and Executive Committee are held together.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are staff in the LRC to help students use the facilities.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Nursery care is available on a first-come, first-served basis.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Refectory serves fast-food options.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Chapel View Restaurant is for students only. Read the passage below and answer Questions 21-27",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "STUDENT LIFE AT CANTERBURY COLLEGE",
+        "text": "Most of the courses at Canterbury College only take up four days of the week, leaving one day free for independent study. The atmosphere at the College is that of an adult environment where a relationship of mutual respect is encouraged between students and tutors. Canterbury is a student city with several institutes of Further and Higher Education. The city centre is just a five-minute walk from the College, easily accessible in lunch or study breaks. Canterbury College has developed strong international links over the years and, as a result, many students have the opportunity of visiting and working in a European country in the course of their studies.\n\nStudents' Union and SRC All students are automatically members of the Canterbury College Students' Union (CCSU) and can attend meetings. The Union is very active and is run by an Executive Committee elected by students in the Autumn Term. The President is elected every Summer Term to provide continuity for the next academic year. Representatives from each area of study form the Student Representative Council (SRC) which allows every student a say in Union affairs. In addition to representing students internally in the College on the Academic Board and with a subcommittee of the College Corporation, the CCSU also belongs to the National Union of Students which represents the interests of students nationally. The Union also arranges and supports entertainments, sporting activities and trips.\n\nStudent facilities\n\nLearning Resources Centre (LRC) The Corey Learning Resources Centre provides easy access to a wide range of printed and audiovisual learning materials which can help students with coursework. There is ample space for quiet independent study and there are also areas for group work. Resources provided include books, journals, audio and video cassettes and CD-ROMs. Inter-library loans are available locally and nationally via the British Library. All students are encouraged to use the Open Access Information Technology Centre situated on the first floor. This has a variety of computing, word processing and desktop publishing software.\n\nBookshop\n\n(A) branch of Waterstone's bookshops is located on campus, where you can buy a range of stationery, drawing equipment, artists' materials and books, as well as many other useful items you may need.\n\nChildren's Centre The College Children's Centre has places for under 5s with some subsidised places being available to students. Places are limited, so, if you are interested, apply early to reserve a place by contacting Linda Baker on the College telephone number.\n\nRefectory This provides refreshments between 08.30 and 19.00 with hot meals served three times a day. Healthy eating options are available.\n\nCoffee Shop This is open during normal College hours and serves light snacks and drinks. Proceeds from the Coffee Shop go to the Students' Union.\n\nCrypt Restaurant This is a training restaurant which offers good quality cuisine in pleasant surroundings. Meals are very reasonably priced and you are invited to sample the students' highly skilled dishes when the restaurant is open to the public during the week. Reservations can be made on 01227511244.\n\nChapel View Restaurant This is another training restaurant and is set up as a quick-service facility which offers a selection of snacks and main courses at a modest price"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: CANTERBURY COLLEGE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-14-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "advertising",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "TV production",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "architecture",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "company management",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "working with the disabled",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "secretariat tasks",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "beauty therapy",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "CANTERBURY COLLEGE",
+        "text": "COURSE A This course will enable students to experience performing arts and the media at a basic level. It will give them the experience to decide if they wish to pursue an interest in this field and to develop their potential and adaptability for working in a performance company in either a performing or a technical role.\n\nCOURSE B The aim of this course is to provide a thorough grounding in business-related skills and a comprehensive knowledge of business practice. It is for students with a business studies background who can manage a heavy workload that will contain a greater degree of academic study.\n\nCOURSE C This course provides progression to a range of higher levels. Units will include maintaining employment standards, salon management duties, providing facial massage and skin care, instruction on makeup, lash and brow treatments, artificial nail structures and ear piercing.\n\nCOURSE D This course is designed to develop skills used in leisure operations. It covers preparing for and conducting physical activities, maintenance of facility areas, building relationships with participants and colleagues, handling sports equipment and health and safety issues.\n\nCOURSE E This course gives a foundation for a career in caring for children, the elderly or people with special needs. Core units are Numeracy, Communication and Information Technology. Work placements are an important part of the course.\n\nCOURSE F This course is designed to provide a foundation in graphic and visual communication skills. Students complete units in picture composition and photographic processing alongside elements of graphic design, and gain hands-on experience of desktop publishing and presentations.\n\nCOURSE G This course is designed to provide an introduction to the construction industry. Units covered include Heat, Light and Sound, Introduction to the Urban Environment, Communication Processes and Techniques and Properties of Materials. AII students complete vocational assignments which are integrated with work experience with reputable companies.\n\nCOURSE H The qualifications gained and the skills developed on this course will provide a good basis for gaining employment in office work. In addition to word processing, the course also covers spreadsheets, computerised accounting, databases and desktop publishing. AII students are given chances to develop their confidence, and advice and information is given on job search skills, presentation techniques and personal appearance."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: The History of Early Cinema",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-14-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which THREE possible reasons for American dominance of the film industry are given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "plenty of capital to purchase what it didn't have"
+            },
+            {
+              "id": "B",
+              "text": "making films dealing with serious issues"
+            },
+            {
+              "id": "C",
+              "text": "being first to produce a feature film"
+            },
+            {
+              "id": "D",
+              "text": "well-written narratives"
+            },
+            {
+              "id": "E",
+              "text": "the effect of the First World War"
+            },
+            {
+              "id": "F",
+              "text": "excellent special effects."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which THREE possible reasons for American dominance of the film industry are given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "plenty of capital to purchase what it didn't have"
+            },
+            {
+              "id": "B",
+              "text": "making films dealing with serious issues"
+            },
+            {
+              "id": "C",
+              "text": "being first to produce a feature film"
+            },
+            {
+              "id": "D",
+              "text": "well-written narratives"
+            },
+            {
+              "id": "E",
+              "text": "the effect of the First World War"
+            },
+            {
+              "id": "F",
+              "text": "excellent special effects."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which THREE possible reasons for American dominance of the film industry are given in the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "plenty of capital to purchase what it didn't have"
+            },
+            {
+              "id": "B",
+              "text": "making films dealing with serious issues"
+            },
+            {
+              "id": "C",
+              "text": "being first to produce a feature film"
+            },
+            {
+              "id": "D",
+              "text": "well-written narratives"
+            },
+            {
+              "id": "E",
+              "text": "the effect of the First World War"
+            },
+            {
+              "id": "F",
+              "text": "excellent special effects."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which TWO types of film were not generally made in major studios? ______",
+          "answer": "Cartoons, serials",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which type of film did America develop in both short and feature films? ______",
+          "answer": "(slapstick) comedy/ slapstick",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which type of film started to become profitable in the 'silent' period? ______",
+          "answer": "(the) Avant(-) garde( film(s))",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It helped other countries develop their own film industry.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It was the biggest producer of films.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It was first to develop the 'feature' film.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It was responsible for creating stars.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It made the most money from 'avant-garde' films.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q39",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It made movies based more on its own culture than outside influences.",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-14-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It had a great influence on silent movies, despite its size. List of Countries",
+          "options": [
+            {
+              "id": "A",
+              "text": "France"
+            },
+            {
+              "id": "B",
+              "text": "Germany"
+            },
+            {
+              "id": "C",
+              "text": "USA"
+            },
+            {
+              "id": "D",
+              "text": "Denmark"
+            },
+            {
+              "id": "E",
+              "text": "Sweden"
+            },
+            {
+              "id": "F",
+              "text": "Japan"
+            },
+            {
+              "id": "G",
+              "text": "Soviet Union"
+            },
+            {
+              "id": "H",
+              "text": "Italy"
+            },
+            {
+              "id": "I",
+              "text": "Britain"
+            },
+            {
+              "id": "J",
+              "text": "China"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The History of Early Cinema",
+        "text": "The history of the cinema in its first thirty years is one of major and, to this day, unparalleled expansion and growth. Beginning as something unusual in a handful of big cities – New York, London, Paris and Berlin – the new medium quickly found its way across the world, attracting larger and larger audiences wherever it was shown and replacing other forms of entertainment as it did so. As audiences grew, so did the places where films were shown, finishing up with the 'great picture palaces' of the 1920s, which rivalled, and occasionally superseded, theatres and opera-houses in terms of opulence and splendour. Meanwhile, films themselves developed from being short 'attractions' only a couple of minutes long, to the full-length feature that has dominated the world's screens up to the present day. Although French, German, American and British pioneers have all been credited with the invention of cinema, the British and the Germans played a relatively small role in its worldwide exploitation, It was above all the French, followed closely by the Americans, who were the most passionate exporters of the new invention, helping to start cinema in China, Japan, Latin America and Russia. In terms of artistic development it was again the French and the Americans who took the lead, though in the years before the First World War, Italy, Denmark and Russia also played a part. In the end, it was the United States that was to become, and remain, the largest single market for films. By protecting their own market and pursuing a vigorous export policy, the Americans achieved a dominant position on the world market by the start of the First World War. The centre of film-making had moved westwards, to Hollywood, and it was films from these new Hollywood studios that flooded onto the world's film markets in the years after the First World War, and have done so ever since. Faced with total Hollywood domination, few film industries proved competitive. The Italian industry, which had pioneered the feature film with spectacular films like Quo vadis? (1913) and Cabiria (1914), almost collapsed. In Scandinavia, the Swedish cinema had a brief period of glory, notably with powerful epic films and comedies. Even the French cinema found itself in a difficult position. In Europe, only Germany proved industrially capable, while in the new Soviet Union and in Japan the development of the cinema took place in conditions of commercial isolation. Hollywood took the lead artistically as well as industrially. Hollywood films appealed because they had better-constructed narratives, their special effects were more impressive, and the star system added a new dimension to screen acting. If Hollywood did not have enough of its own resources, it had a great deal of money to buy up artists and technical innovations from Europe to ensure its continued dominance over present or future competition. The zest of the world survived partly by learning from Hollywood and partly because audiences continued to exist for a product which corresponded to needs which Hollywood could not supply. As well as popular audiences, there were also increasing audiences for films which were artistically more adventurous or which dealt with the issues in the outer world. None of this would have happened without technology, and cinema is in fact unique as an art form. In the early years, this art farm was quite primitive, similar to the original French idea of using a lantern and slides back in the seventeenth century. Early cinema programmes were a mixture of items, combining comic sketches, free-standing narratives, serial episodes and the occasional trick or animated film. With the arrival of the feature length narrative as the main attraction, other types of films became less important. The making of cartoons became a separate branch of film-making, generally practised outside the major studios, and the same was true of serials. Together with newsreels, they tended to be shown as short items in a programme which led to the feature. From early cinema, it was only Americana slapstick comedy that successfully developed in both short and feature format. However, during this 'Silent Film' era, animation, comedy, serials and dramatic features continued to thrive, along with factual films or documentaries, which acquired an increasing distinctiveness as the period progressed. It was also at this time that the avant-garde film first achieved commercial success, this time thanks almost exclusively to the French and the occasional German film. Of the countries which developed and maintained distinctive national cinemas in the silent period, the most important were France, Germany and the Soviet Union. Of these, the French displayed the most continuity, in spite of the war and post-war economic uncertainties. The German cinema, relatively insignificant in the pre-war years, exploded on to the world scene after 1919. Yet even they were both overshadowed by the Soviets after the 1917 Revolution. They turned their back on the past, leaving the style of the pre-war Russian cinema to the emigres who fled westwards to escape the Revolution. The other countries whose cinemas changed dramatically are: Britain, which had an interesting but undistinguished history in the silent period; Italy, which had a brief moment of international fame just before the war; the Scandinavian countries, particularly Denmark, which played a role in the development of silent cinema quite out of proportion to their small population; and Japan, where a cinema developed based primarily on traditional theatrical and, to a lesser extent, other art forms and only gradually adapted to western influence."
+      }
+    }
+  ]
+}

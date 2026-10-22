@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-132",
+  "title": "Academic Writing — Practice Test 132",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-132-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The chart and table below show the results of a survey of library users at a university. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-132.webp"
+        },
+        {
+          "id": "pte-writing-132-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people argue that primary schools focus too much on formal learning. To what extent do you agree with this opinion? How important do you think it is for children to play as well as learn in the primary school classroom? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words. (adsbygoogle = window.adsbygoogle || []).push({}); TASK 2 BAND 7.5 ANSWER: Nowadays individuals are arguing that primary schools pay a lot of attention to the formal methods of learning. I partially agree with this point of view, however I think play is extremely crucial in the classroom full of primary students. To begin with, formal learning plays an important role, since it teaches the student about being disciplined and respectful to everyone. Discipline and respect are two most important skills we need in our life that schools teaches us in a way of formal learning. Getting into details, these skills make people succeed in their lives. If we look at the example of successful( people today they all have these two qualities in common. Moreover formal learning helps us to test the ability of a student by conducting an exam in a formal way, which shows us how much has a student learnt and how much is the student capable of doing. On the other hand, I believe that too formal education is not the best way of learning. Considering the stage of the life in which primary students belong, we need to realize that fun is a crucial part of it. Being extremely formal blocks that fun from a student's life. So instead of schools being strict about formal ways of learning they should promote fun methods of teaching. For example, mind games other other video games, colours, paints and other activities will also teach student but in a enjoyable way. These activities will also promote the important skills such as social skills, creative skills and other beneficial skills we need in our daily lives. Furthermore, if we consider it deeply it will also prevent boredom and will motivate the student to have a passion for lifelong learning. last but not the least, play in the primary classroom has a huge importance on it's own. which gives the student this freedom to enjoy learning. In conclusion, formal learning has it's importance till some extent but sometimes it is a necessity to be informal. And schools should be focused at both of the methods of learning.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

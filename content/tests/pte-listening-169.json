@@ -1,0 +1,820 @@
+{
+  "id": "pte-listening-169",
+  "title": "Listening — Practice Test 169",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-169-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent works in",
+          "options": [
+            {
+              "id": "A",
+              "text": "the professions"
+            },
+            {
+              "id": "B",
+              "text": "business"
+            },
+            {
+              "id": "C",
+              "text": "other"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent has a salary of",
+          "options": [
+            {
+              "id": "A",
+              "text": "£ 0-15,000 a year"
+            },
+            {
+              "id": "B",
+              "text": "£ 15,000-35,000 a year"
+            },
+            {
+              "id": "C",
+              "text": "over £35,000 a year"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent watched TV for",
+          "options": [
+            {
+              "id": "A",
+              "text": "relaxation"
+            },
+            {
+              "id": "B",
+              "text": "entertainment"
+            },
+            {
+              "id": "C",
+              "text": "information"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Every day the respondent watches TV for",
+          "options": [
+            {
+              "id": "A",
+              "text": "30 min – 1 hour"
+            },
+            {
+              "id": "B",
+              "text": "1 hour – 2 hours"
+            },
+            {
+              "id": "C",
+              "text": "more than 2 hours"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The respondent mainly watches TV ______",
+          "answer": "A, E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "On the new channel the respondent would like to see more ______",
+          "answer": "A, C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The respondent would advise the new channel to ______",
+          "answer": "C, E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent feels that adverts should occur only",
+          "options": [
+            {
+              "id": "A",
+              "text": "10 minutes"
+            },
+            {
+              "id": "B",
+              "text": "15 minutes"
+            },
+            {
+              "id": "C",
+              "text": "20 minutes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent would like to attend special promotions if",
+          "options": [
+            {
+              "id": "A",
+              "text": "expenses are paid"
+            },
+            {
+              "id": "B",
+              "text": "he is invited specially"
+            },
+            {
+              "id": "C",
+              "text": "they are held locally"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The respondent would like to receive",
+          "options": [
+            {
+              "id": "A",
+              "text": "no mail"
+            },
+            {
+              "id": "B",
+              "text": "requested mail"
+            },
+            {
+              "id": "C",
+              "text": "all mail"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR activities of the Union are mentioned by the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "raising money for good causes"
+            },
+            {
+              "id": "B",
+              "text": "political campaigning"
+            },
+            {
+              "id": "C",
+              "text": "running a new agency"
+            },
+            {
+              "id": "D",
+              "text": "running a supermarket"
+            },
+            {
+              "id": "E",
+              "text": "providing cheap tickets"
+            },
+            {
+              "id": "F",
+              "text": "helping with accommodation"
+            },
+            {
+              "id": "G",
+              "text": "providing catering services"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR activities of the Union are mentioned by the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "raising money for good causes"
+            },
+            {
+              "id": "B",
+              "text": "political campaigning"
+            },
+            {
+              "id": "C",
+              "text": "running a new agency"
+            },
+            {
+              "id": "D",
+              "text": "running a supermarket"
+            },
+            {
+              "id": "E",
+              "text": "providing cheap tickets"
+            },
+            {
+              "id": "F",
+              "text": "helping with accommodation"
+            },
+            {
+              "id": "G",
+              "text": "providing catering services"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR activities of the Union are mentioned by the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "raising money for good causes"
+            },
+            {
+              "id": "B",
+              "text": "political campaigning"
+            },
+            {
+              "id": "C",
+              "text": "running a new agency"
+            },
+            {
+              "id": "D",
+              "text": "running a supermarket"
+            },
+            {
+              "id": "E",
+              "text": "providing cheap tickets"
+            },
+            {
+              "id": "F",
+              "text": "helping with accommodation"
+            },
+            {
+              "id": "G",
+              "text": "providing catering services"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which FOUR activities of the Union are mentioned by the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "raising money for good causes"
+            },
+            {
+              "id": "B",
+              "text": "political campaigning"
+            },
+            {
+              "id": "C",
+              "text": "running a new agency"
+            },
+            {
+              "id": "D",
+              "text": "running a supermarket"
+            },
+            {
+              "id": "E",
+              "text": "providing cheap tickets"
+            },
+            {
+              "id": "F",
+              "text": "helping with accommodation"
+            },
+            {
+              "id": "G",
+              "text": "providing catering services"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following can you get advice about from the Union?",
+          "options": [
+            {
+              "id": "A",
+              "text": "immigration"
+            },
+            {
+              "id": "B",
+              "text": "grants"
+            },
+            {
+              "id": "C",
+              "text": "medical problems"
+            },
+            {
+              "id": "D",
+              "text": "personal problems"
+            },
+            {
+              "id": "E",
+              "text": "legal matters"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following can you get advice about from the Union?",
+          "options": [
+            {
+              "id": "A",
+              "text": "immigration"
+            },
+            {
+              "id": "B",
+              "text": "grants"
+            },
+            {
+              "id": "C",
+              "text": "medical problems"
+            },
+            {
+              "id": "D",
+              "text": "personal problems"
+            },
+            {
+              "id": "E",
+              "text": "legal matters"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the hi-tech fitness centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "part of the Metro Tower Building"
+            },
+            {
+              "id": "B",
+              "text": "in the main square in the centre of the town"
+            },
+            {
+              "id": "C",
+              "text": "some distance from the centre of the town"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the ice rink",
+          "options": [
+            {
+              "id": "A",
+              "text": "part of the Metro Tower Building"
+            },
+            {
+              "id": "B",
+              "text": "in the main square in the centre of the town"
+            },
+            {
+              "id": "C",
+              "text": "some distance from the centre of the town"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the new cinema",
+          "options": [
+            {
+              "id": "A",
+              "text": "part of the Metro Tower Building"
+            },
+            {
+              "id": "B",
+              "text": "in the main square in the centre of the town"
+            },
+            {
+              "id": "C",
+              "text": "some distance from the centre of the town"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the Theatre Royal",
+          "options": [
+            {
+              "id": "A",
+              "text": "part of the Metro Tower Building"
+            },
+            {
+              "id": "B",
+              "text": "in the main square in the centre of the town"
+            },
+            {
+              "id": "C",
+              "text": "some distance from the centre of the town"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hand-in-date: ______",
+          "answer": "21 May",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Length: ______ to",
+          "answer": "18000-20000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Extra programme offered on: ______",
+          "answer": "research methods",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "7 February______",
+          "answer": "plan",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "February – March______",
+          "answer": "research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "to______write up work",
+          "answer": "march to may",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q27",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Buying a computer ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q28",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Reading previous year's dissertation ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q29",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Using questionnaires as main research instrument ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q30",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Interviewing tutors (27) (28) (29) ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The driest continent is",
+          "options": [
+            {
+              "id": "A",
+              "text": "Australia"
+            },
+            {
+              "id": "B",
+              "text": "Africa"
+            },
+            {
+              "id": "C",
+              "text": "Antarctica"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The evaporation rate in Australia is",
+          "options": [
+            {
+              "id": "A",
+              "text": "lower than Africa"
+            },
+            {
+              "id": "B",
+              "text": "higher than Africa"
+            },
+            {
+              "id": "C",
+              "text": "about the same as Africa"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Rainfall in Australia hardly penetrates the soil because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the soil is too hard"
+            },
+            {
+              "id": "B",
+              "text": "the soil is too hot"
+            },
+            {
+              "id": "C",
+              "text": "plants use it up"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In sandy soils water can",
+          "options": [
+            {
+              "id": "A",
+              "text": "evaporate quickly"
+            },
+            {
+              "id": "B",
+              "text": "seep down to rock"
+            },
+            {
+              "id": "C",
+              "text": "wash the soil away"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Water is mainly pumped up for",
+          "options": [
+            {
+              "id": "A",
+              "text": "people to drink"
+            },
+            {
+              "id": "B",
+              "text": "animals to drink"
+            },
+            {
+              "id": "C",
+              "text": "watering crops"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Natural springs are located",
+          "options": [
+            {
+              "id": "A",
+              "text": "in unexplored parts of Australia"
+            },
+            {
+              "id": "B",
+              "text": "quite commonly over all Australia"
+            },
+            {
+              "id": "C",
+              "text": "in a few areas of Australia"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Underground water supplies",
+          "options": [
+            {
+              "id": "A",
+              "text": "18% of Australia’s water"
+            },
+            {
+              "id": "B",
+              "text": "48% of Australia’s water"
+            },
+            {
+              "id": "C",
+              "text": "80% of Australia’s water"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE of the following uses of dam water are mentioned?",
+          "options": [
+            {
+              "id": "A",
+              "text": "providing water for livestock"
+            },
+            {
+              "id": "B",
+              "text": "watering farmland"
+            },
+            {
+              "id": "C",
+              "text": "providing water for industry"
+            },
+            {
+              "id": "D",
+              "text": "controlling flood water"
+            },
+            {
+              "id": "E",
+              "text": "producing hydro-electric power"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE of the following uses of dam water are mentioned?",
+          "options": [
+            {
+              "id": "A",
+              "text": "providing water for livestock"
+            },
+            {
+              "id": "B",
+              "text": "watering farmland"
+            },
+            {
+              "id": "C",
+              "text": "providing water for industry"
+            },
+            {
+              "id": "D",
+              "text": "controlling flood water"
+            },
+            {
+              "id": "E",
+              "text": "producing hydro-electric power"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-169-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE of the following uses of dam water are mentioned?",
+          "options": [
+            {
+              "id": "A",
+              "text": "providing water for livestock"
+            },
+            {
+              "id": "B",
+              "text": "watering farmland"
+            },
+            {
+              "id": "C",
+              "text": "providing water for industry"
+            },
+            {
+              "id": "D",
+              "text": "controlling flood water"
+            },
+            {
+              "id": "E",
+              "text": "producing hydro-electric power"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/169_we.mp3"
+    }
+  ]
+}

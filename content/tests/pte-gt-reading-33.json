@@ -1,0 +1,1084 @@
+{
+  "id": "pte-gt-reading-33",
+  "title": "General Training Reading — Practice Test 33",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Jamestown Hiking Centre",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-33-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement is NOT offering a job? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement specifically asks for someone to look good? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement offers the chance of a job abroad? ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement doesn't ask to be telephoned? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which job advertisement wants someone for a part time position? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which advertisement says that speaking a language will help the applicant? A SECRETARY – URGENT Busy High Street solicitors requires an experienced and efficient secretary. All applicants should have excellent typing shorthand and telephone skills. Good package. Write with CV to: Aldersley and Sons 25 Charmin StreetB USED CAR SALESMAND REQUIRED (£ to be made) Busy town used car dealership urgently needs an experienced salesman. Exhaustive knowledge of different makes of cars a must. Good basic plus commission. Call: 020 8567 9636 and ask for Mike C WANTED URGENTLY BABYSITTER ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much would a hiker have to pay in total for the example hike? ______",
+          "answer": "$1200",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which day will the hikers come across ice? ______",
+          "answer": "Day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which day will the hikers have the chance to do a water sport? ______",
+          "answer": "Day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which day do the hikers have the option to not do any hiking and just take it easy? ______",
+          "answer": "Day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "On which day will the hikers get to sleep next to the sea? ______",
+          "answer": "Day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It will cost $50 for 2 people to go to Eastley town centre.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Westley Taxi Services will go to any destination.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "2 CD ROMs for 2 weeks.",
+          "options": [
+            {
+              "id": "C",
+              "text": "WANTED URGENTLY BABYSITTER"
+            },
+            {
+              "id": "E",
+              "text": "SITUATIONS VACANT NOW"
+            },
+            {
+              "id": "F",
+              "text": "ALPINE SKI (The specialists in winter sports holidays)"
+            },
+            {
+              "id": "B",
+              "text": "B"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "1 ½ hours on the internet.",
+          "options": [
+            {
+              "id": "C",
+              "text": "WANTED URGENTLY BABYSITTER"
+            },
+            {
+              "id": "E",
+              "text": "SITUATIONS VACANT NOW"
+            },
+            {
+              "id": "F",
+              "text": "ALPINE SKI (The specialists in winter sports holidays)"
+            },
+            {
+              "id": "A",
+              "text": "A"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "6 internet sheet printouts.",
+          "options": [
+            {
+              "id": "E",
+              "text": "SITUATIONS VACANT NOW"
+            },
+            {
+              "id": "F",
+              "text": "ALPINE SKI (The specialists in winter sports holidays)"
+            },
+            {
+              "id": "G",
+              "text": "G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "2 books late for 1 week.",
+          "options": [
+            {
+              "id": "E",
+              "text": "SITUATIONS VACANT NOW"
+            },
+            {
+              "id": "F",
+              "text": "ALPINE SKI (The specialists in winter sports holidays)"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "6 months library membership.",
+          "options": [
+            {
+              "id": "A",
+              "text": "$3"
+            },
+            {
+              "id": "B",
+              "text": "$2"
+            },
+            {
+              "id": "C",
+              "text": "$20"
+            },
+            {
+              "id": "D",
+              "text": "$12"
+            },
+            {
+              "id": "E",
+              "text": "$2.50"
+            },
+            {
+              "id": "F",
+              "text": "$1"
+            },
+            {
+              "id": "G",
+              "text": "30 cents"
+            },
+            {
+              "id": "H",
+              "text": "50 cents"
+            },
+            {
+              "id": "I",
+              "text": "$1.50 10 Only members of the Library may borrow items from the Library. Membership for this year is $24 for 12 month or pro rata monthly membership. Membership runs from 1st January to 31st December. 11 Library membership consists of the right to take out 6 hardbacks and six paperbacks. Extra borrowing may be added on at the librarian’s discretion. 12 Hardback books are taken out for a maximum of two weeks and paperbacks for a maximum of three weeks. Renewals are permitted. The books can be brought in and re-stamped for renewal or, in emergencies, members may phone in. 13 Overdue books will be charged at a rate of 50 cents per book per week or part of a week. Lost books will be charged at the current market price plus a postage/administration charge."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If a book that you want is already taken out, put your name on the ______ and the book will be kept for you when it is returned.",
+          "answer": "Waiting list",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If library customers have any ideas on how to improve the library, they can leave a written note of their recommendation in the ______",
+          "answer": "Suggestion book",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Jamestown Hiking Centre",
+        "text": "We offer hiking trips led by experienced guides out into the mountains. The hikes can last from an afternoon's hike up to the Josef Waterfall to a fortnight's trek through the James Forest and up into the Williams mountains and the rugged adjoining coastline. Below is an example of the itinerary for our 10 day hiking safari.\n\nStart Drake Visitors Centre, Jamestown 8.00am\n\nFinish Kingstown 7.00pm\n\nLength 10 days\n\nGrade Medium\n\nPrice $ Canadian 1000 + $ 20/day kitty Highlights Hike through beech forest, past limestone sinkholes and across tussock-covered mountain slopes. Watch the antics of the Longley Seal Pups at a breeding colony. Hike through the lush forest in a limestone canyon, wade across crystal clear rivers, and explore glowworm caves in Havely. Take a guided walk on the spectacular Franz Glacier and marvel at its crevasses and ice caves. Kayak the tranquil Okarto Lagoon and watch native birds feeding in the shallows. Hike through James forest to natural hot pools surrounded by mountain peaks in Westland. Watch for penguins and dolphins while strolling along isolated beaches.\n\nITINERARY\n\nDay 1 Drive from Jamestown to Longley. Hike through beech forest, camp under natural rock shelter. 4 hours hiking\n\nDay 2 Hike up above the bushline on Mt Arthurs. Drive to camp by the Bull River. 7 hours hiking\n\nDay 3 Visit seal colony. Drive to Havely and hike while learning river crossing techniques. 3 hours hiking\n\nDay 4 Explore limestone caves and hike down a river canyon. Visit the Caves at the Lemon Cliffs. 5 hours hiking\n\nDay 5 Drive to Franztown and walk to the glacier terminal, or do the guided walk on the glacier ($35). 2 hours hiking Day 6 Kayak ($40) across Okarto lagoon and up forested river channels, or hike along beach. 4 hours kayaking or 3 hours hiking\n\nDay 7 Hike up the Knight's Valley to Welley Flats hut and soak weary muscles in natural hot pools. 7 hours hiking\n\nDay 8 Boulder-hop up to a waterfall with stunning mountain views, or have a rest day. 4 hours hiking\n\nDay 9 Hike back down the Knight's Valley, visit a penguin colony and camp on an isolated beach. 6 hours hiking\n\nDay 10 Hike along a beach frequented by dolphins, drive over the Hast Pass and continue to Kingstown. 2 hours hiking"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Halifax College",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-33-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Student Prospects"
+            },
+            {
+              "id": "ii",
+              "text": "Study Choices at Halifax College"
+            },
+            {
+              "id": "iii",
+              "text": "The Teaching and Study Staff"
+            },
+            {
+              "id": "iv",
+              "text": "College Buildings"
+            },
+            {
+              "id": "v",
+              "text": "School Structure"
+            },
+            {
+              "id": "vi",
+              "text": "The History of Halifax College"
+            },
+            {
+              "id": "vii",
+              "text": "Working at Halifax College"
+            },
+            {
+              "id": "viii",
+              "text": "Special Circumstances"
+            },
+            {
+              "id": "ix",
+              "text": "Extracurricular Activities"
+            },
+            {
+              "id": "x",
+              "text": "Competition at Halifax College"
+            },
+            {
+              "id": "xi",
+              "text": "Joining Halifax College"
+            }
+          ],
+          "answer": "xi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Student Prospects"
+            },
+            {
+              "id": "ii",
+              "text": "Study Choices at Halifax College"
+            },
+            {
+              "id": "iii",
+              "text": "The Teaching and Study Staff"
+            },
+            {
+              "id": "iv",
+              "text": "College Buildings"
+            },
+            {
+              "id": "v",
+              "text": "School Structure"
+            },
+            {
+              "id": "vi",
+              "text": "The History of Halifax College"
+            },
+            {
+              "id": "vii",
+              "text": "Working at Halifax College"
+            },
+            {
+              "id": "viii",
+              "text": "Special Circumstances"
+            },
+            {
+              "id": "ix",
+              "text": "Extracurricular Activities"
+            },
+            {
+              "id": "x",
+              "text": "Competition at Halifax College"
+            },
+            {
+              "id": "xi",
+              "text": "Joining Halifax College"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Student Prospects"
+            },
+            {
+              "id": "ii",
+              "text": "Study Choices at Halifax College"
+            },
+            {
+              "id": "iii",
+              "text": "The Teaching and Study Staff"
+            },
+            {
+              "id": "iv",
+              "text": "College Buildings"
+            },
+            {
+              "id": "v",
+              "text": "School Structure"
+            },
+            {
+              "id": "vi",
+              "text": "The History of Halifax College"
+            },
+            {
+              "id": "vii",
+              "text": "Working at Halifax College"
+            },
+            {
+              "id": "viii",
+              "text": "Special Circumstances"
+            },
+            {
+              "id": "ix",
+              "text": "Extracurricular Activities"
+            },
+            {
+              "id": "x",
+              "text": "Competition at Halifax College"
+            },
+            {
+              "id": "xi",
+              "text": "Joining Halifax College"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Student Prospects"
+            },
+            {
+              "id": "ii",
+              "text": "Study Choices at Halifax College"
+            },
+            {
+              "id": "iii",
+              "text": "The Teaching and Study Staff"
+            },
+            {
+              "id": "iv",
+              "text": "College Buildings"
+            },
+            {
+              "id": "v",
+              "text": "School Structure"
+            },
+            {
+              "id": "vi",
+              "text": "The History of Halifax College"
+            },
+            {
+              "id": "vii",
+              "text": "Working at Halifax College"
+            },
+            {
+              "id": "viii",
+              "text": "Special Circumstances"
+            },
+            {
+              "id": "ix",
+              "text": "Extracurricular Activities"
+            },
+            {
+              "id": "x",
+              "text": "Competition at Halifax College"
+            },
+            {
+              "id": "xi",
+              "text": "Joining Halifax College"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Student Prospects"
+            },
+            {
+              "id": "ii",
+              "text": "Study Choices at Halifax College"
+            },
+            {
+              "id": "iii",
+              "text": "The Teaching and Study Staff"
+            },
+            {
+              "id": "iv",
+              "text": "College Buildings"
+            },
+            {
+              "id": "v",
+              "text": "School Structure"
+            },
+            {
+              "id": "vi",
+              "text": "The History of Halifax College"
+            },
+            {
+              "id": "vii",
+              "text": "Working at Halifax College"
+            },
+            {
+              "id": "viii",
+              "text": "Special Circumstances"
+            },
+            {
+              "id": "ix",
+              "text": "Extracurricular Activities"
+            },
+            {
+              "id": "x",
+              "text": "Competition at Halifax College"
+            },
+            {
+              "id": "xi",
+              "text": "Joining Halifax College"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is the current school population? ______",
+          "answer": "550",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How does the average student enter Halifax College? ______",
+          "answer": "In house examination",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where can the students practice their skills in boats? ______",
+          "answer": "Boathouse",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Halifax College",
+        "text": "(A) Halifax College is a school situated just outside the Nova Scotia capital city of Halifax. Opened in 1935, it was first privately run by the Halifax Church Council. In 1960 it was purchased by the provincial government and since then it has been enormously extended and now operates as a day school as well as keeping its original boarding element. Currently enrolment stands at 550 but this is expected to rise to 750 by 2005.\n\n(B) The school's mission is the pursuit of excellence by its students both in academic and extracurricular fields. Prospective students are expected to show high academic potential and proficiency in any sporting or musical activity is also looked for. Entrance to the College is by an in house examination. Six scholarships are offered per year by the College in academic, sporting and musical areas (2 in each). Details of these scholarships and the entry procedure can be obtained from the Admissions Office.\n\n(C) Academic life at Halifax College is naturally geared towards students' success in achieving their High School Diploma. Halifax College offers all the usual core and elective subjects and also offers a few unusual ones. See the prospectus for details.\n\n(D) The school is divided into three sub-schools:\n\nElementary Years 1 – 6\n\nPart 1 Secondary Years 7 – 9\n\nPart 2 Secondary Years 10 – 12 Each sub-school has its own administration and is headed by its own principal. The School Council is the umbrella organization that administers the school as a whole.\n\n(E) As mentioned earlier, sports and music are considered very important at Halifax College. At the College we have our own facilities for football, baseball, hockey and lacrosse. In addition to these we have our own gymnasium, sports hall, indoor swimming pool, athletics track and indoor and outdoor tennis courts. Students also have the opportunity to row at our boathouse on the Iona River. Music is centred at our purpose-built music school which has facilities for learning a variety of instruments and its own performance hall.\n\n(F) The future of our students is of the greatest importance to us here at Halifax College. To cater for this the College has a Careers Office staffed by a full time careers officer. Students can see the officer at any time to discuss their future careers and tertiary education options. The College has a library with an enormous selection of information concerning further education institutes in Canada and abroad. Various career lectures are organized through out the school year and students can also book aptitude tests and mock university and job interviews."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: the royal flying doctor service of australia",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-33-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "RFDS Hospitals"
+            },
+            {
+              "id": "ii",
+              "text": "Funding"
+            },
+            {
+              "id": "iii",
+              "text": "Communication Issues"
+            },
+            {
+              "id": "iv",
+              "text": "Navigation Issues"
+            },
+            {
+              "id": "v",
+              "text": "The Birth of an Idea"
+            },
+            {
+              "id": "vi",
+              "text": "Aviation"
+            },
+            {
+              "id": "vii",
+              "text": "Why the RFDS was Founded"
+            },
+            {
+              "id": "viii",
+              "text": "The First Pilot"
+            },
+            {
+              "id": "ix",
+              "text": "The Growth of the Service"
+            },
+            {
+              "id": "x",
+              "text": "Doctors' Assistants"
+            },
+            {
+              "id": "xi",
+              "text": "Refueling Problems"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Test flights before 1928 proved that John Flynn's ideas were possible.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The RFDS today gets most of its operational money from charities.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In the early years RFDS fliers had only compasses to help them find their way.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Today some landing areas still do not have proper lighting.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Telephones have now completely replaced radios for reporting emergencies to the RFDS.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-33-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Quite a few RFDS flights today don't even have a doctor on board.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "the royal flying doctor service of australia",
+        "text": "(A) The Interior of Australia is a sparsely populated and extreme environment and the delivery of basic services has always been a problem. One of the most important of these services is medical care. Before the inception of the Royal Flying Doctor Service (RFDS), serious illness or accidents in the Inland often meant death. The RFDS was the first comprehensive aerial organization in the world and to this day remains unique for the range of emergency services that it provides.\n\n(B) The story of the Flying Doctor Service is forever linked with its founder, the Very Reverend John Flynn. It is a story of achievement that gave courage to the pioneers of the outback. In 1911 the Reverend John Flynn took up his appointment at Beltana Mission in the north of South Australia. He began his missionary work at a time when only two doctors served an area of some 300 000 sq kms in the Northern Territory. In 1903 the first powered flight had taken place and by 1918 the aeroplane was beginning to improve itself as a means of transport. Radio, then very much in its infancy, was also displaying its remarkable capability to link people thousands of miles apart. Flynn saw the potential in these developments. The Service began in 1928 but it was not until 1942 that it was actually named the Flying Doctor Service and the Royal prefix was added in 1955.\n\n(C) In 1928 the dream of a flying doctor was at last a reality but Flynn and his supporters still faced many problems in the months and years to come. The first year's service was regarded as experimental, but the experiment succeeded and almost miraculously the service survived the Great Depression of the late 1920s and early 1930s. By 1932 the Australian Inland Mission (AIM) had a network of ten little hospitals across the coverage area. A succession of doctors and pilots followed and operations continued to expand over the next few years.\n\n(D) The Service suffered severe financial difficulties in its early years. Flynn and his associates had to launch public appeals for donations. While some government financial aid was made available on occasions in the early days, regular government subsidies only became an established practice later on. Even today the Service continues to rely chiefly on money from trusts, donations and public appeals for its annual budget and raising money remains an integral part of the working day for the Service and its volunteers.\n\n(E) In 1922 Flynn began a campaign for funding to buy some aircraft for the AIM. The first flight, on 17th May 1928, was made using a De Havilland model DH50 aircraft. This plane, named \"Victory\", went on to fly 110 000 miles in the service of the Flying Doctor until 1934 when it was replaced with a DH83 Fox Moth. In 1928 flying was still in its early days. Pilots had no navigational aids, no radio and only a compass and inadequate maps, if any. They navigated by landmarks such as fences, rivers, dirt roads of just wheel tracks and telegraph lines. They also flew in an open cockpit, fully exposed to the weather. Flights were normally made during daylight hours although night flights were attempted in cases of extreme urgency. Fuel supplies were also carried on flights until fuel dumps were established at certain strategic locations. Nowadays twin engine craft, speed, pressurization, the ability to fly higher and further with more space for crew and medical personnel have all improved patient care and safety problems. There are hardly any places now that the RFDS cannot reach though safe landing at the remote areas is another issue altogether. Many outstations now have some sort of airstrip lighting but even now car headlights are sometimes used. Landings are therefore still often made in hazardous circumstances on remote fields or roads and it is pilots who continue to be responsible for determining if the flight can be safely undertaken.\n\n(F) In the early 1900s basic telephone and telegraphic links existed only near larger towns. Radio communication was practically unknown and neighbours could be hundreds of miles away. What was needed was a simple, portable, cheap, and reliable two-way radio, with its own power source and with a range of 500 kms. In 1928 Alf Traeger, an Adelaide engineer, invented the Pedal Radio and over the next 10 years these were distributed around the stations and the operators were trained in Morse Code. Over the years radio developed with new technology and of course now telephones have taken its place. Whereas a few years ago, all calls for medical assistance were received by radio, today this represents only about 2% of all such calls.\n\n(G) Over the years, the RFDS has developed to take along medical specialists, dentists and various health related professionals. Sister Myra Blanche was the first nurse employed by the RFDS in 1945 undertaking home nursing, immunizations, advising on prevention of illnesses and, on occasion, filling in for the doctor. However, flight nurses as we know them were not used by the Service on a regular basis until the 1960s. Today, based on the judgement of the doctor authorizing the flight, up nurse and pilot on board."
+      }
+    }
+  ]
+}

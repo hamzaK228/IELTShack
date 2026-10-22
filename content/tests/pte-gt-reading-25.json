@@ -1,0 +1,926 @@
+{
+  "id": "pte-gt-reading-25",
+  "title": "General Training Reading — Practice Test 25",
+  "kind": "practice",
+  "description": "2 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: MATURE-AGED STUDENTS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-25-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How many people live on Great Barrier Island? ______",
+          "answer": "850",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When does the first ferry leave Great Barrier Island for Auckland on a weekday? ______",
+          "answer": "0800",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much does a return ticket to Great Barrier cost for a family? ______",
+          "answer": "$300",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which animals are not allowed on Great Barrier? ______",
+          "answer": "CATS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How long does a normal ferry trip to Great Barrier take? ______",
+          "answer": "2 ½ HOURS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is one reason, connected to weather, that ferries do not run? ______",
+          "answer": "thick fog/severe storms",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How much does it cost to hire a 4-wheel drive for one day on Great Barrier? ______",
+          "answer": "$100",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Walks along easy tracks on Great Barrier take about",
+          "options": [
+            {
+              "id": "A",
+              "text": "15 minutes."
+            },
+            {
+              "id": "B",
+              "text": "half an hour."
+            },
+            {
+              "id": "C",
+              "text": "45 minutes."
+            },
+            {
+              "id": "D",
+              "text": "one hour."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The views on Great Barrier are",
+          "options": [
+            {
+              "id": "A",
+              "text": "extraordinary."
+            },
+            {
+              "id": "B",
+              "text": "pleasant."
+            },
+            {
+              "id": "C",
+              "text": "famous."
+            },
+            {
+              "id": "D",
+              "text": "passable."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Walkers and bikers",
+          "options": [
+            {
+              "id": "A",
+              "text": "take great photos."
+            },
+            {
+              "id": "B",
+              "text": "have to wear helmets."
+            },
+            {
+              "id": "C",
+              "text": "use some of the same tracks."
+            },
+            {
+              "id": "D",
+              "text": "use different tracks."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "One disadvantage of swimming in New Zealand is",
+          "options": [
+            {
+              "id": "A",
+              "text": "sharks."
+            },
+            {
+              "id": "B",
+              "text": "dangerous waves."
+            },
+            {
+              "id": "C",
+              "text": "dangerous sun."
+            },
+            {
+              "id": "D",
+              "text": "cold water."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It is better to kayak on the ____ side of the island.",
+          "options": [
+            {
+              "id": "A",
+              "text": "northern"
+            },
+            {
+              "id": "B",
+              "text": "southern"
+            },
+            {
+              "id": "C",
+              "text": "eastern"
+            },
+            {
+              "id": "D",
+              "text": "western"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Mussel Festival takes place each year in",
+          "options": [
+            {
+              "id": "A",
+              "text": "January."
+            },
+            {
+              "id": "B",
+              "text": "February."
+            },
+            {
+              "id": "C",
+              "text": "March."
+            },
+            {
+              "id": "D",
+              "text": "April."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the past, Great Barrier was noted for",
+          "options": [
+            {
+              "id": "A",
+              "text": "tourism."
+            },
+            {
+              "id": "B",
+              "text": "photography."
+            },
+            {
+              "id": "C",
+              "text": "fishing."
+            },
+            {
+              "id": "D",
+              "text": "logging."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "is fulltime.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "lasts the longest.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "takes the fewest hours to complete.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "leads to a licence.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "helps people who are disadvantaged.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "is related to the entertainment industry.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "once completed, can go towards a university course",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Older students sometimes resent the young"
+            },
+            {
+              "id": "ii",
+              "text": "Worth the effort"
+            },
+            {
+              "id": "iii",
+              "text": "More mature-aged students in developed countries"
+            },
+            {
+              "id": "iv",
+              "text": "High academic achievement"
+            },
+            {
+              "id": "v",
+              "text": "The dangers of unfinished studies"
+            },
+            {
+              "id": "vi",
+              "text": "Why they exist"
+            },
+            {
+              "id": "vii",
+              "text": "Oldies find friendship harder at university"
+            },
+            {
+              "id": "viii",
+              "text": "Problems at home"
+            },
+            {
+              "id": "ix",
+              "text": "Mature-aged students are great organisers"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "MATURE-AGED STUDENTS",
+        "text": "(A) Only a generation ago, there were few tertiary students who had begun their studies when they were over the age of 21. It was virtually unheard of for people to start courses in their forties or fifties. These days, in all developed countries, not only are there large numbers of online learners who are mature-aged, but, on campus, mums and dads with their laptops and library books are also making an appearance. In some countries, China for example, university study still remains the preserve of the young. Population pressure means that providing education for those aged 18-24 is difficult enough. Only English-language and IT opportunities exist at private colleges for older people.\n\n(B) There are four main reasons for this rise in mature-aged students. Firstly, universities have changed entry requirements as more courses have become fee-paying. If students can afford to pay, and meet the academic level, then it doesn't matter how old they are. Secondly, the concept of a job for life is a thing of the past. Many people now have several careers. Life expectancy has reached 80 in at least 20 countries; retirement ages have risen accordingly. Therefore, retraining for longer working lives is essential. Lastly, there has been a general expansion of the education sector as the workforce needs to be better trained for a more competitive knowledge based world.\n\n(C) Clearly there are advantages to undertaking study later in life. There is the increased likelihood of a higher salary after study, and enhanced self-esteem. But what are some of the difficulties mature-aged students face? The most glaring one is the visual fact that they're not as attractive or energetic as all those young things lounging on quadrangle lawns. It's unlikely that they will socialise with people the same age as their sons or daughters, and that could make university life rather lonely. Befriending other mature-aged students is a possibility, but perhaps they also seem too old.\n\n(D) In lectures and tutorials, older learners may get tired more quickly, but research has proven they focus on their studies. They work harder, and generally perform better than younger students. Their life experiences and analytical powers are good study aids. When there are group assignments, older students may become annoyed, feeling they do all of the work while the youngsters are out partying or working at part-time jobs. Furthermore, younger students often feel the pressure of their peers more acutely. They may be scared to participate in tutorials, worried what those their own age think of them. This means older students contribute more to discussion. While tutors are certainly grateful for their efforts, the mature-aged students themselves may occasionally wish they are not in the spotlight so often.\n\n(E) For most mature-aged students, juggling work, family, and other commitments is a tricky business. Their organisational skills are admirable. However, their children, partners, or workmates may resent the absence or distraction of the older student. The student may win a qualification, but he or she may have to fight other battles on the home front.\n\n(F) Then there are the greatly discouraged mature-aged drop-outs. These people already feel they failed at the end of their schooling by not going on to university, and being unable to complete their studies a second time can cause considerable anxiety. Fortunately, statistics show there are not very many of these people. Completion rates for undergraduate and post-graduate courses, for mature-aged students, are high.\n\n(G) It takes courage, determination, personal and financial sacrifice to complete studies at university. Despite these difficulties, large numbers of mature-aged men and women all over the world are succeeding. Read the text below and answer questions 28-40."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: THE HUMBLE BANANA",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-25-q28",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Only since the turn of the 20th century have bananas become readily ______ .",
+          "answer": "available",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Farmers in what is now Papua New Guinea first started growing bananas about ______ years ago.",
+          "answer": "10,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Banana plants do not have a trunk but a(n) ______",
+          "answer": "stem",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An adult can receive ______% of his or her daily vitamin C requirements from an average banana.",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Japanese used to make ______ from banana fibre.",
+          "answer": "cloth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "During the Muslim holy month of Ramadan, international ______ in bananas increases dramatically.",
+          "answer": "trade",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The popular banana, the Gros Michel, was ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Since Cavendish bananas lack genetic diversity, ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Scientists and farmers fought Panama disease, but it was not eradicated. Instead, it ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Large numbers of Ugandan farmers ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Vegetables with additional sweet pepper genes ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Food security worldwide is partly dependent on",
+          "options": [
+            {
+              "id": "A",
+              "text": "are no longer growing bananas."
+            },
+            {
+              "id": "B",
+              "text": "there are enough bananas."
+            },
+            {
+              "id": "C",
+              "text": "they may also be destroyed by disease."
+            },
+            {
+              "id": "D",
+              "text": "are keen to try GM banana strains."
+            },
+            {
+              "id": "E",
+              "text": "almost made extinct by a fungus."
+            },
+            {
+              "id": "F",
+              "text": "have successfully withstood disease."
+            },
+            {
+              "id": "G",
+              "text": "a continuous supply of bananas."
+            },
+            {
+              "id": "H",
+              "text": "became Black Sigatoka disease."
+            },
+            {
+              "id": "I",
+              "text": "transformed itself into TR4."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-25-q40",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO of the following does the writer believe about bananas on sale in supermarkets of the future?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They will not come from Africa."
+            },
+            {
+              "id": "B",
+              "text": "They will be multicoloured."
+            },
+            {
+              "id": "C",
+              "text": "They will taste better."
+            },
+            {
+              "id": "D",
+              "text": "They will be less expensive."
+            },
+            {
+              "id": "E",
+              "text": "They will be a variety of banana that is wild now."
+            }
+          ],
+          "answer": [
+            "B",
+            "E"
+          ],
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "THE HUMBLE BANANA",
+        "text": "As the world's most eaten fruit, it is hard to believe that the banana has only become widely available in the last one hundred years. Nor can most people imagine a world without bananas. However, disease is threatening the existence of popular varieties, and while the banana itself is unlikely to die out, what consumers call a banana could change dramatically since new disease resistant strains may differ in taste, texture, size, and colour from fruit currently on offer.\n\nHistory\n\n(A) native of tropical South and Southeast Asia, it is thought bananas were first cultivated in today's Papua New Guinea around 10,000 years ago. Spreading to Madagascar, Africa, and then the Islamic world, bananas reached Europe in the 15th century. The word 'banana' entered English via Portuguese from Wolof – a West African language. Only in 1872 did the French writer, Jules Verne, describe bananas to his readers in some detail as they were so exotic, and it was another 30 years before plantation-grown produce from Central America would flood the global market.\n\nBotanical data Most modern edible bananas come from the wild species Musa acuminata, Musa balbisiana, or their hybrids. Two common varieties today are the larger more curved Cavendish and the smaller straighter Lady Finger both of which turn yellow when ripe. Bananas are herbs, not trees, although they can reach more than seven metres (24 ft). Their stem, not trunk, is a soft fibrous shoot from an underground corm, or bulb. After fruiting, the whole stem dies, and the plant regenerates from the corm, one of which may last 25 years. Normally, each banana stem produces one very large purple heart inside of which the fruit develops from female flowers, and hangs in a cluster weighing 30-50 kilograms (66-110 lb) and containing hundreds of bananas. Domesticated bananas no longer have seeds, so their propagation must occur through the removal and transplantation of part of the corm, or through tissue culture in a laboratory, the latter being a complicated procedure that can lead to plant contamination.\n\nUses and benefits As bananas grow all year round, they have become a vital crop. They are easy to eat (just peel) and easy to transport (no packaging needed). Banana fruit, skin, heart, and stem are all edible, and alcohol can also be made from the plant. The world's greatest banana-eaters are in East Africa, where the average Ugandan devours 150 kilograms (330.6 lb) a year, and receives 30% of calories this way. This habit is healthy since a single 100-gram (3.5 oz) banana contains 371 kilojoules (89 kcal) of energy, and protein represents 1.09% of its weight – 25 times more than that of an apple. In daily requirements for an adult, one banana provides: 2% of Vitamin B1, 5% of B2, 4% of B3, 7% of B5, 28% of B6, 5% of B9; 15% of Vitamin C; 1% of calcium; 2% of iron; 7% of magnesium; 3% of phosphorous; 8% of potassium; and, 1% of zinc.\n\n(A) further health benefit is a lower risk of breast, bowel, or liver cancer, and some psychiatrists recommend bananas as they increase dopamine levels in the brain, thus improving mood. Aside from food and drink, bananas have other uses. Their large flexible leaves become recyclable plates or food containers in Asia. Traditionally, the Japanese boiled banana shoots in lye until their fibres softened and separated. Fine cloth was woven from this fibre. Paper is made from banana stems, and more recently, skins have been employed to clean up polluted rivers as their absorption of heavy metals is high. In several religions, bananas feature prominently. Tamils believe the banana is one of three holy fruits. Buddhists often decorate trays with bananas to offer to the Buddha. Moslems eat copious quantities during the holy month of Ramadan during which time global trade in the fruit spikes.\n\nThreats to bananas Between 1820 and 1950, a banana called the Gros Michel was the most common commercial variety. Suddenly, this was attacked by a fungus called Panama disease, and worldwide, the Gros Michel was almost wiped out. Its commercial replacement, the Cavendish, considered less delicious by gourmands, may now suffer the same fate as its predecessor. All Cavendish bananas are genetically identical, making them susceptible to disease. While the original Panama disease was controlled, it mutated into Tropical Race 4 (TR4), which has destroyed banana crops in Southeast Asia, and for which there is no known defence except genetic modification. Black Sigatoka is another deadly disease. In Uganda – once a world-leader in banana production – it reduced crops by 40% in the 1970s. The treatment for Black Sigatoka is as controversial as it is expensive ($1000 per hectare per annum) since chemical spray contaminates soil and water supplies. Banana cultivars resistant to Black Sigatoka do exist, but none has been accepted by major supermarket buyers because their taste and texture differ greatly from bananas that shoppers are used to. In 2010, East Africa was hit by another plague – Banana Xanthomonas wilt. The Ugandan economy lost more than $500 million due to this, and thousands of small farmers abandoned bananas as a crop, leading to widespread financial hardship and a far poorer diet. Scientists, however, have not given up hope, and the National Banana Research Programme in Uganda has been adding a sweet pepper gene, disease-resistant in a number of vegetables, to bananas. Yet genetically modified crops remain banned in Uganda, and other scientists believe identifying and domesticating disease-free wild bananas rather than adopting expensive and largely unproven gene technology would be more prudent. Human civilization has a long and critical relationship with bananas. If this is to continue, it may be time to reconsider what a banana is. The supermarkets may no longer be stocked with big sweet yellow cultivars but with tiny purple, pink, red, or green-and-white striped ones that currently exist in the depths of the forest and will not be cheap to domesticate."
+      }
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "id": "pte-reading-256",
+  "title": "Academic Reading — Practice Test 256",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Volatility Kills",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-256-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An unexpectedly opposite result",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jeffrey D. Dachs"
+            },
+            {
+              "id": "B",
+              "text": "Paul Collier"
+            },
+            {
+              "id": "C",
+              "text": "Jorge Arbache"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Estimated more productive outcomes if it were not for sudden economic downturns",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jeffrey D. Dachs"
+            },
+            {
+              "id": "B",
+              "text": "Paul Collier"
+            },
+            {
+              "id": "C",
+              "text": "Jorge Arbache"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A proposal for a range of recommended instructions for certain countries to narrow the widening economic gap",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jeffrey D. Dachs"
+            },
+            {
+              "id": "B",
+              "text": "Paul Collier"
+            },
+            {
+              "id": "C",
+              "text": "Jorge Arbache"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An advocate for a method used for a specific assessment",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jeffrey D. Dachs"
+            },
+            {
+              "id": "B",
+              "text": "Paul Collier"
+            },
+            {
+              "id": "C",
+              "text": "Jorge Arbache"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The instability in an economy in some African countries might negatively impact their continuing growth after a certain level has been reached.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Collier is the most influential scholar in the study of the volatility problem.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Certain African governments levy considerable taxes on people profiting greatly from exportation.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some African nation's decisions on addressing specific existing problems are directly related to the future of their economic trends.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Collier regards Jeffrey D. Sachs recommended way of elevating of little importance.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to one research carried by the world bank, some countries in Africa may suffer from ______ due to the lack of according preconditions. they experienced a growth stimulated by (11) ______ , but according to another study, they may not keep this trend stable because they don't have (12) ______ which would attract investors. to some countries with abundant resources, this fast-growth period might even mean something devastating to their endeavor. during one specific decade accompanied by (13) ______ as a matter of fact, the governing saw a deterioration.",
+          "answer": "The next crash",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to one research carried by the world bank, some countries in Africa may suffer from (10) ______ due to the lack of according preconditions. they experienced a growth stimulated by ______ , but according to another study, they may not keep this trend stable because they don't have (12) ______ which would attract investors. to some countries with abundant resources, this fast-growth period might even mean something devastating to their endeavor. during one specific decade accompanied by (13) ______ as a matter of fact, the governing saw a deterioration.",
+          "answer": "A commodities boom",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to one research carried by the world bank, some countries in Africa may suffer from (10) ______ due to the lack of according preconditions. they experienced a growth stimulated by (11) ______ , but according to another study, they may not keep this trend stable because they don't have ______ which would attract investors. to some countries with abundant resources, this fast-growth period might even mean something devastating to their endeavor. during one specific decade accompanied by (13) ______ as a matter of fact, the governing saw a deterioration.",
+          "answer": "Necessary infrastructure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to one research carried by the world bank, some countries in Africa may suffer from (10) ______ due to the lack of according preconditions. they experienced a growth stimulated by (11) ______ , but according to another study, they may not keep this trend stable because they don't have (12) ______ which would attract investors. to some countries with abundant resources, this fast-growth period might even mean something devastating to their endeavor. during one specific decade accompanied by ______ as a matter of fact, the governing saw a deterioration.",
+          "answer": "Growth accelerating",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Volatility Kills",
+        "text": "(A) Despite gun battles in the capital of Chad, rioting in Kenya, and Galloping inflation in Zimbabwe, the economies of sub-Saharan Africa are, as a whole, in better shape than they were a few years ago. The World Bank has reported recently that this part of the continent experienced a respectable growth rate of 5.6 percent in 2006 and a higher rate from 1995 to 2005 than in previous decades. The bank has given a cautions assessment that the region may have reached a turning point. An overriding question for developmental economists remains whether the upswing will continue so Africans can grow their way out of poverty that relegates some 40 percent of the nearly 744 million in that region to living on less than a dollar a day. The optimism, when inspected more closely, maybe short-lived because of the persistence of a devastating pattern of economic volatility that has lingered for decades.\n\n(B) \"In reality, African countries grow as fast as Asian countries and other developing countries during the good times, but afterward they see growth collapses,\" comments Jorge Arbache, a senior World Bank economist. \"How to prevent collapses may be as important as promoting growth.\" If these collapses had not occurred, he observes, the level of gross domestic product for each citizen of the 48 nations of sub -Saharan Africa would have been third higher.\n\n(C) the prerequisites to prevent the next crash are not in place, according to a World Bank study issued in January, Is Africa's Recent Growth Robust? The growth period that began in 1995, driven by a commodities boom spurred in particular by demand from China, may not be sustainable, because the economic fundamentals- new investment and the ability to stave off inflation, among other factors-are absent. The region lacks the necessary infrastructure that would encourage investors to look to Africa to find the next Bengaluru ( Bangalore ) or Shenzhen, a November report from the bank concludes. For sub–Saharan countries rich in oil and other resources, a boom period may even undermine efforts to institute sound economic practices.. From 1996 to 2005, with growth accelerating, measures of governance– factors such as political stability, rule of law, and control of corruption- actually worsened, especially for countries endowed with abundant mineral resources, the January report notes.\n\n(D) Perhaps the most incisive analysis of the volatility question comes from Paul Collier, a longtime specialist in African economics at the University of Oxford and author of the recent book The Bottom Billion. He advocates a range of options that the U.S. and other nations could adopt when formulating policy toward African countries. They include revamped trade measures, better-apportioned aid, and sustained military intervention in certain instances, to avert what he sees as a rapidly accelerating divergence of the world's poorest, primarily in Africa, from the rest of the world, even other developing nations such India and China.\n\n(E) Collier finds that bad governance is the main reason countries fail to take advantage of the revenue bonanza that results from a boom. moreover, a democratic government, he adds, often makes the aftermath of a boom worse. \"Instead of democracy disciplining governments to manage these resource booms well, what happens is that the resource revenues corrupt the normal functioning of democracy-unless you stop ( them from) corrupting the normal function of democracy with sufficient checks and balances\", he said at a talk ion January at the Carnegie Council in New York City.\n\n(F) Collier advocates that African nations institute an array of standards and codes to bolster governments, one of which would substitute auctions for bribes in apportioning mineral rights and another of which would tax export revenues adequately. He cites the Democratic Republic of the Congo, which took in $ 200 million from mineral exports in 2006 yet collected only $86000 in royalties for its treasury. \"If a nation gets these points right, \" he argues, \"It's going to develop. If it gets them wrong, it won't.\"\n\n(G) To encourage reform, Collier recommends that the G8 nations agree to accept these measures as voluntary guidelines for multinationals doing business in Africa- companies, for instance, would only enter new contracts through auctions monitored by an international verification group. Such an agreement would follow the examples of the so-called Kimberley Process, which has effectively undercut the trade in blood diamonds, and the Extractive Industries Transparency Initiative, in which a government must report to its citizens the revenues it receives from sales of natural resources.\n\n(H) These measures, he says, are more important than elevating aid levels, an approach emphasized by economist Jeffrey D. Sachs of Columbia University and celebrity activists such as Bono. Collier insists that first Angola receives tens of billions of dollars in oil revenue and whether it gets a few hundred million more or less in aid is really second-order."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: The sense of flavour",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-256-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The brain determines which aromas we are aware of.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The sense of taste is as efficient as the sense of smell.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Personal tastes in food are developed in infancy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Christopher Columbus found many different spices on his travels.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In the mid-1880s, man-made flavors were originally invented on purpose.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was ______ in order to (20) ______ the foods which are harmless to us from those that are not (21) ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this (22) ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new (23) ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual (24) ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Acquired",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was (19) ______ in order to ______ the foods which are harmless to us from those that are not (21) ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this (22) ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new (23) ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual (24) ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Differentiate",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was (19) ______ in order to (20) ______ the foods which are harmless to us from those that are not ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this (22) ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new (23) ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual (24) ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Good",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was (19) ______ in order to (20) ______ the foods which are harmless to us from those that are not (21) ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new (23) ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual (24) ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Aroma",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was (19) ______ in order to (20) ______ the foods which are harmless to us from those that are not (21) ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this (22) ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual (24) ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Seasonings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is thought that the sense of taste was (19) ______ in order to (20) ______ the foods which are harmless to us from those that are not (21) ______ The sense of smell, which gives us the flavour we detect in our food, helps us to take pleasure in our food. Indeed this (22) ______for flavour was, in the past, the reason why so many explorers ventured to distant lands to bring back new (23) ______ .which were greatly sought after in Europe. Here they were used in cooking to enhance the usual ______ and unappetizing dishes eaten by rich and poor alike.",
+          "answer": "Flavour",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "We associate certain smells with the past as they are ______",
+          "answer": "Indelible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Modern technology is able to help determine the minute quantities of ______ found in food.",
+          "answer": "Chemical aromas",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The sense of flavour",
+        "text": "(A) Scientists now believe that human beings acquired the sense of taste as a way to avoid being poisoned. Edible plants generally taste sweet; deadly ones, bitter. Taste is supposed to help us differentiate food that's good for us from food that's not. The taste buds on our tongues can detect the presence of half a dozen or so basic tastes, including sweet, sour, bitter, salty, and umami (a taste discovered by Japanese researchers, a rich and full sense of deliciousness triggered by amino acids in foods such as shellfish, mushrooms, potatoes, and seaweed). Tastebuds offers a limited means of detection, however, compared with the human olfactory system, which can perceive thousands of different chemical aromas. Indeed, 'flavor' is primarily the smell of gases being released by the chemicals you've just put in your mouth. The aroma of food can be responsible for as much as 90% of its flavor.\n\n(B) The act of drinking, sucking or chewing a substance releases its volatile gases. They flow out of the mouth and up the nostrils, or up the passageway at the back of the mouth, to a thin layer of nerve cells called the olfactory epithelium, located at the base of the nose, right between the eyes. The brain combines the complex smell signals from the epithelium with the simple taste signals from the tongue, assigns a flavor to what's in your mouth, and decides if it's something you want to eat.\n\n(C) Babies like sweet tastes and reject bitter ones; we know this because scientists have rubbed various flavors inside the mouths of infants and then recorded their facial reactions. A person's food preferences, like his or her personality, are formed during the first few years of life, through a process of socialization. Toddlers can learn to enjoy hot and spicy food, bland health food, or fast food, depending upon what the people around them eat. The human sense of smell is still not fully understood. It is greatly affected by psychological factors and expectations. The mind filters out the overwhelming majority of chemical aromas that surround us, focusing intently on some, ignoring others. People can grow accustomed to bad smells or good smells; they stop noticing what once seemed overpowering.\n\n(D) Aroma and memory are somehow inextricably linked. A smell can suddenly evoke a long-forgotten moment. The flavours of childhood foods seem to leave an indelible mark, and adults often return to them, without always knowing why. These 'comfort foods' become a source of pleasure and reassurance a fact that fast-food chains work hard to promote Childhood memories of Happy Meals can translate into frequent adult visits to McDonald's', like those of the chain's 'heavy users', the customers who eat there four or five times a week.\n\n(E) The human craving for flavour has been a large unacknowledged and unexamined force in history. Royal empires have been built, unexplored lands have been traversed, great religions and philosophies have been forever changed by the spice trade. In 1492, Christopher Columbus set sail in order to try to find new seasonings and thus to make his fortune with this most desired commodity of that time. Today, the influence of flavour in the world marketplace is no less decisive. The rise and fall of corporate empires – soft-drink companies, snack-food companies, and fast-food chains – is frequently determined by how their products taste.\n\n(F) The flavor industry emerged in the mid-1800s, as processed foods began to be manufactured on a large scale. Recognizing the need for flavor additives, the early food processors turned to perfume companies that had years of experience working with essential oils and volatile aromas. The great perfume houses of England, France, and the Netherlands produced many of the first flavor compounds. In the early part of the 20th century, Germany's powerful chemical industry assumed the lead in flavour production. Legend has it that a German scientist discovered methyl anthranilate, one of the first artificial flavours, by accident while mixing chemicals in his laboratory. Suddenly, the lab was filled with the sweet smell of grapes. Methyl anthranilate later became the chief flavoring compound of manufactured grape juice.\n\n(G) The quality that people seek most of all in a food, its flavour, is usually present in a quantity too infinitesimal to be measured by any traditional culinary terms such as ounces or teaspoons. Today's sophisticated spectrometers, gas chromatograph, and headspace vapor analyzers provide a detailed map of a food's flavour components, detecting chemical aromas in amounts as low as one part per billion. The human nose, however, is still more sensitive than any machine yet invented. A nose can detect aromas present in quantities of a few parts per trillion. Complex aromas, such as those of coffee or roasted meat, may be composed of gases from nearly a thousand different chemicals. The chemical that provides the dominant flavour of bell pepper can be tasted in amounts as low as 0.02 parts per billion; one drop is sufficient to add flavour to the amount of water needed to fill five average-sized swimming pools."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Digital diet",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-256-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Figuring ways to optimize the utilization of energy in certain significant departments in the company",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A revolutionary improvement in a tiny but quite imperative component of the computers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Targeting at developing alternative sources within the near future",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "An astounding estimate on the energy to be consumed by computers in a short period based on an unchangeable trend",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A powerful technique developed for integration of resources",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A failure for the vast majority of computers to activate the use of some internal tools already available in them",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jonathan Koomey"
+            },
+            {
+              "id": "B",
+              "text": "Allyson Klein"
+            },
+            {
+              "id": "C",
+              "text": "Pat Tiernan"
+            },
+            {
+              "id": "D",
+              "text": "Bill Weihl"
+            },
+            {
+              "id": "E",
+              "text": "Alexander Wissner-Gross"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "To chill the server does not take up the considerable amount of energy needed for the computer.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It seems that the number of servers has a severe impact on the speed of the internet connection.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Several companies from other fields have a joint effort with the internet industry to work on ways to save energy.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Actions taken at a governmental level are to be expected to help with savings in energy in the near future.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ______ has also been reached to save up energy in every possible way and the philosophy behind it lies in the fact that there is a positive correlation between the ability to process and the need for energy. In this context, some firms have switched to (38) ______ which means several processors are integrated into one single circuit to make significant energy savings. What is more, they go on to (39) ______ on an even more delicate level for the chips to save more energy while staying at the constant level in terms of the (40) ______",
+          "answer": "Computer-chip level",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The (37) ______ has also been reached to save up energy in every possible way and the philosophy behind it lies in the fact that there is a positive correlation between the ability to process and the need for energy. In this context, some firms have switched to ______ which means several processors are integrated into one single circuit to make significant energy savings. What is more, they go on to (39) ______ on an even more delicate level for the chips to save more energy while staying at the constant level in terms of the (40) ______",
+          "answer": "So-called multicore technology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The (37) ______ has also been reached to save up energy in every possible way and the philosophy behind it lies in the fact that there is a positive correlation between the ability to process and the need for energy. In this context, some firms have switched to (38) ______ which means several processors are integrated into one single circuit to make significant energy savings. What is more, they go on to ______ on an even more delicate level for the chips to save more energy while staying at the constant level in terms of the (40) ______",
+          "answer": "Shrink circuits",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-256-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The (37) ______ has also been reached to save up energy in every possible way and the philosophy behind it lies in the fact that there is a positive correlation between the ability to process and the need for energy. In this context, some firms have switched to (38) ______ which means several processors are integrated into one single circuit to make significant energy savings. What is more, they go on to (39) ______ on an even more delicate level for the chips to save more energy while staying at the constant level in terms of the ______",
+          "answer": "Performance",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Digital diet",
+        "text": "(A) Telecommuting, Internet shopping and online meetings may save energy as compared with in-person alternatives, but as the digital age moves on, its green reputation is turning a lot browner. E-mailing, number crunching and Web searches in the U.S. consumed as much as 61 billion kilowatt-hours last year, or 1.5 per cent of the nation's electricity-half of which comes from coal. In 2005 the computers of the world ate up 123 billion kilowatt-hours of energy, a number that will double by 2010 if present trends continue, according to Jonathan Koomey, a staff scientist at Lawrence Berkeley National Laboratory. As a result, the power bill to run a computer over its lifetime will surpass the cost of buying the machine in the first place giving Internet and computer companies a business reason to cut energy costs, as well as an environmental one.\n\n(B) One of the biggest energy sinks comes not from the computers themselves but from the air-conditioning needed to keep them from overheating. For every kilowatt-hour of energy used for computing in a data centre, another kilowatt-hour is required to cool the furnace-like racks of servers.\n\n(C) For Internet giant Google, this reality has driven efforts such as the installation of a solar array that can provide 30 per cent of the peak power needs of its Mountain View, Calif., headquarters as well as increased purchases of renewable energy. But to deliver Web pages within seconds, the firm must maintain hundreds of thousands of computer servers in cavernous buildings. \"It's a good thing to worry about server energy efficiency,\" remarks Google's green energy czar Bill Weihl. \"We are actively working to maximize the efficiency of our data centres, which account for most of the energy Google consumes worldwide.\" Google will funnel some of its profits into a new effort, dubbed RE\n\n(D) In the meantime, the industry as a whole has employed a few tricks to save watts. Efforts include cutting down on the number of transformations the electricity itself must undergo before achieving the correct operating voltage; rearranging the stacks of servers and the mechanics of their cooling; and using software to create multiple \"virtual\" computers, rather than having to deploy several real ones. Such virtualization has allowed computer maker Hewlett-Packard to consolidate 86 data centers spread throughout the world to just three, with three backups, says Pat Tiernan, the firm's vice president of social and environmental responsibility.\n\n(E) The industry is also tackling the energy issue at the computer-chip level. With every doubling of processing power in recent years has come a doubling in power consumption. But to save energy, chipmakers such as Intel and AMD have shifted to so-called multicore technology, which packs multiple processors into one circuit rather than separating them. \"When we moved to multicore-away from a linear focus on megahertz and gigahertz—and throttled down microprocessors, the energy savings were pretty substantial,\" says Allyson Klein, Intel's marketing manager for its Ecotech Initiative. Chipmakers continue to shrink circuits on the nanoscale as well, which means a chip needs less electricity\" to deliver the same performance, she adds.\n\n(F) With such chips, more personal computers will meet various efficiency standards, such as Energy Star compliance (which mandates that a desktop consume no more than 65 watts). The federal government, led by agencies such as NASA and the Department of Defense may soon require all their purchases to meet the Electronic Product Environmental Assessment Tool standard. And Google, Intel and others have formed the Climate Savers Computing Initiative, an effort to cut power consumption from all computers by 50 per cent by 2010.\n\n(G) Sleep modes and other power management tools built into most operating systems can offer savings today. Yet about 90 per cent of computers do not have such settings enabled, according to Klein. Properly activated, they would prevent a computer from leading to the emission of thousands of kilograms of carbon dioxide from power plants every year. But if powering down or unplugging the computer (the only way it uses zero power) is not an option, then perhaps the most environmentally friendly use of all those wasted computing cycles is in helping to model climate change. The University of Oxford's ClimatePrediction.net offers an opportunity to at least predict the consequences of all that coal burning.\n\n(H) CO2 Stats is a free tool that can be embedded into any Website to calculate the carbon dioxide emissions associated with using it. That estimate is based on an assumption of 300 watts of power consumed by the personal computer, network and server involved- or 16.5 milligrams of CO2 emitted every second of use. \"The typical carbon footprint is roughly equivalent to 1.5 people breathing,\" says physicist Alexander Wissner-Gross of Harvard University, who co-created the Web tool."
+      }
+    }
+  ]
+}

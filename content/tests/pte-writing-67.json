@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-67",
+  "title": "Academic Writing — Practice Test 67",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-67-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The diagrams below show the changes that have taken place at Queen Mary Hospital since its construction in 1960. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-67.png"
+        },
+        {
+          "id": "pte-writing-67-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Once children start school, teachers have more influence on their intellectual and social development than parents. To what extent do you agree or disagree with this statement? Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

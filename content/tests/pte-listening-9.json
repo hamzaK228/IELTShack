@@ -1,0 +1,536 @@
+{
+  "id": "pte-listening-9",
+  "title": "Listening — Practice Test 9",
+  "kind": "practice",
+  "description": "One recording, 32 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-9-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Student is studying ______",
+          "answer": "busines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Student is in the ______ year of the course.",
+          "answer": "third",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ReceptionistIn the ______Evening lectures",
+          "answer": "sports centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In the child care centreToo early ______",
+          "answer": "cleaner",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Clerical assistantIn the ______Evening lectures",
+          "answer": "library",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address:______",
+          "answer": "international house",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Room no. ______",
+          "answer": "B659",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Position available:______at the English language centre",
+          "answer": "office assistant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Duties:Respond to enquiries and ______",
+          "answer": "answer phone",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Time of interview:Friday at ______am",
+          "answer": "11.30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "On the holiday, you will be walking for",
+          "options": [
+            {
+              "id": "A",
+              "text": "6 days"
+            },
+            {
+              "id": "B",
+              "text": "8 days"
+            },
+            {
+              "id": "C",
+              "text": "10 days"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What proportion of the sponsorship money goes to charity? ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-9-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Each walker's sponsorship money goes to one",
+          "options": [
+            {
+              "id": "A",
+              "text": "student"
+            },
+            {
+              "id": "B",
+              "text": "teacher"
+            },
+            {
+              "id": "C",
+              "text": "school"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When you start the trek you must be",
+          "options": [
+            {
+              "id": "A",
+              "text": "interested in getting fit"
+            },
+            {
+              "id": "B",
+              "text": "already quite fit"
+            },
+            {
+              "id": "C",
+              "text": "already very fit"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "As you walk you will carry",
+          "options": [
+            {
+              "id": "A",
+              "text": "all of your belongings"
+            },
+            {
+              "id": "B",
+              "text": "some of your belongings"
+            },
+            {
+              "id": "C",
+              "text": "none of your belongings"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Semira Region has a long tradition of",
+          "options": [
+            {
+              "id": "A",
+              "text": "making carpets"
+            },
+            {
+              "id": "B",
+              "text": "weaving blankets"
+            },
+            {
+              "id": "C",
+              "text": "carving wood"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day 3Spend all day in a ______",
+          "answer": "forest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day 6See a ______with old carvings",
+          "answer": "temple",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day 8Swim in a ______",
+          "answer": "waterfall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Day 9Visit a ______",
+          "answer": "village",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Float is shaped like a ______",
+          "answer": "cigar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Scientists from ______ have worked on the projects so far",
+          "answer": "13 countries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "activated ______",
+          "answer": "activated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "km ______",
+          "answer": "50km",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "temperature ______",
+          "answer": "temperature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "understanding of El Nino ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-9-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "understanding of climate change ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-9-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "naval rescues ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-9-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "sustainable fishing practices ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-9-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "crop selection",
+          "options": [
+            {
+              "id": "A",
+              "text": "At present"
+            },
+            {
+              "id": "B",
+              "text": "In the near future"
+            },
+            {
+              "id": "C",
+              "text": "In the long term future"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to the speaker, how might a guest feel when staying in a luxury hotel?",
+          "options": [
+            {
+              "id": "A",
+              "text": "impressed with the facilities"
+            },
+            {
+              "id": "B",
+              "text": "depressed by the experience"
+            },
+            {
+              "id": "C",
+              "text": "concerned at the high costs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to recent research, luxury hotels overlook the need to",
+          "options": [
+            {
+              "id": "A",
+              "text": "provide for the demands of important guests"
+            },
+            {
+              "id": "B",
+              "text": "create a comfortable environment"
+            },
+            {
+              "id": "C",
+              "text": "offer an individual and personal welcome"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The company focused their research on",
+          "options": [
+            {
+              "id": "A",
+              "text": "a wide variety of hotels"
+            },
+            {
+              "id": "B",
+              "text": "large, luxury hotel chains"
+            },
+            {
+              "id": "C",
+              "text": "exotic holiday hotels"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the impact of the outside environment on a hotel guest?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It has a considerable effect"
+            },
+            {
+              "id": "B",
+              "text": "It has a very limited effect"
+            },
+            {
+              "id": "C",
+              "text": "It has no effect whatsoever"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• cater specifically for ______ travellers",
+          "answer": "business",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• provide a stylish ______ for guests to use",
+          "answer": "kitchen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• set a trend throughout the ______ which becomes permanent",
+          "answer": "world",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• offering the chance to ______ their ordinary routine life",
+          "answer": "escape",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• making sure that they are cared for in all respects – like a ______",
+          "answer": "baby",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-9-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• leaving small treats in their rooms – e.g. cosmetics or ______",
+          "answer": "chocolate",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/9_we.mp3"
+    }
+  ]
+}

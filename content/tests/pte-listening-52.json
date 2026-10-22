@@ -1,0 +1,506 @@
+{
+  "id": "pte-listening-52",
+  "title": "Listening — Practice Test 52",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-52-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Apartment 4, ______ Newbridge",
+          "answer": "18 ruby lane",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date moved in: ______",
+          "answer": "24 May",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gas water heater______(4) ______",
+          "answer": "broken switch",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gas water heater(3) ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Front windows______B",
+          "answer": "no blinds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "jams(7) ______",
+          "answer": "front door lock",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(6) ______jams______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "torn(9) ______",
+          "answer": "shower curtain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(8) ______torn______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Workman to call between ______and______",
+          "answer": "2pm and 6pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "At the Wildlife Haven there are not any",
+          "options": [
+            {
+              "id": "A",
+              "text": "telephones or radios"
+            },
+            {
+              "id": "B",
+              "text": "radios or TVs"
+            },
+            {
+              "id": "C",
+              "text": "telephones or TVs"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The guests were told to",
+          "options": [
+            {
+              "id": "A",
+              "text": "collect their luggage from the bus"
+            },
+            {
+              "id": "B",
+              "text": "wait to be shown to their rooms"
+            },
+            {
+              "id": "C",
+              "text": "find their own rooms"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Guided forest walkaway from ______",
+          "answer": "walking tracks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Moonlight forest walkdeparts at ______",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "departs at sundown ______",
+          "answer": "waterfall walk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "footwear ______",
+          "answer": "footwear",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "socks ______",
+          "answer": "socks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "hat ______",
+          "answer": "hat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "spiders ______",
+          "answer": "spiders",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "wild berries ______",
+          "answer": "wild berries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The counselor says he can",
+          "options": [
+            {
+              "id": "A",
+              "text": "provide sleeping pills"
+            },
+            {
+              "id": "B",
+              "text": "discuss the problem"
+            },
+            {
+              "id": "C",
+              "text": "only see medical students"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The counselor says that new students",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack self-discipline"
+            },
+            {
+              "id": "B",
+              "text": "are expected to work more on their own"
+            },
+            {
+              "id": "C",
+              "text": "are usually not able to cope"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bill complains that the library",
+          "options": [
+            {
+              "id": "A",
+              "text": "is not open at the right times"
+            },
+            {
+              "id": "B",
+              "text": "has too few resources"
+            },
+            {
+              "id": "C",
+              "text": "is too noisy"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The counselor suggests to Bill that",
+          "options": [
+            {
+              "id": "A",
+              "text": "most other students are able to cope"
+            },
+            {
+              "id": "B",
+              "text": "he needs to find new places to work"
+            },
+            {
+              "id": "C",
+              "text": "he needs to plan more"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Before being able to help Bill the counselor need",
+          "options": [
+            {
+              "id": "A",
+              "text": "make a further appointment"
+            },
+            {
+              "id": "B",
+              "text": "talk with his medical friend"
+            },
+            {
+              "id": "C",
+              "text": "get more information from him"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Check the importance of each question towards your ______",
+          "answer": "total mark",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Understand the ______",
+          "answer": "question",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ the question",
+          "answer": "address",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Check your answers for ______",
+          "answer": "content",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Look for ______",
+          "answer": "errors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jim was first interested in the subject because of something",
+          "options": [
+            {
+              "id": "A",
+              "text": "he had experienced"
+            },
+            {
+              "id": "B",
+              "text": "he had heard"
+            },
+            {
+              "id": "C",
+              "text": "he had witnessed"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main research method was",
+          "options": [
+            {
+              "id": "A",
+              "text": "interviews"
+            },
+            {
+              "id": "B",
+              "text": "observation"
+            },
+            {
+              "id": "C",
+              "text": "questionnaires"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which pie chart shows the proportion of men and women respondents? ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-52-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many respondents were there?",
+          "options": [
+            {
+              "id": "A",
+              "text": "50-100"
+            },
+            {
+              "id": "B",
+              "text": "100-150"
+            },
+            {
+              "id": "C",
+              "text": "150-200"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The most common type of problem involved",
+          "options": [
+            {
+              "id": "A",
+              "text": "water movement"
+            },
+            {
+              "id": "B",
+              "text": "verbal abuse"
+            },
+            {
+              "id": "C",
+              "text": "noise"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q36",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Tell them to leave ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q37",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Contact the police if it gets too serious ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q38",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Protect the children ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q39",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "When isolated make sure your car can be seen ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-52-q40",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Wear bright clothing (36) (37) (38) (39) ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/52_we.mp3"
+    }
+  ]
+}

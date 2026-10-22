@@ -1,0 +1,672 @@
+{
+  "id": "pte-listening-166",
+  "title": "Listening — Practice Test 166",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-166-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Peter want to drink?",
+          "options": [
+            {
+              "id": "A",
+              "text": "tea"
+            },
+            {
+              "id": "B",
+              "text": "coffee"
+            },
+            {
+              "id": "C",
+              "text": "a cold drink"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What caused Peter problems at the bank?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The exchange rate was down"
+            },
+            {
+              "id": "B",
+              "text": "He was late"
+            },
+            {
+              "id": "C",
+              "text": "The computers weren’t working"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who did Peter talk to at the bank?",
+          "options": [
+            {
+              "id": "A",
+              "text": "an old friend"
+            },
+            {
+              "id": "B",
+              "text": "an American man"
+            },
+            {
+              "id": "C",
+              "text": "a German man"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Henry gave Peter a map of",
+          "options": [
+            {
+              "id": "A",
+              "text": "the city"
+            },
+            {
+              "id": "B",
+              "text": "the bus routes"
+            },
+            {
+              "id": "C",
+              "text": "the train system"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do Peter and Sally decide to order?",
+          "options": [
+            {
+              "id": "A",
+              "text": "food and drinks"
+            },
+            {
+              "id": "B",
+              "text": "just food"
+            },
+            {
+              "id": "C",
+              "text": "just drinks"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tourist attractions open all day: ______ and Gardens",
+          "answer": "cathedral",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tourist attractions NOT open on Mondays: ______ and Castle",
+          "answer": "markets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tourist attractions which have free entry: ______ and Markets",
+          "answer": "garden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The first place Peter and Sally will visit is the ______",
+          "answer": "art gallery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "At the Cathedral, Peter really wants to ______",
+          "answer": "climb the tower",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Counselling Service may contact tutors if",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are too slow in marking assignments"
+            },
+            {
+              "id": "B",
+              "text": "they give students a lot of work"
+            },
+            {
+              "id": "C",
+              "text": "they don’t inform students about their progress"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Stress may be caused by",
+          "options": [
+            {
+              "id": "A",
+              "text": "new teachers"
+            },
+            {
+              "id": "B",
+              "text": "time pressure"
+            },
+            {
+              "id": "C",
+              "text": "unfamiliar subject matter"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "International students may find stress difficult to handle because",
+          "options": [
+            {
+              "id": "A",
+              "text": "they lack support from family and friends"
+            },
+            {
+              "id": "B",
+              "text": "they don’t have time to make new friends"
+            },
+            {
+              "id": "C",
+              "text": "they find it difficult to socialise"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A personal crisis may be caused by ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-166-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Students may lose self-esteem if",
+          "options": [
+            {
+              "id": "A",
+              "text": "they have to change courses"
+            },
+            {
+              "id": "B",
+              "text": "they don’t complete a course"
+            },
+            {
+              "id": "C",
+              "text": "their family puts too much pressure on them"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Students should consult Glenda Roberts if",
+          "options": [
+            {
+              "id": "A",
+              "text": "their general health is poor"
+            },
+            {
+              "id": "B",
+              "text": "their diet is too strict"
+            },
+            {
+              "id": "C",
+              "text": "they can’t eat the local food"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Students in financial difficulties can receive",
+          "options": [
+            {
+              "id": "A",
+              "text": "assistance to buy books"
+            },
+            {
+              "id": "B",
+              "text": "a loan to pay their course fees"
+            },
+            {
+              "id": "C",
+              "text": "a no-interest loan to cover study expenses"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Loans are also available to students who",
+          "options": [
+            {
+              "id": "A",
+              "text": "can’t pay their rent"
+            },
+            {
+              "id": "B",
+              "text": "need to buy furniture"
+            },
+            {
+              "id": "C",
+              "text": "can’t cover their living expenses"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The number of students counselled by the service last year was",
+          "options": [
+            {
+              "id": "A",
+              "text": "214"
+            },
+            {
+              "id": "B",
+              "text": "240"
+            },
+            {
+              "id": "C",
+              "text": "2,600"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The speaker thinks the Counselling Service",
+          "options": [
+            {
+              "id": "A",
+              "text": "has been effective in spite of staff shortages"
+            },
+            {
+              "id": "B",
+              "text": "in under used by students"
+            },
+            {
+              "id": "C",
+              "text": "has suffered badly because of staff cuts"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Part 1 Essay: Title 'Assess the two methods of ______ in social science research",
+          "answer": "collecting data",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of words: ______",
+          "answer": "1500",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gather data from at least ______ subjects",
+          "answer": "5",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Part 3 Report on study: Number of words: ______",
+          "answer": "3000-4000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO disadvantages of the questionnaire form of data collection do the students discuss?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The data is sometimes invalid"
+            },
+            {
+              "id": "B",
+              "text": "Too few people may respond"
+            },
+            {
+              "id": "C",
+              "text": "It is less likely to reveal the unexpected"
+            },
+            {
+              "id": "D",
+              "text": "It can only be used with literate populations"
+            },
+            {
+              "id": "E",
+              "text": "There is a delay between the distribution and return of questionnaires"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO disadvantages of the questionnaire form of data collection do the students discuss?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The data is sometimes invalid"
+            },
+            {
+              "id": "B",
+              "text": "Too few people may respond"
+            },
+            {
+              "id": "C",
+              "text": "It is less likely to reveal the unexpected"
+            },
+            {
+              "id": "D",
+              "text": "It can only be used with literate populations"
+            },
+            {
+              "id": "E",
+              "text": "There is a delay between the distribution and return of questionnaires"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "sample surveys in social science research ______",
+          "answer": "Mehta",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bell______(29) ______",
+          "answer": "survey research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bell(28) ______",
+          "answer": "London University",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wilsoninterviews that workOxford University Press______",
+          "answer": "1988",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Corporate crime is generally committed",
+          "options": [
+            {
+              "id": "A",
+              "text": "against individuals"
+            },
+            {
+              "id": "B",
+              "text": "by groups"
+            },
+            {
+              "id": "C",
+              "text": "for companies"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Corporate crime does NOT include",
+          "options": [
+            {
+              "id": "A",
+              "text": "employees stealing from their company"
+            },
+            {
+              "id": "B",
+              "text": "unintentional crime by employees"
+            },
+            {
+              "id": "C",
+              "text": "fraud resulting from company policy"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The ______ e.g. films",
+          "answer": "mass media",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "academic circles ______",
+          "answer": "academic circles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Often more complex and needing ______",
+          "answer": "specialist knowledge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Victims often ______",
+          "answer": "unaware",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o May appear unimportant to ______",
+          "answer": "individual customers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Can make large ______ for company",
+          "answer": "illegal profits",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The oil tanker explosion was an example of a crime which",
+          "options": [
+            {
+              "id": "A",
+              "text": "was no-one's fault"
+            },
+            {
+              "id": "B",
+              "text": "was not a corporate crime"
+            },
+            {
+              "id": "C",
+              "text": "was intentional"
+            },
+            {
+              "id": "D",
+              "text": "was caused by indifference"
+            },
+            {
+              "id": "E",
+              "text": "has tragic results"
+            },
+            {
+              "id": "F",
+              "text": "made a large profit for the company"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-166-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The oil tanker explosion was an example of a crime which",
+          "options": [
+            {
+              "id": "A",
+              "text": "was no-one's fault"
+            },
+            {
+              "id": "B",
+              "text": "was not a corporate crime"
+            },
+            {
+              "id": "C",
+              "text": "was intentional"
+            },
+            {
+              "id": "D",
+              "text": "was caused by indifference"
+            },
+            {
+              "id": "E",
+              "text": "has tragic results"
+            },
+            {
+              "id": "F",
+              "text": "made a large profit for the company"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/166_we.mp3"
+    }
+  ]
+}

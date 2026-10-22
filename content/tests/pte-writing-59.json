@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-59",
+  "title": "Academic Writing — Practice Test 59",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-59-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The diagram below gives the information about the Hawaiian island chain in the centre of the Pacific Ocean. Write a report for a university lecturer describing the information shown. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-59.png"
+        },
+        {
+          "id": "pte-writing-59-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Some people prefer hobbies that require technology, while some people prefer hobbies that do not require technology. Discuss the both views and give your opinion. Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

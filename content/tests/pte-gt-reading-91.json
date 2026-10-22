@@ -1,0 +1,745 @@
+{
+  "id": "pte-gt-reading-91",
+  "title": "General Training Reading — Practice Test 91",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Mobile Garbage Bins",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-91-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They have both household bins and recycling receptacles. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The mobile waste storage bins can withstand a wide range of conditions. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They have been tested for safety. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They will last a very long time. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They are checked by outside agencies. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They meet many requirements ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "They are made from strong materials and are protected from the sun's rays. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Mobile Garbage Bins",
+        "text": "(A) WEBER only uses special impact-resistant polyethylene (HDPE) from major suppliers for manufacturing mobile garbage bins from plastic. This means that quality variations of the finished products can be avoided. All raw materials have been tested for outdoor use and are sufficiently UV-stabilised. The employment of these high-quality raw materials allows using our mobile waste containers over an extremely wide temperature range from 40°C to +80°C.\n\n(B) Optimised design for many years of use: Sustained quality and ruggedness of the domestic waste bins must prove itself in practice. The manufacturer Weber optimises its products with this intent. Optimally dimensioned wall thicknesses and optimised design of the areas exposes to stresses and louds ensure ruggedness and long service life of the WEBER recycling bins.\n\n(C) Certified two 2 and four 4 wheel mobile garbage bins with guaranteed quality All mobile waste containers are certified by an independent testing agency. Certification includes the criteria of the European Mobile garbage bins Standard EN 840 and the additional requirements of the RAL quality mark RAL GZ 951/1. Not only a type sample is certified here but the production of the wheeled refuse bins is regularly monitored, to ensure that series products consistently meet the certified requirements as well.\n\n(D) All mobile two 2 and four 4 wheel wheelie bins have received the German GS symbol for Tested Safety without exception. The regulations of the GS symbol are legally stipulated in the Federal Republic of Germany. For example, it includes compliance with AFPS GS 2014:01. i.e. testing and assessment of polycyclic aromatic hydrocarbon (PAH) when awarded the 6S symbol. The regulation was created by the Committee for Product Safety (AFPS) and specifies limits for these carcinogenic substances.\n\n(E) ISO 9000 and ISO 14000 Certified Company Abfallbehälter & Container Weber GmbH & Co. KG operates a Quality Management System according to ISO 9001 and Environmental Management System according to ISO 14001. Integrated production checks and product examinations ensure consistent high quality and numerous environmental aspects with the production of our domestic waste bins. Quality and environmental management systems are monitored regularly by external certifying agencies.\n\n(F) Robustness and durability through high-grade materials and solid wall thicknesses. High-quality domestic waste bins and recycling containers from Weber, directly from the manufacturer."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Employee Annual Leave and Pay",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-91-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The employer can say when an employee can take their annual leave",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can be paid double for any annual leave you take during quiet work times.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Leave is normally 4 weeks in one year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can have more leave if you ask through written permission.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Any employee who has worked for more than 10 months without a break, can have 3 weeks off uninterrupted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Part-time employee leave is decided from 8% of the hours worked.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Part-time workers are often invited to work for more hours during the year if they want to have more paid leave.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Employee Annual Leave and Pay",
+        "text": "Taking annual leaves The Act provides for a basic annual paid leave entitlement of 4 weeks, although an employee's contract could give greater rights, it is for your employer to decide when annual leave may be taken, but this is subject to a number of conditions. Your employer must take into account your family responsibilities, opportunities for rest and recreation that are available to you and to consult with you (or your union) at least one month before the leave is to be taken. In addition, annual leave should be taken within the appropriate leave year or with your consent, within 6 months of the relevant leave year. Further holding over (also known as carrying-over) of annual leave at your wish is a matter for agreement between you and your employer.\n\nCalculating Annual leaves: Under Section 19 (1) of the Act, you are entitled to a basic annual paid leave entitlement of 4 weeks. There are 3 different ways of calculating your annual leave entitlement:\n\n• Based on the employee's working hours during what is called the leave year, which runs from April to March. An • employee who has worked at least 1,365 hours in a leave year is entitled to the maximum of 4 working weeks' paid annual leave unless it is a leave year in which they change employment. Many employers use the calendar year (January-December) instead of the official leave year to calculate entitlement. • By allowing 1/3 of a working week for each calendar month in which the employee has worked at least 117 hours. • 8% of the hours worked in the leave year, subject to a maximum of 4 working weeks. An employee may use whichever of these methods gives the greater entitlement. When calculating the entitlement, employers should include all hours worked including time spent on annual leave, maternity leave, parental leave, force majeure leave, adoptive leave or the first 13 weeks of carer's leave. An employee who has worked for at least 8 months is entitled to an unbroken period of 2 weeks' annual leave. Part-time work: Generally, the annual leave for part-time workers is calculated using the 3rd method, that is, 8% of hours worked. If you work full time for some months and the rest of the year you work part-time, you should calculate the leave for the full-time and the part-time periods of work separately."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Rights of Pregnant Women in the Workplace",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-91-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An employer cannot______a pregnant worker from the company.",
+          "answer": "Five",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is against the law not to hire a woman because she may become ______ in the future.",
+          "answer": "Pregnant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A new mother is able to pump breast______in a safe place.",
+          "answer": "Milk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The worker must provide a______note if they have complications that impact their daily work activities.",
+          "answer": "Doctor's",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An employer cannot give a pregnant woman a less______job.",
+          "answer": "Strenuous",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A company cannot withhold a______just because the employee is pregnant.",
+          "answer": "Promotion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Who decides if the workplace is safe for a pregnant employee? ______",
+          "answer": "Employee/ doctor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What is very common, when pregnant women are applying for low earning roles? ______",
+          "answer": "Not hired",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What can new mothers do in the workplace in a safe place? ______",
+          "answer": "Pump milk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What can a pregnant worker keep at her workstation? ______",
+          "answer": "Water bottle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What does the worker have to provide if they have a medical condition related to pregnancy? ______",
+          "answer": "Doctor's note",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do some new mothers have the chance of losing after returning to work? ______",
+          "answer": "A promotion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What do some employers want to stop pregnant workers from doing? ______",
+          "answer": "Travelling",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Rights of Pregnant Women in the Workplace",
+        "text": "1. An employer cannot fire a woman because she's pregnant: Sometimes, employers try to disguise the discrimination behind good intentions. They explain they're worried about safety, for example. In other cases, the discrimination is more blatant. Either way, it's illegal. Take this example from a wings restaurant chain in the Houston area. The company had a written policy to lay off female workers after the third month of their pregnancies. A federal investigation showed the company laid off eight pregnant employees. A manager told investigators that keeping pregnant employees at work any longer would be \"irresponsible with respect to her child's safety\". But companies cannot fire employees for this reason. Exceptions are rare, even when a job entails being exposed to toxic chemicals or lifting heavy objects. Courts have ruled that decisions about the safety of the woman and fetus are up to the employee and her doctor, not her boss.\n\n2. A company cannot refuse to hire a woman because she's pregnant or because she may become pregnant in the future: Peggy Mastroianni Legal Counsel in the EEOC said this is very common, especially with workers applying for low wage jobs. This problem occurs even at companies that rely on pregnant women as their customers. A Philadelphia based franchise of clothes retailer Motherhood Maternity paid $375,000 to settle a pregnancy discrimination and retaliation suit in 2007 after the company allegedly refused to hire three qualified female applicants because they were pregnant. It's also illegal to not hire a woman because she may become pregnant in the future. \"There is a stigma against hiring younger women for some jobs, where an employer wants to know somebody is going to be on a job for years without interruption,\" said Vicki Shabo, vice president at the National Partnership for Women & Families 3. New mothers have the right to pump breast milk at work in a safe place. A company cannot fire or discriminate against a woman because she's lactating: You can thank Obamacare for this protection. The Affordable Care Act requires employers to provide reasonable breaks to new mothers to pump breast milk for up to one year after a child's birth. Employers are also required to provide a safe and private place other than a bathroom, to do so. But there is an exception for small companies. If a company with fewer than 50 employees can prove that offering breaks or a private space would cause undue hardship to the company, it may not have to offer this accommodation to their employees\n\n4. In some cases, pregnancy related conditions may entitle women to special accommodations:\n\n(A) normal pregnancy without complications is not considered a disability under federal law, and it does not entitle a worker to special treatment. That said, women who have complications or temporary impairments related to their pregnancy must be treated the same as other workers with medical impairments. If a company has a policy in place that, for example, offers a light duty assignment for a few months to a worker who injured his back, the company is also expected to provide reasonable accommodations to a pregnant woman who requires light duty due to her pregnancy. Other examples of reasonable accommodations may include letting a worker sit on a stool rather than stand during her shift, changing her work schedule she has severe morning sickness, or allowing her to keep a water bottle at her workstation. The worker usually needs to provide a doctor's note, establishing there's a medical condition that may temporarily limit her work capabilities. In the case of a pregnancy, common impairments include severe morning sickness, back pain, high blood pressure, gestational diabetes and complications that require bed rest. There are some exceptions, but again, to avoid providing an accommodation, an employer has to prove that doing so would cause undue hardship to the company 5. An employer cannot force you to take time off or change jobs if you're still able to do your job. Sometimes an employer thinks they're acting in the best interest of the employee or protecting itself from liabilities when it decides to reassign a pregnant woman or new parent to a less strenuous job. Employers cannot base employment decisions on assumptions about pregnant women's capabilities and health concerns. For example, a boss cannot prevent a pregnant worker from travelling on business trips, because he's concerned about her health. A company cannot deny a pregnant woman a promotion, assuming once she returns to work after childbirth, she will be less committed to her job. Employers also cannot reassign workers to less desirable jobs, even temporarily, due to concerns about a pregnancy."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Nuthatch Birds",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-91-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Sightings in Britain"
+            },
+            {
+              "id": "ii",
+              "text": "Origins of the name"
+            },
+            {
+              "id": "iii",
+              "text": "Eating habits"
+            },
+            {
+              "id": "iv",
+              "text": "Dwelling places"
+            },
+            {
+              "id": "v",
+              "text": "Sightings in the world"
+            },
+            {
+              "id": "vi",
+              "text": "Favorite places"
+            },
+            {
+              "id": "vii",
+              "text": "Amount of species"
+            },
+            {
+              "id": "viii",
+              "text": "Food storage facilities"
+            },
+            {
+              "id": "ix",
+              "text": "Appearance and temperament"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As people who regularly see nuthatches will know, they are very confident and can be quite ______so that they are able to defend themselves when larger birds come and try to scare them. They will take food from bird tables and feeders to store, this can lead to many flowers including (36) ______growing in many places. They often travel two together, and are tied to their dwelling place, because their food is housed here they (37) ______their territory.",
+          "answer": "Aggressive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As people who regularly see nuthatches will know, they are very confident and can be quite (35) ______so that they are able to defend themselves when larger birds come and try to scare them. They will take food from bird tables and feeders to store, this can lead to many flowers including ______growing in many places. They often travel two together, and are tied to their dwelling place, because their food is housed here they (37) ______their territory.",
+          "answer": "Sunflowers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "As people who regularly see nuthatches will know, they are very confident and can be quite (35) ______so that they are able to defend themselves when larger birds come and try to scare them. They will take food from bird tables and feeders to store, this can lead to many flowers including (36) ______growing in many places. They often travel two together, and are tied to their dwelling place, because their food is housed here they ______their territory.",
+          "answer": "Defend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The name nuthatch comes from nut hacker, which reflects the bird's method of opening up nuts by jamming them into a crevice then ______at them.",
+          "answer": "Hammering",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Unlike the ______which only moves up the trunk of a tree, nuthatches will move both up and down.",
+          "answer": "Tree creeper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-91-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Studies have shown that large gardens with oak trees provide the best ______for this species.",
+          "answer": "Habitat",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Nuthatch Birds",
+        "text": "(A) The name nuthatch is derived from nut hacker, reflecting the bird's method of opening up nuts by jamming them into a crevice then hammering at them. Old country names include mud dabbler and mud stopper, both of which note the bird's curious habit of plastering mud around the entrance hole to its nest.\n\n(B) Unlike the treecreeper, which only moves up the trunk of a tree, nuthatches will move both up and down. Once a bird restricted largely to south-eastern England, the 20th century witnessed a spread to the north, with breeding in Scotland first confirmed in 1989. Studies have shown that large gardens with oak trees provide the optimum habitat for this species. One of the reasons for the expansion seems to be the nuthatch's increasing use of bird feeders and bird tables.\n\n(C) As anyone who has nuthatches visiting their feeders will know, they are bold and aggressive, able to stand their ground when larger birds such as starlings attempt to intimidate them. They will take food from the bird table to store elsewhere: this can lead to sunflowers sprouting in expected places. Pairs are strongly territorial throughout the year. The fact that food is stored within the territory strengthens the need to defend it.\n\n(D) Though they will readily adopt nest boxes, they cannot resist plastering mud around the entrance hole, even if the latter is already the right size. The most favoured natural site for a nuthatch is the old nest hole of a great spotted woodpecker. Nuthatches are one of the nosiest woodland birds in the early spring but are relatively silent when breeding.\n\n(E) There are 24 different species of nuthatches in the world: our bird has much the widest distribution, as it breeds continually from Portugal to Korea and Japan. The nuthatch has never been recorded in Ireland. Most nuthatches are highly sedentary, seldom moving far from where they hatched. The average distance travelled by a ringed adult nuthatch is less than a kilometre.\n\n(F) No British-ringed individuals have ever been recovered abroad, while similarly no birds ringed on the Continent have been found here. Individuals breeding in Sweden and Norway have distinctive white underparts, unlike the peachy buff of our birds. Remarkably a red-breasted nuthatch from North America spent nearly seven months at Holkham in Norfolk from October 1989 to May 1990\n\n(G) Perhaps surprisingly, the nuthatch has received little in the way of study in Britain, and most of our knowledge comes from work carried out in Sweden and Belgium. Numbers are known to fluctuate quite widely from year to year, probably reflecting the availability of seed during the winter."
+      }
+    }
+  ]
+}

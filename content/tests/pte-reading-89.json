@@ -1,0 +1,754 @@
+{
+  "id": "pte-reading-89",
+  "title": "Academic Reading — Practice Test 89",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Cork",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-89-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The cork oak has the thickest bark of any living tree.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Scientists have developed a synthetic cork with the same cellular structure as natural cork.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Individual cork oak trees must be left for 25 years between the first and second harvest.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cork bark should be stripped in dry atmospheric conditions. ______",
+          "answer": "tue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The only way to remove the bark from cork oak trees is by hand.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• do not affect the ______of the bottle contents",
+          "answer": "taste",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• are ______ to produce",
+          "answer": "cheaper",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• are ______ to use",
+          "answer": "convenient",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• suit the ______ of quality products",
+          "answer": "image",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• made from a ______ material",
+          "answer": "sustainable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• easily ______",
+          "answer": "recycled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• cork forests aid ______",
+          "answer": "biodiversity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• cork forests stop ______happening",
+          "answer": "desertification",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Cork",
+        "text": "Cork – the thick bark of the cork oak tree (Quercus suber) – is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed then sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals. And the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20°C all year round. Developed most probably as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating. The cells are filled with air, which is why cork is so buoyant. It also has an elasticity that means you can squash it and watch it spring back to its original size and shape when you release the pressure. Cork oaks grow in a number of Mediterranean countries, including Portugal, Spain, Italy, Greece and Morocco. They flourish in warm, sunny climates where there is a minimum of 400 millimetres of rain per year, and no more than 800 millimetres. Like grape vines, the trees thrive in poor soil, putting down deep root in search of moisture and nutrients. Southern Portugal's Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world's largest producer of cork, and why today it accounts for roughly half of all cork production around the world. Most cork forests are family-owned. Many of these family businesses, and indeed many of the trees themselves, are around 200 years old. Cork production is, above all, an exercise in patience. From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree. And for top- quality cork, it's necessary to wait a further 15 or 20 years. You even have to wait for the right kind of summer's day to harvest cork. If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged. Cork harvesting is a very specialised profession. No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers. First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they can manage. The most skilful cork- strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches. It is then dried on the ground for about four months, before being taken to factories, where it is boiled to kill any insects that might remain in the cork. Over 60% of cork then goes on to be made into traditional bottle stoppers, with most of the remainder being used in the construction trade, Corkboard and cork tiles are ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete. Recent years have seen the end of the virtual monopoly of cork as the material for bottle stoppers, due to concerns about the effect it may have on the contents of the bottle. This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which forms through the interaction of plant phenols, chlorine and mould. The tiniest concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle. The result has been a gradual yet steady move first towards plastic stoppers and, more recently, to aluminium screw caps. These substitutes are cheaper to manufacture and, in the case of screw caps, more convenient for the user. The classic cork stopper does have several advantages, however. Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly – and very importantly – cork is a sustainable product that can be recycled without difficulty. Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted. So, given the current concerns about environmental issues, the future of this ancient material once again looks promising."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Collecting As A Hobby",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-89-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer mentions collecting______as an example of collecting in order to make money.",
+          "answer": "antiques",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Collectors may get a feeling of ______from buying and selling items.",
+          "answer": "triumph",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Collectors' clubs provide opportunities to share______",
+          "answer": "information",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Collectors' clubs offer______with people who have similar interests.",
+          "answer": "contact/ meetings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Collecting sometimes involves a life-long______for a special item.",
+          "answer": "hunt/ desire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Searching for something particular may prevent people from feeling their life is completely______",
+          "answer": "aimless/ empty",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Stamp collection may be______because it provides facts about different countries.",
+          "answer": "educational",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "tends to be mostly a male hobby. ______",
+          "answer": "trainspotting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The number of people buying dolls has grown over the centuries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Sixteenth century European dolls were normally made of wax and porcelain.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Arranging a stamp collection by the size of the stamps is less common than other methods.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Someone who collects unusual objects may want others to think he or she is also unusual.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Collecting gives a feeling that other hobbies are unlikely to inspire.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Collecting As A Hobby",
+        "text": "Collecting must one of the varied of human activities and its one that many of us psychologists find fascinating. Many forms of collecting have been dignified with a technical name: an archtophilist collects teddy bears, a philatelist collects postage stamps, and a deltiologist collects postcards. Amassing hundreds or even thousands of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely to much more productive use. And yet there are millions of collectors around the world. Why do they do it? There are the people who collect because they want to make money – this could be called an instrumental reason for collecting; that is, collecting as a means to an end. They'll look for, say, antiques that they can buy cheaply and expect to be able to sell at a profit. But there may well be a psychological element, too – buying cheap and selling dear can give the collector a sense of triumph. And as selling online is so easy, more and more people are joining in. Many collectors collect to develop their social life, attending meetings of a group of collectors and exchanging information on items. This is a variant on joining a bridge club or a gym, and similarly brings them into contact with like-minded people. Another motive for collecting is the desire to find something special, or a particular example of the collected item, such as a rare early recording by a particular singer. Some may spend their whole lives in a hunt for this. Psychologically, this can give a purpose to a life that otherwise feels aimless. There is a danger, though, that if the individual is ever lucky enough to find what they're looking for, rather than celebrating their success, they may feel empty, now that the goal that drove them on has gone. If you think about collecting postage stamps another potential reason for it – Or, perhaps, a result of collecting is its educational value. Stamp collecting opens a window to other countries, and to the plants, animals, or famous people shown on their stamps. Similarly, in the 19th century, many collectors amassed fossils, animals and plants from around the globe, and their collections provided a vast amount of information about the natural world. Without those collections, our understanding would be greatly inferior to what it is. In the past – and nowadays, too, though to a lesser extent – a popular form of collecting, particularly among boys and men, was trainspotting. This might involve trying to see every locomotive of a particular type, using published data that identifies each one, and ticking off each engine as it is seen. Trainspotters exchange information, these days often by mobile phone, so they can work out where to go to, to see a particular engine. As a by-product, many practitioners of the hobby become very knowledgeable about railway operations, or the technical specifications of different engine types. Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, or the materials that are used. These have changed over the centuries from the wood that was standard in 16th century Europe, through the wax and porcelain of later centuries, to the plastics of today's dolls. Or collectors might be inspired to study how dolls reflect notions of what children like, or ought to like. Not all collectors are interested in learning from their hobby, though, so what we might call a psychological reason for collecting is the need for a sense of control, perhaps as a way of dealing with insecurity. Stamp collectors, for instance, arrange their stamps in albums, usually very neatly, organising their collection according to certain commonplace principles-perhaps by country in alphabetical order, or grouping stamps by what they depict -people, birds, maps, and so on. One reason, conscious or not, for what someone chooses to collect is to show the collector's individualism. Someone who decides to collect something as unexpected as dog collars, for instance, may be conveying their belief that they must be interesting themselves. And believe it or not, there is at least one dog collar museum in existence, and it grew out of a personal collection. Of course, all hobbies give pleasure, but the common factor in collecting is usually passion: pleasure is putting it far too mildly. More than most other hobbies, collecting can be totally engrossing, and can give a strong sense of personal fulfilment. To non-collectors it may appear an eccentric, if harmless, way of spending time, but potentially, collecting has a lot going for it."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: What's the purpose of gaining knowledge?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-89-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Courses that require a high level of commitment"
+            },
+            {
+              "id": "ii",
+              "text": "A course title with two meanings"
+            },
+            {
+              "id": "iii",
+              "text": "The equal importance of two key issues"
+            },
+            {
+              "id": "iv",
+              "text": "Applying a theory in an unexpected context"
+            },
+            {
+              "id": "v",
+              "text": "The financial benefits of studying"
+            },
+            {
+              "id": "vi",
+              "text": "A surprising course title"
+            },
+            {
+              "id": "vii",
+              "text": "Different names for different outcomes"
+            },
+            {
+              "id": "viii",
+              "text": "The possibility of attracting the wrong kind of student"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This is a university course intended for students who are undergraduates and who are studying ______ The expectation is that they will become (34) ______speacialising in arson. The course will help them to detect cases of arson and find (35) ______ of criminal intent, leading to successful (36) ______ in the courts.",
+          "answer": "fire science",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This is a university course intended for students who are undergraduates and who are studying (33) ______ The expectation is that they will become ______speacialising in arson. The course will help them to detect cases of arson and find (35) ______ of criminal intent, leading to successful (36) ______ in the courts.",
+          "answer": "investigators",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This is a university course intended for students who are undergraduates and who are studying (33) ______ The expectation is that they will become (34) ______speacialising in arson. The course will help them to detect cases of arson and find ______ of criminal intent, leading to successful (36) ______ in the courts.",
+          "answer": "evidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "This is a university course intended for students who are undergraduates and who are studying (33) ______ The expectation is that they will become (34) ______speacialising in arson. The course will help them to detect cases of arson and find (35) ______ of criminal intent, leading to successful ______ in the courts.",
+          "answer": "prosecution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is difficult to attract students onto courses that do no focus on a career.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The 'Arson for Profit' course would be useful for people intending to set fire to buildings.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Fire science are too academic to help people to be good at the job of firefighting.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-89-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The writer's fire science students provided a detailed definition of the purpose of their studies.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "What's the purpose of gaining knowledge?",
+        "text": "(A) 'I would found an institution where any person can find instruction in any subject' That was the founders motto for Cornell University, and it seems an apt characterization of the different university, also in the USA, where I currently teach philosophy. A student can prepare for a career in resort management, engineering, interior design, accounting, music, law enforcement, you name it. But what would the founders of these two institutions have thought of a course called Arson for Profit'? I kid you not: we have it on the books. Any undergraduates who have met the academic requirements can sign up for the course in our program in 'fire science'.\n\n(B) Naturally, the course is intended for prospective arson investigators, who can learn all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law. But wouldn't this also be the perfect course for prospective arsonists to sign up for? My point is not to criticize academic programs in fire science: they are highly welcome as part of the increasing professionalization of this and many other occupations. However, it's not unknown for a firefighter to torch a building. This example suggests how dishonest and illegal behavior, with the help of higher education, can creep into every aspect of public and business life.\n\n(C) I realized this anew when I was invited to speak before a class in marketing, which is another of our degree programs. The regular instructor is a colleague who appreciates the kind of ethical perspective I can bring as a philosopher. There are endless ways I could have approached this assignment, but I took my cue from the title of the course: 'Principles of Marketing'. It made me think to ask the students, 'Is marketing principled?' After all, a subject matter can have principles in the sense of being codified, having rules, as with football or chess, without being principled in the sense of being ethical. Many of the students immediately assumed that the answer to my question about marketing principles was obvious: no. Just look at the ways in which everything under the sun has been marketed; obviously it need not be done in a principled (=ethical) fashion.\n\n(D) Is that obvious? I made the suggestion, which may sound downright crazy in light of the evidence, that perhaps marketing is by definition principled. My inspiration for this judgement is the philosopher Immanuel Kant, who argued that any body of knowledge consists of an end (or purpose) and a means.\n\n(E) Let us apply both the terms 'means' and 'end' to marketing. The students have signed up for a course in order to learn how to market effectively. But to what end? There seem to be two main attitudes toward that question. One is that the answer is obvious: the purpose of marketing is to sell things and to make money. The other attitude is that the purpose of marketing is irrelevant: Each person comes to the program and course with his or her own plans, and these need not even concern the acquisition of marketing expertise as such. My proposal, which I believe would also be Kant's, is that neither of these attitudes captures the significance of the end to the means for marketing. A field of knowledge or a professional endeavor is defined by both the means and the end;hence both deserve scrutiny. Students need to study both how to achieve X, and also what X is.\n\n(F) It is at this point that 'Arson for Profit' becomes supremely relevant. That course is presumably all about means: how to detect and prosecute criminal activity. It is therefore assumed that the end is good in an ethical sense. When I ask fire science students to articulate the end, or purpose, of their field, they eventually generalize to something like, 'The safety and welfare of society,' which seems right. As we have seen, someone could use the very same knowledge of means to achieve a much less noble end, such as personal profit via destructive, dangerous, reckless activity. But we would not call that firefighting. We have a separate word for it: arson. Similarly, if you employed the 'principles of marketing' in an unprincipled way, you would not be doing marketing. We have another term for it: fraud. Kant gives the example of a doctor and a poisoner, who use the identical knowledge to achieve their divergent ends. We would say that one is practicing medicine, the other, murder."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1315 @@
+{
+  "id": "pte-gt-reading-18",
+  "title": "General Training Reading — Practice Test 18",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Rules and Regulations for Members of Brightwood Leisure Centre",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-18-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The Bill Benjamin album is more readily available than the Gerome and the Jives album. ______",
+          "answer": "FALSE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The Blues album on sale for less than £20 will be available from the middle of September. ______",
+          "answer": "FALSE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The Janine Reynard album is only available at the cheaper price for a limited time. ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The Seeking Solitude jazz album is available for the first time in the U.K. ______",
+          "answer": "NOT GIVEN",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Jessica Wilson is a famous female blues and jazz artist from the U.K. ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Not all special offers are available to customers outside the U.K. ______",
+          "answer": "TRUE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Express delivery in the UK costs £6.50. ______",
+          "answer": "FALSE",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Rules and Regulations for Members of Brightwood Leisure Centre",
+        "text": "Membership allows an individual to use the leisure centre's facilities subject to the conditions of their membership and availability. Please note prices may change and/or increase from time to time. All members must read and agree to follow the rules below before using the leisure centre facilities."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: General",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-18-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Members who upset other users of the leisure centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "will be reported to the Club Manager"
+            },
+            {
+              "id": "B",
+              "text": "will be given a warning"
+            },
+            {
+              "id": "C",
+              "text": "will have their membership cancelled"
+            },
+            {
+              "id": "D",
+              "text": "will be reported to the Membership Secretary"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Membership may be put on hold",
+          "options": [
+            {
+              "id": "A",
+              "text": "within 14 days of joining"
+            },
+            {
+              "id": "B",
+              "text": "through arrangement with the manager of the club"
+            },
+            {
+              "id": "C",
+              "text": "if the Membership Secretary agrees"
+            },
+            {
+              "id": "D",
+              "text": "in cases of injury only"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Damage to members' vehicles",
+          "options": [
+            {
+              "id": "A",
+              "text": "is unlikely due to secure parking"
+            },
+            {
+              "id": "B",
+              "text": "will be paid for by the centre if it is their fault"
+            },
+            {
+              "id": "C",
+              "text": "is not the responsibility of the centre"
+            },
+            {
+              "id": "D",
+              "text": "may result due to negligence Rules and Regulations for Members Bringing Guests and Children to the Leisure Centre Members’ Guests over 18. Members are welcome to introduce guests to the club. Guests are required to register, pay the current guest fee and must be accompanied by a Member. Members must ensure that their guests are fully aware of the clubs Terms & Conditions and Rules & Regulations. Each Member can introduce the same person no more than 6 times per year as a guest. The owners take no responsibility for accidents, injuries, misadventure, theft or damage to personal belongings experienced by guests of the club. Children Members are allowed to bring their children to the leisure centre during certain hours. Children’s hours are Monday to Friday 10am – 12noon and 3pm – 5pm. At weekends and on national holidays children are allowed to use the centre between 12 noon – 4pm. A child is any individual under 16. All under 16’s should be supervised by an adult (over 18) when using the facilities during children’s hours. At age 17 all users must pay an adult membership fee. Children under the age of 12 are not allowed to use the steam room, hot spa or sauna."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Adult guests are not allowed to use the facilities",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 12 noon on workdays."
+            },
+            {
+              "id": "B",
+              "text": "cannot use all leisure centre facilities"
+            },
+            {
+              "id": "C",
+              "text": "up to six occasions under guest terms."
+            },
+            {
+              "id": "D",
+              "text": "may use the spa in the company of an adult."
+            },
+            {
+              "id": "E",
+              "text": "unless a member is with them"
+            },
+            {
+              "id": "F",
+              "text": "during times it is open to children."
+            },
+            {
+              "id": "G",
+              "text": "after 5pm on week days"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Non members can visit the gym",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 12 noon on workdays."
+            },
+            {
+              "id": "B",
+              "text": "cannot use all leisure centre facilities"
+            },
+            {
+              "id": "C",
+              "text": "up to six occasions under guest terms."
+            },
+            {
+              "id": "D",
+              "text": "may use the spa in the company of an adult."
+            },
+            {
+              "id": "E",
+              "text": "unless a member is with them"
+            },
+            {
+              "id": "F",
+              "text": "during times it is open to children."
+            },
+            {
+              "id": "G",
+              "text": "after 5pm on week days"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Children are not allowed to use the leisure centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 12 noon on workdays."
+            },
+            {
+              "id": "B",
+              "text": "cannot use all leisure centre facilities"
+            },
+            {
+              "id": "C",
+              "text": "up to six occasions under guest terms."
+            },
+            {
+              "id": "D",
+              "text": "may use the spa in the company of an adult."
+            },
+            {
+              "id": "E",
+              "text": "unless a member is with them"
+            },
+            {
+              "id": "F",
+              "text": "during times it is open to children."
+            },
+            {
+              "id": "G",
+              "text": "after 5pm on week days"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "11 year olds Brightwall International College of Business Tertiary Programme Support What is Tertiary Programme Support? Tertiary Programme Support classes are English language focussed classes available for international students already enrolled in a business programme. The classes are offered twice per week – on Wednesday afternoons from 2-4pm and Friday mornings from 9.30-11.30am. Lecture classes begin the week after Orientation; however, Tertiary Programme Support classes commence during the induction week. Why should you attend Tertiary Programme Support? The classes are aimed at helping you to gain good marks in your assignments. They will not only help you to improve your grammar and vocabulary and they will also ensure that you know how to write reports and assignments in the correct way. Tertiary Programme Support also teaches you how to use sources of information for your projects and how to reference these sources correctly. Do I have to Attend? Tertiary Programme Support classes are compulsory for all students who have an IELTS score of less than 6.0 in their first academic year. However, classes are available for all students who wish to attend. Since classes do not just focus on English language, but also help students build their academic skills, we recommend that everyone attends Tertiary Programme Support for at least the first semester. How much does it cost? There is no additional fee for attending the classes. The Academic Skills handbook which accompanies the course and is mandatory is available in the campus bookstore for $25.95. The cost of the actual class is subsidized by the institute and included in your course fees. Additional Seminars this Month: Library Orientation If you are having difficulty finding the reference sources you need to write a quality assignment, we recommend that you sign up for the library orientation. Sessions will be held week commencing March 10th and each seminar group is restricted to 15 students (number of groups will be confirmed depending on demand). If you are interested, please enrol at the library reception before February 15th (late enrolments requests will not be accepted). The seminar includes information on: Using books and journals available in the library Searching for journals on-line Skills for identifying useful sources of information Understanding Academic Language",
+          "options": [
+            {
+              "id": "A",
+              "text": "before 12 noon on workdays."
+            },
+            {
+              "id": "B",
+              "text": "cannot use all leisure centre facilities"
+            },
+            {
+              "id": "C",
+              "text": "up to six occasions under guest terms."
+            },
+            {
+              "id": "D",
+              "text": "may use the spa in the company of an adult."
+            },
+            {
+              "id": "E",
+              "text": "unless a member is with them"
+            },
+            {
+              "id": "F",
+              "text": "during times it is open to children."
+            },
+            {
+              "id": "G",
+              "text": "after 5pm on week days"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Tertiary Programme Support classes begin after lectures have started.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students who attend the Tertiary Support Classes gain higher marks than those who do not.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All international students have to attend Tertiary Support Classes in their first year of study.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students must be in possession of the course book.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A maximum of 15 students are able to attend the library orientation seminar.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a deadline for signing up for the library orientation.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "General",
+        "text": "1. The owners reserve the right to terminate membership for breach of the rules, or behaviour which is damaging to the character or interests of the club or offensive to other members or staff. 2. Members must advise staff of any personal disability or illness such as a heart condition, eye or hearing problems and other conditions before using the facilities to help to avoid accidents or injuries to themselves and others. 3. Whilst using the club facilities all Members accept responsibility for their state of health and physical condition. 4. The owners' responsibility or liability for damage or loss to Members' property is strictly limited to any damage or loss occuring as a direct result of the negligence of owners or their staff. 5. No pets will be allowed in the club or its grounds with the exception of guide dogs. 6. Entry to the club is permitted only through the main reception entrance. 7. The owners may at any time withdraw all or any part of the club facilities for any period or periods where and when it is necessary for repair, maintenance, alteration or for safety reasons.\n\nMaking Changes to Membership All memberships are payable monthly by Direct Debit – normally taken on the 5th of each month. If you wish to cancel your membership, you must contact the Membership Secretary in writing giving 2 weeks' notice. Joining fees will not be refunded unless you cancel within 14 days of joining. In the case of having to temporarily suspend membership due to long/medium term injury, illness or pregnancy, you must obtain written acceptance of the suspension from the Club Manager. All membership is personal to each Member, however it is possible to transfer membership to another names person providing notice is given to the Membership Secretary by the 15th of the month. The transferee will be required to complete a Membership Application form but will not be required to pay a joining fee or pay any of the membership subscriptions which have been paid in advance by the original member.\n\n(A) Member who wishes to transfer membership may not actively market such a transfer (for example on the internet) and may only transfer to a friend or family member.\n\nLockers Lockers are provided to secure and protect your personal belongings and valuables while exercising. For security reasons and the benefits of other members all lockers must be emptied by the end of each visit. All lockers will be checked and emptied by leisure centre staff at the end of every day and any contents will be disposed of for security reasons. This policy is adopted for Member's safety and security.\n\nPersonal Belongings Our liability to compensate you in the case of loss or damage other than death or personal injury is limited to a reasonable amount having regard to such factors as to whether the damage was due to a negligent act or omission by us. If any personal property is found please hand in at the reception. Any property that is not claimed within 28 days will be donated to a local charity. Cars must be parked correctly in the car park. No liability is accepted for loss or damage to cars or property and are left at the owners risk."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Additional Student Support Services",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-18-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "This service is operated by unpaid helpers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Students need to book seven to fourteen days in advance.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The student's own faculty makes arrangements regarding this.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The service is provided at all of the institution's locations.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The student is likely to be able to communicate in their own language.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The service is available every week day during office hours.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Afternoon appointments are not available.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Additional Student Support Services",
+        "text": "The institute offers additional support services for its students. Here is some brief information on our support departments.\n\n(A) Careers Guidance Situated in Longsdon House on South Campus and open from Monday to Friday 8.30am to 4.30pm. You are welcome to use the job search lounge at any time during business hours. If you wish to make an appointment with a careers advisor do so in reception. The service is popular and highly valued by our students so expect a waiting time of 1-2 weeks before receiving an appointment.\n\n(B) Work Experience If you are interested in undertaking a work experience placement at some point during your course, please inform the Head of Department for the school you are studying with. They will try their best to make arrangements for you to take on a position which matches your studies and chosen future career.\n\n(C) Counselling Students experiencing emotional difficulties are encouraged to make an appointment with one of our counsellors. This service guarantees complete confidentiality and is operated by professionals from the local health authority. Counselling sessions are available on all three of the institution's campuses and there is a free phone number available to make an appointment.\n\n(D) Health Clinic The student health clinic is situated on North Campus in the main building. The clinic offers services including routine health checks, women's health and vaccinations. Appointments are necessary and the clinic is in operation Monday to Wednesday 9am-12pm only. This is not an emergency service (students requiring emergency medical attention should visit the Accident and Emergency Department of Meadowland Hospital).\n\n(E) Emergency Support Line This telephone service is operated by volunteers as is available 24 hours per day. All issues raised are treated in confidence and multi-lingual staff are available to take calls. All volunteers are required to undertake a 4 week training programme."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Depression",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-18-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Details of treatment alternatives for worse case scenario depression.",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Information regarding cases where drug treatment is inappropriate.",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Details of how those diagnosed with depression may be more vulnerable than other members of society.",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Information about society's attitudes to depression and similar illnesses.",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Information regarding why estimates of incidence of future growth in cases may be overly exaggerated.",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q33",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of depression?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Governments have generally failed to take action to educate the general public about the condition."
+            },
+            {
+              "id": "B",
+              "text": "The highest reported number of cases are in the USA."
+            },
+            {
+              "id": "C",
+              "text": "In Britain, it is likely that there are more individuals who live with the condition without the help of a doctor than those being officially treated."
+            },
+            {
+              "id": "D",
+              "text": "Clinical depression may be triggered by divorce."
+            },
+            {
+              "id": "E",
+              "text": "Lethargy may be one of the symptoms of depression."
+            },
+            {
+              "id": "F",
+              "text": "Prescribed pharmaceuticals have radically changed over recent years."
+            },
+            {
+              "id": "G",
+              "text": "Approaches to treating depression are not universal."
+            }
+          ],
+          "answer": [
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q34",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of depression?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Governments have generally failed to take action to educate the general public about the condition."
+            },
+            {
+              "id": "B",
+              "text": "The highest reported number of cases are in the USA."
+            },
+            {
+              "id": "C",
+              "text": "In Britain, it is likely that there are more individuals who live with the condition without the help of a doctor than those being officially treated."
+            },
+            {
+              "id": "D",
+              "text": "Clinical depression may be triggered by divorce."
+            },
+            {
+              "id": "E",
+              "text": "Lethargy may be one of the symptoms of depression."
+            },
+            {
+              "id": "F",
+              "text": "Prescribed pharmaceuticals have radically changed over recent years."
+            },
+            {
+              "id": "G",
+              "text": "Approaches to treating depression are not universal."
+            }
+          ],
+          "answer": [
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q35",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which THREE of the following statements are true of depression?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Governments have generally failed to take action to educate the general public about the condition."
+            },
+            {
+              "id": "B",
+              "text": "The highest reported number of cases are in the USA."
+            },
+            {
+              "id": "C",
+              "text": "In Britain, it is likely that there are more individuals who live with the condition without the help of a doctor than those being officially treated."
+            },
+            {
+              "id": "D",
+              "text": "Clinical depression may be triggered by divorce."
+            },
+            {
+              "id": "E",
+              "text": "Lethargy may be one of the symptoms of depression."
+            },
+            {
+              "id": "F",
+              "text": "Prescribed pharmaceuticals have radically changed over recent years."
+            },
+            {
+              "id": "G",
+              "text": "Approaches to treating depression are not universal."
+            }
+          ],
+          "answer": [
+            "C",
+            "E",
+            "G"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "L. categorical",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "L. categorical",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "L. categorical",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "L. categorical",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-18-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "L. categorical",
+          "options": [
+            {
+              "id": "A",
+              "text": "gratifying"
+            },
+            {
+              "id": "B",
+              "text": "longevity"
+            },
+            {
+              "id": "C",
+              "text": "ambition"
+            },
+            {
+              "id": "D",
+              "text": "optimistic"
+            },
+            {
+              "id": "E",
+              "text": "pessimistic"
+            },
+            {
+              "id": "F",
+              "text": "difficulty"
+            },
+            {
+              "id": "G",
+              "text": "inconclusive"
+            },
+            {
+              "id": "H",
+              "text": "self-image"
+            },
+            {
+              "id": "I",
+              "text": "grdual"
+            },
+            {
+              "id": "J",
+              "text": "unequivocal"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Depression",
+        "text": "(A) It is often more difficult for outsiders and non-sufferers to understand mental rather than physical illness in others. While it may be easy for us to sympathize with individuals living with the burden of a physical illness or disability, there is often a stigma attached to being mentally ill, or a belief that such conditions only exist in individuals who lack the strength of character to cope with the real world. The pressures of modern life seem to have resulted in an increase in cases of emotional disharmony and government initiatives in many countries have, of late, focused on increasing the general public's awareness and sympathy towards sufferers of mental illness and related conditions.\n\n(B) Clinical depression, or 'major depressive disorder', a state of extreme sadness or despair, is said to affect up to almost 20% of the population at some point in their lives prior to the age of 40. Studies have shown that this disorder is the leading cause of disability in North America; in the UK almost 3 million people are said to be diagnosed with some form of depression at any one time, and experts believe that as many as a further 9 million other cases may go undiagnosed. World Health Organization projections indicate that clinical depression may become the second most significant cause of disability on a global scale by 2020. However, such figures are not unanimously supported, as some experts believe that the diagnostic criteria used to identify the condition are not precise enough, leading to other types of depression being wrongly classified as 'clinical'.\n\n(C) Many of us may experience periods of low morale or mood and feelings of dejection, as a natural human response to negative events in our lives such as bereavement, redundancy or breakdown of a relationship. Some of us may even experience periods of depression and low levels of motivation which have no tangible reason or trigger. Clinical depression is classified as an on-going state of negativity, with no tangible cause, where sufferers enter a spiral of persistent negative thinking, often experiencing irritability, perpetual tiredness and listlessness. Sufferers of clinical depression are said to be at higher risk of resorting to drug abuse or even suicide attempts than the rest of the population.\n\n(D) Clinical depression is generally diagnosed when an individual is observed to exhibit an excessively depressed mood and/or 'anhedonia' – an inability to experience pleasure from positive experiences such as enjoying a meal or pleasurable social interaction – for a period of two weeks or more, in conjunction with five or more additional recognized symptoms. These additional symptoms may include overwhelming feelings of sadness; inability to sleep, or conversely, excessive sleeping; feelings of guilt, nervousness, abandonment or fear; inability to concentrate; interference with memory capabilities; fixation with death or extreme change in eating habits and associated weight gain or loss.\n\n(E) Clinical depression was originally solely attributed to chemical imbalance in the brain, and while anti-depressant drugs which work to optimize levels of 'feel good' chemicals – serotonin and nor-epinephrine – are still commonly prescribed today, experts now believe that onset of depression may be caused by a number, and often combination of, physiological and socio-psychological factors. Treatment approaches vary quite dramatically from place to place and are often tailored to an individual's particular situation; however, some variation of a combination of medication and psychotherapy is most commonly used. The more controversial electroconvulsive therapy (ECT) may also be used where initial approaches fail. In extreme cases, where an individual exhibits behaviour which indicates that they may cause physical harm to themselves, psychiatric hospitalization may be necessary as a form of intensive therapy.\n\n(F) Some recent studies, such as those published by the Archives of General Psychiatry, hold that around a quarter of diagnosed clinical depression cases should actually be considered as significant but none-the-less ordinary sadness and maladjustment to coping with trials in life, indicating that in such cases, psychotherapy rather than treatment through medication is required. Recovery as a result of psychotherapy tends, in most cases, to be a slower process than improvements related to medication; however, improvements as a result of psychological treatment, once achieved, have been observed in some individuals to be more long term and sustainable than those attained through prescription drugs. Various counseling approaches exist, though all focus on enhancing the subject's ability to function on a personal and interpersonal level. Sessions involve encouragement of an individual to view themselves and their relationships in a more positive manner, with the intention of helping patients to replace negative thoughts with a more positive outlook.\n\n(G) It is apparent that susceptibility to depression can run in families. However, it remains unclear as to whether this is truly an inherited genetic trait or whether biological and environmental factors common to family members may be at the root of the problem. In some cases, sufferers of depression may need to unlearn certain behaviours and attitudes they have established in life and develop new coping strategies designed to help them deal with problems they may encounter, undoing patterns of destructive behaviour they may have observed in their role models and acquired for themselves."
+      }
+    }
+  ]
+}

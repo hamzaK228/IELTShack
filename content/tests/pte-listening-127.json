@@ -1,0 +1,736 @@
+{
+  "id": "pte-listening-127",
+  "title": "Listening — Practice Test 127",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-127-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the applicant work on for a living? ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-127-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What kind of pet does the applicant have? ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-127-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "$ 445perfect price______",
+          "answer": "too high",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "$ 395______too small",
+          "answer": "cheap",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "$ 565______further away",
+          "answer": "accept",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: ______ Harbour Square",
+          "answer": "224 williams avenue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following are included at the apartment in Harbour Square?",
+          "options": [
+            {
+              "id": "A",
+              "text": "garbage disposal"
+            },
+            {
+              "id": "B",
+              "text": "swimming pool"
+            },
+            {
+              "id": "C",
+              "text": "air conditioner"
+            },
+            {
+              "id": "D",
+              "text": "double bed"
+            },
+            {
+              "id": "E",
+              "text": "washing machine"
+            },
+            {
+              "id": "F",
+              "text": "clock"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following are included at the apartment in Harbour Square?",
+          "options": [
+            {
+              "id": "A",
+              "text": "garbage disposal"
+            },
+            {
+              "id": "B",
+              "text": "swimming pool"
+            },
+            {
+              "id": "C",
+              "text": "air conditioner"
+            },
+            {
+              "id": "D",
+              "text": "double bed"
+            },
+            {
+              "id": "E",
+              "text": "washing machine"
+            },
+            {
+              "id": "F",
+              "text": "clock"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO things does the client request before moving in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "new furniture"
+            },
+            {
+              "id": "B",
+              "text": "windows fixed"
+            },
+            {
+              "id": "C",
+              "text": "carpets cleaned"
+            },
+            {
+              "id": "D",
+              "text": "new washer and dryer"
+            },
+            {
+              "id": "E",
+              "text": "parking spot"
+            },
+            {
+              "id": "F",
+              "text": "new kitchen floors"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO things does the client request before moving in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "new furniture"
+            },
+            {
+              "id": "B",
+              "text": "windows fixed"
+            },
+            {
+              "id": "C",
+              "text": "carpets cleaned"
+            },
+            {
+              "id": "D",
+              "text": "new washer and dryer"
+            },
+            {
+              "id": "E",
+              "text": "parking spot"
+            },
+            {
+              "id": "F",
+              "text": "new kitchen floors"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Elizabeth encourage students to join the athletic programme?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it helps he stay in shape"
+            },
+            {
+              "id": "B",
+              "text": "it has taught her about teamwork and friendship"
+            },
+            {
+              "id": "C",
+              "text": "it has been a fun but painful experience"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How does Elizabeth have time for both gymnastics and academics?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she is very efficient"
+            },
+            {
+              "id": "B",
+              "text": "she studies very quickly"
+            },
+            {
+              "id": "C",
+              "text": "she is very organized"
+            },
+            {
+              "id": "D",
+              "text": "she is very intelligent"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are Elizabeth's study habits?",
+          "options": [
+            {
+              "id": "A",
+              "text": "take classes that she is interested in"
+            },
+            {
+              "id": "B",
+              "text": "take easier classes"
+            },
+            {
+              "id": "C",
+              "text": "study for all her classes at once"
+            },
+            {
+              "id": "D",
+              "text": "study for each class one at a time"
+            },
+            {
+              "id": "E",
+              "text": "she studies away from distractions"
+            },
+            {
+              "id": "F",
+              "text": "she studies with the television on"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are Elizabeth's study habits?",
+          "options": [
+            {
+              "id": "A",
+              "text": "take classes that she is interested in"
+            },
+            {
+              "id": "B",
+              "text": "take easier classes"
+            },
+            {
+              "id": "C",
+              "text": "study for all her classes at once"
+            },
+            {
+              "id": "D",
+              "text": "study for each class one at a time"
+            },
+            {
+              "id": "E",
+              "text": "she studies away from distractions"
+            },
+            {
+              "id": "F",
+              "text": "she studies with the television on"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What are Elizabeth's study habits?",
+          "options": [
+            {
+              "id": "A",
+              "text": "take classes that she is interested in"
+            },
+            {
+              "id": "B",
+              "text": "take easier classes"
+            },
+            {
+              "id": "C",
+              "text": "study for all her classes at once"
+            },
+            {
+              "id": "D",
+              "text": "study for each class one at a time"
+            },
+            {
+              "id": "E",
+              "text": "she studies away from distractions"
+            },
+            {
+              "id": "F",
+              "text": "she studies with the television on"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who helped to start Elizabeth's participation in gymnastics?",
+          "options": [
+            {
+              "id": "A",
+              "text": "herself"
+            },
+            {
+              "id": "B",
+              "text": "her parents"
+            },
+            {
+              "id": "C",
+              "text": "her sister"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Elizabeth say that her first year of university was the best experience of her life?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she met her best friends"
+            },
+            {
+              "id": "B",
+              "text": "she made the gymnastics team"
+            },
+            {
+              "id": "C",
+              "text": "she met her boyfriend"
+            },
+            {
+              "id": "D",
+              "text": "she learned to be independent"
+            },
+            {
+              "id": "E",
+              "text": "she achieved high grades"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Elizabeth say that her first year of university was the best experience of her life?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she met her best friends"
+            },
+            {
+              "id": "B",
+              "text": "she made the gymnastics team"
+            },
+            {
+              "id": "C",
+              "text": "she met her boyfriend"
+            },
+            {
+              "id": "D",
+              "text": "she learned to be independent"
+            },
+            {
+              "id": "E",
+              "text": "she achieved high grades"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What was the effect of Elizabeth breaking her wrist?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she was unable to do her homework"
+            },
+            {
+              "id": "B",
+              "text": "she was unable to participate in sports"
+            },
+            {
+              "id": "C",
+              "text": "she was unable to write at all"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Elizabeth say that breaking her wrist made her stronger as a person?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she learned to value the people close to her"
+            },
+            {
+              "id": "B",
+              "text": "she learned to value the use of her hand"
+            },
+            {
+              "id": "C",
+              "text": "she learned to value her participation in sports"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Condors will be reestablished in their former ______",
+          "answer": "range",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The last condors died out in Baja in the ______",
+          "answer": "1930",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The area is preferred because it is very with not many people. ______",
+          "answer": "isolated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Four to eight birds will be every year. ______",
+          "answer": "released",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The number of birds an area can hold is called its ______",
+          "answer": "carrying capacity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Within 10 yearscondors flying ______",
+          "answer": "north",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Within ______years150 birds",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "List of advantages",
+          "options": [
+            {
+              "id": "A",
+              "text": "follow condors fast enough"
+            },
+            {
+              "id": "B",
+              "text": "not bother people living nearby"
+            },
+            {
+              "id": "C",
+              "text": "cheaper than other alternatives"
+            },
+            {
+              "id": "D",
+              "text": "monitor where planes cannot"
+            },
+            {
+              "id": "E",
+              "text": "keep you off dangerous roads"
+            },
+            {
+              "id": "F",
+              "text": "gauge effectiveness of reintroduction"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "List of advantages",
+          "options": [
+            {
+              "id": "A",
+              "text": "follow condors fast enough"
+            },
+            {
+              "id": "B",
+              "text": "not bother people living nearby"
+            },
+            {
+              "id": "C",
+              "text": "cheaper than other alternatives"
+            },
+            {
+              "id": "D",
+              "text": "monitor where planes cannot"
+            },
+            {
+              "id": "E",
+              "text": "keep you off dangerous roads"
+            },
+            {
+              "id": "F",
+              "text": "gauge effectiveness of reintroduction"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "List of advantages",
+          "options": [
+            {
+              "id": "A",
+              "text": "follow condors fast enough"
+            },
+            {
+              "id": "B",
+              "text": "not bother people living nearby"
+            },
+            {
+              "id": "C",
+              "text": "cheaper than other alternatives"
+            },
+            {
+              "id": "D",
+              "text": "monitor where planes cannot"
+            },
+            {
+              "id": "E",
+              "text": "keep you off dangerous roads"
+            },
+            {
+              "id": "F",
+              "text": "gauge effectiveness of reintroduction"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Influence: Leopold's concept that land should be viewed as a ______",
+          "answer": "community",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Practice: Restore ______ to original condition",
+          "answer": "native plant communities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Curtis Prairie is the ______ restored prairie in America.",
+          "answer": "oldest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Edmond Moukala researched restoring ______ in the Congo based on the (35) found in the soil of those former communities in his homeland.",
+          "answer": "(ancient) wetlands",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Edmond Moukala researched restoring (34) in the Congo based on the ______ found in the soil of those former communities in his homeland.",
+          "answer": "seeds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Coursework in statistics, theory, ecology and ______",
+          "answer": "plant identification",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ help students gain practical experience.",
+          "answer": "internships",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• He so far granted ______ Masters Degree and 122 Ph.D.s. One former student is now the (39) of the World Wide Fund for Nature, while many others continue to conduct (40) in their own university programmes.",
+          "answer": "277",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• He so far granted (38) Masters Degree and 122 Ph.D.s. One former student is now the ______ of the World Wide Fund for Nature, while many others continue to conduct (40) in their own university programmes.",
+          "answer": "director",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-127-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• He so far granted (38) Masters Degree and 122 Ph.D.s. One former student is now the (39) of the World Wide Fund for Nature, while many others continue to conduct ______ in their own university programmes.",
+          "answer": "research",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/127_deep.mp3"
+    }
+  ]
+}

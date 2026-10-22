@@ -1,0 +1,890 @@
+{
+  "id": "pte-reading-51",
+  "title": "Academic Reading — Practice Test 51",
+  "kind": "practice",
+  "description": "3 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: The creativity myth",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-51-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the way parameters in the mind help people to be creative",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the need to learn rules in order to break them",
+          "options": [
+            {
+              "id": "A",
+              "text": "are usually born with their talents"
+            },
+            {
+              "id": "B",
+              "text": "are born with their talents"
+            },
+            {
+              "id": "C",
+              "text": "are not born with their talents"
+            },
+            {
+              "id": "D",
+              "text": "are geniuses"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "how habits restrict us and limit creativity",
+          "options": [
+            {
+              "id": "A",
+              "text": "are usually born with their talents"
+            },
+            {
+              "id": "B",
+              "text": "are born with their talents"
+            },
+            {
+              "id": "C",
+              "text": "are not born with their talents"
+            },
+            {
+              "id": "D",
+              "text": "are geniuses"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "how to train the mind to be creative",
+          "options": [
+            {
+              "id": "A",
+              "text": "are usually born with their talents"
+            },
+            {
+              "id": "B",
+              "text": "are born with their talents"
+            },
+            {
+              "id": "C",
+              "text": "are not born with their talents"
+            },
+            {
+              "id": "D",
+              "text": "are geniuses"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "how the mind is trapped by the desire for order",
+          "options": [
+            {
+              "id": "A",
+              "text": "are usually born with their talents"
+            },
+            {
+              "id": "B",
+              "text": "are born with their talents"
+            },
+            {
+              "id": "C",
+              "text": "are not born with their talents"
+            },
+            {
+              "id": "D",
+              "text": "are geniuses"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer, creative people",
+          "options": [
+            {
+              "id": "A",
+              "text": "are usually born with their talents"
+            },
+            {
+              "id": "B",
+              "text": "are born with their talents"
+            },
+            {
+              "id": "C",
+              "text": "are not born with their talents"
+            },
+            {
+              "id": "D",
+              "text": "are geniuses"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q7",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer, creativity is",
+          "options": [
+            {
+              "id": "A",
+              "text": "a gift from God or nature"
+            },
+            {
+              "id": "B",
+              "text": "an automatic response"
+            },
+            {
+              "id": "C",
+              "text": "difficult for many people to achieve"
+            },
+            {
+              "id": "D",
+              "text": "a well-trodden path"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer",
+          "options": [
+            {
+              "id": "A",
+              "text": "the human race’s fight to live is becoming a tyranny"
+            },
+            {
+              "id": "B",
+              "text": "the human brain is blocked with cholesterol"
+            },
+            {
+              "id": "C",
+              "text": "the human race is now circumscribed by talents"
+            },
+            {
+              "id": "D",
+              "text": "the human race’s fight to survive stifles creative ability"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Advancing technology",
+          "options": [
+            {
+              "id": "A",
+              "text": "holds creativity in check"
+            },
+            {
+              "id": "B",
+              "text": "improves creativity"
+            },
+            {
+              "id": "C",
+              "text": "enhances creativity"
+            },
+            {
+              "id": "D",
+              "text": "is a tyranny"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the author, creativity",
+          "options": [
+            {
+              "id": "A",
+              "text": "is common"
+            },
+            {
+              "id": "B",
+              "text": "is increasingly common"
+            },
+            {
+              "id": "C",
+              "text": "is becoming rarer and rarer"
+            },
+            {
+              "id": "D",
+              "text": "is a rare commodity"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rules and regulations are examples of parameters.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The truly creative mind is associated with the need for free speech and a totally free society.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "One problem with creativity is that people think it is impossible.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The act of creation is linked to madness.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "The creativity myth",
+        "text": "(A) It is a myth that creative people are born with their talents: gifts from God or nature. Creative genius is, in fact, latent within many of us, without our realising. But how far do we need to travel to find the path to creativity? For many people, a long way. In our everyday lives, we have to perform many acts out of habit to survive, like opening the door, shaving, getting dressed, walking to work, and so on. If this were not the case, we would, in all probability, become mentally unhinged. So strongly ingrained are our habits, though this varies from person to person, that sometimes, when a conscious effort is made to be creative, automatic response takes over. We may try, for example, to walk to work following a different route, but end up on our usual path. By then it is too late to go back and change our minds. Another day, perhaps. The same applies to all other areas of our lives. When we are solving problems, for example, we may seek different answers, but, often as not, find ourselves walking along the same well-trodden paths.\n\n(B) So, for many people, their actions and behaviour are set in immovable blocks, their minds clogged with the cholesterol of habitual actions, preventing them from operating freely, and thereby stifling creation. Unfortunately, mankind's very struggle for survival has become a tyranny – the obsessive desire to give order to the world is a case in point. Witness people's attitude to time, social customs and the panoply of rules and regulations by which the human mind is now circumscribed.\n\n(C) The groundwork for keeping creative ability in check begins at school. School, later university and then work, teach us to regulate our lives, imposing a continuous process of restrictions which is increasing exponentially with the advancement of technology. Is it surprising then that creative ability appears to be so rare? It is trapped in the prison that we have erected. Yet, even here in this hostile environment, the foundations for creativity are being laid; because setting off on the creative path is also partly about using rules and regulations. Such limitations are needed so that once they are learnt, they can be broken.\n\n(D) The truly creative mind is often seen as totally free and unfettered. But a better image is of a mind, which can be free when it wants, and one that recognises that rules and regulations are parameters, or barriers, to be raised and dropped again at will. An example of how the human mind can be trained to be creative might help here. People's minds are just like tense muscles that need to be freed up and the potential unlocked. One strategy is to erect artificial barriers or hurdles in solving a problem. As a form of stimulation, the participants in the task can be forbidden to use particular solutions or to follow certain lines of thought to solve a problem. In this way they are obliged to explore unfamiliar territory, which may lead to some startling discoveries. Unfortunately, the difficulty in this exercise, and with creation itself, is convincing people that creation is possible, shrouded as it is in so much myth and legend. There is also an element of fear involved, however subliminal, as deviating from the safety of one's own thought patterns is very much akin to madness. But, open Pandora's box, and a whole new world unfolds before your very eyes.\n\n(E) Lifting barriers into place also plays a major part in helping the mind to control ideas rather than letting them collide at random. Parameters act as containers for ideas, and thus help the mind to fix on them. When the mind is thinking laterally, and two ideas from different areas of the brain come or are brought together, they form a new idea, just like atoms floating around and then forming a molecule. Once the idea has been formed, it needs to be contained or it will fly away, so fleeting is its passage. The mind needs to hold it in place for a time so that it can recognise it or call on it again. And then the parameters can act as channels along which the ideas can flow, developing and expanding. When the mind has brought the idea to fruition by thinking it through to its final conclusion, the parameters can be brought down and the idea allowed to float off and come in contact with other ideas."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Locked doors open access",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-51-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the author, one thing we long for is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the safety of the home"
+            },
+            {
+              "id": "B",
+              "text": "security"
+            },
+            {
+              "id": "C",
+              "text": "open access"
+            },
+            {
+              "id": "D",
+              "text": "positive virtues"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Access to many buildings",
+          "options": [
+            {
+              "id": "A",
+              "text": "is unauthorized"
+            },
+            {
+              "id": "B",
+              "text": "is becoming more difficult"
+            },
+            {
+              "id": "C",
+              "text": "is a cause of crime in many urban areas"
+            },
+            {
+              "id": "D",
+              "text": "used to be called ‘Reception’"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Buildings used to permit access to any users",
+          "options": [
+            {
+              "id": "A",
+              "text": "but now they do not"
+            },
+            {
+              "id": "B",
+              "text": "and still do now"
+            },
+            {
+              "id": "C",
+              "text": "especially offices and schools"
+            },
+            {
+              "id": "D",
+              "text": "especially in urban areas"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Secure zones",
+          "options": [
+            {
+              "id": "A",
+              "text": "do not allow access to the user"
+            },
+            {
+              "id": "B",
+              "text": "compartmentalise the user"
+            },
+            {
+              "id": "C",
+              "text": "are often like traps"
+            },
+            {
+              "id": "D",
+              "text": "are not accessible to everybody"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been ______by technology. Messages are (20) ______with passwords not allowing (21) ______to read someone else's messages. But, while individuals are becoming increasingly (22) ______socially by the way they do their job, at the same time more value is being put on (23) ______However, e-mail and voice-mail have led to a (24) ______opportunities for person-to-person communication.",
+          "answer": "solved",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been (19) ______by technology. Messages are ______with passwords not allowing (21) ______to read someone else's messages. But, while individuals are becoming increasingly (22) ______socially by the way they do their job, at the same time more value is being put on (23) ______However, e-mail and voice-mail have led to a (24) ______opportunities for person-to-person communication.",
+          "answer": "protected",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been (19) ______by technology. Messages are (20) ______with passwords not allowing ______to read someone else's messages. But, while individuals are becoming increasingly (22) ______socially by the way they do their job, at the same time more value is being put on (23) ______However, e-mail and voice-mail have led to a (24) ______opportunities for person-to-person communication.",
+          "answer": "other people",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been (19) ______by technology. Messages are (20) ______with passwords not allowing (21) ______to read someone else's messages. But, while individuals are becoming increasingly ______socially by the way they do their job, at the same time more value is being put on (23) ______However, e-mail and voice-mail have led to a (24) ______opportunities for person-to-person communication.",
+          "answer": "cut-off",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been (19) ______by technology. Messages are (20) ______with passwords not allowing (21) ______to read someone else's messages. But, while individuals are becoming increasingly (22) ______socially by the way they do their job, at the same time more value is being put on ______However, e-mail and voice-mail have led to a (24) ______opportunities for person-to-person communication.",
+          "answer": "team-work",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The problem of physical access to buildings has now been (19) ______by technology. Messages are (20) ______with passwords not allowing (21) ______to read someone else's messages. But, while individuals are becoming increasingly (22) ______socially by the way they do their job, at the same time more value is being put on (23) ______However, e-mail and voice-mail have led to a ______opportunities for person-to-person communication.",
+          "answer": "decrease in",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer does not like______",
+          "answer": "touch-tone systems",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An individual's Home Page indicates their______on the Internet.",
+          "answer": "electronic presence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Devices like mobile phones mean that location is______",
+          "answer": "no longer geographical",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The Sperrin Mountains",
+          "options": [
+            {
+              "id": "A",
+              "text": "is common"
+            },
+            {
+              "id": "B",
+              "text": "is increasingly common"
+            },
+            {
+              "id": "C",
+              "text": "is becoming rarer and rarer"
+            },
+            {
+              "id": "D",
+              "text": "is a rare commodity"
+            },
+            {
+              "id": "F",
+              "text": "A mile or so to the east of the castle lies Port na Spaniagh, where the Neapolitan Galleas, Girona, from the Spanish Armada went down one dark October night in 1588 on its way to Scotland. Of the 1500-odd men on board, nine survived."
+            },
+            {
+              "id": "E",
+              "text": "E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Locked doors open access",
+        "text": "The word, 'security', has both positive and negative connotations. Most of us would say that we crave security for all its positive virtues, both physical and psychological – its evocation of the safety of home, of undying love, or of freedom from need. More negatively, the word nowadays conjures up images of that huge industry which has developed to protect individuals and property from invasion by 'outsiders', ostensibly malicious and intent on theft or wilful damage. Increasingly, because they are situated in urban areas of escalating crime, those buildings which used to allow free access to employees and other users (buildings such as offices, schools, colleges or hospitals) now do not. Entry areas which in another age were called 'Reception' are now manned by security staff. Receptionists, whose task it was to receive visitors and to make them welcome before passing them on to the person they had come to see, have been replaced by those whose task it is to bar entry to the unauthorized, the unwanted or the plain unappealing. Inside, these buildings are divided into 'secure zones' which often have all the trappings of combination locks and burglar alarms. These devices bar entry to the uninitiated, hinder circulation, and create parameters of time and space for user access. Within the spaces created by these zones, individual rooms are themselves under lock and key, which is a particular problem when it means that working space becomes compartmentalized. To combat the consequent difficulty of access to people at a physical level, we have now developed technological access. Computers sit on every desk and are linked to one another, and in many cases to an external universe of other computers, so that messages can be passed to and fro. Here too security plays a part, since we must not be allowed access to messages destined for others. And so the password was invented. Now correspondence between individuals goes from desk to desk and cannot be accessed by colleagues. Library catalogues can be searched from one's desk. Papers can be delivered to, and received from, other people at the press of a button. And yet it seems that, just as work is isolating individuals more and more, organizations are recognizing the advantages of 'team-work'; perhaps in order to encourage employees to talk to one another again. Yet, how can groups work in teams if the possibilities for communication are reduced? How can they work together if e-mail provides a convenient electronic shield behind which the blurring of public and private can be exploited by the less scrupulous? If voice-mail walls up messages behind a password? If I can't leave a message on my colleague's desk because his office is locked? Team-work conceals the fact that another kind of security, 'job security', is almost always not on offer. Just as organizations now recognize three kinds of physical resources: those they buy, those they lease long-term and those they rent short-term – so it is with their human resources. Some employees have permanent contracts, some have short-term contracts, and some are regarded simply as casual labour. Telecommunication systems offer us the direct line, which means that individuals can be contacted without the caller having to talk to anyone else. Voice-mail and the answer-phone mean that individuals can communicate without ever actually talking to one another. If we are unfortunate enough to contact organizations with sophisticated touch-tone systems, we can buy things and pay for them without ever speaking to a human being. To combat this closing in on ourselves we have the Internet, which opens out communication channels more widely than anyone could possibly want or need. An individual's electronic presence on the Internet is known as a 'Home Page' – suggesting the safety and security of an electronic hearth. An elaborate system of 3-dimensional graphics distinguishes this very 2-dimensional medium of 'web sites'. The nomenclature itself creates the illusion of a geographical entity, that the person sitting before the computer is travelling, when in fact the 'site' is coming to him. 'Addresses' of one kind or another move to the individual, rather than the individual moving between them, now that location is no longer geographical. An example of this is the mobile phone. I am now not available either at home or at work, but wherever I take my mobile phone. Yet, even now, we cannot escape the security of wanting to 'locate' the person at the other end. It is no coincidence that almost everyone we see answering or initiating a mobile phone-call in public begins by saying where he or she is."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Passage 3",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-51-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Dunluce Castle",
+          "options": [
+            {
+              "id": "A",
+              "text": "an unsettling place"
+            },
+            {
+              "id": "B",
+              "text": "a relaxing place"
+            },
+            {
+              "id": "C",
+              "text": "a boring place"
+            },
+            {
+              "id": "D",
+              "text": "an exciting place"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Inishowen",
+          "options": [
+            {
+              "id": "A",
+              "text": "an unsettling place"
+            },
+            {
+              "id": "B",
+              "text": "a relaxing place"
+            },
+            {
+              "id": "C",
+              "text": "a boring place"
+            },
+            {
+              "id": "D",
+              "text": "an exciting place"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The Glens of Antrim",
+          "options": [
+            {
+              "id": "A",
+              "text": "an unsettling place"
+            },
+            {
+              "id": "B",
+              "text": "a relaxing place"
+            },
+            {
+              "id": "C",
+              "text": "a boring place"
+            },
+            {
+              "id": "D",
+              "text": "an exciting place"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-reading-51-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "After 1639 the castle of Dunluce was not completely uninhabited.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "For the author, Dunluce Castle evokes another period of history.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There were more than 1500 men on the Girona when it went down.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The writer believes that the Giant's Causeway is worth going to visit.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The author recommends twilight as the best time to visit the Giant's Causeway.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The more sturdy cage added to the Carrick-a-Rede Rope Bridge has helped to increase the number of visitors to the area.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer feels that the Giant's Causeway is",
+          "options": [
+            {
+              "id": "A",
+              "text": "an unsettling place"
+            },
+            {
+              "id": "B",
+              "text": "a relaxing place"
+            },
+            {
+              "id": "C",
+              "text": "a boring place"
+            },
+            {
+              "id": "D",
+              "text": "an exciting place"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-51-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following would be a good title for the passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The Roe Valley Park"
+            },
+            {
+              "id": "B",
+              "text": "The Giant’s Causeway"
+            },
+            {
+              "id": "C",
+              "text": "Going East to West"
+            },
+            {
+              "id": "D",
+              "text": "A leap into history"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Passage 3",
+        "text": "(A) Between the Inishowen peninsula, north west of Derry, and the Glens of Antrim, in the east beyond the Sperrin Mountains, is found some of Western Europe's most captivating and alluring landscape.\n\n(B) The Roe Valley Park, some 15 miles east of Derry is a prime example. The Park, like so many Celtic places, is steeped in history and legend. As the Roe trickles down through heather bogs in the Sperrin Mountains to the South, it is a river by the time it cuts through what was once called the 'garden of the soul' – in Celtic 'Gortenanima'.\n\n(C) The castle of O'Cahan once stood here and a number of houses which made up the town of Limavady. The town takes its name from the legend of a dog leaping into the river Roe carrying a message, or perhaps chasing a stag. This is a wonderful place, where the water traces its way through rock and woodland; at times, lingering in brooding pools of dark cool water under the shade of summer trees, and, at others, forming weirs and leads for water mills now long gone.\n\n(D) The Roe, like all rivers, is witness to history and change. To Mullagh Hill, on the west bank of the River Roe just outside the present day town of Limavady, St Columba came in 575 AD for the Convention of Drumceatt. The world is probably unaware that it knows something of Limavady; but the town is, in fact, renowned for Jane Ross's song Danny Boy, written to a tune once played by a tramp in the street. Limavady town itself and many of the surrounding villages have Celtic roots but no one knows for sure just how old the original settlement of Limavady is.\n\n(E) Some 30 miles along the coast road from Limavady, one comes upon the forlorn, but imposing ruin of Dunluce Castle, which stands on a soft basalt outcrop, in defiance of the turbulent Atlantic lashing it on all sides. The jagged-toothed ruins sit proud on their rock top commanding the coastline to east and west. The only connection to the mainland is by a narrow bridge. Until the kitchen court fell into the sea in 1639 killing several servants, the castle was fully inhabited. In the next hundred years so, the structure gradually fell into its present dramatic state of disrepair, stripped of its roofs by wind and weather and robbed by man of its carved stonework. Ruined and forlorn its aspect may be yet, in the haunting Celtic twilight of the long summer evenings, it is redolent of another age, another dream.\n\n(F) A mile or so to the east of the castle lies Port na Spaniagh, where the Neapolitan Galleas, Girona, from the Spanish Armada went down one dark October night in 1588 on its way to Scotland. Of the 1500-odd men on board, nine survived.\n\n(G) Even further to the east, is the Giant's Causeway stunning coastline with strangely symmetrical columns of dark basalt – a beautiful geological wonder. Someone once said of the Causeway that it was worth seeing, but not worth going to see. That was in the days of horses and carriages, when travelling was difficult. But it is certainly well worth a visit. The last lingering moments of the twilight hours are the best time to savour the full power of the coastline's magic; the time when the place comes into its own. The tourists are gone and if you are very lucky you will be alone. A fine circular walk will take you down to the Grand Causeway, past amphitheatres of stone columns and formations. It is not frightening, but there is a power in the place – tangible, yet inexplicable. The blackness of some nights conjure up feelings of eeriness and unease. The visitor realises his place in the scheme of the magnificent spectacle. Once experienced, it is impossible to forget the grandeur of the landscape.\n\n(H) Beyond the Causeway, connecting the mainland with an outcrop of rock jutting out of the turbulent Atlantic, is the Carrick-a-Rede Rope Bridge. When first constructed, the bridge was a simple rope handrail with widely spaced slats which was used mainly by salmon fishermen needing to travel from the island to the mainland. In time, the single handrail was replaced with a more sturdy caged bridge however, it is still not a crossing for the faint-hearted. The Bridge swings above a chasm of rushing, foaming water that seems to drag the unwary down, and away. Many visitors who make the walk one way are unable to return resulting in them being taken off the island by boat."
+      }
+    }
+  ]
+}

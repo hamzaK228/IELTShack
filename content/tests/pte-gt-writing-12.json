@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-12",
+  "title": "General Training Writing — Letter 12",
+  "kind": "practice",
+  "description": "Task 1 letter, 12 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-12-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are going on a short training course at a collage in Greenmount, Northern Ireland. You need somewhere to live while you are there.\nWrite a letter to the accommodation officer at the college. In your letter,\nexplain your situation\ndescribe the accommodation you require\nsay when you will need it",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

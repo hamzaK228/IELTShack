@@ -1,0 +1,704 @@
+{
+  "id": "pte-listening-86",
+  "title": "Listening — Practice Test 86",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-86-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact phone number: ______ 0044",
+          "answer": "2086132978",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Email address: ______ richard@ co.uk",
+          "answer": "visiontech",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Occupation: a local ______",
+          "answer": "doctor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of accommodation: a 2 bedroom apartment wanted (must have its own ______ )",
+          "answer": "garage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "No ______ required",
+          "answer": "furniture",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A ______ in the kitchen is preferable",
+          "answer": "fridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Preferred location: near a ______",
+          "answer": "school",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Maximum rent: ______ per month",
+          "answer": "950",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Other requests: the accommodation has to be ______ in the daytime",
+          "answer": "quiet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How did you first hear about us? Through a ______",
+          "answer": "friend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The police officer suggests neighbours give each other their ______",
+          "answer": "contact details",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Neighbours should discuss what to do if there's any kind of ______",
+          "answer": "emergency",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "It's a good idea to leave on the ______",
+          "answer": "radio",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Think carefully about where you put any ______",
+          "answer": "(extra) keys",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "It's a good idea to buy good-quality ______",
+          "answer": "(window) locks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "skate park",
+          "options": [
+            {
+              "id": "A",
+              "text": "install more lighting"
+            },
+            {
+              "id": "B",
+              "text": "have more police officers on patrol"
+            },
+            {
+              "id": "C",
+              "text": "remove surrounding vegetation"
+            },
+            {
+              "id": "D",
+              "text": "contact local police"
+            },
+            {
+              "id": "E",
+              "text": "fix damage quickly"
+            },
+            {
+              "id": "F",
+              "text": "change road design"
+            },
+            {
+              "id": "G",
+              "text": "use security cameras"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "local primary schools",
+          "options": [
+            {
+              "id": "A",
+              "text": "install more lighting"
+            },
+            {
+              "id": "B",
+              "text": "have more police officers on patrol"
+            },
+            {
+              "id": "C",
+              "text": "remove surrounding vegetation"
+            },
+            {
+              "id": "D",
+              "text": "contact local police"
+            },
+            {
+              "id": "E",
+              "text": "fix damage quickly"
+            },
+            {
+              "id": "F",
+              "text": "change road design"
+            },
+            {
+              "id": "G",
+              "text": "use security cameras"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Abbostford street",
+          "options": [
+            {
+              "id": "A",
+              "text": "install more lighting"
+            },
+            {
+              "id": "B",
+              "text": "have more police officers on patrol"
+            },
+            {
+              "id": "C",
+              "text": "remove surrounding vegetation"
+            },
+            {
+              "id": "D",
+              "text": "contact local police"
+            },
+            {
+              "id": "E",
+              "text": "fix damage quickly"
+            },
+            {
+              "id": "F",
+              "text": "change road design"
+            },
+            {
+              "id": "G",
+              "text": "use security cameras"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "shops on Victoria street",
+          "options": [
+            {
+              "id": "A",
+              "text": "install more lighting"
+            },
+            {
+              "id": "B",
+              "text": "have more police officers on patrol"
+            },
+            {
+              "id": "C",
+              "text": "remove surrounding vegetation"
+            },
+            {
+              "id": "D",
+              "text": "contact local police"
+            },
+            {
+              "id": "E",
+              "text": "fix damage quickly"
+            },
+            {
+              "id": "F",
+              "text": "change road design"
+            },
+            {
+              "id": "G",
+              "text": "use security cameras"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "supermarket car park",
+          "options": [
+            {
+              "id": "A",
+              "text": "install more lighting"
+            },
+            {
+              "id": "B",
+              "text": "have more police officers on patrol"
+            },
+            {
+              "id": "C",
+              "text": "remove surrounding vegetation"
+            },
+            {
+              "id": "D",
+              "text": "contact local police"
+            },
+            {
+              "id": "E",
+              "text": "fix damage quickly"
+            },
+            {
+              "id": "F",
+              "text": "change road design"
+            },
+            {
+              "id": "G",
+              "text": "use security cameras"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Mike suggests they begin their presentation by",
+          "options": [
+            {
+              "id": "A",
+              "text": "explaining what kind of harm is caused by fossil fuels."
+            },
+            {
+              "id": "B",
+              "text": "pointing out that biofuels were in use before fossil fuels."
+            },
+            {
+              "id": "C",
+              "text": "ensuring students know the difference between fossil fuels and biofuels."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Karina doesn't want to discuss the production of ethanol because",
+          "options": [
+            {
+              "id": "A",
+              "text": "other students will already be familiar with the process."
+            },
+            {
+              "id": "B",
+              "text": "there will not be time to cover more important information."
+            },
+            {
+              "id": "C",
+              "text": "they may not provide an accurate description."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which source of biofuel do the students agree is least environmentally friendly?",
+          "options": [
+            {
+              "id": "A",
+              "text": "sugar cane"
+            },
+            {
+              "id": "B",
+              "text": "corn"
+            },
+            {
+              "id": "C",
+              "text": "canola"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the main problem facing the development of the biofuel industry in the USA?",
+          "options": [
+            {
+              "id": "A",
+              "text": "inadequate infrastructure for transporting ethanol"
+            },
+            {
+              "id": "B",
+              "text": "not enough farmers growing biofuel crops"
+            },
+            {
+              "id": "C",
+              "text": "little government support of biofuel development"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Karina doubts that sugar cane production in Brazil will",
+          "options": [
+            {
+              "id": "A",
+              "text": "lead to the loss of wildlife habitats."
+            },
+            {
+              "id": "B",
+              "text": "create a large number of jobs in the biofuel sector."
+            },
+            {
+              "id": "C",
+              "text": "continue to provide enough energy for the country’s needs."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Karina and Mike conclude that in order to increase the use of biofuels",
+          "options": [
+            {
+              "id": "A",
+              "text": "the price of fossil fuels must go up."
+            },
+            {
+              "id": "B",
+              "text": "more machinery must be adapted to use them."
+            },
+            {
+              "id": "C",
+              "text": "production methods must be more energy-efficient."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(global) hunger ______",
+          "answer": "(global) hunger",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "pollution ______",
+          "answer": "pollution",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "wood ______",
+          "answer": "wood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "grass ______",
+          "answer": "grass",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In 1973, Mark Granovetter claimed that the influence of 'weak-ties' can affect the behaviour of populations in the fields of information science, politics and ______ Although friends-of-friends may be unlike us, they have similar enough (32) to have a beneficial effect on our lives. An example of this influence is when we hear about (33) Because information about them is provided by weak-ties. Since Granovetter proposed his theory, other studies have shown that weak-tie networks also benefit our (34)",
+          "answer": "marketing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In 1973, Mark Granovetter claimed that the influence of 'weak-ties' can affect the behaviour of populations in the fields of information science, politics and (31) Although friends-of-friends may be unlike us, they have similar enough ______ to have a beneficial effect on our lives. An example of this influence is when we hear about (33) Because information about them is provided by weak-ties. Since Granovetter proposed his theory, other studies have shown that weak-tie networks also benefit our (34)",
+          "answer": "interests",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In 1973, Mark Granovetter claimed that the influence of 'weak-ties' can affect the behaviour of populations in the fields of information science, politics and (31) Although friends-of-friends may be unlike us, they have similar enough (32) to have a beneficial effect on our lives. An example of this influence is when we hear about ______ Because information about them is provided by weak-ties. Since Granovetter proposed his theory, other studies have shown that weak-tie networks also benefit our (34)",
+          "answer": "jobs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In 1973, Mark Granovetter claimed that the influence of 'weak-ties' can affect the behaviour of populations in the fields of information science, politics and (31) Although friends-of-friends may be unlike us, they have similar enough (32) to have a beneficial effect on our lives. An example of this influence is when we hear about (33) Because information about them is provided by weak-ties. Since Granovetter proposed his theory, other studies have shown that weak-tie networks also benefit our ______",
+          "answer": "health",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which does the speaker believe are TWO real benefits of online social networking?",
+          "options": [
+            {
+              "id": "A",
+              "text": "people can gain higher self-esteem"
+            },
+            {
+              "id": "B",
+              "text": "people can access useful medical information"
+            },
+            {
+              "id": "C",
+              "text": "people can form relationships more quickly"
+            },
+            {
+              "id": "D",
+              "text": "people can improve academic performance"
+            },
+            {
+              "id": "E",
+              "text": "people can be reliably informed about current affairs"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which does the speaker believe are TWO real benefits of online social networking?",
+          "options": [
+            {
+              "id": "A",
+              "text": "people can gain higher self-esteem"
+            },
+            {
+              "id": "B",
+              "text": "people can access useful medical information"
+            },
+            {
+              "id": "C",
+              "text": "people can form relationships more quickly"
+            },
+            {
+              "id": "D",
+              "text": "people can improve academic performance"
+            },
+            {
+              "id": "E",
+              "text": "people can be reliably informed about current affairs"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO problems related to online social networking will increase, according to the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "criminal activity"
+            },
+            {
+              "id": "B",
+              "text": "poorer grades at school"
+            },
+            {
+              "id": "C",
+              "text": "a decline in physical fitness"
+            },
+            {
+              "id": "D",
+              "text": "less work done by employees"
+            },
+            {
+              "id": "E",
+              "text": "loss of career prospects"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO problems related to online social networking will increase, according to the speaker?",
+          "options": [
+            {
+              "id": "A",
+              "text": "criminal activity"
+            },
+            {
+              "id": "B",
+              "text": "poorer grades at school"
+            },
+            {
+              "id": "C",
+              "text": "a decline in physical fitness"
+            },
+            {
+              "id": "D",
+              "text": "less work done by employees"
+            },
+            {
+              "id": "E",
+              "text": "loss of career prospects"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO claims are made by Robin Dunbar about social networking sites?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They are not helpful for developing certain social skills."
+            },
+            {
+              "id": "B",
+              "text": "They cannot fully reveal a person's real character."
+            },
+            {
+              "id": "C",
+              "text": "They are not a good starting point for building new relationships."
+            },
+            {
+              "id": "D",
+              "text": "They do not encourage people to widen their social circle."
+            },
+            {
+              "id": "E",
+              "text": "They will not retain their popularity with the young generation."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-86-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO claims are made by Robin Dunbar about social networking sites?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They are not helpful for developing certain social skills."
+            },
+            {
+              "id": "B",
+              "text": "They cannot fully reveal a person's real character."
+            },
+            {
+              "id": "C",
+              "text": "They are not a good starting point for building new relationships."
+            },
+            {
+              "id": "D",
+              "text": "They do not encourage people to widen their social circle."
+            },
+            {
+              "id": "E",
+              "text": "They will not retain their popularity with the young generation."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/86_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "id": "pte-listening-119",
+  "title": "Listening — Practice Test 119",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-119-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many bottles of wine do you have to buy to get one free?",
+          "options": [
+            {
+              "id": "A",
+              "text": "one"
+            },
+            {
+              "id": "B",
+              "text": "three"
+            },
+            {
+              "id": "C",
+              "text": "four"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which type of wine do David's friends prefer?",
+          "options": [
+            {
+              "id": "A",
+              "text": "French"
+            },
+            {
+              "id": "B",
+              "text": "Italian"
+            },
+            {
+              "id": "C",
+              "text": "Spanish"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the price of the champagne?",
+          "options": [
+            {
+              "id": "A",
+              "text": "£20"
+            },
+            {
+              "id": "B",
+              "text": "£35"
+            },
+            {
+              "id": "C",
+              "text": "£25"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "mixed salad ______",
+          "answer": "mixed salad",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "greek salad ______",
+          "answer": "greek salad",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ with",
+          "answer": "bread (with) herbs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ with",
+          "answer": "cheese (with) peppers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Date when customers will be at the restaurant – ______",
+          "answer": "27 August",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Number of people – ______",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Email address – ______ .com",
+          "answer": "David.hamill@worthing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How did the players hit the ball when the game first launched in the 12th century?",
+          "options": [
+            {
+              "id": "A",
+              "text": "wit a bat"
+            },
+            {
+              "id": "B",
+              "text": "with a racquet"
+            },
+            {
+              "id": "C",
+              "text": "with their bare hand"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In the 16th century what kind of people found tennis most appealing?",
+          "options": [
+            {
+              "id": "A",
+              "text": "royal families"
+            },
+            {
+              "id": "B",
+              "text": "wealthy merchants"
+            },
+            {
+              "id": "C",
+              "text": "everyday people"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bjorn Borg______Swedish(14) ______won both Wimbledon and French Open in (15) ______more than once",
+          "answer": "1956",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bjorn Borg(13) ______Swedish______won both Wimbledon and French Open in (15) ______more than once",
+          "answer": "11",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bjorn Borg(13) ______Swedish(14) ______won both Wimbledon and French Open in ______more than once",
+          "answer": "same year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Boris Becker1967German______the youngest ever male grand slam singles champion at (17) ______months",
+          "answer": "6",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Boris Becker1967German(16) ______the youngest ever male grand slam singles champion at ______months",
+          "answer": "17 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Pete Sampras1971American______he started hitting tennis balls at the age of 3",
+          "answer": "14",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Andre Agassi______American8his first (20) ______was in La Quinta",
+          "answer": "1970",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Andre Agassi(19) ______American8his first ______was in La Quinta",
+          "answer": "tournament",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Professor Harman – good at running ______invitations to all speakers have to be types on the school's headed paper",
+          "answer": "workshops",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mr. Steve Bishop – ______among many universities in Englandthe photographer will take pictures for the school (25) ______",
+          "answer": "well-respected",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sandra Bolton will give some drama ______the caterers are called (26) ______",
+          "answer": "seminars",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sean O'Brien has done a lot of work in the field of ______the date of the next meeting will be on (27) ______",
+          "answer": "genetics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mr. Steve Bishop – (22) ______among many universities in Englandthe photographer will take pictures for the school ______",
+          "answer": "newsletter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sandra Bolton will give some drama (23) ______the caterers are called ______",
+          "answer": "flying fish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sean O'Brien has done a lot of work in the field of (24) ______the date of the next meeting will be on ______",
+          "answer": "wednesday 6 June",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 28. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-119-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 29. ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-119-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 30. ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-119-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "To calculate your Body Mass Index you should first take ______ in kilograms and divide it by your height in meters.",
+          "answer": "your weight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• There are people who ______ that starchy foods are fattening",
+          "answer": "(wrongly) think",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Eat a minimum of ______ of fruit and vegetables a day",
+          "answer": "five portions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• People tend to eat too much ______ and you only need a certain amount to keep healthy",
+          "answer": "protein",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• People say that ______ can help protect against heart disease",
+          "answer": "oily fish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o It tones our ______",
+          "answer": "muscles",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• We do less exercise because we have domestic ______ to do things for us",
+          "answer": "appliances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Adults should do at least ______ moderate intensity physical activity five days a week",
+          "answer": "30 minutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o A ______ activity",
+          "answer": "structured",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-119-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Activities that produce ______ on the bones are necessary",
+          "answer": "high physical stresses",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/119_we.mp3"
+    }
+  ]
+}

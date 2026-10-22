@@ -1,0 +1,474 @@
+{
+  "id": "pte-gt-reading-82",
+  "title": "General Training Reading — Practice Test 82",
+  "kind": "practice",
+  "description": "5 texts, 37 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: StudyWorld – Courses to help you grow",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-82-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course is the cheapest one offered at StudyWorld. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Most graduates in this subject find a job immediately. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This subject does not have to be studied full-time. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Teachers in this subject have worked in the field themselves. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Students in this subject must take part in a temporary work experience placement. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Students can access specific language assistance on this course. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Graduates in this subject have previously found jobs on board ships. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Students studying this course do not have to attend the StudyWorld college in person. ______",
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "StudyWorld – Courses to help you grow",
+        "text": "Here at StudyWorld, we have a variety of different courses with different demands. Many of our courses lead our students to a new job and career.\n\n(A) Design This full-time course is based at our main campus. We have superbly equipped studios that provide top of the range computer software and hardware, outstanding printing resources, a photography workshop with darkroom, a studio for fashion and fabrics and fine arts, and traditional processing resources for photography. You'll be taught by lecturers who are art and design experts, with experience in creative industries. They really know their stuff, so you'll get lots of hints and tips about working in this sector.\n\n(B) Hair and Beauty Our full-time courses in hairstyling and make-up for the media and entertainment industries take place in our specialised on-campus training studios, where all our students benefit from the experience of our skilled and motivated teaching team. There are lots of possibilities for jobs in hairdressing or beauty, and some of our past students have even gone on to become entrepreneurs with their own beauty studios. Our courses have led to a variety of rewarding jobs as hair stylists, beauticians, colour experts or salon managers and our students have ended up working in spas, 5-star resorts and on cruise liners. There's a lot of variety and the skills you will acquire can give you the opportunity to travel widely.\n\n(C) Hospitality and Catering Working in the hospitality sector can give you the chance to work all around the world and with over 300 hotels and restaurants in the locality, there are lots of work prospects near the college, too. Some of our students go on to jobs in the best hotels in the world. This is a two year full-time or three-year part-time course, with three months in an appointment at a hotel or restaurant. We always have many overseas students on this course and so students have access to special English support services if needed.\n\n(D) Sport and Fitness It doesn't matter whether our students want to study fitness or specific sports coaching, our courses will provide them with what they need to move forward. 95% of our graduating students move from college to a job immediately and this more than anything shows how good our courses are. We have brand new facilities, equipped with the latest kit and our instructors are all familiar with the latest in coaching and training methods. Studying sport and fitness with us is also not all about the work. There are lots of sporting opportunities to exploit and the college raises teams in football, rugby, netball and cricket amongst others.\n\n(E) Media Our full-time media course is completely taught and assessed online, and students are free to choose how they study. As long as assignments are completed on time and they contribute to discussion forums and live room discussions, students can work at their own pace and where they choose. Because of this course's teaching and assessment structure, its fees are considerably less than all our other courses."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: The Kenton Job Centre",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-82-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Kenton Job Centre is a service that used to ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Kenton Job Centre targets people who ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Part of the job of a personal advisor is to ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Interview skills can be improved if candidates ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Local businesses can find employees quickly and easily if they ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The Kenton Job Centre can help visitors",
+          "options": [
+            {
+              "id": "A",
+              "text": "sign an out-of-work declaration every two weeks."
+            },
+            {
+              "id": "B",
+              "text": "ensure people who receive unemployment benefit are fulfilling their responsibilities."
+            },
+            {
+              "id": "C",
+              "text": "ask the consultants in the Kenton Job Centre Plus Office for advice."
+            },
+            {
+              "id": "D",
+              "text": "are of the correct age for working."
+            },
+            {
+              "id": "E",
+              "text": "find training so that they can find new jobs."
+            },
+            {
+              "id": "F",
+              "text": "be a combination of different services."
+            },
+            {
+              "id": "G",
+              "text": "pass on their requirements to the Job Centre."
+            },
+            {
+              "id": "H",
+              "text": "spot the difference between proper work-from-home jobs and bad ones."
+            },
+            {
+              "id": "I",
+              "text": "are not responsible for being unemployed."
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The Kenton Job Centre",
+        "text": "The Kenton Job Centre is a part of the Department of Work and Pensions. It has taken over from the Employment Service, which ran the previous Kenton Work Agency, Benefits Agency and Social Security office. The Kenton Job Centre provides employment and benefit services for people of working age. Personal advisors offer support and advice in your job search along with training provisions and benefit guidance. Whilst giving support to the unemployed, the personal advisors are also required to ensure that those claiming unemployment benefits are performing their obligations. If you need help writing your CV, interview tips or maybe you could do with improving your literacy or numeracy skills, speak to the consultants in the Kenton Job Centre Plus Office, who will be happy to advise you. You'll also find the touch screen, interactive job points very helpful in your search for employment. Kenton Job Centre also offers assistance to Kenton employers. By informing the centre of their employee needs, the centre can find suitable candidates for the posts and employers are able to fill their vacancies quickly and successfully. Many people today want to work from home and online jobs could be the perfect solution for you. The Kenton Job Centre offers tips and advice to help you work online and earn a decent income, avoid work from home tricks and maximise your earning potential."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Making a complaint",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-82-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "2. Contact your ______who will also try and reach a resolution.",
+          "answer": "Line manager",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "3. Make the complaint in writing to someone in senior management (see ______for details on whom to write to). Explain the problem, what has already been done and what you think should happen. Don't forget to write (17) ______",
+          "answer": "(the) (company) website",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "3. Make the complaint in writing to someone in senior management (see (16) ______for details on whom to write to). Explain the problem, what has already been done and what you think should happen. Don't forget to write ______",
+          "answer": "(company) email address",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "5. You can appeal to the general manager, who will set up a ______at which you can make your case. The general manager and two other senior managers will consider the issue and you will be emailed within a week the decision.",
+          "answer": "(complaints) meeting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "6. You can appeal to the company director who might refer the case to an impartial ______whose decision must be accepted by the company and employee.",
+          "answer": "Mediator",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "NB: It's best that you keep a ______of the procedure.",
+          "answer": "(written) record",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Making a complaint",
+        "text": "From time to time, we have employees who have the need to make a complaint about something that happens here at work. This is something that we take very seriously and so we have created a process that you can follow, so that you know what to do if there is something that you need to complain about. First of all, it's usually best to deal with a complaint informally. If you feel you can, speak to the person or people who are involved and try and work out an amicable solution. If that does not work, then a further stage can be tried. Speak to your line manager (if the line manager is involved, speak to the line manager above him or her) and explain. He or she will try and resolve the problem with the people involved. We find that nearly all the problems within our company get solved with these informal procedures. If the above two strategies do not work, you must begin the formal process of making a complaint. Our complaint procedure requires that a complaint should be made in writing and submitted to a member of the senior management. These people are clearly indicated on the company website. Employees should make clear the nature of their complaint, what they have already done informally to solve the problem and what would be their preferred solution. Employees must also supply their company email address. Once an official complaint has been made, the company grievance procedure goes into operation. The senior manager will review the complaint and write an email to the employee who complained before the end of twenty-four hours. The senior manager will explain how he or she will handle the complaint. Before the end of a week, the senior manager will write an email again with his decision. The employee can choose to accept or reject this decision. If the employee rejects the decision, he or she can appeal to the general manager, who will have been previously made aware of the complaint. The appeal should again be done in writing. The general manager will instigate a complaints meeting, where the employee can give his position verbally and in writing. The general manager and two other senior managers will listen and discuss the issue. Again, within a week, the general manager will send an email with the decision. If the employee still does not accept the decision, he or she can appeal again to the company director. If the director feels the appeal has merit, the case can be referred to an independent mediator. The employee and company must agree in writing before the mediation meeting to abide by the mediator's decision. This is the end of our complaints procedure. The managers involved are required to keep a written record of what happens during any complaint procedure. It is advised that employees do the same."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Using your computer safely at work",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-82-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Using a______can help workers keep their knees and hips aligned.",
+          "answer": "Footrest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Workers who______their legs can suffer from difficulties with their posture.",
+          "answer": "Cross",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Workers should think about buying a______so that their computer screen is at eye level.",
+          "answer": "Stand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some workers use a______so that their wrists are at the same level as their keyboard.",
+          "answer": "Rest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Workers should push away their______when they are frequently using the mouse instead.",
+          "answer": "Keyboard",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Stopping bright sunlight getting through the windows can reduce______on workers' eyes from the computer screens.",
+          "answer": "Glare",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Using______may result in workers putting their heads in awkward positions too often.",
+          "answer": "Bifocals",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Using your computer safely at work",
+        "text": "As we use computers here a lot in our company, we are very well aware that misuse of these devices can cause problems for the users. Computer workstations or other equipment can be associated with repetitive strain injuries (RSI's) in the neck, shoulder, back or arms, as well as with fatigue and eyestrain.\n\nSupport your back Avoid back pain by adjusting your chair so that your lower back is properly supported. A correctly adjusted chair will reduce the strain on your back. Make sure you have one that is easily adjustable, so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this.\n\nAdjust your chair Adjust your chair height so that you can use the keyboard with your wrists and forearms straight and level with the floor. This can help prevent RSI's. Your elbows should be by the side of your body, so that the arm forms an L-shape at the elbow.\n\nRest your feet on the floor Your feet should be flat on the floor. If they're not, ask if you can have a footrest, which lets you rest your feet at a level that's comfortable. Don't cross your legs, as this can cause posture-related problems.\n\nPlace your screen at eye level Your screen should be directly in front of you. A good guide is to place the monitor about an arm's length away, with the top of the screen roughly at eye level. To achieve this, you may need to get a stand for your monitor. If the screen is too high or too low, you'll have to bend your neck, which can be uncomfortable.\n\nUsing the keyboard Leave a gap of about 100mm – 150mm at the front of the desk to rest your wrists between bouts of typing. Your wrists should be straight when using a keyboard. Keep your elbows vertical under your shoulder and right by your side. Some people like to employ a rest to keep their wrists straight and aligned with the keys.\n\nKeep your mouse close Position and use the mouse as close to you as possible. A mouse mat with a wrist pad may help to keep your wrist straight and avoid awkward bending. If you are not using your keyboard, push it to one side if using the mouse a lot.\n\nAvoid screen glare Your screen should be as free of this as possible. If it's on your screen, hold a mirror in front of it to identify the cause. Position the monitor to avoid glare from overhead lighting and sunlight. If necessary, pull blinds across the windows and replace ceiling lighting with table lights. Adjusting the screen's brightness or contrast can make it much easier to use.\n\nWorking with glasses People with bifocals may find difficulties with computer work. It's important to be able to see the screen easily without having to raise or lower your head uncomfortably. If you can't work comfortably with bifocals, you may need a different type of glasses."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: The World's Highest Bridges",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-82-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bridge has armed protection 24 hours a day. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People can't walk across this bridge. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "A rocket was used to take the first line across the expanse this bridge had to cover. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The construction plans for this bridge were changed because of the local lack of a suitable building material. 32. This bridge was built as part of a network replacing a more dangerous road. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-82-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This bridge is only used to carry a pipe. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The length of part of this bridge is because of a national superstition. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q35",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The first cables to cross the expanse the bridge had to cover were taken by helicopter. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q36",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The construction of this bridge is not yet finished. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "answer": "(a) suspender",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 38. ______",
+          "answer": "(a) (concrete) anchor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The weather affects how at least one of the bridges is used.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-82-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Two of the bridges share the same architect.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "The World's Highest Bridges",
+        "text": "(A) The Siduhe River Bridge Located about eighty kilometres south of the famous Three Gorges region of the Yangtze River in China's mountainous Hubei Province, the Siduhe suspension bridge is just one of several amazing structures on the last 483 kilometre link of the 2,175 kilometre long West Hurong highway that now connects Shanghai on the Pacific coast with the cities of Chongqing and Chengdu in the west. With a roadway 496 metres above the water, the Siduhe River Bridge is, as of 2014, the highest bridge in the world. One unique aspect of The Siduhe River Bridge's construction relates to its extreme height, remoteness and inaccessibility. Due to all this, the building engineers decided to experiment and, instead of using a blimp or helicopter to drag the first pilot line across the gorge, they used a rocket.\n\n(B) The Hegigio Gorge Suspension Bridge Located deep in the Southern Highlands Province of Papua New Guinea is the Hegigio Gorge Suspension Bridge, the highest pipeline bridge in the world. Some may argue that the Hegigio Gorge Bridge is not a true bridge, since it was not built for people, but for an oil pipeline. The bridge is a major component of the Southeast Mananda oil field infrastructure, an inaccessible expanse of oil that was discovered in 1991. The small size of the field and the extremely remote, jungle terrain made it a difficult petroleum project to undertake with many technical obstacles to overcome, the bridge being one of them. During construction, the north side of the bridge was difficult to reach, since there was no road access in place as there was on the south side. The first two cables were strung across by a helicopter, while successively thicker cables were then winched across. Another construction hurdle came from the harsh weather, which even today can be problematic to the operation of the pipeline. One oddity of the bridge is that there is no pedestrian walkway on the bridge. If necessary, personnel access for maintenance is made possible by a trolley that rides along two rails.\n\n(C) The Baluarte River Bridge The Baluarte River Bridge is not only the highest bridge in North America, but the highest cable-stayed bridge in the world, surpassing the Millau Viaduct in France. It is the crown jewel of the greatest bridge and tunnel highway project ever undertaken in North America. The old road between the Pacific coast and the interior of Mexico is known as the \"Devil's Backbone\", and the road that created a safer and more direct route necessitated seven very high bridges and sixty-one tunnels; the Baluarte River Bridge is the highest of the bridges.\n\n(D) The Balinghe River Bridge With a height of 370 metres from deck to water, the Balinghe River bridge is the second highest bridge in China. It is unique for having the second longest span length with a distance between towers of 1088 metres. The reason why Balinghe River Bridge has this unusual span length relates to the luck that the Chinese associate with the number 8, which sounds like the Mandarin word for \"prosperity'. The bridge was meant to be a concrete beam bridge, but the lack of sand suitable for concrete in the area made this plan too expensive, as sand would have had to be transported to the building site. As a result, a suspension bridge was constructed, which is an excellent type of bridge to build across a large gap. The Balinghe River Bridge has two towers, which are easily supported by the main steel cables that curve from one tower to the other. The curving main steel cables also hold other cables (each is known as a suspender), which go down from the main steel cables to the road deck. It is unusual in that, at each end, the main steel cables continue into the ground and are attached to a concrete anchor that provides extra stability and support. Another peculiarity of the bridge is that, as it is situated between two mountain ranges, there is frequent cloud cover, which sometimes makes it appear to be floating among the clouds.\n\n(E) The Chenab River Bridge There is probably no other natural barrier on earth that has been more formidable to railway engineers than the Himalayan mountain range that stretches across northern India. When construction began on the Chenab River Bridge, the engineers experienced extensive delays due to difficult geology, access problems, tunnel excavation difficulties and labour disputes. The bridge is not yet open, but, when it is, it will be the most expensive stretch of India's 64,374 kilometre railway network. The Chenab River Bridge will have busy traffic, as it is located fewer than sixteen kilometres north of the busy tourist town of Katra, which, due to its proximity to the Vaishno Devi, is the second most visited religious shrine in India. Being in Kashmir, the Chenab River Bridge is also very near the conflict area between India and Pakistan. For this reason, there is a constant armed guard present at the bridge and this will also remain after completion."
+      }
+    }
+  ]
+}

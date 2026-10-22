@@ -1,0 +1,812 @@
+{
+  "id": "pte-gt-reading-28",
+  "title": "General Training Reading — Practice Test 28",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Text 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-28-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Children must go to the school where they are registered.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All arrivals after the register has closed are recorded as 'unauthorised' absences.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If your child is absent from school, you must send the school a letter to explain why.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Staff who think a child is having difficulties at school will contact the parents.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Schools will contact other authorities about children who take frequent unauthorised absences.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Text 1",
+        "text": "is your child at school today?\n\nschool attendance information for parents/ carers\n\nIntroduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered.\n\nWhat you can do to help • Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an 'unauthorised' absence for that session. • If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child's school will have an attendance policy explaining how this should be done.) • If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly.\n\nAuthorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child's absence as 'unauthorised', that is, as truancy.\n\nMost absences for acceptable reasons will be authorised by your child's school:\n\n• Sickness\n\n• Unavoidable medical or dental appointments (if possible, arrange these for after school or during school holidays)\n\n• An interview with a prospective employer or college\n\n• Exceptional family circumstances, such as bereavement • Days of religious observance.\n\nYour child's school will not authorise absence for the following reasons:\n\n• Shopping during school hours\n\n• Day trips\n\n• Holidays which have not been agreed\n\n• Birthdays • Looking after brothers or sisters or ill relatives."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: holiday apartment to let",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-28-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It overlooks a golf course. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has its own parking space. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is in the centre of a town. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The sea can be seen from it. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "There is a swimming pool for residents of the apartment complex. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is in a new apartment complex. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is part of an apartment complex with its own supermarket. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It has a private outdoor area where you can sit. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The owners will organise parking on request. ______",
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "holiday apartment to let",
+        "text": "(A) Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafés and restaurants. On-street parking is generally available.\n\n(B) Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes' walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafés and restaurants. There are some fabulous championship golf courses within easy walking distance.\n\n(C) Sleeps 2+child. One-bedroom cottage (child's bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes' drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can.\n\n(D) Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Superb local golf courses within easy reach.\n\n(E) Sleeps 2-4. Modern one-bedroom first floor apartment in house, owners resident on ground floor. This great location offers easy access to all that this fantastic town has to offer, a few minutes' drive from its supermarket, bank, cafés, restaurants. The ferry to the island beach leaves from 100 m away. Ten minutes walk from the new shopping centre, which has many shops, food hall, cinema and multi-storey car park.\n\n(F) Sleeps 2. One-bedroom first floor apartment. Beautifully furnished, offering a high standard of comfort. Situated in a peaceful location on the edge of an inland village, with attractive views of the golf course. Many restaurants, bars, shops etc. are within easy walking distance. Garage available by arrangement with the owners.\n\n(G) Sleeps 2-4. Two-bedroom apartment in central location in busy street with shops, restaurants etc. not far from the beach. The town has ideal facilities for holidays all year round, including swimming pool, tennis courts and golf course."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: gZJ travel – recruitment info",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-28-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– give proof of achievements so far both in education and in a ______",
+          "answer": "marketing environment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "(Note: additional requirements for applicants interested in the role of ______)",
+          "answer": "corporate travel consultant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– more information given about company and the ______you could receive",
+          "answer": "rewards",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– information about annual event where prizes are given to those who have made ______",
+          "answer": "outstanding efforts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– chance to tell us about how good you are at selling, and also about the ______you have",
+          "answer": "ambitions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– take part in a ______(used to learn about your way of working)",
+          "answer": "psychometric",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– meet a manager, and the ______working in a particular store",
+          "answer": "team",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "There are certain places in the building that staff should avoid unless they have…… ______",
+          "answer": "authorisation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To ensure people can get out easily, it is important that there are no______ to exits.",
+          "answer": "obstruction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Items which could cause injury must be……before they are disposed of. ______",
+          "answer": "wrapped carefully/carefully wrapped",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Not all departments have the same system for dealing with…… so you need to check before throwing things away. ______",
+          "answer": "waste/rubbish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "are available to make tasks which require moving objects easier. ______",
+          "answer": "trolleys",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You should have… while you are working. ______",
+          "answer": "(regular) breaks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section G",
+          "options": [
+            {
+              "id": "i",
+              "text": "A decrease in the zebra population"
+            },
+            {
+              "id": "ii",
+              "text": "An obstruction on the traditional route"
+            },
+            {
+              "id": "iii",
+              "text": "An unknown species"
+            },
+            {
+              "id": "iv",
+              "text": "Some confusing information"
+            },
+            {
+              "id": "v",
+              "text": "Staying permanently in the Makgadikgadi"
+            },
+            {
+              "id": "vi",
+              "text": "Nearly a record in the zebra world"
+            },
+            {
+              "id": "vii",
+              "text": "Three different ways of living"
+            },
+            {
+              "id": "viii",
+              "text": "The original aim of the work"
+            },
+            {
+              "id": "ix",
+              "text": "How was the information passed on?"
+            },
+            {
+              "id": "x",
+              "text": "Why it is important to study zebras"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "gZJ travel – recruitment info",
+        "text": "We're looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here's how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you'll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you're interested in a career as a Corporate Travel Consultant, you'll need at least one year's experience as a Travel Consultant. If you reach Stage Two, we'll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we'll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you'll attend with a small group of other applicants. We'll be asking you about your ambitions and of course your sales ability, the most vital quality for our business You'll also be required to complete a psychometric test so we can find out more about your working style and characteristics. We'll also tell you about some of the perks – for example, as a Flight Center employee you can take advantage of the free consultations conducted by our in-house health and wellbeing team, Healthwise. Next, in Stage Four, you'll be introduced to the Area Leader and you'll also visit one of our shops, where you'll meet the team and find out more about the sort of work that's involved. If you successfully pass Stage Four, you've reached the final stage of the process and we'll be in touch with a job offer! And if you accept, we'll book you into our Learning Center to get your training under way as soon as possible. Careerwise, the department responsible for the training, will then organise individual coaching to assist in setting goals for your career path."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: the zebra's long walk across africa",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-28-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Zebras tend to live together in small units, which experts call ______ Here, a male zebra has charge of a number of adult 36______ and their young. These units sometimes assemble in bigger groupings or 37______ but it is still clear that the zebras' loyalty only extends to the small unit they live in.",
+          "answer": "harems",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Zebras tend to live together in small units, which experts call 35______ Here, a male zebra has charge of a number of adult ______ and their young. These units sometimes assemble in bigger groupings or 37______ but it is still clear that the zebras' loyalty only extends to the small unit they live in.",
+          "answer": "mares",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Zebras tend to live together in small units, which experts call 35______ Here, a male zebra has charge of a number of adult 36______ and their young. These units sometimes assemble in bigger groupings or ______ but it is still clear that the zebras' loyalty only extends to the small unit they live in.",
+          "answer": "herds",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "the zebra's long walk across africa",
+        "text": "James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa\n\n(A) For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km — between the Makgadikgadi salt pan area and the Okavango river — making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of.\n\n(B) Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD. Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so-called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area.\n\n(C) In December, when the annual rains had transformed the roads into rivers, Hattie was, therefore, more than a little surprised when she checked the data sent by the radio collars she fits to the zebras she is tracking to find that six of the harems were 270 km away on the edge of the Makgadikgadi, a huge mineral-rich area where salt has collected over the years as water evaporates in the heat. Then, when the last of the moisture from the rains had disappeared in May the following year, five of those harems came wearily back to the Okavango. This raised the question: why, despite a plentiful supply of food and water, were the zebras being drawn eastwards to the salt pans? Even more difficult to understand was what made six of the groups travel so far, while the other five remained by the Okavango.\n\n(D) This discovery created quite a buzz in the research community. I decided to visit Hattie and she explained that a century ago the large number of Botswana's zebra and wildebeest herds and the resulting competition for grass made migration essential. One of the migration tracks went from the Okavango to Makgadikgadi. But in the late 1960s, giant fences were put up to stop foot and mouth and other diseases spreading between wildlife and domestic cattle. One of these went across the migration track. Though the animals could get round the obstacle, each leg of their journey would now be 200 km longer – an impossible distance given the lack of permanent water on the extended route. Even today, with the fence gone (it was taken down in 2004), there is dangerously little drinking water to support the zebras on the return journey to the Okavango.\n\n(E) As a zebra can live up to 20 years, the migration must have skipped at least one generation during the 40 or so years that the fences were up. This prompts another question: it has always been assumed that the young of social herbivores like zebras learn migratory behaviour from their parents, so how did the latest generation learn when and where to go? Not from their parents, who were prevented from migrating. Did they follow another species, such as elephants? We may never know.\n\n(F) Hattie's data points to the conclusion that there are several zebra populations adopting different behaviour. The first, like the vast majority of the Okavango zebras, take it easy, spending the entire year by the river. The second group, 15,000-20,000 strong, work a bit harder. They divide their time between the Makgadikgadi salt pans and the Boteti River, which is reasonably near by. They sometimes struggle to find water in the Boteti area during the dry season, often moving 30 km in search of fresh grazing. Their reward: the juicy grass around the Makgadikgadi after the rains. The final group of zebras, whose numbers are more modest (though as yet unknown), must surely be considered as among the animal kingdom's most remarkable athletes. By moving between the Okavango and the salt pans, they enjoy the best of both worlds. But the price they pay is an extraordinary journey across Botswana.\n\n(G) Endangered species naturally tend to grab the headlines, so it's refreshing for a relatively abundant animal like the zebra to be the centre of attention for once. Zebras are a vital part of the food chain: understanding their migration in turn helps us to interpret the movements of their predators, and Hattie's research has shed light on the impact of fences on migratory animals. So what triggered her interest in zebras? She explains that it is easier to get funding to study exciting animals like lions. Crucial as that undoubtedly is, she believes that herbivores like zebras are key to understanding any ecosystem. The scientific community is fortunate that people like Hattie are willing to take the hard option."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Social behaviour in zebras",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-28-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did Hattie feel when she heard some of the zebras had travelled so far?",
+          "options": [
+            {
+              "id": "A",
+              "text": "annoyed because she would have to follow them to Makgadikgadi"
+            },
+            {
+              "id": "B",
+              "text": "disappointed that not all of them made it back to Okavango"
+            },
+            {
+              "id": "C",
+              "text": "frustrated as the rains had made the roads unusable"
+            },
+            {
+              "id": "D",
+              "text": "unsure as to their real motivation for going"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "When describing the different Botswana zebra populations, the writer indicates",
+          "options": [
+            {
+              "id": "A",
+              "text": "his admiration for the ones who migrate the furthest distance."
+            },
+            {
+              "id": "B",
+              "text": "his sympathy for the ones who stay by the Okavango River."
+            },
+            {
+              "id": "C",
+              "text": "his disbelief that those by the Boteti have difficulty finding food."
+            },
+            {
+              "id": "D",
+              "text": "his anxiety that their migration patterns may not be able to continue."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-28-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer suggest in the final paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Too much time has been wasted on research into the predators like lions."
+            },
+            {
+              "id": "B",
+              "text": "It is sometimes necessary to go against the trend in research matters"
+            },
+            {
+              "id": "C",
+              "text": "Research will result in a ban on fences in areas where zebras live."
+            },
+            {
+              "id": "D",
+              "text": "Research into animals which are not endangered will increase."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Social behaviour in zebras",
+        "text": "Zebras tend to live together in small units, which experts call 35………… Here, a male zebra has charge of a number of adult 36……….. and their young. These units sometimes assemble in bigger groupings or 37………… but it is still clear that the zebras' loyalty only extends to the small unit they live in."
+      }
+    }
+  ]
+}

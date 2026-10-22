@@ -1,0 +1,918 @@
+{
+  "id": "pte-gt-reading-105",
+  "title": "General Training Reading — Practice Test 105",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: maps showing walks starting from bingham town hall",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-105-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the chance to go into caves",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the chance to spend time beside a lake",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "some unusual architecture",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "unsuitability for young children",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the length of the walk depending on the weather",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "maps showing walks starting from bingham town hall",
+        "text": "(A) The walk described in this leaflet takes you to one of the many places in the district where bricks were made for hundreds of years, until it was closed in the late 19th century. This brickworks is now the largest and best-known nature reserve in the area. Please note that the ground is very uneven, and under- sixes should not be taken on this walk.\n\n(B) This walk will take you to the top of Burley Hill, along a nice easy path that people of all ages will be able to manage. From the summit you can see for a great distance to the north and west, across a landscape that includes half a dozen lakes and the entrance to Butter Caves. Bear in mind, though, that mist often comes in from the sea and covers the hilltop.\n\n(C) This route leads you through the village of Cottesloe, which was created in the 1930s and is famous for its strange-looking houses and ceramics factory, which is still the largest employer in the area. An artificial lake was originally created beside the village, and has since been filled in and turned into an adventure playground. After you leave Cottesloe, you have a choice of routes to return to the starting point, so either continue via Thurley Park, or if it's raining, take the shorter direct route.\n\n(D) This walk is ideal in fine weather, as it takes you to the shore of a lake, at a spot convenient for swimming. Children will want to enjoy themselves in the adventure playground nearby. From there you continue to Starling Cottage, which draws people from around the world to visit the home, from 1920 to 1927, of the poet Barbara Cottam.\n\n(E) If you want an easy, undemanding walk over flat ground, this walk will suit you perfectly. It passes the entrance to the famous Butter Caves visitor attraction, so you can combine a visit there with the walk, or just take shelter if it starts raining! On the final stage of the walk you pass through Wimpole, the village where Richard Merton, the architect of a number of local buildings, lived for much of his life."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: the maplehampton scarecrow competition – a great success!",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-105-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Traditionally, most scarecrows were the same size as a human being.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The competition in September was the first one in Maplehampton.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The farmers who provided materials could take part in the competition.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Old clothes were supplied to the people who made the scarecrows.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The venue for the competition was changed because of the weather.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Competitors could get advice on making their scarecrows.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In the judges' opinion, the scarecrow dressed as an alien was better than the giant bird.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The competition organisers supplied a picnic for the competitors and spectators.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Alice Cameron bought a scarecrow to frighten birds away from her crops.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "the maplehampton scarecrow competition – a great success!",
+        "text": "There was once a time when farmers all over the country put scarecrows in fields of growing crops. A traditional scarecrow was a model – usually life-size – of a man or woman dressed in old clothes, and their purpose was to frighten the birds away; though how successful they were is a matter of opinion! Maplehampton's scarecrow competition took place on September 12th. Local farmers supplied everything needed to make a scarecrow – like pieces of wood to form a frame, and straw to stuff the scarecrow. The scarecrows were dressed in old clothes which the competitors brought with them. The festival was held in the village hall, instead of outdoors as planned, due to the unusually high temperature. There were two classes, one for adults and one for children, all of them working in small teams. Over 20 teams took part, each creating one scarecrow. They were encouraged by an audience of around 50, and had ideas and guidance from local artist Tracey Sanzo. The scarecrows were judged by a team of people from the village. The winning children's team made a scarecrow that looked like a giant bird – which would surely keep every real bird away! The winning adult team's scarecrow was dressed as an alien from another planet, and its face was painted to make it look very frightening – at least to human beings! After the judging, many of the participants and the spectators had a picnic which they had brought. Some of the scarecrows then went home to their creators' gardens. Alice Cameron, a local farmer, liked one of the scarecrows so much, she bought it to stand on her balcony: she said she didn't need it to scare birds away from her crops, as only bird-scarers that made a noise were effective. She just wanted to be able to see it! The event raised over £300 for village funds."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: qualities that make a great barista",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-105-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Be sure you make drinks that are ______for the customer",
+          "answer": "Correct",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Ignore any ______around you",
+          "answer": "Conversation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Clean the machine ______regularly",
+          "answer": "Filter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– always use ground coffee that is ______",
+          "answer": "Fresh",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– too early reduces the ______",
+          "answer": "Flavour/flavor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– too late makes the coffee ______",
+          "answer": "Bitter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– ask about the customers' ______",
+          "answer": "Day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– know something about the important ______in the area",
+          "answer": "Issues",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "qualities that make a great barista",
+        "text": "Truly great baristas take the time to develop the key skills that will enable them to deliver the highest possible quality of coffee-based beverage and service. As a barista, you must make a concerted effort to listen to your clientele and make sure the drinks you produce are correct in all respects. This is particularly important when you consider the sheer range and complexity of modern coffee drinks, which may start from a single (or double) shot of espresso but can include many additional elements. If you become distracted by the conversation that is going on nearby, you may ultimately miss the mark from a service perspective. One thing that separates a great from a good barista is that the former is constantly busy and has a strong work ethic. You will often catch a great barista rinsing out the filter in their machines, for example, as this erodes the build-up of burnt coffee oil that can begin to impact on the quality and taste of each espresso shot. Similarly, do not be surprised to hear the sound of the coffee grinder at work. This highlights the keen attention to detail that distinguishes skilled baristas, as they have the desire and the awareness to make every drink with completely fresh ground coffee. This type of attentiveness helps baristas to get the most from the coffee that they use, as many of the delicate aromas found in espresso are lost when exposed to the open air. Timing is everything when it comes to producing the perfect cup of coffee. A great barista knows precisely when to finish the extraction of espresso, at the point when the balance of flavour has reached its optimum levels. They also understand how important this is; those who act too soon are left with a drink without flavour while those who delay the finish risk burning the beverage and tainting it with a bitter after-taste. When it comes to customer service, there is so much more to a coffee shop experience than drinking perfectly roasted blends. The atmosphere and the ambience also play a central role, and the interaction that the customer has with their barista sets the tone for an enjoyable experience. Great baristas ask their customers how their day is going or what they're going to do later; they read local newspapers and keep up with issues that really matter, all of which make a real difference in a competitive marketplace."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: running a meeting",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-105-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In small meetings, ask people for some ______as they introduce themselves",
+          "answer": "(relevant) Information",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Make sure the ______is available to everyone",
+          "answer": "(meeting) Agenda",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Involve people in the discussion and solve any ______quickly if they arise",
+          "answer": "Conflicts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Avoid ______by involving a range of people in tasks",
+          "answer": "Tension",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Thank people for coming, and possibly have some kind of ______afterwards",
+          "answer": "Social activity",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "running a meeting",
+        "text": "Prior to the meeting, think about the seating and arrange it in an appropriate way. A circle can work well for informal meetings, but sometimes the furniture cannot be re-arranged or rows are more suitable. Consider the participants and decide what is best. Before people arrive, it's a good idea to designate someone to stand at the entrance and greet everyone. If the meeting is small, start by requesting everyone to introduce themselves and to give a bit of relevant information in addition to their name. This may be what they do or why they are there. For all meetings, you need to introduce the chairperson, i.e., yourself, and any other outside speakers you have invited. Next, make sure everyone can see the agenda or has a copy of it. Briefly run through the items then take one point at a time, and make sure the group doesn't stray from that point until it has been dealt with. Encourage participation at all times so that attendees can contribute but don't let everyone talk at the same time. Try to keep discussions positive, but don't ignore conflicts – find a solution for them and make sure they are resolved before they grow. Summarise points regularly and make clear action points. Write these down and don't forget to note who's doing what, and by when. Encourage everyone to feel able to volunteer for tasks and roles. It can help if the more experienced members of the group offer to share skills and knowledge, but don't let the same people take on all the work as this can lead to tension within the group. At the end, remember to thank everyone for turning up and contributing. It can be nice to follow the meeting with a social activity like sharing a meal or going to a cafe."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: feathers as decoration in european history",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-105-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "III",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VI",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "VIII",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "List of Headings",
+          "options": [
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            },
+            {
+              "id": "II",
+              "text": "Paragraph II"
+            },
+            {
+              "id": "III",
+              "text": "Paragraph III"
+            },
+            {
+              "id": "IV",
+              "text": "Paragraph IV"
+            },
+            {
+              "id": "V",
+              "text": "Paragraph V"
+            },
+            {
+              "id": "VI",
+              "text": "Paragraph VI"
+            },
+            {
+              "id": "VII",
+              "text": "Paragraph VII"
+            },
+            {
+              "id": "VIII",
+              "text": "Paragraph VIII"
+            }
+          ],
+          "answer": "V",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Section B, what information is given about the use of feathers in the 16th century?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Some were not real feathers, but imitations."
+            },
+            {
+              "id": "B",
+              "text": "They were sometimes coloured artificially."
+            },
+            {
+              "id": "C",
+              "text": "Birds were specially bred for their feathers."
+            },
+            {
+              "id": "D",
+              "text": "There was some disapproval of their use for decoration."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Rublack suggests the feather costume worn by Duke Frederick in 1599 represented",
+          "options": [
+            {
+              "id": "A",
+              "text": "a lack of sensitivity to American traditions."
+            },
+            {
+              "id": "B",
+              "text": "a rejection of the beliefs held by those around him."
+            },
+            {
+              "id": "C",
+              "text": "a positive attitude towards the culture of the Americas."
+            },
+            {
+              "id": "D",
+              "text": "a wish to follow a fashion of the time."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to Rublack, one reason why feathers survived in European military costume was because",
+          "options": [
+            {
+              "id": "A",
+              "text": "birds were seen as having religious significance."
+            },
+            {
+              "id": "B",
+              "text": "feathers suggested certain qualities about military activities."
+            },
+            {
+              "id": "C",
+              "text": "the power of feathers was feared by other cultures."
+            },
+            {
+              "id": "D",
+              "text": "soldiers came to associate particular birds with warlike qualities."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Hats decorated with long black feathers ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Feathers from cranes and swallows ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Feathers from exotic birds ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-105-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Peacock feathers",
+          "options": [
+            {
+              "id": "A",
+              "text": "lost popularity in the 16th century."
+            },
+            {
+              "id": "B",
+              "text": "were used as protection from bad weather."
+            },
+            {
+              "id": "C",
+              "text": "are worn today by some soldiers."
+            },
+            {
+              "id": "D",
+              "text": "could only be worn by men of noble birth."
+            },
+            {
+              "id": "E",
+              "text": "were used to create an outfit worn by a person of high status."
+            },
+            {
+              "id": "F",
+              "text": "were once awarded for military achievements."
+            },
+            {
+              "id": "G",
+              "text": "became popular decorations for urban dwellers in the 16th century."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "feathers as decoration in european history",
+        "text": "(A) Today, we do not generally associate feathers with the military in Europe, yet history shows that in fact feathers have played an intriguing role in European military clothing. The Bersaglieri of the Italian Army, for example, still wear a bunch of long black feathers in their hats hanging down to one side, while British fusiliers have a clipped feather plume whose colour varies according to their regiment. The Royalists in the English Civil War adorned their headgear with ostrich feathers. 'Historically, feathers were an incredibly expressive accessory for men,1 observes Cambridge historian, Professor Ulinka Rublack. 'Nobody has really looked at why this was the case. That's a story that! want to tell.' Rublack is beginning to study the use of featherwork in early modern fashion as part of a joint project between the Universities of Cambridge, Basel and Bern. To the outsider, its preoccupations (her co-researchers are studying gold, glass and veils) might seem surprising. Yet such materials sustained significant economies and expertise.\n\n(B) Rublack has spotted that something unusual started to happen with feathers during the 16th century. In 1500, they were barely worn at all in Europe; 100 years later they had become an indispensable accessory for the fashionable European man. In prosperous trading centres, the citizens started wearing hats bedecked with feathers from cranes and swallows. Headgear was specially manufactured so that feathers could be inserted more easily. By 1573, Plantin's Flemish-French dictionary was even obliged to offer words to describe people who chose not to wear them, recommending such terms as: 'the featherless' and 'unfeathered'. Featherworking became big business. From Prague and Nuremberg to Paris and Madrid, people started to make a living from decorating feathers for clothing. Impressive efforts went into dyeing them. A 1548 recipe recommends using ashes, lead monoxide and river water to create a 'very beautiful' black, for example.\n\n(C) Why this happened will become clearer as Rublack's project develops. One crucial driver, however, was exploration – the discovery of new lands, especially in South America. Compared with many of the other species that early European colonists encountered, exotic birds could be captured, transported and kept with relative ease. Europe experienced a sudden 'bird-craze', as exotic birds became a relatively common sight in the continent's largest markets. Given the link with new territories and conquest, ruling elites wore feathers partly to express their power and reach. But there were also more complex reasons. In 1599, for example, Duke Frederick of Wurttemberg held a display at his court at which he personally appeared wearing a costume covered in exotic feathers and representing the Americas. This was not just a symbol of power, but of cultural connectedness, Rublack suggests: The message seems to be that he was embracing the global in a duchy that was quite insular and territorial.'\n\n(D) Nor were feathers worn by the powerful alone. In 1530, a legislative assembly at Augsburg imposed restrictions on peasants and traders adopting what it clearly felt should be an elite fashion. The measure did not last, perhaps because health manuals of the era recommended feathers could keep the wearer safe from 'bad' air – cold, miasma, damp or excessive heat – all of which were regarded as hazardous. During the 1550s, Eleanor of Toledo had hats made from peacock feathers to keep her dry in the rain. Gradually, feathers came to indicate that the wearer was healthy and civilised. Artists and musicians took to wearing them as a mark of subtlety and style.\n\n(E) As with most fads, this enthusiasm eventually wore off. By the mid-17th century, feathers were out of style, with one striking exception. Within the armies of Europe feathers remained an essential part of military costume. Rublack thinks that there may have been several reasons for this strange contradiction. 'It's associated with the notion of graceful warfaring,' she says. This was a period when there were no standing armies and it was hard to draft soldiers. One solution was to aestheticise the military, to make it seem graceful and powerful.' Feathers became associated with the idea of an art of warfare. They were also already a part of military garb among many native American peoples and in the Ottoman empire. Rublack believes that just as some of these cultures considered the feathers of certain birds to be highly significant, and sometimes sacred, European soldiers saw the feathers as imparting noble passions, bravery and courage.\n\n(F) In time, her research may therefore reveal a tension about the ongoing use of feathers in this unlikely context. But, as she also notes, she is perhaps the first historian to have spotted the curious emotional resonance of feathers in military fashion at all. All this shows a sea-change in methodologies: historians now chart the ways in which our identities are shaped through deep connections with 'stuff' – the material objects that are parts of our lives."
+      }
+    }
+  ]
+}

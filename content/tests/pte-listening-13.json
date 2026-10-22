@@ -1,0 +1,506 @@
+{
+  "id": "pte-listening-13",
+  "title": "Listening — Practice Test 13",
+  "kind": "practice",
+  "description": "One recording, 36 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-13-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bingley's______– In town centre",
+          "answer": "19.75",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Cafe with regular ______nights",
+          "answer": "theme",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Chalet Lodge$18.00– Located in a ______alpine setting",
+          "answer": "quiet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______are welcome",
+          "answer": "children",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______included",
+          "answer": "breakfast",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Chance to win a ______",
+          "answer": "sky-dive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "bungee jump",
+          "options": [
+            {
+              "id": "A",
+              "text": "only Jacinta"
+            },
+            {
+              "id": "B",
+              "text": "only Lewis"
+            },
+            {
+              "id": "C",
+              "text": "both Jacinta and Lewis"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "white-water rafting",
+          "options": [
+            {
+              "id": "A",
+              "text": "only Jacinta"
+            },
+            {
+              "id": "B",
+              "text": "only Lewis"
+            },
+            {
+              "id": "C",
+              "text": "both Jacinta and Lewis"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "jet-boat ride",
+          "options": [
+            {
+              "id": "A",
+              "text": "only Jacinta"
+            },
+            {
+              "id": "B",
+              "text": "only Lewis"
+            },
+            {
+              "id": "C",
+              "text": "both Jacinta and Lewis"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "trekking on wilderness trail",
+          "options": [
+            {
+              "id": "A",
+              "text": "only Jacinta"
+            },
+            {
+              "id": "B",
+              "text": "only Lewis"
+            },
+            {
+              "id": "C",
+              "text": "both Jacinta and Lewis"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack says that in London these days many people",
+          "options": [
+            {
+              "id": "A",
+              "text": "see cycling as a foolish activity"
+            },
+            {
+              "id": "B",
+              "text": "have on experience of cycling"
+            },
+            {
+              "id": "C",
+              "text": "take too many risks when cycling"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "If people want to cycle to school or work, CitiCyclist helps them by",
+          "options": [
+            {
+              "id": "A",
+              "text": "giving cycling lessons on the route they take."
+            },
+            {
+              "id": "B",
+              "text": "advising them on the safest route to choose."
+            },
+            {
+              "id": "C",
+              "text": "teaching them basic skills on quiet roads first."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack works with some advanced cyclists who want to develop",
+          "options": [
+            {
+              "id": "A",
+              "text": "international competitive riding skills."
+            },
+            {
+              "id": "B",
+              "text": "knowledge of advanced equipment."
+            },
+            {
+              "id": "C",
+              "text": "confidence in complex road systems."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "CitiCyclist supports the view that cyclists should",
+          "options": [
+            {
+              "id": "A",
+              "text": "have separate sections of the road from motor traffic."
+            },
+            {
+              "id": "B",
+              "text": "always wear protective clothing when cycling."
+            },
+            {
+              "id": "C",
+              "text": "know how to ride confidently on busy roads."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "schools ______",
+          "answer": "schools",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "local councils ______",
+          "answer": "local councils",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "companies ______",
+          "answer": "companies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Phone: ______",
+          "answer": "02075624028",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cost (single person): ______ per person",
+          "answer": "27.50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Usual length of course: ______ except complete beginners)",
+          "answer": "3 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What do Sharon and Xiao Li agree was the strongest aspect of their presentation? ______",
+          "answer": "technique",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Which part of their presentation was Xiao Li least happy with? ______",
+          "answer": "questions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Which section does Sharon feel they should have discussed in more depth? ______",
+          "answer": "solutions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Sharon and Xiao Li were surprised when the class said",
+          "options": [
+            {
+              "id": "A",
+              "text": "they spoke too quickly."
+            },
+            {
+              "id": "B",
+              "text": "they included too much information."
+            },
+            {
+              "id": "C",
+              "text": "their talk was not well organised."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The class gave Sharon and Xiao Li conflicting feedback on their",
+          "options": [
+            {
+              "id": "A",
+              "text": "timing."
+            },
+            {
+              "id": "B",
+              "text": "use of visuals."
+            },
+            {
+              "id": "C",
+              "text": "use of eye contact."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The class thought that the presentation was different from the others because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the analysis was more detailed."
+            },
+            {
+              "id": "B",
+              "text": "the data collection was more wide-ranging."
+            },
+            {
+              "id": "C",
+              "text": "the background reading was more extensive"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which bar chart represents the marks given by the tutor? ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-13-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The tutor says that the ______ of the presentation seemed rather sudden.",
+          "answer": "end(ing)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The tutor praises the students' discussion of the ______ of their results.",
+          "answer": "limitation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The tutor suggests that they could extend the ______ review in their report.",
+          "answer": "literature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• have a ______ and environment.",
+          "answer": "clean and safe",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• meet the ______ of all its inhabitants.",
+          "answer": "basic needs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• encourage ordinary people to take part in ______",
+          "answer": "local government",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Community contracts systemTo upgrade squatter settlementsThe ______ constructed infrastructures e.g. drains, paths– Better housing and infrastructure",
+          "answer": "residents",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Provided better ______opportunities",
+          "answer": "economic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "CooperativeTo improve sanitation on city– ______graduates organizing garbage collection",
+          "answer": "secondary schools",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Public education campaign via ______and discussion group– Greater environmental awareness",
+          "answer": "films",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Egypt (Mokattam) ______To support disadvantages womenWomen provided with the (39) ______and equipment for sewing and weaving-Rise in the (40) ______and quality of life of young women",
+          "answer": "women's centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Egypt (Mokattam) (38) ______To support disadvantages womenWomen provided with the ______and equipment for sewing and weaving-Rise in the (40) ______and quality of life of young women",
+          "answer": "skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-13-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Egypt (Mokattam) (38) ______To support disadvantages womenWomen provided with the (39) ______and equipment for sewing and weaving-Rise in the ______and quality of life of young women",
+          "answer": "status",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/13_we.mp3"
+    }
+  ]
+}

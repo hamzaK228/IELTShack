@@ -1,0 +1,1132 @@
+{
+  "id": "pte-gt-reading-70",
+  "title": "General Training Reading — Practice Test 70",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: THE EMPLOYMENT PAGES Saturday Edition",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-70-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On which TWO days does the newspaper advertise jobs for teachers? ______",
+          "answer": "Saturday and Tuesday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On which TWO days does the newspaper advertise jobs for nurses? ______",
+          "answer": "Saturday and Thursday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you are looking for a job as a university lecturer? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you want to start your own business? ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you want a permanent job in a hotel? ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you are looking for a job in public administration? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you are looking for agricultural work in the country? ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "you are looking for temporary work? Read the information below and answer Questions 9-14. ______",
+          "answer": "J",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "THE EMPLOYMENT PAGES Saturday Edition",
+        "text": "Australia's biggest daily to find the selection of job ads – helping perfect position for you\n\nSaturday Job Guide\n\n(A) Government Positions (New South Wales)\n\n(B) Higher Education (Academic staff)\n\n(C) Primary and Secondary Schools (Academic staff)\n\n(D) Hospitals and Medical (Medical staff)\n\n(E) IT and Computing\n\n(F) Accountancy and Finance (Private)\n\n(G) Hospitality and Kitchen Staff\n\n(H) Self-employment Opportunities\n\nI Rural Posts (incl. farm work)\n\nJ Casual Work Available\n\nMonday – Friday Job Highlights\n\nTUESDAY: Education\n\nLocal Government\n\nTHURSDAY: Hospital and Medical\n\nGovernment Health Vacancies (New South Wales)"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: STANFIELD THEATRE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-70-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is possible to book tickets for performances using the Internet.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "60-year-olds who want to book in advance have to prove their age to get a discount.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Someone accompanying a wheelchair user to a performance receives a discount.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students can get Standby tickets 45 minutes before a performance begins.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A group of ten adults going to a performance can claim a discount.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Theatre-goers who are unexpectedly unable to attend a performance can get their money back.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "STANFIELD THEATRE",
+        "text": "BOOKING\n\nThere are four easy ways to book seats for performances:\n\n– in person The Box Office is open Monday to Saturday, 10 am-8 pm.\n\n– by post Simply complete the booking form and return it to Stanfield Theatre Box Office, PO Box 220, Stanfield, ST55 6GF AII cheques should be made payable to Stanfield Theatre.\n\n– by telephone Ring 01316 753219 to reserve your tickets or to pay by credit card (Visa, Mastercard and Amex accepted).\n\n– on-line\n\nComplete the on-line booking form at www.stanfieldtheatre.com\n\nDISCOUNTS Saver: £2 off any seat booked any time in advance for performances from Monday to Thursday inclusive, and for all matinees. Savers are available for children up to 16 years old, over 60s and full-time students. Supersaver: half-price seats are available for people with disabilities and one companion. It is advisable to book in advance. There is a maximum of eight wheelchair spaces available and one wheelchair space will be held until one hour before the show (subject to availability). Standby: best available seats are on sale for £6 from one hour before the performance for people eligible for Saver and Supersaver discounts and thirty minutes before for all other customers. Group Bookings: there is a ten per cent discount for parties of twelve or more. Schools: school parties of ten or more can book £6 Standby tickets in advance and will get every tenth ticket free. Please note: we are unable to exchange tickets or refund money unless a performance is cancelled due to unforeseen circumstances.\n\nGIFT VOUCHERS Gift vouchers for any value can be bought at the Box Office."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: SELF-STUDY TIPS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-70-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "xi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph G",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph H Read the information below and answer Questions 22-27.",
+          "options": [
+            {
+              "id": "i",
+              "text": "Consult your teacher"
+            },
+            {
+              "id": "ii",
+              "text": "Take a break"
+            },
+            {
+              "id": "iii",
+              "text": "Make a timetable"
+            },
+            {
+              "id": "iv",
+              "text": "Create a working space"
+            },
+            {
+              "id": "v",
+              "text": "Sit comfortably"
+            },
+            {
+              "id": "vi",
+              "text": "Study at home"
+            },
+            {
+              "id": "vii",
+              "text": "Talk about your work"
+            },
+            {
+              "id": "viii",
+              "text": "Photocopy important material"
+            },
+            {
+              "id": "ix",
+              "text": "Catalogue references"
+            },
+            {
+              "id": "x",
+              "text": "Use the library"
+            },
+            {
+              "id": "xi",
+              "text": "Prioritise your work"
+            },
+            {
+              "id": "xii",
+              "text": "Exercise regularly"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "SELF-STUDY TIPS",
+        "text": "(A) However difficult you find it to arrange your time, it will pay off in the long run if you set aside a certain part of the day for studying – and stick to it. It is best to make a weekly allocation of your time, making sure that you have enough left for recreational activities or simply to be 'with' yourself: reading a novel or watching a television programme.\n\n(B) As part of your weekly schedule, it is also advisable to consider exactly what you have to do in that week, and make sure that you tackle the most significant tasks first, leaving the easier or less urgent areas of your work until later.\n\n(C) On a physical level, make sure that you have an area or space for studying. Don't do it just anywhere. If you always study in the same place, preferably a room of your own, you will find it easier to adjust mentally to the activity when you enter that area. You should have everything that you might need at hand.\n\n(D) Make sure that all the physical equipment that you use, such as a desk, chair etc. is at a good height for you. If you use a personal computer, there are plenty of guidelines available from the government on posture, angles, lighting and the like. Consult these and avoid the typical student aches and pains.\n\n(E) If you are doing a long essay or research paper which involves the use of library books or other articles, it helps to keep details of the titles and authors on small cards in a card box. It is also a good idea to log these alphabetically so that you can find them easily – rather like keeping telephone numbers. It's all too easy to read something and then forget where it came from.\n\n(F) Make use of equipment that is available to you. If you find a useful article in the library, it is best to make a copy of the relevant pages before you leave. Then, when you get back to your study, you can mark the article and make any comments that you have in the margin.\n\n(G) If you are working on a topic your teacher has set, but finding it hard to concentrate, it may be that you actually need to take your mind right off it for a period of time. 'Airing the mind' can work wonders sometimes. After a period away from the task, having not thought about it at all, you may return to it refreshed and full of ideas.\n\n(H) Similarly, it may help to discuss a topic with other people, especially if you feel that you have insufficient ideas, or too many disorganised ideas. Bring your topic up in conversations at meal times or with other students and see what they have to say. You don't want to copy their ideas but listening to what they think about something may well help you develop or refine your own thoughts."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: STUDY CENTRE COURSES",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-70-q22",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course would be useful for dealing with letters of complaint. ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q23",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will help you use the libraries. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q24",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will improve your performance at interviews. ______",
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q25",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will help you with acknowledging your sources. ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q26",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will help you improve your reading skills. ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q27",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This course will help you improve your grammar. ______",
+          "answer": "L",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "similarities between pterosaurs and mechanical flight",
+          "options": [
+            {
+              "id": "B",
+              "text": "Communicate by Mail"
+            },
+            {
+              "id": "C",
+              "text": "Source Material"
+            },
+            {
+              "id": "D",
+              "text": "Express Yourself"
+            },
+            {
+              "id": "E",
+              "text": "Media Use"
+            },
+            {
+              "id": "F",
+              "text": "The Short Story"
+            },
+            {
+              "id": "A",
+              "text": "venture into the world of popular writers. One story is selected for adaptation into a short play and group performance. Pre-arranged groups welcome."
+            },
+            {
+              "id": "G",
+              "text": "Caught for Speeding"
+            },
+            {
+              "id": "H",
+              "text": "Quote Me if You Must"
+            },
+            {
+              "id": "I",
+              "text": "The Job for Me"
+            },
+            {
+              "id": "J",
+              "text": "Can I Help You?"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "STUDY CENTRE COURSES",
+        "text": "(A) From Paragraph to Essay Of particular relevance to students who wish to improve their organisational skills and who feel that their final product is never clear enough.\n\nThursday 10-12\n\nKiran Singh\n\n(B) Communicate by Mail Owing to the popularity of last term's course, this is a repeat. Requests for information, notification of personal details and enclosures will be looked at. Please note that this is not a business course.\n\nFriday 2-4\n\nCella Rice\n\n(C) Source Material How do you gather information for a project or paper? A practical course which looks at sources of information and how to use cataloguing systems.\n\nMonday 10-11\n\nKiran Singh\n\n(D) Express Yourself An advanced course suitable for students who are about to step into organisations where they may have to voice their opinions in various forums.\n\nMonday 12-2\n\nDave Parrin\n\n(E) Media Use Open to all students, this course focuses on the many ways we can profit linguistically from the radio and television. Use of video essential. Group projects form part of course.\n\nTuesday 9-11\n\nSteve Ansell\n\n(F) The Short Story\n\n(A) venture into the world of popular writers. One story is selected for adaptation into a short play and group performance. Pre-arranged groups welcome.\n\nThursday 11-1.30\n\nMrs Owen\n\n(G) Caught for Speeding Open to all students. Simple eye exercises to help you skim and scan. How to be selective on the page. Using headings, topic sentences and paragraphs for easy access.\n\nWednesday 11-1\n\nMrs Owen\n\n(H) Quote Me if You Must The do's and don'ts of using source material. How to incorporate it into your own work in an acceptable way. How not to plagiarise other people's articles, books etc.\n\nTuesday 9-10.30\n\nDr Johnson\n\n(I) The Job for Me Finding it, applying for it and getting it. Where can it all go wrong? Written and oral course with simulation exercises using authentic newspaper advertisements.\n\nFriday 10-11.30\n\nFabbeh AI-Hussein J Can I Help You? Practical course for students who wish to improve their telephone skills. Breaks the ice for newcomers. No written skills required.\n\nWednesday 3-5\n\nMike Vas\n\nK The Customer is Always Right An interesting angle – how do you reply to letters from customers? What tone is best and when? How do you achieve results?\n\nWednesday 11-1\n\nCella Rice\n\nL Tense about Tenses For those who worry about their individual words – a look at tenses and other aspects of the language through poetry and song. Good voice helps but not essential!\n\nSaturday 10-12\n\nSteve Ansell"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: PTEROSAURS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-70-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the identification of the type of creature a pterosaur actually was",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "conflicting theories about how pterosaurs came to fly",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "the cause of widespread destruction of animal life on our planet ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the fact that pterosaurs once existed all over the world",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the first clear proof that pterosaurs could fly",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "concrete evidence that pterosaurs hunted their food from the air",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He refers to the difficulty of determining how pterosaurs evolved without further evidence.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cosimo Alessandro Collini"
+            },
+            {
+              "id": "B",
+              "text": "Georges Cuvier"
+            },
+            {
+              "id": "C",
+              "text": "Fabio dalla Vecchia"
+            },
+            {
+              "id": "D",
+              "text": "Paul MacCready"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He failed to interpret the evidence before him.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cosimo Alessandro Collini"
+            },
+            {
+              "id": "B",
+              "text": "Georges Cuvier"
+            },
+            {
+              "id": "C",
+              "text": "Fabio dalla Vecchia"
+            },
+            {
+              "id": "D",
+              "text": "Paul MacCready"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He gave an appropriate name to the first pterosaur that was discovered",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cosimo Alessandro Collini"
+            },
+            {
+              "id": "B",
+              "text": "Georges Cuvier"
+            },
+            {
+              "id": "C",
+              "text": "Fabio dalla Vecchia"
+            },
+            {
+              "id": "D",
+              "text": "Paul MacCready"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "He mentions the ability of pterosaurs to take advantage of their environment. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cosimo Alessandro Collini"
+            },
+            {
+              "id": "B",
+              "text": "Georges Cuvier"
+            },
+            {
+              "id": "C",
+              "text": "Fabio dalla Vecchia"
+            },
+            {
+              "id": "D",
+              "text": "Paul MacCready"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "So far, evidence of a total of ______pterosaurs has been discovered.",
+          "answer": "over a thousand/a thousand",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-70-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The wings of Quetzalcoatlus measured more than ______across.",
+          "answer": "11 metres / 11 meters",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "PTEROSAURS",
+        "text": "(A) Pterosaurs stand out as one of nature's great success stories. They first appeared during the Triassic period, 215 million years ago, and thrived for 150 million years before becoming extinct at the end of the Cretaceous period. Uncontested in the air, pterosaurs colonised all continents and evolved into a vast array of shapes and sizes.\n\n(B) Until recently, most scientists would not have put pterosaurs in the same class as birds in terms of flying ability. Because pterosaurs were reptiles, generations of researchers imagined that these creatures must have been cold-blooded, like modern snakes and lizards. This would have made flying awkward, as they would have lacked the endurance to power their muscles for long periods of time.\n\n(C) In the past three decades, however, a number of fossil discoveries have prompted researchers to re-examine their views. The new picture of pterosaurs reveals that they were unlike any modern reptile. From a fossil discovered in Kazakhstan, scientists suspect that pterosaurs had a covering resembling fur. If so, this detail provides evidence of a warm-blooded body that could maintain the kind of effort needed to stay in the air. Indeed, scientists now believe that many pterosaurs were gifted airborne predators, built to feed while in flight. And, in fact, such controversy has surrounded pterosaurs since the first discovery of one in the early 1700s.\n\n(D) Cosimo Alessandro Collini, the first natural historian to study the fossil and describe it, was unable to classify it. It was not until 1791 that the great French anatomist Georges Cuvier deduced that the animal was in fact a flying reptile, whose fourth finger supported a wing. He named the fossil Pterodactylus, combining the Greek words for wing and finger. A few decades later, the name pterosaur, or winged reptile, was adopted to describe the growing list of similar fossiIs.\n\n(E) In 1873, a remarkable pterosaur specimen came to light that confirmed Cuvier's deduction. Unlike earlier fossils, this new find near the Bavarian town of Solnhofen contained delicate wing impressions, establishing definitely that the extinct reptile was capable of flight. Even though over a thousand pterosaur specimens are known today, such wing impressions remain rare. Normally only bones survive the fossilisation process.\n\n(F) But how pterosaurs learnt to fly remains a matter for disagreement. Most researchers conclude that pterosaurs are descended from a small tree-dwelling reptile that spent its life jumping between branches. This creature would have spread its limbs, and used flaps of skin attached to its limbs and body to help it to land gently on the ground. Over many generations the fourth finger on each of its front 'arms' would have grown longer, making the skin surface larger and enabling the animal to glide farther. Meanwhile, the competing argument holds that pterosaurs developed from two-legged reptiles that ran along the ground, perhaps spreading their arms for balance. Through gradual growth, the front arms would then have evolved into wings. This difficult issue will only be resolved with the discovery of earlier forms of pterosaurs.\n\n(G) 'It's very difficult to say how pterosaurs changed over time because the earliest fossils we have are of pterosaurs whose fourth finger has already transformed into a wing,' says Fabio dalla Vecchia, an Italian researcher. In fact, the earliest known pterosaurs came from the mountains of northern Italy, where he has spent years searching for flying reptiles. These species have shorter wings than later forms, but there is evidence that they were skilful fliers, capable of catching fish over open water. Proof of this has been found in the fossil of a Eudimorphodon, a 215-million-year-old pterosaur found near Bergamo, Italy. Under a microscope, several fish scales can be seen in the abdomen of the specimen -the remains of the pterosaur's last meal.\n\n(H) A different but equally impressive sight is the life-size model of Quetzalcoatlus northropi, which stares down at visitors in the Museum of Flying in Santa Monica, California. It has a beak the size of a man and wings wider than those of many of the planes exhibited nearby. This pterosaur had wings over 11 metres wide, making it the largest flying animal ever known.\n\n(I) Quetzalcoatlus represents the height of pterosaur evolution. 'Unlike smaller pterosaurs, it could use natural currents to stay in the air without having to move its wings continuously,' said Paul MacCready, an aeronautical engineer. 'As pterosaurs got larger, they discovered the benefits of gliding on air currents, making use of a free energy source. With their hollow bones, these pterosaurs had a very light construction, ideal for such activity.' J As we walked beneath the Quetzalcoatlus model in Santa Monica, MacCready pointed out its similarity to sailplanes, the most efficient kind of aeroplanes. Both have long slender wings designed to fly with minimum power. During flight, sailplane pilots routinely search for places where heat rises from sun-baked earth, creating hot air currents called thermals. Undoubtedly, Quetzalcoatlus would have used thermals as well, lazily circling over the river deltas that once covered parts of Texas. K The triumphant reign of pterosaurs ended with this giant flier. At the end of the Cretaceous period 65 million years ago, a meteorite or comet slammed into the Earth. That calamity – and other events-wiped out roughly three quarters of all species, including all pterosaurs and dinosaurs. But before their disappearance, pterosaurs enjoyed unequalled success. They flew into sunny skies before any other vertebrate. For 150 million years they sailed the winds on the strength of a fragile finger. What a glorious ride they had."
+      }
+    }
+  ]
+}

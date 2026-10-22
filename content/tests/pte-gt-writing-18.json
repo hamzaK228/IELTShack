@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-18",
+  "title": "General Training Writing — Letter 18",
+  "kind": "practice",
+  "description": "Task 1 letter, 18 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-18-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You had a good meal in a local restaurant with your family. Write a letter to the newspaper to tell them about it, describe the meal you had, and why you think the restaurant is worth visiting.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

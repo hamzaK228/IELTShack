@@ -1,0 +1,578 @@
+{
+  "id": "pte-listening-184",
+  "title": "Listening — Practice Test 184",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-184-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Occupation: ______",
+          "answer": "journalist",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Reason for travel today: ______",
+          "answer": "shopping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name of station returning to: ______",
+          "answer": "Staunfirth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of ticket purchased: standard ______ ticket",
+          "answer": "Return",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cost of ticket: ______ £",
+          "answer": "23.70",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where ticket was bought: ______",
+          "answer": "Online",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Least satisfied with: the ______ this morning",
+          "answer": "Delay",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Most satisfied with: how much ______ was provided",
+          "answer": "Information",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Least satisfied with: lack of seats, particularly on the ______",
+          "answer": "Platform(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Neither satisfied nor dissatisfied with: the ______ available",
+          "answer": "Parking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "café ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "toilets ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "formal gardens ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "outdoor gyms ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "skateboard ramp ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "wild flowers ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q17",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "What does the speaker say about the adventure playground?",
+          "options": [
+            {
+              "id": "A",
+              "text": "children must be supervised"
+            },
+            {
+              "id": "B",
+              "text": "it costs more in winter"
+            },
+            {
+              "id": "C",
+              "text": "some activities are only for younger children"
+            },
+            {
+              "id": "D",
+              "text": "no payment is required"
+            },
+            {
+              "id": "E",
+              "text": "it was recently expanded"
+            }
+          ],
+          "answer": [
+            "A",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q18",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "What does the speaker say about the adventure playground?",
+          "options": [
+            {
+              "id": "A",
+              "text": "children must be supervised"
+            },
+            {
+              "id": "B",
+              "text": "it costs more in winter"
+            },
+            {
+              "id": "C",
+              "text": "some activities are only for younger children"
+            },
+            {
+              "id": "D",
+              "text": "no payment is required"
+            },
+            {
+              "id": "E",
+              "text": "it was recently expanded"
+            }
+          ],
+          "answer": [
+            "A",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q19",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "What does the speaker say about the glass houses?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are closed at weekends"
+            },
+            {
+              "id": "B",
+              "text": "volunteers are needed to work there"
+            },
+            {
+              "id": "C",
+              "text": "they were badly damaged by fire"
+            },
+            {
+              "id": "D",
+              "text": "more money is needed to repair some of the glass"
+            },
+            {
+              "id": "E",
+              "text": "visitors can see palm trees from tropical regions"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q20",
+          "skill": "listening",
+          "type": "multi",
+          "prompt": "What does the speaker say about the glass houses?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are closed at weekends"
+            },
+            {
+              "id": "B",
+              "text": "volunteers are needed to work there"
+            },
+            {
+              "id": "C",
+              "text": "they were badly damaged by fire"
+            },
+            {
+              "id": "D",
+              "text": "more money is needed to repair some of the glass"
+            },
+            {
+              "id": "E",
+              "text": "visitors can see palm trees from tropical regions"
+            }
+          ],
+          "answer": [
+            "A",
+            "C"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What did Annie discover from reading about icehouses?",
+          "options": [
+            {
+              "id": "A",
+              "text": "why they were first created"
+            },
+            {
+              "id": "B",
+              "text": "how the ice was kept frozen"
+            },
+            {
+              "id": "C",
+              "text": "where they were located"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What point does Annie make about refrigeration in ancient Rome?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it became a commercial business"
+            },
+            {
+              "id": "B",
+              "text": "it used snow from nearby"
+            },
+            {
+              "id": "C",
+              "text": "it took a long time to become popular"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In connection with modern refrigeration both Annie and Jack are worried about",
+          "options": [
+            {
+              "id": "A",
+              "text": "the complexity of the technology"
+            },
+            {
+              "id": "B",
+              "text": "the fact that some are disposed of irresponsibly"
+            },
+            {
+              "id": "C",
+              "text": "the large number that quickly break down"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do Jack and Annie agree regarding domestic fridges?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are generally good value of money"
+            },
+            {
+              "id": "B",
+              "text": "there are plenty of useful variations"
+            },
+            {
+              "id": "C",
+              "text": "they are more useful than other domestic appliances"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the goods that are refrigerated",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the effects on health",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the impact on food producers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the impact on cities",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "refrigerated transport",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "domestic fridges",
+          "options": [
+            {
+              "id": "A",
+              "text": "Annie"
+            },
+            {
+              "id": "B",
+              "text": "Jack"
+            },
+            {
+              "id": "C",
+              "text": "both Annie and Jack"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• For the first time, people's possessions were used to measure Britain's ______",
+          "answer": "Wealth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Developments in production of goods and in ______ greatly changed lives",
+          "answer": "Technology",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The Industrial Revolution would not have happened without the new types of ______ that were used then",
+          "answer": "Power",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The leading industry was ______ (its products became widely available)",
+          "answer": "Textile(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• New ______ made factories necessary and so more people moved into towns",
+          "answer": "Machines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Greater access to ______ made people more aware of what they could buy in shops",
+          "answer": "Newspapers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o When shopping people were not limited to buying ______ Goods",
+          "answer": "Local",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Inside stores because of better ______",
+          "answer": "Lighting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Outside stores because ______ were bigger",
+          "answer": "Windows",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-184-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ that was persuasive became much more common",
+          "answer": "Advertising",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/184_we.mp3"
+    }
+  ]
+}

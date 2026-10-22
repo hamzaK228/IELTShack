@@ -1,0 +1,1017 @@
+{
+  "id": "pte-gt-reading-15",
+  "title": "General Training Reading — Practice Test 15",
+  "kind": "practice",
+  "description": "4 texts, 37 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Booking a Wessex Cottages Holiday",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-15-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The office is open on Saturdays in February but closes slightly earlier than on weekdays.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "On receipt of your deposit, Wessex Cottages will confirm your booking by telephone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "For UK bookings, any outstanding balance must be paid within ten weeks of sending the deposit.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Between the departure of one visitor and the arrival of the next, the properties are visited and made ready.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The cost is lower if you make a last-minute booking.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Electricity is included in the rental of the majority of Wessex Cottages properties.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Beach towels are available for hire. Read the advertisements below and answer Questions 8-14.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q8",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "I have had an accident in my car. One of the rear lights is broken. I need to have it replaced.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "I am helping to organise a wedding. The party will be at the bride's family's house but we are looking for someone to provide the food.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "I have just found a house that I want to buy and I need a lawyer to help me with all the paperwork. ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "I have just returned from a holiday in Thailand, where I bought a Thai recipe book. I want to use the recipes in my restaurant, but I need someone to help me understand them. ______",
+          "answer": "L",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "I have just got a new job. I need to find somewhere to live locally.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q13",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Some friends are coming to visit me for the weekend, but my house is too small to put them all up. I want to find somewhere for them to stay.",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            },
+            {
+              "id": "i",
+              "text": "Bee behaviour is a mystery"
+            },
+            {
+              "id": "ii",
+              "text": "Communicating direction when outside a hive"
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "I work in a local firm of solicitors. It's nearly the end of the tax year and I am trying to find someone to help us organise our finances. Read the passage below and answer Questions 15-21.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Booking a Wessex Cottages Holiday",
+        "text": "How to book your holiday When you have looked through our brochure and have chosen two or three alternative cottages you would like to stay in, please phone our Holiday Booking Office.\n\nThe number is: 01225 892299\n\n31st March to 20th October Monday, Tuesday, Wednesday, Friday 9.00 a.m. to 5.00 p.m. and Thursday 9.30 a.m. to 5.00 p.m.\n\nSaturday Closed\n\nSunday Closed\n\n21st October to 30th March Monday, Tuesday, Wednesday, Friday 9.00 a.m. to 5.00 p.m. and Thursday 9.30 a.m. to 5.00 p,m. Saturday 9.30 a.m. to 4.30 p.m.\n\nSunday Closed We will check the availability of your choices and our reservation staff will help you make your decision. Should none of your choices be available, we will do our best to suggest suitable alternatives. When a provisional reservation has been made, it will be held for 7 days. We will give you a holiday reference number and ask you to complete the holiday booking form and return it, with a deposit of ONE THIRD of the cottage rental, to:\n\nWESSEX COTTAGES HOUDAY BOOKING OFFICE PO BOX 675\n\nMELKSHAM\n\nWILTSHIRE SN12 8SX Deposit payments can be made by credit card at the time of booking or by cheque made payable to: Wessex Cottages Ltd.\n\nIF WE HAVE NOT RECEIVED YOUR COMPLETED AND SIGNED BOOKING FORM WITH DEPOSIT WITHIN 7 DAYS, WE REGRET THAT YOUR RESER VATION WILL BE CANCELLED. When we receive your booking form and deposit, your reservation will be confirmed – we will send you a Booking Confirmation, together with advice on how to reach your holiday cottage and the telephone number or a local contact should you require further details on the cottage before leaving home. Attached to the Booking Confirmation will be a note showing the balance due on your holiday and the date by which it is payable. Outstanding balances on bookings made in the UK must be settled within 10 weeks of sending the deposit.\n\nARRIVAL Please do not arrive at your holiday cottage before 3.30 p.m. or later than 7.00 p.m.\n\nDEPARTURE On the morning of departure, please leave your holiday property by 10 a.m. to allow caretakers sufficient time to prepare the properly for the next visitors. We ask that you please leave the property as you found it. Please don't move the furniture as this can cause damage both to the furniture and to the property.\n\nOVERSEAS BOOKINGS We are delighted to take bookings from overseas visitors either by telephone or fax +44 (0)1225890227. All payments should be made by credit card or by cheque in Pounds Sterling. Please note that provisional bookings from overseas visitors will be held for 14 DAYS. If the completed and signed booking form with the deposit is not received within that time, the reservation will be cancelled.\n\nLAST-MINUTE BOOKINGS If you wish to make a last-minute booking, please telephone the Holiday Booking Office to check availability. If your reservation is made within 10 weeks of the holiday start date, full payment is due on booking.\n\nELECTRICITY In most Wessex Cottages properties electricity must be paid for in addition to me holiday price. You may be asked to take a meter reading at the conclusion of your holiday, or an additional fixed charge for electricity may be made. Alternatively, there may be o coin meter, in which case you will be advised when you are making your booking. In some cottages, electricity is included in the rental and in very few there is no electricity at all.\n\nLINEN In most Wessex Cottages properties you have the choice either of hiring linen, at a cost of £6.00 per person per week, or of bringing your own. In some cottages linen is included and in a very few it is not available at all. if you choose to hire linen, it will include bed linen (i.e. sheets and/or duvet covers and pillow cases), bath and hand towels and tea cloths but will not include towels for swimming or beach use. Linen is not available for cots. If you have any queries, do ask the Holiday Booking Office."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Courses Available at North Coast College Campuses",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-15-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Wollongbar",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Grafton",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tweed Heads ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Lismore",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Port Macquarie",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Ballina",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Coffs Harbour Fields of Study",
+          "options": [
+            {
+              "id": "A",
+              "text": "forest restoration"
+            },
+            {
+              "id": "B",
+              "text": "banana cultivation"
+            },
+            {
+              "id": "C",
+              "text": "horse breeding"
+            },
+            {
+              "id": "D",
+              "text": "infant illness"
+            },
+            {
+              "id": "E",
+              "text": "elderly care"
+            },
+            {
+              "id": "F",
+              "text": "fish farming"
+            },
+            {
+              "id": "G",
+              "text": "herbal therapy"
+            },
+            {
+              "id": "H",
+              "text": "cattle farming"
+            },
+            {
+              "id": "I",
+              "text": "beach protection animal health recreation programs"
+            },
+            {
+              "id": "J",
+              "text": "animal health K recreation programs Read the passage below and answer Questions 22-27."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Courses Available at North Coast College Campuses",
+        "text": "Agriculture Specialist agriculture centres of the North Coast College offer courses ranging from agricultural skills to beef production, horse studies and rural management. The Wollongbar Campus is renowned for its Tropical Fruit Growing program and has introduced modules on macadamias, bushfoods and coffee production. Taree offers the Veterinary Assistant program and has introduced `Agristudy', which enables students to learn flexibly and by correspondence, using a mixture of 'student learning guides, telephone tutorials, information sessions and workshops. Mullumbimby has the popular Rural Business Management program, which can also be studied by correspondence. Grafton, meanwhile, offers traineeships in agriculture including Beef and Dairy.\n\nHealth programs The continued promotion of healthier living within the community has seen an increase in fitness awareness and a need for trained staff in the Fitness and Sport industries. Fitness Instruction courses are offered at Tweed Heads and teach students how to put together and lead a safe fitness program. Lismore offers the Aged Support program and Port Macquarie offers the Early Childhood Nursing program. These courses give you the theoretical skills, knowledge and practical experience needed to work in a variety of residential and community-based health care institutions. For students interested in working in the Remedial Health Care industry, Kingscliff is a specialist centre for the Natural Therapy Diploma and has a health clinic on campus.\n\nEnvironmental Studies The Environmental Studies courses offered by the North Coast College have been developed to help students increase their awareness and understanding of environmental issues and to enable them to determine their environmental impact. The Environmental Practice course, which includes Coastal Management, is offered through Ballina campus. For people interested in working to restore degraded natural forests, the North Coast College offers the Forest Regeneration course at Casino. This course can provide a pathway for students into the Natural Resource Management Diploma at university. Marine Industry Management programs are offered at Coffs Harbour."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Information on Photocopying",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-15-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Prepaid Services Cards are in use in three locations.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You can only buy a Prepaid Services Card at the Library.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The smallest amount that can be added to the Prepaid Services Card at the Library teller machine is $5.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Prepaid Services Card can be used to pay library fines.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Notes and coins can be used in all teller machines.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A PIN is allocated when you purchase your Prepaid Services Card.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section A ______",
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section B ______",
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section C ______",
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q31",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section D ______",
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q32",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section E ______",
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q33",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section F ______",
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q34",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Section G List of Headings i Bee behaviour is a mystery ii Communicating direction when outside a hive iii How bees carry food on their bodies iv Von Frisch discovers that bees communicate v How bees communicate direction when inside a hive vi The special position of bee language vii Expressing distance by means of dance viii The purpose of the two simple dances ix The discovery that bees have a special scent x Von Frisch discovers three types of dance ______",
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 35. ______",
+          "answer": "round",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 36. ______",
+          "answer": "sickle",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 37. ______",
+          "answer": "waggle",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Information on Photocopying",
+        "text": "In Information Services provide a Prepaid Services Card system for student and staff use of photocopiers and associated equipment in the Library, and use of laser printers in B Block. The same system has recently been installed in the Student Representative Council (SRC) for use with photocopiers there. The system uses a plastic card similar to a keycard. Each card, called a 'Prepaid Services Card', has a unique, six-digit account number that accesses the system. Initially, students and other users will have to purchase a Prepaid Services Card from a teller machine located in the Library or B Block Computer Labs. The Prepaid Services Card costs $2.00. It is important that you keep a record of your card's account number and sign your name or write your student ID number on the card. Users prepay for Library, Computer Lab or SRC services by adding value to their Prepaid Services Card. There are no refunds, so only add value for the amount of prepaid services you intend to use. The maximum amount of prepaid services or value that can be added to a card is $50.00. Two note and coin teller machines have been installed, one in the photocopy room on Level 2 of the Library and the other in the B Block Computer Labs. These teller machines accept any denomination of coins or notes up to $50.00. The SRC has a smaller, coin only, teller machine. When a new card is purchased, the Library and B Block Computer Labs teller machines automatically issue a receipt to the user. However, when adding credit to your existing card the printing of receipts is optional. For added security, a card user may choose to allocate a PIN or Personal Identification Number to their Prepaid Services Card. The PIN must then be entered each time the card is used."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Understanding Bee Behaviour",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-15-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Von Frisch discovered the difference between dance types by changing the position of______",
+          "answer": "the feeding dish",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The dance outside the hive points in the direction of______",
+          "answer": "the food (source)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-15-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The angle of the dance from the vertical shows the angle of the food from______",
+          "answer": "the sun",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Understanding Bee Behaviour",
+        "text": "(A) A bee's brain is the size of a grass seed, yet in this tiny brain are encoded some of the most complex and amazing behavioural patterns witnessed outside humankind. For bees are arguably the only animals apart from humans which have their own language. Earlier this century Karl von Frisch, a professor of Zoology at Munich University, spent decades of 'the purest joy of discovery' unravelling the mysteries of bee behaviour. For his astonishing achievements he was awarded the Nobel Prize and it is from his work that most of today's knowledge of what bees say to each other derives.\n\n(B) It started simply enough. Von Frisch knew from experiments by an earlier researcher that if he put out a bowl of sweet sugar syrup, bees might at first take some time to find it but, once they had done so, within the hour, hundreds of other bees would be eagerly taking the syrup. Von Frisch realised that, in some way, messages were being passed on back at the hive\", messages which said, 'Out there, at this spot, you're going to find food.'\n\n(C) But how was it happening? To watch the bees, von Frisch constructed a glass-sided hive. He found that, once the scout bees arrived back at the hive, they would perform one of three dance types. In the first type, a returning scout scampered in circles, alternating to right and left, stopping occasionally to regurgitate food samples to the excited bees chasing after her. In the second dance, clearly an extended version of this round dance, she performed a sickle-shaped figure-of-eight pattern instead. In the third, distinctly different dance, she started by running a short distance in a straight line, waggling her body from side to side, and returning in a semi-circle to the starting point before repeating the process. She also stopped from time to time to give little bits of food to begging bees. Soon the others would excitedly leave the hive in search of food. Minutes later, many of them, marked by von Frisch, could be seen eating at the bowls of sugar syrup.\n\n(D) Experimenting further, von Frisch unravelled the mystery of the first two related types, the round and the sickle dances. These dances, he concluded, told the bees simply that, within quite short distances of the hive there was a food source worth chasing. The longer and more excitedly the scout danced, the richer the promise of the food source. The scent she carried in her samples and on her body was a message to the other bees that this particular food was the one they were looking for. The others would then troop out of the hive and fly in spiralling circles 'sniffing' in the wind for the promised food.\n\n(E) At first, von Frisch thought the bees were responding only to the scent of the food. But what did the third dance mean? And if bees were responding only to the scent, how could they also 'sniff down' food hundreds of metres away from the hive, food which was sometimes downwind? On a hunch, he started gradually moving the feeding dish further and further away and noticed as he did so, that the dances of the returning scout bees also started changing. If he placed the feeding dish over nine metres away, the second type of dance, the sickle version, came into play. But once he moved it past 36 metres, the scouts would then start dancing the third, quite different, waggle dance. The measurement of the actual distance too, he concluded, was precise. For example, a feeding dish 300 metres away was indicated by 15 complete runs through the pattern in 30 seconds. When the dish was moved to 60 metres away, the number dropped to 11.\n\n(F) Von Frisch noted something further. When the scout bees came home to tell their sisters about the food source, sometimes they would dance outside on the horizontal entrance platform of the hive, and sometimes on the vertical wall inside. And, depending on where they danced, the straight portion of the waggle dance would point in different directions. The outside dance was fairly easy to decode: the straight portion of the dance pointed directly to the food source, so the bees would merely have to decode the distance message and fly off in that direction to find their food.\n\n(G) But by studying the dance on the inner wall of the hive, von Frisch discovered a remark-able method which the dancer used to tell her sisters the direction of the food in relation to the sun. When inside the hive, the dancer cannot use the sun, so she uses gravity instead. The direction of the sun is represented by the top of the hive wall. If she runs straight up, this means that the feeding place is in the same direction as the sun. However, if, for example, the feeding place is 40° to the left of the sun, then the dancer would run 40° to the left of the vertical line. This was to be the first of von Frisch's remarkable discoveries. Soon he would also discover a number of other remarkable facts about how bees communicate and, in doing so, revolutionise the study of animal behaviour generally."
+      }
+    }
+  ]
+}

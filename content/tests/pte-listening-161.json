@@ -1,0 +1,468 @@
+{
+  "id": "pte-listening-161",
+  "title": "Listening — Practice Test 161",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-161-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Type of transportation: ______",
+          "answer": "by minibus",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Maximum group size: ______",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Next tour date: ______",
+          "answer": "april",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hotel name: ______ The",
+          "answer": "palisades",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things are included in the price of the tour?",
+          "options": [
+            {
+              "id": "A",
+              "text": "fishing trip"
+            },
+            {
+              "id": "B",
+              "text": "guided bushwalk"
+            },
+            {
+              "id": "C",
+              "text": "reptile park entry"
+            },
+            {
+              "id": "D",
+              "text": "table tennis"
+            },
+            {
+              "id": "E",
+              "text": "tennis"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things are included in the price of the tour?",
+          "options": [
+            {
+              "id": "A",
+              "text": "fishing trip"
+            },
+            {
+              "id": "B",
+              "text": "guided bushwalk"
+            },
+            {
+              "id": "C",
+              "text": "reptile park entry"
+            },
+            {
+              "id": "D",
+              "text": "table tennis"
+            },
+            {
+              "id": "E",
+              "text": "tennis"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The tour costs $ ______",
+          "answer": "280",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bookings must be made no later than days in advance. ______",
+          "answer": "14",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A deposit is required. ______",
+          "answer": "20%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The customer's reference number is ______",
+          "answer": "39745T",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Baby safeeasy to ______– did not have any (12) ______",
+          "answer": "move around",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Baby safeeasy to (11) ______– did not have any ______",
+          "answer": "brakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– babies could trap their ______ in the side bar(14) ______",
+          "answer": "fingers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– babies could trap their (13) ______ in the side bar______",
+          "answer": "satisfactory",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Choice cotseasy to ______– side did not drop down",
+          "answer": "put together",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– spaces between the bars were ______(17) ______",
+          "answer": "too wide",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– spaces between the bars were (16) ______",
+          "answer": "dangerous",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mother's choicebest of cot could be moved– did not have any ______",
+          "answer": "wheels",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– pictures could be removed easily______",
+          "answer": "best buy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Edges of cot should not be ______",
+          "answer": "sharp",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Andrew has worked at the hospital for",
+          "options": [
+            {
+              "id": "A",
+              "text": "two years"
+            },
+            {
+              "id": "B",
+              "text": "three years"
+            },
+            {
+              "id": "C",
+              "text": "five years"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "During the course Andrew's employers will pay",
+          "options": [
+            {
+              "id": "A",
+              "text": "his fees"
+            },
+            {
+              "id": "B",
+              "text": "his living costs"
+            },
+            {
+              "id": "C",
+              "text": "his salary"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The part-time course lasts for",
+          "options": [
+            {
+              "id": "A",
+              "text": "one whole year"
+            },
+            {
+              "id": "B",
+              "text": "18 months"
+            },
+            {
+              "id": "C",
+              "text": "two years"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO types of coursework are required each month on the part-time course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a case study"
+            },
+            {
+              "id": "B",
+              "text": "an essay"
+            },
+            {
+              "id": "C",
+              "text": "a survey"
+            },
+            {
+              "id": "D",
+              "text": "a short report"
+            },
+            {
+              "id": "E",
+              "text": "a study diary"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO types of coursework are required each month on the part-time course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "a case study"
+            },
+            {
+              "id": "B",
+              "text": "an essay"
+            },
+            {
+              "id": "C",
+              "text": "a survey"
+            },
+            {
+              "id": "D",
+              "text": "a short report"
+            },
+            {
+              "id": "E",
+              "text": "a study diary"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Students study ______ during each module. A module takes (27) and the work is very (28) To get a Diploma each student has to study (29) and then work on (30) in depth.",
+          "answer": "full-time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Students study (26) during each module. A module takes ______ and the work is very (28) To get a Diploma each student has to study (29) and then work on (30) in depth.",
+          "answer": "one term",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Students study (26) during each module. A module takes (27) and the work is very ______ To get a Diploma each student has to study (29) and then work on (30) in depth.",
+          "answer": "intensive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Students study (26) during each module. A module takes (27) and the work is very (28) To get a Diploma each student has to study ______ and then work on (30) in depth.",
+          "answer": "two modules",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Students study (26) during each module. A module takes (27) and the work is very (28) To get a Diploma each student has to study (29) and then work on ______ in depth.",
+          "answer": "one topic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "According to George Bernard Shaw, men are supposed to understand economics and finance. ______",
+          "answer": "politics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "However, women are more prepared to about them. ______",
+          "answer": "learn",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Women tend to save for and a house. ______",
+          "answer": "children's education",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Men tend to save for and for retirement. ______",
+          "answer": "a car",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Women who are left alone may have to pay for when they are old. ______",
+          "answer": "nursing care",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research indicates that many women only think about their financial future when a ______ occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their (37) A good way for women to develop their (38) in dealing with financial affairs would be to attend classes in (39) When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in (40) In such ways, women can have a comfortable, independent retirement.",
+          "answer": "crisis",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research indicates that many women only think about their financial future when a (36) occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their ______ A good way for women to develop their (38) in dealing with financial affairs would be to attend classes in (39) When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in (40) In such ways, women can have a comfortable, independent retirement.",
+          "answer": "early twenties",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research indicates that many women only think about their financial future when a (36) occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their (37) A good way for women to develop their ______ in dealing with financial affairs would be to attend classes in (39) When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in (40) In such ways, women can have a comfortable, independent retirement.",
+          "answer": "confidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research indicates that many women only think about their financial future when a (36) occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their (37) A good way for women to develop their (38) in dealing with financial affairs would be to attend classes in ______ When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in (40) In such ways, women can have a comfortable, independent retirement.",
+          "answer": "money management",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-161-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research indicates that many women only think about their financial future when a (36) occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their (37) A good way for women to develop their (38) in dealing with financial affairs would be to attend classes in (39) When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in ______ In such ways, women can have a comfortable, independent retirement.",
+          "answer": "low-risk investments",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/161_we.mp3"
+    }
+  ]
+}

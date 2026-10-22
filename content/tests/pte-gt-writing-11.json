@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-11",
+  "title": "General Training Writing — Letter 11",
+  "kind": "practice",
+  "description": "Task 1 letter, 11 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-11-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are looking for a part-time job.\nWrite a letter to an employment agency. In your letter,\nintroduce yourself\nexplain what sort of job you would like\nand say what experience and skills you have",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

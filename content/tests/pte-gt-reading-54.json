@@ -1,0 +1,540 @@
+{
+  "id": "pte-gt-reading-54",
+  "title": "General Training Reading — Practice Test 54",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: sydney conservatorium of music concerts for january 2001",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-54-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What page would you turn to for advice about money? ______",
+          "answer": "18",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On what TWO pages can you read about art? ______",
+          "answer": "28,33",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "On what page is the new sports stadium discussed? ______",
+          "answer": "32",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How often does this magazine appear? Read the advertisements for musical concerts below and answer the questions that follow. ______",
+          "answer": "Monthly/every month/ each month",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "At which concert will young performers play? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which concert will be held outdoors? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which concerts will happen more than once? ______",
+          "answer": "A, E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which concert will feature only one performer? ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Which concert is NOT being held at night? ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "At which concert can the audience choose what will be performed? ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "help the casualty to sit or lie down ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "wear stout shoes, walk-socks and jeans (or similar clothing) in areas where snakes could be present ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "pain or tightness in the chest or abdomen ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "do not try to catch the snake ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "swelling of the bitten area ______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "sydney conservatorium of music concerts for january 2001",
+        "text": "(A) Sydney Youth Orchestra Conservatorium High School students play a selection of Mozart concertos.\n\nDate: Sat. 4th and 11th January, 8.00 pm. $10 and $5\n\n(B) Let's Sing Together An afternoon for the young and the young-at-heart. Led by Giggles Band, sing children's songs from your childhood and from all over the world. There will be a special appearance by Willy Wallaby, from the popular children's program, Hoppy!\n\nDate: Sun, 5th January, 3.00 pm, $5\n\n(C) One Romantic Evening Bring someone special with you and listen to some of the greatest love songs as you gaze at the stars together.\n\nDate: Sat, 25th January, 8.00 pm, $20 and $12\n\nNote: This concert will be held in the Conservatorium Rose Garden not in the Concert HallD. Rock n' Roll Bop along till late to the rock hits of the last 10 years. Bands playing include The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in.\n\nDate: Sat, 18th January, 8.00 pm, $10 and $5\n\n(E) Flamenco! World famous classical guitarist Rodrigo Paras will play a selection of traditional Spanish Flamenco pieces.\n\nDate: Sun, 19th and 26th January, 7.30 pm, $20 and $12"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: student accommodation at northside university",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-54-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The University Residential Colleges provide",
+          "options": [
+            {
+              "id": "A",
+              "text": "a place to Jive and regular classes"
+            },
+            {
+              "id": "B",
+              "text": "regular classes only"
+            },
+            {
+              "id": "C",
+              "text": "a place to live only."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Smoking is",
+          "options": [
+            {
+              "id": "A",
+              "text": "allowed in University housing"
+            },
+            {
+              "id": "B",
+              "text": "not allowed in University housing"
+            },
+            {
+              "id": "C",
+              "text": "allowed only in certain areas in University housing."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "University townhouses are available for",
+          "options": [
+            {
+              "id": "A",
+              "text": "full-time students only"
+            },
+            {
+              "id": "B",
+              "text": "part-time students only"
+            },
+            {
+              "id": "C",
+              "text": "all students."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Accommodation in the area surrounding the university is",
+          "options": [
+            {
+              "id": "A",
+              "text": "scarce"
+            },
+            {
+              "id": "B",
+              "text": "plentiful"
+            },
+            {
+              "id": "C",
+              "text": "scarce and expensive."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A student living in a 3-bedroom University townhouse would pay ______per week for a room; in comparison, the cheapest accommodation available at Burnside College is (21) ______, per week. The fee charged at Burnside College includes (22) ______ meals per week, but at Boronia College only",
+          "answer": "$",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A student living in a 3-bedroom University townhouse would pay (20) ______per week for a room; in comparison, the cheapest accommodation available at Burnside College is ______, per week. The fee charged at Burnside College includes (22) ______ meals per week, but at Boronia College only",
+          "answer": "$154",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A student living in a 3-bedroom University townhouse would pay (20) ______per week for a room; in comparison, the cheapest accommodation available at Burnside College is (21) ______, per week. The fee charged at Burnside College includes ______ meals per week, but at Boronia College only",
+          "answer": "21",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "meals per week are included in the fee. Helen Turner College has ______",
+          "answer": "17",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "a similar fee structure to ______ College, but only ,(25) ______ may live there.",
+          "answer": "Boronia",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "a similar fee structure to (24) ______ College, but only ,______ may live there.",
+          "answer": "Women",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "student accommodation at northside university",
+        "text": "Situated about 20km from the city centre? Northside University is not easy to get to by public transport. However, students have several different alternatives for accommodation on or near the University campus. Firstly, the University has several residential colleges; Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with 1996 fees ranging from $154 -$165 per week. However, each student room is equipped with a private telephone and voice-mailing facilities, and within the next few months college students will have access to E-MAIL, On-Line library, INTERNET and AARNET via a network with the University. Boronia College has similar room facilities but does not offer the same computer access. It also offers only 17 meals per week, compared to Burnside's 21. Fees vary from $147 – $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential Colleges to the main University campus. The University also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Rents in 1996 ranged from $54 per week for a room in a six bedroom flat to $68.50 per week for a room in a three-bedroom house. Students wanting to live in university housing should apply to the university housing officer in August of the previous year, as it is in high demand. Smoking is banned in University housing. Off campus, there are many flats, townhouses and houses for rent in the local area. These can be found by looking in the local newspaper under ACCOMMODATION, or by checking notices pinned up on the boards around the university. There are always students advertising for housemates and you can even add a notice of your own to the board. However, even sharing accommodation with others can be expensive; tenants are usually required to pay a rental bond, rent in advance, and telephone/electricity / gas bills in addition to food bills. Be sure that you know what you will be required to pay before you enter into any written agreement."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: kormilda college",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-54-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Kormilda College opened as a school in ______",
+          "answer": "1969",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At the time of writing there were______ non-Aboriginal students at Kormilda College.",
+          "answer": "280",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "From the list below, choose the best heading for Section B of the reading passage. Write the appropriate letter A-D in box 28 on your answer sheet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Specialist teaching and teachers at Kormilda College"
+            },
+            {
+              "id": "B",
+              "text": "Special Programmes at Kormilda College for Aboriginal students"
+            },
+            {
+              "id": "C",
+              "text": "The new look Kormjlda College"
+            },
+            {
+              "id": "D",
+              "text": "Programmes at Kormilda College to promote individual excellence"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q29",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sub-schools / / – ______ / – (30) ______ / – (31) ______ | Courses studied in sub-schools / / – (32) ______ / – Maths / – Social Education / – (33) ______",
+          "answer": "Pre-secondary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sub-schools / / – (29) ______ / – ______ / – (31) ______ | Courses studied in sub-schools / / – (32) ______ / – Maths / – Social Education / – (33) ______",
+          "answer": "Supported secondary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– ______Courses studied in sub-schools",
+          "answer": "Secondary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sub-schools / / – (29) ______ / – (30) ______ / – (31) ______ | Courses studied in sub-schools / / – ______ / – Maths / – Social Education / – (33) ______",
+          "answer": "English",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Sub-schools / / – (29) ______ / – (30) ______ / – (31) ______ | Courses studied in sub-schools / / – (32) ______ / – Maths / – Social Education / – ______",
+          "answer": "Science",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Kormilda College educates both Aboriginal and non-Aboriginal students.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some students travel from Arnhem Land to attend Kormilda College.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students must study both the international Baccalaureate and Northern Territory courses.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Pre-Secondary School attracts the best teachers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The specialist curriculum Support Unit adapts school courses so the students can approach them more easily.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are no oral traditional stories in Western communities.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-54-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The school helps the students make connections between Aboriginal and non-Aboriginal cultures.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "kormilda college",
+        "text": "Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999.\n\nSection B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or those of the International Baccalaureate (LB.).\n\nSection C To provide appropriate pastoral care, as well as a suitable academic structure, three distinct sub-schools have been established. • Pre-Secondary: For Aboriginal and Torres Strait Islander students in Years 8-10 who are of secondary school age but have difficulties reading and writing. • Supported Secondary: For Aboriginal and Torres Strait Islander students who are of secondary school age and operating at secondary school year levels 8-12 who need specific second language literacy and numeracy support. • Secondary: For multi-cultural Years 8-12 students. Students remain in their sub-schools for classes in the main subject areas of English, Maths, Social Education and Science. This arrangement takes into account both diverse levels of literacy and the styles of learning and cultural understandings appropriate to traditional Aboriginal second-language users. In elective subjects chosen by the students – which include lndonesian, Music, Art, Drama, Science for Life, Commerce, Geography, Modern History, Woodwork, Metal Work, Economics and Legal Studies – students mix on the basis of subject interest.\n\nSection D To aid the development of the Aboriginal Education program, a specialist curriculum Support Unit has been set up. One of its functions is to re-package school courses so that they can be taught in ways that suit the students. The education program offered to Aboriginal students uses an approach which begins with the students' own experiences and gradually builds bi-cultural understanding. In one course, \"Introducing Western European Culture Through Traditional Story-Telling\", students are helped to build a common base for approaching the English literature curriculum. Drawing on the oral culture of traditional Aboriginal communities, they are introduced to traditional stories of other cultures, both oral and written. In a foundational Year 10 course, \"Theory of Learning\", concepts from Aboriginal culture are placed side by side with European concepts so that students can use their own knowledge base to help bridge the cultural divide. Another project of the Support Unit has been the publication of several books, the most popular, Kormilda Capers. The idea for Kormilda Capers came about when it became obvious that there was a lack of engaging material for the school's teenage readers. One of the stories in the book, \"The Bulman Mob hits the Big Smoke\", recounts the adventures of Kormilda pupils on their first visit to Sydney, Canberra and the snow country. Focussing on experiences which have directly affected the lives of students at the College, and on ideas and issues which are of immediate interest to Aboriginal students, Kormilda Capers has earned enthusiastic support within and outside the school."
+      }
+    }
+  ]
+}

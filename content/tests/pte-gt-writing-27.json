@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-27",
+  "title": "General Training Writing — Letter 27",
+  "kind": "practice",
+  "description": "Task 1 letter, 27 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-27-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are a member of an International Students' club. The club is organising an event to celebrate popular food from around the world. Write a letter to the event organiser, Luis. In your letter\noffer to make a popular dish from your country\ndescribe what this dish is\nexplain why it should be included in the event\nWrite at least 150 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

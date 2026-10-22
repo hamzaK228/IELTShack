@@ -1,0 +1,976 @@
+{
+  "id": "pte-reading-124",
+  "title": "Academic Reading — Practice Test 124",
+  "kind": "practice",
+  "description": "3 texts, 38 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Gondwanaland",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-124-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Finding the evidence ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The living continent ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Small but significant ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Making modern Antartica ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Putting it all together ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Joining another continent ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "An impossible idea ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What's in a name? ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "For many years the existence of Gondwanaland ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The discovery of plate tectonics ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Evidence for Gondwanaland ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In the past Gondwanaland ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The break-up of Gondwanaland",
+          "options": [
+            {
+              "id": "A",
+              "text": "was dominated by the theories of European scientists"
+            },
+            {
+              "id": "B",
+              "text": "had a large population of plants and animals"
+            },
+            {
+              "id": "C",
+              "text": "demonstrated that continents can indeed drift apart"
+            },
+            {
+              "id": "D",
+              "text": "partly explains why earthquakes and volcanoes happen"
+            },
+            {
+              "id": "E",
+              "text": "was because Mesosaurus existed on two modern continents"
+            },
+            {
+              "id": "F",
+              "text": "has been found in geological formations and fossils"
+            },
+            {
+              "id": "G",
+              "text": "smashed into the Asian landmass 45 million years ago"
+            },
+            {
+              "id": "H",
+              "text": "was nothing but speculation"
+            },
+            {
+              "id": "I",
+              "text": "had huge effects on the climate of the Earth"
+            },
+            {
+              "id": "J",
+              "text": "was believed to be a legendary lost continent"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Gondwanaland",
+        "text": "(A) Meet Mesosaurus, a small reptile which lived in fresh-water lakes and streams millions of years ago during the Lower Permain age. Mesosaurus has had a big impact on how we view our planet, because he helped to prove the existence of the super-continent called Gondwanaland.\n\n(B) Every schoolchild has probably looked at a map of the earth and noticed how Africa and South America fit together like pieces of a giant jigsaw, yet until just over a hundred and fifty years ago, no-one believed that this was more than an odd coincidence. It seemed impossible that the massive continents of the earth could ever be moved, let alone so far apart that they ended up half a planet from each other.\n\n(C) Nevertheless, in 1912 Alfred Wegener, a German meteorologist came up with the theory that the continents of the earth had all existed in a single mass, which he called Pangaea (which is Greek for 'all the world\") Later researchers decided that Pangaea had been two continents, one to the north of the other, which had existed about 250 million years ago. From the geological evidence found in the Gondwana area of India, an Austrian geologist, Eduard Suess coined the name 'Gondwanaland' for the southern supercontinent, of which India was once a part. (The northern continent was called Lurasia.)\n\n(D) For many years super-continents were regarded as an interesting theory, but no-one knew how it might work in reality. Then the discovery of the mechanisms of plate tectonics showed how continents might drift across the face of the globe. Once it was accepted that the continents were floating on currents of lava, more evidence became apparent. A particular type of an early plant, the seed fern, was found on continents now scattered about the southern hemisphere of the world, as were tillates, a deposit left by glaciers in the Permo-Carboniferous era of 520 million years ago. And Mesosaurus, the little fresh-water reptile, left his remains in West Africa and Brazil. Since Mesosaurus had no way of crossing the Atlantic, researchers realized that it could not be coincidence that this reptile had left remains in exactly the place where Africa and South America fit together so neatly.\n\n(E) By investigating similarities in animal fossils, different types of plants found in the southern hemisphere but not in the northern hemisphere, and patterns of rock formations, researchers have managed to put the continents of modern-day earth together like a huge jigsaw to make up the vanished super-continent. Sometimes rock formations can be seen to break off at the ocean's edge, to carry on once more thousands of miles away on another continent. The evidence shows that not only were Africa and South America once joined to Antartica, but so were India and Australia, parts of south Western Europe, and Florida.\n\n(F) Although Gondwanaland was located in the far southern hemisphere of the planet, where Antarctica remains today, the climate was much warmer, and we know that huge forests grew there. These forests, fossilized into coal, supply many Indians with energy today. The land animals were adapted to life on their cool continent, with its long dark winter days. Some of the best-known dinosaurs, such as Stegosaurus, Triceratops, and Tyrannosaurus lived on the northern continents, but Gondwanaland also had some fearsome predators such as Abelisaurus, a large meat-eater that lived during the cretaceous period. The seas were populated with fish called placoderms, a name which they get from their skin, which was so thick that they were practically armoured.\n\n(G) The break-up of Gondwanaland had huge consequences for planet earth as we know it now. In geological terms, India has been a sprinter. Breaking from Gondwanaland the sub-continent drifted rapidly northward from the south pole, finally smashing into Asia about 45 million years ago in a collision that raised the Himalayas.\n\n(H) When South America split off about 30 million years ago the effect was even more dramatic. Cold Antarctic water no longer mixed with warmer seas when pushed northward by the South American landmass. Instead, it circled the pole getting colder and colder, until Antartica lost its vegetation and animal life, and became the barren icy wilderness it is today."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Endangered chocolate",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-124-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The flowers of the cacao plant appear",
+          "options": [
+            {
+              "id": "A",
+              "text": "at the end of its top branches."
+            },
+            {
+              "id": "B",
+              "text": "along all of its branches."
+            },
+            {
+              "id": "C",
+              "text": "mainly on its trunk."
+            },
+            {
+              "id": "D",
+              "text": "close to its leaves."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Africa, banana trees are planted with the cacao plants in order to",
+          "options": [
+            {
+              "id": "A",
+              "text": "replace the largest trees."
+            },
+            {
+              "id": "B",
+              "text": "protect the new plants."
+            },
+            {
+              "id": "C",
+              "text": "provide an extra crop."
+            },
+            {
+              "id": "D",
+              "text": "help improve soil quality."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In paragraph H, what is the writer referring to when he says 'the ripples would be felt the world over'?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the impact a collapse in chocolate production could have on other industries"
+            },
+            {
+              "id": "B",
+              "text": "the possibility of disease spreading to other crops"
+            },
+            {
+              "id": "C",
+              "text": "the effects of the economy on world chocolate growers"
+            },
+            {
+              "id": "D",
+              "text": "the link between Brazilian growers and African growers"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a list of the cacao growing areas",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "an example of how disease has affected one cacao growing region",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "details of an ancient chocolate drink",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a brief summary of how the chocolate industry has changed in modern times",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the typical lifespan and crop size of a cacao plantation",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "a reference to the scientific identification of the cacao plant",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "F Meanwhile, in June 1945 an American named Milton Reynolds stumbled upon the Biro pen while on vacation in Buenos Aires. Immediately seeing its commercial potential, he bought several pens and returned to Chicago, where he discovered that loud's original 1888 patent had long since expired. This meant that the ballpoint was now in the public domain, and he, therefore, wasted no time making a copy based on the Biro design. Establishing his pen company with just $26,000, Reynolds quickly set up a factory with 300 workers who began production on 6th October 1945, stamping out pens from precious scraps of aluminum that hadn't been used during the war for military equipment or weapons. Just 23 days later, it was Reynolds' ballpoint pen that caused the stampede at Gimbels Department Store. Following the ballpoint's debut in New York City, Eversharp challenged Reynolds in the law courts, but lost the case because the Biro brothers had failed to secure a U.S. patent on their invention. ______",
+          "answer": "disease",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "F Meanwhile, in June 1945 an American named Milton Reynolds stumbled upon the Biro pen while on vacation in Buenos Aires. Immediately seeing its commercial potential, he bought several pens and returned to Chicago, where he discovered that loud's original 1888 patent had long since expired. This meant that the ballpoint was now in the public domain, and he, therefore, wasted no time making a copy based on the Biro design. Establishing his pen company with just $26,000, Reynolds quickly set up a factory with 300 workers who began production on 6th October 1945, stamping out pens from precious scraps of aluminum that hadn't been used during the war for military equipment or weapons. Just 23 days later, it was Reynolds' ballpoint pen that caused the stampede at Gimbels Department Store. Following the ballpoint's debut in New York City, Eversharp challenged Reynolds in the law courts, but lost the case because the Biro brothers had failed to secure a U.S. patent on their invention. ______",
+          "answer": "middlemen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "F Meanwhile, in June 1945 an American named Milton Reynolds stumbled upon the Biro pen while on vacation in Buenos Aires. Immediately seeing its commercial potential, he bought several pens and returned to Chicago, where he discovered that loud's original 1888 patent had long since expired. This meant that the ballpoint was now in the public domain, and he, therefore, wasted no time making a copy based on the Biro design. Establishing his pen company with just $26,000, Reynolds quickly set up a factory with 300 workers who began production on 6th October 1945, stamping out pens from precious scraps of aluminum that hadn't been used during the war for military equipment or weapons. Just 23 days later, it was Reynolds' ballpoint pen that caused the stampede at Gimbels Department Store. Following the ballpoint's debut in New York City, Eversharp challenged Reynolds in the law courts, but lost the case because the Biro brothers had failed to secure a U.S. patent on their invention. ______",
+          "answer": "sustainable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "F Meanwhile, in June 1945 an American named Milton Reynolds stumbled upon the Biro pen while on vacation in Buenos Aires. Immediately seeing its commercial potential, he bought several pens and returned to Chicago, where he discovered that loud's original 1888 patent had long since expired. This meant that the ballpoint was now in the public domain, and he, therefore, wasted no time making a copy based on the Biro design. Establishing his pen company with just $26,000, Reynolds quickly set up a factory with 300 workers who began production on 6th October 1945, stamping out pens from precious scraps of aluminum that hadn't been used during the war for military equipment or weapons. Just 23 days later, it was Reynolds' ballpoint pen that caused the stampede at Gimbels Department Store. Following the ballpoint's debut in New York City, Eversharp challenged Reynolds in the law courts, but lost the case because the Biro brothers had failed to secure a U.S. patent on their invention. ______",
+          "answer": "profits",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Endangered chocolate",
+        "text": "(A) The cacao tree, once native to the equatorial American forest, has some exotic traits for a plant. Slender and shrubby, the cacao has adapted to life close to the leaf littered forest floor. Its large leaves droop down. away from the sun. Cacao doesn't flower, as most plants do at the tips of its outer and uppermost branches. Instead. its sweet white buds hang from the trunk and along a few Fat branches which form where leaves drop off. These tiny Flowers transform into pulp-filled pods almost the size of rugby balls. The low-hanging pods contain the bitter-tasting magical seeds.\n\n(B) Somehow, more than 2,000 years ago. ancient humans in Mesoamerica discovered the secret of these beans. If you scoop them from the pod with their pulp. let them ferment and dry in the sun, then roast them over a gentle fire, something extraordinary happens: they become chocolaty. And if you then grind and press the beans, which are half-cocoa butter or more, you will obtain a rich crumbly. chestnut brown paste – chocolate at its most pure and simple.\n\n(C) The Maya and Aztecs revered this chocolate, which they Frothed up with water and spices to make bracing concoctions. It was edible treasure, offered up to their gods, used as money and hoarded like gold. Long after Spanish explorers introduced the beverage to Europe in the sixteenth century. chocolate retained an aura of aristocratic luxury. In 1753. the Swedish botanist Carolus Unnaeus gave the cacao tree genus the name Theobroma. which means 'food of the gods',\n\n(D) In the last 200 years the bean has been thoroughly democratized – transformed from an elite drink into ubiquitous candy bars, cocoa powders and confections. Today chocolate is becoming more popular worldwide, with new markets opening up in Eastern Europe and Asia. This is both good news and bad because. Although farmers are producing record numbers of cacao bean, this is not enough, some researchers worry, to keep pace with global demand. Cacao is also facing some alarming problems.\n\n(E) Philippe Petithuguenin, head of the cacao program at the Centre For International Cooperation in Development-Oriented Agricultural Research (CiRAD) in France, recently addressed a seminar in the Dominican Republic. He displayed a map of the world revealing a narrow band within 180 north and south of the equator. where cacao grows. In the four centuries since the Spanish first happened upon cacao, it has been planted all around this hot humid tropical belt – from South America and the Caribbean to West Africa, east Asia, and New Guinea and Vanuatu in the Pacific.\n\n(F) Today 70% of all chocolate beans come from West Africa and Central Africa. In many parts, growers practice so-called pioneer Farming. They strip patches of forest of all but the tallest canopy trees and then they put in cacao, using temporary plantings of banana to shade the cacao while it's young. With luck, groves like this may produce annual yields of 50 to 60 pods per tree for 25 to 30 years. But eventually pests, pathogens and soil exhaustion take their toll and yields diminish. Then the growers move on and clear a new forest patch – unless farmers of other crops get there first. 'You cannot keep cutting tropical forest, because the forest itself is endangered: said Petithuguenin. 'World demand for chocolate increases by 3% a year on average. With a lack of land for new plantings in tropical forests, how do you meet that?'\n\n(G) Many farmers have a more imminent worry: outrunning disease. Cacao, especially when grown in plantations, is at the mercy of many afflictions, mostly rotting diseases caused by various species of fungi which cover the pods in fungus or kill the trees. These fungi and other diseases spoil more than a quarter of the world's yearly harvest and can devastate entire cacao-growing regions.\n\n(H) One such disease, witches broom, devastated the cacao plantations in the Bahia region of Brazil. Brazil was the third largest producer of cacao beans but in the 1980s the yields fell by 75%. According to Petithuguenin, 'if a truly devastating disease like witches broom reached West Africa (the world's largest producer), it could be catastrophic.' If another producer had the misfortune to falter now, the ripples would be felt the world over. In the United States, for example, imported cacao is the linchpin of an $8.6 billion domestic chocolate industry that in turn supports the nation's dairy and nut industries; 20% of all dairy products in the US go into confectionery. Today research is being carried out to try to address this problem by establishing disease resistant plants. However. even the best plants are useless if there isn't anywhere to grow them. Typically, farmers who grow cacao get a pittance for their beans compared with the profits reaped by the rest of the chocolate business. Most are at the mercy of local middlemen who buy the beans then sell them for a much higher price to the chocolate manufacturers. If the situation is to improve for farmers, these people need to be removed from the process. But the economics of cacao is rapidly changing because of the diminishing supply of beans. Some companies have realized that they need to work more closely with the farmers to ensure that sustainable farming practices are used. They need to replant areas and create a buffer for the forest, to have ground cover, shrubs and small trees as well as the canopy trees. Then the 'soil will be more robust and more productive. They also need to empower the farmers by guaranteeing them a higher price for their beans so that they will be encouraged to grow cacao and can maintain their way of life."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The history of the biro",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-124-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph E",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Paragraph F",
+          "options": [
+            {
+              "id": "i",
+              "text": "Fountain pens are history"
+            },
+            {
+              "id": "ii",
+              "text": "Fame at last for the Biro brothers •"
+            },
+            {
+              "id": "iii",
+              "text": "A holiday helps bring the biro to America"
+            },
+            {
+              "id": "iv",
+              "text": "A second design and a new country"
+            },
+            {
+              "id": "v",
+              "text": "War halts progress"
+            },
+            {
+              "id": "vi",
+              "text": "Dissatisfaction leads to a new invention"
+            },
+            {
+              "id": "vii",
+              "text": "Big claims bring big crowds"
+            },
+            {
+              "id": "viii",
+              "text": "A government request brings a change of ownership"
+            },
+            {
+              "id": "ix",
+              "text": "Many patents and many problems"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The problem with the ballpoint pens invented between 1888 and 1935 was that",
+          "options": [
+            {
+              "id": "A",
+              "text": "they cost a great deal of money to manufacture."
+            },
+            {
+              "id": "B",
+              "text": "the technology to manufacture them did not exist."
+            },
+            {
+              "id": "C",
+              "text": "they could not write on ordinary paper:"
+            },
+            {
+              "id": "D",
+              "text": "they were affected by weather conditions."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The design of the Biro brothers' first pen",
+          "options": [
+            {
+              "id": "A",
+              "text": "was similar to previous pens."
+            },
+            {
+              "id": "B",
+              "text": "was based on capillary action,"
+            },
+            {
+              "id": "C",
+              "text": "worked with heavy or light inks."
+            },
+            {
+              "id": "D",
+              "text": "worked when slanted slightly."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Milton Reynolds was able to copy the Biro brothers' design because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Biro brothers’ original patent was out of date."
+            },
+            {
+              "id": "B",
+              "text": "it was legal to copy other designs at the time."
+            },
+            {
+              "id": "C",
+              "text": "they did not have a patent for North America."
+            },
+            {
+              "id": "D",
+              "text": "the Biro brothers gave him permission."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What material was the first ballpoint pen designed to write on?______",
+          "answer": "leather",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Where did the Biro brothers open their first factory?______",
+          "answer": "(in) Argentina",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In what year did the first American biro factory begin production?______",
+          "answer": "(in) 1945",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q39",
+          "skill": "reading",
+          "type": "short",
+          "graded": false,
+          "prompt": "Refer to the passage or diagram and answer question 39. (Answer key unavailable on the source page.)",
+          "answer": "",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-124-q40",
+          "skill": "reading",
+          "type": "short",
+          "graded": false,
+          "prompt": "Refer to the passage or diagram and answer question 40. (Answer key unavailable on the source page.)",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The history of the biro",
+        "text": "(A) One chilly autumn morning in 1945, five thousand shoppers crowded the pavements outside Gimbels Department Store in New York City. The day before, Gimbels had taken out a full-page newspaper advertisement in the New York Times, announcing the sale of the first ballpoint pens in the United States. The new writing instrument was heralded as \"fantastic … miraculous … guaranteed to write for two years without refilling!\" Within six hours, Gimbels had sold its entire stock of ten thousand ballpoints at $12.50 each – approximately $130 at today's prices.\n\n(B) In fact, this 'new' pen was not new after all, and was just the latest development in a long search for the best way to deliver ink to paper. In 1884 Lewis Waterman had patented the fountain pen, giving him the sole rights to manufacture it. This marked a significant leap forward in writing technology, but fountain pens soon became notorious for leaking. In 1888, a leather tanner named John Loud devised and patented the first \"rolling-pointed marker pen\" for marking leather. Loud's design contained a reservoir of ink in a cartridge and a rotating ball point that was constantly bathed on one side with ink. Loud's pen was never manufactured, however, and over the next five decades, 350 additional patents were issued for similar ball-type pens, though none advanced beyond the design stage. Each had their own faults, but the major difficulty was the ink: if the ink was thin, the pens leaked, and if it was too thick, they clogged. Depending on the climate or air temperature, sometimes the pens would do both.\n\n(C) Almost fifty years later, Ladislas and Georg Biro, two Hungarian brothers, came up with a solution to this problem. In 1935 Ladislas Biro was working as a journalist, editing a small newspaper. He found himself becoming more and more frustrated by the amount of time he wasted filling fountain pens with ink and cleaning up ink smudges. What's more, the sharp tip of his fountain pen often scratched or tore through the thin newsprint paper. Ladislas and Georg (a chemist) set about making models of new pen designs and creating better inks to use in them. Ladislas had observed that the type of ink used in newspaper printing dried rapidly, leaving the paper dry and smudge-free. He was determined to construct a pen using the same type of ink. However, the thicker ink would not flow from a regular pen nib so he had to develop a new type of point. Biro came up with the idea of fitting his pen with a tiny ball bearing in its tip. As the pen moved along the paper, the ball bearing rotated and picked up ink from the ink cartridge which it delivered to the paper.\n\n(D) The first Biro pen, like the designs that had gone before it. relied on gravity for the ink to flow to the ball bearing at the tip. This meant that the pens only worked when they were held straight up, and even then the ink flow was sometimes too heavy, leaving big smudges of ink on the paper. The Biro brothers had a rethink and eventually devised a new design, which relied on capillary action rather than gravity to feed the ink. This meant that the ink could flow more smoothly to the tip and the pen could be held at an angle rather than straight up. In 1938, as World War II broke out, the Biro brothers fled to Argentina, where they applied for a patent for their pen and established their first factory.\n\n(E) The Biros' pen soon came to the attention of American fighter pilots, who needed a new kind of pen to use at high altitudes. Apparently, it was ideal for pilots as it did not leak like the fountain pen and did not have to be refilled frequently. The United States Department of War contacted several American companies, asking them to manufacture a similar writing instrument in the U.S. Thus fortune smiled on the Biro brothers in May 1945, when the American company 'Eversharp' paid them $500,000 for the exclusive manufacturing and marketing rights of the Biro ballpoint for the North American market. Eversharp were slow to put their pen into production, however, and this delay ultimately cost them their competitive advantage.\n\n(F) Meanwhile, in June 1945 an American named Milton Reynolds stumbled upon the Biro pen while on vacation in Buenos Aires. Immediately seeing its commercial potential, he bought several pens and returned to Chicago, where he discovered that loud's original 1888 patent had long since expired. This meant that the ballpoint was now in the public domain, and he, therefore, wasted no time making a copy based on the Biro design. Establishing his pen company with just $26,000, Reynolds quickly set up a factory with 300 workers who began production on 6th October 1945, stamping out pens from precious scraps of aluminum that hadn't been used during the war for military equipment or weapons. Just 23 days later, it was Reynolds' ballpoint pen that caused the stampede at Gimbels Department Store. Following the ballpoint's debut in New York City, Eversharp challenged Reynolds in the law courts, but lost the case because the Biro brothers had failed to secure a U.S. patent on their invention."
+      }
+    }
+  ]
+}

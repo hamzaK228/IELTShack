@@ -1,0 +1,645 @@
+{
+  "id": "pte-gt-reading-106",
+  "title": "General Training Reading — Practice Test 106",
+  "kind": "practice",
+  "description": "4 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: The best hiking boots",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-106-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These boots are a good choice for people who want to look smart when they are walking. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People do not need to spend time getting their feet accustomed to these boots. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These boots should last for many years. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "People find these boots useful when travelling as they are not heavy. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "One feature of these boots does not continue to be effective for very long. ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These boots do not keep the rain out. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is important to make sure these boots are done up tightly before starting a walk. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "These boots should suit people who don't want to spend a lot. ______",
+          "answer": "G",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "The best hiking boots",
+        "text": "Whether you're climbing a mountain or walking in the country, be sure to buy the right boots, writes Sian Lewis\n\n(A) Hanwag Tatra Boots These boots are expensive but will give you a lifetime of wear. They are a wide fit and offer excellent ankle support. They passed our waterproof test when worn on long, rainy walks, although they are a bit heavy.\n\n(B) Scarpa Peak Gore-tex Boots These are good all-round boots that have kept our feet dry in heavy rain, snow and mud. They are warm and comfortable to wear straight out of the box and continue to be so even after many kilometres. A great choice for all seasons.\n\n(C) Keen Terradora Ethos These are meant for spring and summer walks and for putting in your backpack for treks in hot climates. They will never weigh you down. Their soles grip well and despite not being waterproof, they are quick-drying when they get wet.\n\n(D) Danner Jag Danner's retro boots are one of the heavier ones we reviewed. They take a week or two for your feet to get used to them, but we found them waterproof even in heavy rain. These are boots for the style conscious, but still suitable for demanding walks.\n\n(E) Merrell Siren Sport Q2 Mid Boots We've worn these boots in freezing cold conditions and our feet felt comfortable. Remember to pull the laces firmly when you put these boots on as they are rather wide around the ankles.\n\n(F) Teva Arrowood Mid WP The soft leather might not be tough enough for extreme environments, but these boots get top marks for comfort. They're waterproof, but we found this wore off after about 20 wet walks. You can, however, get round this problem by using a protective spray on them.\n\n(G) Regatta Clydebank Mid Boots These boots are reasonably priced and they performed well in heavy rain. They don't grip the ground as well as some other boots and aren't very warm in cold winter weather so we'd say they're best for country walks in spring and summer."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Beekeeping workshop at Elm Farm",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-106-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The workshop is only suitable for people who already keep their own bees.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Participants will meet people who are involved in selling honey to the public.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Vegetarian refreshments are available if requested in advance.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Participants will need to pay extra to hire appropriate clothes for the workshop.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Protective footwear will be required during the workshop.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "If someone has to cancel before the workshop, the fee will be repaid.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Beekeeping workshop at Elm Farm",
+        "text": "If you've ever wanted to keep bees and have your own delicious honey, there's no better time to begin! Whether you're keen to learn everything you need to know to get you started, or simply extremely interested in the idea of keeping bees, this one-day interactive workshop will teach you the fascinating secrets of the honeybee and how to care for and keep bees. Our day begins here on the farm, getting to know about the honeybee, specifically the kind we keep here, and their fascinating history. You will find out about and try for yourself the equipment beekeepers use to care for their bees and discover the many different types of hives bee colonies live in and their different uses. You'll learn about the life cycle of a colony, disease prevention and caring for bees and of course how to harvest honey for your personal use or for sale. Then it's time to try on your bee suit and meet our bees. We'll teach you how to open the hive, recognise the different bees in it (including how to spot the queen!) and explain what they're doing in different parts of the hive. What's included in the price? We'll provide everything you need, including unlimited organic tea or coffee, lunch cooked in our outdoor, wood-fired oven and beekeeping suits for the day. Just bring a pair of thick boots with you. You'll leave with plenty of notes and resources, including a packet of bee-friendly wildflower seeds and, courtesy of BJ Sherriff, the leading supplier of beekeeping clothing, an exclusive 25% discount for anything in their online store. We like to run our workshops fairly and honestly. Your booking secures a very limited place, so is non-refundable – if you can't make it, you can send a friend or colleague instead though. If at the end of any of our workshops, you don't believe that it has helped you to achieve what it set out to, we will gladly provide a full refund. Places are strictly limited so please do book early to avoid disappointment."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Should you pay someone to write your CV?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-106-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some jobseekers have difficulty with their CV because they have not learnt which qualities they should______",
+          "answer": "Highlight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Professional CV writers know which______are best left out of the CV.",
+          "answer": "Details",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "CV writers with knowledge of a particular field of work often provide useful______about the skills firms expect from job applicants.",
+          "answer": "Insights",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is advisable to request______of what a professional CV writer has previously produced.",
+          "answer": "Samples",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Professional CV writers often ask jobseekers to work through a______as a first step.",
+          "answer": "Questionnaire",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If the jobseeker assists the professional writer, the tone of the CV will be______",
+          "answer": "Authentic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o Try out a different morning ______that will create a sense of well-being",
+          "answer": "Routine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o Make sure your chosen outfit conforms to the company's ______",
+          "answer": "Dress code",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o It will provide information on their ______and the way they operate",
+          "answer": "Personalities",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o It may be wise to prepare some ______to help the interaction flow",
+          "answer": "Conversation starters",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Work out some ______and how to go about fulfilling them",
+          "answer": "Goals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Try to keep a completely ______as you settle into the post",
+          "answer": "Open mind",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Avoid making proposals at ______too soon",
+          "answer": "Improvements",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Should you pay someone to write your CV?",
+        "text": "In my view, the belief that the individual is the best person to write their own CV is not always true. Although many people can write their own CVs, and do it well, others struggle with a variety of problems initially, such as not knowing how to structure a CV or how to highlight their most relevant strengths. Through in-depth consultation, a professional CV writer can help identify exactly what is necessary for a particular role, cut out unnecessary or irrelevant details, and pinpoint what makes the individual stand out. This level of objectivity is one of the major benefits of working with a professional writer. It's often difficult to stand back from your own career history to assess what's relevant or not, or to choose the most appropriate qualities.\n\nIf you do choose to work with a professional CV writer, here are some tips: Ask for a CV writer who has experience in your sector. HR professionals and recruiters with relevant experience can also have valuable insights into what companies are looking for. Look for someone who's prepared to take the time to find out your core qualities, who can choose exactly the right words for maximum impact and who understands what and where to edit. Ask to see samples of their work or use personal recommendations before you choose a CV writing service. You'll probably need to answer an in-depth email questionnaire or be interviewed before any writing actually starts. The more you can give your CV writer to work with, the better, so the promise of a quick turnaround time isn't always going to result in the best possible CV. Take the time to think about and jot down your career aims, your past successes, and the value you bring, before you start the whole process. Your CV will probably be used as a springboard for questions at interview, so you need to make sure you feel happy with the way it's being written and with the choice of words. Being involved in the writing process means your CV sounds authentic."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: History of women's football in Britain",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-106-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the first paragraph, the writer says that in 18th-century Scotland",
+          "options": [
+            {
+              "id": "A",
+              "text": "only unmarried women were allowed to play football."
+            },
+            {
+              "id": "B",
+              "text": "women’s football was more common than men’s football."
+            },
+            {
+              "id": "C",
+              "text": "women were sometimes forbidden to watch football matches."
+            },
+            {
+              "id": "D",
+              "text": "skill at football might be considered when choosing a wife."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer says that Nettie J Honeyball was unwilling to",
+          "options": [
+            {
+              "id": "A",
+              "text": "take an active part in team sports."
+            },
+            {
+              "id": "B",
+              "text": "mix with people she considered lower class."
+            },
+            {
+              "id": "C",
+              "text": "let the public know of her involvement in football."
+            },
+            {
+              "id": "D",
+              "text": "take a leadership role in the British Ladies’ Football Club."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer suggests that in Britain, between 1895 and 1914,",
+          "options": [
+            {
+              "id": "A",
+              "text": "society was not yet ready for women’s football."
+            },
+            {
+              "id": "B",
+              "text": "there were false reports of the decline of women’s football."
+            },
+            {
+              "id": "C",
+              "text": "the media felt that women’s football should not be allowed."
+            },
+            {
+              "id": "D",
+              "text": "women’s football mainly attracted people because it was unusual."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "After the First World War broke out in 1914, factory managers",
+          "options": [
+            {
+              "id": "A",
+              "text": "were initially unwilling to employ women."
+            },
+            {
+              "id": "B",
+              "text": "played in matches against female employees."
+            },
+            {
+              "id": "C",
+              "text": "allowed extra time for their employees to play football."
+            },
+            {
+              "id": "D",
+              "text": "decided that women’s football might have positive effects."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It felt threatened by the rise of women's football.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies' Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr's Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It was established by a male office worker.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies' Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr's Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It donated money from football matches to good causes.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies' Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr's Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "It called for the ending of the ban on women's football in Britain.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies' Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr's Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it was accused of being old-fashioned.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies' Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr's Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It was led by a believer in women's rights. List of Football Organisations",
+          "options": [
+            {
+              "id": "A",
+              "text": "the British Ladies’ Football Club (BLFC)"
+            },
+            {
+              "id": "B",
+              "text": "the Dick, Kerr’s Ladies team"
+            },
+            {
+              "id": "C",
+              "text": "the Football Association (FA)"
+            },
+            {
+              "id": "D",
+              "text": "the Union of European Football Associations (UEFA)"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At the end of 1921, women's football teams were forbidden to use the ______of the Football Association, and were not allowed to have Football Association members as (39) ______The FA said that women's clubs did not give enough to charity, and that there had been mismanagement of funds. Female workers accused the FA of (40) ______against women, but the ban continued until 1971.",
+          "answer": "Grounds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At the end of 1921, women's football teams were forbidden to use the (38) ______of the Football Association, and were not allowed to have Football Association members as ______The FA said that women's clubs did not give enough to charity, and that there had been mismanagement of funds. Female workers accused the FA of (40) ______against women, but the ban continued until 1971.",
+          "answer": "Referees",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-106-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "At the end of 1921, women's football teams were forbidden to use the (38) ______of the Football Association, and were not allowed to have Football Association members as (39) ______The FA said that women's clubs did not give enough to charity, and that there had been mismanagement of funds. Female workers accused the FA of ______against women, but the ban continued until 1971.",
+          "answer": "Prejudice",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "History of women's football in Britain",
+        "text": "Womens' football In Britain has deeper roots than might be expected. In one town in 18th- century Scotland, single women played an annual match against their married counterparts, though the motives behind the contest were not purely sporting. Some accounts say that the games were watched by a crowd of single men, who hoped to pick out a potential bride based on her footballing ability. By the late 19th century, with the men's game spreading across Britain like wildfire, women also began to take up association football. Early pioneers included Nettie J Honeyball, who founded the British Ladies' Football Club (BLFC) in 1895. Honeyball was an alias: like many of the middle- and upper-class women who played in the late 19th century, she was not keen to publicise her involvement with a contact sport played on muddy fields. We know more about Lady Florence Dixie, who was appointed president of the BLFC in 1895 and who was an ardent believer in equality between the sexes. The BLFC arranged games between teams representing the north and the south of England, where money would be raised for those in need. These initially attracted healthy numbers of supporters although early newspaper reports were not particularly generous, with one reporter suggesting 'when the novelty has worn off, I do not chink women's football will attract the crowds'. And crowds did drop off as the growing popularity of the men's game came to dominate public interest. In a country where women were not yet allowed to vote, it would take extraordinary circumstances for their efforts on the football pitch to attract widespread attention. Those circumstances arose in 1914 with the outbreak of the First World War. With many men leaving their jobs to join the army, women started to work in factories and just as men had done before them, they began to play informal games of football during their lunch breaks. After some initial uncertainty, their superiors came to see these games as a means to boost morale and thus increase productivity. Teams soon formed and friendly matches were arranged. In the town of Preston in the north of England, the female workers at a manufacturing company called Dick, Kerr & Co showed a particular aptitude for the game. Watching from a window above the yard where they played, office worker Alfred Frankland spotted their talent and he set about forming a team. Under Frankland's management, they soon drew significant crowds to see their games. Known as Dick, Kerr's Ladies, they beat rival factory Arundel Coulthard 4-0 on Christmas Day 1917, with 10,000 watching at Preston stadium. After the war ended in 1918 the Dick, Kerr's side and other women's teams continued to draw large crowds. In 1920 there were around 150 women's sides in England and Dick, Kerr's Ladies packed 53,000 into Everton's Goodison Park stadium. The same year, the team found their one true genius: Lily Parr. Parr grew up playing football with her brothers, and began her career with her town's ladies' team at the age of 14. When they played against the Dick, Kerr's side, she caught Frankland's eye and was offered a job at the factory – as well as a spot on the team. Close to six-feet tall and with jet-black hair, she had a ferocious appetite and a fierce left foot. She is credited with 43 goals during her first season playing for Dick, Kerr's Ladies and around 1,000 in total. By 1921 Dick, Kerr's Ladies were regularly attracting crowds in the tens of thousands. But the year ended in catastrophe for the women's game. The Football Association (FA) – officially the governing body for the sport as a whole, but really only concerned with men's competitions — had always taken a poor view of female participation. Women's football was tolerated during the war, but in the years that followed, driven by the fear that the women's game could affect Football League attendances, the FA sought to assert itself. Its solution was decisive and brutal. On 5 December 1921, the FA banned its members from allowing women's football to be played at its grounds, saying that football was 'quite unsuitable for females'. The FA also forbade its members from acting as referees at women's games. To all intents and purposes, women's football in England was outlawed. The FA also suggested that an excessive proportion of the gate receipts were absorbed in expenses and an inadequate percentage devoted to charity. No such obligation to donate profits existed for men's clubs and no proof of financial mismanagement was presented, but there was little the women's clubs could do in response. There was outrage from players, with the captain of Plymouth Ladies remarking that the FA was 'a hundred years behind the times' and calling its decision 'purely sex prejudice'. It was not until 1966 that serious efforts to revive the women's game began, but progress remained painfully slow. It took pressure from the Union of European Football Associations (UEFA), to finally force the FA to end restrictions on women's football in 1971. By this time, half a century of progress had been lost."
+      }
+    }
+  ]
+}

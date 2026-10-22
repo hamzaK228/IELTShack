@@ -1,0 +1,512 @@
+{
+  "id": "pte-listening-123",
+  "title": "Listening — Practice Test 123",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-123-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Louise's last bus pass began ago. ______",
+          "answer": "6 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Louise now wants to be contacted by ______",
+          "answer": "email",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Unlike her previous bus pass, Louise's new one will have a on it. ______",
+          "answer": "photo(card)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The new bus pass has gone up in price by ______",
+          "answer": "5%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Louise has to put her on her bus pass to make it valid. ______",
+          "answer": "signature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bus Stop Q",
+          "options": [
+            {
+              "id": "A",
+              "text": "West Gate Shopping Centre"
+            },
+            {
+              "id": "B",
+              "text": "West Howe"
+            },
+            {
+              "id": "C",
+              "text": "The University"
+            },
+            {
+              "id": "D",
+              "text": "The Town Centre Post Office"
+            },
+            {
+              "id": "E",
+              "text": "The Town Hall"
+            },
+            {
+              "id": "F",
+              "text": "The Hospital"
+            },
+            {
+              "id": "G",
+              "text": "The Arrowdown Sports Centre"
+            },
+            {
+              "id": "H",
+              "text": "The Cinema"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bus Stop G",
+          "options": [
+            {
+              "id": "A",
+              "text": "West Gate Shopping Centre"
+            },
+            {
+              "id": "B",
+              "text": "West Howe"
+            },
+            {
+              "id": "C",
+              "text": "The University"
+            },
+            {
+              "id": "D",
+              "text": "The Town Centre Post Office"
+            },
+            {
+              "id": "E",
+              "text": "The Town Hall"
+            },
+            {
+              "id": "F",
+              "text": "The Hospital"
+            },
+            {
+              "id": "G",
+              "text": "The Arrowdown Sports Centre"
+            },
+            {
+              "id": "H",
+              "text": "The Cinema"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q8",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bus Stop",
+          "options": [
+            {
+              "id": "A",
+              "text": "Locations A West Gate Shopping Centre"
+            },
+            {
+              "id": "B",
+              "text": "West Howe"
+            },
+            {
+              "id": "C",
+              "text": "The University"
+            },
+            {
+              "id": "D",
+              "text": "The Town Centre Post Office"
+            },
+            {
+              "id": "E",
+              "text": "The Town Hall"
+            },
+            {
+              "id": "F",
+              "text": "The Hospital"
+            },
+            {
+              "id": "G",
+              "text": "The Arrowdown Sports Centre"
+            },
+            {
+              "id": "H",
+              "text": "The Cinema"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following will Louise get discounts on prices with her bus pass?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The cinema"
+            },
+            {
+              "id": "B",
+              "text": "Local train services"
+            },
+            {
+              "id": "C",
+              "text": "The local football club"
+            },
+            {
+              "id": "D",
+              "text": "The local theatre"
+            },
+            {
+              "id": "E",
+              "text": "The local museum"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO of the following will Louise get discounts on prices with her bus pass?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The cinema"
+            },
+            {
+              "id": "B",
+              "text": "Local train services"
+            },
+            {
+              "id": "C",
+              "text": "The local football club"
+            },
+            {
+              "id": "D",
+              "text": "The local theatre"
+            },
+            {
+              "id": "E",
+              "text": "The local museum"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Which organization founded the adult education centre? ______",
+          "answer": "(town) council",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How often is the teaching of the adult education centre's teachers assessed? ______",
+          "answer": "every 6 months",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where can all the lesson resources be found online? ______",
+          "answer": "interactive classroom",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How long is one of the teachers' weekly online tutorial sessions? ______",
+          "answer": "3 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "At what time does the administration section in the Langdon Street close to the general public? ______",
+          "answer": "2 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______available on the website",
+          "answer": "self-assessment test",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– computer software, ______search engine optimization and website development",
+          "answer": "bookkeeping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Photography and ______– how to get the most from your camera",
+          "answer": "computers for photography",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______for fast and fun cooking",
+          "answer": "shortcuts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– hopeful writers can learn the ______for creating fiction",
+          "answer": "skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1Perceptions of internet speed______not dial up",
+          "answer": "broadband",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "2Perceptions of affordabilityavoid questions related to travel to avoid creating ______in the answers",
+          "answer": "bias",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "3Changing subscriptions and providersfocus on locked in contracts and length of ______",
+          "answer": "notice (periods)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "4Transparency regarding ______very topical; communication companies look for the best (25) ______from a deal rather than their customer's financial well-being",
+          "answer": "tariffs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "4Transparency regarding (24) ______very topical; communication companies look for the best ______from a deal rather than their customer's financial well-being",
+          "answer": "profit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "5Mobile phones – users' satisfaction with their ______topical again; other countries better than this country",
+          "answer": "signal reception",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When will the four students conduct their survey?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Wednesday afternoon"
+            },
+            {
+              "id": "B",
+              "text": "Friday afternoon"
+            },
+            {
+              "id": "C",
+              "text": "Saturday afternoon"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where is the final decision to conduct the survey?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The town centre"
+            },
+            {
+              "id": "B",
+              "text": "The train station"
+            },
+            {
+              "id": "C",
+              "text": "The central shopping mall"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Abbie suggests that the group meets the next day to collate the survey's results and perform some on them. ______",
+          "answer": "(statistical) analysis",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Martin's trip to the prevents him meeting the others on Sunday evening. ______",
+          "answer": "cinema",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Most of the energy comes from the ______ of radioactive minerals",
+          "answer": "(natural) decay",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In the 20th century Iceland changed from a poor country to one with a high ______",
+          "answer": "standard of living",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The North American and Eurasian tectonic plates move at ______ cm annually",
+          "answer": "2",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Creates a lot of volcanic activity and regular ______ (not usually dangerous)",
+          "answer": "earthquakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Found in the ______ or nearby",
+          "answer": "volcanic zones",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Shown at surface usually as ______",
+          "answer": "steam (vents)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• These fields are thought to be ______ (existing a few thousands years)",
+          "answer": "transient",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "steam ______",
+          "answer": "steam",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(local) substation ______",
+          "answer": "(local) substation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-123-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "cooling tower ______",
+          "answer": "cooling tower",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/123_we.mp3"
+    }
+  ]
+}

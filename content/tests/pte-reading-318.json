@@ -1,0 +1,704 @@
+{
+  "id": "pte-reading-318",
+  "title": "Academic Reading — Practice Test 318",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Saving the saiga",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-318-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o keep ______ out",
+          "answer": "Dust",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o lower the temperature of its ______in summer",
+          "answer": "Blood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• grows a thick ______ in winter, which it loses in spring",
+          "answer": "Coat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• poaching, especially for the ______ of male saiga",
+          "answer": "Horns",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o reduction in the size of the saiga's ______",
+          "answer": "Habitat",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o loss of access to the ______ which they use for migration",
+          "answer": "Routes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• climate change, causing the disappearance of ______ which the saiga relied on",
+          "answer": "Streams",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Saving the saiga",
+        "text": "The saiga, a species of antelope native to Central Asia, once roamed the vast grasslands of this region in enormous herds, many millions strong. Regrettably, such spectacular sights are a thing of the past. Today, the saiga is largely confined to a single country: Kazakhstan. This country is estimated to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest. The saiga is perfectly adapted to the tough conditions of the remote wilderness of the steppes of Central Asia. One such adaptation is its bizarre bulbous nose, which enables the animal to survive the extreme seasonal temperature swings of the region. The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter. Other seasonal adaptations include a heavy winter coat that the saiga sheds when the weather warms up. Despite these superb adaptations to harsh conditions, the saiga has no defence against the threats posed by humans. It was almost driven to extinction by hunters in the 19th century. Legal protection ensured its survival for a while, and numbers steadily recovered throughout most of the 20th century. But the respite was only temporary. In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost – one of the fastest examples of species loss ever recorded for a mammal. The dramatic decline during this decade was due to illegal poaching on an industrial scale. Male saiga are a particular target, because their horns are highly prized by traditional medicine practitioners. Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to those of rhinos. Male saiga were almost wiped out, leading to a population crash from which the species has been struggling to recover ever since. Another threat to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement. Physical barriers such as railways, pipelines and fences can block the seasonal migration routes of this transboundary species. In the worst cases, herds may starve to death after being trapped. Then there is the risk of disease. In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, killed over 75% of the global adult saiga population in just three weeks. In 2017, 60% of the Mongolian saiga population – a subspecies found nowhere else in the world – was killed by a virus that spilled over from livestock. These so-called mass mortality events represent an unpredictable and serious threat to the species. Climate change poses a further threat. Although well adapted to cold winters and hot summers, saiga struggle to cope with temperature extremes and unpredictable fluctuations in climate. Experts believe that unusually warm weather may have triggered the 2015 mass mortality event. The steppe region has also become increasingly arid in recent years, and many of the smaller streams that the species normally depended on have dried up and vanished. Recent efforts to save the saiga have been spearheaded by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity. Its purpose is to protect and restore Kazakhstan's steppe, semi-desert and desert ecosystems and the many species they support, including the critically endangered saiga. In 2022 the United Nations recognised the initiative as a World Restoration Flagship project, an accolade reserved for the ten best examples of large-scale ecosystem restoration around the globe. So, how many saiga are there now? By 2000, the global saiga population had hit an all time low of just 21,000 individuals. There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species. But thanks to the intervention of the Altyn Dala Conservation Initiative, the most recent episodes in the ongoing story of the saiga have been relatively uplifting. Three years ago, the Ustyurt Plateau population in Kazakhstan experienced its largest mass birth of saiga calves in many years. An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million. The world's strangest-looking antelope remains critically endangered, but the direction of travel is positive."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: The saiga",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-318-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Today, numbers of saiga are distributed evenly across four nations in Central Asia: Kazakhstan, Russia, Mongolia and Uzbekistan.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "For most of the 20th century, the population of saiga were falling.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Efforts to protect rhinos in Africa had a significant effect on saiga populations.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Unpredictable fluctuations in climate are threatening the wildlife of Central Asia more than in other parts of the world.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Altyn Dala Conservation Initiative was formed for the benefit of a number of different animals.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Altyn Dala Conservation Initiative's recognition as a World Restoration Flagship project attracted additional international funding for the scheme.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "The saiga",
+        "text": "Adaptations\n\n• has a large bulbous nose with swollen nostrils that\n\no keep (1) ………………… out\n\no lower the temperature of its (2) …………………..in summer\n\no warm the air entering its lungs in winter\n\n• grows a thick (3) ……………….. in winter, which it loses in spring\n\nReasons for population decline\n\n• poaching, especially for the (4) ……………… of male saiga\n\n• expansion of farms and settlements, causing o reduction in the size of the saiga's (5) …………….\n\no loss of access to the (6) ……………… which they use for migration\n\n• various forms of disease, leading to mass mortality events\n\n• climate change, causing the disappearance of (7) ………………. which the saiga relied on"
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The problems of getting around the city of Dar es Salaam",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-318-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The population of Dar es Salaam is rising more rapidly than was previously predicted.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most of the residents of Dar es Salaam live in high-rise blocks on the edge of the city.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Residents have been consulted about their views on the suburban rail line in Dar es Salaam.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The majority of the present residential development in Dar es Salaam is unplanned.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dar es Salaam's authorities have decided to follow the public transport plan adopted by a large number of African cities.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the buses use designated ______ to cut down on delays",
+          "answer": "Lanes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• passengers pay fares before ______",
+          "answer": "Boarding",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• passengers in ______ can use every part of the system",
+          "answer": "Wheelchairs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• the temperature control is sometimes not activated in order to reduce ______ use",
+          "answer": "Fuel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• insufficient number of vehicles are available due to the effects of a severe ______",
+          "answer": "Flood",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• passengers are unable to use ______ because some equipment is out of action",
+          "answer": "Smartcards",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• tickets have to be checked manually at station ______",
+          "answer": "Gates",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• ______ frequently build up during rush hours",
+          "answer": "Queues",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the writer doing in the second paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "pinpointing some key changes in our understanding of prehistory"
+            },
+            {
+              "id": "B",
+              "text": "outlining some aspects of prehistory which are still poorly understood"
+            },
+            {
+              "id": "C",
+              "text": "summarising some attitudes towards recent archaeological revelations"
+            },
+            {
+              "id": "D",
+              "text": "giving an overview of some current disagreements among archaeologists"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the sixth paragraph, the writer mentions mobile phones to make the point that",
+          "options": [
+            {
+              "id": "A",
+              "text": "most developments happen in a gradual way."
+            },
+            {
+              "id": "B",
+              "text": "innovation can come from a variety of sources."
+            },
+            {
+              "id": "C",
+              "text": "not all technological advancements are positive."
+            },
+            {
+              "id": "D",
+              "text": "the path of evolution can often be unpredictable."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the seventh paragraph, the phrase 'unpick this stuff' refers to the task of",
+          "options": [
+            {
+              "id": "A",
+              "text": "assessing the impact of certain recent research findings."
+            },
+            {
+              "id": "B",
+              "text": "questioning the authenticity of evidence used in earlier research."
+            },
+            {
+              "id": "C",
+              "text": "conducting research into how prehistoric societies were organised."
+            },
+            {
+              "id": "D",
+              "text": "reevaluating research influenced by outdated beliefs about society."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What does the writer suggest in the final paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Studying past societies could help us create a fairer society today."
+            },
+            {
+              "id": "B",
+              "text": "We should not judge past societies by the standards of modern society."
+            },
+            {
+              "id": "C",
+              "text": "We still have much to learn about how societies have evolved over history."
+            },
+            {
+              "id": "D",
+              "text": "There is more than one way to interpret evidence about societies in prehistoric times."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The findings at Kalambo Falls revealed that ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Evidence from high-altitude regions suggests that ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An academic publication from June 2023 shows that ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Analysis of a 4000-year-old Iberian leader indicates that 70",
+          "options": [
+            {
+              "id": "A",
+              "text": "Homo sapiens emerged at an earlier point in time than experts previously believed."
+            },
+            {
+              "id": "B",
+              "text": "previous assumptions about who had power in the prehistoric world were inaccurate."
+            },
+            {
+              "id": "C",
+              "text": "gender roles in extinct hominin species were different from those in Homo sapiens societies."
+            },
+            {
+              "id": "D",
+              "text": "experts may have been mistaken about who looked for food in early human communities."
+            },
+            {
+              "id": "E",
+              "text": "Homo sapiens was probably not the only species capable of sophisticated workmanship."
+            },
+            {
+              "id": "F",
+              "text": "other species managed to survive in harsh environments before the arrival of Homo sapiens."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It seems likely that the Neanderthals' cave paintings were the first examples of artwork ever created.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is very rare to find prehistoric artwork carved onto shells.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The methods which the researchers used to examine the Rising Star cave system were rather unconventional.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is unclear how old the etchings in the Rising Star cave system are.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The means used to publicise the findings from the Rising Star cave system added to the controversy that surrounds them.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-318-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The size of H. naledi brains is a key factor in the question of whether these hominins were able to produce art.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The problems of getting around the city of Dar es Salaam",
+        "text": "Dar es Salaam in Tanzania is one of the fastest growing cities in Africa. Its population has increased eightfold since 1980 and swells by half a million people every year. United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million by 2035. Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people by 2100. Today, four out of five of its people live in single-storey informal settlements on the spreading edges of the city, where the journey to and from the centre regularly takes over two hours. It can be longer if rain turns the dirt roads to mud. Even in the middle of the day, traffic frequently slows to a stop without warning. It is not unusual for cars and minibuses to queue for 20 minutes at a key intersection. A single suburban rail line serves residents in a few areas to the south but is tiny in the context of the wider city. Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis. Their safety record is scandalous. Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000. Most of the current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways. Nearly all the expansion is happening on the periphery, and nearly all takes place informally without any agreed strategy. But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, giving them an alternative to a future controlled by the private car. Unlike many cities on the continent, Dar es Salaam isn't trying to build a metro. It has chosen a less exciting but cheaper and more achievable method: the bus. The DART bus rapid transit (BRT) system runs on bus lanes separated from other traffic, mostly in the middle of the road to reduce stoppages. Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies. 'The new buses are much, much better,' says Paulas George, a young IT worker. He takes the bus every day and it has cut his journey time by two-thirds. He says it is not perfect, though, complaining that drivers often refuse to turn on the air conditioning to save fuel. That is not the only problem. A shortage of buses after a serious flood at the main depot during the rainy season means the system is carrying 200,000 people a day – half the expected capacity. Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for every journey. Each is printed with a scannable QR code, but there are no scanners. Staff stand by the gates and tear tickets as people enter. As a result, queues are considerable at peak times. Morogoro Road to the north-west of the city was phase I of the BRT project. Phases II and III will install bus lanes along Nyerere Road to the south-west and Kilwa Road to the south. Construction on both routes is due to start imminently. Phase IV, towards Bagamoyo in the north, is in the preliminary design stage. 'Much of the city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy). All phases are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network. The ITDP regrets Africa's obsession with metros. 'With a metro, an international firm will often just parachute in its own system,' says Kost. 'Bus rapid transit allows existing stakeholders to get involved. That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies will be built in the city and local operators will look after tickets, fare collection and IT …Bus rapid transit has been transformational for Dar es Salaam. For millions of people in African cities, this is their best hope of ever being connected.'"
+      }
+    }
+  ]
+}

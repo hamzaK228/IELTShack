@@ -1,0 +1,732 @@
+{
+  "id": "pte-gt-reading-56",
+  "title": "General Training Reading — Practice Test 56",
+  "kind": "practice",
+  "description": "5 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Five reviews of the Wellington Hotel",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-56-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "liking the view from the bedroom window ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "finding the receptionists welcoming ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "being pleased with the bedroom ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "becoming confused when booking a room ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "being impressed by the wide choice of food ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "staying in the hotel regularly ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "finding it inconvenient that the hotel was crowded ______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Five reviews of the Wellington Hotel",
+        "text": "(A) My husband and I first stayed at the Wellington a few years ago, and we've returned every year since then. When we arrive and check in, we're always treated like old friends by the staff, so we very much feel at home. Our one disappointment during our last visit was that our room overlooked the car park, but that didn't spoil our stay.\n\n(B) The hotel hardly seems to have changed in the last hundred years, and we prefer that to many modern hotels, which tend to look the same as each other. The Wellington has character! Our room was very comfortable and quite spacious. We can strongly recommend the breakfast, though we had to wait for a table as the hotel was so full. That was a bit annoying, and there was also nowhere to sit in the lounge.\n\n(C) We made our reservation by phone without problem, but when we arrived the receptionist couldn't see it on the computer system. Luckily there was a room available. It wasn't quite what we would have chosen, but it was a pleasure to sit in it with a cup of tea, and look out at the swimmers and surfers in the sea.\n\n(D) We'd be happy to stay at the Wellington again. Although there's nothing special about the rooms, the view from the lounge is lovely, and the restaurant staff were friendly and efficient. Breakfast was a highlight – there was so much on offer we could hardly decide what to eat. We'd stay another time just for that!\n\n(E) The staff all did their jobs efficiently, and were very helpful when we asked for information about the area. The only difficulty we had was making our reservation online – it wasn't clear whether payment for our deposit went through or not, and I had to call the hotel to find out. Still, once we'd arrived, everything went very smoothly, and we had a delicious dinner in the restaurant."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Come and play walking football or walking netball",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-56-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Walking football became well-known when a club featured in a TV programme about the sport.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The majority of walking netball players are men.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most clubs arrange social activities for their members,",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Players are tested regularly to measure changes in their fitness.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People who have never played football are encouraged to play walking football.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "People can take part in the Active Lifestyles Team's sessions whenever they wish",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Active Lifestyles Team intends to start clubs in the future.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Come and play walking football or walking netball",
+        "text": "Walking football and netball have become increasingly popular in recent years, but do you know you can take part in this area? The names make it clear what they are – two of the country's favourite sports where, instead of running, the players walk. It's as simple as that. Walking football was invented in the UK in 2011, but it was a 2014 TV commercial for a bank, showing it providing financial support to someone who wanted to set up a website for the game, that brought it to people's attention. Since then, tens of thousands of people — mostly, though not only, over the age of 50 — have started playing, and there are more than 800 walking football clubs. Both men and women play walking football, but at the moment the netball teams consist only of women. However, men are beginning to show an interest in playing. The two games are designed to help people to be active or get fit, whatever their age and level of fitness. In particular, they were invented to encourage older men and women to get more exercise, and to give them a chance to meet other people. Regular physical activity helps to maintain energy, strength and flexibility. You can start gently and do a little more each session. The benefits include lower heart rate and blood pressure, greater mobility, less fat and more muscle. Many players have given up a sport – either through age or injury – and can now take it up again. They're great ways for people to enjoy a sport they used to play and love, and keep active at the same time, though people who have never played the standard game before are also very welcome. The local councils Active Lifestyles Team runs sessions at all the council's leisure centres. Come alone or with a friend, and enjoy a friendly game on Monday or Saturday afternoons, or Tuesday or Thursday evenings. Each session costs £3 per person, and you don't have to come regularly or at the same time each week. Our aim is to set up netball and football clubs as soon as there are enough regular players."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Dress regulations at work",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-56-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If employees are unsure what their company wishes them to wear for work, they should request______",
+          "answer": "Clarification",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Some companies offer their employees a______when they buy items to wear for work.",
+          "answer": "Discount",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees who fail to wear protective clothing when required could be subject to______procedures.",
+          "answer": "Disciplinary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees ought not to be in______because of protective clothing or equipment.",
+          "answer": "Pain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is the company's responsibility to ensure that there is a suitable place for the______of protective equipment.",
+          "answer": "Storage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Employees who work with certain types of______may have to remove jewellery to avoid potential injuries.",
+          "answer": "Machinery",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Dress regulations at work",
+        "text": "Your contract may state that you need to dress in a certain manner or wear a uniform. Your contract might also state that you need to dress 'smartly', rather than specifying any particular garments. As you might well have conflicting ideas of what counts as smart', you should ask your employer for clarification. Many employers that have a strict dress code choose to provide clothing or a discount on clothing. However, this is not necessarily compulsory for the employer and is a factor you need to consider when taking a job.\n\nProtective clothing and equipment Your employer can tell you to put on protective clothing and equipment (such as gloves, a visor, boots, etc.). If you don't, your employer is entitled to take disciplinary action, which can include excluding you from the workplace.\n\nYou are required to:\n\n• co-operate with your employer on health and safety\n\n• correctly use work items provided by your employer, including protective equipment, in accordance with instructions • not interfere with or misuse anything provided for your health and safety or welfare. Of course, any protective gear has to fit and be appropriate for the situation. It shouldn't cause you pain. If it does, you should negotiate alternative equipment or arrangements. Don't be put off. Sometimes employers can, out of caution, interpret health and safety rules unnecessarily rigidly. And of course you shouldn't be required to pay for any protective equipment or clothing that you need. However, if your employer buys the gear, they are entitled to keep it when you leave. The obligation to maintain protective clothing lies with the employer. The employer is also required to provide an appropriate storage space to keep the protective equipment in when it is not being used. And finally, the employer must provide the equipment and service free of charge to the employee.\n\nJewellery Banning employees from wearing jewellery and loose clothing may be justified to prevent a potential hygiene hazard if you work in areas of food production or areas which need to be kept sterile. Likewise, your employer can judge that loose jewellery may constitute a snagging hazard if you operate machinery. If you think restrictions are not justified by health and safety concerns, talk to your workplace union rep if you have one, as they may know of solutions to the problem which other employees have used before."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: How to achieve a better work—life balance",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-56-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Make a complete ______of things that are not helpful and reduce involvement in them",
+          "answer": "List",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Refuse some requests as this can be a useful ______in gaining a better work-life balance",
+          "answer": "Tool",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o can increase ______significantly",
+          "answer": "Energy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "o avoid focusing on ______in the lead-up to bedtime",
+          "answer": "Electronics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Those who see other people's ______as more important than their own will suffer",
+          "answer": "Needs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• If the working day is too long, get ______to shorten it occasionally",
+          "answer": "Permission",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• People should learn to recognise their own ______",
+          "answer": "Limitations",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "How to achieve a better work—life balance",
+        "text": "As more and more employees work from home full time and everyone has 24/7 access to email, balancing work and family may not seem like an easily attainable goal. So how can you juggle the demands of both worlds? Below are some tips to help you get started. It's easy to get sucked into habits that, make us less efficient without realizing it — like keeping your social media page open at work so you don't miss something 'important'. Draw up a list with all the activities that don't enhance your life or career. Then minimize the time you spend on them. It's hard to say no', especially to a supervisor or loved one, but sometimes that powerful little word is essential. Learn to use 'no' judiciously and it will become a powerful tool in balancing work and family. Research shows that exercise helps you remain alert. Finding time to hit the gym may be hard, but it will ultimately help you get more things done because exercise really boosts energy and improves your ability to concentrate. Study after study shows that significant sleep deprivation affects your health and well-being. Exposure to electronics can significantly negatively impact your sleep, so try to unplug an hour before you go to sleep. What would you do if you had a whole day to yourself with no demands on your time? While most people don't have the luxury of a whole day dedicated to relaxation, constantly putting off that downtime and putting everyone's needs before yours will wear you down. Pick a time to do something just for you. Even just a few minutes of 'me time' a day will help to recharge your batteries. Don't assume your family and manager are aware of your concerns. If you feel you have to adjust your schedule to discover a better work—life balance, then voice that requirement. If that means asking your boss for permission to leave a few minutes early once a week so you can hit that yoga class on the way home, do it. All new habits require time to build, so if you find yourself sneaking your smartphone to bed, that's okay. Leave your phone downstairs tomorrow night. Tiny steps are the key to finding that balance, so start small, and go from there. Most of all, know your limitations and what works best for you; then decide what really matters, what advice you want to follow, and prioritize."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: San Francisco's Golden Gale Bridge",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-56-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Which section mentions the following?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 36. ______",
+          "answer": "Permit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One objection to building the bridge was that another______would destroy it.",
+          "answer": "Earthquakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Building the bridge required a______issued by the Secretary of War.",
+          "answer": "Storm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The last part of the bridge to be constructed was the______",
+          "answer": "Roadway",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-56-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The bridge was first used by______in May 1937.",
+          "answer": "Pedestrians",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "San Francisco's Golden Gale Bridge",
+        "text": "(A) For several decades in the nineteenth century, there were calls to connect the rapidly growing metropolis of San Francisco to its neighbours across the mile-wide Golden Gate Strait, where San Francisco Bay opens onto the Pacific Ocean. Eventually, in 1919, officials asked the city engineer, Michael O'Shaughnessy, to explore the possibility of building a bridge. He began to consult engineers across the USA about the feasibility of doing so, and the cost. Most doubted whether a bridge could be built at all, or estimated that it would cost $100 million. However, a Chicago-based engineer named Joseph Strauss believed he could complete the project for a modest $25 to $30 million. After his proposal was accepted, Strauss set about convincing the communities on the northern end of the strait that the bridge would be to their benefit, as well as to that of San Francisco. With population centres growing fast, there was severe traffic congestion at the ferry docks, and motor vehicle travel by ferry was fast exceeding capacity.\n\n(B) The bridge could not be constructed without the agreement of the US War Department, which owned the land on each side of the Strait and had the power to prevent any harbour construction that might affect shipping traffic. In 1924, San Francisco and Marin counties applied for a permit to build a bridge, and after hearing overwhelming arguments in favour of the project, the Secretary of War agreed. Despite the economic benefits promised by its supporters, the project met fierce resistance from a number of businesses – particularly ferry companies – and civic leaders. Not only would the bridge be an obstacle to shipping and spoil the bay's natural beauty, they argued, it wouldn't survive the sort of earthquake that had devastated the city in 1906. Eight years of legal actions followed as opponents tried to prevent it from being built.\n\n(C) Meanwhile, Strauss's team scrapped their original plans in favour of a suspension span capable of moving more than two feet to each side: this would withstand strong wind far better than a rigid structure. They also planned the two towers, and decided on a paint colour they called 'international orange'.\n\n(D) O'Shaughnessy, Strauss and the Secretary to the Mayor of San Francisco believed a special district needed to be created, with responsibility for planning, designing and financing construction. The formation of this district would enable all the counties affected by the bridge to have a say in the proceedings. This happened in 1928, when the California legislature passed an act to establish the Golden Gate Bridge and Highway District, consisting of six counties. In 1930, residents voted on the question of whether to put up their homes, their farms and their business properties as security for a $35 million bond issue to finance construction. The outcome was a large majority in favour. However, the District struggled to find a financial backer amid the difficulties of the Great Depression, a problem made worse by years of expensive legal proceedings. Now desperate, Strauss personally sought help from the President of Bank of America, who provided a crucial boost by agreeing to buy $6 million in bonds in 1932.\n\n(E) Construction began in January 1933, with the excavation of a vast amount of rock to establish the bridge's two anchorages – the structures in the ground that would take the tension from the suspension cables. The crew consisted of virtually anyone capable of withstanding the physical rigours of the job, as out-of-work cab drivers, farmers and clerks lined up for the chance to earn steady wages as ironworkers and cement mixers. The attempt to build what would be the first bridge support in the open ocean proved an immense challenge. Working from a long framework built out from the San Francisco side, divers plunged to depths of 90 feet through strong currents to blast away rock and remove the debris. The framework was damaged when it was struck by a ship in August 1933 and again during a powerful storm later in the year, setting construction back five months.\n\n(F) The two towers were completed in June 1935, and a New Jersey-based company was appointed to handle the on-site construction of the suspension cables. Its engineers had mastered a technique in which individual steel wires were banded together in spools and carried across the length of the bridge on spinning wheels. Given a year to complete the task, they instead finished in just over six months, having spun more than 25,000 individual wires into each massive cable. The roadway was completed in April 1937, and the bridge officially opened to pedestrians the following month. The next day, President Roosevelt announced its opening via White House telegraph.\n\n(G) The Golden Gate has endured as a marvel of modern engineering; its main span was the longest in the world for a suspension bridge until 1981, while its towers made it the tallest bridge of any type until 1993. It withstood a destructive earthquake in 1989 and was closed to traffic only three times in its first 75 years due to weather conditions. Believed to be the most, photographed bridge in the world, this landmark was named one of the seven civil engineering wonders of the United States by the American Society of Civil Engineers in 1994."
+      }
+    }
+  ]
+}

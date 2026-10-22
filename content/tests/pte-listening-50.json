@@ -1,0 +1,460 @@
+{
+  "id": "pte-listening-50",
+  "title": "Listening — Practice Test 50",
+  "kind": "practice",
+  "description": "One recording, 29 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-50-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Rents: from ______ £ to £1000 per month",
+          "answer": "400",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Number of bedrooms required: ______",
+          "answer": "2",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Rent: ______ £ per month",
+          "answer": "750",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Including ______",
+          "answer": "parking space",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Apartment 2: ______ Road",
+          "answer": "Cornell",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Viewing arrangements: meet ______ at",
+          "answer": "Jayson",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Place: ______",
+          "answer": "apartment",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Time: ______ pm",
+          "answer": "5.15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Also required: reference letter from ______",
+          "answer": "employer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "£ contract fee ______",
+          "answer": "£60",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "cafe and restaurant ______",
+          "answer": "cafe and restaurant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "council offices ______",
+          "answer": "council offices",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "workshops ______",
+          "answer": "workshops",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "expanded ______",
+          "answer": "expanded",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "visitors ______",
+          "answer": "visitors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "friday ______",
+          "answer": "friday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "april ______",
+          "answer": "april",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "box ______",
+          "answer": "box",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "10",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "______",
+          "answer": "7",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Maria's essay is",
+          "options": [
+            {
+              "id": "A",
+              "text": "better than her previous one"
+            },
+            {
+              "id": "B",
+              "text": "not quite as good as her previous one"
+            },
+            {
+              "id": "C",
+              "text": "similar to her previous one"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The tutor is impressed by",
+          "options": [
+            {
+              "id": "A",
+              "text": "the punctuation"
+            },
+            {
+              "id": "B",
+              "text": "the spelling"
+            },
+            {
+              "id": "C",
+              "text": "the style and choice of language"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The tutor feels that Maria's use of English is",
+          "options": [
+            {
+              "id": "A",
+              "text": "generally acceptable"
+            },
+            {
+              "id": "B",
+              "text": "very poor"
+            },
+            {
+              "id": "C",
+              "text": "perfect"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How does Maria feel about this?",
+          "options": [
+            {
+              "id": "A",
+              "text": "she is very sad"
+            },
+            {
+              "id": "B",
+              "text": "she is relieved"
+            },
+            {
+              "id": "C",
+              "text": "she is delighted"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How does the tutor suggest Maria can improve her spelling?",
+          "options": [
+            {
+              "id": "A",
+              "text": "use a dictionary"
+            },
+            {
+              "id": "B",
+              "text": "use a computer spell checker"
+            },
+            {
+              "id": "C",
+              "text": "avoid difficult to spell words"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "the introduction ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "information on the railways ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "the quotation from The Times ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "the conclusion ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "the bibliography",
+          "options": [
+            {
+              "id": "A",
+              "text": "Expand it"
+            },
+            {
+              "id": "B",
+              "text": "Reduce it"
+            },
+            {
+              "id": "C",
+              "text": "Delete it"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main problem is",
+          "options": [
+            {
+              "id": "A",
+              "text": "cats in towns"
+            },
+            {
+              "id": "B",
+              "text": "the poor condition of feral cats"
+            },
+            {
+              "id": "C",
+              "text": "public awareness"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Emergency veterinary treatment is provided by",
+          "options": [
+            {
+              "id": "A",
+              "text": "the government"
+            },
+            {
+              "id": "B",
+              "text": "a small number of people"
+            },
+            {
+              "id": "C",
+              "text": "nobody"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sterilisation is usually performed only on ______",
+          "answer": "females",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Sterilisation is carried out in ______",
+          "answer": "temporary centres",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cats remain there for ______",
+          "answer": "about 24 hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "To show that an animal has been sterilized, one MethodMessageWhen Poster campaignA kitten is not (37) ______now (38) ______Families may get bored with the responsibility of owning a petperhaps before next Christmas Newspaper advertisementsAbandoned animals cause problems for other people(39) ______ (37) (38) (39)",
+          "answer": "ear is clipped",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Poster campaignA kitten is not ______now",
+          "answer": "just for christmas",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Families may get bored with the responsibility of owning a petperhaps before next Christmas ______",
+          "answer": "radio ads",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Newspaper advertisementsAbandoned animals cause problems for other people______",
+          "answer": "last year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-50-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A wider problem of feral cats is that they can ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/50_we.mp3"
+    }
+  ]
+}

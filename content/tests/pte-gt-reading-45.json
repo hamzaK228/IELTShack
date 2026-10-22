@@ -1,0 +1,899 @@
+{
+  "id": "pte-gt-reading-45",
+  "title": "General Training Reading — Practice Test 45",
+  "kind": "practice",
+  "description": "4 texts, 36 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Presto Bread Machine",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-45-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Section A ______",
+          "answer": "Vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Section B ______",
+          "answer": "Ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Section C ______",
+          "answer": "Vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Section D ______",
+          "answer": "Iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How long does it take to bake raisin bread? ______",
+          "answer": "Three hours",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "How often should you clean the inside of the machine? ______",
+          "answer": "After each use",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "According to these instructions, where can you find bread recipes from around the world? ______",
+          "answer": "On the website",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q8",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Regional Share-Your-Ride provides",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q9",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "By using a carpool or vanpool, commuters can save",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q10",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Commuters who travel by van receive",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Commuters can get free maps by ______",
+          "answer": "M",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q12",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Commuters should register with the program",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "After signing up for the program, participants can receive by e-mail ______",
+          "answer": "K",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In case of emergency, program participants can get",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides. K daily information on road conditions. L a trip to the hospital. M visiting the website."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Presto Bread Machine",
+        "text": "Thank you for buying a Presto Bread Machine. You and your family will enjoy delicious homemade bread for years to come.\n\nA Please check the contents of the box to make sure they are complete. Your Presto Bread Machine comes with a removable baking pan, a measuring cup, a measuring spoon, and a recipe booklet. You may also wish to have on hand an extra measuring cup and several other measuring spoons in different sizes. Ingredients for the bread recipes are not included.\n\nB Choose a recipe from the enclosed recipe booklet. Each recipe lists the ingredients in the order they are to be added to the machine. Liquid ingredients should be added to the machine before dry ingredients. Place all the ingredients in the removable pan, place the pan inside the machine, and close the lid. Push the menu button and the type of bread you are making—white, whole wheat, or raisin. If you are making rolls, select dough. Push the start button. Your bread will be ready in three hours for white or raisin bread or four hours for whole wheat bread. Dough takes two hours.\n\nC It is important to clean the inside of the machine after each use. Small bits of dough may fall out of the pan and burn during baking. Over time this may build up and become hazardous. For cleaning, remove the bread pan from the machine and let the machine cool down. Wipe the inside of the machine with a damp sponge. To clean the bread pan, let it soak in warm, soapy water. Then wipe gently with a damp sponge. Do not use a brush or scouring pad as these may damage the stick-free coating.\n\nD If you have any questions or require help using your bread machine, please call our twenty-four-hour help line: 800-555-9845. A list of frequently asked questions and answers is available on the website: www.prestobread.com. Also available on the website is a variety of international bread recipes. If you are dissatisfied with your Presto Bread Machine for any reason, simply return it, in its original box, to the store where you purchased it. A complete refund will be sent to you within thirty days of purchase."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Regional Share-Your-Ride",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-45-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Wearing______ clothes makes a better impression during the job interview.",
+          "answer": "Conservative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Practice answering questions ahead of time so that you feel______ during the interview.",
+          "answer": "Calm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "If traveling to the interview by bus, make sure you know______ ahead of time.",
+          "answer": "The schedule(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You will b e ______ for the interview if you plan your trip beforehand.",
+          "answer": "On time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Use your______ to convey an attitude of confidence.",
+          "answer": "Voice",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Show what you know by asking______",
+          "answer": "(The right) question",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "finding international customers",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Regional Share-Your-Ride",
+        "text": "Information for Commuters Regional Share-Your-Ride is a free service offered to all commuters in our area. We help you save costs on commuting by matching you up with other commuters who travel the same route. When you share your daily ride to work with other commuters, you save on transportation costs and help reduce traffic congestion and air pollution.\n\nCarpool Share your ride to work with one or more other commuters. You can choose to carpool daily or just a few days a week, whatever suits your schedule best.\n\nVanpool Using your van to share your ride with four or more people will save you even more on commuting costs. Regional Share-Your-Ride is available to help you keep your van running smoothly and filled with riders. According to state law, vanpools are permitted to travel in special high-occupancy vehicle (HOV) lanes located on highways in urban areas throughout the region.\n\nMatching Log on to our website at www.rsyrp.net. Type in your location, destination, and work schedule. Our system will generate a list of other commuters whose route and schedule match yours. The website also has maps of the region to help you plan the most efficient route for your commute. These are available for free download.\n\nContact Contact the commuters on the list, and arrange a ride-sharing schedule and route with them. You can also discuss how you want to share the responsibility of driving. When you have arranged a carpool or vanpool group, return to our website and register your group with us.\n\nBenefits Registered participants in Regional Share-Your-Ride can sign up to receive daily traffic and weather reports by e-mail. As a participant, you are also eligible for the Urgent Ride service, which provides you with free transportation to your house in case you or your carpool or vanpool driver has an emergency. Complete each sentence with the correct ending, A-M, below. Write the correct letter, A—M, on lines 8—14 on your answer sheet.\n\n8. Regional Share-Your-Ride provides\n\n9. By using a carpool or vanpool, commuters can save\n\n10. Commuters who travel by van receive\n\n11. Commuters can get free maps by\n\n12. Commuters should register with the program\n\n13. After signing up for the program, participants can receive by e-mail\n\n14. In case of emergency, program participants can get A money on travelling costs.\n\n(B) participating in the program for one month. C a free ride home.\n\n(D) a reduced-cost Regional Share-Your-Ride program membership. E wear and tear on their cars.\n\n(F) permission to use certain highway lanes.\n\n(G) rentals of cars and vans for commuting purposes.\n\n(H) after forming a carpool or vanpool group.\n\n(I) if interested in learning more about carpools. J information to commuters who wants to share rides. K daily information on road conditions. L a trip to the hospital. M visiting the website."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Job Interview Success",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-45-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the cost of maintaining a website",
+          "options": [
+            {
+              "id": "A",
+              "text": "website allows you to expand your customer base beyond your immediate community, and even to other countries. Anyone in the world can have access to your services and products through your website, at no extra cost."
+            },
+            {
+              "id": "C",
+              "text": "No matter what the size of your business, it is not hard to afford a website. It is easy to set up, and it does not have to break your budget. There are templates available if you want to create a website yourself. Or, you can hire a"
+            },
+            {
+              "id": "E",
+              "text": "Your website can be a place for your customers to buy your products. You may still do most of your selling at your physical place of business, but the website is another opportunity to sell, and you can reach more customers this way, too."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "ways to communicate with customers",
+          "options": [
+            {
+              "id": "A",
+              "text": "website allows you to expand your customer base beyond your immediate community, and even to other countries. Anyone in the world can have access to your services and products through your website, at no extra cost."
+            },
+            {
+              "id": "C",
+              "text": "No matter what the size of your business, it is not hard to afford a website. It is easy to set up, and it does not have to break your budget. There are templates available if you want to create a website yourself. Or, you can hire a"
+            },
+            {
+              "id": "E",
+              "text": "Your website can be a place for your customers to buy your products. You may still do most of your selling at your physical place of business, but the website is another opportunity to sell, and you can reach more customers this way, too."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "selling your products online",
+          "options": [
+            {
+              "id": "A",
+              "text": "website allows you to expand your customer base beyond your immediate community, and even to other countries. Anyone in the world can have access to your services and products through your website, at no extra cost."
+            },
+            {
+              "id": "C",
+              "text": "No matter what the size of your business, it is not hard to afford a website. It is easy to set up, and it does not have to break your budget. There are templates available if you want to create a website yourself. Or, you can hire a"
+            },
+            {
+              "id": "E",
+              "text": "Your website can be a place for your customers to buy your products. You may still do most of your selling at your physical place of business, but the website is another opportunity to sell, and you can reach more customers this way, too."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the size of your website",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q26",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "website design",
+          "options": [
+            {
+              "id": "A",
+              "text": "website allows you to expand your customer base beyond your immediate community, and even to other countries. Anyone in the world can have access to your services and products through your website, at no extra cost."
+            },
+            {
+              "id": "C",
+              "text": "No matter what the size of your business, it is not hard to afford a website. It is easy to set up, and it does not have to break your budget. There are templates available if you want to create a website yourself. Or, you can hire a"
+            },
+            {
+              "id": "E",
+              "text": "Your website can be a place for your customers to buy your products. You may still do most of your selling at your physical place of business, but the website is another opportunity to sell, and you can reach more customers this way, too."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "the most important information to include",
+          "options": [
+            {
+              "id": "A",
+              "text": "money on travelling costs."
+            },
+            {
+              "id": "B",
+              "text": "participating in the program for one month."
+            },
+            {
+              "id": "C",
+              "text": "a free ride home."
+            },
+            {
+              "id": "D",
+              "text": "a reduced-cost Regional Share-Your-Ride program membership."
+            },
+            {
+              "id": "E",
+              "text": "wear and tear on their cars."
+            },
+            {
+              "id": "F",
+              "text": "permission to use certain highway lanes."
+            },
+            {
+              "id": "G",
+              "text": "rentals of cars and vans for commuting purposes."
+            },
+            {
+              "id": "H",
+              "text": "after forming a carpool or vanpool group."
+            },
+            {
+              "id": "I",
+              "text": "if interested in learning more about carpools."
+            },
+            {
+              "id": "J",
+              "text": "information to commuters who wants to share rides."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Job Interview Success",
+        "text": "When you apply for a job, the impression you create during the interview is just as important as the skills and background you bring to the table. The following suggestions will help you prepare for a successful interview.\n\nBefore You Leave Home Dress appropriately. This means the attire you choose should be the same as what you would wear for work once you are hired. Conservative colors and styles always convey a more trustworthy image. Rehearse the interview at home. Think of questions that you will probably be asked, and prepare answers for them. This will help you be calm when you are at the actual interview. Don't be late for your interview. The best way to avoid this problem is to decide ahead of time how you want to get there. If by bus or subway, check the schedules the day before. If by car, plan your route carefully and figure out how long it will take. Careful planning will ensure that you will make a good impression by arriving on time.\n\nDuring the Interview Speak clearly. Look the interviewer in the eye when speaking and use clear, confident tones. Do not speak too quickly or nervously. Rather, pronounce your words carefully and pause when searching for ideas. Speaking with a firm, clear voice is one of the best ways to give an impression of self-assurance. Ask questions. Do not be afraid to do this. It will not make you appear unprepared or stupid. On the contrary, asking the right questions shows that you are knowledgeable about the company and conveys the impression that you are interested and enthusiastic. Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers on lines 15—20 on your answer sheet. 15. Wearing_____________________ clothes makes a better impression during the job interview. 16. Practice answering questions ahead of time so that you feel________________ during the interview. 17. If traveling to the interview by bus, make sure you know__________________ ahead of time. 18. You will b e _____________________ for the interview if you plan your trip beforehand. 19. Use your_____________________ to convey an attitude of confidence.\n\n20. Show what you know by asking______________________"
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Phases of the Moon",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-45-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It takes the moon approximately twenty-nine days to",
+          "options": [
+            {
+              "id": "A",
+              "text": "orbit the sun."
+            },
+            {
+              "id": "B",
+              "text": "travel 382,400 kilometers."
+            },
+            {
+              "id": "C",
+              "text": "become fully illuminated."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The dark side of the moon",
+          "options": [
+            {
+              "id": "A",
+              "text": "receives a lot of light."
+            },
+            {
+              "id": "B",
+              "text": "faces the Earth during the day."
+            },
+            {
+              "id": "C",
+              "text": "is never visible from the Earth. Label the diagram below. Choose NO MORE THAN TWO WORDS from the reading passage for each answer. Write your answers on lines 30—33 on your answer sheet."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 30. ______",
+          "answer": "New moon",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 31. ______",
+          "answer": "First quarter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 32. ______",
+          "answer": "Full moon",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Refer to the passage or diagram and answer question 33. ______",
+          "answer": "Last quarter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A lunation takes a little more than one month to complete.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The term blue moon refers to the color of the moon at certain times of the year.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It takes about fifteen days for the moon to move from new moon to full moon.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "At certain times of the month, the moon rises at the same time as the sun.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are twelve months on the Islamic calendar.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some planets have phases similar to the moon's phases.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-45-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The moons of Venus and Mercury are visible from Earth.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Phases of the Moon",
+        "text": "Traveling a distance of approximately 382,400 kilometers, the moon takes just over twenty-nine days to complete its orbit around the Earth. During this lunar cycle, many different phases of the moon are visible from Earth, even though the moon itself never changes shape. The cyclic period of the moon is determined by the extent to which the sun illuminates the moon on the side that is facing Earth. Just like Earth, the moon is sphere shaped, and thus always half illuminated by the sun. However, because the moon and the Earth are in synchronous rotation, we can see only the near side of the moon. The side we do not see is called the far side, or the dark side, a term that is often misunderstood. The dark side refers to the mysteriousness of this unseen side, not the amount of light it receives. Both the near and the far sides of the moon receive approximately the same amount of sunlight. Though we see a slightly different moon from Earth each day, its repetitive cycle is both predictable and functional. There are eight phases of the moon, each with a unique name that signifies how much of the moon is visible from Earth. In the early phases, the moon is said to be waxing, or gradually getting larger. The first phase is called new moon. In this phase, the moon is lined up between the Earth and the sun. The illuminated side of the moon is facing the sun, not the Earth, so from Earth, there appears to be no moon at all. As the moon begins to move slowly eastward away from the sun, it becomes slightly more visible. After new moon, the waxing crescent phase begins. During this phase, the moon appears to be less than half illuminated. First quarter occurs when one-half of the moon is visible. It is called first quarter, not because of its size, but because it represents the end of the first quarter of the moon's cycle. The next phase is called waxing gibbous and represents a moon that is larger than half a sphere, but not quite a whole. This phase is followed by full moon, which occurs when the moon's illuminated side is directly facing Earth. As the moon begins to get smaller again, it is said to be waning. The phases in the second half of the cycle appear the same as the first, except that the opposite half of the near side of the moon is illuminated, thus the moon appears to be shrinking rather than growing. Waning gibbous is followed by last quarter, when one-half of the moon is visible, and finally waning crescent. In the Northern Hemisphere, when the moon is waxing, the light of the moon increases from right to left. The opposite occurs in the Southern Hemisphere. Like the sun, the moon is an accurate tool for measuring time. A complete cycle of the moon is called a lunation. A full cycle of the moon typically lasts just under one calendar month, therefore, the phase of the moon that starts a month usually repeats just before the month is through. When two full moons occur in one calendar month the second one is called a blue moon. This phenomenon occurs about once every 2.7 years. Within one cycle, the moon's \"age\" is calculated from the last day of the new moon. For example, the moon is approximately fifteen days old during the full moon phase. The moon can also be used to calculate the time of day. Just like the sun, the moon rises and sets each day and is visible on the Earth's horizon. At new moon, the moon and sun rise and set at almost the same time. As the moon begins to wax, or move farther in its orbit, it rises approximately one hour later each day. By full moon, the moon rises at about the same time the sun sets and sets when the sun rises. Therefore, the moon is out in the daytime as often as it is at night even though it is not always as easy to see in the daylight. The Islamic calendar is based on the phases of the moon. The beginning of each new month in the Islamic calendar begins when the waxing crescent first appears in the night sky. The primary phases of the moon, which include new moon, first quarter, full moon, and last quarter are published in almanacs for each month. The phases can also be found on many calendars in the Western world. Despite the world's fascination with the moon, its phases are not entirely unique. The planets Venus and Mercury have similar phases; however, unlike the moon, these planets can never be on the opposite side of the Earth from the sun. To see the equivalent of the \"full moon\" phase of these planets, we would need to have the capacity to see through the sun."
+      }
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "id": "pte-gt-reading-80",
+  "title": "General Training Reading — Practice Test 80",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Making an effective complaint",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-80-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Speak to the same person — he or she may have made ______ that could be easily resolved",
+          "answer": "AN HONEST MISTAKE/ A MISTAKE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Don't delay in case there is a ______",
+          "answer": "A TIME LIMIT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Keep track of poor quality goods and save all ______ until the problem is sorted",
+          "answer": "WRITTEN RECORDS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Don't argue Its bettor to ______ or talk to the boss",
+          "answer": "WITHDRAW",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Make sure everyone concerned has your ______",
+          "answer": "CONTACT DETAILS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Get the resolution in ______",
+          "answer": "WRITING",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Making an effective complaint",
+        "text": "When something goes wrong, it can be difficult to know what to do. The following course of action may help you make a successful complaint. • Know your rights. Before you complain, find out your legal rights – the Citizens Advice Bureau (CAB) is a good source for this bad of Information. • If possible and practical, talk to the same person you dealt with in the first place – the problem could just be the result of a misunderstanding or an honest mistake that might be settled without too much effort. • Act now while the facts are fresh in your memory. There may be a time limit for making a complaint. • Be fair and reasonable when you ask for the situation to be put right – make your request proportionate to the problem. • Collect the evidence, especially any faulty merchandise or parts. Keep a paper trail, i.e. al the written records of any transactions, correspondence, receipts, quotes, accounts, contracts, etc, while waiting for the Issue to be resolved. • Prepare your tactics. Practise what you want to say. Consider taking a support person along in the case of a face-to-face encounter. Above all, remain composed. • Be polite. Do not get drawn into a heated quarrel – either withdraw or ask to speak to a higher authority (perhaps a manager or supervisor). • Exchange contact details so the other parties involved can get in touch with you to follow up on the matter and so that you can contact them again if necessary.\n\n• Always obtain the final decision in writing if it was made over the phone or in person"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Identity Crime",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-80-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There are three main kinds of identity theft.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Identify theft is becoming more common.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Individuals lose more money through identity theft than businesses or government.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Criminal organizations profit from identity crime.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Identity theft is global problem.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You should never give personal information over the phone.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "It is generally safe to do internet banking on computers in large public places.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Once you delete a posting from a social website it is gone forever.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Identity Crime",
+        "text": "Identity crime is a generic term used to describe offences in which someone uses a fabricated or fictitious identity, a manipulated identity (the alteration of one's own identity) or a stolen identity to commit a crime. The third of these, identity theft knows no geographical boundaries and is on the increase as more people conduct business and social interactions over the internet. This type of crime produces substantial profits for criminals and causes extensive economic losses to governments, private corporations and individuals. Much of the money lost by individuals stems from credit card fraud, identity theft and scams. However. what worries law enforcement agencies the most is how identity crime facilitates serious and organised crime, with distressing effects on society as a whole. Identity crime is a major problem, made more difficult to investigate and solve as the offender can be on one side of the world and the victim on the other. There are some simple steps you can take to reduce the risk of having your personal information stolen or misused. Only give out personal information over the phone or internet if you have initiated the call or the transaction and can verify that the person or organisation is legitimate Never record PIN numbers for bankcards anywhere inside your purse or wallet. Secure your letterbox with a lock and elm your mail regularly. Burn or shred documents with personal information or store them in a secure place, and wipe your computer hard drive if you are selling it. Make sure the virus and security software on your computer or mobile device is up-to-date and don't use public computers or unsecured wireless hotspots (such as those at a library or internet cafe) for internet banking. Always check bank and credit card statements for unauthorised transactions and report any discrepancies to the hank promptly. Don't respond to scam emails or letters that promise a prize or reward if you provide bank account details to the senders to enable them to deposit the money. Always use the most secure settings and keep a tight rein on how much private information you post on publicly accessible networking sites. Remember, also that information on the internet can remain accessible even if the original posting is removed."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: Making a presentation without props",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-80-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A successful presentation without props depends on both______and delivery.",
+          "answer": "CONTENT",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Body language must have clear objectives – to highlight______of the discussion and show that you are keen and sincere.",
+          "answer": "KEY POINTS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Look at individuals to create a______",
+          "answer": "CLOSE BOND",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Match______to spoken language.",
+          "answer": "GESTURE/ (HAND/APPROPRIATE/EFFECTIVE) GESTURES",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Movement of the______is more easily seen and it makes the speaker more relaxed.",
+          "answer": "SHOULDERS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Standing still shows______although some movement is acceptable at appropriate times.",
+          "answer": "CALMNESS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Use facial expressions to reinforce meaning and lower the pitch of your voice in order to sound______",
+          "answer": "(MORE) AUTHORITATIVE",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Making a presentation without props",
+        "text": "When you make a business presentation using PowerPoint or a flip chart, the audience's attention will mostly be on the slides or chart. When you give a talk without props, the only visual you have is yourself. Obviously, the content is a key part of the presentation, and you will work on that until it is word perfect. However, a successful delivery is also governed by your body language. Body language (gesture, stance and facial expression) is a key element in generating interest and building credibility. It helps you connect with your listeners and helps them focus on your message. Use body language with purpose to accentuate key points of your talk and to project authenticity and enthusiasm. Use eye contact to quickly establish a close bond, by focusing on one person at a time rather than sweeping the audience as a whole. Hand gestures should either be open and neutral (relaxed at your sides) or defined and strong to intensify what you say. Interestingly, research has shown that gesture is intrinsically linked to speech and that by incorporating appropriate gestures we can express ourselves more powerfully verbally. Effective gestures come from the shoulders rather than wrists or elbows and have a twofold advantage: not only do they project further across the audience but they also release tension in the presenter's upper body. Your stance is an open book: the audience can read whether you are confident and comfortable or anxious and afraid. Balance your weight evenly with feet slightly apart and pointing straight ahead. Stillness projects calmness, whereas constant movement or swaying about is an annoying distraction. You can occasionally move around in the space available to you as long as you do so confidently and purposefully, to highlight a change in topic for instance. Lean slightly towards the audience when asking a question or offering a revelation. Facial expressions are vital to effective communication. Unfortunately, public speaking can cause a face to freeze, but the audience relies on facial expressions to amplify the meaning of what you say. Voice, too, is a flexible tool that can be used to great advantage. Before your presentation, practise relaxing the voice and finding a lower, more authoritative pitch. Avoid rising intonation at the ends of sentences as it lacks authority – rather it sounds as if you are unsure or seeking approval – not at all the impression you want to give. Breathe deeply and enunciate clearly."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Job Specification: Public Relations Manager",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-80-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Job description: To promote a favourable ______of the company",
+          "answer": "PUBLIC IMAGE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• deciding on the best way to communicate ______to interested parties",
+          "answer": "PROMOTIONAL INFORMATION",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• managing ______ to raise the profile of the company",
+          "answer": "SPECIAL EVENTS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• interacting with others in person, in writing or by way of ______",
+          "answer": "TELEPHONE (CONVERSATIONS)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• identifying strengths and weaknesses of ______",
+          "answer": "ANY (GIVEN) PROPOSAL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• resolving disputes through ______skills",
+          "answer": "(EFFECTIVE) MEDIATION",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Job Specification: Public Relations Manager",
+        "text": "Job Description To develop and manage public relations programmes to create and support a positive corporate public image.\n\nDuties and Tasks • Identify principal clients and stakeholders and determine the most effective means of transmitting promotional information to them. • Write press releases; make information available for media kits; develop and keep company internet and intranet pages up to date. • Write speeches for company executives and set up interviews for them with the media. • Coordinate special events including sponsorships and promotion of new products with a view to gaining media and public attention.\n\nActivities • Obtain relevant information from various sources. • Create and sustain collaborative work relationships and constructive liaisons with clients and others outside the company. • Communicate with clients, the public and government agencies as required. Communications may take the form of face-to-face interactions, telephone conversations, emails, letters, instant messages or memos. • Analyse information and explore creative solutions to problems. • Use computer systems to enter data and process information.\n\nSkills and Abilities\n\n• Public speaking – clarity of articulation and expression is important • Active listening – pay attention, understand the sequence of an argument, ask sensible questions at appropriate times, refrain from interrupting\n\n• Written communication – correct and unambiguous written statements suited to the target audience\n\n• Reading comprehension – ability to understand all work-related documents\n\n• Critical thinking – use logical and rational methods to weigh up the pros and cons of any given proposal • Originality of ideas – ability to come up with a number of novel, extraordinary or ingenious approaches to solving problems\n\n• Decision-making – use good judgement to make well-considered decisions before taking action\n\n• Negotiation – use effective mediation skills, reconcile differences\n\nKnowledge and experience or education\n\n• University degree in a relevant field (preferably post-graduate)\n\n• Proficiency in the English language and a foreign (non-English) language\n\n• Media – dissemination techniques for written, spoken, visual media\n\n• Administration, clerical systems and office procedures"
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: Bioremediation",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-80-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "measurable effects of bioremediation on workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "how plants cleanse the air",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "research which tested the bioremediation effects of two different plant species",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an experimental facility that was initially unfit to live in",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a condition affecting office workers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it is robust",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it prefers a tight-fitting pot",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it easily overruns other plants in an outside environment",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it releases oxygen at night",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q37",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it is delicate",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q38",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "it is harmful to infants and some adults",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "it has leaves that grow straight up",
+          "options": [
+            {
+              "id": "A",
+              "text": "Areca plant"
+            },
+            {
+              "id": "B",
+              "text": "Snake plant"
+            },
+            {
+              "id": "C",
+              "text": "Money plant"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-80-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which of the following is NOT mentioned in the last paragraph of the passage?",
+          "options": [
+            {
+              "id": "A",
+              "text": "indoor plants improve air quality"
+            },
+            {
+              "id": "B",
+              "text": "indoor plants need regular care"
+            },
+            {
+              "id": "C",
+              "text": "indoor plants are pleasant to look at"
+            },
+            {
+              "id": "D",
+              "text": "indoor plants are beneficial for the body and mind"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "Bioremediation",
+        "text": "(A) Global energy need; will probably increase by 30% over the next ten years and at present, 40% of the world's energy is consumed by buildings. One way to make buildings more energy efficient is to insulate them and minimise fresh air exchange. However, reduced air circulation causes a phenomenon known as Sick Building Syndrome when combined with the volatile organic compounds (VOCs) emitted by modem materials used in of blocks, furnishings and high-tech equipment, along with human bio-effluents. Eye irritations, skin rashes, sinus and respiratory problems, headaches and drowsiness are common symptoms. The VOCs are not only noxious but carcinogenic, with long-term exposure heightening one's risk of cancer.\n\n(B) An environmental scientist, Dr Bill Wolverton, working for The National Aeronautics Space Administration (NASA), came up with a solution: \"if man is to move into closed environments, on Earth or in space, he must take along nature's life support system\". In other words, plants. Early experiments were conducted in the BioHome, an airtight habitat constructed entirely of synthetic materials, designed for one person to live in. Before Wolverton introduced houseplants into the environment, it was uninhabitable because of the poor air quality – anyone entering suffered burning eves and breathing difficulties.\n\n(C) Wolverton found that, apart from absorbing carbon dioxide and releasing oxygen as all plants do, some plants are able to remove considerable amounts of VOCs. They do this by absorption through tiny openings (stomata) on their leaves, but roots and microorganisms living in the potting soil or other growing medium are also important in the removal of toxins from the air. Most of the plants used by Wolverton originated in the understory of subtropical or tropical forests, with their particular leaf composition enabling them to photosynthesise in reduced sunlight. This ability is what allows them to thrive indoors away from direct sunshine. One largish plant for approximately every ten square metres of home or office space is suggested as an operational ratio.\n\n(D) The strategy of using indoor plants as air purifiers has not been widely endorsed because of a lack of quantifiable outcomes. This could be changing, however. Recent studies at the University of Technology in Sydney have shown that certain plants on Wolverton's list, namely Dracaena deremensis 'Janet Craig' and the peace lily Spathiphyllum wallisii, reduced pollution levels to negligible levels when placed in offices with high quantities of VOC's.\n\n(E) Building on the NASA experiments and with the help of the Indian Institutes of Technology and The Energy and Resources Institute, Kamal Meattle of New Delhi has trialed several of Wolverton's recommended plant species at his workplace. He used 1,200 plants for 300 occupants (four waist – to shoulder-high plants per person) in a twenty years old building measuring some 4,600 square metres. Results of this experiment showed elevated blood oxygen levels in the occupants and reduced incidences of eye irritation as well as a marked reduction in respiratory system disorders and headaches. Since the installation of the plants, the labour force has increased productivity by over 20% and energy requirements for the building have been reduced by 15 per cent. For his study, he used the areca palm, the snake plant (or mother-in-law's tongue) and the money plant (golden pathos).\n\n(F) The areca palm (Chrysandocarpus lutescens), native to the island of Madagascar, has a smooth silver-green trunk and feathery-shaped fronds. A sensitive plant, it needs year round care with the right amount of bright but indirect light. The soil should be kept a little moist in spring and summer but allowed to thy slightly in autumn and winter. The areca favours a snug container – the crowded root system will limit the size of the palm, if unrestricted, it may grow as tall as six metres. The areca palm has been proven effective in the removal of toluene (in new carpet, paints and varnishes) and xylem (a potent neurotoxin found in marker pens, paints and varnishes).\n\n(G) The snake plant (Sansevieria trsfasciata) is an evergreen perennial species, originally a resident of tropical West Africa. Its stiff vertical leaves extend up to a metre in length. It is more tolerant of irregular watering and low light levels than the areca palm. Meattle notes that it would be ideally placed in bedrooms because it is a nocturnal oxygenator. It also does a good job of absorbing benzene (a commonly used solvent in oils, paints, plastics and rubber), trichloroeihylene (a commercial product with a wide variety of uses including inks, paints, adhesives) and formaldehyde. in addition to toluene and xylem. Formaldehyde is a pervasive and abundant chemical found in numerous paper products, particleboard, plywood synthetic fabrics, carpet, cigarette smoke and heating and cooking fuels.\n\n(H) The money plant (Eppreinnum aureson), is indigenous to French Polynesia. This evergreen vine is a very hardy plant, but highly invasive if it takes root out of doors. It is an easy and undemanding plant to care for, equally comfortable in bright or low light, nutrient-poor or nutrient-rich soil – it can even be grown in a jar of water. Unfortunately, its leaves are poisonous to cats, dogs and children and even the sap from the plant may cause a rash in people with sensitive skin. However, it is extremely efficient at filtering all the same pollutants as the snake plant, except for trichloroethylene.\n\n(I) Popular minimalist architecture mostly did away with indoor plants but, as a result of research by Dr Wolverton and others, they are making a comeback. After all, in the words of Margaret Burchett of the University of Technology in Sydney: \"Potted plants can provide an efficient, self-regulating, low-cost, sustainable bioremediation system for indoor air pollution\". Plants have even more in their favour: they balance indoor humidity, are pleasing on the eye and, according to a recently published article: \"plants relieve physiological stress and negative psychological symptoms\"."
+      }
+    }
+  ]
+}

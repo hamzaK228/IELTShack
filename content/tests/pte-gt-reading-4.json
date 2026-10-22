@@ -1,0 +1,991 @@
+{
+  "id": "pte-gt-reading-4",
+  "title": "General Training Reading — Practice Test 4",
+  "kind": "practice",
+  "description": "2 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: MAIN STREET, GATTON RE-DEVELOPMENT",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-4-q1",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "up-to-date teaching systems?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q2",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "that the institution has been established for a significant time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q3",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "examination classes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "that arrangements can be made for activities outside class?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q5",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "the availability of courses for school students?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q6",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "language teaching for special purposes? Which TWO advertisement mentions",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q7",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "a wide variety of language choices?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": [
+            "A",
+            "B"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q8",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "evening classes?",
+          "options": [
+            {
+              "id": "A",
+              "text": "International Language Centre"
+            },
+            {
+              "id": "B",
+              "text": "Global Language Learning Centre"
+            },
+            {
+              "id": "C",
+              "text": "Tafe International"
+            },
+            {
+              "id": "D",
+              "text": "Club Francais"
+            },
+            {
+              "id": "E",
+              "text": "University of Canberra"
+            }
+          ],
+          "answer": [
+            "B",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The road will be closed for two days and not re-opened until Monday.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The road will be open as far as Little Street.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Work on the road will continue each weekend for the next month.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Temporary traffic lights will operate at intersections with Main Street.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There will be bus services to the university throughout the weekend.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Overseas students must pay a deposit when they apply for a course at the college.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Outstanding fees are payable by the end of the first week of the course.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Classes are organised according to ability level.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There is a break between each lesson.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q18",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Students may change courses at any time during the term.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Any student is permitted to take a week's holiday during a 12-week course.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "(University) Halls of Residence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "4/four weeks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "10 to/15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "(waikato) Student's Union",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "(waikato) river",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "picturesque",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only. ______",
+          "answer": "(ongoing)travel (arrangements)",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "MAIN STREET, GATTON RE-DEVELOPMENT",
+        "text": "ROAD WIDENING TO AFFECT WEEKEND TRAFFIC AND BUS SERVICES TO THE UNIVERSITY CAMPUS The next stage in the re-development of the roads in the town of Gatton will mean that Main Street will be closed between Little and Denning Streets from 6am on Saturday, 12 August to 6pm on Sunday, 13 August. The intersections of these streets with Main Street will not be affected. We expect that the work will be completed at this time without further disruption to traffic. Motorists should note that Main Street will be closed over the weekend during the hours indicated. No university bus services will operate through the area between Little and Denning Streets. However, alternative services will operate on bus routes 566 and 45 between Gatton Road, the town centre and the university. The Transport and Roads Department apologises for any inconvenience caused while improvements are in progress."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: THE TOTARA LANGUAGE INSTITUTE NEW ZEALAND",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-4-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "appropriate letter A-D in box 27 on your answer sheet.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pollution control in coal mining"
+            },
+            {
+              "id": "B",
+              "text": "The greenhouse effect"
+            },
+            {
+              "id": "C",
+              "text": "The coal industry and the environment"
+            },
+            {
+              "id": "D",
+              "text": "Sustainable population growth"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Global warming"
+            },
+            {
+              "id": "ii",
+              "text": "The dangers of the coal industry"
+            },
+            {
+              "id": "iii",
+              "text": "Superclean coal"
+            },
+            {
+              "id": "iv",
+              "text": "Environment protection measures"
+            },
+            {
+              "id": "v",
+              "text": "Coal as an energy source"
+            },
+            {
+              "id": "vi",
+              "text": "Coal and the enhanced greenhouse effect"
+            },
+            {
+              "id": "vii",
+              "text": "Research and development"
+            },
+            {
+              "id": "viii",
+              "text": "Mining site drainage"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Global warming"
+            },
+            {
+              "id": "ii",
+              "text": "The dangers of the coal industry"
+            },
+            {
+              "id": "iii",
+              "text": "Superclean coal"
+            },
+            {
+              "id": "iv",
+              "text": "Environment protection measures"
+            },
+            {
+              "id": "v",
+              "text": "Coal as an energy source"
+            },
+            {
+              "id": "vi",
+              "text": "Coal and the enhanced greenhouse effect"
+            },
+            {
+              "id": "vii",
+              "text": "Research and development"
+            },
+            {
+              "id": "viii",
+              "text": "Mining site drainage"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Global warming"
+            },
+            {
+              "id": "ii",
+              "text": "The dangers of the coal industry"
+            },
+            {
+              "id": "iii",
+              "text": "Superclean coal"
+            },
+            {
+              "id": "iv",
+              "text": "Environment protection measures"
+            },
+            {
+              "id": "v",
+              "text": "Coal as an energy source"
+            },
+            {
+              "id": "vi",
+              "text": "Coal and the enhanced greenhouse effect"
+            },
+            {
+              "id": "vii",
+              "text": "Research and development"
+            },
+            {
+              "id": "viii",
+              "text": "Mining site drainage"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Global warming"
+            },
+            {
+              "id": "ii",
+              "text": "The dangers of the coal industry"
+            },
+            {
+              "id": "iii",
+              "text": "Superclean coal"
+            },
+            {
+              "id": "iv",
+              "text": "Environment protection measures"
+            },
+            {
+              "id": "v",
+              "text": "Coal as an energy source"
+            },
+            {
+              "id": "vi",
+              "text": "Coal and the enhanced greenhouse effect"
+            },
+            {
+              "id": "vii",
+              "text": "Research and development"
+            },
+            {
+              "id": "viii",
+              "text": "Mining site drainage"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The global increase in greenhouse gases has been attributed to",
+          "options": [
+            {
+              "id": "A",
+              "text": "industrial pollution in developing countries."
+            },
+            {
+              "id": "B",
+              "text": "coal mining and electricity generation."
+            },
+            {
+              "id": "C",
+              "text": "reduced rainfall in many parts of the world."
+            },
+            {
+              "id": "D",
+              "text": "trends in population and lifestyle."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q33",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The proportion of all greenhouse gases created by coal is approximately",
+          "options": [
+            {
+              "id": "A",
+              "text": "14 per cent."
+            },
+            {
+              "id": "B",
+              "text": "18 per cent."
+            },
+            {
+              "id": "C",
+              "text": "27 per cent."
+            },
+            {
+              "id": "D",
+              "text": "90 per cent."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Current research aims to increase the energy-producing efficiency of coal by",
+          "options": [
+            {
+              "id": "A",
+              "text": "burning it at a lower temperature."
+            },
+            {
+              "id": "B",
+              "text": "developing new gasification techniques."
+            },
+            {
+              "id": "C",
+              "text": "extracting CO2 from it."
+            },
+            {
+              "id": "D",
+              "text": "recycling greenhouse gases."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Compared with ordinary coal, new, 'clean' coals may generate power",
+          "options": [
+            {
+              "id": "A",
+              "text": "more cleanly and more efficiently."
+            },
+            {
+              "id": "B",
+              "text": "more cleanly but less efficiently."
+            },
+            {
+              "id": "C",
+              "text": "more cleanly but at higher cost."
+            },
+            {
+              "id": "D",
+              "text": "more cleanly but much more slowly."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "To control dust at mine sites, mining companies often use",
+          "options": [
+            {
+              "id": "A",
+              "text": "chemicals which may be toxic."
+            },
+            {
+              "id": "B",
+              "text": "topsoil taken from the site before mining."
+            },
+            {
+              "id": "C",
+              "text": "fresh water from nearby dams."
+            },
+            {
+              "id": "D",
+              "text": "runoff water containing sediments."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The coal industry should be abandoned in favour of alternative energy sources because of the environmental damage it causes.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The greatest threats to the environment are the gases produced by industries which support the high standard of living of a growing world population.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "World population in the twenty-first century will probably exceed 8 billion.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-4-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "CFC emissions have been substantially reduced in recent years.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "THE TOTARA LANGUAGE INSTITUTE NEW ZEALAND",
+        "text": "Study English in a national university with students from many countries.\n\n• 4-week blocks\n\n• 5 hours' tuition each day\n\n• Examination preparation\n\n• University entry (with appropriate academic and English requirements) Choice of accommodation for all students – homestays with local families or in Halls of Residence with New Zealand students. The Totara Language Institute is part of the University of Waikato in the city of Hamilton, in New Zealand's North Island. Intensive English classes are taught in four-week blocks throughout the year and students may enrol for as many blocks as they wish. Classes are for 5 hours each day, Monday to Friday, and include preparation for several international English language examinations. All the courses are taught by highly qualified teachers, many of whom also teach on Language Institute graduate programmes in second language teaching and applied linguistics. Classes are small, usually from 10-12 students with a maximum number of 15, and normally contain a mix of students from a wide range of countries. Students who study English at the Language Institute become international members of the Waikato Students' Union. The option is available to move on to university study if students meet the English language and academic entry levels for their choice of programme. The Language Institute provides student support, welfare and activities services. Students are met at Auckland airport on arrival and accommodation is provided with local families or in University Halls of Residence with New Zealand students. Hamilton, one of New Zealand's fastest growing cities, is ideally located for a wide range of leisure and cultural activities. The Waikato river, the longest river in New Zealand, flows through the centre of the city, providing a picturesque and park-like setting of riverside walks and gardens. The Waikato region is a diverse agricultural area, rich in historic sites, arts and crafts, hot springs, native forests, mountains and rivers. Within easy reach is an unspoilt coastline; the wild and rugged west coast beaches famous for surfing, and the more peaceful east coast resorts are only a short drive from Hamilton. Further afield the mountains of the central North Island, 3 hours' drive away, provide superb ski facilities in winter and hiking country in summer. The Language Institute activities coordinator can assist students to arrange any sport and leisure activities. Assistance is also available for ongoing travel arrangements for students. Students on a visitor visa or work permit may study for a maximum of 3 months. Courses of longer duration require a student permit which is issued for the length of study only."
+      }
+    }
+  ]
+}

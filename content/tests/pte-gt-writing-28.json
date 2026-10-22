@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-28",
+  "title": "General Training Writing — Letter 28",
+  "kind": "practice",
+  "description": "Task 1 letter, 28 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-28-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Five months ago, you started renting an apartment on a six-month agreement. You now wish to stay in the apartment for longer than the six months you originally agreed with the owner. Write a letter to the owner of your apartment. In your letter\nsay how long you now want to rent the apartment for\nexplain why your plans have changed\ntell the owner about a problem in the apartment\nWrite at least 150 words.",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

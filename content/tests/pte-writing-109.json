@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-109",
+  "title": "Academic Writing — Practice Test 109",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-109-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-109.png"
+        },
+        {
+          "id": "pte-writing-109-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "In some countries more and more people are becoming interested in finding out about the history of the house or building they live in. What are the reasons for this? How can people research this?",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

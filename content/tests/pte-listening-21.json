@@ -1,0 +1,714 @@
+{
+  "id": "pte-listening-21",
+  "title": "Listening — Practice Test 21",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-21-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Family Welcome event in the art gallery begins at",
+          "options": [
+            {
+              "id": "A",
+              "text": "10 am"
+            },
+            {
+              "id": "B",
+              "text": "10.30 am"
+            },
+            {
+              "id": "C",
+              "text": "2 pm"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The film that is now shown in the Family Welcome event is about",
+          "options": [
+            {
+              "id": "A",
+              "text": "sculpture"
+            },
+            {
+              "id": "B",
+              "text": "painting"
+            },
+            {
+              "id": "C",
+              "text": "ceramics"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When do most of the free concerts take place?",
+          "options": [
+            {
+              "id": "A",
+              "text": "in the morning"
+            },
+            {
+              "id": "B",
+              "text": "at lunchtime"
+            },
+            {
+              "id": "C",
+              "text": "in the evening"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q4",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where will the 4 pm concert of Latin American music take place?",
+          "options": [
+            {
+              "id": "A",
+              "text": "in a museum"
+            },
+            {
+              "id": "B",
+              "text": "in a theatre"
+            },
+            {
+              "id": "C",
+              "text": "in a library"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q5",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The boat race begins at",
+          "options": [
+            {
+              "id": "A",
+              "text": "summer pool"
+            },
+            {
+              "id": "B",
+              "text": "Charlesworth bridge"
+            },
+            {
+              "id": "C",
+              "text": "Oxford marina"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "One of the boat race teams",
+          "options": [
+            {
+              "id": "A",
+              "text": "won a regional competition earlier this year"
+            },
+            {
+              "id": "B",
+              "text": "has represented the region in a national competition"
+            },
+            {
+              "id": "C",
+              "text": "has won several regional competitions"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Paxton is a good for seeing rare all year around. ______",
+          "answer": "birds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "This is a particularly good time for seeing certain unusual ______",
+          "answer": "flowers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Visitors will be able to learn about and then collect some. ______",
+          "answer": "mushrooms",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Part of the has been made suitable for swimming. ______",
+          "answer": "river",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In Shona's opinion why do fewer people use buses in Barford these days?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the buses are old and uncomfortable"
+            },
+            {
+              "id": "B",
+              "text": "fares have gone up too much"
+            },
+            {
+              "id": "C",
+              "text": "there are not so many bus routes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What change in the road network is known to have benefitted the town most?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the construction of a bypass"
+            },
+            {
+              "id": "B",
+              "text": "the development of cycle paths"
+            },
+            {
+              "id": "C",
+              "text": "the banning of cars from certain streets"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the problem affecting shopping in the town centre?",
+          "options": [
+            {
+              "id": "A",
+              "text": "lack of parking spaces"
+            },
+            {
+              "id": "B",
+              "text": "lack of major retailers"
+            },
+            {
+              "id": "C",
+              "text": "lack of restaurants and cafes"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Shona say about medical facilities in Barford?",
+          "options": [
+            {
+              "id": "A",
+              "text": "there is no hospital"
+            },
+            {
+              "id": "B",
+              "text": "new medical practices are planned"
+            },
+            {
+              "id": "C",
+              "text": "the number of dentists is too low"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The largest number of people are employed in",
+          "options": [
+            {
+              "id": "A",
+              "text": "manufacturing"
+            },
+            {
+              "id": "B",
+              "text": "services"
+            },
+            {
+              "id": "C",
+              "text": "education"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "railway station car park",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will move to a new location"
+            },
+            {
+              "id": "B",
+              "text": "it will have its opening hours extended"
+            },
+            {
+              "id": "C",
+              "text": "it will be refurbished"
+            },
+            {
+              "id": "D",
+              "text": "it will be used for a different purpose"
+            },
+            {
+              "id": "E",
+              "text": "it will have its opening hours reduced"
+            },
+            {
+              "id": "F",
+              "text": "it will have new management"
+            },
+            {
+              "id": "G",
+              "text": "it will be expanded"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "cinema",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will move to a new location"
+            },
+            {
+              "id": "B",
+              "text": "it will have its opening hours extended"
+            },
+            {
+              "id": "C",
+              "text": "it will be refurbished"
+            },
+            {
+              "id": "D",
+              "text": "it will be used for a different purpose"
+            },
+            {
+              "id": "E",
+              "text": "it will have its opening hours reduced"
+            },
+            {
+              "id": "F",
+              "text": "it will have new management"
+            },
+            {
+              "id": "G",
+              "text": "it will be expanded"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "indoor market",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will move to a new location"
+            },
+            {
+              "id": "B",
+              "text": "it will have its opening hours extended"
+            },
+            {
+              "id": "C",
+              "text": "it will be refurbished"
+            },
+            {
+              "id": "D",
+              "text": "it will be used for a different purpose"
+            },
+            {
+              "id": "E",
+              "text": "it will have its opening hours reduced"
+            },
+            {
+              "id": "F",
+              "text": "it will have new management"
+            },
+            {
+              "id": "G",
+              "text": "it will be expanded"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "library",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will move to a new location"
+            },
+            {
+              "id": "B",
+              "text": "it will have its opening hours extended"
+            },
+            {
+              "id": "C",
+              "text": "it will be refurbished"
+            },
+            {
+              "id": "D",
+              "text": "it will be used for a different purpose"
+            },
+            {
+              "id": "E",
+              "text": "it will have its opening hours reduced"
+            },
+            {
+              "id": "F",
+              "text": "it will have new management"
+            },
+            {
+              "id": "G",
+              "text": "it will be expanded"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "nature reserve",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will move to a new location"
+            },
+            {
+              "id": "B",
+              "text": "it will have its opening hours extended"
+            },
+            {
+              "id": "C",
+              "text": "it will be refurbished"
+            },
+            {
+              "id": "D",
+              "text": "it will be used for a different purpose"
+            },
+            {
+              "id": "E",
+              "text": "it will have its opening hours reduced"
+            },
+            {
+              "id": "F",
+              "text": "it will have new management"
+            },
+            {
+              "id": "G",
+              "text": "it will be expanded"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A ______surrounded by treesAdd Malcolm and a (22) ______noticing him",
+          "answer": "cave",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A (21) ______surrounded by treesAdd Malcolm and a ______noticing him",
+          "answer": "tiger",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People who are ______outside the forestAdd Malcolm sitting on a tree trunk and (24) ______",
+          "answer": "dancing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "People who are (23) ______outside the forestAdd Malcolm sitting on a tree trunk and ______",
+          "answer": "crying",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ice shakes on ______covered with iceAdd a (26) ______for each person",
+          "answer": "grass",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ice shakes on (25) ______covered with iceAdd a ______for each person",
+          "answer": "scarf",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "how they planned the project",
+          "options": [
+            {
+              "id": "A",
+              "text": "Helen only"
+            },
+            {
+              "id": "B",
+              "text": "Jeremy only"
+            },
+            {
+              "id": "C",
+              "text": "both Helen and Jeremy"
+            },
+            {
+              "id": "D",
+              "text": "neither Helen nor Jeremy"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "how they had ideas for their stories",
+          "options": [
+            {
+              "id": "A",
+              "text": "Helen only"
+            },
+            {
+              "id": "B",
+              "text": "Jeremy only"
+            },
+            {
+              "id": "C",
+              "text": "both Helen and Jeremy"
+            },
+            {
+              "id": "D",
+              "text": "neither Helen nor Jeremy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "an interpretation of their stories",
+          "options": [
+            {
+              "id": "A",
+              "text": "Helen only"
+            },
+            {
+              "id": "B",
+              "text": "Jeremy only"
+            },
+            {
+              "id": "C",
+              "text": "both Helen and Jeremy"
+            },
+            {
+              "id": "D",
+              "text": "neither Helen nor Jeremy"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "comments on the illustrations",
+          "options": [
+            {
+              "id": "A",
+              "text": "Helen only"
+            },
+            {
+              "id": "B",
+              "text": "Jeremy only"
+            },
+            {
+              "id": "C",
+              "text": "both Helen and Jeremy"
+            },
+            {
+              "id": "D",
+              "text": "neither Helen nor Jeremy"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• To investigate customer needs and ______",
+          "answer": "attitude",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Researchers found that cooks could not easily see the ______ in measuring cups",
+          "answer": "numbers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• These customers wanted to check the ______ used.",
+          "answer": "time/minutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• There was a need to develop ______ to improve communication between system administrators and colleagues.",
+          "answer": "software",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Nurses needed to access information about ______ in different parts of the hospital",
+          "answer": "patients",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Respondents recorded information about their ______ while travelling.",
+          "answer": "emotions/feelings",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Participants may be selected by criteria such as age, ______ or product used",
+          "answer": "income",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The participants must feel ______ about taking part in the research.",
+          "answer": "comfortable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• There is usually direct ______ of the participants",
+          "answer": "observation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-21-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A lot of time is needed for the ______ of the data.",
+          "answer": "analysis",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/21_we.mp3"
+    }
+  ]
+}

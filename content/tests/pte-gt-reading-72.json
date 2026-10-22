@@ -1,0 +1,784 @@
+{
+  "id": "pte-gt-reading-72",
+  "title": "General Training Reading — Practice Test 72",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: ONLINE TUTORS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-72-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "to teach young children ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "to improve English for your business ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "if you didn't have much money ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "if you were bored with the usual language learning exercises ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "to do exam preparation Which description mention? ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "language teaching qualifications from USA ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "more than 26 years' teaching experience Read the information about recycling and answer Questions 8-14. No-Waste is a goal and a process that involves individuals, communities, businesses and all levels of government. It leads to a future where trash is a thing of the past. Solid waste isn't hidden or buried in landfills but fully utilised as the valuable resource that it is. Through redesign, reduction, reuse, repair, recycling, composting and changes in attitude, we aim to create opportunity and wealth instead of garbage. RECYCLING Inside your blue box Every second week. * Put garbage and recyclables out before 8 AM on collection day. Household Plastic containers Includes milk jugs, yoghurt containers, detergent bottles. Excludes containers made of foam, plastic containers which held ammonia-based products, or metal bottle lids. Rinse to remove food or residue. Leave labels on, flatten or stack plastic containers to reduce space required. Glass containers Leave labels on. Rinse. Discard caps. No other types of glass such as kitchenware, drinking glasses, window glass, light bulbs, mirrors or any broken glass. Metals Food and beverage containers. Cans — rinse and remove labels, flatten and fold together. Foil trays — rinse, flatten and fold together. No metal pots, take out container lids, cigarette wrappings. ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "ONLINE TUTORS",
+        "text": "ONLINE Tutors are excellent EFL/ESL teachers from around the world! They can be your private English tutor right on your computer! To send an email message to an ONLINE Tutor, just click on the name and write a short message to introduce yourself!\n\n(A) I Astrid Manyana (F 46) Chile Special offer for Spanish speakers: bilingual teaching of English grammar and explanations in Spanish. 25 years' experience teaching all levels from age 15 to 55. Basics, oral, written, specific interests [eg: tourism] and preparation for Cambridge and IE0S exams. I can make speaking English easy for you!\n\n(B) John Bennett-Smfth (M 27) Canada\n\n(I) have been teaching English conversation as a volunteer in a language centre in my city for about one year. I have also been using e-mail. ICQ and NetMeeting to teach grammar, composition and conversation over the Internet to about 20 or so students for about the same length of time. I am willing to teach (free of charge), privately or to groups, and to teach those language skills which are of interest to a particular student.\n\n(C) Pamela Arrowsmltfi (F 56) Australia\n\n(I) have taught English for over 30 years, and have developed a range of classroom materials. I offer tutoring assistance in all areas of English, with an emphasis on Business Writing for EFL adults. I can arrange trips to Australia for business and professional adults, either individuals or groups [maximum of four adults] and these can include English classes. If desired.\n\n(D) Jean-Ptorre JoyaJ (M 22) France\n\n(I) really like to create new kinds of teaching materials and I usually create my own activities instead of using the same Kind of exercises and texts we all are used to. Let's try that in our classes – it will be fun! I have a BA and a Certificate in Teaching English as a Second Language and I have been teaching all levels of ESL student for more than 3 years. I offer a complimentary assessment of your skill level.\n\n(E) Naoe Nagayo (F 36) Japan\n\n(I) have taught English as a Foreign Language for 6 years. I have a TEFL certificate from the USA and a MA in Applied Linguistics from the University of Birmingham, UK. My students range from pre-schoolers to adults. With my experience and knowledge, I can help you to target your learning difficulties and Improve your English ability!"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Beside your blue box",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-72-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In the Blue Box ______",
+          "answer": "aluminium drink can",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In the Yellow Bag ______",
+          "answer": "telephone book",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In the Blue Bag ______",
+          "answer": "magazines",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Do I put out items for recycling every other week?",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Should I remove labels from food cans?",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Can I recycle a broken window?",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Is there a separate collection for large household items?",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Beside your blue box",
+        "text": "YELLOW BAG Household paper — junk mail, envelopes, brochures, paper bags, egg cartons (fibre only); box packaging such as cereal, shoe boxes, paper towel cores, white and coloured office paper, telephone books. Remove liners, flatten packaging and place inside bag. Mo drinking boxes, paper towels or waxed paper.\n\nBLUE BAG Newspapers, inserts, sales flyers, magazines and catalogues. Remove magazine covers, perfumed inserts. Ho books or soiled newspapers.\n\nTEXTILES, CLOTHING AND LINENS Race clean textiles in a separate plastic shopping bag tied with string.\n\nCARDBOARD Packing boxes, liquor boxes. Flatten bundles and tie — no larger than 30 x 30 x 8. Place beside blue box. No waxed or coated boxes, soiled pizza boxes."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: A CAREER IN HOTEL MANAGEMENT",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-72-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The hospitality industry ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The College ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Diploma course ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The Degree course Read the passage below and answer Questions 19-23. Training Facilities The International College of Hospitality Management has more than 120 professional lecturers and international-standard, training facilities. These include three public restaurants, ten commercial training kitchens, simulated front office training facilities, four computer suites, a fully operational winery, and a food science laboratory. The Learning Resource Centre collection is extensive. The student support services provide professional counselling in the areas of health, learning support, language skills, accommodation and welfare. Childcare facilities are also available on campus. International Home The International College of Hospitality Management has students enrolled from more than 20 countries, some of whom stay on campus in International House. Built in 1999, International House is accommodation comprising villa-style units. Each student has their own bedroom, sharing en suite facilities with another student. An adjoining kitchenette and lounge area is shared by the four students in the villa. All meals are served in the College dining room which is next to the student common room. Student privacy and security are priorities. A computer outlet in each bedroom enables student to connect into the College network, providing 24 hour-a-day access. The residence is a two-minute walk to the College's sporting and training facilities, and is on a regular bus service to the city centre 10 km away. International House is also being used to enhance on-campus training, from Monday to Friday, Year 1 students, supervised by 2nd Years, are assigned kitchen, waiting, housekeeping and receptionist duties. Simulated check-in/check-out exercises, receptionist duties and breakfast service to a limited number of rooms are also part of the program. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q19",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The training facility has 10 kitchens",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q20",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All students in the program live at International House",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q21",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Four students share a unit in the residence",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The residence is used as part of the training program",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All meals in the residence are prepared by the students Look at the passage below and answer Questions 24-27.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "A CAREER IN HOTEL MANAGEMENT",
+        "text": "Introduction Hotel management provides exciting career opportunities in the dynamic hospitality and tourism industry. Indeed, tourism is the world's fastest growing industry. Recent figures show tourism enjoying a growth rate 23% higher than that of the global economy, employing some 212 million and earning in the region of $ US 3.4 trillion per annum. In a year from now, employment figures are predicted to exceed 338 million, with revenue above SUS7.2 trillion. The vast majority of new jobs will be in the Asia-Pacific region, which by the year 2010 will attract 1 in every 5 of the world's holidaymakers. The employment prospects for the International College of Hospitality Management's graduates are exciting.\n\nThe International College of Hospitality Management The International College of Hospitality Management provides diploma and degree level hotel management training for the international hospitality and tourism industry. Established in 1993, the International College of Hospitality Management is the Asia-Pacific Basin campus cf the renowned European Hotel Association. It also incorporates the classical French cooking training of Le Gourmet, Paris.\n\nInternational Hotel Management Diploma The International College of Hospitality Management course is industry-oriented, balancing operative, supervisory and management level training. The Diploma course is 3 years full time. Semesters 1, 3 and 5 are spent studying on campus, and Semesters 2, 4 and 6 are spent in industry on undergraduate placements, called 'stages'. One stage may be taken up with language studies.\n\nBachelor of Business (Hotel Management) Degree Students who graduate with the International Hotel Management Diploma are assured of a further year of Degree Study at the University of the Antipodes. Studies will focus on such areas as: Global Marketing, Strategic Management, Total Quality Management, Cross-Cultural Communications, Developing Organisations and Management of Change, Global Development in Hospitality and Tourism, Intercultural Relations. Under certain circumstances the final year of study can be conducted on a part-time basis and by distance education mode, enabling students to study while maintaining a full-time career in the hospitality industry, either here or in their home country."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Short Courses",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-72-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Course A",
+          "options": [
+            {
+              "id": "i",
+              "text": "Food and Wine Service"
+            },
+            {
+              "id": "ii",
+              "text": "Housekeeping Procedures"
+            },
+            {
+              "id": "iii",
+              "text": "Cocktails and Mixed Drinks"
+            },
+            {
+              "id": "iv",
+              "text": "Hotel Front Office Management"
+            },
+            {
+              "id": "v",
+              "text": "Bars and Service of Drinks"
+            },
+            {
+              "id": "vi",
+              "text": "Resort Operation and Management"
+            },
+            {
+              "id": "vii",
+              "text": "Catering Control"
+            },
+            {
+              "id": "viii",
+              "text": "Hotel Front Office Reception"
+            }
+          ],
+          "answer": "viii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Course B",
+          "options": [
+            {
+              "id": "i",
+              "text": "Food and Wine Service"
+            },
+            {
+              "id": "ii",
+              "text": "Housekeeping Procedures"
+            },
+            {
+              "id": "iii",
+              "text": "Cocktails and Mixed Drinks"
+            },
+            {
+              "id": "iv",
+              "text": "Hotel Front Office Management"
+            },
+            {
+              "id": "v",
+              "text": "Bars and Service of Drinks"
+            },
+            {
+              "id": "vi",
+              "text": "Resort Operation and Management"
+            },
+            {
+              "id": "vii",
+              "text": "Catering Control"
+            },
+            {
+              "id": "viii",
+              "text": "Hotel Front Office Reception"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Course C",
+          "options": [
+            {
+              "id": "i",
+              "text": "Food and Wine Service"
+            },
+            {
+              "id": "ii",
+              "text": "Housekeeping Procedures"
+            },
+            {
+              "id": "iii",
+              "text": "Cocktails and Mixed Drinks"
+            },
+            {
+              "id": "iv",
+              "text": "Hotel Front Office Management"
+            },
+            {
+              "id": "v",
+              "text": "Bars and Service of Drinks"
+            },
+            {
+              "id": "vi",
+              "text": "Resort Operation and Management"
+            },
+            {
+              "id": "vii",
+              "text": "Catering Control"
+            },
+            {
+              "id": "viii",
+              "text": "Hotel Front Office Reception"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Course D",
+          "options": [
+            {
+              "id": "i",
+              "text": "Food and Wine Service"
+            },
+            {
+              "id": "ii",
+              "text": "Housekeeping Procedures"
+            },
+            {
+              "id": "iii",
+              "text": "Cocktails and Mixed Drinks"
+            },
+            {
+              "id": "iv",
+              "text": "Hotel Front Office Management"
+            },
+            {
+              "id": "v",
+              "text": "Bars and Service of Drinks"
+            },
+            {
+              "id": "vi",
+              "text": "Resort Operation and Management"
+            },
+            {
+              "id": "vii",
+              "text": "Catering Control"
+            },
+            {
+              "id": "viii",
+              "text": "Hotel Front Office Reception"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Short Courses",
+        "text": "(A) This certificate is designed for participants wishing to acquire the skills to perform duties relevant to a front office receptionist working within a range of hospitality establishments. Course includes: front office and organisational structure, role and duties of front office personnel, guests' reservations and registrations, check-in and check-out procedures, guest accounting and management reports.\n\n(B) This certificate is designed for participants wishing to develop a solid understanding of, and the ability to perform duties and skills required in advanced front office operations and night auditing. Course includes: night auditing procedures, daily records and reports, early and late arrivals, security duties, bell desk/concierge, guest service and information, advanced cashiering, supervision of payments, banking operations, debtor control and financial reports.\n\n(C) This certificate is designed for participants wishing to acquire the skills relevant to table attendant duties within an a la carte restaurant. Course includes: table setting for a variety of menus, plate and silver service, tray and wine service, ordering and docket systems, wine styles and label identification, food and wine combinations.\n\n(D) This certificate is designed for participants wishing to acquire the skills to perform a bar attendant's duties within range of industry settings. Course includes: bar preparation, cash handling, beer service, patron care, basic cocktail mixing, product knowledge."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: As More Tech Start-Ups Stay Private, So Does the Money",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-72-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How much funds would you gain by now, if you had invested 1000$ in the Amazon in 1997?",
+          "options": [
+            {
+              "id": "A",
+              "text": "nearly 250,000$"
+            },
+            {
+              "id": "B",
+              "text": "close to 500,000$"
+            },
+            {
+              "id": "C",
+              "text": "It is not stated in the text"
+            },
+            {
+              "id": "D",
+              "text": "No funds"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Nowadays founders talk about going public as a:",
+          "options": [
+            {
+              "id": "A",
+              "text": "necessity."
+            },
+            {
+              "id": "B",
+              "text": "benefit."
+            },
+            {
+              "id": "C",
+              "text": "troublesome thing"
+            },
+            {
+              "id": "D",
+              "text": "profit."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In which time period was the biggest number of companies going public?",
+          "options": [
+            {
+              "id": "A",
+              "text": "early 1990s"
+            },
+            {
+              "id": "B",
+              "text": "late 1990s and 2000s"
+            },
+            {
+              "id": "C",
+              "text": "1980s"
+            },
+            {
+              "id": "D",
+              "text": "late 1990s"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the text, which of the following is true?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Private valuations may be forever higher than public ones."
+            },
+            {
+              "id": "B",
+              "text": "Public valuations eventually will become even less valuable."
+            },
+            {
+              "id": "C",
+              "text": "The main question is whether the public market increase or the private market decrease."
+            },
+            {
+              "id": "D",
+              "text": "The pressure might last for a long time."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Skepticism was always expected by the ______of tech industry.",
+          "answer": "Luminaries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The new aversion to initial offerings has its ______",
+          "answer": "Downside",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Selling shares on a secondary market is considered a ______mechanism.",
+          "answer": "Novel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Workers' compensation might be an ______",
+          "answer": "Issue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The public investors who failed to participate in the next big thing might be the ones wearing the ______",
+          "answer": "Frown",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Private investors are bearing most of the risk.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Not many investors were willing to speak on the record.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The typical tech company hitting the markets in 1990s was 5 years old.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-72-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Marc Andreessen, the firm's co-founder, expressed amazement with divergency in how investors treat public.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "As More Tech Start-Ups Stay Private, So Does the Money",
+        "text": "Not long ago, if you were a young, brash technologist with a world-conquering start-up idea, there was a good chance you spent much of your waking life working toward a single business milestone: taking your company public. Though luminaries of the tech industry have always expressed skepticism and even hostility toward the finance industry, tech's dirty secret was that it looked to Wall Street and the ritual of a public offering for affirmation — not to mention wealth. But something strange has happened in the last couple of years: The initial public offering of stock has become déclassé. For start-up entrepreneurs and their employees across Silicon Valley, an initial public offering is no longer a main goal. Instead, many founders talk about going public as a necessary evil to be postponed as long as possible because it comes with more problems than benefits. \"If you can get $200 million from private sources, then yeah, I don't want my company under the scrutiny of the unwashed masses who don't understand my business,\" said Danielle Morrill, the chief executive of Mattermark, a start-up that organizes and sells information about the start-up market. \"That's actually terrifying to me. Silicon Valley's sudden distaste for the I.P.O. — rooted in part in Wall Street's skepticism of new tech stocks — may be the single most important psychological shift underlying the current tech boom. Staying private affords start-up executives the luxury of not worrying what outsiders think and helps them avoid the quarterly earnings treadmill. It also means Wall Street is doing what it failed to do in the last tech boom: using traditional metrics like growth and profitability to price companies. Investors have been tough on Twitter, for example, because its user growth has slowed. They have been tough on Box, the cloud-storage company that went public last year, because it remains unprofitable. And the e-commerce company Zulily, which went public last year, was likewise punished when it cut its guidance for future sales. Scott Kupor, the managing partner at the venture capital firm Andreessen Horowitz, and his colleagues said in a recent report that despite all the attention start-ups have received in recent years, tech stocks are not seeing unusually high valuations. In fact, their share of the overall market has remained stable for 14 years, and far off the peak of the late 1990s. That unwillingness to cut much slack to young tech companies limits risk for regular investors. If the bubble pops, the unwashed masses, if that's what we are, aren't as likely to get washed out. Private investors, on the other hand, are making big bets on so-called unicorns — the Silicon Valley jargon for start-up companies valued at more than a billion dollars. If many of those unicorns flop, most Americans will escape unharmed, because losses will be confined to venture capitalists and hedge funds that have begun to buy into tech start-ups, as well as tech founders and their employees. The reluctance — and sometimes inability — to go public is spurring the unicorns. By relying on private investors for a longer period of time, start-ups get more runway to figure out sustainable business models. To delay their entrance into the public markets, firms like Airbnb, Dropbox, Palantir, Pinterest, Uber and several other large start-ups are raising hundreds of millions, and in some cases billions, that they would otherwise have gained through an initial public offering. \"These companies are going public, just in the private market,\" Dan Levitan, the managing partner of the venture capital firm Maveron, told me recently. He means that in many cases, hedge funds and other global investors that would have bought shares in these firms after an I.P.O. are deciding to go into late-stage private rounds. There is even an oxymoronic term for the act of obtaining private money in place of a public offering: It's called a \"private I.P.O.\" The delay in I.P.O.s has altered how some venture capital firms do business. Rather than waiting for an initial offering, Maveron, for instance, says it now sells its stake in a start-up to other, larger private investors once it has made about 100 times its initial investment. It is the sort of return that once was only possible after an I.P.O. But there is also a downside to the new aversion to initial offerings. When the unicorns do eventually go public and begin to soar — or whatever it is that fantastical horned beasts tend to do when they're healthy — the biggest winners will be the private investors that are now bearing most of the risk. It used to be that public investors who got in on the ground floor of an initial offering could earn historic gains. If you invested $1,000 in Amazon at its I.P.O. in 1997, you would now have nearly $250,000. If you had invested $1,000 in Microsoft in 1986, you would have close to half a million. Public investors today are unlikely to get anywhere near such gains from tech I.P.O.s. By the time tech companies come to the market, the biggest gains have already been extracted by private backers. Just 53 technology companies went public in 2014, which is around the median since 1980, but far fewer than during the boom of the late 1990s and 2000, when hundreds of tech companies went public annually, according to statistics maintained by Jay Ritter, a professor of finance at the University of Florida. Today's companies are also waiting longer. In 2014, the typical tech company hitting the markets was 11 years old, compared with a median age of seven years for tech I.P.O.s since 1980. Over the last few weeks, I've asked several founders and investors why they're waiting; few were willing to speak on the record about their own companies, but their answers all amounted to \"What's the point?\" Initial public offerings were also ways to compensate employees and founders who owned lots of stock, but there are now novel mechanisms — such as selling shares on a secondary market — for insiders to cash in on some of their shares in private companies. Still, some observers cautioned that the new trend may be a bad deal for employees who aren't given much information about the company's performance. \"One thing employees may be confused about is when companies tell them, 'We're basically doing a private I.P.O.,' it might make them feel like there's less risk than there really is,\" said Ms. Morrill of Mattermark. But she said it was hard to persuade people that their paper gains may never materialize. \"The Kool-Aid is really strong,\" she said. If the delay in I.P.O.s becomes a normal condition for Silicon Valley, some observers say tech companies may need to consider new forms of compensation for workers. \"We probably need to fundamentally rethink how do private companies compensate employees, because that's going to be an issue,\" said Mr. Kupor, of Andreessen Horowitz. During a recent presentation for Andreessen Horowitz's limited partners — the institutions that give money to the venture firm — Marc Andreessen, the firm's co-founder, told the journalist Dan Primack that he had never seen a sharper divergence in how investors treat public- and private-company chief executives. \"They tell the public C.E.O., 'Give us the money back this quarter,' and they tell the private C.E.O., 'No problem, go for 10 years,' \" Mr. Andreessen said. At some point this tension will be resolved. \"Private valuations will not forever be higher than public valuations,\" said Mr. Levitan, of Maveron. \"So the question is, Will private markets capitulate and go down or will public markets go up?\" If the private investors are wrong, employees, founders and a lot of hedge funds could be in for a reckoning. But if they're right, it will be you and me wearing the frown — the public investors who missed out on the next big thing."
+      }
+    }
+  ]
+}

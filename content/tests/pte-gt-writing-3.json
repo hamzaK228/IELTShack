@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-3",
+  "title": "General Training Writing — Letter 3",
+  "kind": "practice",
+  "description": "Task 1 letter, 3 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-3-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "You are going to another country to study. You would like to do a part-time job while you are studying, so you want to ask a friend who lives there for some help.\nWrite a letter to your friend. In your letter,\ngive details of your study plans\nexplain why you want to get a part-time job\nsuggest how your friend could help you find a job",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

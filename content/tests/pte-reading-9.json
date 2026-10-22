@@ -1,0 +1,1411 @@
+{
+  "id": "pte-reading-9",
+  "title": "Academic Reading — Practice Test 9",
+  "kind": "practice",
+  "description": "3 texts, 39 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Ant Intelligence",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-9-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Ants use the same channels of communication as humans do.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "City life is one factor that encourages the development of intelligence.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Ants can build large cities more quickly than humans do.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some ants can find their way by making calculations based on distance and position.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In one experiment, foraging teams were able to use their sense of smell to find food.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The essay. 'In the company of ants' explores ant communication.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the (12) ______ and do not waste (13) ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the (12) ______ and do not waste (13) ______",
+          "answer": "M",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the (12) ______ and do not waste (13) ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the (12) ______ and do not waste (13) ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use ______ methods, they do not affect the (12) ______ and do not waste (13) ______",
+          "answer": "N",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the ______ and do not waste (13) ______",
+          "answer": "O",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert (7) ______ into a form which they can digest. They use their own natural (8) ______ as weed-killers and also use unwanted materials as (9) ______ Genetic analysis shows they constantly upgrade these fungi by developing new species and by (10) ______ species with neighboring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use (11) ______ methods, they do not affect the (12) ______ and do not waste ______",
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Ant Intelligence",
+        "text": "When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations. Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television. However, in ants there is no cultural transmission – everything must be encoded in the genes – whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand-years ago but have been totally overtaken by modem human agribusiness. Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought. Ants were farmers fifty million years before humans were. Ants can't digest the cellulose in leaves – but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop. It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants' nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neigh boring ant colonies. Whereas prehistoric man had no exposure to urban lifestyles – the forcing house, of intelligence – the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels. When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson's magnificent work for ant lovers, the Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This 'megalopolis' was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometers. Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind? Research conducted at Oxford, Sussex and Zurich Universities has shown that when; desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too. And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centers on whether the route through the maze is communicated as a 'left- right sequence of turns or as a 'compass bearing and distance' message. During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals – even without the paint spots used to mark them. It's no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step. Be careful of little lives.'"
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Population Movement and Genetics",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-9-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage A",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "iv",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage B",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage C",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "x",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage D",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "i",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage E",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "vi",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Passage F Example Section G viii",
+          "options": [
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "15,000 or more ______",
+          "options": [
+            {
+              "id": "A",
+              "text": "aphidsB agriculturalC celluloseD exchanging"
+            },
+            {
+              "id": "E",
+              "text": "energyF fertilizersG foodH fungi"
+            },
+            {
+              "id": "I",
+              "text": "growingJ interbreedingK naturalL other species"
+            },
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "600 to 700 ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ],
+          "image": "/assets/questions/pte-reading-9-21.png"
+        },
+        {
+          "id": "pte-reading-9-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Inuit______",
+          "options": [
+            {
+              "id": "A",
+              "text": "aphidsB agriculturalC celluloseD exchanging"
+            },
+            {
+              "id": "E",
+              "text": "energyF fertilizersG foodH fungi"
+            },
+            {
+              "id": "I",
+              "text": "growingJ interbreedingK naturalL other species"
+            },
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            },
+            {
+              "id": "B",
+              "text": "the second wave"
+            },
+            {
+              "id": "C",
+              "text": "the third wave"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Apache______",
+          "options": [
+            {
+              "id": "A",
+              "text": "aphidsB agriculturalC celluloseD exchanging"
+            },
+            {
+              "id": "E",
+              "text": "energyF fertilizersG foodH fungi"
+            },
+            {
+              "id": "I",
+              "text": "growingJ interbreedingK naturalL other species"
+            },
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            },
+            {
+              "id": "B",
+              "text": "the second wave"
+            },
+            {
+              "id": "C",
+              "text": "the third wave"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Pima-Papago______",
+          "options": [
+            {
+              "id": "A",
+              "text": "aphidsB agriculturalC celluloseD exchanging"
+            },
+            {
+              "id": "E",
+              "text": "energyF fertilizersG foodH fungi"
+            },
+            {
+              "id": "I",
+              "text": "growingJ interbreedingK naturalL other species"
+            },
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            },
+            {
+              "id": "B",
+              "text": "the second wave"
+            },
+            {
+              "id": "C",
+              "text": "the third wave"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Ticuna______",
+          "options": [
+            {
+              "id": "A",
+              "text": "aphidsB agriculturalC celluloseD exchanging"
+            },
+            {
+              "id": "E",
+              "text": "energyF fertilizersG foodH fungi"
+            },
+            {
+              "id": "I",
+              "text": "growingJ interbreedingK naturalL other species"
+            },
+            {
+              "id": "i",
+              "text": "The results of the research into blood-variants"
+            },
+            {
+              "id": "ii",
+              "text": "Dental evidence"
+            },
+            {
+              "id": "iii",
+              "text": "Greenberg's analysis of the dental and linguistic evidence"
+            },
+            {
+              "id": "iv",
+              "text": "Developments in the methods used to study early population movements"
+            },
+            {
+              "id": "v",
+              "text": "Indian migration from Canada to the U.S.A."
+            },
+            {
+              "id": "vi",
+              "text": "Further genetic evidence relating to the three-wave theory"
+            },
+            {
+              "id": "vii",
+              "text": "Long-standing questions about prehistoric migration to America"
+            },
+            {
+              "id": "viii",
+              "text": "Conflicting views of the three-wave theory, based on non-genetic Evidence"
+            },
+            {
+              "id": "ix",
+              "text": "Questions about the causes of prehistoric migration to America"
+            },
+            {
+              "id": "x",
+              "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+            },
+            {
+              "id": "B",
+              "text": "the second wave"
+            },
+            {
+              "id": "C",
+              "text": "the third wave"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Christy Turner's research involved the examination of",
+          "options": [
+            {
+              "id": "A",
+              "text": "teeth from both prehistoric and modern Americans and Asians"
+            },
+            {
+              "id": "B",
+              "text": "thousands of people who live in either the New of the Old World"
+            },
+            {
+              "id": "C",
+              "text": "dental specimens from the majority of prehistoric Americans"
+            },
+            {
+              "id": "D",
+              "text": "the eating habits of American and Asian populations"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Population Movement and Genetics",
+        "text": "(A) Study of the origins and distribution of human populations used to be based on archaeological and fossil evidence. A number of techniques developed since the 1950s, however, have placed the study of these subjects on a sounder and more objective footing. The best information on early population movements is now being obtained from the 'archaeology of the living body', the clues to be found in genetic material.\n\n(B) Recent work on the problem of when people first entered the Americas is an example of the value of these new techniques. North-east Asia and Siberia have long been accepted as the launching ground for the first human colonisers of the New World*. But was there one major wave of migration across the Bering Strait into the Americas, or several? And when did this event, or events, take place? In recent years, new clues have come from research into genetics, including the distribution of genetic markers in modern Native Americans.\n\n(C) An important project, led by the biological anthropologist Robert Williams, focused on the variants (called Gm allotypes) of one particular protein – immunoglobin G — found in the fluid portion of human blood. All proteins 'drift', or produce variants, over the generations, and members of an interbreeding human population will share a set of such variants. Thus, by comparing the Gm allotypes of two different populations (e.g. two Indian tribes), one can establish their genetic 'distance', which itself can be calibrated to give an indication of the length of time since these populations last interbred.\n\n(D) Williams and his colleagues sampled the blood of over 5,000 American Indians in western North America during a twenty- year period. They found that their Gm allotypes could be divided into two groups, one of which also corresponded to the genetic typing of Central and South American Indians. Other tests showed that the Inuit (or Eskimo) and Aleut formed a third group. From this evidence it was deduced that there had been three major waves of migration across the Bering Strait. The first, Paleo-lndian, wave more than 15,000 years ago was ancestral to all Central and South American Indians. The second wave, about 14,000-12,000 years ago, brought Na-Dene hunters, ancestors of the Navajo and Apache (who only migrated south from Canada about 600 or 700 years ago). The third wave, perhaps 10,000 or 9,000 years ago, saw the migration from North-east Asia of groups ancestral to the modern Eskimo and Aleut.\n\n(E) How far does other research support these conclusions? Geneticist Douglas Wallace has studied mitochondrial DNA in blood samples from three widely separated Native American groups: Pima- Papago Indians in Arizona, Maya Indians on the Yucatdn peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil. As would have been predicted by Robert Williams's work, all three groups appear to be descended from the same ancestral (Paleo-lndian) population.\n\n(F) There are two other kinds of research that have thrown some light on the origins of the Native American population; they involve the study of teeth and of languages. The biological anthropologist Christy Turner is an expert in the analysis of changing physical characteristics in human teeth. He argues that tooth crowns and roots have a high genetic component, minimally affected by environmental and other factors. Studies carried out by Turner of many thousands of New and Old World specimens, both ancient and modern, suggest that the majority of prehistoric Americans are linked to Northern Asian populations by crown and root traits such as incisor6 shoveling (a scooping out on one or both surfaces of the tooth), single-rooted upper first premolars6 and triple-rooted lower first molars. According to Turner, this ties in with the idea of a single Paleo-lndian migration out of North Asia, which he sets at before 14,000 years ago by calibrating rates of dental micro-evolution. Tooth analyses also suggest that there were two later migrations of Na-Denes and Eskimo- Aleut.\n\n(G) The linguist Joseph Greenberg has, since the 1950s, argued that all Native American languages belong to a single 'Amerind' family, except for Na-Dene and Eskimo-Aleut – a view that gives credence to the idea of three main migrations. Greenberg is in a minority among fellow linguists, most of whom favour the notion of a great many waves of migration to account for the more than 1,000 languages spoken at one time by American Indians. But there is no doubt that the new genetic and dental evidence provides strong backing for Greenberg's view. Dates given for the migrations should nevertheless be treated with caution, except where supported by hard archaeological evidence."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Passage 3",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-9-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Forest problems of Mediterranean countries are to be discussed at the next meeting of experts.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Problems in Nordic countries were excluded because they are outside the European Economic Community.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Forests are a renewable source of raw material.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q30",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The biological functions of forests were recognised only in the twentieth century.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Natural forests still exist in parts of Europe.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Forest policy should be limited by national boundaries.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Strasbourg conference decided that a forest policy must allow for the possibility of change.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q34",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 1",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "J",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 2",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q36",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 3",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 4",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q38",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 5",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q39",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Resolution 6",
+          "options": [
+            {
+              "id": "A",
+              "text": "All kinds of species of trees should be preserved."
+            },
+            {
+              "id": "B",
+              "text": "Fragile mountain forests should be given priority in research programs."
+            },
+            {
+              "id": "C",
+              "text": "The surviving natural forests of Europe do not need priority treatment."
+            },
+            {
+              "id": "D",
+              "text": "Research is to be better co-ordinate throughout Europe."
+            },
+            {
+              "id": "E",
+              "text": "Information on forest fires should be collected and shared."
+            },
+            {
+              "id": "F",
+              "text": "Loss Of leaves from trees should be more extensively and carefully monitored."
+            },
+            {
+              "id": "G",
+              "text": "Resources should be allocated to research into tree diseases."
+            },
+            {
+              "id": "H",
+              "text": "Skiing should be encouraged in thinly populated areas."
+            },
+            {
+              "id": "I",
+              "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+            },
+            {
+              "id": "J",
+              "text": "Information is to be systematically gathered on any decline in the condition of forests."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-9-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the best title for Reading Passage 3?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The biological, economic and recreational role of forests"
+            },
+            {
+              "id": "B",
+              "text": "Plans to protect the forests of Europe"
+            },
+            {
+              "id": "C",
+              "text": "The priority of European research into ecosystems"
+            },
+            {
+              "id": "D",
+              "text": "Proposals for a world-wide policy on forest management"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Passage 3",
+        "text": "Forests are one of the main elements of our natural heritage. The decline of Europe's forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe's forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the coordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored. As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a 'green lung' for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man – wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles. The myth of the 'natural' forest has survived, yet there are effectively no remaining 'primary' forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that 'a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained. That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree's needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the 'genetic material' of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference's main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31 European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+      }
+    }
+  ]
+}

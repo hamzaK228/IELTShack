@@ -1,0 +1,532 @@
+{
+  "id": "pte-listening-154",
+  "title": "Listening — Practice Test 154",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-154-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: ______ , Greendale",
+          "answer": "27 bank road",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact number: ______",
+          "answer": "730453",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Model: ______",
+          "answer": "sable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Previous insurance company: ______",
+          "answer": "northern star",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "If yes, give brief details: Car was ______ in 1999",
+          "answer": "stolen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name(s) of other driver(s): Simon ______",
+          "answer": "Paynter",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Relationship to main driver: ______",
+          "answer": "brother in law",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Uses of car: Social and ______",
+          "answer": "to work",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Recommended insurance arrangement: Name of company: ______",
+          "answer": "red flag",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Annual Cost: ______ $",
+          "answer": "450",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "city bridge ______",
+          "answer": "city bridge",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "newton ______",
+          "answer": "newton",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Last boat: ______pmPalace– has lovely (14) ______",
+          "answer": "6.30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Last boat: (13) ______pmPalace– has lovely ______",
+          "answer": "garden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "STOP B:______– has good (16) ______of city centre",
+          "answer": "restaurant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "STOP B:(15) ______– has good ______of city centre",
+          "answer": "views",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "STOP C:Museum– bookshop specializing in the ______of the local area",
+          "answer": "history",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "STOP D:Entertainment Complex– ______cinema",
+          "answer": "7 screen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How often do the Top Bus Company tours run? ______",
+          "answer": "every 20 minutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Where can you catch a Number One Sightseeing Tour from? ______",
+          "answer": "central station",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Antarctic Centre was established in Christchurch because",
+          "options": [
+            {
+              "id": "A",
+              "text": "New Zealand is a member of the Antarctic Treaty"
+            },
+            {
+              "id": "B",
+              "text": "Christchurch is geographically well positioned"
+            },
+            {
+              "id": "C",
+              "text": "the climate of Christchurch is suitable"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "One role of the Antarctic Centre is to",
+          "options": [
+            {
+              "id": "A",
+              "text": "provide expeditions with suitable equipment"
+            },
+            {
+              "id": "B",
+              "text": "provide researchers with financial assistance"
+            },
+            {
+              "id": "C",
+              "text": "ensure that research is internationally relevant"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The purpose of the Visitors' Centre is to",
+          "options": [
+            {
+              "id": "A",
+              "text": "provide accommodation"
+            },
+            {
+              "id": "B",
+              "text": "run training sessions"
+            },
+            {
+              "id": "C",
+              "text": "show people what Antarctica is like"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr Merrywhether says that Antarctica is",
+          "options": [
+            {
+              "id": "A",
+              "text": "unlike any other country"
+            },
+            {
+              "id": "B",
+              "text": "extremely beautiful"
+            },
+            {
+              "id": "C",
+              "text": "too cold for tourists"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "According to Dr Merrywhether, Antarctica is very cold because",
+          "options": [
+            {
+              "id": "A",
+              "text": "of the shape of the continent"
+            },
+            {
+              "id": "B",
+              "text": "it is surrounded by a frozen sea"
+            },
+            {
+              "id": "C",
+              "text": "it is an extremely dry continent"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr Merrywhether thinks Antarctica was part of another continent because",
+          "options": [
+            {
+              "id": "A",
+              "text": "he has done his own research in the area"
+            },
+            {
+              "id": "B",
+              "text": "there is geological evidence of this"
+            },
+            {
+              "id": "C",
+              "text": "it is very close to South America"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "to______1st international polar year",
+          "answer": "1882 to 1883",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1959Antarctic treaty was ______",
+          "answer": "signed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO achievements of the Antarctic Treaty are mentioned by the speakers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "no military use"
+            },
+            {
+              "id": "B",
+              "text": "animals protected"
+            },
+            {
+              "id": "C",
+              "text": "historic sites reserved"
+            },
+            {
+              "id": "D",
+              "text": "no nuclear testing"
+            },
+            {
+              "id": "E",
+              "text": "fishing rites protected"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO achievements of the Antarctic Treaty are mentioned by the speakers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "no military use"
+            },
+            {
+              "id": "B",
+              "text": "animals protected"
+            },
+            {
+              "id": "C",
+              "text": "historic sites reserved"
+            },
+            {
+              "id": "D",
+              "text": "no nuclear testing"
+            },
+            {
+              "id": "E",
+              "text": "fishing rites protected"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Anita first felt the Matthews article was of value when she realised",
+          "options": [
+            {
+              "id": "A",
+              "text": "how it would help her difficulties with left-handedness"
+            },
+            {
+              "id": "B",
+              "text": "the relevance of connections he made with music"
+            },
+            {
+              "id": "C",
+              "text": "the impressive size of his research project"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Anita feels that the findings on handedness will be of value in",
+          "options": [
+            {
+              "id": "A",
+              "text": "helping sportspeople identify their weaknesses"
+            },
+            {
+              "id": "B",
+              "text": "aiding sportspeople as they plan tactics for each game"
+            },
+            {
+              "id": "C",
+              "text": "developing suitable training programmes for sportspeople"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Anita feels that most sports coaches",
+          "options": [
+            {
+              "id": "A",
+              "text": "know nothing about the influence of handedness"
+            },
+            {
+              "id": "B",
+              "text": "focus on the wrong aspects of performance"
+            },
+            {
+              "id": "C",
+              "text": "underestimate what science has to offer sport"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "A German study showed there was greater ‘mixed handedness’ in musicians who ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-154-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Studies on ape behaviour show that",
+          "options": [
+            {
+              "id": "A",
+              "text": "apes which always use the same hand to get food are most successful"
+            },
+            {
+              "id": "B",
+              "text": "apes have the same proportion of left- and right-handers as humans"
+            },
+            {
+              "id": "C",
+              "text": "more apes are left-handed than right-handed"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hockeymixed laterality– hockey stick has to be used in ______",
+          "answer": "2 directions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– mixed-handed players found to be much more ______than others",
+          "answer": "confident",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tennissingle laterality– gives a larger relevant field of ______",
+          "answer": "vision",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– cross lateral players make ______too late",
+          "answer": "corrections",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-154-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Gymnasticscross laterality– gymnasts' ______is important for performances",
+          "answer": "balance",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/154_we.mp3"
+    }
+  ]
+}

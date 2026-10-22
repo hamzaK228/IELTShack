@@ -1,0 +1,698 @@
+{
+  "id": "pte-listening-108",
+  "title": "Listening — Practice Test 108",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-108-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• At first Alex did his training in the ______ department",
+          "answer": "finance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Alex did not have a qualification from school in ______",
+          "answer": "maths",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Alex thinks he should have done the diploma in ______ skills",
+          "answer": "business",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Age of other trainees: the youngest was ______",
+          "answer": "17",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Trainees receive the same amount of ______ as permanent staff",
+          "answer": "holidays/ vacations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Trainees go to ______ one day per month",
+          "answer": "college",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The company is in a convenient ______",
+          "answer": "location",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Do not wear ______",
+          "answer": "jeans",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Do not be ______",
+          "answer": "late",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Make sure you ______",
+          "answer": "smile",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Annie recommends that when cross-country skiing, the visitors should",
+          "options": [
+            {
+              "id": "A",
+              "text": "get away from the regular trails."
+            },
+            {
+              "id": "B",
+              "text": "stop to enjoy views of the scenery."
+            },
+            {
+              "id": "C",
+              "text": "go at a slow speed at the beginning."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Annie tell the group about this afternoon's dog-sled trip?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Those who want to can take part in a race."
+            },
+            {
+              "id": "B",
+              "text": "Anyone has the chance to drive a team of dogs."
+            },
+            {
+              "id": "C",
+              "text": "One group member will be chosen to lead the trail."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Annie say about the team relay event?",
+          "options": [
+            {
+              "id": "A",
+              "text": "All participants receive a medal."
+            },
+            {
+              "id": "B",
+              "text": "The course is 4 km long."
+            },
+            {
+              "id": "C",
+              "text": "Each team is led by a teacher."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "On the snow-shoe trip, the visitors will",
+          "options": [
+            {
+              "id": "A",
+              "text": "visit an old gold mine."
+            },
+            {
+              "id": "B",
+              "text": "learn about unusual flowers."
+            },
+            {
+              "id": "C",
+              "text": "climb to the top of a mountain."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The cost of accommodation in the mountain hut includes",
+          "options": [
+            {
+              "id": "A",
+              "text": "a supply of drinking water."
+            },
+            {
+              "id": "B",
+              "text": "transport of visitors’ luggage."
+            },
+            {
+              "id": "C",
+              "text": "cooked meals."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "If there is a storm while the visitors are in the hut, they should",
+          "options": [
+            {
+              "id": "A",
+              "text": "contact the bus driver."
+            },
+            {
+              "id": "B",
+              "text": "wait until the weather improves."
+            },
+            {
+              "id": "C",
+              "text": "use the emergency locator beacon."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Highland trail",
+          "options": [
+            {
+              "id": "A",
+              "text": "it has a good place to stop and rest"
+            },
+            {
+              "id": "B",
+              "text": "it is suitable for all abilities"
+            },
+            {
+              "id": "C",
+              "text": "it involves crossing a river"
+            },
+            {
+              "id": "D",
+              "text": "it demands a lot of skill"
+            },
+            {
+              "id": "E",
+              "text": "it may be closed in bad weather"
+            },
+            {
+              "id": "F",
+              "text": "it has some very narrow sections"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Pine trail",
+          "options": [
+            {
+              "id": "A",
+              "text": "it has a good place to stop and rest"
+            },
+            {
+              "id": "B",
+              "text": "it is suitable for all abilities"
+            },
+            {
+              "id": "C",
+              "text": "it involves crossing a river"
+            },
+            {
+              "id": "D",
+              "text": "it demands a lot of skill"
+            },
+            {
+              "id": "E",
+              "text": "it may be closed in bad weather"
+            },
+            {
+              "id": "F",
+              "text": "it has some very narrow sections"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Stony trail",
+          "options": [
+            {
+              "id": "A",
+              "text": "it has a good place to stop and rest"
+            },
+            {
+              "id": "B",
+              "text": "it is suitable for all abilities"
+            },
+            {
+              "id": "C",
+              "text": "it involves crossing a river"
+            },
+            {
+              "id": "D",
+              "text": "it demands a lot of skill"
+            },
+            {
+              "id": "E",
+              "text": "it may be closed in bad weather"
+            },
+            {
+              "id": "F",
+              "text": "it has some very narrow sections"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Loser's trail",
+          "options": [
+            {
+              "id": "A",
+              "text": "it has a good place to stop and rest"
+            },
+            {
+              "id": "B",
+              "text": "it is suitable for all abilities"
+            },
+            {
+              "id": "C",
+              "text": "it involves crossing a river"
+            },
+            {
+              "id": "D",
+              "text": "it demands a lot of skill"
+            },
+            {
+              "id": "E",
+              "text": "it may be closed in bad weather"
+            },
+            {
+              "id": "F",
+              "text": "it has some very narrow sections"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What was Jack's attitude to nutritional food labels before this project?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He didn’t read everything on them."
+            },
+            {
+              "id": "B",
+              "text": "He didn’t think they were important."
+            },
+            {
+              "id": "C",
+              "text": "He thought they were too complicated."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Alice says that before doing this project.",
+          "options": [
+            {
+              "id": "A",
+              "text": "she was unaware of what certain foods contained."
+            },
+            {
+              "id": "B",
+              "text": "she was too lazy to read food labels."
+            },
+            {
+              "id": "C",
+              "text": "she was only interested in the number of calories."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When discussing supermarket brands of pizza, Jack agrees with Alice that",
+          "options": [
+            {
+              "id": "A",
+              "text": "the list of ingredients is shocking."
+            },
+            {
+              "id": "B",
+              "text": "he will hesitate before buying pizza again."
+            },
+            {
+              "id": "C",
+              "text": "the nutritional label is misleading."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Jack prefers the daily value system to other labelling systems because it is",
+          "options": [
+            {
+              "id": "A",
+              "text": "more accessible."
+            },
+            {
+              "id": "B",
+              "text": "more logical."
+            },
+            {
+              "id": "C",
+              "text": "more comprehensive."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What surprised both students about one flavour of crisps?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The percentage of artificial additives given was incorrect."
+            },
+            {
+              "id": "B",
+              "text": "The products did not contain any meat."
+            },
+            {
+              "id": "C",
+              "text": "The labels did not list all the ingredients."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What do the students think about research into the impact of nutritional food labelling?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It did not produce clear results."
+            },
+            {
+              "id": "B",
+              "text": "It focused on the wrong people."
+            },
+            {
+              "id": "C",
+              "text": "It made unrealistic recommendations"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things surprised the students about the traffic-light system for nutritional labels?",
+          "options": [
+            {
+              "id": "A",
+              "text": "its widespread use"
+            },
+            {
+              "id": "B",
+              "text": "the fact that it is voluntary for supermarkets"
+            },
+            {
+              "id": "C",
+              "text": "how little research was done before its introduction"
+            },
+            {
+              "id": "D",
+              "text": "its unpopularity with food manufacturers"
+            },
+            {
+              "id": "E",
+              "text": "the way that certain colours are used"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things surprised the students about the traffic-light system for nutritional labels?",
+          "options": [
+            {
+              "id": "A",
+              "text": "its widespread use"
+            },
+            {
+              "id": "B",
+              "text": "the fact that it is voluntary for supermarkets"
+            },
+            {
+              "id": "C",
+              "text": "how little research was done before its introduction"
+            },
+            {
+              "id": "D",
+              "text": "its unpopularity with food manufacturers"
+            },
+            {
+              "id": "E",
+              "text": "the way that certain colours are used"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things are true about the participants in the study on the traffic-light system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They had low literacy levels."
+            },
+            {
+              "id": "B",
+              "text": "They were regular consumers of packaged food."
+            },
+            {
+              "id": "C",
+              "text": "They were selected randomly."
+            },
+            {
+              "id": "D",
+              "text": "They were from all socio-economic groups."
+            },
+            {
+              "id": "E",
+              "text": "They were interviewed face-to-face."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO things are true about the participants in the study on the traffic-light system?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They had low literacy levels."
+            },
+            {
+              "id": "B",
+              "text": "They were regular consumers of packaged food."
+            },
+            {
+              "id": "C",
+              "text": "They were selected randomly."
+            },
+            {
+              "id": "D",
+              "text": "They were from all socio-economic groups."
+            },
+            {
+              "id": "E",
+              "text": "They were interviewed face-to-face."
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• 1623: In Constantinople, the ruler ordered the ______ of every coffee house.",
+          "answer": "destruction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Coffee shops were compared to ______",
+          "answer": "university",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They played an important part in social and ______ changes.",
+          "answer": "political",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Types of coffee were often named according to the ______ they came from.",
+          "answer": "port(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In Brazil and the Caribbean, most cultivation depended on ______",
+          "answer": "slaves/ slavery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In Java, coffee was used as a form of ______",
+          "answer": "taxation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Coffee became almost as important as ______",
+          "answer": "sugar",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The move towards the consumption of ______ in Britain did not also take place in the USA.",
+          "answer": "tea",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Prices dropped because of improvements in ______",
+          "answer": "transportation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-108-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Industrial workers found coffee helped them to work at ______",
+          "answer": "night",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/108_we.mp3"
+    }
+  ]
+}

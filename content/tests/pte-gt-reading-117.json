@@ -1,0 +1,560 @@
+{
+  "id": "pte-gt-reading-117",
+  "title": "General Training Reading — Practice Test 117",
+  "kind": "practice",
+  "description": "5 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Film Reviews",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-117-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The reviewer thinks some of the cast are unsuitable for their roles. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The dialogue in this film seems unrealistic. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The reviewer found this film unexpectedly emotional. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This film contains dialogue that is uninteresting for some viewers. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This film carries a moral message. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Non-actors take part in this film. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The reviewer thinks this film should be seen again. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q8",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "This film mentions things that audience members won't know about. ______",
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Film Reviews",
+        "text": "(A) Purple Rainbow: The Truth Having actors playing popular rock band Purple Rainbow seemed like a bad idea, but in fact they're impressive musicians themselves. Their fans in the film were actual fans of the group and transferred their enthusiasm to the actors very convincingly. I assumed there would be plenty of music, linked by weak dialogue, but I was wrong. And the support that band members gave to lead singer Jerry Cosgrove when tragedy entered his life had me close to tears, giving me a new appreciation of the band.\n\n(B) Home Fires\n\n(I) expected a standard, rather dull, story about domestic life, like the director's last two films. Instead, Home Fires had me on the edge of my seat with excitement. It's certainly worth a second viewing. Having said that, although it is apparently a film intended for all ages, many children would find the long discussions of relationship issues boring, and they contributed little or nothing to the film.\n\n(C) The Jeffersons One of the most popular films of the past half century is Mary and Tom, and a remake of it seems unnecessary. Nevertheless, The Jeffersons has some delightful elements, particularly the acting of Yvonne Richards. She really brought the character she played to life, but sadly, neither she nor the other actors could make the script sound natural.\n\n(D) Space Challenge 5 This film makes an important ethical point about treating other people with respect, but that is likely to be missed by many teenagers, the target audience, as it assumes familiarity with the world as it was 20 years ago. With change happening so fast these days, many of the references will leave them confused,\n\n(E) Uplands Uplands could have been a delightful film: it has a charming story, witty dialogue, and is visually breathtaking. But the two lead actors are at their best in thrillers, not films like this one. James Petherick, who plays the hero, fails to gain the sympathy of the audience, who should be moved by the ups and downs in his life."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Sports events in New Zealand",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-117-q9",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You see spectacular scenery. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q10",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You are provided with special clothing. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q11",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You may be watched while you are doing the activity. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q12",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You watch someone else before doing the activity yourself. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q13",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You meet people who are expert at the activity. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q14",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You can raise money for a charity. ______",
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Sports events in New Zealand",
+        "text": "(A) McLeans Island Run This unique running and cycling event winds its way through the Canterbury countryside and finishes in Orana Park, where your spectators will include lions, tigers, gorillas and giraffes. Whether you're a first-timer or a seasoned professional, there's a distance to suit you. Choose from the short, the sprint or the standard distance. You can race to help other people too – if you get some friends or workmates to take part, you'll be in with a chance to win $25,000 to put towards a good cause of your choice.\n\n(B) The Pioneer The Pioneer is an awe-inspiring seven-day mountain bike race through New Zealand's pristine Southern Alps. It is the first race of its kind to link together over 500 km of farm tracks, cycle trails, double track and single track riding in a very special part of the world where soaring mountain peaks, crystal-clear lakes, and high country await. If you're looking for a mountain bike race to get you inspired, this is it!\n\n(C) Race Drive Experience if you have ever wanted to experience the extreme thrill of driving a 6000cc race car, then this is definitely for you! You start off your Race Drive Experience by meeting the skilled team of racing drivers at the Motorsport Park Raceway, before being fully kitted out with one of our race suits and safety helmet. Then you are strapped into the passenger seat of one of our racing cars and taken on a demo drive, covering racing lines, braking points and race driving tricks. Finally you take the driver's seat and can undertake your own high-speed laps of the circuit.\n\n(D) Banks Peninsular Walking Festival The Banks Peninsula Walking Festival offers guided walks all over the Banks Peninsula. The guides, all volunteers, are local people who love to share their passion for this special place with those from the wider community. Participants are guaranteed an enjoyable experience as they relax, get to know new people and absorb the stories and atmosphere of this fantastic land."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: What to do if you are made redundant",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-117-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Start by considering what needs to be done and make a ______ to work through.",
+          "answer": "List",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• you want to receive a positive ______ from them for a future post.",
+          "answer": "Reference",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• you might get some ______ projects from them in the future.",
+          "answer": "Consultancy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Find an organisation that specialises in ______ to help you look for another job.",
+          "answer": "Outplacement",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Invest time in doing serious ______ concerning the current requirements in your sector.",
+          "answer": "Research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Consider if your work and training records contain ______ that might prevent you finding work.",
+          "answer": "Gaps",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Look on redundancy as a useful ______ to advance, rather than the end of your career.",
+          "answer": "Incentive",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "What to do if you are made redundant",
+        "text": "Employees are made redundant when a company has to reduce the workforce because a job or jobs are no longer needed. It has nothing to do with the employees' ability to do their jobs. However, dealing with redundancy can be difficult. Here are some tips on how to cope. First of all, don't panic. It's common for people to either rush into a flurry of activity or be frozen by the shock of being suddenly made redundant. The best course of action is to keep calm and draw up a list of all of the things you need to arrange in the months ahead. It's important to find out what your rights are. Obtain a copy of the in-house redundancy policy if there is one and check out your contract for exit terms. Try to maintain good relations wherever possible with your employer, even if you are angry about the manner of your exit. You will still need a reasonable reference when the time comes to move on, and it may be that your boss can make useful introductions or offer you consultancy work. Help from a professional outplacement company can make a huge difference to your job search success and reduce the amount of time taken to find your next role. You can purchase this yourself, but there are advantages to having it arranged via your company. Don't rush into applying for any or every job that comes up. Take stock of what you have to offer, what you want to do, and carry out in-depth research to find out what employers are actually looking for. Talk to people in your target industry for career advice and information. This information will be invaluable in helping you identify potential employers. Assess whether there are any gaps in experience or qualifications that could be a barrier to getting another job and address them. Enrol on some of those courses you have always been too busy to go on: not only will this enhance your skills, it also shows your commitment to continuous professional development. Redundancy enables you to move your career forward in line with your own personal agenda. Although it can be traumatic, many people find that redundancy is actually the incentive they need to take their career in the direction they actually want to go. So think about what you really want, and go for it."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: Instructions to new kitchen staff",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-117-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "New staff must record their own body ______ before arriving at work.",
+          "answer": "Measurements",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "You should use your ______ to ensure that your uniform is never dirty.",
+          "answer": "Laundry allowance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Clothes worn to travel to work must be ______",
+          "answer": "Respectable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Casual wear, such as ______ should not be worn in the kitchen area.",
+          "answer": "Hoodies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Staff using ______ may still come to work.",
+          "answer": "Crutches",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Please contact the manager before arriving at the kitchens if you have any ______ or other similar injuries.",
+          "answer": "Hand cuts",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "Instructions to new kitchen staff",
+        "text": "Dress standards at our restaurants are extremely important whichever area you work in. The following information will help ensure that you have a professional appearance every day as you carry out your foodservice duties. Palvin's Restaurant chain provides new kitchen staff with their uniforms and you are advised to come to work with a note of your chest, waist and hip measurements to assist in this process. On your first day, you'll be issued with two pairs of trousers, two aprons, two jackets and two hats. Once you're happy that you have the correct size, please take the garments home and add a name tag to each one. Put these inside the garments so that they cannot be seen. Kitchen work can be messy, and it is up to you to make sure that your uniform is kept clean, but you will receive a laundry allowance to help you do this. Towels are available at work, but it's a good idea to bring your own too in case you need it. You can keep this and any other personal items safe in the lockers that are available for use while you're on duty. It's advisable to bring your own small padlock for these. Uniforms should not be worn outside work. You should wear your normal clothes to and from work but make sure they're respectable. For example, hoodies and other similar tops are not acceptable in the kitchens; if it's cold, wear a jacket. When you arrive at work, you can use the changing facilities located next to the lockers to put on your uniform. You can wear your own shoes in the kitchens as long as they're sturdy and enclosed. We strongly recommend rubber soles so that they do not slip on the floor. If you incur any injuries that require crutches while you're working for the company, you cannot then take on any tasks that involve standing up. However, if such a situation should occur, we will make every effort to place you in an appropriate area where you can sit down to work so you will not need to take time off. Employees who have smaller injuries, such as hand cuts, need to check with their manager whether they can come to work: you may have to take time off to avoid infection."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: The forgotten role of women in medieval arts",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-117-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In Paragraph A, what does the writer say about the archaeology team's work?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It confirmed what they had assumed when they started it."
+            },
+            {
+              "id": "B",
+              "text": "It was hard to persuade other historians about their findings."
+            },
+            {
+              "id": "C",
+              "text": "It could reveal the importance of various women in history."
+            },
+            {
+              "id": "D",
+              "text": "It could help identify the number of books written in the Middle Ages."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What point does the writer make about dental tartar in Paragraph C?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Archaeologists could make more use of it than they do at present."
+            },
+            {
+              "id": "B",
+              "text": "Some particles are more easily trapped in it than others."
+            },
+            {
+              "id": "C",
+              "text": "The environment can cause it to break down."
+            },
+            {
+              "id": "D",
+              "text": "Changes in people’s diet have influenced its composition."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What did the skeleton of B78 suggest about her?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She had not been very old when she died."
+            },
+            {
+              "id": "B",
+              "text": "Her life had not been very physically demanding."
+            },
+            {
+              "id": "C",
+              "text": "Her teeth had more tartar than most skeletons of that age."
+            },
+            {
+              "id": "D",
+              "text": "She had been given a grander burial than other women of her time."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What is the writer doing in Paragraph F?",
+          "options": [
+            {
+              "id": "A",
+              "text": "supporting the team’s view that the blue pigment was imported"
+            },
+            {
+              "id": "B",
+              "text": "explaining why artists in Europe liked to use the blue pigment"
+            },
+            {
+              "id": "C",
+              "text": "comparing artistic designs using the blue pigment in different parts of the world"
+            },
+            {
+              "id": "D",
+              "text": "criticising arguments put forward by other scientists about the blue pigment"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What problem does the writer highlight about medieval artists in Paragraph G?",
+          "options": [
+            {
+              "id": "A",
+              "text": "the poor facilities available to females in the profession"
+            },
+            {
+              "id": "B",
+              "text": "the small number of projects available to them"
+            },
+            {
+              "id": "C",
+              "text": "the difficulties locating their skeletal remains for study"
+            },
+            {
+              "id": "D",
+              "text": "the lack of evidence for their contribution to books"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "reference to the possible length of time that tartar can preserve particles from the air",
+          "options": [
+            {
+              "id": "A",
+              "text": "It confirmed what they had assumed when they started it."
+            },
+            {
+              "id": "B",
+              "text": "It was hard to persuade other historians about their findings."
+            },
+            {
+              "id": "C",
+              "text": "It could reveal the importance of various women in history."
+            },
+            {
+              "id": "D",
+              "text": "It could help identify the number of books written in the Middle Ages."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "two reasons why the particles that the team found in teeth were unique",
+          "options": [
+            {
+              "id": "A",
+              "text": "It confirmed what they had assumed when they started it."
+            },
+            {
+              "id": "B",
+              "text": "It was hard to persuade other historians about their findings."
+            },
+            {
+              "id": "C",
+              "text": "It could reveal the importance of various women in history."
+            },
+            {
+              "id": "D",
+              "text": "It could help identify the number of books written in the Middle Ages."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "various examples of the types of particle that can be discovered in old teeth",
+          "options": [
+            {
+              "id": "A",
+              "text": "It confirmed what they had assumed when they started it."
+            },
+            {
+              "id": "B",
+              "text": "It was hard to persuade other historians about their findings."
+            },
+            {
+              "id": "C",
+              "text": "It could reveal the importance of various women in history."
+            },
+            {
+              "id": "D",
+              "text": "It could help identify the number of books written in the Middle Ages."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a suggestion that the blue pigment might have been used in medieval times to cure illness",
+          "options": [
+            {
+              "id": "A",
+              "text": "It confirmed what they had assumed when they started it."
+            },
+            {
+              "id": "B",
+              "text": "It was hard to persuade other historians about their findings."
+            },
+            {
+              "id": "C",
+              "text": "It could reveal the importance of various women in history."
+            },
+            {
+              "id": "D",
+              "text": "It could help identify the number of books written in the Middle Ages."
+            },
+            {
+              "id": "F",
+              "text": "F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A blue pigment used to create artworks in Europe in the Middle Ages was derived from a stone called lapis lazuli. In medieval times, even ______ was not as valuable. Lapis lazuli could only be found in Afghanistan and a lot of (38) ______ was needed to make the pigment from the stone. The procedure used to do this appeared much later in the manuals used by European artists and this suggests that the product came to their countries as an imported powder. Artists often had to make a (39) ______ on their brushes using their mouths, which then enabled them to produce the fine features needed for (40) ______ and books.",
+          "answer": "Gold",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A blue pigment used to create artworks in Europe in the Middle Ages was derived from a stone called lapis lazuli. In medieval times, even (37) ______ was not as valuable. Lapis lazuli could only be found in Afghanistan and a lot of ______ was needed to make the pigment from the stone. The procedure used to do this appeared much later in the manuals used by European artists and this suggests that the product came to their countries as an imported powder. Artists often had to make a (39) ______ on their brushes using their mouths, which then enabled them to produce the fine features needed for (40) ______ and books.",
+          "answer": "Skill",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A blue pigment used to create artworks in Europe in the Middle Ages was derived from a stone called lapis lazuli. In medieval times, even (37) ______ was not as valuable. Lapis lazuli could only be found in Afghanistan and a lot of (38) ______ was needed to make the pigment from the stone. The procedure used to do this appeared much later in the manuals used by European artists and this suggests that the product came to their countries as an imported powder. Artists often had to make a ______ on their brushes using their mouths, which then enabled them to produce the fine features needed for (40) ______ and books.",
+          "answer": "Point",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-117-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A blue pigment used to create artworks in Europe in the Middle Ages was derived from a stone called lapis lazuli. In medieval times, even (37) ______ was not as valuable. Lapis lazuli could only be found in Afghanistan and a lot of (38) ______ was needed to make the pigment from the stone. The procedure used to do this appeared much later in the manuals used by European artists and this suggests that the product came to their countries as an imported powder. Artists often had to make a (39) ______ on their brushes using their mouths, which then enabled them to produce the fine features needed for ______ and books.",
+          "answer": "Manuscripts",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "The forgotten role of women in medieval arts",
+        "text": "(A) A team of archaeologists recently and unexpectedly revealed direct archaeological evidence of the involvement of medieval women in the production of manuscripts. This challenges the widespread assumptions that men were the sole producers of books throughout the period in European history known as the Middle Ages {600-1500 AD). They did so by identifying particles of blue pigment in the fossilised dental plaque of a medieval woman as lapis lazuli, an extremely valuable stone at the time. The findings are the first of their kind and strongly suggest it will be possible to increase the profile of ancient female artists in the historical and archaeological record by analysing their dirty teeth.\n\n(B) This discovery was made possible by applying technological advances in the field of archaeological science to a little-studied deposit on teeth known as tartar, which is mineralised dental plaque. In most societies today, oral hygiene practices are part of our daily routine, meaning that dental plaque is regularly removed and doesn't have a chance to build up on our teeth. This was not the case in the past. Plaque built up and mineralised over the course of people's lives. This solid deposit has unique archaeological potential. A key characteristic of dental plaque is that while it forms it has the ability to entrap a wide range of microscopic and molecular debris that enters a person's mouth. When dental plaque hardens and becomes tartar, it can entomb these particles and molecules for hundreds or thousands of years – potentially even millions.\n\n(C) The majority of scholarly work conducted on ancient tartar has been centred on what people ate but, besides taking in food, the human mouth is subject to a constant influx of particles of different types directly from the environment. Tree and grass pollen, spores, cotton fibres, medicinal plants and micro-charcoal have all been reported among the finds from this type of dental analysis. Despite such promising evidence, the value of tartar as environmental evidence has not, so far, been much exploited.\n\n(D) The team analysed the skeletal remains of a female individual, known as B78, who lived in the 11th—12th century. She was buried in the grounds of a former women's monastery in Dalheim, Germany, that is in ruins today but was occupied by various religious groups for around a thousand years. They found well over 100 bright blue particles, in the form of small crystals and individual flecks, scattered throughout the tartar which was still preserved on her teeth. Her skeletal remains had not indicated anything particular about her life, besides a general indication that she probably did not do any hard labour. The blue particles were unlike any other discovery – firstly because of their colour, and secondly because of their sheer number.\n\n(E) To be sure about the nature of the particles of bright blue powder trapped in the woman's tartar, a range of microscopy techniques were used. All techniques provided the same results: the blue specks were lazurite, the blue portion of the lapis lazuli stone, a substance more precious than gold in Medieval Europe. Afghanistan was the only source of the stone at the time, and the preparation of the pigment took great skill.\n\n(F) So how did particles of this precious material end up deposited on this woman's teeth? A variety of reasons were possible, from painting to accidental ingestion during pigment preparation, or even the consumption of the powder as a medicine. But the way in which the blue particles were found in her tartar – single flecks in different areas – pointed to repeated exposure, not a single intake. And creating a vivid blue pigment from lapis lazuli required an Arabic method of oil flotation that did not appear in European artists' manuals until after the 15th century. This all suggests that it's more likely that this ultramarine pigment was brought into the region as a finished product for use by artists.\n\n(G) The most likely explanation, then, is that this was an artist who repeatedly used her lips to make a fine point on the end of her brush in order to paint intricate detail on manuscripts. This finding suggests that women were more involved in the production of books throughout the Middle Ages than tends to be thought. Before the 12th century fewer than one per cent of the books that still remain can be traced to the work of women. Additionally, artists are largely invisible in both the historic and archaeological records as they rarely signed their work before the 15th century and, until now, there have been no known skeletal markers directly associated with producing art. The work strongly points to the possibility of using microscopic particles entombed in ancient tartar to track the artists of ancient times. It also suggests that it may be possible to track other 'dusty' crafts using this method and thereby reveal the invisible workforce behind many forms of art."
+      }
+    }
+  ]
+}

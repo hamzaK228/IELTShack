@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-87",
+  "title": "Academic Writing — Practice Test 87",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-87-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The pie graphs below show the result of a survey of children's activities. The first graph shows the cultural and leisure activities that boys participate in, whereas the second graph shows the activities in which the girls participate. Write a report describing the information shown in the two pie graphs. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-87.png"
+        },
+        {
+          "id": "pte-writing-87-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The crime rate among teenagers has increased dramatically in many countries. Discuss some possible reasons for this increase and suggest solutions. Give reasons for your answer and include any relevant examples from your own experience or knowledge. Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1004 @@
+{
+  "id": "pte-reading-74",
+  "title": "Academic Reading — Practice Test 74",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: how to handle the sun",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-74-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Richard Kovacs",
+          "options": [
+            {
+              "id": "A",
+              "text": "believes that the benefits of the sun are not scientifically provable"
+            },
+            {
+              "id": "B",
+              "text": "claims to have discovered the vitamin released in the skin by the sun"
+            },
+            {
+              "id": "C",
+              "text": "suggests that the sun is an excellent healer"
+            },
+            {
+              "id": "D",
+              "text": "invented the first sun screen"
+            },
+            {
+              "id": "E",
+              "text": "suggests that the sun assists with common illnesses"
+            },
+            {
+              "id": "F",
+              "text": "thinks that initially the sun is of great benefit to the body"
+            },
+            {
+              "id": "G",
+              "text": "is unsure about the benefits of the sun"
+            },
+            {
+              "id": "H",
+              "text": "was one of the pioneers of sun healing therapy"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "August Rollier",
+          "options": [
+            {
+              "id": "A",
+              "text": "believes that the benefits of the sun are not scientifically provable"
+            },
+            {
+              "id": "B",
+              "text": "claims to have discovered the vitamin released in the skin by the sun"
+            },
+            {
+              "id": "C",
+              "text": "suggests that the sun is an excellent healer"
+            },
+            {
+              "id": "D",
+              "text": "invented the first sun screen"
+            },
+            {
+              "id": "E",
+              "text": "suggests that the sun assists with common illnesses"
+            },
+            {
+              "id": "F",
+              "text": "thinks that initially the sun is of great benefit to the body"
+            },
+            {
+              "id": "G",
+              "text": "is unsure about the benefits of the sun"
+            },
+            {
+              "id": "H",
+              "text": "was one of the pioneers of sun healing therapy"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "W.W. Coblentz",
+          "options": [
+            {
+              "id": "A",
+              "text": "believes that the benefits of the sun are not scientifically provable"
+            },
+            {
+              "id": "B",
+              "text": "claims to have discovered the vitamin released in the skin by the sun"
+            },
+            {
+              "id": "C",
+              "text": "suggests that the sun is an excellent healer"
+            },
+            {
+              "id": "D",
+              "text": "invented the first sun screen"
+            },
+            {
+              "id": "E",
+              "text": "suggests that the sun assists with common illnesses"
+            },
+            {
+              "id": "F",
+              "text": "thinks that initially the sun is of great benefit to the body"
+            },
+            {
+              "id": "G",
+              "text": "is unsure about the benefits of the sun"
+            },
+            {
+              "id": "H",
+              "text": "was one of the pioneers of sun healing therapy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Leonard Dodds",
+          "options": [
+            {
+              "id": "A",
+              "text": "believes that the benefits of the sun are not scientifically provable"
+            },
+            {
+              "id": "B",
+              "text": "claims to have discovered the vitamin released in the skin by the sun"
+            },
+            {
+              "id": "C",
+              "text": "suggests that the sun is an excellent healer"
+            },
+            {
+              "id": "D",
+              "text": "invented the first sun screen"
+            },
+            {
+              "id": "E",
+              "text": "suggests that the sun assists with common illnesses"
+            },
+            {
+              "id": "F",
+              "text": "thinks that initially the sun is of great benefit to the body"
+            },
+            {
+              "id": "G",
+              "text": "is unsure about the benefits of the sun"
+            },
+            {
+              "id": "H",
+              "text": "was one of the pioneers of sun healing therapy"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Most doctors are in agreement when it comes to the health benefits of the sun.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Beaches are best for a sun tan because the air has far less pollution.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Women applied fat to their skin for protection from the sun.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Extended exposure of the eyes to the sun can lead to blindness.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The human eye cannot heal itself when it is damaged by the sun.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many doctors agree that skin cancer can be caused by excessive exposure to the sun. As far as the human body is concerned, it is primarily the face and hands that are ______ When human skin is exposed to the sun, the body has a defence: a (11) ______of the skin's natural oils and acids. For some time, women have been more effective than men in (12) ______for their skin. Eyes are a significant part of the body which are negatively affected by the sun. The damage often goes undetected because it happens quite (13) ______ On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period. A lanolin-based conditioner is recommended by hair care professionals to (14) ______this problem. Perhaps a simple hat may be the best solution for hair.",
+          "answer": "affected",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many doctors agree that skin cancer can be caused by excessive exposure to the sun. As far as the human body is concerned, it is primarily the face and hands that are (10) ______ When human skin is exposed to the sun, the body has a defence: a ______of the skin's natural oils and acids. For some time, women have been more effective than men in (12) ______for their skin. Eyes are a significant part of the body which are negatively affected by the sun. The damage often goes undetected because it happens quite (13) ______ On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period. A lanolin-based conditioner is recommended by hair care professionals to (14) ______this problem. Perhaps a simple hat may be the best solution for hair.",
+          "answer": "blend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many doctors agree that skin cancer can be caused by excessive exposure to the sun. As far as the human body is concerned, it is primarily the face and hands that are (10) ______ When human skin is exposed to the sun, the body has a defence: a (11) ______of the skin's natural oils and acids. For some time, women have been more effective than men in ______for their skin. Eyes are a significant part of the body which are negatively affected by the sun. The damage often goes undetected because it happens quite (13) ______ On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period. A lanolin-based conditioner is recommended by hair care professionals to (14) ______this problem. Perhaps a simple hat may be the best solution for hair.",
+          "answer": "caring",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many doctors agree that skin cancer can be caused by excessive exposure to the sun. As far as the human body is concerned, it is primarily the face and hands that are (10) ______ When human skin is exposed to the sun, the body has a defence: a (11) ______of the skin's natural oils and acids. For some time, women have been more effective than men in (12) ______for their skin. Eyes are a significant part of the body which are negatively affected by the sun. The damage often goes undetected because it happens quite ______ On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period. A lanolin-based conditioner is recommended by hair care professionals to (14) ______this problem. Perhaps a simple hat may be the best solution for hair.",
+          "answer": "slowly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Many doctors agree that skin cancer can be caused by excessive exposure to the sun. As far as the human body is concerned, it is primarily the face and hands that are (10) ______ When human skin is exposed to the sun, the body has a defence: a (11) ______of the skin's natural oils and acids. For some time, women have been more effective than men in (12) ______for their skin. Eyes are a significant part of the body which are negatively affected by the sun. The damage often goes undetected because it happens quite (13) ______ On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period. A lanolin-based conditioner is recommended by hair care professionals to ______this problem. Perhaps a simple hat may be the best solution for hair.",
+          "answer": "overcome",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "how to handle the sun",
+        "text": "The medical world appears to be divided on the effects of the sun upon the human body. From statements like, \"There is no known relationship between a tan and health\" to \"perhaps sun-tanned skin absorbs the ultraviolet rays and converts them into helpful energy\", there are some things which are still the topic of research. Doctors agree on one of the benefits of the sun – vitamin D. It is well known that vitamin D is acquired from the direct rays of the sun – an entirely separate miracle from sun tanning. The sun's ultraviolet rays penetrate only a tiny amount into the human skin, but in the process they irradiate an element in the skin called ergosterol, which is the substance that stores up reserves of vitamin D received from the sun. This is both healthful and beneficial for human skin. All around the Western World, people have developed an obsession with the sun. In many western countries, a sun tan has become the trade-mark of a healthy, active, outdoor person. The basic reddish hue just beneath the surface of our skin is the outward reflection of the millions of red corpuscles flowing through tiny blood vessels. This is most noticeable in the pure skin of a baby which can change in a moment from porcelain white (with anger or a switch in temperature) to crimson. In Caucasians, this colouring is somewhat hidden by an acquired layer of sun-made pigment, which varies in tone according to the complexion and occupation of the individual. Locale plays a big part in the effectiveness of the sun tan. Mountain tops and beaches are nonpareil sun spas because they receive far purer sunlight than the rest of the land. Urban areas with their smoke and smog act as a filter removing all the healthful properties of the sun. Perhaps the seashore is best of all, with its air estimated to have at least a fifth of a percent more oxygen than inland ether – free of city and inland dust, tars, pollen and allergens. The sun has long been called nature's greatest health giver and healer and has played a chief role at health resorts ever since August Rollier, the Swiss father of heliotherapy, opened his first high-Alps sanatorium in 1903. Dr. W.W. Coblentz suggests that the sun cure is a major factor in the treatment of at least 23 skin diseases, ranging from acne and eczema to ulcers and wounds. Another specialist, Dr. Richard Kovacs writes, \"Sun treatment is often helpful to persons suffering from general debility – repeated colds, respiratory diseases, influenza and the like\". After a long winter, the return to the sun writes Dr. Leonard Dodds, the British sunlight scholar, \"is a general stimulus to the body, more potent if applied after a period when it has been lacking which gradually loses its effect if exposure is over prolonged, even when not excessive\". Over many years of study dermatologists have proven that excessive exposure to sunlight over a period of years is responsible for a large proportion of skin cancer amongst the population. Those with the greatest chance of doing permanent damage to their skin are the year-round outdoor workers – 90% of which occurs on the heavily exposed hands and face. The first line of defence against permanent sun damage is the skins' own natural fatty matter and sweat, which combine to form an oily acid surface shield against the ultra violet rays. At the beach, the salt water washes away this natural oily coat, the hot sun overworks the sweat glands so that the excess becomes ineffective and the dry wind and hot sun combine to dehydrate the skin itself. Over the years, women have shown far greater wisdom in the care of their skin than men. Since the ladies of ancient Egypt first began to apply the fat of the so-called sacred temple cats to their faces, women have been tireless in waging this battle against damage to the skin from the sun. Both sexes now contribute annually to a multi-million dollar global sun screen business. Other parts of the human body which tend to suffer from exposure to the sun are the eyes and hair. Many years ago, optometrists undertook studies in America to examine the influence of the sun upon the eyes by studying Atlantic City lifeguards and found that even a few hours in the bright sun without sunglasses could cause a significant loss of vision – a loss that might take several weeks from which to recover. So gradual was the change that the lifeguards were unaware that their sight had been affected. The solution to this problem was to introduce sunglasses as a standard part of the lifeguard uniform. These were dark enough to absorb the sun's harmful UV rays and most of its infrared and ultraviolet rays. Of a lesser impact is the effect of the sun upon hair. The penalty of the sun's parching is a brittle dryness. Hair care professionals recommend a nutritional cream treatment with a substance containing lanolin to bring your hair back its natural softness, these usually come in the form of leave-in conditioners, and should be applied frequently, just as you would a sunscreen for the skin. Or, easier still, wear a hat. Wearing a hat has a dual effect: it protects the hair and helps to prevent the most dangerous of outdoor afflictions: sunstroke."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: new directions – map making",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-74-q15",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section B",
+          "options": [
+            {
+              "id": "i",
+              "text": "transferring air photos to paper maps"
+            },
+            {
+              "id": "ii",
+              "text": "computers make map production easy"
+            },
+            {
+              "id": "iii",
+              "text": "maps for seeing into the future"
+            },
+            {
+              "id": "iv",
+              "text": "the role of weather in map-making photography"
+            },
+            {
+              "id": "v",
+              "text": "interest grows in map-making"
+            },
+            {
+              "id": "vi",
+              "text": "map-making responsible for space programs"
+            },
+            {
+              "id": "vii",
+              "text": "new process enables calculation of distance"
+            },
+            {
+              "id": "viii",
+              "text": "the future of cartography rests with helicopters"
+            },
+            {
+              "id": "ix",
+              "text": "the impact of satellites on map-making"
+            },
+            {
+              "id": "x",
+              "text": "defining map making"
+            }
+          ],
+          "answer": "vii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q16",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section C",
+          "options": [
+            {
+              "id": "i",
+              "text": "transferring air photos to paper maps"
+            },
+            {
+              "id": "ii",
+              "text": "computers make map production easy"
+            },
+            {
+              "id": "iii",
+              "text": "maps for seeing into the future"
+            },
+            {
+              "id": "iv",
+              "text": "the role of weather in map-making photography"
+            },
+            {
+              "id": "v",
+              "text": "interest grows in map-making"
+            },
+            {
+              "id": "vi",
+              "text": "map-making responsible for space programs"
+            },
+            {
+              "id": "vii",
+              "text": "new process enables calculation of distance"
+            },
+            {
+              "id": "viii",
+              "text": "the future of cartography rests with helicopters"
+            },
+            {
+              "id": "ix",
+              "text": "the impact of satellites on map-making"
+            },
+            {
+              "id": "x",
+              "text": "defining map making"
+            }
+          ],
+          "answer": "v",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q17",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section D",
+          "options": [
+            {
+              "id": "i",
+              "text": "transferring air photos to paper maps"
+            },
+            {
+              "id": "ii",
+              "text": "computers make map production easy"
+            },
+            {
+              "id": "iii",
+              "text": "maps for seeing into the future"
+            },
+            {
+              "id": "iv",
+              "text": "the role of weather in map-making photography"
+            },
+            {
+              "id": "v",
+              "text": "interest grows in map-making"
+            },
+            {
+              "id": "vi",
+              "text": "map-making responsible for space programs"
+            },
+            {
+              "id": "vii",
+              "text": "new process enables calculation of distance"
+            },
+            {
+              "id": "viii",
+              "text": "the future of cartography rests with helicopters"
+            },
+            {
+              "id": "ix",
+              "text": "the impact of satellites on map-making"
+            },
+            {
+              "id": "x",
+              "text": "defining map making"
+            }
+          ],
+          "answer": "ix",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section E",
+          "options": [
+            {
+              "id": "i",
+              "text": "transferring air photos to paper maps"
+            },
+            {
+              "id": "ii",
+              "text": "computers make map production easy"
+            },
+            {
+              "id": "iii",
+              "text": "maps for seeing into the future"
+            },
+            {
+              "id": "iv",
+              "text": "the role of weather in map-making photography"
+            },
+            {
+              "id": "v",
+              "text": "interest grows in map-making"
+            },
+            {
+              "id": "vi",
+              "text": "map-making responsible for space programs"
+            },
+            {
+              "id": "vii",
+              "text": "new process enables calculation of distance"
+            },
+            {
+              "id": "viii",
+              "text": "the future of cartography rests with helicopters"
+            },
+            {
+              "id": "ix",
+              "text": "the impact of satellites on map-making"
+            },
+            {
+              "id": "x",
+              "text": "defining map making"
+            }
+          ],
+          "answer": "ii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Section F",
+          "options": [
+            {
+              "id": "i",
+              "text": "transferring air photos to paper maps"
+            },
+            {
+              "id": "ii",
+              "text": "computers make map production easy"
+            },
+            {
+              "id": "iii",
+              "text": "maps for seeing into the future"
+            },
+            {
+              "id": "iv",
+              "text": "the role of weather in map-making photography"
+            },
+            {
+              "id": "v",
+              "text": "interest grows in map-making"
+            },
+            {
+              "id": "vi",
+              "text": "map-making responsible for space programs"
+            },
+            {
+              "id": "vii",
+              "text": "new process enables calculation of distance"
+            },
+            {
+              "id": "viii",
+              "text": "the future of cartography rests with helicopters"
+            },
+            {
+              "id": "ix",
+              "text": "the impact of satellites on map-making"
+            },
+            {
+              "id": "x",
+              "text": "defining map making"
+            }
+          ],
+          "answer": "iii",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The first images of the earth are taken in space.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1955 and 1960"
+            },
+            {
+              "id": "B",
+              "text": "between 1960 and 1965"
+            },
+            {
+              "id": "C",
+              "text": "between 1965 and 1970"
+            },
+            {
+              "id": "D",
+              "text": "after 1970"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q21",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Parts of the earth are mapped through use of radio waves.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1955 and 1960"
+            },
+            {
+              "id": "B",
+              "text": "between 1960 and 1965"
+            },
+            {
+              "id": "C",
+              "text": "between 1965 and 1970"
+            },
+            {
+              "id": "D",
+              "text": "after 1970"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "A satellite is launched in search of forests, lakes and rivers.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1955 and 1960"
+            },
+            {
+              "id": "B",
+              "text": "between 1960 and 1965"
+            },
+            {
+              "id": "C",
+              "text": "between 1965 and 1970"
+            },
+            {
+              "id": "D",
+              "text": "after 1970"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Work began on what would be the most advanced map-making system in the future.",
+          "options": [
+            {
+              "id": "A",
+              "text": "between 1955 and 1960"
+            },
+            {
+              "id": "B",
+              "text": "between 1960 and 1965"
+            },
+            {
+              "id": "C",
+              "text": "between 1965 and 1970"
+            },
+            {
+              "id": "D",
+              "text": "after 1970"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The active role of learners was also emphasized by Vygotsky, who focused on the role of social support in learning. According to Vygotsky, all cognitive skills and patterns of thinking are not primarily determined by the skills people are born with; they are the products of the activities practiced in the social environment in which the individual grows up. From Vygotsky's research into the role of the social environment in the development of thinking came what he called a zone of proximal development. This zone which refers to tasks learners can do with the assistance of others, had a big impact upon developmental psychology. This line of work has drawn attention to the roles of parents, and teachers in challenging and extending children's efforts to understand. It has also contributed to an understanding of the relationship between formal and informal teaching as well as learning situations and cognition.",
+          "options": [
+            {
+              "id": "A",
+              "text": "magnetometers"
+            },
+            {
+              "id": "B",
+              "text": "Sputnick 1"
+            },
+            {
+              "id": "C",
+              "text": "World War II"
+            },
+            {
+              "id": "D",
+              "text": "stereoplotters"
+            },
+            {
+              "id": "E",
+              "text": "aeroplanes and helicopters"
+            },
+            {
+              "id": "F",
+              "text": "stereoscopes"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q25",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The active role of learners was also emphasized by Vygotsky, who focused on the role of social support in learning. According to Vygotsky, all cognitive skills and patterns of thinking are not primarily determined by the skills people are born with; they are the products of the activities practiced in the social environment in which the individual grows up. From Vygotsky's research into the role of the social environment in the development of thinking came what he called a zone of proximal development. This zone which refers to tasks learners can do with the assistance of others, had a big impact upon developmental psychology. This line of work has drawn attention to the roles of parents, and teachers in challenging and extending children's efforts to understand. It has also contributed to an understanding of the relationship between formal and informal teaching as well as learning situations and cognition.",
+          "options": [
+            {
+              "id": "A",
+              "text": "magnetometers"
+            },
+            {
+              "id": "B",
+              "text": "Sputnick 1"
+            },
+            {
+              "id": "C",
+              "text": "World War II"
+            },
+            {
+              "id": "D",
+              "text": "stereoplotters"
+            },
+            {
+              "id": "E",
+              "text": "aeroplanes and helicopters"
+            },
+            {
+              "id": "F",
+              "text": "stereoscopes"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The active role of learners was also emphasized by Vygotsky, who focused on the role of social support in learning. According to Vygotsky, all cognitive skills and patterns of thinking are not primarily determined by the skills people are born with; they are the products of the activities practiced in the social environment in which the individual grows up. From Vygotsky's research into the role of the social environment in the development of thinking came what he called a zone of proximal development. This zone which refers to tasks learners can do with the assistance of others, had a big impact upon developmental psychology. This line of work has drawn attention to the roles of parents, and teachers in challenging and extending children's efforts to understand. It has also contributed to an understanding of the relationship between formal and informal teaching as well as learning situations and cognition.",
+          "options": [
+            {
+              "id": "A",
+              "text": "magnetometers"
+            },
+            {
+              "id": "B",
+              "text": "Sputnick 1"
+            },
+            {
+              "id": "C",
+              "text": "World War II"
+            },
+            {
+              "id": "D",
+              "text": "stereoplotters"
+            },
+            {
+              "id": "E",
+              "text": "aeroplanes and helicopters"
+            },
+            {
+              "id": "F",
+              "text": "stereoscopes"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "new directions – map making",
+        "text": "(A) \"A map may lie, but it never jokes\" wrote poet Howard McCordin. When it comes to getting to our destinations on time, there are few things more important than an uncluttered and accurate map. By definition, maps show the features of the earth graphically, to scale, on a two-dimensional surface. They may be thematic – showing vegetation, wildlife, geology; navigational – showing hydrographic, aeronautical or automotive routes; topographic – showing the natural and man-made features of the land or any other of a number of variations. Their creation is a work of art and science involving a merger between creativity and precision.\n\n(B) One of the biggest influences upon map creation or cartography was World War II. In the war zone, maps of targets and terrain played a huge part and so topographers and members of the air force alike were engaged in the production of them. The need to accurately measure distances using air photos gave birth to the process of photogrammetry. Great cartographic and mathematical skill was required in a process that was initially limited by a lack of photographic coverage. Planes flying at a constant altitude flew in grid patterns with cameras mounted on them, facing straight down. When the weather was good, this process provided photos in the perpendicular axis – the preferred optical axis for mapping. In order to include both sides of the horizon, some cameras were specially designed to take three pictures at once – one vertical and two side-looking obliques. It was a difficult task to keep the plane running smoothly but the latest refinements of map-making techniques were put to immediate use.\n\n(C) Using a novel combination of optics and the overlapping of air photos to create three-dimensional pictures of terrain, the stereoscope was the next refinement in map making which was of limited value. Shortly thereafter, the photogrammetric stereoplotter improved upon the technology used by the stereoscope allowing cartographers to precisely measure the elevation of features in air photos and then transfer them to paper. After World War II had ended, this new technology led to an increased interest in cartography. Mappers began to use newly invented devices such as tellurometers, air profile recorders, magnetometers and scintillation counters. From these precision instruments came maps packed with information.\n\n(D) In 1957, the Soviet satellite Sputnick 1 joined the moon in orbit around the earth. Although it only operated for 21 days, it began the 'space race' and shortly after a number of American and other Russian rockets were put into orbit progressing cartography into an even more sophisticated realm. Only a few years later in 1959 the first space photograph of earth was received. Pageos 1, launched by the United States in 1966, was the first satellite with an instrument package on board specifically designed for surveying the earth. Two years later, the American Satnav system was launched utilising six carefully positioned Transit satellites which fed back information for mapping based upon the Doppler effect. The Landsat 1 satellite launched in 1972 was the first satellite to collect data specifically on the earth's surface and natural resources. More than 20 other equally spaced satellites now orbit the earth every 12 hours at an altitude of 20,000 kilometres. Navstar, the U.S. military's global-positioning system can determine geodesic positioning accurate within millimetres anywhere on earth. What took months to plot and record in the past can now be easily done in an hour.\n\n(E) In addition to all the advances in aerial satellite technology, some very advanced computer hardware has been designed to aide cartographers in map production. Storing trillions of bits of information and working with a Geographic Information System (GIS), the system uses geographic position as a common thread. Although it became popular in the 1990s, GISs were developed in the early 1960s. Programmed with topographic information – lakes, roads, rivers and place names – taken from existing sheets and updated from new surveys, a GIS was the next gigantic leap forward for cartographers. Maps, air photos, municipal plans and a host of other things can be scanned and entered and later on, updated and revised in an infinite number of ways on a computer terminal to create a virtually custom-made map every time. The distinction between map producer and map user becomes blurred with a GIS. A map of an urban neighbourhood may be brought up on the screen and by zooming in or out, streets, buildings, fields, lakes, street lamps, bus stops, even sewers can be displayed. But it goes even further: an associated database enables the operator to ascertain the number of people who live in the household, even property values can be listed. There is basically an unlimited amount of information which can be superimposed on a map using this system.\n\n(F) A brief history of cartography shows that map types have changed to reflect the needs of the time. Thus, early maps depicted concrete, tangible features such as coastlines, rivers, mountains, roads and towns. Later, the focus moved to the spatial distribution of environmental phenomena – vegetation, soils, geology, and climate. Societal issues such as population and disease have also been closely examined. Most recently, attention has shifted to short-lived phenomena such as tornados, air pollution and floods, and to visualization of the results of conceptual modelling of environmental phenomena such as groundwater contamination. The trend has been one of shifting from simply mapping obvious features to discovering relationships and implications between different levels and layers of geographic information. It is clear today that cartography is closely associated with the broader field of scientific visualization. This technique takes the map-reader beyond the printed page and shows them terrain as if they were flying in a helicopter."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: how children learn",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-74-q27",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What did early research into child capabilities focus on? ______",
+          "answer": "what children lacked",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q28",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Who thought infants needed to communicate verbally in order to show advanced comprehension? ______",
+          "answer": "20th century psychologists",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q29",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "In what period of their growth do infants develop an awareness of time? ______",
+          "answer": "first 2 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q30",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "What TWO things is the infant mind compared to? ______",
+          "answer": "blank state/ computer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q31",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In many ways, children learn the same way adults learn.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q32",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "20th century psychologists thought infants were unintelligent because they were usually asleep.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q33",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The focus of early research methods in child development have been similar to those conducted more recently.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q34",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Piaget showed that each new stage of learning builds upon the previous one.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q35",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Vygotsky's research has had a positive impact upon many primary school teachers.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When it comes to learning new concepts, recent research has shown that children are both competent and______",
+          "answer": "active",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Not only are young children capable of assembling information they are also able to______",
+          "answer": "organise it",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "ONE of the ways scientists measured infant preference was through______",
+          "answer": "sucking/ habitation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "An indicator of cognitive development is that knowledge must be______",
+          "answer": "organised",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-74-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Vygotsky believed that the key to learning lay in the individual's______",
+          "answer": "social environment",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "how children learn",
+        "text": "The way in which children learn is an ever-growing area of study. It is obvious that children differ from adult learners in many ways, but what is interesting is that there are also quite a number of surprising commonalities across all learners of all ages. A study of young children fulfils two purposes: it helps to highlight the strengths and weaknesses of the learners who populate a nation's schools, and it offers a window into the development of learning that cannot be seen if one considers only well-established learning patterns and expertise. When an observer studies the development of children over time, a dynamic picture of learning unfolds. An understanding of infant thinking mental processes or cognition and how young children from 2 to 5 years old add information to their knowledge 'data base' helps child psychologists to better equip students for their transition into formal school settings. For much of the 20th century, most psychologists accepted the traditional thesis that a newborn's mind is a tabula rasa or blank slate upon which the record of experience is gradually impressed. It was further thought that verbal communication was a prerequisite for abstract thought and so, in its absence, a baby could not have comprehension. Since babies are born with a limited range of behaviours and spend most of their early months asleep, they certainly appear passive and unknowing. Therefore, it was commonly thought that infants lack the ability to form complex ideas. Until recently, there was no obvious way for them to demonstrate anything to the contrary to researchers. In time however, challenges to this view arose. It became clear that with carefully designed scientific procedures, psychologists could find ways to pose rather complex questions about how much infants and young children know and what they are capable of doing. Psychologists began to employ new methodologies and began to gather a substantial amount of data about the remarkable abilities that young children possess. Their research stood in great contrast to the older emphases which focussed almost entirely on what children lacked. The mind of young children came to life through this research, it became clear that very young children are both competent and active when it comes to their conceptual development.\n\n(A) major move away from the earlier tabula rasa view of the infant mind was taken by the Swiss psychologist Jean Piaget. Beginning in the 1920s, Piaget argued that the young human mind could best be described in terms of complex cognitive or 'thinking' structures. From close observations of infants and careful questioning of children, he concluded that the development of the mind proceeds through certain stages, each involving radically different thinking processes. Piaget observed that infants actually seek stimulation from their surroundings thus promoting their intellectual development. He showed that their initial representations of such things as space and time as well as awareness of objects and self are constructed only gradually during the first 2 years. He concluded that understanding in young infants is built up through the gradual coordination of sight, sound and touch. After Piaget, perceptual learning theorists studied how newborns begin to integrate sight and sound and explore their surroundings. They saw that learning in infants proceeded rapidly when they were given the opportunity to explore the objects and events they encountered. Theories were developed which attempted to describe how the brain processes information. It was around this time that the metaphor of the mind as computer came into wide usage. In order to study what babies know and can learn about readily, researchers needed to develop techniques of 'asking' infants what they know. Because infants are so limited physically and verbally, experimenters interested in finding out how babies think had to find methods suitable to an infant's motor capabilities. New ways were developed for measuring what infants prefer to look at and detecting changes in events to which they are sensitive. Three such methods that were used were sucking, habituation, and visual expectation. Although theories put forward during this time differed in many ways, they shared an emphasis on considering children as active learners, those who actually assemble and organise information. Therefore, primarily cognitive development involves the acquisition of organised knowledge such as, an early understanding of basic physics, some biological concepts and early number sense. In addition, cognitive development involves gradually learning strategies for solving problems, understanding and remembering. The active role of learners was also emphasized by Vygotsky, who focused on the role of social support in learning. According to Vygotsky, all cognitive skills and patterns of thinking are not primarily determined by the skills people are born with; they are the products of the activities practiced in the social environment in which the individual grows up. From Vygotsky's research into the role of the social environment in the development of thinking came what he called a zone of proximal development. This zone which refers to tasks learners can do with the assistance of others, had a big impact upon developmental psychology. This line of work has drawn attention to the roles of parents, and teachers in challenging and extending children's efforts to understand. It has also contributed to an understanding of the relationship between formal and informal teaching as well as learning situations and cognition."
+      }
+    }
+  ]
+}

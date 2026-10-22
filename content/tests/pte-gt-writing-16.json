@@ -1,0 +1,26 @@
+{
+  "id": "pte-gt-writing-16",
+  "title": "General Training Writing — Letter 16",
+  "kind": "practice",
+  "description": "Task 1 letter, 16 of 29. Write at least 150 words.",
+  "durationMinutes": 20,
+  "sections": [
+    {
+      "id": "task-1",
+      "skill": "writing",
+      "title": "Writing — Task 1 (letter)",
+      "instructions": "Write the letter in the box below. It is not auto-scored.",
+      "questions": [
+        {
+          "id": "pte-gt-writing-16-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "Your car is hired from a company and while you are driving on holiday, you have a small accident. You will have to write a report to the company to explain it.\nIn your letter:\nwhen and where you hired it\ndescribe how the accident happened\nwhat kind of action did you take after the accident",
+          "answer": "",
+          "difficulty": 2
+        }
+      ]
+    }
+  ]
+}

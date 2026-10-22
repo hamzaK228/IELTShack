@@ -1,0 +1,882 @@
+{
+  "id": "pte-reading-151",
+  "title": "Academic Reading — Practice Test 151",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Voyage of Going: beyond the blue line 2",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-151-q1",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Captain cook once expected the Hawaii might speak another language of people from other pacific islands.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q2",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Captain cook depicted number of cultural aspects of Polynesians in his journal.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q3",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Professor Spriggs and his research team went to the Efate to try to find the site of ancient cemetery.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q4",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Lapita completed a journey of around 2,000 miles in a period less than a centenary.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The Lapita were the first inhabitants in many pacific islands.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The unknown pots discovered in Efate had once been used for cooking.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The urn buried in Efate site was plain as it was without any decoration.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tests show the human remains and the charcoal found in the buried um are from the start of the Lapita period. Yet the ______covering many of the Efate site did not come from that area. Then examinations carried out on the (9) ______discovered at Efate site reveal that not everyone buried there was a native living in the area. In fact, DNA could identify the Lapita's nearest present-days (10) ______",
+          "answer": "Rock",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tests show the human remains and the charcoal found in the buried um are from the start of the Lapita period. Yet the (8) ______covering many of the Efate site did not come from that area. Then examinations carried out on the ______discovered at Efate site reveal that not everyone buried there was a native living in the area. In fact, DNA could identify the Lapita's nearest present-days (10) ______",
+          "answer": "Teeth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Tests show the human remains and the charcoal found in the buried um are from the start of the Lapita period. Yet the (8) ______covering many of the Efate site did not come from that area. Then examinations carried out on the (9) ______discovered at Efate site reveal that not everyone buried there was a native living in the area. In fact, DNA could identify the Lapita's nearest present-days ______",
+          "answer": "Descendants",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Voyage of Going: beyond the blue line 2",
+        "text": "(A) One feels a certain sympathy for Captain James Cook on the day in 1778 that he \"discovered\" Hawaii. Then on his third expedition to the Pacific, the British navigator had explored scores of islands across the breadth of the sea, from lush New Zealand to the lonely wastes of Easter Island. This latest voyage had taken him thousands of miles north from the Society Islands to an archipelago so remote that even the old Polynesians back on Tahiti knew nothing about it. Imagine Cook's surprise, then, when the natives of Hawaii came paddling out in their canoes and greeted him in a familiar tongue, one he had heard on virtually every mote of inhabited land he had visited. Marveling at the ubiquity of this Pacific language and culture, he later wondered in his journal: \"How shall we account for this Nation spreading it self so far over this Vast ocean?\"\n\n(B) Answers have been slow in coming. But now a startling archaeological find on the island of Efate, in the Pacific nation of Vanuatu, has revealed an ancient seafaring people, the distant ancestors of today's Polynesians, taking their first steps into the unknown. The discoveries there have also opened a window into the shadowy world of those early voyagers. At the same time, other pieces of this human puzzle are turning up in unlikely places. Climate data gleaned from slow-growing corals around the Pacific and from sediments in alpine lakes in South America may help explain how, more than a thousand years later, a second wave of seafarers beat their way across the entire Pacific.\n\n(C) \"What we have is a first- or second-generation site containing the graves of some of the Pacific's first explorers,\" says Spriggs, professor of archaeology at the Australian National University and co-leader of an international team excavating the site. It came to light only by luck. A backhoe operator, digging up topsoil on the grounds of a derelict coconut plantation, scraped open a grave – the first of dozens in a burial ground some 3,000 years old. It is the oldest cemetery ever found in the Pacific islands, and it harbors the bones of an ancient people archaeologists call the Lapita, a label that derives from a beach in New Caledonia where a landmark cache of their pottery was found in the 1950s. They were daring blue-water adventurers who roved the sea not just as explorers but also as pioneers, bringing along everything they would need to build new lives – their families and livestock, taro seedlings and stone tools.\n\n(D) Within the span of a few centuries the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga, at least 2,000 miles eastward in the Pacific. Along the way they explored millions of square miles of unknown sea, discovering and colonizing scores of tropical islands never before seen by human eyes: Vanuatu, New Caledonia, Fiji, Samoa.\n\n(E) What little is known or surmised about them has been pieced together from fragments of pottery, animal bones, obsidian flakes, and such oblique sources as comparative linguistics and geochemistry. Although their voyages can be traced back to the northern islands of Papua New Guinea, their language – variants of which are still spoken across the Pacific – came from Taiwan. And their peculiar style of pottery decoration, created by pressing a carved stamp into the clay, probably had its roots in the northern Philippines. With the discovery of the Lapita cemetery on Efate, the volume of data available to researchers has expanded dramatically. The bones of at least 62 individuals have been uncovered so far – including old men, young women, even babies – and more skeletons are known to be in the ground. Archaeologists were also thrilled to discover six complete Lapita pots; before this, only four had ever been found. Other discoveries included a burial urn with modeled birds arranged on the rim as though peering down at the human bones sealed inside. It's an important find, Spriggs says, for it conclusively identifies the remains as Lapita. \"It would be hard for anyone to argue that these aren't Lapita when you have human bones enshrined inside what is unmistakably a Lapita urn.\"\n\n(F) Several lines of evidence also undergird Spriggs's conclusion that this was a community of pioneers making their first voyages into the remote reaches of Oceania. For one thing, the radiocarbon dating of bones and charcoal places them early in the Lapita expansion. For another, the chemical makeup of the obsidian flakes littering the site indicates that the rock wasn't local; instead it was imported from a large island in Papua New Guinea's Bismarck Archipelago, the springboard for the Lapita's thrust into the Pacific. A particularly intriguing clue comes from chemical tests on the teeth of several skeletons. DNA teased from these ancient bones may also help answer one of the most puzzling questions in Pacific anthropology: Did all Pacific islanders spring from one source or many? Was there only one outward migration from a single point in Asia, or several from different points? \"This represents the best opportunity we've had yet,\" says Spriggs, \"to find out who the Lapita actually were, where they came from, and who their closest descendants are today.\"\n\n(G) There is one stubborn question for which archaeology has yet to provide any answers: How did the Lapita accomplish the ancient equivalent of a moon landing, many times over? No one has found one of their canoes or any rigging, which could reveal how the canoes were sailed. Nor do the oral histories and traditions of later Polynesians offer any insights, for they segue into myth long before they reach as far back in time as the Lapita. \"All we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,\" says Geoff Irwin, a professor of archaeology at the University of Auckland and an avid yachtsman. Those sailing skills, he says, were developed and passed down over thousands of years by earlier mariners who worked their way through the archipelagoes of the western Pacific making short crossings to islands within sight of each other. Reaching Fiji, as they did a century or so later, meant crossing more than 500 miles of ocean, pressing on day after day into the great blue void of the Pacific. What gave them the courage to launch out on such a risky voyage?\n\n(H) The Lapita's thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. Those nagging headwinds, he argues, may have been the key to their success. \"They could sail out for days into the unknown and reconnoiter, secure in the knowledge that if they didn't find anything, they could turn about and catch a swift ride home on the trade winds. It's what made the whole thing work.\" Once out there, skilled seafarers would detect abundant leads to follow to land: seabirds and turtles, coconuts and twigs carried out to sea by the tides, and the afternoon pileup of clouds on the horizon that often betokens an island in the distance. Some islands may have broadcast their presence with far less subtlety than a cloud bank. Some of the most violent eruptions anywhere on the planet during the past 10,000 years occurred in Melanesia, which sits nervously in one of the most explosive volcanic regions on Earth. Even less spectacular eruptions would have sent plumes of smoke billowing into the stratosphere and rained ash for hundreds of miles. It's possible that the Lapita saw these signs of distant islands and later sailed off in their direction, knowing they would find land. For returning explorers, successful or not, the geography of their own archipelagoes provided a safety net to keep them from overshooting their home ports and sailing off into eternity.\n\n(I) However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them. Ahead lay the vast emptiness of the central Pacific, and perhaps they were too thinly stretched to venture farther. They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone. Still, more than a millennium would pass before the Lapita's descendants, a people we now call the Polynesians, struck out in search of new territory."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Scientific Evident found in Efate site",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-151-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What did the Lapita travel in when they crossed the oceans? ______",
+          "answer": "Canoes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "In Irwins's view, what would the Latipa have relied on to bring them fast back to the base? ______",
+          "answer": "(the) trade winds",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Which sea creatures would have been an indication to the Lapita of where to find land? ______",
+          "answer": "seabirds and turtles",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Scientific Evident found in Efate site",
+        "text": "Tests show the human remains and the charcoal found in the buried um are from the start of the Lapita period. Yet the (8)………………..covering many of the Efate site did not come from that area. Then examinations carried out on the (9)………………….discovered at Efate site reveal that not everyone buried there was a native living in the area. In fact, DNA could identify the Lapita's nearest present-days (10)………………."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Does An IQ Test Prove Creativity?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-151-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "High IQ guarantees better creative ability in one person than that who achieves an average score in an IQ test.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q15",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In a competitive society, individuals' language proficiency is more important than other abilities.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q16",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A wider range of resources and knowledge can be integrated by more creative people into bringing about creative approaches.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q17",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "A creative person not necessarily suffers more mental illness.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Instead of producing the negative mood, a shift of mood state might be the one important factor of inducing a creative thinking.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Where the more positive moods individuals achieve, there is higher creativity in organizations.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Good interpersonal relationship and trust contribute to a person with more creativity.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Creativity demands an ability that can easily change among different kinds of thinking.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q22",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Certain creative mind can be upgraded if we are put into more practice in assessing and processing ideas.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "But what of the creative act itself? In 1978, Colin Martindale made records of pattern of brain waves as people made up stories by applying a system constituted of many ______The two phrases of creativity, such as (24) ______were found. While people were still planning their stories, their brains shows little active sign and the mental activity was showed a very relaxed state as the same sort of brain activity as in sleep, dreaming or rest. However, experiment proved the signal of (25) ______went down and the brain became busier, revealing increased cortical arousal, when these people who were in a laidback state were required to produce their stories. Strikingly, it was found the person who was perceived to have the greatest (26) ______in brain activity between two stages, produced storylines with highest level of creativity.",
+          "answer": "scalp electrodes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "But what of the creative act itself? In 1978, Colin Martindale made records of pattern of brain waves as people made up stories by applying a system constituted of many (23) ______The two phrases of creativity, such as ______were found. While people were still planning their stories, their brains shows little active sign and the mental activity was showed a very relaxed state as the same sort of brain activity as in sleep, dreaming or rest. However, experiment proved the signal of (25) ______went down and the brain became busier, revealing increased cortical arousal, when these people who were in a laidback state were required to produce their stories. Strikingly, it was found the person who was perceived to have the greatest (26) ______in brain activity between two stages, produced storylines with highest level of creativity.",
+          "answer": "inspiration and elaboration",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "But what of the creative act itself? In 1978, Colin Martindale made records of pattern of brain waves as people made up stories by applying a system constituted of many (23) ______The two phrases of creativity, such as (24) ______were found. While people were still planning their stories, their brains shows little active sign and the mental activity was showed a very relaxed state as the same sort of brain activity as in sleep, dreaming or rest. However, experiment proved the signal of ______went down and the brain became busier, revealing increased cortical arousal, when these people who were in a laidback state were required to produce their stories. Strikingly, it was found the person who was perceived to have the greatest (26) ______in brain activity between two stages, produced storylines with highest level of creativity.",
+          "answer": "alpha wave activity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "But what of the creative act itself? In 1978, Colin Martindale made records of pattern of brain waves as people made up stories by applying a system constituted of many (23) ______The two phrases of creativity, such as (24) ______were found. While people were still planning their stories, their brains shows little active sign and the mental activity was showed a very relaxed state as the same sort of brain activity as in sleep, dreaming or rest. However, experiment proved the signal of (25) ______went down and the brain became busier, revealing increased cortical arousal, when these people who were in a laidback state were required to produce their stories. Strikingly, it was found the person who was perceived to have the greatest ______in brain activity between two stages, produced storylines with highest level of creativity.",
+          "answer": "difference",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A reference of rate of reduction in forest habitats",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            },
+            {
+              "id": "G",
+              "text": "G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "An area where only one species of monkey survived while other two species vanished",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "A reason for howler monkey of choose new leaves as food over old ones",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Mention to howler monkey's diet and eating habits",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A reference of asking farmers' changing attitude toward wildlife",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            },
+            {
+              "id": "H",
+              "text": "H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The advantage for howler monkey's flexibility living in a segmented habitat",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jamison"
+            },
+            {
+              "id": "B",
+              "text": "Jordan Peterson"
+            },
+            {
+              "id": "C",
+              "text": "Guy Claxton"
+            },
+            {
+              "id": "D",
+              "text": "Howard-Jone"
+            },
+            {
+              "id": "E",
+              "text": "Teresa Amabile"
+            },
+            {
+              "id": "F",
+              "text": "Vera John-Steiner"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A place where howler monkeys benefit to the local region's agriculture",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hacienda La Pacifica"
+            },
+            {
+              "id": "B",
+              "text": "Santa Rosa National Park"
+            },
+            {
+              "id": "C",
+              "text": "A cacao plantation in Tabasco, Mexico"
+            },
+            {
+              "id": "D",
+              "text": "Estacion de Biologia Los Tuxtlas in Veracruz, Mexico"
+            },
+            {
+              "id": "E",
+              "text": "Amazon Basin"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A place where it is the original home for all three native monkeys",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hacienda La Pacifica"
+            },
+            {
+              "id": "B",
+              "text": "Santa Rosa National Park"
+            },
+            {
+              "id": "C",
+              "text": "A cacao plantation in Tabasco, Mexico"
+            },
+            {
+              "id": "D",
+              "text": "Estacion de Biologia Los Tuxtlas in Veracruz, Mexico"
+            },
+            {
+              "id": "E",
+              "text": "Amazon Basin"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A place where capuchins monkey comes for a better habitat",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hacienda La Pacifica"
+            },
+            {
+              "id": "B",
+              "text": "Santa Rosa National Park"
+            },
+            {
+              "id": "C",
+              "text": "A cacao plantation in Tabasco, Mexico"
+            },
+            {
+              "id": "D",
+              "text": "Estacion de Biologia Los Tuxtlas in Veracruz, Mexico"
+            },
+            {
+              "id": "E",
+              "text": "Amazon Basin"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Howlers live between in La Pacifica since they can feed themselves with leaves when ______is not easily found. Howlers have better ability to alleviate the (37) ______ which old and young trees used to protect themselves. When compared to that of spider monkeys and capuchin monkeys, the (38) ______rate of howlers is relatively faster (round for just every 2 years). The monkeys can survive away from open streams and water holes as the leaves howlers eat hold high content of (39) ______which helps them to resist the continuous (40) ______in Guanacaste.",
+          "answer": "Fruit",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Howlers live between in La Pacifica since they can feed themselves with leaves when (36) ______is not easily found. Howlers have better ability to alleviate the ______ which old and young trees used to protect themselves. When compared to that of spider monkeys and capuchin monkeys, the (38) ______rate of howlers is relatively faster (round for just every 2 years). The monkeys can survive away from open streams and water holes as the leaves howlers eat hold high content of (39) ______which helps them to resist the continuous (40) ______in Guanacaste.",
+          "answer": "plant toxins",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Howlers live between in La Pacifica since they can feed themselves with leaves when (36) ______is not easily found. Howlers have better ability to alleviate the (37) ______ which old and young trees used to protect themselves. When compared to that of spider monkeys and capuchin monkeys, the ______rate of howlers is relatively faster (round for just every 2 years). The monkeys can survive away from open streams and water holes as the leaves howlers eat hold high content of (39) ______which helps them to resist the continuous (40) ______in Guanacaste.",
+          "answer": "reproductive/birth",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Howlers live between in La Pacifica since they can feed themselves with leaves when (36) ______is not easily found. Howlers have better ability to alleviate the (37) ______ which old and young trees used to protect themselves. When compared to that of spider monkeys and capuchin monkeys, the (38) ______rate of howlers is relatively faster (round for just every 2 years). The monkeys can survive away from open streams and water holes as the leaves howlers eat hold high content of ______which helps them to resist the continuous (40) ______in Guanacaste.",
+          "answer": "water",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-151-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Howlers live between in La Pacifica since they can feed themselves with leaves when (36) ______is not easily found. Howlers have better ability to alleviate the (37) ______ which old and young trees used to protect themselves. When compared to that of spider monkeys and capuchin monkeys, the (38) ______rate of howlers is relatively faster (round for just every 2 years). The monkeys can survive away from open streams and water holes as the leaves howlers eat hold high content of (39) ______which helps them to resist the continuous ______in Guanacaste.",
+          "answer": "drought",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Does An IQ Test Prove Creativity?",
+        "text": "Everyone has creativity, some a lot more than others. The development of humans, and possibly the universe, depends on it. Yet creativity is an elusive creature. What do we mean by it? What is going on in our brains when ideas form? Does it feel the same for artists and scientists? We asked writers and neuroscientists, pop stars and AI gurus to try to deconstruct the creative process-and learn how we can all ignite the spark within.\n\n(A) In the early 1970s, creativity was still seen as a type of intelligence. But when more subtle tests of IQ and creative skills were developed in the 1970s, particularly by the father of creativity testing, Paul Torrance, it became clear that the link was not so simple. Creative people are intelligent, in terms of IQ tests at least, but only averagely or just above. While it depends on the discipline, in general beyond a certain level IQ does not help boost creativity; it is necessary but not sufficient to make someone creative.\n\n(B) Because of the difficulty of studying the actual process, most early attempts to study creativity concentrated on personality. According to creativity specialist Mark Runco of California State University, Fullerton, the \"creative personality\" tends to place a high value on aesthetic qualities and to have broad interests, providing lots of resources to draw on and knowledge to recombine into novel solutions. \"Creatives\" have an attraction to complexity and an ability to handle conflict. They are also usually highly self-motivated, perhaps even a little obsessive. Less creative people, on the other hand, tend to become irritated if they cannot immediately fit all the pieces together. They are less tolerant of confusion. Creativity comes to those who wait, but only to those who are happy to do so in a bit of a fog.\n\n(C) But there may be a price to pay for having a creative personality. For centuries, a link has been made between creativity and mental illness. Psychiatrist Jamison of Johns Hopkins University in Baltimore, Maryland, found that established artists are significantly more likely to have mood disorders. But she also suggests that a change of mood state might be the key to triggering a creative event, rather than the negative mood itself. Intelligence can help channel this thought style into great creativity, but when combined with emotional problems, lateral, divergent or open thinking can lead to mental illness instead.\n\n(D) Jordan Peterson, a psychologist at the University of Toronto, Canada, believes he has identified a mechanism that could help explain this. He says that the brains of creative people seem more open to incoming stimuli than less creative types. Our senses are continuously feeding a mass of information into our brains, which have to block or ignore most of it to save us from being snowed under. Peterson calls this process latent inhibition, and argues that people who have less of it, and who have a reasonably high IQ with a good working memory can juggle more of the data, and so may be open to more possibilities and ideas. The downside of extremely low latent inhibition may be a confused thought style that predisposes people to mental illness. So for Peterson, mental illness is not a prerequisite for creativity, but it shares some cognitive traits.\n\n(E) But what of the creative act itself? One of the first studies of the creative brain at work was by Colin Martindale, a psychologist from the University of Maine in Orono. Back in 1978, he used a network of scalp electrodes to record an electroencephalogram, a record of the pattern of brain waves, as people made up stories. Creativity has two stages: inspiration and elaboration, each characterised by very different states of mind. While people were dreaming up their stories, he found their brains were surprisingly quiet. The dominant activity was alpha waves, indicating a very low level of cortical arousal: a relaxed state, as though the conscious mind was quiet while the brain was making connections behind the scenes. It's the same sort of brain activity as in some stages of sleep, dreaming or rest, which could explain why sleep and relaxation can help people be creative. However, when these quiet minded people were asked to work on their stories, the alpha wave activity dropped off and the brain became busier, revealing increased cortical arousal, more corralling of activity and more organised thinking. Strikingly, it was the people who showed the biggest difference in brain activity between the inspiration and development stages who produced the most creative storylines. Nothing in their background brain activity marked them as creative or uncreative. \"It's as if the less creative person can't shift gear,\" says Guy Claxton, a psychologist at the University of Bristol, UK. \"Creativity requires different kinds of thinking. Very creative people move between these states intuitively.\" Creativity, it seems, is about mental flexibility: perhaps not a two-step process, but a toggling between two states. In a later study, Martindale found that communication between the sides of the brain is also important.\n\n(F) Paul Howard-Jones, who works with Claxton at Bristol, believes he has found another aspect of creativity. He asked people to make up a story based on three words and scanned their brains using functional magnetic resonance imaging. In one trial, people were asked not to try too hard and just report the most obvious story suggested by the words. In another, they were asked to be inventive. He also varied the words so it was easier or harder to link them. As people tried harder and came up with more creative tales, there was a lot more activity in a particular prefrontal brain region on the right-hand side. These regions are probably important in monitoring for conflict, helping us to filter out many of of combining the words and allowing us to pull out just the desirable connections, Howard-Jones suggests. It shows that there is another side to creativity, he says. The story-making task, particularly when we are stretched, produces many options which we have to assess. So part of creativity is a conscious process of evaluating and analysing ideas. The test also shows that the more we try and are stretched, the more creative our minds can be.\n\n(G) And creativity need not always be a solitary, tortured affair, according to Teresa Amabile of Harvard Business School. Though there is a slight association between solitary writing or painting and negative moods or emotional disturbances, scientific creativity and workplace creativity seem much more likely to occur when people are positive and buoyant .In a decade-long study of real businesses, to be published soon, Amabile found that positive moods relate positively to creativity in organisations, and that the relationship is a simple linear one. Creative thought also improves people's moods, her team found, so the process is circular. Time pressures, financial pressures and hard-earned bonus schemes on the other hand, do not boost workplace creativity: internal motivation, not coercion, produces the best work.\n\n(H) Another often forgotten aspect of creativity is social. Vera John-Steiner of the University of New Mexico says that to be really creative you need strong social networks and trusting relationships, not just active neural networks. One vital characteristic of a highly creative person, she says, is that they have at least one other person in their life who doesn't think they are completely nuts."
+      }
+    }
+  ]
+}

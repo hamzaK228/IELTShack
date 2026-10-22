@@ -1,0 +1,692 @@
+{
+  "id": "pte-listening-42",
+  "title": "Listening — Practice Test 42",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-42-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Annie's mother",
+          "options": [
+            {
+              "id": "A",
+              "text": "has arthritis"
+            },
+            {
+              "id": "B",
+              "text": "is pleased with her new medicine"
+            },
+            {
+              "id": "C",
+              "text": "can hardly move her fingers"
+            },
+            {
+              "id": "D",
+              "text": "needs an operation on her leg"
+            },
+            {
+              "id": "E",
+              "text": "has medical insurance"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Annie's mother",
+          "options": [
+            {
+              "id": "A",
+              "text": "has arthritis"
+            },
+            {
+              "id": "B",
+              "text": "is pleased with her new medicine"
+            },
+            {
+              "id": "C",
+              "text": "can hardly move her fingers"
+            },
+            {
+              "id": "D",
+              "text": "needs an operation on her leg"
+            },
+            {
+              "id": "E",
+              "text": "has medical insurance"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bud's uncle",
+          "options": [
+            {
+              "id": "A",
+              "text": "works at a hospital"
+            },
+            {
+              "id": "B",
+              "text": "will help Annie’s father get a cheap operation"
+            },
+            {
+              "id": "C",
+              "text": "knows some medical staff"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Annie's parents are finding it difficult to pay the ______ and her sister has won a (5)",
+          "answer": "mortgage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Annie's parents are finding it difficult to pay the (4) and her sister has won a ______",
+          "answer": "beauty competition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q6",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bud's cousin",
+          "options": [
+            {
+              "id": "A",
+              "text": "is called Mary"
+            },
+            {
+              "id": "B",
+              "text": "met Annie at Annie's party"
+            },
+            {
+              "id": "C",
+              "text": "works at a hotel"
+            },
+            {
+              "id": "D",
+              "text": "wants to get promoted"
+            },
+            {
+              "id": "E",
+              "text": "is nice to people when she first meets them"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q7",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bud's cousin",
+          "options": [
+            {
+              "id": "A",
+              "text": "is called Mary"
+            },
+            {
+              "id": "B",
+              "text": "met Annie at Annie's party"
+            },
+            {
+              "id": "C",
+              "text": "works at a hotel"
+            },
+            {
+              "id": "D",
+              "text": "wants to get promoted"
+            },
+            {
+              "id": "E",
+              "text": "is nice to people when she first meets them"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bud's father has a ______ to build a supermarket and all his workers have to belong to the (9)",
+          "answer": "big contract",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bud's father has a (8) to build a supermarket and all his workers have to belong to the ______",
+          "answer": "steelworkers unioun",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How many years have Bud's parents been married? ______",
+          "answer": "25 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The manager says people want to save money for retirement, children's education, a ______ and a (12)",
+          "answer": "rainy day",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The manager says people want to save money for retirement, children's education, a (11) and a ______",
+          "answer": "big house",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The manager says how much money one should spend and how much one should save",
+          "options": [
+            {
+              "id": "A",
+              "text": "depends on individual tastes"
+            },
+            {
+              "id": "B",
+              "text": "is clearer as one gets older"
+            },
+            {
+              "id": "C",
+              "text": "depends entirely on how many children one has"
+            },
+            {
+              "id": "D",
+              "text": "should be decided after writing out a budget for daily necessities"
+            },
+            {
+              "id": "E",
+              "text": "partly depends on one's health"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The manager says how much money one should spend and how much one should save",
+          "options": [
+            {
+              "id": "A",
+              "text": "depends on individual tastes"
+            },
+            {
+              "id": "B",
+              "text": "is clearer as one gets older"
+            },
+            {
+              "id": "C",
+              "text": "depends entirely on how many children one has"
+            },
+            {
+              "id": "D",
+              "text": "should be decided after writing out a budget for daily necessities"
+            },
+            {
+              "id": "E",
+              "text": "partly depends on one's health"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does the manager say you should do if you have nearly spent your budget for the month? ______",
+          "answer": "stay at home",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The manager refers to keeping some money in a current account for use in emergencies as a ______",
+          "answer": "safety cushion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "This has been described as a voluntary tax on fools ______",
+          "answer": "government lottery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Blue chip stocks",
+          "options": [
+            {
+              "id": "A",
+              "text": "Best spread of risks to meet investors' objectives"
+            },
+            {
+              "id": "B",
+              "text": "Known, guaranteed returns for fixed period of time"
+            },
+            {
+              "id": "C",
+              "text": "Should be purchased if buyer is optimistic"
+            },
+            {
+              "id": "D",
+              "text": "High risk, potentially high returns"
+            },
+            {
+              "id": "E",
+              "text": "Always mean investment in new, small companies with excellent technologies"
+            },
+            {
+              "id": "F",
+              "text": "Provide steady returns"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Balanced portfolios",
+          "options": [
+            {
+              "id": "A",
+              "text": "Best spread of risks to meet investors' objectives"
+            },
+            {
+              "id": "B",
+              "text": "Known, guaranteed returns for fixed period of time"
+            },
+            {
+              "id": "C",
+              "text": "Should be purchased if buyer is optimistic"
+            },
+            {
+              "id": "D",
+              "text": "High risk, potentially high returns"
+            },
+            {
+              "id": "E",
+              "text": "Always mean investment in new, small companies with excellent technologies"
+            },
+            {
+              "id": "F",
+              "text": "Provide steady returns"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Venture capital investments",
+          "options": [
+            {
+              "id": "A",
+              "text": "Best spread of risks to meet investors' objectives"
+            },
+            {
+              "id": "B",
+              "text": "Known, guaranteed returns for fixed period of time"
+            },
+            {
+              "id": "C",
+              "text": "Should be purchased if buyer is optimistic"
+            },
+            {
+              "id": "D",
+              "text": "High risk, potentially high returns"
+            },
+            {
+              "id": "E",
+              "text": "Always mean investment in new, small companies with excellent technologies"
+            },
+            {
+              "id": "F",
+              "text": "Provide steady returns"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which statements are correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bill and Jane made a video documentary on homeless people"
+            },
+            {
+              "id": "B",
+              "text": "Jane made a video on homeless people"
+            },
+            {
+              "id": "C",
+              "text": "Prof. Edwards is not clear how much his students know about video cameras"
+            },
+            {
+              "id": "D",
+              "text": "Few students have video cameras"
+            },
+            {
+              "id": "E",
+              "text": "Bill have made a video documentary on homeless people"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which statements are correct?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bill and Jane made a video documentary on homeless people"
+            },
+            {
+              "id": "B",
+              "text": "Jane made a video on homeless people"
+            },
+            {
+              "id": "C",
+              "text": "Prof. Edwards is not clear how much his students know about video cameras"
+            },
+            {
+              "id": "D",
+              "text": "Few students have video cameras"
+            },
+            {
+              "id": "E",
+              "text": "Bill have made a video documentary on homeless people"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Edwards thinks he should start his video course by explaining the of video cameras. ______",
+          "answer": "basic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Prof. Edwards say",
+          "options": [
+            {
+              "id": "A",
+              "text": "his students must each have their own video camera"
+            },
+            {
+              "id": "B",
+              "text": "his students cannot all afford to buy video cameras"
+            },
+            {
+              "id": "C",
+              "text": "his students must be creative and plan their video projects properly"
+            },
+            {
+              "id": "D",
+              "text": "his students need to use 3-CCD video cameras"
+            },
+            {
+              "id": "E",
+              "text": "the film department has enough video cameras for his students to use"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Prof. Edwards say",
+          "options": [
+            {
+              "id": "A",
+              "text": "his students must each have their own video camera"
+            },
+            {
+              "id": "B",
+              "text": "his students cannot all afford to buy video cameras"
+            },
+            {
+              "id": "C",
+              "text": "his students must be creative and plan their video projects properly"
+            },
+            {
+              "id": "D",
+              "text": "his students need to use 3-CCD video cameras"
+            },
+            {
+              "id": "E",
+              "text": "the film department has enough video cameras for his students to use"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "indoor stuff ______",
+          "answer": "indoor stuff",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "scenery ______",
+          "answer": "scenery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bill says a small hole in one's pocket is useful for ______",
+          "answer": "secret shooting",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Edwards says filming people without their knowledge raises the question of ______",
+          "answer": "privacy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Jane wants to even filming people without their knowledge ______",
+          "answer": "make good movies",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Roberts says much of history is concerned with conflict over ______ , (32) and (33)",
+          "answer": "religion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Roberts says much of history is concerned with conflict over (31) , ______ and (33)",
+          "answer": "economic power",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Roberts says much of history is concerned with conflict over (31) , (32) and ______",
+          "answer": "land",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Prof Roberts implies that the concept of 'hurting others'",
+          "options": [
+            {
+              "id": "A",
+              "text": "is always perfectly clear"
+            },
+            {
+              "id": "B",
+              "text": "is open to different interpretations"
+            },
+            {
+              "id": "C",
+              "text": "becomes an issue when there is no control by government"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Prof. Roberts says",
+          "options": [
+            {
+              "id": "A",
+              "text": "some native Americans were thieves"
+            },
+            {
+              "id": "B",
+              "text": "the concept of personal ownership is universal"
+            },
+            {
+              "id": "C",
+              "text": "the concept of ownership is now here to stay"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Many classical economists considered private land ownership a ______",
+          "answer": "necessary evil",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Keeping land in good condition for the future is the concept of ______",
+          "answer": "stewardship",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The need to protect has led to increased restrictions on landowners' rights in some countries ______",
+          "answer": "biodiversity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Prof. Roberts believes that is usually the best way to protect natural resources ______",
+          "answer": "local ownership",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-42-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main difference between freehold and leasehold is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the duration of effective ownership"
+            },
+            {
+              "id": "B",
+              "text": "one applies to houses and the other to flats"
+            },
+            {
+              "id": "C",
+              "text": "leasehold docs not apply to land"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/42_we.mp3"
+    }
+  ]
+}

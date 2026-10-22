@@ -1,0 +1,718 @@
+{
+  "id": "pte-listening-63",
+  "title": "Listening — Practice Test 63",
+  "kind": "practice",
+  "description": "One recording, 38 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-63-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Facility available: ______",
+          "answer": "swimming pool",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Downstairs: ______",
+          "answer": "dining room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Car park: availability of a large ______",
+          "answer": "garage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Shopping: at the ______",
+          "answer": "local supermarket",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Place for children playing: ______",
+          "answer": "park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Education resources: a ______ in the community",
+          "answer": "primary school",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(including the maintenance fees of the ______ )",
+          "answer": "garden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of house available: ______",
+          "answer": "23 April",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Viewing arrangement (time): meet at ______",
+          "answer": "10.15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: 8 ______",
+          "answer": "spring street",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What's the new improvement about the zoo this time?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The zoo has built a new dog-walking area."
+            },
+            {
+              "id": "B",
+              "text": "The zoo has brought a new batch of animals"
+            },
+            {
+              "id": "C",
+              "text": "The zoo has expanded its exhibition area."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the change for the new regulation enacted in June?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The zoo is not open during the weekdays."
+            },
+            {
+              "id": "B",
+              "text": "Visitors are allowed to feed the animals at night"
+            },
+            {
+              "id": "C",
+              "text": "Visitors are allowed to see the animals until the late night."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "While visiting the kangaroo, which behaviour is forbidden?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Photo-taking"
+            },
+            {
+              "id": "B",
+              "text": "Shouting"
+            },
+            {
+              "id": "C",
+              "text": "Feeding"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why is the pye-dog zone temporarily closed?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Because the fence is broken."
+            },
+            {
+              "id": "B",
+              "text": "Because the pye-dogs are in hibernation"
+            },
+            {
+              "id": "C",
+              "text": "Because the pye-dog zone is under construction."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Where can the visitors buy the discounted ticket?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Gift shop"
+            },
+            {
+              "id": "B",
+              "text": "Photo shop"
+            },
+            {
+              "id": "C",
+              "text": "Reception desk"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Bird hide ______",
+          "answer": "G",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            },
+            {
+              "id": "G",
+              "text": "Option G"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-63-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Pye-dog zone",
+          "options": [
+            {
+              "id": "A",
+              "text": "air pollution"
+            },
+            {
+              "id": "B",
+              "text": "soil erosion"
+            },
+            {
+              "id": "C",
+              "text": "overgrazing"
+            },
+            {
+              "id": "D",
+              "text": "forest exploitation"
+            },
+            {
+              "id": "E",
+              "text": "water pollution"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Rest area",
+          "options": [
+            {
+              "id": "A",
+              "text": "air pollution"
+            },
+            {
+              "id": "B",
+              "text": "soil erosion"
+            },
+            {
+              "id": "C",
+              "text": "overgrazing"
+            },
+            {
+              "id": "D",
+              "text": "forest exploitation"
+            },
+            {
+              "id": "E",
+              "text": "water pollution"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q19",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Kangaroo visiting site ______",
+          "answer": "F",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            },
+            {
+              "id": "F",
+              "text": "Option F"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-63-q20",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Photo shop",
+          "options": [
+            {
+              "id": "A",
+              "text": "air pollution"
+            },
+            {
+              "id": "B",
+              "text": "soil erosion"
+            },
+            {
+              "id": "C",
+              "text": "overgrazing"
+            },
+            {
+              "id": "D",
+              "text": "forest exploitation"
+            },
+            {
+              "id": "E",
+              "text": "water pollution"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The course has improved the environment since",
+          "options": [
+            {
+              "id": "A",
+              "text": "it was regulated by law."
+            },
+            {
+              "id": "B",
+              "text": "more students were involved."
+            },
+            {
+              "id": "C",
+              "text": "more species were brought from other places."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is the biggest reason why the organisation improved greatly?",
+          "options": [
+            {
+              "id": "A",
+              "text": "It was funded by a private investor"
+            },
+            {
+              "id": "B",
+              "text": "It sold out its shares."
+            },
+            {
+              "id": "C",
+              "text": "It got the governmental fund in the first year."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is suggested from the reports?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Resources still need management."
+            },
+            {
+              "id": "B",
+              "text": "Teachers and the students have benefitted from the field trips."
+            },
+            {
+              "id": "C",
+              "text": "The environment has been terribly damaged."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Who did obtain the special experience from the field trip carried out by the organisation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "students"
+            },
+            {
+              "id": "B",
+              "text": "teachers"
+            },
+            {
+              "id": "C",
+              "text": "researchers"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO problems does the report focus on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "air pollution"
+            },
+            {
+              "id": "B",
+              "text": "soil erosion"
+            },
+            {
+              "id": "C",
+              "text": "overgrazing"
+            },
+            {
+              "id": "D",
+              "text": "forest exploitation"
+            },
+            {
+              "id": "E",
+              "text": "water pollution"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO problems does the report focus on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "air pollution"
+            },
+            {
+              "id": "B",
+              "text": "soil erosion"
+            },
+            {
+              "id": "C",
+              "text": "overgrazing"
+            },
+            {
+              "id": "D",
+              "text": "forest exploitation"
+            },
+            {
+              "id": "E",
+              "text": "water pollution"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO benefits of this activity to the students are mentioned by the professor?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they become more punctual"
+            },
+            {
+              "id": "B",
+              "text": "they feel more confident"
+            },
+            {
+              "id": "C",
+              "text": "they get practical experience"
+            },
+            {
+              "id": "D",
+              "text": "they learn how to collect data"
+            },
+            {
+              "id": "E",
+              "text": "they know the importance of environment protection"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO benefits of this activity to the students are mentioned by the professor?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they become more punctual"
+            },
+            {
+              "id": "B",
+              "text": "they feel more confident"
+            },
+            {
+              "id": "C",
+              "text": "they get practical experience"
+            },
+            {
+              "id": "D",
+              "text": "they learn how to collect data"
+            },
+            {
+              "id": "E",
+              "text": "they know the importance of environment protection"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO things will the woman do in the rest of the time when no activities are going on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "read more reference books"
+            },
+            {
+              "id": "B",
+              "text": "study in library"
+            },
+            {
+              "id": "C",
+              "text": "interview some teachers"
+            },
+            {
+              "id": "D",
+              "text": "participate in one of fun hobbies"
+            },
+            {
+              "id": "E",
+              "text": "join in some tutorials"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What TWO things will the woman do in the rest of the time when no activities are going on?",
+          "options": [
+            {
+              "id": "A",
+              "text": "read more reference books"
+            },
+            {
+              "id": "B",
+              "text": "study in library"
+            },
+            {
+              "id": "C",
+              "text": "interview some teachers"
+            },
+            {
+              "id": "D",
+              "text": "participate in one of fun hobbies"
+            },
+            {
+              "id": "E",
+              "text": "join in some tutorials"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The most important principal of the company is to improve the ______ development of camera technology.",
+          "answer": "present",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• It was founded by Dwayne Roberts in 1957 and mainly explore ______",
+          "answer": "new facts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• discovering ______",
+          "answer": "other planets",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• searching plants in the rainforest to experiment ______",
+          "answer": "future medicine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• distributing more across the road network to control ______",
+          "answer": "traffic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• ______ are the best sellers in the company.",
+          "answer": "toys",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• They are designed to look like ______",
+          "answer": "animals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The company is working on a tiny ______ to change the way people see photography.",
+          "answer": "camera",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Surgeries could be faster and more ______",
+          "answer": "efficient",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-63-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• To get it, the students can participate in the ______ organised by the company every year.",
+          "answer": "competitions",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/63_we.mp3"
+    }
+  ]
+}

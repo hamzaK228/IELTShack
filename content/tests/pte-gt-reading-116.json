@@ -1,0 +1,667 @@
+{
+  "id": "pte-gt-reading-116",
+  "title": "General Training Reading — Practice Test 116",
+  "kind": "practice",
+  "description": "6 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Local campsites",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q1",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The site is impossible to get to at certain times. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q2",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "It is in a convenient place for going by car to various tourist spots. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q3",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You should camp somewhere inside the marked zone. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q4",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Campers who enjoy a particular physical challenge come here. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q5",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "The difficult journey to the site is worth the effort. ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q6",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Few people have heard of this site. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q7",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "Some physical effort is needed to enjoy nearby coastal areas. ______",
+          "answer": "B",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Local campsites",
+        "text": "(A) Prettycoat Farm This well-known campsite in the wild near Browbourne is a winner with campers who are looking for time out from their fast-paced jobs in the capital. Despite its limited facilities, the site, with its large tent pitches, is an ideal base for exploring the area and driving to the rock museum, the craft workshops or Gaydon Castle. Just follow the signs.\n\n(B) Newgammon Wild This campsite looks like it's going to be a winner. It only opened last year, but already the website has some very positive reviews from the handful of campers who know about it so far. It offers splendid views over some of the country's most attractive beaches, which can be accessed by steep, narrow cliff steps. You need a good level of fitness for these, and don't forget to leave some energy for the return trip at the end of the day.\n\n(C) Oakerly Estate You won't be disappointed when you reach Oakerly, despite the problems of getting there by car on such narrow roads. You'll see quite a lot of motorhomes when you hit the clifftop, but there's still plenty of room for tents on the spacious lawn that also offers a camp kitchen, restaurant and bar. Make sure you stay safe and pitch your tent within the white line around the cliff edge, though.\n\n(D) South Turnbull The emphasis at this site is on back-to-basics camping. It's advisable to come in a group as there are few facilities and you need to do all your own cooking. The area is rather exposed, and in periods of bad weather it can't be reached at all so check on the website before you go.\n\n(E) Boxer Trepis The 20-metre high rockfaces that surround this site are especially attractive to rock climbers, who come here to camp from hundreds of miles away so that they can attempt the climb – and not always with success, according to the website! It's not compulsory, of course, and there are plenty of other activities for campers to get involved in, such as birdwatching and bathing in the sea."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: Durridge Heights (DH) Newsletter",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The water penetration in some flats is being treated as an emergency.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The southern wall will undergo a permanent repair this year.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some people have failed to pay attention to 'wet paint' signs.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Air fresheners have caused some damage in the past.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Residents are responsible for removing their own rubbish from the building.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some residents have reported problems with noisy neighbours.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q14",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "DIY can take place outside the stated hours if your neighbour agrees.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Durridge Heights (DH) Newsletter",
+        "text": "Newsletter for people living in the seven-storey block of flats at Durridge Heights\n\nDear Residents\n\nWater penetration As a result of the recent heavy rains, water has seeped through the walls of some flats and reached a critical level. A decision has been taken to deal with this immediately. Scaffolding will be put up on the middle section of the southern wall, and the brickwork there will be sealed temporarily with a waterproof covering to prevent any further water getting in until the major building works take place next year.\n\nFire safety Following our fire safety inspection, the front doors of individual flats were upgraded or replaced in order to satisfy fire safety regulations. As advised in the previous Newsletter, the decoration of the hall side of the front doors will be incorporated into the Fire Safety Project and will be carried out in due course by the company PRQ Builders.\n\nInternal redecorations The corridor walls on the inside of the building are redecorated every three years on a rolling basis and are being done this year. Please look out for signs indicating where the paint is wet. If you have children, make sure they keep away from the walls. DH cannot be held responsible for any spoilt clothing.\n\nAir fresheners We have received a small number of complaints about smells in the corridors. DH installed air fresheners some years ago. However, they were costly and the liquid in their spray stained the carpets. At present, we would prefer to ask residents to make sure smells cannot escape their front door and to seal rubbish bags when they put them in the corridor for collection and disposal by the caretaker.\n\nNoise and DIY While most leaseholders observe the regulations on noise, we have received complaints from others about out-of-hours drilling. Please note that any work involving hammers or electrical tools can only take place between 9.00 am and 5.30 pm on weekdays and between 9.00 am and 12.30 pm on a Saturday. There can be no exceptions to this rule. If you are planning to undertake such work during these hours, it is still polite to inform your neighbours of this so that they can make any necessary arrangements."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: A day in the life of a care worker",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• It's an early start for the first client. You may have to help the client get up and dressed if they have a ______ that makes this challenging",
+          "answer": "Condition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The next task may be cooking breakfast and it's nice to have some ______ at this time",
+          "answer": "Conversation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• It may be a good idea to do some housework after this such as ______ and washing up",
+          "answer": "Hoovering",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q18",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• You may then visit a second client and help them get a ______ lunch ready",
+          "answer": "Healthy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Lunch may be followed by some ______",
+          "answer": "Shopping",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• Afterwards a third client may need help with an activity that involves going out of their home such as doing their ______",
+          "answer": "Laundry",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "A day in the life of a care worker",
+        "text": "Care workers in Britain provide elderly and disabled people with the opportunity to remain independent at home, rather than moving into a care home. For those interested in the work, here is what a typical day could be like for a trained care worker Care workers often start early, as the first client of the day may need help getting out of bed and putting on their clothes; they may suffer from a condition that prevents them from doing this easily. Providing these services helps clients to look and feel as good as possible when beginning their day. The care worker may then help to cook breakfast for the client, and this is often a good time to enjoy a conversation and catch up on how they are feeling. Many clients appreciate being able to chat to someone regularly, as some may have no family members or friends living nearby. Next, the care worker may take the opportunity to do some basic housework for the client. Housework is often something that elderly people or people with disabilities may not be able to do themselves. Even something as simple as hoovering the living room can make a huge difference to a client's day. Of course, there may be the breakfast dishes to do as well. Later in the morning, the care worker may move on to another client in order to help them prepare their midday meal. Care workers try to ensure this is healthy because it is so important to keep clients fit and well. When that's finished, the care worker may help the client to carry out their shopping by going with them to the local supermarket. During the afternoon, a care worker may help a third client with an outdoor activity, which could involve going for a short walk in the local area or taking the laundry to the launderette. Elderly people may not feel confident going far on their own, so having company can be a great help. The care worker may participate in cooking dinner with their last client and, before going home, they may also get out their client's medication. This ensures the client remembers to take it before going to bed."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: How to find a good balance between your work and your personal life",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People who cut down the hours they work gain most from feeling better physically and experiencing an increased sense of ______",
+          "answer": "Wellbeing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is important that those who work at desks avoid ______ by checking their chair, work surface and screen are in the best position.",
+          "answer": "Injuries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Having targets to work towards is useful but they should be ______",
+          "answer": "Realistic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "When there are many different tasks to do, the ability to ______ them is vital.",
+          "answer": "Prioritize/ prioritise",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People who give up all treats in their personal time may find their ______ decreases.",
+          "answer": "Productivity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "It is wise to use the full amount of ______ allowance every year.",
+          "answer": "Holiday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q27",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Making time to do things with close companions, relatives or ______ is a great way to relax.",
+          "answer": "Pets",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "How to find a good balance between your work and your personal life",
+        "text": "(A) good work-life balance is beneficial to everyone. But how can it be achieved? The first step is to take a serious look at the amount of time you are devoting to work and set about reducing it. The main benefit most people notice once they stop working too much is an improvement in their general health and wellbeing.\n\nTips for a healthy work-life balance\n\n(A) recent study showed office workers spend approximately 1,700 hours a year in front of a computer. Ensure that your workstation is set up so you're as comfortable as possible and this will help to minimise the chance of any injuries. Whether it's making a hot drink, going for a walk or simply chatting with a colleague, regular breaks are vital. Your brain needs a break roughly every 90 minutes or concentration declines, leaving you with difficulty focusing and feeling sleepy. Setting goals for both your professional and persona! life is great. Remember though, to make these realistic, because setting an unattainable goal is the quickest way to damage your confidence. Activities such as sports and gymnastics are known to decrease tension and increase endurance, two important factors towards achieving a healthy work-life balance. They also boost your belief that you can do whatever you are faced with. Sometimes it's easier said than done, but if you're juggling numerous pieces of work on a daily basis, learning to prioritise is key. Try to break down your work into various categories, depending on how urgent and important each piece of work is. This will help you to plan your day and achieve more. Ensure you have time to do the things that make you happy. If you've got nothing nice to look forward to and can only see a long line of work days ahead of you, this can easily become overwhelming and ultimately hinder your productivity. It's there for a reason and there are no prizes for giving it up, so make sure you take your annual holiday entitlement. You don't have to be going on an exotic foreign trip – maybe you just fancy a rest day watching films or you want to take some time off to spend with a friend you don't see enough. Family, friends and favourite pets are the ultimate life enhancers. From evenings out to simply taking a walk in the sunshine, spending time with the ones you love is the best way to unwind fully and feel the effects of a good work-life balance."
+      }
+    },
+    {
+      "id": "passage-5",
+      "skill": "reading",
+      "title": "Reading — Text 5: City's 'Henry' programme gives children choices while helping parents stay in the driving seat",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the first paragraph, what does the writer say about Amsterdam?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Its ‘Henry’ programme was recommended to Leeds experts."
+            },
+            {
+              "id": "B",
+              "text": "It was the first world city to reduce obesity levels in children."
+            },
+            {
+              "id": "C",
+              "text": "It has experienced more severe childhood obesity levels than Leeds."
+            },
+            {
+              "id": "D",
+              "text": "Its pattern of success in cutting childhood obesity is like that of Leeds."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "How did Susan Jebb respond to the fall in childhood obesity among poorer children in Leeds?",
+          "options": [
+            {
+              "id": "A",
+              "text": "She said she had expected it."
+            },
+            {
+              "id": "B",
+              "text": "She said she was amazed by the figures."
+            },
+            {
+              "id": "C",
+              "text": "She wanted to review some of her team’s data."
+            },
+            {
+              "id": "D",
+              "text": "She felt some results were more interesting than others."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the writer, the NCMP data indicate that",
+          "options": [
+            {
+              "id": "A",
+              "text": "children should be weighed more frequently."
+            },
+            {
+              "id": "B",
+              "text": "most primary school children need to lose weight."
+            },
+            {
+              "id": "C",
+              "text": "children from wealthy families have less weight to lose than others."
+            },
+            {
+              "id": "D",
+              "text": "the youngest children show the highest levels of weight loss."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "What links the 15 places listed in the third paragraph?",
+          "options": [
+            {
+              "id": "A",
+              "text": "They are not representative of the country overall."
+            },
+            {
+              "id": "B",
+              "text": "They all joined the ‘Henry’ programme at the same time."
+            },
+            {
+              "id": "C",
+              "text": "Their childhood obesity levels have remained the same since 2009."
+            },
+            {
+              "id": "D",
+              "text": "They are battling childhood obesity in a different way from Leeds."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The aim in Leeds was to take steps to stop weight gain among children before it became a real problem.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan Jebb"
+            },
+            {
+              "id": "B",
+              "text": "Kim Roberts"
+            },
+            {
+              "id": "C",
+              "text": "Janice Burberry"
+            },
+            {
+              "id": "D",
+              "text": "Seema Kennedy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Childhood obesity levels in Leeds have fallen consistently over a period of time.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan Jebb"
+            },
+            {
+              "id": "B",
+              "text": "Kim Roberts"
+            },
+            {
+              "id": "C",
+              "text": "Janice Burberry"
+            },
+            {
+              "id": "D",
+              "text": "Seema Kennedy"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Something that simplifies the struggle to get children to eat well is very helpful to parents.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan Jebb"
+            },
+            {
+              "id": "B",
+              "text": "Kim Roberts"
+            },
+            {
+              "id": "C",
+              "text": "Janice Burberry"
+            },
+            {
+              "id": "D",
+              "text": "Seema Kennedy"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q35",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Parents in general are realistic about their potential to make changes to their children's lifestyle. List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Susan Jebb"
+            },
+            {
+              "id": "B",
+              "text": "Kim Roberts"
+            },
+            {
+              "id": "C",
+              "text": "Janice Burberry"
+            },
+            {
+              "id": "D",
+              "text": "Seema Kennedy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "'Henry' was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm ______ during these periods. According to Kim Roberts, 'Henry' aims to help people become more (37) ______ as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a (38) ______ parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a (39) ______ should be enjoyed in the evening. Lisa, a parent who joined the programme, felt enthusiastic about her children's responses to it and the effect it had overall on her family.",
+          "answer": "Boundaries",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "'Henry' was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm (36) ______ during these periods. According to Kim Roberts, 'Henry' aims to help people become more ______ as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a (38) ______ parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a (39) ______ should be enjoyed in the evening. Lisa, a parent who joined the programme, felt enthusiastic about her children's responses to it and the effect it had overall on her family.",
+          "answer": "Authoritative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "'Henry' was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm (36) ______ during these periods. According to Kim Roberts, 'Henry' aims to help people become more (37) ______ as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a ______ parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a (39) ______ should be enjoyed in the evening. Lisa, a parent who joined the programme, felt enthusiastic about her children's responses to it and the effect it had overall on her family.",
+          "answer": "Permissive",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-116-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "'Henry' was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm (36) ______ during these periods. According to Kim Roberts, 'Henry' aims to help people become more (37) ______ as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a (38) ______ parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a ______ should be enjoyed in the evening. Lisa, a parent who joined the programme, felt enthusiastic about her children's responses to it and the effect it had overall on her family.",
+          "answer": "Story",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p5",
+        "title": "City's 'Henry' programme gives children choices while helping parents stay in the driving seat",
+        "text": "Leeds has become the first city in the UK to report a drop in childhood obesity after introducing a programme called 'Henry' to help parents set boundaries for their children and put them off sweets and junk food. Only a few cities in the world, notably Amsterdam, have managed to cut child obesity. As in Amsterdam, the decline in Leeds is most marked among families living in the most deprived areas, where the problem is worst and hardest to tackle. 'The improvement in the most deprived children in Leeds is startling,' said Susan Jebb, a professor of diet and population health at Oxford University, whose team has analysed the city's data. Over four years, obesity has dropped from 11.5% to 10.5% and the trajectory is steadily downwards. Among the more affluent families, there was also a decline from 6.8% to 6%. Overall the drop was from 9.4% to 8.8%. The data comes from the national child measurement programme (NCMP), which requires all children to be weighed at the start and end of primary school. The biggest decline in obesity in Leeds is 6.4% in the reception class, at about the age of four. No such data has been reported elsewhere in the UK, where childhood obesity is a major concern. The measurement programme shares the progress made in each city with those considered comparable. For Leeds, the 15 closest 'neighbours' at the start of its study period in 2009 were Sheffield, Kirklees, Bristol, Newcastle upon Tyne, Coventry, Bolton, Wakefield, Derby, Bradford, Dudley, Medway, Liverpool, Swindon, County Durham and Warrington. The obesity rates there and across the country have not shifted. Susan Jebb added that the dropping rate in Leeds appeared to be a trend. 'This is four years, not one rogue data point,' she said at the European Congress on Obesity in Glasgow where she presented the research. Jebb, a former government adviser, says they cannot be sure what has turned the tide in Leeds – but it could involve a programme called 'Henry' that the city introduced as the core of its obesity strategy in 2009, focusing particularly on the youngest children and poorest families. 'Henry' (Health, Exercise, Nutrition for the Really Young) supports parents in setting boundaries for their children and taking a positive stance on issues from healthy eating to bedtimes. 'Henry's' chief executive, Kim Roberts, said the drop in obesity in Leeds was 'unprecedented … The indicators are that this isn't happening in other cities'. The programme encourages authoritative rather than authoritarian parenting, she said. 'Authoritarian parenting is when children are told what to eat and what to do, such as being banned from leaving the table until they have eaten their sprouts,' said Roberts. 'Permissive parenting is asking children what they want to do. But 'Henry' encourages a third approach known as authoritative parenting, where parents make it clear they are in charge, but also respond to their children.' Instead of being asked what vegetable they want with dinner, children might be asked whether they would like carrots or broccoli. Instead of being told to go to bed, they are asked where they want to read their story beforehand. Lisa, who joined a 'Henry' parenting course when her oldest daughter was two, is enthusiastic about her family's experience of the programme. She learned a lot about healthy eating, saved money by planning meals and lost two stone herself. 'I think it made me a better parent because of all the parenting skills stuff. I was able to share some of the ideas with my partner and as a result the kids became calmer and happier, which helped us fee! less stressed too,' she said. Janice Burberry, the head of public health at Leeds city council, said the early years were a good time to intervene to support families. 'Parents want to do the best for their children,' she said. 'We wanted to focus on prevention because it's very, very difficult when obesity has taken hold to tackle it. We understand that there is no magic bullet here. Parents are experts in their own lives, and they know what they can and can't achieve. The strategy of 'Henry' is about sitting alongside parents and thinking through what's right for them.' The public health minister, Seema Kennedy, was enthusiastic. 'There are some fantastic pockets of work happening in early years already, and while still in the early phases, it is encouraging to see what can be achieved locally through interventions like this,' she said. 'I know how hard it can be for busy parents to make healthy choices for their families, so anything that can make it easier is a real lifeline.'"
+      }
+    },
+    {
+      "id": "passage-6",
+      "skill": "reading",
+      "title": "Reading — Text 6: The 'Henry' programme",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-116-q40",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Which title is the most suitable for the text?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A look at what ‘Henry’ has achieved in Leeds"
+            },
+            {
+              "id": "B",
+              "text": "‘Henry’s the best,’ according to Leeds children"
+            },
+            {
+              "id": "C",
+              "text": "Leeds parents discuss how ‘Henry’ has helped them"
+            },
+            {
+              "id": "D",
+              "text": "It’s all about saying ‘no’, according to ‘Henry’"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p6",
+        "title": "The 'Henry' programme",
+        "text": "'Henry' was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm (36) ……………. during these periods. According to Kim Roberts, 'Henry' aims to help people become more (37) …………….. as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a (38) ……………. parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a (39) ………………. should be enjoyed in the evening. Lisa, a parent who joined the programme, felt enthusiastic about her children's responses to it and the effect it had overall on her family."
+      }
+    }
+  ]
+}

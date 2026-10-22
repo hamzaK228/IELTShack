@@ -1,0 +1,878 @@
+{
+  "id": "pte-reading-222",
+  "title": "Academic Reading — Practice Test 222",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: nutmeg – a valuable spice",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-222-q1",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The leaves of the tree are ______ in shape",
+          "answer": "Oval",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q2",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The ______ surrounds the fruit and breaks open when the fruit is ripe",
+          "answer": "Husk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q3",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The ______ is used to produce the spice nutmeg",
+          "answer": "Seed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q4",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "• The covering known as the aril is used to produce ______",
+          "answer": "Mace",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "In the Middle Ages, most Europeans knew where nutmeg was grown.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The VOC was the world's first major trading company.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Following the Treaty of Breda, the Dutch had control of all the islands where nutmeg grew.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Middle agesNutmeg was brought to Europe by the ______",
+          "answer": "Arabs",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "17th centuryDemand for nutmeg grew, as it was believed to be effective against the disease known as the ______",
+          "answer": "Plague",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– put ______on nutmeg to avoid it being cultivated outside the islands",
+          "answer": "Lime",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– finally obtained the island of ______from the British",
+          "answer": "Run",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Late 18th century1770 – nutmeg plants were secretly taken to ______",
+          "answer": "Mauritius",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "1778 – half the Banda Islands' nutmeg plantations were destroyed by a ______",
+          "answer": "Tsunami",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "nutmeg – a valuable spice",
+        "text": "The nutmeg tree, Myristica fragrans, is a large evergreen tree native to Southeast Asia. Until the late 18th century, it only grew in one place in the world: a small group of islands in the Banda Sea, part of the Moluccas – or Spice Islands – in northeastern Indonesia. The tree is thickly branched with dense foliage of tough, dark green oval leaves, and produces small, yellow, bell-shaped flowers and pale yellow pear-shaped fruits. The fruit is encased in a fleshy husk. When the fruit is ripe, this husk splits into two halves along a ridge running the length of the fruit. Inside is a purple-brown shiny seed, 2-3 cm long by about 2cm across, surrounded by a lacy red or crimson covering called an 'aril'. These are the sources of the two spices nutmeg and mace, the former being produced from the dried seed and the latter from the aril. Nutmeg was a highly prized and costly ingredient in European cuisine in the Middle Ages, and was used as a flavouring, medicinal, and preservative agent. Throughout this period, the Arabs were the exclusive importers of the spice to Europe. They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity. The Arab-Venetian dominance of the trade finally ended in 1512, when the Portuguese reached the Banda Islands and began exploiting its precious resources. Always in danger of competition from neighbouring Spain, the Portuguese began subcontracting their spice distribution to Dutch traders. Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into one of the largest in the world. The Dutch quietly gained control of most of the shipping and trading of spices in Northern Europe. Then, in 1580, Portugal fell under Spanish rule, and by the end of the 16th century the Dutch found themselves locked out of the market. As prices for pepper, nutmeg, and other spices soared across Europe, they decided to fight back. In 1602, Dutch merchants founded the VOC, a trading corporation better known as the Dutch East India Company. By 1617, the VOC was the richest commercial operation in the world. The company had 50,000 employees worldwide, with a private army of 30,000 men and a fleet of 200 ships. At the same time, thousands of people across Europe were dying of the plague, a highly contagious and deadly disease. Doctors were desperate for a way to stop the spread of this disease, and they decided nutmeg held the cure. Everybody wanted nutmeg, and many were willing to spare no expense to have it. Nutmeg bought for a few pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London. The only problem was the short supply. And that's where the Dutch found their opportunity. The Banda Islands were ruled by local sultans who insisted on maintaining a neutral trading policy towards foreign powers. This allowed them to avoid the presence of Portuguese or Spanish troops on their soil, but it also left them unprotected from other invaders. In 1621, the Dutch arrived and took over. Once securely in control of the Bandas, the Dutch went to work protecting their new investment. They concentrated all nutmeg production into a few easily guarded areas, uprooting and destroying any trees outside the plantation zones. Anyone caught growing a nutmeg seedling or carrying seeds without the proper authority was severely punished. In addition, all exported nutmeg was covered with lime to make sure there was no chance a fertile seed which could be grown elsewhere would leave the islands. There was only one obstacle to Dutch domination. One of the Banda Islands, a sliver of land called Run, only 3 Ion long by less than 1 km wide, was under the control of the British. After decades of fighting for control of this tiny island, the Dutch and British arrived at a compromise settlement, the Treaty of Breda, in 1667. Intent on securing their hold over every nutmeg-producing island, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America. The British agreed. That other island was Manhattan, which is how New Amsterdam became New York. The Dutch now had a monopoly over the nutmeg trade which would last for another century. Then, in 1770, a Frenchman named Pierre Poivre successfully smuggled nutmeg plants to safety in Mauritius, an island off the coast of Africa. Some of these were later exported to the Caribbean where they thrived, especially on the island of Grenada. Next, in 1778, a volcanic eruption in the Banda region caused a tsunami that wiped out half the nutmeg groves. Finally, in 1809, the British returned to Indonesia and seized the Banda Islands by force. They returned the islands to the Dutch in 1817, but not before transplanting hundreds of nutmeg seedlings to plantations in several locations across southern Asia. The Dutch nutmeg monopoly was over. Today, nutmeg is grown in Indonesia, the Caribbean, India, Malaysia, Papua New Guinea and Sri Lanka, and world nutmeg production is estimated to average between 10,000 and 12,000 tonnes per year."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: driverless cars",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-222-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "reference to the amount of time when a car is not in use",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "mention of several advantages of driverless vehicles for individual road-users",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "reference to the opportunity of choosing the most appropriate vehicle for each trip",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an estimate of how long it will take to overcome a number of problems",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a suggestion that the use of driverless cars may have no effect on the number of vehicles manufactured",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q19",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to ______, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for (20) ______ will be more workable, especially in towns and cities, resulting in fewer cars on the road. According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in (21) ______of cars. However, this would mean that the yearly (22) ______ of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing.",
+          "answer": "Human error",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q20",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to (19) ______, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for ______ will be more workable, especially in towns and cities, resulting in fewer cars on the road. According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in (21) ______of cars. However, this would mean that the yearly (22) ______ of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing.",
+          "answer": "Car (-) sharing",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q21",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to (19) ______, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for (20) ______ will be more workable, especially in towns and cities, resulting in fewer cars on the road. According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in ______of cars. However, this would mean that the yearly (22) ______ of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing.",
+          "answer": "Ownership",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q22",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to (19) ______, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for (20) ______ will be more workable, especially in towns and cities, resulting in fewer cars on the road. According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in (21) ______of cars. However, this would mean that the yearly ______ of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing.",
+          "answer": "Mileage",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "driverless cars",
+        "text": "(A) The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves. Research projects on vehicle automation are not new. Vehicles with limited self-driving capabilities have been around for more than 50 years, resulting in significant contributions towards driver assistance systems. But since Google announced in 2010 that it had been trialling self-driving cars on the streets of California, progress in this field has quickly gathered pace.\n\n(B) There are many reasons why technology is advancing so fast. One frequently cited motive is safety; indeed, research at the UK's Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority. Automation may help to reduce the incidence of this. Another aim is to free the time people spend driving for other purposes. If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle. If the vehicle can do the driving, those who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy.\n\n(C) Beyond these direct benefits, we can consider the wider implications for transport and society, and how manufacturing processes might need to respond as a result. At present, the average car spends more than 90 percent of its life parked. Automation means that initiatives for car-sharing become much more viable, particularly in urban areas with significant travel demand. If a significant proportion of the population choose to use shared automated vehicles, mobility demand can be met by far fewer vehicles.\n\n(D) The Massachusetts Institute of Technology investigated automated mobility in Singapore, finding that fewer than 30 percent of the vehicles currently used would be required if fully automated car sharing could be implemented. If this is the case, it might mean that we need to manufacture far fewer vehicles to meet demand. However, the number of trips being taken would probably increase, partly because empty vehicles would have to be moved from one customer to the next. Modelling work by the University of Michigan Transportation Research Institute suggests automated vehicles might reduce vehicle ownership by 43 percent, but that vehicles' average annual mileage would double as a result. As a consequence, each vehicle would be used more intensively, and might need replacing sooner. This faster rate of turnover may mean that vehicle production will not necessarily decrease.\n\n(E) Automation may prompt other changes in vehicle manufacture. If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicles through a mobility provider, drivers will have the freedom to select one that best suits their needs for a particular journey, rather than making a compromise across all their requirements. Since, for most of the time, most of the seats in most cars are unoccupied, this may boost production of a smaller, more efficient range of vehicles that suit the needs of individuals. Specialised vehicles may then be available for exceptional journeys, such as going on a family camping trip or helping a son or daughter move to university.\n\n(F) There are a number of hurdles to overcome in delivering automated vehicles to our roads. These include the technical difficulties in ensuring that the vehicle works reliably in the infinite range of traffic, weather and road situations it might encounter; the regulatory challenges in understanding how liability and enforcement might change when drivers are no longer essential for vehicle operation; and the societal changes that may be required for communities to trust and accept automated vehicles as being a valuable part of the mobility landscape.\n\n(G) It's clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered within the next 10 years. Mobility will change in such potentially significant ways and in association with so many other technological developments, such as telepresence and virtual reality, that it is hard to make concrete predictions about the future. However, one thing is certain: change is coming, and the need to be flexible in response to this will be vital for those involved in manufacturing the vehicles that will deliver future mobility."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: The impact of driverless cars",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-222-q23",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO benefits of automated vehicles does the writer mention?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Car travellers could enjoy considerable cost savings."
+            },
+            {
+              "id": "B",
+              "text": "It would be easier to find parking spaces in urban areas."
+            },
+            {
+              "id": "C",
+              "text": "Travellers could spend journeys doing something other than driving."
+            },
+            {
+              "id": "D",
+              "text": "People who find driving physically difficult could travel independently."
+            },
+            {
+              "id": "E",
+              "text": "A reduction in the number of cars would mean a reduction in pollution."
+            }
+          ],
+          "answer": [
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q24",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "Which TWO benefits of automated vehicles does the writer mention?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Car travellers could enjoy considerable cost savings."
+            },
+            {
+              "id": "B",
+              "text": "It would be easier to find parking spaces in urban areas."
+            },
+            {
+              "id": "C",
+              "text": "Travellers could spend journeys doing something other than driving."
+            },
+            {
+              "id": "D",
+              "text": "People who find driving physically difficult could travel independently."
+            },
+            {
+              "id": "E",
+              "text": "A reduction in the number of cars would mean a reduction in pollution."
+            }
+          ],
+          "answer": [
+            "C",
+            "D"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q25",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "I'd best declare my own bias. As a writer, I'm interested in the exploration of ideas. I've done a great many expeditions and each one was unique. I've lived for months alone with isolated groups of people all around the world, even two 'uncontacted tribes'. But none of these things is of the slightest interest to anyone unless, through my books, I've found a new slant, explored a new idea. Why? Because the world has moved on. The time has long passed for the great continental voyages – another walk to the poles, another crossing of the Empty Quarter. We know how the land surface of our planet lies; exploration of it is now down to the details – the habits of microbes, say, or the grazing behaviour of buffalo. Aside from the deep sea and deep underground, it's the era of specialists. However, this is to disregard the role the human mind has in conveying remote places; and this is what interests me: how a fresh interpretation, even of a well-travelled route, can give its readers new insights.",
+          "options": [
+            {
+              "id": "A",
+              "text": "making sure the general public has confidence in automated vehicles"
+            },
+            {
+              "id": "B",
+              "text": "managing the pace of transition from conventional to automated vehicles"
+            },
+            {
+              "id": "C",
+              "text": "deciding how to compensate professional drivers who become redundant"
+            },
+            {
+              "id": "D",
+              "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+            },
+            {
+              "id": "E",
+              "text": "getting automated vehicles to adapt to various different driving conditions"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q26",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "I'd best declare my own bias. As a writer, I'm interested in the exploration of ideas. I've done a great many expeditions and each one was unique. I've lived for months alone with isolated groups of people all around the world, even two 'uncontacted tribes'. But none of these things is of the slightest interest to anyone unless, through my books, I've found a new slant, explored a new idea. Why? Because the world has moved on. The time has long passed for the great continental voyages – another walk to the poles, another crossing of the Empty Quarter. We know how the land surface of our planet lies; exploration of it is now down to the details – the habits of microbes, say, or the grazing behaviour of buffalo. Aside from the deep sea and deep underground, it's the era of specialists. However, this is to disregard the role the human mind has in conveying remote places; and this is what interests me: how a fresh interpretation, even of a well-travelled route, can give its readers new insights.",
+          "options": [
+            {
+              "id": "A",
+              "text": "making sure the general public has confidence in automated vehicles"
+            },
+            {
+              "id": "B",
+              "text": "managing the pace of transition from conventional to automated vehicles"
+            },
+            {
+              "id": "C",
+              "text": "deciding how to compensate professional drivers who become redundant"
+            },
+            {
+              "id": "D",
+              "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+            },
+            {
+              "id": "E",
+              "text": "getting automated vehicles to adapt to various different driving conditions"
+            }
+          ],
+          "answer": [
+            "A",
+            "E"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer refers to visitors to New York to illustrate the point that",
+          "options": [
+            {
+              "id": "A",
+              "text": "exploration is an intrinsic element of being human."
+            },
+            {
+              "id": "B",
+              "text": "most people are enthusiastic about exploring."
+            },
+            {
+              "id": "C",
+              "text": "exploration can lead to surprising results."
+            },
+            {
+              "id": "D",
+              "text": "most people find exploration daunting."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "According to the second paragraph, what is the writer's view of explorers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Their discoveries have brought both benefits and disadvantages."
+            },
+            {
+              "id": "B",
+              "text": "Their main value is in teaching others."
+            },
+            {
+              "id": "C",
+              "text": "They act on an urge that is common to everyone."
+            },
+            {
+              "id": "D",
+              "text": "They tend to be more attracted to certain professions than to others."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The writer refers to a description of Egdon Heath to suggest that",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hardy was writing about his own experience of exploration."
+            },
+            {
+              "id": "B",
+              "text": "Hardy was mistaken about the nature of exploration."
+            },
+            {
+              "id": "C",
+              "text": "Hardy’s aim was to investigate people’s emotional states."
+            },
+            {
+              "id": "D",
+              "text": "Hardy’s aim was to show the attraction of isolation."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the fourth paragraph, the writer refers to 'a golden age' to suggest that",
+          "options": [
+            {
+              "id": "A",
+              "text": "the amount of useful information produced by exploration has decreased."
+            },
+            {
+              "id": "B",
+              "text": "fewer people are interested in exploring than in the 19th century."
+            },
+            {
+              "id": "C",
+              "text": "recent developments have made exploration less exciting."
+            },
+            {
+              "id": "D",
+              "text": "we are wrong to think that exploration is no longer necessary."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q31",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the sixth paragraph, when discussing the definition of exploration, the writer argues that",
+          "options": [
+            {
+              "id": "A",
+              "text": "people tend to relate exploration to their own professional interests."
+            },
+            {
+              "id": "B",
+              "text": "certain people are likely to misunderstand the nature of exploration."
+            },
+            {
+              "id": "C",
+              "text": "the generally accepted definition has changed over time."
+            },
+            {
+              "id": "D",
+              "text": "historians and scientists have more valid definitions than the general public."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q32",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "In the last paragraph, the writer explains that he is interested in",
+          "options": [
+            {
+              "id": "A",
+              "text": "how someone’s personality is reflected in their choice of places to visit."
+            },
+            {
+              "id": "B",
+              "text": "the human ability to cast new light on places that may be familiar."
+            },
+            {
+              "id": "C",
+              "text": "how travel writing has evolved to meet changing demands."
+            },
+            {
+              "id": "D",
+              "text": "the feelings that writers develop about the places that they explore."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He referred to the relevance of the form of transport used.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peter Fleming"
+            },
+            {
+              "id": "B",
+              "text": "Ran Fiennes"
+            },
+            {
+              "id": "C",
+              "text": "Chris Bonington"
+            },
+            {
+              "id": "D",
+              "text": "Robin Hanbury-Tenison"
+            },
+            {
+              "id": "E",
+              "text": "Wilfred Thesiger"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q34",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He described feelings on coming back home after a long journey.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peter Fleming"
+            },
+            {
+              "id": "B",
+              "text": "Ran Fiennes"
+            },
+            {
+              "id": "C",
+              "text": "Chris Bonington"
+            },
+            {
+              "id": "D",
+              "text": "Robin Hanbury-Tenison"
+            },
+            {
+              "id": "E",
+              "text": "Wilfred Thesiger"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q35",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He worked for the benefit of specific groups of people.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peter Fleming"
+            },
+            {
+              "id": "B",
+              "text": "Ran Fiennes"
+            },
+            {
+              "id": "C",
+              "text": "Chris Bonington"
+            },
+            {
+              "id": "D",
+              "text": "Robin Hanbury-Tenison"
+            },
+            {
+              "id": "E",
+              "text": "Wilfred Thesiger"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q36",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "He did not consider learning about oneself an essential part of exploration.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peter Fleming"
+            },
+            {
+              "id": "B",
+              "text": "Ran Fiennes"
+            },
+            {
+              "id": "C",
+              "text": "Chris Bonington"
+            },
+            {
+              "id": "D",
+              "text": "Robin Hanbury-Tenison"
+            },
+            {
+              "id": "E",
+              "text": "Wilfred Thesiger"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q37",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "He defined exploration as being both unique and of value to others. List of Explorers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Peter Fleming"
+            },
+            {
+              "id": "B",
+              "text": "Ran Fiennes"
+            },
+            {
+              "id": "C",
+              "text": "Chris Bonington"
+            },
+            {
+              "id": "D",
+              "text": "Robin Hanbury-Tenison"
+            },
+            {
+              "id": "E",
+              "text": "Wilfred Thesiger"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer has experience of a large number of ______ , and was the first stranger that certain previously (39) ______ people had encountered. He believes there is no need for further exploration of Earth's (40) ______, except to answer specific questions such as how buffalo eat.",
+          "answer": "(unique) expeditions",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer has experience of a large number of (38) ______ , and was the first stranger that certain previously ______ people had encountered. He believes there is no need for further exploration of Earth's (40) ______, except to answer specific questions such as how buffalo eat.",
+          "answer": "Uncontacted/ isolated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-222-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The writer has experience of a large number of (38) ______ , and was the first stranger that certain previously (39) ______ people had encountered. He believes there is no need for further exploration of Earth's ______, except to answer specific questions such as how buffalo eat.",
+          "answer": "(land) surface",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "The impact of driverless cars",
+        "text": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to (19) ……………., so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for (20) ………………… will be more workable, especially in towns and cities, resulting in fewer cars on the road. According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in (21) ……………..of cars. However, this would mean that the yearly (22) …………………. of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing."
+      }
+    }
+  ]
+}

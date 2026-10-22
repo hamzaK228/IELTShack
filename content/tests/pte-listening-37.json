@@ -1,0 +1,520 @@
+{
+  "id": "pte-listening-37",
+  "title": "Listening — Practice Test 37",
+  "kind": "practice",
+  "description": "One recording, 35 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-37-q1",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What is Martin's occupation?",
+          "options": [
+            {
+              "id": "A",
+              "text": "he works in a car factory"
+            },
+            {
+              "id": "B",
+              "text": "he works in a bank"
+            },
+            {
+              "id": "C",
+              "text": "he is a college student"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q2",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The friends would prefer somewhere with",
+          "options": [
+            {
+              "id": "A",
+              "text": "4 bedrooms"
+            },
+            {
+              "id": "B",
+              "text": "3 bedrooms"
+            },
+            {
+              "id": "C",
+              "text": "2 bathrooms"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q3",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Phil would rather live in",
+          "options": [
+            {
+              "id": "A",
+              "text": "the east suburbs"
+            },
+            {
+              "id": "B",
+              "text": "the city centre"
+            },
+            {
+              "id": "C",
+              "text": "the west suburbs"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bridge Street, near the ______– 3 bedrooms",
+          "answer": "bus station",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– very big living room– ______a month",
+          "answer": "450",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– could be ______",
+          "answer": "noisy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– 4 bedrooms ______",
+          "answer": "hills avenue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– ______– (9) ______and well equipped",
+          "answer": "dining room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– (8) ______– ______and well equipped",
+          "answer": "modern",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– will be ______",
+          "answer": "quiet",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The reading rooms are only open for group visits on ______",
+          "answer": "sundays",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The library was officially opened in ______",
+          "answer": "1998",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "All the library rooms together cover meter square. ______",
+          "answer": "100000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The library is financed by the ______",
+          "answer": "government",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The main function of the library is to provide resources for people doing ______",
+          "answer": "research",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "conference centre ______",
+          "answer": "conference centre",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "information desk ______",
+          "answer": "information desk",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "bookshop ______",
+          "answer": "bookshop",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "king’s library ______",
+          "answer": "king’s library",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "stamp display ______",
+          "answer": "stamp display",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main aim of Dave's project is to",
+          "options": [
+            {
+              "id": "A",
+              "text": "describe a policy."
+            },
+            {
+              "id": "B",
+              "text": "investigate an assumption."
+            },
+            {
+              "id": "C",
+              "text": "identify a problem."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dave's project is based on schemes in",
+          "options": [
+            {
+              "id": "A",
+              "text": "schools."
+            },
+            {
+              "id": "B",
+              "text": "colleges."
+            },
+            {
+              "id": "C",
+              "text": "universities."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many academic organisations returned Dave's questionnaire?",
+          "options": [
+            {
+              "id": "A",
+              "text": "15"
+            },
+            {
+              "id": "B",
+              "text": "50"
+            },
+            {
+              "id": "C",
+              "text": "150"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dave wanted his questionnaires to be completed by company",
+          "options": [
+            {
+              "id": "A",
+              "text": "Human Resources Managers."
+            },
+            {
+              "id": "B",
+              "text": "Line Managers."
+            },
+            {
+              "id": "C",
+              "text": "owners."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr Green wants Dave to provide a full list of",
+          "options": [
+            {
+              "id": "A",
+              "text": "respondents."
+            },
+            {
+              "id": "B",
+              "text": "appendices."
+            },
+            {
+              "id": "C",
+              "text": "companies."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– improve the ______ of ideas",
+          "answer": "organisation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– include a ______ of 'Work Placement'",
+          "answer": "definition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– have separate sections for literature survey and research ______ and methods",
+          "answer": "aims",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "development – good ______",
+          "answer": "key skills",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Constraints on learning – provide better links to the ______ from research",
+          "answer": "evidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bilingualism can be defined as having an equal level of communicative ______ in two or more languages.",
+          "answer": "proficiency",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Early research suggested that bilingualism caused problems with ______ and mental development.",
+          "answer": "learning",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Early research into bilingualism is now rejected because it did not consider the ______ backgrounds of the children",
+          "answer": "social and economic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "It is now thought that there is a ______ bilingualism and cognitive skills in children.",
+          "answer": "positive relation between",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Research done by Ellen Bialystok in Canada now suggests that the effects of bilingualism also apply to ______",
+          "answer": "adults",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q36",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In Dr Bialystok's experiment, the subjects had to react according to",
+          "options": [
+            {
+              "id": "A",
+              "text": "the colour of the square on the screen."
+            },
+            {
+              "id": "B",
+              "text": "the location of the square on the screen."
+            },
+            {
+              "id": "C",
+              "text": "the location of the shift key on the keyboard."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q37",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The experiment demonstrated the 'Simon effect' because it involved a conflict between",
+          "options": [
+            {
+              "id": "A",
+              "text": "seeing something and reacting to it."
+            },
+            {
+              "id": "B",
+              "text": "producing fast and slow reactions."
+            },
+            {
+              "id": "C",
+              "text": "demonstrating awareness of shape and colour."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q38",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The experiment shows that, compared with the monolingual subjects, the bilingual subjects",
+          "options": [
+            {
+              "id": "A",
+              "text": "were more intelligent."
+            },
+            {
+              "id": "B",
+              "text": "had faster reaction times overall."
+            },
+            {
+              "id": "C",
+              "text": "had more problems with the ‘Simon effect’"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q39",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The results of the experiment indicate that bilingual people may be better at",
+          "options": [
+            {
+              "id": "A",
+              "text": "doing different types of tasks at the same time."
+            },
+            {
+              "id": "B",
+              "text": "thinking about several things at once."
+            },
+            {
+              "id": "C",
+              "text": "focusing only on what is needed to do a task."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-37-q40",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Dr Bialystok's first and second experiments both suggest that bilingualism may",
+          "options": [
+            {
+              "id": "A",
+              "text": "slow down the effects of old age on the brain."
+            },
+            {
+              "id": "B",
+              "text": "lead to mental confusion among old people."
+            },
+            {
+              "id": "C",
+              "text": "help old people to stay in better physical condition"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/37_deep.mp3"
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "id": "pte-listening-36",
+  "title": "Listening — Practice Test 36",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-36-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There will be passengers on the train. ______",
+          "answer": "34",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The students leave the school ______",
+          "answer": "on monday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name of client: ______",
+          "answer": "Paul Scott",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Down Language School, Down House, ______ Brighton",
+          "answer": "hill street",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact number: ______ to be contacted on 01273512634",
+          "answer": "school secretary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Pick-up time: ______",
+          "answer": "7.30",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Return time: ______",
+          "answer": "11 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Purpose of hire: visit to Stonehenge and ______",
+          "answer": "bath",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "What does the cost of hiring the coach include? ______",
+          "answer": "tax and insurance",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Who does the customer have to speak to before confirming the booking? ______",
+          "answer": "school accountant",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q11",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "tourist information ______",
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q12",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Car park ______",
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q13",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Museum ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q14",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "picnic area ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q15",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Gift shop ______",
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE activities or events do you need to pay to get in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "museum"
+            },
+            {
+              "id": "B",
+              "text": "castle"
+            },
+            {
+              "id": "C",
+              "text": "fireworks"
+            },
+            {
+              "id": "D",
+              "text": "gardens"
+            },
+            {
+              "id": "E",
+              "text": "rock concert"
+            },
+            {
+              "id": "F",
+              "text": "jazz concert"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE activities or events do you need to pay to get in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "museum"
+            },
+            {
+              "id": "B",
+              "text": "castle"
+            },
+            {
+              "id": "C",
+              "text": "fireworks"
+            },
+            {
+              "id": "D",
+              "text": "gardens"
+            },
+            {
+              "id": "E",
+              "text": "rock concert"
+            },
+            {
+              "id": "F",
+              "text": "jazz concert"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which THREE activities or events do you need to pay to get in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "museum"
+            },
+            {
+              "id": "B",
+              "text": "castle"
+            },
+            {
+              "id": "C",
+              "text": "fireworks"
+            },
+            {
+              "id": "D",
+              "text": "gardens"
+            },
+            {
+              "id": "E",
+              "text": "rock concert"
+            },
+            {
+              "id": "F",
+              "text": "jazz concert"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "How often is the charity event held? ______",
+          "answer": "every year",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Who does the Age Concern help? ______",
+          "answer": "elderly people",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Before giving his presentation Paul is worried about",
+          "options": [
+            {
+              "id": "A",
+              "text": "choosing what information to use"
+            },
+            {
+              "id": "B",
+              "text": "not remembering what to say"
+            },
+            {
+              "id": "C",
+              "text": "organizing the projection equipment"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Paul's friends advise him not to",
+          "options": [
+            {
+              "id": "A",
+              "text": "speak about popular periods"
+            },
+            {
+              "id": "B",
+              "text": "talk at length about art history"
+            },
+            {
+              "id": "C",
+              "text": "speak too quickly in the presentation"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Paul like the idea of the timeline?",
+          "options": [
+            {
+              "id": "A",
+              "text": "it will be visually pleasing"
+            },
+            {
+              "id": "B",
+              "text": "it will save some time"
+            },
+            {
+              "id": "C",
+              "text": "it will keep him focused"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Paul is going to show famous works of art to",
+          "options": [
+            {
+              "id": "A",
+              "text": "show people that he has good taste"
+            },
+            {
+              "id": "B",
+              "text": "make people think about what counts as art"
+            },
+            {
+              "id": "C",
+              "text": "prove that modern art is not as good as classic art"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Paul wants his presentation to",
+          "options": [
+            {
+              "id": "A",
+              "text": "change personal opinions"
+            },
+            {
+              "id": "B",
+              "text": "create a big fight"
+            },
+            {
+              "id": "C",
+              "text": "start an exciting debate"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Isabel say about modern artists?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they are skillful"
+            },
+            {
+              "id": "B",
+              "text": "they paint like children"
+            },
+            {
+              "id": "C",
+              "text": "they have a sense of freedom"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Go to fine art section in ______",
+          "answer": "library",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Ask ______ for access to slide bank",
+          "answer": "staff",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• If not, use the ______",
+          "answer": "computers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Find pictures using a ______",
+          "answer": "search engine",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about newspapers?",
+          "options": [
+            {
+              "id": "A",
+              "text": "they never report developments in science accurately"
+            },
+            {
+              "id": "B",
+              "text": "he became interested in his subject because of a newspaper report"
+            },
+            {
+              "id": "C",
+              "text": "they only report developments in renewable energy technology"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What significant event took place in 1956?",
+          "options": [
+            {
+              "id": "A",
+              "text": "scientists discovered a new source of energy"
+            },
+            {
+              "id": "B",
+              "text": "a new type of power station came into service"
+            },
+            {
+              "id": "C",
+              "text": "Helium was first produced from hydrogen"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker consider to be the main problem with nuclear fusion?",
+          "options": [
+            {
+              "id": "A",
+              "text": "irresponsible scientists make false claims on the subject"
+            },
+            {
+              "id": "B",
+              "text": "it takes too long to produce the required reaction"
+            },
+            {
+              "id": "C",
+              "text": "the reaction has not produced usable quantities of energy"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Temperatures of at least degrees are needed for fusion to take place. ______",
+          "answer": "100 million",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Creating the pressure required in a is a major technological problem. ______",
+          "answer": "fusion reactor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order for nuclear fusion to produce useful quantities of energy isotopes of hydrogen must be brought together at extremely high temperatures and pressures. A number of ______ will suspend the fuel so that it does not come into contact with the sides of the (37) Another one will raise the temperature of the fuel pellet to that required to start the (38) Extra energy released in this process will be used to produce (39) that can be used to generate electricity. It is believed that the amount of energy that can be produced from (40) of fusion fuel is equivalent to that which can be produced from 10000 tonnes of fossil fuel.",
+          "answer": "lasers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order for nuclear fusion to produce useful quantities of energy isotopes of hydrogen must be brought together at extremely high temperatures and pressures. A number of (36) will suspend the fuel so that it does not come into contact with the sides of the ______ Another one will raise the temperature of the fuel pellet to that required to start the (38) Extra energy released in this process will be used to produce (39) that can be used to generate electricity. It is believed that the amount of energy that can be produced from (40) of fusion fuel is equivalent to that which can be produced from 10000 tonnes of fossil fuel.",
+          "answer": "reactor",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order for nuclear fusion to produce useful quantities of energy isotopes of hydrogen must be brought together at extremely high temperatures and pressures. A number of (36) will suspend the fuel so that it does not come into contact with the sides of the (37) Another one will raise the temperature of the fuel pellet to that required to start the ______ Extra energy released in this process will be used to produce (39) that can be used to generate electricity. It is believed that the amount of energy that can be produced from (40) of fusion fuel is equivalent to that which can be produced from 10000 tonnes of fossil fuel.",
+          "answer": "reaction",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order for nuclear fusion to produce useful quantities of energy isotopes of hydrogen must be brought together at extremely high temperatures and pressures. A number of (36) will suspend the fuel so that it does not come into contact with the sides of the (37) Another one will raise the temperature of the fuel pellet to that required to start the (38) Extra energy released in this process will be used to produce ______ that can be used to generate electricity. It is believed that the amount of energy that can be produced from (40) of fusion fuel is equivalent to that which can be produced from 10000 tonnes of fossil fuel.",
+          "answer": "steam",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-36-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "In order for nuclear fusion to produce useful quantities of energy isotopes of hydrogen must be brought together at extremely high temperatures and pressures. A number of (36) will suspend the fuel so that it does not come into contact with the sides of the (37) Another one will raise the temperature of the fuel pellet to that required to start the (38) Extra energy released in this process will be used to produce (39) that can be used to generate electricity. It is believed that the amount of energy that can be produced from ______ of fusion fuel is equivalent to that which can be produced from 10000 tonnes of fossil fuel.",
+          "answer": "1 kg",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/36_we.mp3"
+    }
+  ]
+}

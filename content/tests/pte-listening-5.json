@@ -1,0 +1,570 @@
+{
+  "id": "pte-listening-5",
+  "title": "Listening — Practice Test 5",
+  "kind": "practice",
+  "description": "One recording, 37 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-5-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Preferred location: in the ______ area of town",
+          "answer": "central",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Maximum monthly rent: ______ £",
+          "answer": "600",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Length of let required: ______",
+          "answer": "2 years",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Oakington AvenueLiving/ dining room, separate kitchen£ 550No ______",
+          "answer": "garage",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Mead StreetLarge living room and kitchen, bathroom and a cloakroom£ 580The ______ is too large",
+          "answer": "garden",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hamilton RoadLiving room, kitchen, diner and a ______£ 550Too (7) ______",
+          "answer": "study",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hamilton RoadLiving room, kitchen, diner and a (6) ______£ 550Too ______",
+          "answer": "noisy",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Devon CloseLiving room, dining room, small kitchen______None",
+          "answer": "595",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q9",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO facilities in the district of Devon Close are open to the public at the moment?",
+          "options": [
+            {
+              "id": "A",
+              "text": "museum"
+            },
+            {
+              "id": "B",
+              "text": "concert hall"
+            },
+            {
+              "id": "C",
+              "text": "cinema"
+            },
+            {
+              "id": "D",
+              "text": "sports centre"
+            },
+            {
+              "id": "E",
+              "text": "swimming pool"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q10",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which TWO facilities in the district of Devon Close are open to the public at the moment?",
+          "options": [
+            {
+              "id": "A",
+              "text": "museum"
+            },
+            {
+              "id": "B",
+              "text": "concert hall"
+            },
+            {
+              "id": "C",
+              "text": "cinema"
+            },
+            {
+              "id": "D",
+              "text": "sports centre"
+            },
+            {
+              "id": "E",
+              "text": "swimming pool"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Well known for: ______",
+          "answer": "classical music concerts",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q12",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "restaurants and a ______",
+          "answer": "bookshop",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1960s-1970s: centre was ______ and built in (14) – opened to public",
+          "answer": "planned",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1960s-1970s: centre was (13) and built in ______ – opened to public",
+          "answer": "1983",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Managed by: the ______",
+          "answer": "city council",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Open: ______ days per year",
+          "answer": "363",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Monday and Tuesday7.30 pmThe Magic Flute______From £ 8",
+          "answer": "garden hall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wednesday8.00 pm______(Canadian Flim)Cinema 2(19) £______",
+          "answer": "three lives",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Wednesday8.00 pm(18) ______(Canadian Flim)Cinema 2______",
+          "answer": "4.50",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Saturday and Sunday11 am to 10 pm______(art exhibition)Gallery 1Free",
+          "answer": "faces of China",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Paul decided to get work experience in South America because he wanted",
+          "options": [
+            {
+              "id": "A",
+              "text": "to teach English there"
+            },
+            {
+              "id": "B",
+              "text": "to improve his Spanish"
+            },
+            {
+              "id": "C",
+              "text": "to learn about Latin American life"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What project work did Paul originally intend to get involved in?",
+          "options": [
+            {
+              "id": "A",
+              "text": "construction"
+            },
+            {
+              "id": "B",
+              "text": "agriculture"
+            },
+            {
+              "id": "C",
+              "text": "tourism"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why did Paul change from one project to another?",
+          "options": [
+            {
+              "id": "A",
+              "text": "His first job was not well organized"
+            },
+            {
+              "id": "B",
+              "text": "He found doing the routine work very boring"
+            },
+            {
+              "id": "C",
+              "text": "The work was too physically demanding"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "In the village community, he learnt how important it was to",
+          "options": [
+            {
+              "id": "A",
+              "text": "respect family life"
+            },
+            {
+              "id": "B",
+              "text": "develop trust"
+            },
+            {
+              "id": "C",
+              "text": "use money wisely"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does Paul say about his project manager?",
+          "options": [
+            {
+              "id": "A",
+              "text": "He let Paul do most of the work"
+            },
+            {
+              "id": "B",
+              "text": "His plans were too ambitious"
+            },
+            {
+              "id": "C",
+              "text": "He was very supportive of Paul"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Paul was surprised to be given",
+          "options": [
+            {
+              "id": "A",
+              "text": "a computer to use"
+            },
+            {
+              "id": "B",
+              "text": "so little money to live on"
+            },
+            {
+              "id": "C",
+              "text": "an extension to his contract"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Gender studies in Latin America ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-5-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Second language acquisition ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-5-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Indigenous women’s lives ______",
+          "answer": "B",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-5-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Portuguese language studies",
+          "options": [
+            {
+              "id": "A",
+              "text": "He will do this."
+            },
+            {
+              "id": "B",
+              "text": "He might do this."
+            },
+            {
+              "id": "C",
+              "text": "He won’t do this."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Compared to introducing new business processes, attempts to copy existing processes are",
+          "options": [
+            {
+              "id": "A",
+              "text": "more attractive"
+            },
+            {
+              "id": "B",
+              "text": "more frequent"
+            },
+            {
+              "id": "C",
+              "text": "more straightforward"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Most research into the repetition of success in business has",
+          "options": [
+            {
+              "id": "A",
+              "text": "been done outside the United States"
+            },
+            {
+              "id": "B",
+              "text": "produced consistent findings"
+            },
+            {
+              "id": "C",
+              "text": "related to only a few contexts"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about consulting experts?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Too few managers ever do it"
+            },
+            {
+              "id": "B",
+              "text": "It can be useful in certain circumstances"
+            },
+            {
+              "id": "C",
+              "text": "Experts are sometimes unwilling to give advice"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "An expert's knowledge about a business system may be incomplete because",
+          "options": [
+            {
+              "id": "A",
+              "text": "some details are difficult for workers to explain"
+            },
+            {
+              "id": "B",
+              "text": "workers choose not to mention certain details"
+            },
+            {
+              "id": "C",
+              "text": "details are sometimes altered by workers"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Create an ideal ______ from the best parts of several processes",
+          "answer": "combination/ system",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Disadvantages were overlooked e.g. effect of changes on ______",
+          "answer": "safety",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Change ______",
+          "answer": "attitude",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Impose rigorous ______",
+          "answer": "control",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o Physical features of the ______",
+          "answer": "factory",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-5-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "o The ______ of original employees",
+          "answer": "skills",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/5_we.mp3"
+    }
+  ]
+}

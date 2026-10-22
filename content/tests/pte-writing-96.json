@@ -1,0 +1,41 @@
+{
+  "id": "pte-writing-96",
+  "title": "Academic Writing — Practice Test 96",
+  "kind": "practice",
+  "description": "1 texts, 2 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "writing",
+      "title": "Reading — Task 1: Tasks",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-writing-96-q1",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "The graph below shows the number of university graduates in Canada from 1992 to 2007. Summarise the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words.",
+          "answer": "",
+          "difficulty": 2,
+          "image": "/assets/writing/pte-writing-96.png"
+        },
+        {
+          "id": "pte-writing-96-q2",
+          "skill": "writing",
+          "type": "writing",
+          "graded": false,
+          "prompt": "More and more people are finding it increasingly important to wear fashionable clothes. Is this attitude to wearing clothes a positive or negative development? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words. Cambridge IELTS Tests 1 to 17",
+          "answer": "",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Tasks",
+        "text": ""
+      }
+    }
+  ]
+}

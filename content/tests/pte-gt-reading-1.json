@@ -1,0 +1,665 @@
+{
+  "id": "pte-gt-reading-1",
+  "title": "General Training Reading — Practice Test 1",
+  "kind": "practice",
+  "description": "4 texts, 35 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Text 1: Text 1",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-1-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 1. ______",
+          "answer": "D",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-1-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 2. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-1-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 3. ______",
+          "answer": "C",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-1-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Refer to the passage or diagram and answer question 4. ______",
+          "answer": "E",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            },
+            {
+              "id": "C",
+              "text": "Option C"
+            },
+            {
+              "id": "D",
+              "text": "Option D"
+            },
+            {
+              "id": "E",
+              "text": "Option E"
+            }
+          ]
+        },
+        {
+          "id": "pte-gt-reading-1-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What sort of water are you advised to use? ______",
+          "answer": "distilled (water)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What factor makes you decide on the quantity of steam to use? ______",
+          "answer": "the (type of) fabric",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What should you do if your iron starts to drip water? ______",
+          "answer": "turn up/ increase temperature",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "What could damage your iron if you do not clean it? Now, read the information below and answer Questions 9-14. ______",
+          "answer": "calcium deposits/ furring up",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Text 1",
+        "text": "(A) Filling the reservoir Your iron is designed to function using tap water. However, it will last longer if you use distilled water. – Always unplug the iron before filling the reservoir. – Always empty the reservoir after use.\n\n(B) Temperature and steam control Your Moulex iron has two buttons which control the intensity of heat produced by the iron. You can, therefore, adjust the temperature of the iron and the amount of steam being given off depending upon the type of fabric being ironed. – Turn the steam control to the desired intensity. – Turn the thermostat control to the desired temperature. Important: If your iron produces droplets of water instead of giving off steam, your temperature control is set too low.\n\n(C) Spray button This button activates a jet of cold water which allows you to iron out any unintentional creases. Press the button for one second.\n\n(D) Pressing button This button activates a super shot of steam which momentarily gives you an additional 40g of steam when needed. Important: Do not use this more than five successive times. E Suits etc. It is possible to use this iron in a vertical position so that you can remove creases from clothes on coathangers or from curtains. Turning the thermostat control and the steam button to maximum, hold the iron in a vertical position close to the fabric but without touching it. Hold down the pressing button for a maximum of one second. The steam produced is not always visible but is still able to remove creases. Important: Hold the iron at a sufficient distance from silk and wool to avoid all risk of scorching Do not attempt to remove creases from an item of clothing that is being worn, always use a coathanger.\n\n(F) Auto-clean In order that your iron does not become furred up, Moulex have integrated an auto-clean system and we advise you to use it very regularly (1-2 times per month). – Turn the steam control to the off position. – Fill the reservoir and turn the thermostat control to maximum. – As soon as the indicator light goes out, unplug the iron and, holding it over the sink, turn the steam control to auto-clean. Any calcium deposits will be washed out by the steam. Continue the procedure until the reservoir is empty."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Text 2: CLASSIC TOURS – coach break information",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-1-q9",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "If you want to sit at the front of the coach",
+          "options": [
+            {
+              "id": "A",
+              "text": "ask when you get on the coach."
+            },
+            {
+              "id": "B",
+              "text": "arrive early on the departure date."
+            },
+            {
+              "id": "C",
+              "text": "book your seat well in advance."
+            },
+            {
+              "id": "D",
+              "text": "avoid travelling at peak times."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q10",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Your air tickets",
+          "options": [
+            {
+              "id": "A",
+              "text": "will be sent to your departure point."
+            },
+            {
+              "id": "B",
+              "text": "must be collected before leaving."
+            },
+            {
+              "id": "C",
+              "text": "will be enclosed with other documents."
+            },
+            {
+              "id": "D",
+              "text": "may be held by your coach driver."
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q11",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "If you need a special diet you should",
+          "options": [
+            {
+              "id": "A",
+              "text": "inform the hotel when you arrive."
+            },
+            {
+              "id": "B",
+              "text": "pay extra with the booking."
+            },
+            {
+              "id": "C",
+              "text": "tell the coach company."
+            },
+            {
+              "id": "D",
+              "text": "book tourist class."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q12",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It may be necessary to pay extra for",
+          "options": [
+            {
+              "id": "A",
+              "text": "a bathroom."
+            },
+            {
+              "id": "B",
+              "text": "boat tickets."
+            },
+            {
+              "id": "C",
+              "text": "additional luggage."
+            },
+            {
+              "id": "D",
+              "text": "entertainment."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q13",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Entertainment is available",
+          "options": [
+            {
+              "id": "A",
+              "text": "at all hotels."
+            },
+            {
+              "id": "B",
+              "text": "if there is the demand."
+            },
+            {
+              "id": "C",
+              "text": "upon request."
+            },
+            {
+              "id": "D",
+              "text": "for an additional cost."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q14",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "With every booking Classic Tours guarantee you will be able to",
+          "options": [
+            {
+              "id": "A",
+              "text": "request high quality meals."
+            },
+            {
+              "id": "B",
+              "text": "take hand luggage on the coach."
+            },
+            {
+              "id": "C",
+              "text": "use your own personal bathroom."
+            },
+            {
+              "id": "D",
+              "text": "film if you want to. You are advised to spend 20 minutes on Questions 15-29."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q15",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You would like to take Spanish classes. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q16",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You want to join a club that has international branches. ______",
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q17",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You would like an opportunity to speak in public. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q18",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You would like to take part in amateur theatrical productions. ______",
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q19",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You want to visit some famous sites with a group of other students. ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q20",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You are interested in finding out about part-time work. ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q21",
+          "skill": "reading",
+          "type": "short",
+          "prompt": "You want to meet some English people who have started their careers. ______",
+          "answer": "F",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "CLASSIC TOURS – coach break information",
+        "text": "Luggage We ask you to keep luggage down to one medium-sized suitcase per person, but a small holdall can also be taken on board the coach.\n\nSeat Allocation Requests for particular seats can be made on most coach breaks when booking, but since allocations are made on a first come first served basis, early booking is advisable. When bookings are made with us you will be offered the best seats that are available on the coach at that time.\n\nTravel Documents When you have paid your deposit we will send to you all the necessary documents and labels, so that you receive them in good time before the coach break departure date. Certain documents, for example air or boat tickets, may have to be retained and your driver or courier will then issue them to you at the relevant point.\n\nSpecial Diets If you require a special diet you must inform us at the time of booking with a copy of the diet. This will be notified to the hotel or hotels on your coach break, but on certain coach breaks the hotels used are tourist class and whilst offering value for money within the price range, they may not have the full facilities to cope with special diets. Any extra costs incurred must be paid to the hotel by yourself before departure from the hotel.\n\nAccommodation Many of our coach breaks now include, within the price, accommodation with private facilities, and this will be indicated on the coach break page. Other coach breaks have a limited number of rooms with private facilities which, subject to availability, can be reserved and guaranteed at the time of booking – the supplementary charge shown in the price panel will be added to your account. On any coach break there are only a limited number of single rooms. When a single room is available it may be subject to a supplementary charge and this will be shown on the brochure page.\n\nEntertainment Some of our hotels arrange additional entertainment which could include music, dancing, film shows, etc. The nature and frequency of the entertainment presented is at the discretion of the hotel and therefore not guaranteed and could be withdrawn if there is a lack of demand or insufficient numbers in the hotel."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Text 3: CLUBS FOR STUDENTS",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-1-q22",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The club has long-term dormitory accommodation.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q23",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Membership must be renewed monthly.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q24",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The club provides subsidised restaurant meals.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q25",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The club is open to non-members on Tuesday evenings.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q26",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "STA Travel help finance the Students Adviser.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q27",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The services of the Students Adviser are free to all club members.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q28",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "You must make an appointment to see the Students Adviser.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q29",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "There will be a surcharge for accommodation over the Christmas period. International Students House is a unique club and accommodation centre for British and overseas students in London. It is located in the heart of London's West End and is close to all public transport facilities. ACCOMMODATION * comfortable accommodation for up to 450 people in single, twin, 3/4 bedded and multi-bedded rooms * 44 self-contained flats for married students and families * long and short stays welcomed MEMBERSHIP Club membership is open to all full¬time students, professional trainees, student nurses and au pairs. Membership costs are kept to an absolute minimum to enable the widest possible access. You can join for as little as one month and for up to one year at a time. Membership entitles you to use the various facilities of the House. It has: * restaurants * student bars and coffee shop * study rooms * clubs and societies * aerobics and fitness training * discos, dance, jazz and cinema * travel and excursions and much more! The best way to check out all we have on offer is to drop in any Tuesday evening between 7.15 pm and 8.30 pm for Open House in the Club Room. This is an opportunity for you to meet the staff and other club members, enjoy a free cup of coffee and find out all about what's going on. You can take advantage of special membership offers. (Useful tip: bring along 3 passport size photographs if you wish to take out membership.) ADVICE SERVICE Thanks to the support of STA Travel and in association with LCOS (the London Conference on Overseas Students) International Students House now provides the service of an International Students Adviser. This new welfare service is open to all students at London's bona-fide academic institutions. It aims to provide welfare support to help students overcome any personal or practical difficulties they may be experiencing whilst studying in Britain. One of the key features of the Advice Service is that the Adviser can be seen during the evenings until about 8 pm, Monday to Thursday. CHRISTMAS & NEW YEAR Unable to get home for Christmas? How about joining in the fun at International Students House! Check out our special programme of activity taking place over the Christmas period. Even come and stay – the House will be offering reduced accommodation rates for students wishing to spend a few days in London over Christmas. We'll also have an exciting New Year's Eve party so come and join us and ring in the new year in the spirit of internationalism. You should spend about 20 minutes on Questions 30-41 which are based on the reading passage below.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "CLUBS FOR STUDENTS",
+        "text": "There are a variety of Clubs which provide social and cultural activities for those wishing to meet others with similar interests from the same or from different national backgrounds.\n\n(A) Commonwealth Trust Organised discussion meetings, learned talks, cultural events excursions to places of interest and invitations to major British diary events Open to overseas visitors and students.\n\n(B) Charles Peguy Centre French youth centre providing advice, support and information to young Europeans aged between 18-30. Facilities include an information and advice service regarding education, work placement and general welfare rights. Moreover the centre holds a database of jobs, accommodation and au pair placements specifically in London. Members may use a fax machine a copier and computers for CVs.\n\nHours Monday: 14.00-17.00\n\nTuesday-Friday: 10.00-17.00 Membership: £35 per year, plus £5 per month.\n\n(C) Kensington Committee of Friendship for Overseas Students KCOF is the society for young people from all countries. Each month there are some 40 parties, discos, visits to theatres, concerts, walks and other gatherings where you will be able to meet lots of people. A new programme is sent each month directly to members (£5 to join in October, less later in the year). Events are free or at low often reduced prices. Office open 10.30-17.30 weekdays only\n\n(D) Royal Overseas League Open 365 days per year, this is a club with facilities in London and Edinburgh with restaurants, bars and accommodation. There are branches around the world and 57 reciprocal clubs world-wide. Quarterly magazine, literary lectures, annual music and art competitions, and summer and winter programme of events for members. Membership fees overseas students aged 17¬24 £47 per year + initial joining fee £23.50; others £70 per year + initial joining fee £35 (half price after July). Further information from the Membership Secretary.\n\n(E) YMCA London Central Facilities include photography art drama, pottery, language courses, badminton, squash, exercise to music, circuit training, sports clinic, fitness testing and other activities. Hours weekdays 07.00-22.30, weekends 10.00-21.00. Membership fees: aged 16-17 £25 per year plus attendance charge of £1 30 per visit; aged 18-19 £213 per year; aged 20¬25 £366 per year\n\n(F) London Inter-Varsity Club (IVC) IVC is an activities and social club with a varied range of events, from cycling and drama to windsurfing and yoga. Most members are young English professionals, but overseas visitors are welcome. The club arranges restaurant meals, dancing and parties, weekends away around Britain, plus a weekly club night in a Covent Garden bar. There are usually over 25 different events every week run by IVG members for IVC members. To find out more, telephone the club or write (Freepost) to the office.\n\n(G) Central Club Provides accommodation and club facilities. No membership fee. Coffee shop open for all meals swimming pool (open 06.00), multi¬gym, hairdressing salon."
+      }
+    },
+    {
+      "id": "passage-4",
+      "skill": "reading",
+      "title": "Reading — Text 4: PAPER RECYCLING",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-gt-reading-1-q30",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "sustainable/ replaceable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "biodegradable",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "virgin fiber/ pulp",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "governments/ the government",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "advances",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower ______than before and to sort our waste paper by removing (36) ______before discarding it for collection.",
+          "answer": "quality",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "in that firstly it comes from a resource which is (30) ______ and secondly it is less threatening to our environment when we throw it away because it is (31) ______ Although Australia's record in the re-use of waste paper is good, it is still necessary to use a combination of recycled fibre and (32) ______ to make new paper. The paper industry has contributed positively and people have also been encouraged by (33) ______ to collect their waste on a regular basis. One major difficulty is the removal of ink from used paper but (34) ______ are being made in this area. However, we need to learn to accept paper which is generally of a lower (35) ______than before and to sort our waste paper by removing ______before discarding it for collection.",
+          "answer": "contaminants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "– factories · – retail stores ______",
+          "answer": "offices",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 2: The paper is then ______ and",
+          "answer": "sorted",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 3: ______ by adding water",
+          "answer": "(re)pulped",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-gt-reading-1-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 4: Chemicals are added in order to ______",
+          "answer": "de-ink/remove ink/make white",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p4",
+        "title": "PAPER RECYCLING",
+        "text": "(A) Paper is different from other waste produce because it comes from a sustainable resource: trees. Unlike the minerals and oil used to make plastics and metals, trees are replaceable. Paper is also biodegradable, so it does not pose as much threat to the environment when it is discarded. While 45 out of every 100 tonnes of wood fibre used to make paper in Australia comes from waste paper, the rest comes directly from virgin fibre from forests and plantations. By world standards this is a good performance since the world-wide average is 33 per cent waste paper. Governments have encouraged waste paper collection and sorting schemes and at the same time, the paper industry has responded by developing new recycling technologies that have paved the way for even greater utilisation of used fibre. As a result, industry's use of recycled fibres is expected to increase at twice the rate of virgin fibre over the coming years.\n\n(B) Already, waste paper constitutes 70% of paper used for packaging and advances in the technology required to remove ink from the paper have allowed a higher recycled content in newsprint and writing paper. To achieve the benefits of recycling, the community must also contribute. We need to accept a change in the quality of paper prod¬ucts; for example stationery may be less white and of a rougher texture. There also needs to be support from the community for waste paper collec¬tion programs. Not only do we need to make the paper available to collectors but it also needs to be separated into different types and sorted from con-taminants such as staples, paperclips, string and other miscellaneous items.\n\n(C) There are technical limitations to the amount of paper which can be recycled and some paper products cannot be collected for re-use. These include paper in the form of books and permanent records, photographic paper and paper which is badly contaminated. The four most common sources of paper for recycling are factories and retail stores which gather large amounts of packaging material in which goods are delivered, also offices which have unwanted business documents and computer output, paper converters and printers and lastly households which discard newspapers and packaging material. The paper manufacturer pays a price for the paper and may also incur the collection cost.\n\n(D) Once collected, the paper has to be sorted by hand by people trained to recognise various types of paper. This is necessary because some types of paper can only be made from particular kinds of recycled fibre. The sorted paper then has to be repulped or mixed with water and broken down into its individual fibres. This mixture is called stock and may contain a wide variety of contaminating materials, particularly if it is made from mixed waste paper which has had little sorting. Various machinery is used to remove other materials from the stock. After passing through the repulping process, the fibres from printed waste paper are grey in colour because the printing ink has soaked into the individual fibres. This recycled material can only be used in products where the grey colour does not matter, such as cardboard boxes but if the grey colour is not acceptable, the fibres must be de-inked. This involves adding chemicals such as caustic soda or other alkalis, soaps and detergents, water-hardening agents such as cal¬cium chloride, frothing agents and bleaching agents. Before the recycled fibres can be made into paper they must be refined or treated in such a way that they bond together.\n\n(E) Most paper products must contain some virgin fibre as well as recycled fibres and unlike glass, paper cannot be recycled indefinitely. Most paper is down-cycled which means that a product made from recycled paper is of an inferior quality to the original paper. Recycling paper is beneficial in that it saves some of the energy, labour and capital that goes into producing virgin pulp. However, recycling requires the use of fossil fuel, a non-renewable energy source, to collect the waste paper from the community and to process it to produce new paper. And the recycling process still creates emissions which require treatment before they can be disposed of safely. Nevertheless, paper recycling is an important economical and environmental practice but one which must be carried out in a rational and viable manner for it to be useful to both industry and the community."
+      }
+    }
+  ]
+}

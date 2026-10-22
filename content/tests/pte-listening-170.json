@@ -1,0 +1,502 @@
+{
+  "id": "pte-listening-170",
+  "title": "Listening — Practice Test 170",
+  "kind": "practice",
+  "description": "One recording, 34 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-170-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Address: Apartment 2, ______ , Newton",
+          "answer": "16 rose lane",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date moved in: ______",
+          "answer": "27 June",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cooker______(4) ______",
+          "answer": "door broken",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cooker(3) ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Windows______B",
+          "answer": "no locks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "flickers(7) ______",
+          "answer": "bathroom light",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(6) ______flickers______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "torn(9) ______",
+          "answer": "kitchen curtains",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "(8) ______torn______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Workman to call between ______ and",
+          "answer": "1 pm and 5 pm",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "At rainforest lodge there aren't any",
+          "options": [
+            {
+              "id": "A",
+              "text": "telephones or TVs"
+            },
+            {
+              "id": "B",
+              "text": "newspapers or TVs"
+            },
+            {
+              "id": "C",
+              "text": "telephones or newspapers"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The guests are told to",
+          "options": [
+            {
+              "id": "A",
+              "text": "carry their luggage to the cabin"
+            },
+            {
+              "id": "B",
+              "text": "go straight to the restaurant"
+            },
+            {
+              "id": "C",
+              "text": "wait an hour for dinner"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Four Wheel Drivetour to the ______",
+          "answer": "waterfall",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Crocodile Cruisedeparts at ______daily",
+          "answer": "11",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "departs at sundown ______",
+          "answer": "spotlight",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "walking boots ______",
+          "answer": "walking boots",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "socks ______",
+          "answer": "socks",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "long trousers ______",
+          "answer": "long trousers",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "snakes ______",
+          "answer": "snakes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "plants ______",
+          "answer": "plants",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "These sessions with a counsellor are",
+          "options": [
+            {
+              "id": "A",
+              "text": "compulsory for all students"
+            },
+            {
+              "id": "B",
+              "text": "available to any students"
+            },
+            {
+              "id": "C",
+              "text": "for science students only"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The counsellor says that new students have to",
+          "options": [
+            {
+              "id": "A",
+              "text": "spend more time on the college premises"
+            },
+            {
+              "id": "B",
+              "text": "get used to working independently"
+            },
+            {
+              "id": "C",
+              "text": "work harder than they did at school"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "John complains that the resource centre",
+          "options": [
+            {
+              "id": "A",
+              "text": "has limited opening hours"
+            },
+            {
+              "id": "B",
+              "text": "has too few resources"
+            },
+            {
+              "id": "C",
+              "text": "gets too crowded"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The counsellor suggests to John that",
+          "options": [
+            {
+              "id": "A",
+              "text": "most other students can cope"
+            },
+            {
+              "id": "B",
+              "text": "he needs to study all the time"
+            },
+            {
+              "id": "C",
+              "text": "he should be able to fit in some leisure activities"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Before being able to help John the counsellor needs to",
+          "options": [
+            {
+              "id": "A",
+              "text": "talk with some of his lecturers"
+            },
+            {
+              "id": "B",
+              "text": "consult his tutor"
+            },
+            {
+              "id": "C",
+              "text": "get more information from him"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Leave time to ______",
+          "answer": "check work",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Try to ______ lectures",
+          "answer": "record",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Check notes with ______",
+          "answer": "friend",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Choose topics of ______",
+          "answer": "general interest",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Buy a good ______",
+          "answer": "dictionary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "John was first interested in the subject because of something",
+          "options": [
+            {
+              "id": "A",
+              "text": "he had witnessed"
+            },
+            {
+              "id": "B",
+              "text": "he had read about"
+            },
+            {
+              "id": "C",
+              "text": "he had experienced"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The main research method was",
+          "options": [
+            {
+              "id": "A",
+              "text": "interviews"
+            },
+            {
+              "id": "B",
+              "text": "questionnaires"
+            },
+            {
+              "id": "C",
+              "text": "observation A B C"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q33",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Listen to the recording and answer question 33. ______",
+          "answer": "A",
+          "difficulty": 2,
+          "options": [
+            {
+              "id": "A",
+              "text": "Option A"
+            },
+            {
+              "id": "B",
+              "text": "Option B"
+            }
+          ]
+        },
+        {
+          "id": "pte-listening-170-q34",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How many respondents were there?",
+          "options": [
+            {
+              "id": "A",
+              "text": "50-100"
+            },
+            {
+              "id": "B",
+              "text": "100-150"
+            },
+            {
+              "id": "C",
+              "text": "150-200"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q35",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The most common type of road rage incident involved",
+          "options": [
+            {
+              "id": "A",
+              "text": "damage to property"
+            },
+            {
+              "id": "B",
+              "text": "personal violence"
+            },
+            {
+              "id": "C",
+              "text": "verbal abuse"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q36",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Avoid eye contact with other drivers ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q37",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Inform someone of your likely arrival time ______",
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q38",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Ensure car keys are ready when you return to the car ______",
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q39",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Leave plenty of space when parking ______",
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-170-q40",
+          "skill": "listening",
+          "type": "short",
+          "prompt": "Keep all doors locked (36) (37) (38) ______",
+          "answer": "C",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/170_we.mp3"
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "id": "pte-reading-180",
+  "title": "Academic Reading — Practice Test 180",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: Fix it with Flavour",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-180-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The reason that turmeric is yellow",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "How turmeric is used by Indians",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A medieval cure for stomach aches",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The method Gabriele Dionisi uses to solve stomach aches",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "id": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q5",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The article refers to medieval herbalists as ______because they didn't always use herbs properly.",
+          "answer": "Muddled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q6",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The article provides no support for the suggestion that turmeric can help to deal with ______though this is being investigated.",
+          "answer": "Arthritis",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "A single chilli provides more ______than a person needs in a day.",
+          "answer": "vitamin C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Eating chillies creates a feeling of ______thanks to the release of endorphins.",
+          "answer": "pleasure",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q9",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Cloves are used to make aspirin.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q10",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Turmeric is not used in Indian cooking because of its taste.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q11",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Zyflamend can kill cancer cells.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q12",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Chillies help prevent colds because they contain capsaicin.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q13",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Signora Dionisi taught her favourite grandson many traditional Italian recipes.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "Fix it with Flavour",
+        "text": "(A) Gabriele Dionisi, a '38-year-old Italian computer wizard living in London, is a true individualist when it comes to food. He has been known to live for days on dry toast and mashed potato. He's also very fond of tinned mackerel with biscuits, washed down with, say, an apple-and-tomato milkshake. For some unfathomable reason, he sometimes has problems with his guts. Then he makes himself a hot cup of camomile tea with honey and half a spoonful of chilli flakes. \"It's an old Italian recipe,\" he says. \"Ms- grandmother taught me to make it. It's very good for the digestion.\"\n\n(B) Spices such as chilli have been used for medicinal purposes in Europe for centuries. Medieval herbalists believed that spices could be used to treat a range of pains, diseases, and ailments. Sometimes they got it right; sometimes they were way off the end of the spice rack. For example, they used to pound up cloves to extract the oil, which was used to treat toothache. Sensible move: modern scientists know that cloves contain eugenol, a chemical which is an effective local anaesthetic. Cloves also contain salicylic acid, the basis of aspirin.\n\n(C) Ginger was held to be good for stomach upsets, and it is now known to have anti-nausea properties. It is also believed to have a painkilling effect, which is being studied at the University of Arizona. Unfortunately, those muddled medieval medics also believed that ginger was a cure for the Black Death – it isn't – and that eating borage would give you courage, just because the words rhymed.\n\n(D) Doctors in India have long used spices as medicines. They understood that spices could be used as remedies. Their motto was: Let food be thy medicine. The Indian chef's favourite medical spice is turmeric, the yellow ingredient used in almost all Indian cookery. Turmeric is an antiseptic and disinfectant, and it is used widely not so much for its taste but for its antibacterial properties.\n\n(E) Turmeric is used in Indian homes as a first-aid treatment. For example, if you had a small cut on your finger, you'd run it under the tap and then dust the wound with turmeric. It is also supposed to be a cure for arthritis, and scientists are now researching its potential ability to suppress the growth of cancer cells.\n\n(F) In 2002, staff at the oncology department of Leicester University noticed that of 500 patients with colon cancer, only two were Asian, despite the fact that 20 per cent of the population in Leicester is Asian. The scientists believed this was due to their spicy diet. And, in America, researchers at the Columbia University College of Physicians and Surgeons are investigating Zyflamend, a herbal treatment for arthritis, which contains turmeric and ginger. Zyflamend has shown an ability to reduce prostate cancer cell proliferation by as much as 78% and induce cancer cell death.\n\n(G) Studies at the Indian Institute of Science, in Bangalore, suggest that curcumin, the chemical that gives turmeric its yellow colour, might also help to treat malaria. Mice were infected with the malaria parasite Plasmodium berghei and given five daily doses orally. After 20 days, a third of the treated mice were alive, whereas the untreated animals all died by day 13.\n\n(H) If you want to know what chillies do to the body, cut open a fresh chilli and hold it on the back of your hand for 15 or 20 minutes. It will make the hand red and sore. It you eat it in excess, it can give you gastric problems. However, in small doses, chilli can aid digestion. Chilli contains vitamins A and E and is a good source of potassium, beta carotene, and folic acid. Also, chilli contains twice as much vitamin C as an orange, and it really can help to protect the body from colds and flu. One chilli contains 100mg of vitamin C more than the daily recommended amount, and capsaicin, the chemical in chillies that gives them heat, is also a natural decongestant.\n\n(I) The pleasure of chillies comes from the pain of eating them. Literally, the burning sensation in the mouth triggers the release of endorphins, an opiate-like painkilling chemical, in the brain. This makes you feel good; so good, in fact, that it is possible to become a chilli junkie. In the light of this, perhaps the late Signora Dionisi should have taught her favourite grandson how lo make something oilier than chilli camomile tea."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: Clicks, Bricks, and Bargains",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-180-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Compare prices on the Net",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Buy online, collect at the store",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Street and web domination",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "In the footsteps of Amazon",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q18",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "websites operated by traditional retailers are the fastest growing ones"
+            },
+            {
+              "id": "B",
+              "text": "online sales grew by over $19 billion last year"
+            },
+            {
+              "id": "C",
+              "text": "Amazon is the biggest online retailer"
+            },
+            {
+              "id": "D",
+              "text": "Shopzila allows people to compare prices in different stores"
+            },
+            {
+              "id": "E",
+              "text": "Michael Silverstein says the best customers like to mix online and traditional shopping"
+            },
+            {
+              "id": "F",
+              "text": "Circuit city was one of the first businesses of its kind"
+            },
+            {
+              "id": "G",
+              "text": "Tesco has the biggest share of Britain's retail market"
+            },
+            {
+              "id": "H",
+              "text": "Target sells less than Wal-Mart"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q19",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "websites operated by traditional retailers are the fastest growing ones"
+            },
+            {
+              "id": "B",
+              "text": "online sales grew by over $19 billion last year"
+            },
+            {
+              "id": "C",
+              "text": "Amazon is the biggest online retailer"
+            },
+            {
+              "id": "D",
+              "text": "Shopzila allows people to compare prices in different stores"
+            },
+            {
+              "id": "E",
+              "text": "Michael Silverstein says the best customers like to mix online and traditional shopping"
+            },
+            {
+              "id": "F",
+              "text": "Circuit city was one of the first businesses of its kind"
+            },
+            {
+              "id": "G",
+              "text": "Tesco has the biggest share of Britain's retail market"
+            },
+            {
+              "id": "H",
+              "text": "Target sells less than Wal-Mart"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q20",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "websites operated by traditional retailers are the fastest growing ones"
+            },
+            {
+              "id": "B",
+              "text": "online sales grew by over $19 billion last year"
+            },
+            {
+              "id": "C",
+              "text": "Amazon is the biggest online retailer"
+            },
+            {
+              "id": "D",
+              "text": "Shopzila allows people to compare prices in different stores"
+            },
+            {
+              "id": "E",
+              "text": "Michael Silverstein says the best customers like to mix online and traditional shopping"
+            },
+            {
+              "id": "F",
+              "text": "Circuit city was one of the first businesses of its kind"
+            },
+            {
+              "id": "G",
+              "text": "Tesco has the biggest share of Britain's retail market"
+            },
+            {
+              "id": "H",
+              "text": "Target sells less than Wal-Mart"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q21",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "websites operated by traditional retailers are the fastest growing ones"
+            },
+            {
+              "id": "B",
+              "text": "online sales grew by over $19 billion last year"
+            },
+            {
+              "id": "C",
+              "text": "Amazon is the biggest online retailer"
+            },
+            {
+              "id": "D",
+              "text": "Shopzila allows people to compare prices in different stores"
+            },
+            {
+              "id": "E",
+              "text": "Michael Silverstein says the best customers like to mix online and traditional shopping"
+            },
+            {
+              "id": "F",
+              "text": "Circuit city was one of the first businesses of its kind"
+            },
+            {
+              "id": "G",
+              "text": "Tesco has the biggest share of Britain's retail market"
+            },
+            {
+              "id": "H",
+              "text": "Target sells less than Wal-Mart"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q22",
+          "skill": "reading",
+          "type": "multi",
+          "prompt": "According to the text, FIVE of the following statements are true.",
+          "options": [
+            {
+              "id": "A",
+              "text": "websites operated by traditional retailers are the fastest growing ones"
+            },
+            {
+              "id": "B",
+              "text": "online sales grew by over $19 billion last year"
+            },
+            {
+              "id": "C",
+              "text": "Amazon is the biggest online retailer"
+            },
+            {
+              "id": "D",
+              "text": "Shopzila allows people to compare prices in different stores"
+            },
+            {
+              "id": "E",
+              "text": "Michael Silverstein says the best customers like to mix online and traditional shopping"
+            },
+            {
+              "id": "F",
+              "text": "Circuit city was one of the first businesses of its kind"
+            },
+            {
+              "id": "G",
+              "text": "Tesco has the biggest share of Britain's retail market"
+            },
+            {
+              "id": "H",
+              "text": "Target sells less than Wal-Mart"
+            }
+          ],
+          "answer": [
+            "A",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q23",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "\"Cyber Monday\" is",
+          "options": [
+            {
+              "id": "A",
+              "text": "the busiest day for online shopping in America."
+            },
+            {
+              "id": "B",
+              "text": "when Americans begin shopping for Christmas."
+            },
+            {
+              "id": "C",
+              "text": "the first time visits to the Wal-Mart website exceeded visits to the Amazon website."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q24",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "eBay and Amazon are considered to be \"pure Internet plays\" because",
+          "options": [
+            {
+              "id": "A",
+              "text": "you cannot visit their shops."
+            },
+            {
+              "id": "B",
+              "text": "they are like big stores."
+            },
+            {
+              "id": "C",
+              "text": "third-party agents can sell things there."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Problems that traditional retailers have when expanding include ______",
+          "answer": "A, B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "People buy online then go to the store to collect their purchases because they ______",
+          "answer": "A, D",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "Clicks, Bricks, and Bargains",
+        "text": "(A) It's a new phenomenon called \"Cyber Monday\". On November 28, millions of Americans returned to work after the Thanksgiving holiday and fired up their office computers to take advantage of high-speed Internet links and continue the arduous task of hunting for Christmas presents. Visits to some retail websites more than doubled, and Visa reported that online spending by its cardholders grew by 26% compared with the same day a year ago. Despite concerns about a fall in consumer confidence putting the brake on store sales, online purchases are soaring in most countries, Something else is happening, too. Increasingly, the websites run by conventional retailers – once considered dinosaurs of the bricks-and-mortar age – are growing the fastest. Indeed, on Thanksgiving Day itself, the number of visitors to Wal-Mart's website exceeded those visiting Amazon – the first time that has ever happened, says Hitwise, which monitors Internet usage.\n\n(B) Online sales in America (excluding travel) are expected to grow to more than $19 billion in the crucial two months running up to Christmas – 24% more than the same period last year – according to comScore Networks, a research firm. Online sales of toys, computer games, clothing, and jewellery are all more than 30% higher. In many countries, the websites run by eBay and Amazon get the most visitors. Both are considered \"pure Internet plays\", since they have no physical shops. Their business models have changed markedly, and they now resemble online versions of vast department stores, where thousands of big and small third-party merchants also offer their wares. During Thanksgiving in 2004, Amazon for the first time sold more consumer electronics than it sold books.\n\n(C) Amazon was the company that proved online retailing could be a huge business – and it still leads the pack. Things are changing quickly. The online rise of mighty Wal-Mart, the world's biggest retailer, is being closely followed by its chief supermarket rival, Target, which now operates the fourth most popular retail website in America. In Britain, Argos, a catalogue merchant, is the third most popular retail site, followed by Tesco, the country's biggest supermarket chain. Europeans are surfing the web in record numbers and almost half now visit retail websites, especially those of traditional merchants. According to Nielsen//NetRatings, the leading retail websites in Europe include Germany's Tchibo, a diversified chain; OTTO, a German mail-order specialist; and Fnac, a French high-street favourite.\n\n(D) Far from wrecking retailers' businesses, the web plays to their strengths. Shopping comparison sites, including America's Shopzilla and Ciao in Europe, are among the fastest growing destinations on the web. These sites allow users to compare products, read reviews – and most important of all – see who is offering the lowest prices. They make money from advertising or charging retailers when users click on a link to the retailers' website. With huge economies of scale, it is hardly surprising that giants such as Wal-Mart often emerge as the vendor offering the cheapest prices. Besides attracting an online purchase, shopping comparison searches can also be used by ordinary retailers as a relatively cheap way to advertise and attract consumers to their physical stores.\n\n(E) The traditional retailers are finding many other advantages in expanding their stores online. One is that in cyberspace, even the biggest super-centre is unconstrained by planning laws or dogged by protests, as Wal-Mart often is when it tries to expand offline. Both Wal-Mart and Target also use the web to test the market for certain products before they send them to their stores. Conventional shopkeepers might be late coming to the Internet, but they now realise that they can offer more to their customers online, and that the technology required to do so is relatively easy to use, says Michael Silverstein of the Boston Consulting Group. \"Retailers are starting to recognise that their most profitable customers … find the convenience of an online offering complementary to an in-store experience,\" he says. As examples of successful exponents of this in America, Mr. Silverstein points to Neiman Marcus, which has taken a lead in online top-end fashion, Victoria's Secret in lingerie, and Circuit City in consumer electronics.\n\n(F) Circuit City was a pioneer of the \"pick-up in-store\" option, which is proving increasingly popular with Internet shoppers. Around half the customers buying goods online from Circuit City collect their purchases at a shop. For this holiday season, the company is offering what it calls a \"24/24 Pick-up Guarantee\": if goods ordered online or over the telephone are not available for collection at a local store within 24 minutes of purchase, the customer can claim a $24 gift voucher. Apart from instant consumer gratification, why would someone want the convenience of buying online only to trek to a store to take delivery? There are, it appears, many reasons. Some people want to examine items before they accept them; some want to save on delivery costs; others want to avoid hanging around for the delivery man to call. For many, the chief reason is that they trust a big retailing brand with a local store – not least because they will know where goods can be returned if there is a problem. With more than 3,700 stores in America alone, this hands Wal-Mart another big advantage. It is developing services that link the web with its stores, such as e-mailing digital pictures and picking up the prints.\n\n(G) Does this mean retailing giants will come to dominate the web just as they do the high street? Some might carve out large chunks of cyberspace. Tesco, for instance, has a huge 30% share of the British grocery market. Online it is even more popular: Nielsen//NetRatings says almost 70% of online shoppers plan to buy groceries this Christmas from tesco.com. Even the big traditional retailers still face competition online. For instance, Wal-Mart may have more than five times the annual sales of Target, but Target's website is growing faster and, according to some analysts, the average value of an online sale at Target is roughly three times more than one made online at Wal-Mart. This is one reason why Wal-Mart is now offering more upmarket goods on its website, including diamond rings. So, should Amazon have stuck to books? Jeff Bezos, its founder and chief executive, does not think so and likes to plug his site, with its growing army of other traders, as offering \"earth's biggest selection\". Nevertheless, he is spreading his bets. These days, Amazon also sells its e-commerce experience, helping to run the websites of big, traditional retailers such as Target and Britain's Marks & Spencer."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: Can You Charm Your Way into Oxbridge?",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-180-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Rachel Holland's advice does not include how to",
+          "options": [
+            {
+              "id": "A",
+              "text": "pass exams"
+            },
+            {
+              "id": "B",
+              "text": "eat correctly."
+            },
+            {
+              "id": "C",
+              "text": "talk about non-academic subjects."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Rachel Holland believes parents don't teach many things to their children because they",
+          "options": [
+            {
+              "id": "A",
+              "text": "have so little time."
+            },
+            {
+              "id": "B",
+              "text": "don’t know how to do such things."
+            },
+            {
+              "id": "C",
+              "text": "haven’t been well educated."
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Making small talk well involves",
+          "options": [
+            {
+              "id": "A",
+              "text": "remembering what people say."
+            },
+            {
+              "id": "B",
+              "text": "walking correctly."
+            },
+            {
+              "id": "C",
+              "text": "asking questions."
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Alex Green says he feels",
+          "options": [
+            {
+              "id": "A",
+              "text": "more confident."
+            },
+            {
+              "id": "B",
+              "text": "healthier."
+            },
+            {
+              "id": "C",
+              "text": "more energetic."
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Rachel Holland used to teach ______",
+          "answer": "Maths",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The boys are taught to say their names as they ______",
+          "answer": "shake hands",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "One of Rachel's courses involves teaching ______to younger children.",
+          "answer": "basic manners",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Cotswold School is a ______school.",
+          "answer": "(state) sector",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Rachel teaches the boys how to put more ______into their walking.",
+          "answer": "confidence and authority",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q36",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "All of the Oxbridge candidates at Cotswold School are receiving coaching from Rachel Holland.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Some of Rachel's courses include tips on writing.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Rachel thinks her job would be more difficult if she was teaching the boys.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The skills Rachel teaches are the key to getting an Oxbridge place.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-180-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The boys are not interested in things that are not relevant to them.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "False",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "Can You Charm Your Way into Oxbridge?",
+        "text": "It s Oxbridge season again, and thousands of applicants are anxiously waiting to be called to interview. Independent schools will be putting the final polish on candidates who may well have already had a year's intensive preparation. Candidates, if they are lucky, might get a five-minute mock interview with one of their teachers. At the Cotswold School, in Bourton-on-the-Water, a Gloucestershire comprehensive, it's a different story. Here, the eight Oxbridge candidates, all boys, are being given intensive social grooming courtesy of Rachel Holland, a former independent-school maths teacher and housemistress, who has clipped along in her high heels and smart, pink linen two-piece to give them a morning's tuition in the lost arts of sitting, standing, walking, making small talk, dressing well, and handing round canapés. It might sound the sort of thing that would have sceptical teenagers lolling in their chairs and rolling their eyes skywards, but Rachel Holland is warm, engaging, funny, and direct. People, she tells the boys bluntly, always judge others within a few seconds of meeting them, which is why first impressions are so vital. Step by step she takes the group through a good \"meet and greet\" how to smile, make eye contact, and give a firm handshake. Lolling in chairs is a no-no, she says, even when you're waiting outside an interview room. \"And don't sit with your legs really far apart, either.\" How do you enter an interview room? Rachel Holland demonstrates, miming closing the door quietly behind her, smiling warmly, walking confidently across the carper, and shaking each interviewer's hand as she says her name. Then the boys do it, over and over again \"head up, don't rush it, turn and sit down, but remember, don't sit down until you're invited to. Imagine your interviewers have had a bad day. You need to brighten it up for them. You need to announce to them that you're here. What you're saying when you come in like this is: 'Here I am, I'm so-and-so, and I'm really pleased to see you. Pay attention to me. I want my place, and you should give it to me!'\" Rachel Holland set up Rachel Holland Associates to teach social skills after realising the popularity of the workshops she devised for the pupils of Millfield, the school where she was working. Her courses range from a three-hour workshop on basic manners for 7- to 10-year-olds, to a one-term course for school leavers on etiquette and life skills, which covers all aspens of modern life including how to walk in high heels, accept a compliment, write a thank-yon letter, and know when not to use a mobile phone, \"livery child, no matter what their background, needs to he given social skills,\" she says. 'Everyone needs to know how to he polite and well mannered.\" Once upon a time teaching these things was considered a parents' job, but today's parents, she says, are often as confused as their offspring. \"They ask me, 'What should my child wear to interview?' Then I get lots of questions about eating. Young people say 'If there's lots of cutlery, what should I do?' They find the idea of, say, eating, a meal with a future employer very intimidating. I think social skills need to be taught as a proper subject in schools, not an add-on, although it helps that I'm coming in from outside and am not their maths or physics teacher.\" So far, she has taken her new company into four independent schools and has now come to the Cotswold School to try out her skills in the state sector by working with this small Oxbridge group, and running a larger workshop for 11-year-olds. The headmistress, Ann Holland, came across her work through a family connection – Rachel Holland is her husband's niece and thought: \"If they're doing this, why shouldn't my children have some of it, too?\" Neither she, nor the boys, think for a minute that knowing how to hand round canapés is the key to getting into Oxbridge. Nevertheless, the effect of the workshop is astonishing. Over the course of the morning, the candidates are transformed from amiable, lounging schoolboys into young men with palpable presence who both charm and command your attention. Holland, watching the action, straightens her back in her chair. \"This is really, really practical stuff. I only wish someone had told me all this when I was young.\" The boys, who come from a wide span of social backgrounds, soak up the non-stop stream of tips, ask lots of questions, and haw fun swaggering up and down to music, trying to inject more confidence and authority into the way they walk. However, they find learning how to make small talk in twos, and then threes, a tricky business. \"It's hard work,\" agrees Rachel Holland. \"You've got to store some questions in your head. You've got to fake it. You've got to look relaxed and confident. And remember the most important thing smile!\" After a break, she turns to clothes. The boys are told to buy the best quality they can afford, to know their measurements – a tape measure is whipped out, and they are all measured for sleeve length and neck sice – and \"always to try and buy a suit with vents at the back. It allows you to move. It really makes a difference.\" They are told when people wear evening dress, what \"smart casual\" consists of, and how \"come as you are\" invitations tend not to mean what they say. \"When would you wear a morning suit?\" Rachel Holland asks them. \"In the morning?\" they volunteer, hopefully. Aspects of the workshop, like knowing when to wear a top hat, are clearly not relevant to their young lives, but they like being told what's what and. during a break, wax enthusiastic. Alex Green, 17, who is applying to read geography at Cambridge, says the morning has boosted his confidence. \"I feel more assured of myself. I feel I know how to control myself in an interview. The little things about things like posture are really helpful.\" \"It's really like acting. It's gelling your image across,\" says Alex Bexon, 17, another geographer, who is applying to Oxford."
+      }
+    }
+  ]
+}

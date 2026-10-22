@@ -1,0 +1,578 @@
+{
+  "id": "pte-listening-1",
+  "title": "Listening — Practice Test 1",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-1-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Blue Bay ApartmentsLarge salt water swimming pool– Just ______ .meters from beach",
+          "answer": "300",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "ApartmentsTerraceWatersports£ 490 ______",
+          "answer": "sunshade",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The GrandGreek paintings and ______– Overlooking (4) ______",
+          "answer": "balcony",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The GrandGreek paintings and (3) ______– Overlooking ______",
+          "answer": "forest(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– Near a supermarket and a disco______",
+          "answer": "319",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cancellation______",
+          "answer": "10,000",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hospital£ 600 additional benefit allows a ______to travel to resort",
+          "answer": "relative",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "departureUp to £ 1000 depends on reason ______",
+          "answer": "missed",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Personal belongingsUp to £ 3000 £ 500 for one ______",
+          "answer": "item",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name of assistant manager: Ben ______",
+          "answer": "Ludlow",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Simon's idea for a theme park came from",
+          "options": [
+            {
+              "id": "A",
+              "text": "his childhood hobby"
+            },
+            {
+              "id": "B",
+              "text": "his interest in landscape design"
+            },
+            {
+              "id": "C",
+              "text": "his visit to another park"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When they started, the family decided to open the park only when",
+          "options": [
+            {
+              "id": "A",
+              "text": "the weather was expected to be good"
+            },
+            {
+              "id": "B",
+              "text": "the children weren’t at school"
+            },
+            {
+              "id": "C",
+              "text": "there were fewer farming commitments"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Since opening, the park has had",
+          "options": [
+            {
+              "id": "A",
+              "text": "50,000 visitors"
+            },
+            {
+              "id": "B",
+              "text": "1,000,000 visitors"
+            },
+            {
+              "id": "C",
+              "text": "1,500,000 visitors"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Simon",
+          "options": [
+            {
+              "id": "A",
+              "text": "advertising"
+            },
+            {
+              "id": "B",
+              "text": "animal care"
+            },
+            {
+              "id": "C",
+              "text": "building"
+            },
+            {
+              "id": "D",
+              "text": "educational links"
+            },
+            {
+              "id": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "id": "F",
+              "text": "food and drink"
+            },
+            {
+              "id": "G",
+              "text": "sales"
+            },
+            {
+              "id": "H",
+              "text": "staffing"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q15",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Liz",
+          "options": [
+            {
+              "id": "A",
+              "text": "advertising"
+            },
+            {
+              "id": "B",
+              "text": "animal care"
+            },
+            {
+              "id": "C",
+              "text": "building"
+            },
+            {
+              "id": "D",
+              "text": "educational links"
+            },
+            {
+              "id": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "id": "F",
+              "text": "food and drink"
+            },
+            {
+              "id": "G",
+              "text": "sales"
+            },
+            {
+              "id": "H",
+              "text": "staffing"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q16",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Sarah",
+          "options": [
+            {
+              "id": "A",
+              "text": "advertising"
+            },
+            {
+              "id": "B",
+              "text": "animal care"
+            },
+            {
+              "id": "C",
+              "text": "building"
+            },
+            {
+              "id": "D",
+              "text": "educational links"
+            },
+            {
+              "id": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "id": "F",
+              "text": "food and drink"
+            },
+            {
+              "id": "G",
+              "text": "sales"
+            },
+            {
+              "id": "H",
+              "text": "staffing"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q17",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Duncan",
+          "options": [
+            {
+              "id": "A",
+              "text": "advertising"
+            },
+            {
+              "id": "B",
+              "text": "animal care"
+            },
+            {
+              "id": "C",
+              "text": "building"
+            },
+            {
+              "id": "D",
+              "text": "educational links"
+            },
+            {
+              "id": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "id": "F",
+              "text": "food and drink"
+            },
+            {
+              "id": "G",
+              "text": "sales"
+            },
+            {
+              "id": "H",
+              "text": "staffing"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q18",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Judith Area of work",
+          "options": [
+            {
+              "id": "A",
+              "text": "advertising"
+            },
+            {
+              "id": "B",
+              "text": "animal care"
+            },
+            {
+              "id": "C",
+              "text": "building"
+            },
+            {
+              "id": "D",
+              "text": "educational links"
+            },
+            {
+              "id": "E",
+              "text": "engine maintenance"
+            },
+            {
+              "id": "F",
+              "text": "food and drink"
+            },
+            {
+              "id": "G",
+              "text": "sales"
+            },
+            {
+              "id": "H",
+              "text": "staffing"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Go-kart arena______ sq mtRemoving mounds on track(20) ______yaer olds",
+          "answer": "120",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Go-kart arena(19) ______ sq mtRemoving mounds on track______yaer olds",
+          "answer": "5-12",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q21",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Dissertation topic: the ______",
+          "answer": "fishing industry",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q22",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Strengths: ______",
+          "answer": "statistics",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q23",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Poor ______",
+          "answer": "note-taking",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q24",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Peer group discussionIncrease ______Dissertations tend to contain the same (25) ______",
+          "answer": "confidence",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q25",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Peer group discussionIncrease (24) ______Dissertations tend to contain the same ______",
+          "answer": "ideas",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Use the ______serviceProvides structured programmeLimited (27) ______",
+          "answer": "student support",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Use the (26) ______serviceProvides structured programmeLimited ______",
+          "answer": "places",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Consult study skill booksAre a good source of referenceCan be too ______",
+          "answer": "general",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Read all notes ______",
+          "answer": "3 times",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Next tutorial date: ______",
+          "answer": "25",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q31",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The owners of the underground house",
+          "options": [
+            {
+              "id": "A",
+              "text": "had no experience of living in a rural area"
+            },
+            {
+              "id": "B",
+              "text": "were interested in environmental issues"
+            },
+            {
+              "id": "C",
+              "text": "wanted a professional project manager"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q32",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What does the speaker say about the site of the house?",
+          "options": [
+            {
+              "id": "A",
+              "text": "The land was quite cheap"
+            },
+            {
+              "id": "B",
+              "text": "Stone was being extracted nearby"
+            },
+            {
+              "id": "C",
+              "text": "It was in a completely unspoilt area"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The south-facing side was constructed of two layers of ______",
+          "answer": "glass",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• A layer of foam was used to improve the ______",
+          "answer": "insulation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• To increase the light, the building has many internal mirrors and ______",
+          "answer": "windows",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• In future, the house may produce more ______",
+          "answer": "electricity",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• Recycled wood was used for the ______",
+          "answer": "floor(s)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The system for processing domestic ______",
+          "answer": "waste",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• The use of large quantities of ______",
+          "answer": "concrete",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-1-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "• But the house will have paid its 'environmental debt' within ______",
+          "answer": "15 years",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/1_we.mp3"
+    }
+  ]
+}

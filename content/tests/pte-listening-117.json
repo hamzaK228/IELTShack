@@ -1,0 +1,572 @@
+{
+  "id": "pte-listening-117",
+  "title": "Listening — Practice Test 117",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-117-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Conference dates: ______",
+          "answer": "18-20 October",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Conference venue: ______",
+          "answer": "the pacific hotel",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Reservations phone no.: ______",
+          "answer": "0793332266",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Student rate per day: ______",
+          "answer": "$60",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Contact person: ______",
+          "answer": "professor burt",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Closing date for talks: ______",
+          "answer": "last friday",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Summary should have: ______",
+          "answer": "an interesting title",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Maximum length: ______",
+          "answer": "300 words",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Also send: ______",
+          "answer": "brief CV",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Email address: ______ @uniconf.edu.au",
+          "answer": "info",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q11",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The house was built between ______",
+          "answer": "1771-1778",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "It was originally constructed as a/ an:",
+          "options": [
+            {
+              "id": "A",
+              "text": "family home"
+            },
+            {
+              "id": "B",
+              "text": "office"
+            },
+            {
+              "id": "C",
+              "text": "public house"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q13",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The house contains art from ______",
+          "answer": "all over Europe",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q14",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Until recently, the art gallery was ______",
+          "answer": "closed to public",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Tomorrow's talk will be on ______",
+          "answer": "the art gallery",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Breakfast is served in the cafeteria or ______",
+          "answer": "your room",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "You can choose between English breakfast or ______",
+          "answer": "vegetarian food",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "A car park was built because of an increase in ______",
+          "answer": "visitors",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The garden contains many ______",
+          "answer": "animals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The animals at Apsley House are all ______",
+          "answer": "very friendly",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which college does Chris suggest would be best?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lees Conservatory of Contemporary Music"
+            },
+            {
+              "id": "B",
+              "text": "The Henry Music Institute"
+            },
+            {
+              "id": "C",
+              "text": "The Academy in London"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What entry requirements are common to all the colleges?",
+          "options": [
+            {
+              "id": "A",
+              "text": "an audition"
+            },
+            {
+              "id": "B",
+              "text": "an essay"
+            },
+            {
+              "id": "C",
+              "text": "an interview"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How much does the course at Leeds Conservatory of Contemporary Music cost?",
+          "options": [
+            {
+              "id": "A",
+              "text": "£6000 a year"
+            },
+            {
+              "id": "B",
+              "text": "£7000 a year"
+            },
+            {
+              "id": "C",
+              "text": "£8000 a year"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "What other expenses are payable to the colleges?",
+          "options": [
+            {
+              "id": "A",
+              "text": "application fee"
+            },
+            {
+              "id": "B",
+              "text": "insurance"
+            },
+            {
+              "id": "C",
+              "text": "train fare"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "When is the deadline for Leeds Conservatory of Contemporary Music?",
+          "options": [
+            {
+              "id": "A",
+              "text": "January 9th"
+            },
+            {
+              "id": "B",
+              "text": "January 19th"
+            },
+            {
+              "id": "C",
+              "text": "January 30th"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q26",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Northdown College",
+          "options": [
+            {
+              "id": "A",
+              "text": "large gardens"
+            },
+            {
+              "id": "B",
+              "text": "multiple sites"
+            },
+            {
+              "id": "C",
+              "text": "practice rooms"
+            },
+            {
+              "id": "D",
+              "text": "recording studio"
+            },
+            {
+              "id": "E",
+              "text": "research facility"
+            },
+            {
+              "id": "F",
+              "text": "student canteen"
+            },
+            {
+              "id": "G",
+              "text": "technology suite"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q27",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Academy in London",
+          "options": [
+            {
+              "id": "A",
+              "text": "large gardens"
+            },
+            {
+              "id": "B",
+              "text": "multiple sites"
+            },
+            {
+              "id": "C",
+              "text": "practice rooms"
+            },
+            {
+              "id": "D",
+              "text": "recording studio"
+            },
+            {
+              "id": "E",
+              "text": "research facility"
+            },
+            {
+              "id": "F",
+              "text": "student canteen"
+            },
+            {
+              "id": "G",
+              "text": "technology suite"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q28",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Leeds Conservatory of Contemporary Music",
+          "options": [
+            {
+              "id": "A",
+              "text": "large gardens"
+            },
+            {
+              "id": "B",
+              "text": "multiple sites"
+            },
+            {
+              "id": "C",
+              "text": "practice rooms"
+            },
+            {
+              "id": "D",
+              "text": "recording studio"
+            },
+            {
+              "id": "E",
+              "text": "research facility"
+            },
+            {
+              "id": "F",
+              "text": "student canteen"
+            },
+            {
+              "id": "G",
+              "text": "technology suite"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q29",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The Henry Music Institute",
+          "options": [
+            {
+              "id": "A",
+              "text": "large gardens"
+            },
+            {
+              "id": "B",
+              "text": "multiple sites"
+            },
+            {
+              "id": "C",
+              "text": "practice rooms"
+            },
+            {
+              "id": "D",
+              "text": "recording studio"
+            },
+            {
+              "id": "E",
+              "text": "research facility"
+            },
+            {
+              "id": "F",
+              "text": "student canteen"
+            },
+            {
+              "id": "G",
+              "text": "technology suite"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q30",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The James Academy of Music",
+          "options": [
+            {
+              "id": "A",
+              "text": "large gardens"
+            },
+            {
+              "id": "B",
+              "text": "multiple sites"
+            },
+            {
+              "id": "C",
+              "text": "practice rooms"
+            },
+            {
+              "id": "D",
+              "text": "recording studio"
+            },
+            {
+              "id": "E",
+              "text": "research facility"
+            },
+            {
+              "id": "F",
+              "text": "student canteen"
+            },
+            {
+              "id": "G",
+              "text": "technology suite"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "According to the speaker, art and music can benefit patients' emotional and physical well-being. ______",
+          "answer": "social",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Florence Nightingale first noted the improvements in the year ______",
+          "answer": "1860",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The results of many did not prove a link between health and art as they were rarely ______",
+          "answer": "strictly controlled",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The American study looked at the effects of architecture on patients' ______",
+          "answer": "recovery time",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The patients who were in a ward with a were not in hospital for as long and needed less medication. ______",
+          "answer": "nice view",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Unborn babies______heart rate increasedmother felt relaxed",
+          "answer": "live music",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cancer patients______(38) ______improvements in well-being",
+          "answer": "artistic pictures",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Cancer patients(37) ______improvements in well-being",
+          "answer": "less pain",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hip replacement (elderly)______eased anxietystaff (40) ______",
+          "answer": "classical (music)",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-117-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Hip replacement (elderly)(39) ______eased anxietystaff ______",
+          "answer": "(felt) happier",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/117_we.mp3"
+    }
+  ]
+}

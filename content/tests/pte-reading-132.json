@@ -1,0 +1,746 @@
+{
+  "id": "pte-reading-132",
+  "title": "Academic Reading — Practice Test 132",
+  "kind": "practice",
+  "description": "3 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: the world is our oyster",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-132-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Opportunities to fund expenses through casual work increase the volume of visitors to a particular destination.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Attitude to the tourism industry of the local people has had a positive impact on visitor numbers",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Diverse attractions mean a destination is able to appeal to a wider range of people",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q4",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Motivations for different approaches to travel by different generations List of People",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q5",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Interaction with others is generally more difficult when travelling alone than in normal life situations.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "No",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q6",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Travelling by plane to other domestic destinations in Australia is cheaper than other forms of transport.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q7",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Train travel in Vietnam can be too time-consuming for short visits.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Yes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q8",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Experienced backpackers rarely travel to destinations such as Australia.",
+          "options": [
+            {
+              "id": "Yes",
+              "text": "Yes"
+            },
+            {
+              "id": "No",
+              "text": "No"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Vietnam – tourism industry growing as is its ______",
+          "answer": "ECONOMY",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Thailand – certain ______ are advisable – e.g. wash fruit",
+          "answer": "PRECAUTIONS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Australia – Great Barrier Reef can be described as a ______",
+          "answer": "MARINE PARADISE",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "the world is our oyster",
+        "text": "(A) Independent travel is on the increase and while package holidays which offer an all inclusive price for transport, accommodation and often even food are financially attractive to many, according to tourism analyst Thomas Cooper, an increasing number of people now prefer a less-tailored holiday and the freedom to make spur of the moment decisions and changes to their intended plan.\n\n(B) Internet based information sites about backpacking destinations are prolific and publications aimed at independent travellers on a budget exist for almost every destination imaginable. Some people, particularly first-time backpackers, may elect to travel with a friend or acquaintance; however, a large percentage of backpackers travel alone, assured by the knowledge that they are likely to meet, with ease, a number of like-minded individuals throughout their journey and staying in their backpacker accommodation. Alan Park, who has travelled extensively through Europe, Australasia and several other parts of the globe, says most accommodation establishments aimed at the backpacker market are designed with communal kitchens, dormitories and entertainment areas which lend themselves to allowing residents to socialize with ease and quickly breakdown barriers with strangers that may usually exist in day to day life.\n\n(C) Many backpackers of European origin are attracted to the Southern Hemisphere, Australia being a major destination of choice. Cooper attributes this high level of interest to the possibilities of legal working holiday visas for many nationalities and consequent short-term work opportunities making extended travel financially feasible, in addition to the attractive climate and outback appeal. Australia also has the reputation of being a relatively safe destination, with a warm and jovial population and its size and contrast between locations is alluring to many. University student Rebecca Thompson, who has just returned from a twelve month overseas trip, says that the cosmopolitan and modern nature of Australian cities such as Sydney and Melbourne contrasted with the rugged outback appeal of Western Australia and the Northern Territory, or the marine paradise of the Great Barrier Reef offer sufficient variation to attract a wide base of visitors. Sydney based travel consultant Brad Connor advises that it is also possible to obtain bargain deals on internal flights within this massive island when purchasing an international ticket, highly recommended, he says, for those who do not have the luxury of a long length of time, in order to ensure that key spots can be visited.\n\n(D) Equal in popularity to Australia, for the backpacking market is South East Asia and Rebecca Thompson says that, in her experience, the majority of travellers on extended trips to Australasia also include a visit to one or more South East Asia destinations in their itinerary. Thailand, in particular, has a long tourism history and well-established service industry. It is often considered one of the more accessible Asian destinations for the novice European backpacker due to its reasonable prices, large volume of Western visitors and well established backpacker trails. Brian Johnson, who is currently employed by the British Consulate in Bangkok, believes that the welcoming nature and level of English spoken by Thais involved in the tourism industry has also impacted positively on the destination's overseas image. Thai food is delicious and now fairly familiar to those outside the country and while precautions such as drinking bottled water and washing of fruit and vegetables should be practiced, generally standards of accommodation and restaurants are high. Thomas Cooper says Thailand's attractions are wide ranging, encompassing idyllic beaches, an insight into Buddhist culture and impressive ancient temples, mountain trekking, a vibrant nightlife and for bargain hunters bustling night markets and bazaars.\n\n(E) South East Asia neighbour, Vietnam, alongside its rapidly developing economy has also over recent years established a solid tourism industry, the majority of visitors entering and exiting by plane via its urban centres Ho Chi Minh (formerly Saigon) in the south and Hanoi in the north. Vietnam offers incredible vistas and contrasts of rugged mountain areas, lush green rice paddies, crystal clear waters and dense forest areas. Alan Park, who spent a month travelling independently around the country, says bus and rail networks allow visitors to travel from centre to centre relatively inexpensively, though he does not recommend these forms of transport to visitors on a short time-frame as the pace is unhurried.\n\n(F) The list of potentially safe and enjoyable backpacking destinations is endless. Technology and transport developments over recent time have resulted in more areas of the world becoming increasingly accessible, it is now possible to keep in regular contact with friends and family back home via email or even mobile phone, providing added reassurance to those concerned about travelling and their worried parents. Brian Johnson says friends, family and acquaintances who have previously travelled to the destination of choice are a useful source of first-hand advice and information and Simon Hartwell of the Backpackers Association adds travellers are advised to ensure that they are aware of visa requirements for their destination and are urged to seek medical advice regarding any necessary vaccinations or medical precautions. It is always wise to be as well informed as possible prior to embarking on a trip.\n\n(G) The youth of today are undoubtedly becoming more adventurous, which Hartwell ascribes to higher disposable income in the developed world than were available to previous generations and also the fact that we can more easily familiarise ourselves with the unknown via the internet and other communication methods. Many travellers, particularly experienced backpackers, are keen to experience more obscure destinations well off the well-trodden backpacker trail."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: an aviation wonder and its creator",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-132-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 1: Development of the ______ first established Mitchell as fighter plane engineer",
+          "answer": "S.B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 2: The ______ developed but deemed inadequate",
+          "answer": "224",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q14",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 3: The 300 developed – financed by ______",
+          "answer": "PRIVATE SPONSORSHIP",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q15",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 5: First used by the RAF in ______",
+          "answer": "1938",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q16",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 7: During the second world war ______ Spitfires of different models and types produced altogether",
+          "answer": "20,351",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q17",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Step 8: Use continued for ______ purposes until 1954",
+          "answer": "SURVEILLANCE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q18",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Its development was commissioned by the Air Ministry",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Supermarine SB"
+            },
+            {
+              "id": "B",
+              "text": "the Spitfire"
+            },
+            {
+              "id": "C",
+              "text": "neither the Supermarine SB or the Spitfire"
+            },
+            {
+              "id": "D",
+              "text": "both the Supermarine SB and the Spitfire"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q19",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Mitchell was awarded the CBE due to its development.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Supermarine SB"
+            },
+            {
+              "id": "B",
+              "text": "the Spitfire"
+            },
+            {
+              "id": "C",
+              "text": "neither the Supermarine SB or the Spitfire"
+            },
+            {
+              "id": "D",
+              "text": "both the Supermarine SB and the Spitfire"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q20",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "It was innovative for its time",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Supermarine SB"
+            },
+            {
+              "id": "B",
+              "text": "the Spitfire"
+            },
+            {
+              "id": "C",
+              "text": "neither the Supermarine SB or the Spitfire"
+            },
+            {
+              "id": "D",
+              "text": "both the Supermarine SB and the Spitfire"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Where the Royal Air Force showed faith in Mitchell's engineering capability without complete evidence.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            },
+            {
+              "id": "E",
+              "text": "E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Where Mitchell's involvement influenced a business purchase",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Supermarine SB"
+            },
+            {
+              "id": "B",
+              "text": "the Spitfire"
+            },
+            {
+              "id": "C",
+              "text": "neither the Supermarine SB or the Spitfire"
+            },
+            {
+              "id": "D",
+              "text": "both the Supermarine SB and the Spitfire"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q23",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "How Mitchell has been honoured since his death.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            },
+            {
+              "id": "G",
+              "text": "G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q24",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "details of specific differences between spitfire models",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            },
+            {
+              "id": "F",
+              "text": "F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q25",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "details of what differentiated the Spitfire from other alternatives.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Simon Hartwell"
+            },
+            {
+              "id": "B",
+              "text": "Brian Johnson"
+            },
+            {
+              "id": "C",
+              "text": "Thomas Cooper"
+            },
+            {
+              "id": "D",
+              "text": "Rebecca Thompson"
+            },
+            {
+              "id": "E",
+              "text": "E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "an aviation wonder and its creator",
+        "text": "(A) The Supermarine Spitfire was a single-seater fighter plane used by the British Royal Airforce and pilots from a number of the country's allies during the Second World War. The first flight of a Spitfire prototype was on 5 March 1936 and usage of the plane continued until the 1950s. It was said to be one of the most effective fighter planes available during that period and was produced by Vickers-Armstrongs, a British engineering corporation which was formed in 1927 as a result of the merger of Vickers Limited and Sir W G Armstrong Whitworth & Company.\n\n(B) The Spitfire was designed by aeronautical engineer Reginald Joseph Mitchell. His career began when he joined a locomotives engineering company in 1911 at the age of 16. However, in 1917 he moved from his home town to join the Supermarine Aviation works in Southampton and was promoted to Chief Designer within his first year of employment. By the time the company was taken over by Vickers-Armstrongs in 1928, Mitchell had held the post of Technical Director for a year; and his capabilities and contributions were deemed so significant Vickers-Armstrong made his continual employment for a five year period a condition of the purchase of the company.\n\n(C) In the fifteen years prior to 1936 Mitchell designed 24 aircraft of differing categories including fighter planes, bombers and seaplanes. The first predecessor of the Spitfire in the fighter plane category to gain him national acclaim was the Supermarine S.B for which he won the Schneider Trophy (a cup and monetary award for technical advances in aviation which came to focus mainly on speed) in 1931. Despite withdrawal of financial support from the British Government that year, the Supermarine S.B. was able to compete for the Schneider Trophy as a result of a private donation of 100,000 pounds. Mitchell's team won outright on September 13th their aircraft achieving a new world speed record of 606 km/h; within days the Supermarine S.B. went on to break its own newly achieved record when on the 29th of the same month it became the first aircraft ever to achieve speeds of over 400 miles per hour (640 kilometres) when it reached 407.5 mph (640 kilometres per hour).\n\n(D) Reginald Joseph Mitchell was awarded a CBE in 1932 for his contributions to high speed flight. CBEs being awarded by the British Monarch and reserved to recognise individuals who have 'fulfilled a conspicuous leading role in regional affairs, through achievement or service to the community, or making a highly distinguished, innovative contribution in his or her area of activity'. Mitchell's achievements with the Supermarine S.B. also prompted the Air Ministry to contract his company for design of a new fighter aircraft, despite the organisation's reputation being built predominantly on sea-plane and not fighter plane manufacturing.\n\n(E) The first type, the 224, was to prove unsuccessful and it was eventually rejected by the Royal Air Force due to unsatisfactory performance; however, private sponsorship enabled research, development and modifications which led to the creation of the Type 300 which would eventually become the Spitfire. Soon after the first flight of the Spitfire prototype (trial version) and prior to completion of all stages of its official trials, convinced by its potential, the British Royal Air Force ordered 310 models. With its smooth lines, load-bearing metal shell, and heavy eight-machine gun armament, the Spitfire was considered revolutionary. In 1938, the aircraft was first put into official service; however, Mitchell, who died from cancer in 1937 at the age of 42, was not to witness this or the extensive impact and longevity of use the aircraft would have. In total 20,351 spitfires of different versions were produced making it the most produced British aircraft of the Second World War.\n\n(F) After Mitchell's death, his former Chief Draughtsman Joe Smith took over the position of Technical Director and led the subsequent development of the Spitfire which would keep it at the forefront of aircraft technology while many other designs quickly became obsolete; 24 models of spitfire were designed along with many sub-variants containing different engine types and possessing different wing configurations; the most widely used being the Spitfire Mark V, of which 6,479 were built. The original version first used for active service in 1938 had a top speed of approximately 580 km per hour; while one of the last models used in the later stages of the Second World War – the Spitfire XIV – had a top speed capability of 710 km per hour. Spitfires were used continually by the Royal Air Force, later purely as surveillance planes (to monitor activity overhead though carrying no armament), until 1954 when the last model was retired.\n\n(G) In his home town, Reginald Joseph Mitchell C.B.E. is today remembered in a number of ways. A combined theatre and education centre 'The Mitchell Memorial Theatre' bears his name, and the city museum, at the entrance of which stands a bronze statue of Mitchell, displays an authentic and complete Spitfire as part of its collection. In addition, a local high school is named after him; as is a major roadway and he is locally recognised as one of the most significant historical sons of the town."
+      }
+    },
+    {
+      "id": "passage-3",
+      "skill": "reading",
+      "title": "Reading — Passage 3: nature's most violent wind",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-132-q26",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Hurricanes are described as",
+          "options": [
+            {
+              "id": "A",
+              "text": "more hostile than tornados and occurring in the sea"
+            },
+            {
+              "id": "B",
+              "text": "occurring on land and less harmful than tornados"
+            },
+            {
+              "id": "C",
+              "text": "less damaging than tornados and occurring in marine environments"
+            },
+            {
+              "id": "D",
+              "text": "only occurring in certain oceans with a fiercer effect than a tornado"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q27",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Tornados in the USA",
+          "options": [
+            {
+              "id": "A",
+              "text": "occur only in spring and summer"
+            },
+            {
+              "id": "B",
+              "text": "continually travel from southwest to northeast"
+            },
+            {
+              "id": "C",
+              "text": "are less prevalent in winter"
+            },
+            {
+              "id": "D",
+              "text": "are experienced exclusively by the southern and northern states"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q28",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Tornados are common in the USA because",
+          "options": [
+            {
+              "id": "A",
+              "text": "the Rocky Mountains inhibit cold air from the north and warm air from the south making contact"
+            },
+            {
+              "id": "B",
+              "text": "because warm, humid air which builds up meets cooler air without interference"
+            },
+            {
+              "id": "C",
+              "text": "of the high incidence of thunderstorms which are experienced in central USA"
+            },
+            {
+              "id": "D",
+              "text": "warm air from the tropics allows optimum conditions to develop"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q29",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Tornados may be very light in colour if",
+          "options": [
+            {
+              "id": "A",
+              "text": "the observer stands with their back to the sun"
+            },
+            {
+              "id": "B",
+              "text": "they occur at night"
+            },
+            {
+              "id": "C",
+              "text": "they occur in the Great Plains of the USA"
+            },
+            {
+              "id": "D",
+              "text": "they pick up substantial dirt on their journey"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q30",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "Tornados in Bangladesh",
+          "options": [
+            {
+              "id": "A",
+              "text": "are of greater intensity than in USA"
+            },
+            {
+              "id": "B",
+              "text": "can now be effectively predicted"
+            },
+            {
+              "id": "C",
+              "text": "occur mainly in urban areas"
+            },
+            {
+              "id": "D",
+              "text": "cause extensive damage due to sociological factors"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q31",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Label the diagram below. ______",
+          "answer": "75 METERS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q32",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Label the diagram below. ______",
+          "answer": "CALM CENTRE",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q33",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Label the diagram below. ______",
+          "answer": "DESCENDING AIR",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Label the diagram below. ______",
+          "answer": "CONDENSATION FUNNEL",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Label the diagram below. ______",
+          "answer": "20 KMS",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Incidencemake up ______of tornados in the USAmake up about (37) ______of tornados in the USAmake up the smallest minority of tornados in the USA",
+          "answer": "88%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q37",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Incidencemake up (36) ______of tornados in the USAmake up about ______of tornados in the USAmake up the smallest minority of tornados in the USA",
+          "answer": "11%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q38",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Lifespan1-10 minutes20 minutescan last for ______",
+          "answer": "OVER AN HOUR",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q39",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Impactcause less than 5% of tornado related deathscause just over ______of tornado related deathsthe most violent example in the USA was the (40) ______",
+          "answer": "25%",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-132-q40",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "Impactcause less than 5% of tornado related deathscause just over (39) ______of tornado related deathsthe most violent example in the USA was the ______",
+          "answer": "TRI-STATE TORNADO",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p3",
+        "title": "nature's most violent wind",
+        "text": "(A) Tornados have been observed in every continent on the planet with the exception of Antarctica. Hurricanes differ from tornadoes, in that the former develop in warm, tropical oceans whereas tornados develop on land and are more aggressive and potentially destructive. The majority of tornados are initiated by thunderstorms. Tornados are relatively common occurrences at differing magnitudes throughout the world. The geographical features of the U.S.A. lend themselves to high incidence of tornado activity. In that country the highest proportion of tornados occur in the southern states in spring from March to May and in the northern states from late spring extending into summer. Generally tornados travel from southwest to northeast, though neither time of year nor direction they will take is completely predictable.\n\n(B) Several factors cause the U.S.A. to experience a high incidence of tornado formation. While the continent reaches from arctic areas in the north to a tropical climate in the south there is no barrier protection from significant mountain ranges in the east or west; however, the Rocky Mountains in the middle latitudes of the country obstruct atmospheric flow and moisture. In addition, drier air from the southwest deserts and low level moisture from the Gulf of Mexico meet in the area, many collisions of warm and cool air occur and optimum conditions for tornado formation are created. Tornados in this central part of the U.S.A. are so prolific that the area has been named Tornado Alley, the site of the highest number of powerful tornados in the country and throughout the world. In the USA alone, in an average year 1200 tornados occur causing 70 fatalities and 1500 injuries and in addition extensive damage to property and natural vegetation.\n\n(C) Connected between a cloud base above (usually cumulonimbus) and the earth below, a tornado is a rapidly rotating column of air; they can be as much as 20 kilometres in height. The majority are less than 75 metres in diameter reaching wind speeds of less than 177kms per hour and travel less than 10 kilometres before dissipating; however, some of the larger and rarer of this type of weather phenomenon may reach wind speeds of more than 480kms/hour traveling more than 100 kilometers before cessation. The inside of a tornado is made up of descending air and this is surrounded by a spiraling upward current which has the ability to carry with it and destroy even substantial obstacles such as tress, cars and houses in its path. Scientific research and eyewitness accounts indicate that most tornados also possess a calm centre in their core, surrounded by the layers of the downward and upward currents of air; this core has been likened to the peaceful central 'eye' at the centre of a tropical cyclone or hurricane.\n\n(D) A tornado itself is not necessarily visible; though the intense low pressure it causes often results in condensation of water vapour which forms into a noticeable condensation funnel. Colours of tornados are also dictated by the environment in which they form. The force of the swirling air causes them to pick up dirt as they travel across the landscape; those with minimal debris remaining grey or white turning darker blue the more they collect, while others in areas such the Great Plains in the USA turn red in colour due to the red soil they collect and carry with them. Background lighting in which a tornado presents itself also affects the naked eye's ability to identify its form as it appears on the horizon. When viewing a tornado with the sun behind it, it will appear to be dark in colour; however, when viewed without the sun in the background, the same tornado appears to be grey or white. On the rare occasions that tornados occur after dark, they pose an increased level of danger as darkness can make them invisible and only radar warnings or possibly sound can warn those in their path that a tornado is on its way.\n\n(E) Tornados are classified into three levels of intensity; these being weak, strong and violent. 88% of tornados occurring in the USA are classified into the first category making them the most common; they account for less than 5% of fatalities resulting from tornado activity, generally reach wind speeds of less than 177kms/hour and have a duration of between 1 and 10 minutes before cessation. In contrast, 'violent' tornados exceed 330 kilometres per hour, can continue for over an hour and while they account for only 1% of incidence of tornados they result in approximately 70% of resultant deaths. The greatest devastation to date, inflicted on the USA by a violent tornado was on March 18th, 1925. The tornado was the longest, fastest and widest tornado known to have formed in North America and resulted in 695 deaths, an additional 2279 being injured. Now known as the Tri-state Tornado, it travelled over 350 kilometres affecting 13 counties in the three different states of Missouri, Illinois and Indiana. Around 11% of tornados are classified as 'strong' tornados. These tornados account for slightly more than 25% of tornado-related fatal accidents and reach mid-range speeds of between 177 and 330 kilometres per hour with an average duration of around 20 minutes.\n\n(F) Today in the USA, early warning systems, which cannot necessarily protect property in the path of a tornado, can allow people time to leave the area and therefore significantly reduce death tolls. However in countries such as Bangladesh, fatalities caused by tornado impact remain extremely high. The rural, central region of the country also experiences a high frequency of strong tornados and the danger is exacerbated due to its densely populated areas, lack of warning systems and vulnerability of building structures. Between 1967 and 1996 the Bangladesh Observer and Pakistan Observer reported 5,373 tornado related deaths: an average of 179.1 per year. The Manikganj Tornado which occurred in 1989 is thought to have caused as a many as 1300 deaths and is known as the deadliest tornado to have occurred anywhere in the world. Many projects delivered by organizations such as the Asian Disaster Reduction Centre (ADRC) have been established with the aim of minimising devastation and death rates caused by tornados in such areas."
+      }
+    }
+  ]
+}

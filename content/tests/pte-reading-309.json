@@ -1,0 +1,911 @@
+{
+  "id": "pte-reading-309",
+  "title": "Academic Reading — Practice Test 309",
+  "kind": "practice",
+  "description": "2 texts, 40 questions.",
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "passage-1",
+      "skill": "reading",
+      "title": "Reading — Passage 1: THE DEVELOPMENT OF THE ENGLISH LANGUAGE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-309-q1",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "examples of languages which contributed to the formation of English",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q2",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "an explanation of why a particular group of people did not contribute many words to the English language",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q3",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "mention of a significant written piece that established English as a language worthy of formal expression",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q4",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "examples of the different ways in which the same person wrote the same word",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "answer": "E",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q5",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "examples of words which English borrowed from French",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q6",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a reference to the physical appearance of an animal",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q7",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "5th century ADGermanic tribes invaded EnglandEnglish contains some ______ words",
+          "answer": "Celtic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q8",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "8th-11th centuries ADThe Vikings invaded EnglandThe English adopted some ______",
+          "answer": "Pronouns",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q9",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "English spelling changed, e.g., \"cwene\" became ______",
+          "answer": "Queen",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q10",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "English adopted different words for ______ and the meats they produced, such as pork from French \"porc\"",
+          "answer": "Animals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q11",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "14th century ADGeoffrey Chaucer wrote The Canterbury TalesChaucer proved that English was a ______ language",
+          "answer": "Literary",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q12",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "15th century ADWilliam Caxton introduced the printing pressThe English language became more ______",
+          "answer": "Standardized",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q13",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "16th century ADThe English RenaissanceThe English language gained many ______ words",
+          "answer": "New",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q14",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a suggestion that the use of self-driving cars may have no effect on the number of vehicles in urban areas",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q15",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a prediction about the use of self-driving cars may be lower than anticipated",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q16",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a suggestion for how to encourage people to share cars",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q17",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a recommendation for reducing dependency on private car ownership.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q18",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a suggestion for how to make streets safer for pedestrians and cyclists",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q19",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "a proposal for designing urban infrastructure to accommodate self-driving cars.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "id": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "answer": "H",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q20",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Self-driving cars will make urban travel easier for people who find it difficult to drive.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q21",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The use of self-driving cars will mean that fewer people own a car.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q22",
+          "skill": "reading",
+          "type": "mcq",
+          "prompt": "The use of self-driving cars will mean that fewer people need to park in city centres. List of Organisations",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q23",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To prepare for the arrival of self-driving cars, cities should focus on reducing parking availability. This can be achieved by raising the ______ of parking or by limiting the number of spaces. Additionally, urban planners should modify infrastructure to support autonomous vehicles by incorporating (24) ______ for electric cars and designing adaptable parking zones.",
+          "answer": "Cost",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q24",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "To prepare for the arrival of self-driving cars, cities should focus on reducing parking availability. This can be achieved by raising the (23) ______ of parking or by limiting the number of spaces. Additionally, urban planners should modify infrastructure to support autonomous vehicles by incorporating ______ for electric cars and designing adaptable parking zones.",
+          "answer": "Charging stations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q25",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The ______ from conventional cars to self-driving vehicles will require strategic planning. Cities must implement policies that ensure minimal disruption during this process. Long-term urban development should prioritize integrating self-driving technology by establishing suitable road networks and smart traffic systems. In the future, (26) ______ must rethink their policies to create sustainable and efficient urban environments.",
+          "answer": "Transition",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q26",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The (25) ______ from conventional cars to self-driving vehicles will require strategic planning. Cities must implement policies that ensure minimal disruption during this process. Long-term urban development should prioritize integrating self-driving technology by establishing suitable road networks and smart traffic systems. In the future, ______ must rethink their policies to create sustainable and efficient urban environments.",
+          "answer": "Cities",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p1",
+        "title": "THE DEVELOPMENT OF THE ENGLISH LANGUAGE",
+        "text": "(A) The history of the English language is a tale of centuries of evolution. In the fifth century AD, Britain was invaded by Germanic tribes from present-day Germany and Denmark. The Angles, Saxons, and Jutes brought with them dialects of the West Germanic family of languages, which are the ancestors of English. The Angles were named from Engle, their land of origin. Their language was called Englisc, which is the origin of the word English. These invaders pushed the original Celtic-speaking inhabitants out of what is now England into Scotland, Wales, Cornwall, and Ireland, leaving behind a few Celtic words. One of these was the Celtic word \"brocc\", which became the modern English word badger. Others include place names such as London, Dover, and Kent.\n\n(B) The next wave of invaders was the Vikings from present-day Norway and Denmark, who spoke Old Norse, a North Germanic language. Many English words that begin with \"sk\" are of Old Norse origin, such as sky, skill, and skin. The Vikings also gave us the pronouns they, their, and them. Although the Vikings left their mark on the English language, they did not add many words to the English vocabulary because the English already had words for the things the Vikings discussed. However, the Old Norse word \"happ\" meaning chance or good luck did make it into modern English as the word happy.\n\n(C) The next invasion of Britain took place in 1066, when William the Conqueror of France invaded England, bringing the French language with him. French became the language of the Norman aristocracy and added more than 10,000 words to the English language. The words crown, castle, court, parliament, army, and government all come from French, as do justice, crime, prison, and tax. The French also left their mark on English spelling. For example, the Old English \"cw\" was changed to the French \"qu\", so the Old English word \"cwene\" became \"queen\". Similarly, the Old English word \"myln\" became mill, and \"cniht\" became \"knight\". The French also gave us many words that we use to describe food. The words \"beef, mutton, pork, and veal\" come from the French words \"boeuf, mouton, porc, and veau\". However, the animals from which these meats come have Anglo-Saxon names: cow, sheep, pig, and calf. This is because the Anglo-Saxons were the ones looking after the animals, while the Normans were the ones who got to eat them.\n\n(D) Up until the 14th century, the English used the Roman numerals they had learned from the Normans. Then, in 1392, a Welshman named Geoffrey Chaucer wrote a poem called A Treatise on the Astrolabe, in which he used Hindu-Arabic numerals (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) for the first time in English. He also wrote The Canterbury Tales, which was the first book of poetry written in English. Chaucer is known as the Father of English literature because he was the first person to prove that English was not a vulgar language but could be used for literary purposes. His works were written in Middle English, which is the name given to the English used from the 11th to the 15th centuries.\n\n(E) In 1476, William Caxton introduced the printing press to England. Books became cheaper and more people learned to read. However, English spelling was still not standardised, and the same word was often spelt several different ways in the same book. Caxton himself was inconsistent, spelling the word book in three different ways on the same page. Caxton published many books in English, which helped it to be standardised more and expand the English vocabulary by introducing words such as canon, catholic, chapter, and history. The first English dictionary, Robert Cawdrey's Table Alphabetical, was published in 1604. It contained 3,000 words, each with a simple definition. The definitions were so simple, in fact, that the word apples was defined as a word used to describe more than one apple.\n\n(F) The English Renaissance saw the invention of new words, as well as new uses for existing ones. The word muscle, for example, comes from the Latin word meaning little mouse. Renaissance doctors thought that the muscles of the human body looked like little mice running around under people's skin. The word fact comes from the Latin word factum, meaning a thing done. Before the Renaissance, a fact was simply something that people did. It was only in the 16th century that the word fact was used to mean something that is true."
+      }
+    },
+    {
+      "id": "passage-2",
+      "skill": "reading",
+      "title": "Reading — Passage 2: THE HISTORY OF LANGUAGE",
+      "instructions": "Read the passage, then answer the questions.",
+      "questions": [
+        {
+          "id": "pte-reading-309-q27",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The emergence of syntax allowed humans to communicate more complex ideas.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "G",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q28",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A biological explanation for language evolution is linked to the development of certain brain areas.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q29",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Understanding how language is used in different situations helped humans communicate effectively.",
+          "options": [
+            {
+              "id": "A",
+              "text": "the International Transport Forum"
+            },
+            {
+              "id": "B",
+              "text": "the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "C",
+              "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+            },
+            {
+              "id": "I",
+              "text": "I"
+            }
+          ],
+          "answer": "I",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q30",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The first stage of language development involved simple vocalizations for basic communication.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q31",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "A possible connection exists between language development and tool usage among humans.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "D",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q32",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "The reason humans are the only species to have developed language is still debated.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q33",
+          "skill": "reading",
+          "type": "matching",
+          "prompt": "Language may have evolved due to the necessity of social interactions and cooperation.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "id": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "id": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "id": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "id": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "id": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "id": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q34",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The evolution of language was probably the result of a combination of factors, including biological, social and ______ ones. It is likely that the first stage involved the development of (35) ______ which were used to convey simple messages. In the second stage, it became possible to construct (36) ______ allowing more complex meanings to be expressed.",
+          "answer": "Environmental",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q35",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The evolution of language was probably the result of a combination of factors, including biological, social and (34) ______ ones. It is likely that the first stage involved the development of ______ which were used to convey simple messages. In the second stage, it became possible to construct (36) ______ allowing more complex meanings to be expressed.",
+          "answer": "Vocalizations",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q36",
+          "skill": "reading",
+          "type": "gap",
+          "prompt": "The evolution of language was probably the result of a combination of factors, including biological, social and (34) ______ ones. It is likely that the first stage involved the development of (35) ______ which were used to convey simple messages. In the second stage, it became possible to construct ______ allowing more complex meanings to be expressed.",
+          "answer": "Entences",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q37",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The size of the human brain is not the only factor which makes humans more intelligent than other species.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q38",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The ability to use language may have resulted in humans becoming more sociable.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q39",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "The development of language may be connected to the use of weapons.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "True",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-reading-309-q40",
+          "skill": "reading",
+          "type": "tfng",
+          "prompt": "Dolphins have a more advanced form of communication than elephants.",
+          "options": [
+            {
+              "id": "True",
+              "text": "True"
+            },
+            {
+              "id": "False",
+              "text": "False"
+            },
+            {
+              "id": "Not Given",
+              "text": "Not Given"
+            }
+          ],
+          "answer": "Not Given",
+          "difficulty": 2
+        }
+      ],
+      "passage": {
+        "id": "p2",
+        "title": "THE HISTORY OF LANGUAGE",
+        "text": "(A) The evolution of language has been a central concern of philosophers, psychologists, and linguists for centuries. The question of how language evolved is intrinsically linked to the question of why humans are the only species to have evolved language. The answer to this question is not straightforward, and there are several competing theories.\n\n(B) One possible theory is that the evolution of language was linked to the evolution of the human brain. The human brain is proportionally larger than that of other species, and it has a larger neocortex, which is the part of the brain responsible for higher-order thinking. The human brain also has a larger Broca's area, which is responsible for speech production, and a larger Wernicke's area, which is responsible for language comprehension. These areas of the brain are also present in other primates, but they are not as developed as they are in humans. This suggests that the evolution of language may have been linked to the evolution of the human brain.\n\n(C) Another possible theory is that the evolution of language was linked to the evolution of social structures. Humans are social animals, and language is a tool that allows us to communicate with one another. It is possible that the evolution of language was driven by the need for humans to communicate with one another in order to cooperate and form social groups. This theory is supported by the fact that other social animals, such as dolphins and elephants, also have complex communication systems.\n\n(D) A third possible theory is that the evolution of language was linked to the evolution of tool use. Humans are unique among animals in their use of tools, and it is possible that the evolution of language was driven by the need for humans to communicate with one another in order to share information about tool use. This theory is supported by the fact that other tool-using animals, such as chimpanzees and crows, also have complex communication systems.\n\n(E) Regardless of the specific theory, it is clear that the evolution of language was a complex process that was influenced by a variety of factors. The evolution of language was likely driven by a combination of biological, social, and environmental factors.\n\n(F) The evolution of language can be divided into several stages. The first stage is the evolution of vocalizations. All animals produce vocalizations, and it is likely that the first stage in the evolution of language was the evolution of vocalizations that were used to communicate with other members of the same species. These vocalizations would have been simple and would have been used to communicate basic information, such as the presence of a predator or the location of food.\n\n(G) The second stage in the evolution of language is the evolution of syntax. Syntax is the set of rules that govern the structure of sentences, and it is what allows us to combine words into sentences that convey complex meanings. The evolution of syntax was likely driven by the need for humans to communicate more complex information. For example, the ability to communicate about the past or the future would have been an important advantage for early humans.\n\n(H) The third stage in the evolution of language is the evolution of semantics. Semantics is the study of meaning, and it is what allows us to understand the meaning of words and sentences. The evolution of semantics was likely driven by the need for humans to communicate more abstract information. For example, the ability to communicate about abstract concepts, such as justice or love, would have been an important advantage for early humans.\n\n(I) The fourth stage in the evolution of language is the evolution of pragmatics. Pragmatics is the study of how language is used in context, and it is what allows us to understand the meaning of a sentence based on the context in which it is used. The evolution of pragmatics was likely driven by the need for humans to communicate more effectively in social situations. For example, the ability to understand sarcasm or irony would have been an important advantage for early humans. J The evolution of language was a complex process that was influenced by a variety of factors. The evolution of language was likely driven by a combination of biological, social, and environmental factors. The evolution of language was a gradual process that took place over millions of years, and it is likely that the evolution of language was influenced by a variety of factors, including the evolution of the human brain, the evolution of social structures, and the evolution of tool use."
+      }
+    }
+  ]
+}

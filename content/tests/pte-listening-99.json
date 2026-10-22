@@ -1,0 +1,488 @@
+{
+  "id": "pte-listening-99",
+  "title": "Listening — Practice Test 99",
+  "kind": "practice",
+  "description": "One recording, 40 questions.",
+  "durationMinutes": 30,
+  "sections": [
+    {
+      "id": "audio-1",
+      "skill": "listening",
+      "title": "Listening — Questions 1–40",
+      "instructions": "Listen to the recording once and answer the questions as you go.",
+      "questions": [
+        {
+          "id": "pte-listening-99-q1",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Ages of children: ______",
+          "answer": "9 and",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q2",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Price inclusive of: ______",
+          "answer": "tax",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q3",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Name: Michael ______",
+          "answer": "Fernsby",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q4",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Date of birth: ______ 1968",
+          "answer": "15 October",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q5",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Post code: ______",
+          "answer": "WC2D5JB",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q6",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Telephone: 08773 ______",
+          "answer": "879456",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q7",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Taxiapproximately ______pick up from the hotel10 minutes",
+          "answer": "15",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q8",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Bus£ 2 per personwalk down Oak Tree ______15 minutes",
+          "answer": "avenue",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q9",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Waling walk through ______(10) ______",
+          "answer": "the (nice) park",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q10",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Waling walk through (9) ______",
+          "answer": "30 minutes",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q11",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The company expanded in",
+          "options": [
+            {
+              "id": "A",
+              "text": "2000"
+            },
+            {
+              "id": "B",
+              "text": "2007"
+            },
+            {
+              "id": "C",
+              "text": "2014"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q12",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "The number of permanent staff is",
+          "options": [
+            {
+              "id": "A",
+              "text": "75"
+            },
+            {
+              "id": "B",
+              "text": "90"
+            },
+            {
+              "id": "C",
+              "text": "150"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q13",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Most volunteers join the program",
+          "options": [
+            {
+              "id": "A",
+              "text": "in winter"
+            },
+            {
+              "id": "B",
+              "text": "in July"
+            },
+            {
+              "id": "C",
+              "text": "when it is best for them"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q14",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Time Abroad receives all its income from",
+          "options": [
+            {
+              "id": "A",
+              "text": "partner organisations"
+            },
+            {
+              "id": "B",
+              "text": "volunteers"
+            },
+            {
+              "id": "C",
+              "text": "the government"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q15",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "English teachinghelping with English ______significantly improves the (16) ______of many children and adults",
+          "answer": "conversation",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q16",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "English teachinghelping with English (15) ______significantly improves the ______of many children and adults",
+          "answer": "learning experience",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q17",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Agriculture and farmingpromoting sustainable and ______farming– promote (18) ______farming methods",
+          "answer": "responsible",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q18",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Agriculture and farmingpromoting sustainable and (17) ______farming– promote ______farming methods",
+          "answer": "organic",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q19",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Veterinary medicine– helping the vet with ______",
+          "answer": "sick animals",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q20",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "– gain a greater ______of the difficulties in the country",
+          "answer": "understanding",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q21",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How long did Louise work at a radio station?",
+          "options": [
+            {
+              "id": "A",
+              "text": "2 years"
+            },
+            {
+              "id": "B",
+              "text": "4 years"
+            },
+            {
+              "id": "C",
+              "text": "6 years"
+            }
+          ],
+          "answer": "A",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q22",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Why does Louise want to do a Masters?",
+          "options": [
+            {
+              "id": "A",
+              "text": "to get a promotion in her current job"
+            },
+            {
+              "id": "B",
+              "text": "to go into TV"
+            },
+            {
+              "id": "C",
+              "text": "Employers like post-graduate qualifications"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q23",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "How long will it take to do the Masters part-time rather than the modular route?",
+          "options": [
+            {
+              "id": "A",
+              "text": "18 months"
+            },
+            {
+              "id": "B",
+              "text": "3 years"
+            },
+            {
+              "id": "C",
+              "text": "4 years"
+            }
+          ],
+          "answer": "B",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q24",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which two things must Louise have to join the course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A bachelor's degree"
+            },
+            {
+              "id": "B",
+              "text": "Work experience"
+            },
+            {
+              "id": "C",
+              "text": "Either a bachelor's degree or work experience"
+            },
+            {
+              "id": "D",
+              "text": "Research experience"
+            },
+            {
+              "id": "E",
+              "text": "A completed thesis"
+            },
+            {
+              "id": "F",
+              "text": "Motivation"
+            }
+          ],
+          "answer": "C",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q25",
+          "skill": "listening",
+          "type": "mcq",
+          "prompt": "Which two things must Louise have to join the course?",
+          "options": [
+            {
+              "id": "A",
+              "text": "A bachelor's degree"
+            },
+            {
+              "id": "B",
+              "text": "Work experience"
+            },
+            {
+              "id": "C",
+              "text": "Either a bachelor's degree or work experience"
+            },
+            {
+              "id": "D",
+              "text": "Research experience"
+            },
+            {
+              "id": "E",
+              "text": "A completed thesis"
+            },
+            {
+              "id": "F",
+              "text": "Motivation"
+            }
+          ],
+          "answer": "F",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q26",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The fees are ______ per year to do the course part-time. The university has a (27) it can use to fund the most suitable students. You must have a (28) in place before you can get any funding. The details on funding can be found on the (29) That will also have information on eligibility, help available, and (30)",
+          "answer": "pounds 2400",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q27",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The fees are (26) per year to do the course part-time. The university has a ______ it can use to fund the most suitable students. You must have a (28) in place before you can get any funding. The details on funding can be found on the (29) That will also have information on eligibility, help available, and (30)",
+          "answer": "budget",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q28",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The fees are (26) per year to do the course part-time. The university has a (27) it can use to fund the most suitable students. You must have a ______ in place before you can get any funding. The details on funding can be found on the (29) That will also have information on eligibility, help available, and (30)",
+          "answer": "firm offer",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q29",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The fees are (26) per year to do the course part-time. The university has a (27) it can use to fund the most suitable students. You must have a (28) in place before you can get any funding. The details on funding can be found on the ______ That will also have information on eligibility, help available, and (30)",
+          "answer": "university website",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q30",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The fees are (26) per year to do the course part-time. The university has a (27) it can use to fund the most suitable students. You must have a (28) in place before you can get any funding. The details on funding can be found on the (29) That will also have information on eligibility, help available, and ______",
+          "answer": "how to apply",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q31",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "Indian Railways is owned and by the government of India. ______",
+          "answer": "operated",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q32",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "There are more than million people working for Indian Railways. ______",
+          "answer": "1.4",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q33",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The of the railways from 1857 occurred under Robert Maitland Brereton. ______",
+          "answer": "expansion",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q34",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The joining of the East Indian Railway with the Great Indian Peninsula Railway led to a network of kilometres. ______",
+          "answer": "6400",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q35",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "The route from Bombay to Calcutta, opened in 1870, was an for the book Around the World in 80 days. ______",
+          "answer": "inspiration",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q36",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1875 – 1899the network radiated inward from ______, Madras and Calcutta",
+          "answer": "Bombay",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q37",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1900 – 1906it was not long before various independent kingdoms had their own ______",
+          "answer": "rail systems",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q38",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1907 – 1919when the war finished the railways were suffering from ______and______",
+          "answer": "disrepair/ collapse",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q39",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1920 – 1938between 1920 and 1929, the railways had a ______of around £ 687 million",
+          "answer": "capital value",
+          "difficulty": 2
+        },
+        {
+          "id": "pte-listening-99-q40",
+          "skill": "listening",
+          "type": "gap",
+          "prompt": "1939 – 1946the rolling stock that was moved to the Middle East included locomotives and ______",
+          "answer": "coaches",
+          "difficulty": 2
+        }
+      ],
+      "audio": "https://practicepteonline.com/wp-content/uploads/audio/99_we.mp3"
+    }
+  ]
+}

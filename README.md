@@ -20,6 +20,16 @@ cp .env.example .env.local   # Supabase URL + publishable key
 npm run dev                  # http://localhost:3000
 ```
 
+Checks:
+
+```bash
+npm test                     # grading regression tests
+npm run lint                 # TypeScript check
+npm run release:check        # content + tests + dependency audit + typecheck + build
+npx playwright install chromium
+npm run test:e2e             # public smoke tests; defaults to production, override with E2E_BASE_URL
+```
+
 Database and auth details: [SUPABASE.md](./SUPABASE.md).
 
 Production:

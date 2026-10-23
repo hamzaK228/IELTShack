@@ -11,7 +11,8 @@
     "validate:content": "node scripts/validate-content.mjs",
     "audit:content": "node scripts/audit-content.mjs",
     "release:check": "node scripts/release-check.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
@@ -21,6 +22,7 @@
     "react-dom": "19.2.8"
   },
   "devDependencies": {
+    "@playwright/test": "^1.64.1",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",

@@ -21,7 +21,8 @@ Set these in Vercel → Project → Settings → Environment Variables (Producti
 | `OPENAI_API_KEY` or `AI_API_KEY` | optional | enables real AI writing/speaking evaluation |
 | `AI_MODEL` | optional | default `gpt-4o-mini` |
 | `AI_BASE_URL` | optional | any OpenAI-compatible endpoint |
-| `AI_DAILY_LIMIT` | optional | per-user daily evaluations; default 40 |
+| `AI_DAILY_LIMIT` | optional | per-user daily evaluations; default 20 |
+| `AI_GLOBAL_DAILY_LIMIT` | optional | project-wide daily evaluations; default 200 |
 
 Locally these live in `.env.local` (git-ignored). See `.env.example`.
 

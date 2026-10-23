@@ -51,9 +51,13 @@ so.
   summary.
 - These are study estimates, not official IELTS results.
 - When Supabase is configured, the route requires a session and enforces a
-  per-user daily quota (`AI_DAILY_LIMIT`, default 40) through
-  `ielts_consume_ai_quota()`. The in-memory IP limiter is only used in demo mode.
+  per-user daily quota (`AI_DAILY_LIMIT`, default 20) and a project-wide
+  daily cap (`AI_GLOBAL_DAILY_LIMIT`, default 200) through
+  `ielts_consume_ai_quota()`. The in-memory IP limiter is applied in addition.
 - Task prompts are capped at 4,000 characters; answers at 12k/15k characters.
+- Only Writing/Speaking prompts that exist in this app's content are accepted.
+  Free-form requests are rejected before any model call; the candidate answer
+  is treated as untrusted data, not instructions.
 
 ## Local heuristic
 

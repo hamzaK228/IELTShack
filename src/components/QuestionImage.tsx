@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 
-export function QuestionImage({ src }: { src: string }) {
+export function QuestionImage({ src, alt = "Question diagram or table" }: { src: string; alt?: string }) {
   const [open, setOpen] = useState(false);
   const closeRef = useRef<HTMLButtonElement>(null);
 
@@ -30,7 +30,7 @@ export function QuestionImage({ src }: { src: string }) {
         onClick={() => setOpen(true)}
         aria-label="Open question image at full size"
       >
-        <img className="q-image" src={src} alt="Question diagram or table" loading="lazy" />
+        <img className="q-image" src={src} alt={alt} loading="lazy" />
       </button>
       <span className="q-image-hint">Tap the image to view it full size</span>
 
@@ -51,7 +51,7 @@ export function QuestionImage({ src }: { src: string }) {
           >
             ✕ Close
           </button>
-          <img src={src} alt="Question diagram or table, full size" onClick={(e) => e.stopPropagation()} />
+          <img src={src} alt={`${alt}, full size`} onClick={(e) => e.stopPropagation()} />
         </div>,
         document.body,
       )}

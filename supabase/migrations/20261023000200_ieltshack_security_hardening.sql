@@ -65,7 +65,12 @@ create policy "ielts_review_items_all_own" on public.ielts_review_items
   using ((select auth.uid()) = user_id)
   with check ((select auth.uid()) = user_id);
 
-create or replace function public.ielts_consume_ai_quota(p_limit integer default 40)
+drop function if exists public.ielts_consume_ai_quota(integer);
+
+create or replace function public.ielts_consume_ai_quota(
+  p_limit integer default 20,
+  p_global_limit integer default 200
+)
 returns integer
 language plpgsql
 security definer
@@ -73,13 +78,17 @@ set search_path = public
 as $$
 declare
   used_now integer;
+  total_used integer;
 begin
   if auth.uid() is null then
     raise exception 'not authenticated';
   end if;
-  if p_limit is null or p_limit < 1 then
+  if p_limit is null or p_limit < 1 or p_global_limit is null or p_global_limit < 1 then
     raise exception 'invalid limit';
   end if;
+
+  -- Serialize the global count so two Lambdas cannot both slip under the cap.
+  perform pg_advisory_xact_lock(812736451234);
 
   insert into public.ielts_ai_usage (user_id, day, used)
   values (auth.uid(), current_date, 1)
@@ -88,12 +97,20 @@ begin
         updated_at = now()
   returning used into used_now;
 
+  select coalesce(sum(used), 0) into total_used
+  from public.ielts_ai_usage
+  where day = current_date;
+
+  if total_used > p_global_limit then
+    raise exception 'ielts_ai_global_limit';
+  end if;
+
   return p_limit - used_now;
 end;
 $$;
 
-revoke all on function public.ielts_consume_ai_quota(integer) from public;
-grant execute on function public.ielts_consume_ai_quota(integer) to authenticated;
+revoke all on function public.ielts_consume_ai_quota(integer, integer) from public;
+grant execute on function public.ielts_consume_ai_quota(integer, integer) to authenticated;
 
 create or replace function public.ielts_admin_reports()
 returns jsonb
@@ -206,7 +223,7 @@ revoke all on function public.ielts_admin_delete_post(uuid) from anon;
 revoke all on function public.ielts_admin_stats() from anon;
 revoke all on function public.ielts_admin_reports() from anon;
 revoke all on function public.ielts_admin_resolve_report(uuid) from anon;
-revoke all on function public.ielts_consume_ai_quota(integer) from anon;
+revoke all on function public.ielts_consume_ai_quota(integer, integer) from anon;
 revoke all on function public.ielts_delete_my_account() from anon;
 revoke all on function public.ielts_is_admin() from anon;
 revoke all on function public.ielts_handle_new_user() from anon;

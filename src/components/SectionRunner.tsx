@@ -116,7 +116,7 @@ function QuestionBlock({
         )}
       </div>
 
-      {question.image && <QuestionImage src={question.image} />}
+      {question.image && <QuestionImage src={question.image} alt={display || "Question diagram or table"} />}
 
       {inline ? null : question.options?.length ? (
         <div className="q-choices">

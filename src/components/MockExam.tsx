@@ -16,6 +16,18 @@ type Props = {
   speaking: SpeakingPrompt;
 };
 
+const MOCK_STATE_KEY = "ieltshack:mock-state";
+
+type MockState = {
+  mockId: string;
+  mockStartedAt: string;
+  index: number;
+  results: Partial<Record<Skill, RunnerResults>>;
+  answers: Answers;
+  speakingDone: boolean;
+  saved: boolean;
+};
+
 type Phase =
   | { kind: "runner"; skill: Skill; test: Test; label: string; note: string }
   | { kind: "break"; minutes: number; label: string }
@@ -54,6 +66,25 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
   const [speakingDone, setSpeakingDone] = useState(false);
   const mockId = useRef(`mock-${Date.now()}`);
 
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      if (!started) return;
+      const state: MockState = {
+        mockId: mockId.current,
+        mockStartedAt,
+        index,
+        results,
+        answers,
+        speakingDone,
+        saved,
+      };
+      window.sessionStorage.setItem(MOCK_STATE_KEY, JSON.stringify(state));
+    } catch {
+      // Storage can be unavailable in private modes.
+    }
+  }, [started, mockStartedAt, index, results, answers, speakingDone, saved]);
+
   const phases = useMemo<Phase[]>(() => {
     return [
       {
@@ -84,6 +115,26 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
       { kind: "summary", label: "Results" },
     ];
   }, [listening, reading, writing]);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      const raw = window.sessionStorage.getItem(MOCK_STATE_KEY);
+      if (!raw) return;
+      const state = JSON.parse(raw) as MockState;
+      if (!state.mockStartedAt) return;
+      mockId.current = state.mockId || mockId.current;
+      setMockStartedAt(state.mockStartedAt);
+      setIndex(Math.max(0, Math.min(phases.length - 1, state.index)));
+      setResults(state.results ?? {});
+      setAnswers(state.answers ?? {});
+      setSpeakingDone(Boolean(state.speakingDone));
+      setSaved(Boolean(state.saved));
+      setStarted(true);
+    } catch {
+      // Ignore corrupt mock state.
+    }
+  }, [phases.length]);
 
   const phase = phases[index];
 
@@ -151,6 +202,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
     setSaved(false);
     setSpeakingDone(false);
     setIndex(0);
+    if (typeof window !== "undefined") window.sessionStorage.removeItem(MOCK_STATE_KEY);
     setStarted(true);
   }
 
@@ -184,7 +236,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
             <li><strong>Speaking</strong><span>One full cue card · prep, record, transcript and AI feedback</span></li>
           </ol>
           <p className="attempt-meta">
-            Breaks are included between sections. Leaving the page ends the mock; the attempt is saved when you reach the results screen.
+            Breaks are included between sections. Leaving this tab pauses the mock; return to this page to resume. The attempt is saved at the results screen.
           </p>
           <div className="mock-actions">
             <button className="btn btn-primary" onClick={begin}>Start mock exam →</button>
@@ -239,7 +291,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
         </div>
         <div className="mock-topbar-actions">
           <span className="attempt-meta">{index + 1} / {phases.length}</span>
-          <Link className="btn btn-ghost" href="/dashboard" onClick={(event) => { if (!window.confirm("Leave the mock? Progress in this phase will be lost.")) event.preventDefault(); }}>Exit</Link>
+          <Link className="btn btn-ghost" href="/dashboard" onClick={(event) => { if (!window.confirm("Leave the mock? You can resume from this tab.")) event.preventDefault(); }}>Exit</Link>
         </div>
       </div>
 
@@ -255,6 +307,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
             test={phase.test}
             mode="exam"
             embedded
+            sessionKey={`ieltshack:mock:${mockId.current}:${phase.skill}`}
             onFinished={(value) => {
               setResults((prev) => ({ ...prev, [phase.skill]: value }));
               setAnswers((prev) => ({ ...prev, ...value.answers }));

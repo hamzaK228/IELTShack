@@ -2,22 +2,47 @@ import Link from "next/link";
 import MockExam from "@/components/MockExam";
 import { listTests } from "@/lib/content";
 import { listSpeakingPrompts } from "@/lib/prompts";
+import { qualityIssue } from "@/lib/test-quality";
 
 export const dynamic = "force-dynamic";
 
+function questionCount(test: ReturnType<typeof listTests>[number]) {
+  return test.sections.reduce((sum, section) => sum + section.questions.length, 0);
+}
+
+function pick<T>(pool: T[], offset: number) {
+  if (!pool.length) return undefined;
+  const week = Math.floor(Date.now() / (7 * 86_400_000));
+  return pool[(week + offset) % pool.length];
+}
+
 export default function MockPage() {
   const tests = listTests();
-  const reading =
-    tests.find((test) => test.id === "pte-reading-79") ??
-    tests.find((test) => test.id.startsWith("pte-reading-") && test.sections.some((s) => s.skill === "reading"));
-  const listening =
-    tests.find((test) => test.id === "pte-listening-39") ??
-    tests.find((test) => test.id.startsWith("pte-listening-"));
-  const writing =
-    tests.find((test) => test.id === "pte-writing-1") ??
-    tests.find((test) => test.id.startsWith("pte-writing-"));
 
-  const speaking = listSpeakingPrompts()[0];
+  const readingPool = tests.filter(
+    (test) =>
+      test.id.startsWith("pte-reading-") &&
+      questionCount(test) === 40 &&
+      !qualityIssue(test)
+  );
+  const listeningPool = tests.filter(
+    (test) =>
+      test.id.startsWith("pte-listening-") &&
+      questionCount(test) === 40 &&
+      !qualityIssue(test)
+  );
+  const writingPool = tests.filter(
+    (test) =>
+      test.id.startsWith("pte-writing-") &&
+      test.sections.some((section) => section.skill === "writing") &&
+      !qualityIssue(test)
+  );
+  const speakingPool = listSpeakingPrompts();
+
+  const reading = pick(readingPool, 0);
+  const listening = pick(listeningPool, 3);
+  const writing = pick(writingPool, 5);
+  const speaking = pick(speakingPool, 7);
 
   if (!reading || !listening || !writing || !speaking) {
     return (

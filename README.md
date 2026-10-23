@@ -93,6 +93,9 @@ No application code changes are required.
 - [ECOSYSTEM.md](./ECOSYSTEM.md) — shared-account contract for SAThack,
   AdmissionHack and IELTShack.
 - [DEPLOYMENT.md](./DEPLOYMENT.md) — release checklist, env vars, Supabase auth URLs.
+- [SECURITY.md](./SECURITY.md) — verified controls, RLS test, and known gaps.
+- [MONITORING.md](./MONITORING.md) — health checks and uptime monitor setup.
+- [BACKUP.md](./BACKUP.md) — app-data backup and recovery runbook.
 - `reference/` — captured reference markup kept for provenance.
 
 ## Notes

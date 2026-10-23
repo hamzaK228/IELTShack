@@ -326,12 +326,14 @@ export default function SectionRunner({
   mode,
   introTitle,
   embedded = false,
+  sessionKey,
   onFinished,
 }: {
   test: Test;
   mode: "exam" | "practice";
   introTitle?: string;
   embedded?: boolean;
+  sessionKey?: string;
   onFinished?: (results: RunnerResults) => void;
 }) {
   const [started, setStarted] = useState(embedded);
@@ -367,12 +369,14 @@ export default function SectionRunner({
   }, [elapsed, totalSeconds, started, finished]);
 
   const restored = useRef(false);
+  const storageKey = sessionKey ?? `ieltshack:runner:${test.id}`;
+  const shouldPersist = Boolean(sessionKey) || !embedded;
 
   useEffect(() => {
-    if (embedded || typeof window === "undefined" || restored.current) return;
+    if (!shouldPersist || typeof window === "undefined" || restored.current) return;
     restored.current = true;
     try {
-      const raw = window.sessionStorage.getItem(`ieltshack:runner:${test.id}`);
+      const raw = window.sessionStorage.getItem(storageKey);
       if (!raw) return;
       const saved = JSON.parse(raw) as {
         answers?: Answers;
@@ -391,24 +395,23 @@ export default function SectionRunner({
     } catch {
       // Ignore corrupt session state.
     }
-  }, [embedded, test.id, test.sections.length]);
+  }, [shouldPersist, storageKey, test.sections.length]);
 
   useEffect(() => {
-    if (embedded || typeof window === "undefined") return;
-    const key = `ieltshack:runner:${test.id}`;
+    if (!shouldPersist || typeof window === "undefined") return;
     if (!started || finished) {
-      if (finished) window.sessionStorage.removeItem(key);
+      if (finished) window.sessionStorage.removeItem(storageKey);
       return;
     }
     try {
       window.sessionStorage.setItem(
-        key,
+        storageKey,
         JSON.stringify({ answers, sectionIndex, submittedSections, startedAt, runMode })
       );
     } catch {
       // Storage can be unavailable in private modes.
     }
-  }, [embedded, started, finished, answers, sectionIndex, submittedSections, startedAt, runMode, test.id]);
+  }, [shouldPersist, storageKey, started, finished, answers, sectionIndex, submittedSections, startedAt, runMode]);
 
   useEffect(() => {
     const onChange = () => setFocus(Boolean(document.fullscreenElement));
@@ -501,7 +504,7 @@ export default function SectionRunner({
 
   function begin(nextMode: "exam" | "practice" = runMode) {
     if (typeof window !== "undefined") {
-      window.sessionStorage.removeItem(`ieltshack:runner:${test.id}`);
+      window.sessionStorage.removeItem(storageKey);
     }
     setRunMode(nextMode);
     setStartedAt(new Date().toISOString());
@@ -718,7 +721,7 @@ export default function SectionRunner({
             className="btn btn-ghost"
             onClick={() => {
               if (typeof window !== "undefined") {
-                window.sessionStorage.removeItem(`ieltshack:runner:${test.id}`);
+                window.sessionStorage.removeItem(storageKey);
               }
               setAnswers({});
               setSubmittedSections({});

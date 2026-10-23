@@ -12,7 +12,8 @@
     "audit:content": "node scripts/audit-content.mjs",
     "release:check": "node scripts/release-check.mjs",
     "typecheck": "tsc --noEmit",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "rls:test": "node scripts/rls-smoke.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",

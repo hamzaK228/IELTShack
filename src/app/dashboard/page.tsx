@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { computeStreak, levelFor, useAppData } from "@/lib/useAppData";
+import { QUESTION_TYPE_LABEL, topErrorTypes } from "@/lib/insights";
+import { projectedBand } from "@/lib/projection";
 import { SKILL_LABEL, SKILLS } from "@/lib/types";
 
 export default function DashboardHome() {
@@ -9,7 +11,8 @@ export default function DashboardHome() {
   if (!loaded || !profile) return null;
 
   const latest = attempts.find((attempt) => attempt.total > 0);
-  const currentBand = profile.currentBand ?? latest?.overallBand ?? null;
+  const projection = projectedBand(attempts);
+  const currentBand = profile.currentBand ?? projection?.band ?? latest?.overallBand ?? null;
   const totals = attempts.reduce(
     (acc, attempt) => {
       acc.correct += attempt.correct;
@@ -27,6 +30,8 @@ export default function DashboardHome() {
       ? Math.ceil((new Date(profile.testDate).getTime() - Date.now()) / 86_400_000)
       : null;
   const firstName = profile.name.split(" ")[0];
+
+  const errorTypes = topErrorTypes(attempts, 3);
 
   const bestBySkill = SKILLS.map((skill) => {
     const entries = attempts
@@ -65,6 +70,11 @@ export default function DashboardHome() {
           <span className="dash-stat-label">Current band</span>
           <span className="dash-stat-value">
             {currentBand != null ? currentBand.toFixed(1) : "—"}
+          </span>
+          <span className="attempt-meta">
+            {projection
+              ? `${projection.low.toFixed(1)}–${projection.high.toFixed(1)} practice range`
+              : "Two skills needed"}
           </span>
         </div>
         <div className="dash-stat-card">
@@ -138,6 +148,46 @@ export default function DashboardHome() {
               </div>
             ))}
           </div>
+        )}
+      </div>
+
+      <div className="dash-card">
+        <div className="dash-card-head">
+          <h2 className="dash-section-title">Where marks leak</h2>
+          <Link className="auth-link" href="/dashboard/review">Review queue →</Link>
+        </div>
+        {errorTypes.length === 0 ? (
+          <p className="dash-empty">
+            Finish a scored section to see which question types cost you the most marks.
+          </p>
+        ) : (
+          <div className="skill-bars">
+            {errorTypes.map((row) => (
+              <div className="priority-row" key={`${row.skill}-${row.type}`}>
+                <span>
+                  {SKILL_LABEL[row.skill]} · {QUESTION_TYPE_LABEL[row.type]}
+                </span>
+                <span className="priority-bar">
+                  <span style={{ ["--w" as string]: `${row.accuracy}%` }} />
+                </span>
+                <span className="priority-val">
+                  {row.correct}/{row.total} · {row.accuracy}%
+                </span>
+              </div>
+            ))}
+          </div>
+        )}
+        <p className="attempt-meta" style={{ marginTop: ".7rem" }}>
+          Accuracy by question type across your saved attempts. Older attempts are not included until they are retaken.
+        </p>
+        {errorTypes[0] && (
+          <Link
+            className="btn btn-ghost"
+            style={{ marginTop: ".7rem" }}
+            href={`/dashboard/drill?skill=${errorTypes[0].skill}&type=${errorTypes[0].type}`}
+          >
+            Drill {QUESTION_TYPE_LABEL[errorTypes[0].type]} →
+          </Link>
         )}
       </div>
 

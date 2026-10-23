@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import QuestionRow from "./QuestionRow";
+import { authHeaders } from "@/lib/client-auth";
 import type { QuestionEntry } from "@/lib/content";
 import { getSaved, subscribe, toggleSaved } from "@/lib/storage";
 import { SKILL_LABEL, SKILLS, type QuestionType, type Skill } from "@/lib/types";
@@ -51,7 +52,8 @@ export default function BankExplorer() {
         limit: String(PAGE_SIZE),
       });
       try {
-        const res = await fetch(`/api/questions?${params.toString()}`);
+        const headers = await authHeaders();
+        const res = await fetch(`/api/questions?${params.toString()}`, { headers });
         const data = (await res.json()) as { total: number; items: QuestionEntry[] };
         if (cancelled) return;
         setItems(data.items);

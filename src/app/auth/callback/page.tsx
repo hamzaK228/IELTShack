@@ -19,7 +19,14 @@ function CallbackInner() {
       return;
     }
     const code = params.get("code");
-    const next = params.get("next") || "/dashboard";
+    const requestedNext = params.get("next") || "/dashboard";
+    // Only known same-origin destinations; reject //evil and absolute URLs.
+    const next =
+      requestedNext === "/onboarding" ||
+      requestedNext === "/dashboard" ||
+      requestedNext.startsWith("/dashboard/")
+        ? requestedNext
+        : "/dashboard";
     if (!code) {
       setMessage("This confirmation link is missing its code. Try signing in.");
       setFailed(true);

@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { Fragment, useEffect, useMemo, useRef, useState } from "react";
 import { bandForSkill, formatDuration, overallBand } from "@/lib/bands";
-import { isAnswered, isCorrect } from "@/lib/answers";
-import { cleanPrompt, groupQuestions, hasInlineBlank, splitInlineBlank } from "@/lib/prompt";
+import { diagnoseAnswer, isAnswered, isCorrect } from "@/lib/answers";
+import { cleanPrompt, groupQuestions, hasInlineBlank, inlineSegments } from "@/lib/prompt";
 import AiFeedback from "./AiFeedback";
 import { QuestionImage } from "./QuestionImage";
 import { saveAttempt } from "@/lib/storage";
@@ -15,11 +15,18 @@ import {
   type Question,
   type Section,
   type Skill,
+  type SkillScore,
   type Test,
 } from "@/lib/types";
 
 function optionLetter(optionId: string, index: number) {
   return optionId.length <= 2 ? optionId : String.fromCharCode(65 + index);
+}
+
+function formatAnswer(question: Question) {
+  if (Array.isArray(question.answer)) return question.answer.join(", ");
+  const option = question.options?.find((item) => item.id === String(question.answer));
+  return option ? `${option.id} — ${option.text}` : String(question.answer);
 }
 
 function QuestionBlock({
@@ -41,8 +48,9 @@ function QuestionBlock({
   const selected = Array.isArray(value) ? value : value ? [value] : [];
   const correct = isCorrect(question, value);
   const display = cleanPrompt(question.prompt);
-  const inline = (question.type === "gap" || question.type === "short") && hasInlineBlank(display);
-  const parts = inline ? splitInlineBlank(display) : [];
+  const inline = (question.type === "gap" || question.type === "short") && hasInlineBlank(question.prompt);
+  const segments = inline ? inlineSegments(question.prompt) : [];
+  const inlineOptions = inline && question.options?.length ? question.options : null;
 
   function toggle(optionId: string) {
     if (multiple) {
@@ -61,15 +69,47 @@ function QuestionBlock({
         <span className="q-num">{number}</span>
         {inline ? (
           <p className="q-prompt">
-            {parts[0]}
-            <input
-              className={`q-inline${reveal ? (correct ? " ok" : " bad") : ""}`}
-              value={typeof value === "string" ? value : ""}
-              onChange={(e) => onChange(e.target.value)}
-              disabled={reveal}
-              aria-label={`Question ${number}`}
-            />
-            {parts.slice(1).join(" ")}
+            {segments.map((segment, index) => {
+              if (segment.kind === "text") {
+                return <Fragment key={index}>{segment.text}</Fragment>;
+              }
+              if (!segment.target) {
+                return (
+                  <span className="q-inline-static" key={index}>
+                    {segment.number ? `(${segment.number})` : ""} ______
+                  </span>
+                );
+              }
+              if (inlineOptions) {
+                return (
+                  <select
+                    key={index}
+                    className={`q-inline q-inline-select${reveal ? (correct ? " ok" : " bad") : ""}`}
+                    value={typeof value === "string" ? value : ""}
+                    onChange={(e) => onChange(e.target.value)}
+                    disabled={reveal}
+                    aria-label={`Question ${number}`}
+                  >
+                    <option value="">— choose —</option>
+                    {inlineOptions.map((option) => (
+                      <option key={option.id} value={option.id}>
+                        {option.id} — {option.text}
+                      </option>
+                    ))}
+                  </select>
+                );
+              }
+              return (
+                <input
+                  key={index}
+                  className={`q-inline${reveal ? (correct ? " ok" : " bad") : ""}`}
+                  value={typeof value === "string" ? value : ""}
+                  onChange={(e) => onChange(e.target.value)}
+                  disabled={reveal}
+                  aria-label={`Question ${number}`}
+                />
+              );
+            })}
           </p>
         ) : (
           <p className="q-prompt">{display}</p>
@@ -144,14 +184,14 @@ function QuestionBlock({
       )}
 
       {reveal && (
-        <div className={`q-reveal ${correct ? "ok" : "bad"}`}>
-          <strong>{correct ? "Correct" : "Incorrect"}</strong>
+        <div className={`q-reveal ${question.graded === false ? "" : correct ? "ok" : "bad"}`}>
           {question.graded === false ? (
-            <span> Saved for review.</span>
+            <strong>Saved for review.</strong>
           ) : (
-            <span>
-              {" "}Answer: <strong>{Array.isArray(question.answer) ? question.answer.join(", ") : String(question.answer)}</strong>
-            </span>
+            <>
+              <strong>{correct ? "Correct" : "Incorrect"}</strong>
+              <span> Answer: <strong>{formatAnswer(question)}</strong></span>
+            </>
           )}
           {question.explanation && <p className="session-explanation">{question.explanation}</p>}
         </div>
@@ -240,7 +280,7 @@ function OptionsGroup({
             </select>
             {reveal && (
               <span className={`match-result ${ok ? "ok" : "bad"}`}>
-                {ok ? "✓" : `✗ ${String(question.answer)}`}
+                {ok ? "✓" : `✗ ${formatAnswer(question)}`}
               </span>
             )}
           </div>
@@ -271,11 +311,14 @@ function readableParagraphs(text: string): string[] {
 }
 
 export type RunnerResults = {
-  perSkill: Partial<Record<Skill, { correct: number; total: number; band: number }>>;
+  perSkill: Partial<Record<Skill, SkillScore>>;
   missed: Array<{ section: Section; question: Question }>;
   overall: number;
   correct: number;
   total: number;
+  answers: Answers;
+  startedAt: string;
+  durationSeconds: number;
 };
 
 export default function SectionRunner({
@@ -308,9 +351,13 @@ export default function SectionRunner({
 
   useEffect(() => {
     if (!started || finished) return;
-    const timer = window.setInterval(() => setElapsed((e) => e + 1), 1000);
+    const parsedStart = startedAt ? new Date(startedAt).getTime() : Date.now();
+    const start = Number.isFinite(parsedStart) ? parsedStart : Date.now();
+    const tick = () => setElapsed(Math.max(0, Math.floor((Date.now() - start) / 1000)));
+    tick();
+    const timer = window.setInterval(tick, 1000);
     return () => window.clearInterval(timer);
-  }, [started, finished]);
+  }, [started, finished, startedAt]);
 
   const totalSeconds = runMode === "exam" && test.durationMinutes ? test.durationMinutes * 60 : 0;
   const remaining = totalSeconds ? Math.max(0, totalSeconds - elapsed) : 0;
@@ -318,6 +365,50 @@ export default function SectionRunner({
   useEffect(() => {
     if (totalSeconds && started && !finished && elapsed >= totalSeconds) setFinished(true);
   }, [elapsed, totalSeconds, started, finished]);
+
+  const restored = useRef(false);
+
+  useEffect(() => {
+    if (embedded || typeof window === "undefined" || restored.current) return;
+    restored.current = true;
+    try {
+      const raw = window.sessionStorage.getItem(`ieltshack:runner:${test.id}`);
+      if (!raw) return;
+      const saved = JSON.parse(raw) as {
+        answers?: Answers;
+        sectionIndex?: number;
+        submittedSections?: Record<string, boolean>;
+        startedAt?: string;
+        runMode?: "exam" | "practice";
+      };
+      if (!saved.startedAt || !Number.isFinite(new Date(saved.startedAt).getTime())) return;
+      setAnswers(saved.answers ?? {});
+      setSectionIndex(Math.max(0, Math.min(test.sections.length - 1, saved.sectionIndex ?? 0)));
+      setSubmittedSections(saved.submittedSections ?? {});
+      setStartedAt(saved.startedAt);
+      setRunMode(saved.runMode === "practice" ? "practice" : "exam");
+      setStarted(true);
+    } catch {
+      // Ignore corrupt session state.
+    }
+  }, [embedded, test.id, test.sections.length]);
+
+  useEffect(() => {
+    if (embedded || typeof window === "undefined") return;
+    const key = `ieltshack:runner:${test.id}`;
+    if (!started || finished) {
+      if (finished) window.sessionStorage.removeItem(key);
+      return;
+    }
+    try {
+      window.sessionStorage.setItem(
+        key,
+        JSON.stringify({ answers, sectionIndex, submittedSections, startedAt, runMode })
+      );
+    } catch {
+      // Storage can be unavailable in private modes.
+    }
+  }, [embedded, started, finished, answers, sectionIndex, submittedSections, startedAt, runMode, test.id]);
 
   useEffect(() => {
     const onChange = () => setFocus(Boolean(document.fullscreenElement));
@@ -347,7 +438,7 @@ export default function SectionRunner({
 
   const results = useMemo(() => {
     if (!finished) return null;
-    const perSkill: Partial<Record<Skill, { correct: number; total: number; band: number }>> = {};
+    const perSkill: Partial<Record<Skill, SkillScore>> = {};
     const missed: Array<{ section: Section; question: Question }> = [];
     for (const entry of graded) {
       const ok = isCorrect(entry.question, answers[entry.question.id]);
@@ -355,20 +446,30 @@ export default function SectionRunner({
       bucket.total += 1;
       if (ok) bucket.correct += 1;
       else missed.push(entry);
+
+      const typeBucket = (bucket.byType ??= {});
+      const typed = (typeBucket[entry.question.type] ??= { correct: 0, total: 0 });
+      typed.total += 1;
+      if (ok) typed.correct += 1;
     }
     for (const skill of Object.keys(perSkill) as Skill[]) {
       const bucket = perSkill[skill]!;
       bucket.band = bandForSkill(skill, bucket.correct, bucket.total);
     }
-    const bands = Object.values(perSkill).map((s) => s!.band).filter((b) => b > 0);
+    const bands = Object.values(perSkill)
+      .map((score) => score!.band)
+      .filter((band) => Number.isFinite(band));
     return {
       perSkill,
       missed,
       overall: overallBand(bands),
       correct: graded.length - missed.length,
       total: graded.length,
+      answers,
+      startedAt: startedAt || new Date().toISOString(),
+      durationSeconds: elapsed,
     };
-  }, [finished, graded, answers]);
+  }, [finished, graded, answers, startedAt, elapsed]);
 
   useEffect(() => {
     if (!embedded || !finished || !results || reported.current) return;
@@ -380,26 +481,28 @@ export default function SectionRunner({
     if (embedded) return;
     if (!finished || !results || savedAttempt) return;
     setSavedAttempt(true);
-    if (results.total === 0) return;
     const finishedAt = new Date().toISOString();
     saveAttempt({
       id: `attempt-${Date.now()}`,
       testId: test.id,
       testTitle: test.title,
       mode: runMode,
-      startedAt: startedAt || finishedAt,
+      startedAt: results.startedAt || finishedAt,
       finishedAt,
-      durationSeconds: elapsed,
-      answers,
+      durationSeconds: results.durationSeconds,
+      answers: results.answers,
       perSkill: results.perSkill,
       overallBand: results.overall,
       correct: results.correct,
       total: results.total,
       missed: results.missed.map((m) => m.question.id),
     });
-  }, [embedded, finished, results, savedAttempt, test, runMode, startedAt, elapsed, answers]);
+  }, [embedded, finished, results, savedAttempt, test, runMode]);
 
   function begin(nextMode: "exam" | "practice" = runMode) {
+    if (typeof window !== "undefined") {
+      window.sessionStorage.removeItem(`ieltshack:runner:${test.id}`);
+    }
     setRunMode(nextMode);
     setStartedAt(new Date().toISOString());
     setStarted(true);
@@ -415,7 +518,14 @@ export default function SectionRunner({
   }
 
   function submitTest() {
-    if (embedded || window.confirm("Submit the whole test and see your score?")) setFinished(true);
+    if (embedded) {
+      const message = isLast
+        ? "Finish this phase and continue?"
+        : "Finish this phase now? Remaining sections in this phase will be skipped.";
+      if (window.confirm(message)) setFinished(true);
+      return;
+    }
+    if (window.confirm("Submit the whole test and see your score?")) setFinished(true);
   }
 
   function goToSection(index: number) {
@@ -555,13 +665,21 @@ export default function SectionRunner({
                 {entries.map((entry, i) => {
                   const given = answers[entry.question.id];
                   const ok = isCorrect(entry.question, given);
+                  const diagnosis = diagnoseAnswer(entry.question, given);
+                  const resultLabel = ok
+                    ? "✓"
+                    : diagnosis === "spelling"
+                      ? "Spelling"
+                      : diagnosis === "format"
+                        ? "Format"
+                        : "✗";
                   return (
                     <tr key={entry.question.id}>
                       <td>{i + 1}</td>
                       <td className="result-q">{cleanPrompt(entry.question.prompt)}</td>
                       <td>{Array.isArray(given) ? given.join(", ") : given || "—"}</td>
-                      <td>{Array.isArray(entry.question.answer) ? entry.question.answer.join(", ") : String(entry.question.answer)}</td>
-                      <td><span className={`chip ${ok ? "good" : "bad"}`}>{ok ? "✓" : "✗"}</span></td>
+                      <td>{formatAnswer(entry.question)}</td>
+                      <td><span className={`chip ${ok ? "good" : "bad"}`}>{resultLabel}</span></td>
                     </tr>
                   );
                 })}
@@ -580,8 +698,13 @@ export default function SectionRunner({
                   <p className="session-question">{cleanPrompt(question.prompt)}</p>
                   <p className="review-answer">
                     Your answer: <strong>{String(answers[question.id] ?? "—")}</strong> · Correct:{" "}
-                    <strong>{Array.isArray(question.answer) ? question.answer.join(", ") : String(question.answer)}</strong>
+                    <strong>{formatAnswer(question)}</strong>
                   </p>
+                  {["spelling", "format"].includes(diagnoseAnswer(question, answers[question.id])) && (
+                    <p className="attempt-meta">
+                      Close: this is a {diagnoseAnswer(question, answers[question.id]) === "spelling" ? "spelling" : "format"} issue, not a different answer.
+                    </p>
+                  )}
                   {question.explanation && <p className="session-explanation">{question.explanation}</p>}
                 </div>
               ))}
@@ -594,6 +717,9 @@ export default function SectionRunner({
           <button
             className="btn btn-ghost"
             onClick={() => {
+              if (typeof window !== "undefined") {
+                window.sessionStorage.removeItem(`ieltshack:runner:${test.id}`);
+              }
               setAnswers({});
               setSubmittedSections({});
               setSectionIndex(0);
@@ -675,7 +801,7 @@ export default function SectionRunner({
 
       {section.audio && (
         <div className="listener-bar">
-          <audio ref={audioRef} controls src={section.audio} preload="auto">
+          <audio ref={audioRef} controls src={section.audio} preload="metadata">
             Your browser does not support audio playback.
           </audio>
           <div className="listener-tools">
@@ -890,7 +1016,7 @@ export default function SectionRunner({
                   </button>
                 )}
                 <button className="btn btn-primary" onClick={submitTest}>
-                  {embedded ? "Finish section" : isLast ? "Submit test" : "Submit test early"}
+                  {embedded ? "Finish phase" : isLast ? "Submit test" : "Submit test early"}
                 </button>
               </>
             )}

@@ -5,6 +5,8 @@ import { existsSync } from "node:fs";
 
 const steps = [
   ["Content validation", "node", ["scripts/validate-content.mjs"]],
+  ["Grading tests", "node", ["--experimental-strip-types", "scripts/test-grading.mjs"]],
+  ["Dependency audit", "npm", ["audit", "--omit=dev", "--audit-level=high"]],
   ["Typecheck", "npx", ["tsc", "--noEmit"]],
   ["Production build", "npm", ["run", "build"]],
 ];

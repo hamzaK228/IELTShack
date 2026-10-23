@@ -50,6 +50,10 @@ so.
 - Provider errors fall back to the local heuristic with the error noted in the
   summary.
 - These are study estimates, not official IELTS results.
+- When Supabase is configured, the route requires a session and enforces a
+  per-user daily quota (`AI_DAILY_LIMIT`, default 40) through
+  `ielts_consume_ai_quota()`. The in-memory IP limiter is only used in demo mode.
+- Task prompts are capped at 4,000 characters; answers at 12k/15k characters.
 
 ## Local heuristic
 

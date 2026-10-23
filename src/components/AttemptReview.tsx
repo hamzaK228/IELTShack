@@ -5,6 +5,7 @@ import { useAppData } from "@/lib/useAppData";
 import { cleanPrompt } from "@/lib/prompt";
 import type { QuestionEntry } from "@/lib/content";
 import { SKILL_LABEL } from "@/lib/types";
+import { authHeaders } from "@/lib/client-auth";
 
 export default function AttemptReview() {
   const { loaded, attempts } = useAppData();
@@ -21,8 +22,16 @@ export default function AttemptReview() {
     if (!attempt) return;
     let cancelled = false;
     setFetching(true);
-    const params = new URLSearchParams({ testId: attempt.testId, limit: "200" });
-    fetch(`/api/questions?${params.toString()}`)
+    const params = new URLSearchParams(
+      attempt.testId.startsWith("mock-")
+        ? {
+            ids: Array.from(new Set([...Object.keys(attempt.answers), ...attempt.missed])).slice(0, 200).join(","),
+            limit: "200",
+          }
+        : { testId: attempt.testId, limit: "200" }
+    );
+    authHeaders()
+      .then((headers) => fetch(`/api/questions?${params.toString()}`, { headers }))
       .then((res) => res.json())
       .then((data: { items: QuestionEntry[] }) => {
         if (!cancelled) setEntries(data.items ?? []);
@@ -76,7 +85,7 @@ export default function AttemptReview() {
               ))}
             </select>
           )}
-          <span className="chip">Band {attempt.overallBand.toFixed(1)}</span>
+          <span className="chip">{attempt.total > 0 ? `Band ${attempt.overallBand.toFixed(1)}` : "Not scored"}</span>
         </div>
       </div>
 

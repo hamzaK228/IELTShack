@@ -1,9 +1,17 @@
 import { NextResponse } from "next/server";
 import { allQuestions } from "@/lib/content";
+import { authConfigured, authFromRequest } from "@/lib/server-auth";
 
 export const dynamic = "force-dynamic";
 
 export async function GET(request: Request) {
+  if (authConfigured) {
+    const auth = await authFromRequest(request);
+    if (!auth) {
+      return NextResponse.json({ error: "Sign in required." }, { status: 401 });
+    }
+  }
+
   const { searchParams } = new URL(request.url);
   const ids = searchParams.get("ids")?.split(",").filter(Boolean) ?? null;
   const testId = searchParams.get("testId");

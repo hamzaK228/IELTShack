@@ -5,6 +5,7 @@ import {
   createProfile,
   getProfile,
   replaceAttempts,
+  replaceReviewedMisses,
   replaceSaved,
   replaceVocab,
   setProfileLocal,
@@ -155,11 +156,12 @@ export async function pullRemote() {
   if (!user) return false;
   currentUserId = user.id;
 
-  const [profileRes, attemptsRes, savedRes, vocabRes] = await Promise.all([
+  const [profileRes, attemptsRes, savedRes, vocabRes, reviewRes] = await Promise.all([
     sb.from("ielts_profiles").select("*").eq("id", user.id).maybeSingle(),
     sb.from("ielts_attempts").select("*").eq("user_id", user.id).order("finished_at", { ascending: false }),
     sb.from("ielts_saved_questions").select("question_id").eq("user_id", user.id),
     sb.from("ielts_vocab_progress").select("word, known, seen").eq("user_id", user.id),
+    sb.from("ielts_review_items").select("question_id").eq("user_id", user.id),
   ]);
 
   if (profileRes.data) {
@@ -181,6 +183,9 @@ export async function pullRemote() {
       state[String(row.word)] = { known: Boolean(row.known), seen: Number(row.seen ?? 0) };
     }
     replaceVocab(state);
+  }
+  if (reviewRes.data) {
+    replaceReviewedMisses(reviewRes.data.map((row) => String(row.question_id)));
   }
 
   return true;
@@ -371,6 +376,86 @@ export async function toggleCommunityLike(postId: string, liked: boolean) {
   return !error;
 }
 
+export type AdminReport = {
+  id: string;
+  test_id: string;
+  question_id: string;
+  reason: string;
+  created_at: string;
+};
+
+export async function reportQuestion(testId: string, questionId: string, reason: string) {
+  const sb = client();
+  if (!sb) return false;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return false;
+  const { error } = await sb.from("ielts_content_reports").upsert(
+    {
+      user_id: currentUserId,
+      test_id: testId,
+      question_id: questionId,
+      reason: reason.trim().slice(0, 1000),
+      status: "open",
+      created_at: new Date().toISOString(),
+    },
+    { onConflict: "user_id,question_id" }
+  );
+  return !error;
+}
+
+export async function fetchAdminReports(): Promise<AdminReport[] | null> {
+  const sb = client();
+  if (!sb) return null;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return null;
+  const { data, error } = await sb.rpc("ielts_admin_reports");
+  if (error || !Array.isArray(data)) return null;
+  return data as AdminReport[];
+}
+
+export async function resolveAdminReport(id: string) {
+  const sb = client();
+  if (!sb) return false;
+  const { error } = await sb.rpc("ielts_admin_resolve_report", { target: id });
+  return !error;
+}
+
+export async function fetchReviewedMisses(): Promise<string[] | null> {
+  const sb = client();
+  if (!sb) return null;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return null;
+  const { data, error } = await sb
+    .from("ielts_review_items")
+    .select("question_id")
+    .eq("user_id", currentUserId);
+  if (error) return null;
+  return (data ?? []).map((row) => String(row.question_id));
+}
+
+export async function setReviewItem(questionId: string, reviewed: boolean) {
+  const sb = client();
+  if (!sb) return;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return;
+  if (reviewed) {
+    await sb.from("ielts_review_items").upsert(
+      { user_id: currentUserId, question_id: questionId, reviewed_at: new Date().toISOString() },
+      { onConflict: "user_id,question_id" }
+    );
+  } else {
+    await sb.from("ielts_review_items").delete().eq("user_id", currentUserId).eq("question_id", questionId);
+  }
+}
+
+export async function clearReviewItems() {
+  const sb = client();
+  if (!sb) return;
+  if (!currentUserId) await getSupabaseUser();
+  if (!currentUserId) return;
+  await sb.from("ielts_review_items").delete().eq("user_id", currentUserId);
+}
+
 /** Delete this user's practice data from Supabase (used by Settings → reset). */
 export async function resetRemoteProgress() {
   const sb = client();
@@ -381,6 +466,8 @@ export async function resetRemoteProgress() {
     sb.from("ielts_attempts").delete().eq("user_id", currentUserId),
     sb.from("ielts_saved_questions").delete().eq("user_id", currentUserId),
     sb.from("ielts_vocab_progress").delete().eq("user_id", currentUserId),
+    sb.from("ielts_plan_tasks").delete().eq("user_id", currentUserId),
+    sb.from("ielts_review_items").delete().eq("user_id", currentUserId),
   ]);
 }
 

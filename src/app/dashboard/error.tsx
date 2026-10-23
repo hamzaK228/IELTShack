@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect } from "react";
 
 export default function DashboardError({
   error,
@@ -9,12 +10,16 @@ export default function DashboardError({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  useEffect(() => {
+    console.error("Unhandled dashboard error", error);
+  }, [error]);
+
   return (
     <div className="dash-page">
       <div className="dash-head">
         <div>
           <h1 className="dash-title">Something broke.</h1>
-          <p className="dash-sub">{error.message || "This screen could not load."}</p>
+          <p className="dash-sub">This screen could not load. Try again, or return to the dashboard.</p>
         </div>
       </div>
       <div className="dash-card dash-empty">

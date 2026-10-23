@@ -75,7 +75,22 @@ export function createProfile(input: { name: string; email: string }): Profile {
 
 export function signOut() {
   if (typeof window === "undefined") return;
-  window.localStorage.removeItem(PREFIX + "profile");
+  const keys = [
+    "profile",
+    "attempts",
+    "saved",
+    "vocab",
+    "reviewed-misses",
+    "plan-done",
+    "plan-generated",
+    "speaking",
+    "community",
+  ];
+  keys.forEach((key) => window.localStorage.removeItem(PREFIX + key));
+  for (let index = window.localStorage.length - 1; index >= 0; index -= 1) {
+    const key = window.localStorage.key(index);
+    if (key?.startsWith(`${PREFIX}draft:`)) window.localStorage.removeItem(key);
+  }
   window.dispatchEvent(new CustomEvent(UPDATE_EVENT));
 }
 
@@ -122,11 +137,42 @@ export function replaceSaved(ids: string[]) {
   write("saved", ids);
 }
 
+/** Question ids the learner has marked as reviewed in the miss queue. */
+export function getReviewedMisses(): string[] {
+  return read<string[]>("reviewed-misses", []);
+}
+
+export function markMissReviewed(questionId: string) {
+  const reviewed = getReviewedMisses();
+  if (reviewed.includes(questionId)) return reviewed;
+  const next = [questionId, ...reviewed];
+  write("reviewed-misses", next);
+  return next;
+}
+
+export function resetReviewedMisses() {
+  write("reviewed-misses", []);
+}
+
+/** Replace the reviewed-miss cache after a pull. */
+export function replaceReviewedMisses(ids: string[]) {
+  write("reviewed-misses", ids);
+}
+
 export function resetProgress() {
   if (typeof window === "undefined") return;
   window.localStorage.removeItem(PREFIX + "attempts");
   window.localStorage.removeItem(PREFIX + "saved");
   window.localStorage.removeItem(PREFIX + "vocab");
+  window.localStorage.removeItem(PREFIX + "reviewed-misses");
+  window.localStorage.removeItem(PREFIX + "plan-done");
+  window.localStorage.removeItem(PREFIX + "plan-generated");
+  window.localStorage.removeItem(PREFIX + "speaking");
+  window.localStorage.removeItem(PREFIX + "community");
+  for (let index = window.localStorage.length - 1; index >= 0; index -= 1) {
+    const key = window.localStorage.key(index);
+    if (key?.startsWith(`${PREFIX}draft:`)) window.localStorage.removeItem(key);
+  }
   window.dispatchEvent(new CustomEvent(UPDATE_EVENT));
 }
 

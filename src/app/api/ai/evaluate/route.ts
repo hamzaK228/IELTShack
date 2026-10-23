@@ -1,4 +1,5 @@
 import type { NextRequest } from "next/server";
+import { authConfigured, authFromRequest, supabaseForToken } from "@/lib/server-auth";
 
 export const maxDuration = 60;
 
@@ -48,15 +49,20 @@ export function aiConfigured() {
 
 const buckets = new Map<string, { count: number; reset: number }>();
 
-function rateLimited(key: string) {
+function rateLimited(key: string, limit = 15) {
   const now = Date.now();
+  if (buckets.size > 5_000) {
+    for (const [bucketKey, bucket] of buckets) {
+      if (bucket.reset < now) buckets.delete(bucketKey);
+    }
+  }
   const bucket = buckets.get(key);
   if (!bucket || bucket.reset < now) {
     buckets.set(key, { count: 1, reset: now + 60_000 });
     return false;
   }
   bucket.count += 1;
-  return bucket.count > 15;
+  return bucket.count > limit;
 }
 
 function roundHalf(value: number) {
@@ -150,6 +156,7 @@ async function evaluateWithAi(mode: Mode, prompt: string, text: string): Promise
     body: JSON.stringify({
       model: model(),
       temperature: 0.2,
+      max_tokens: 700,
       response_format: { type: "json_object" },
       messages: [
         { role: "system", content: system },
@@ -187,6 +194,19 @@ async function evaluateWithAi(mode: Mode, prompt: string, text: string): Promise
 }
 
 export async function POST(request: NextRequest) {
+  const auth = await authFromRequest(request);
+  if (authConfigured && !auth) {
+    return Response.json({ error: "Sign in to use the AI examiner." }, { status: 401 });
+  }
+
+  const ip =
+    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+    request.headers.get("x-real-ip") ||
+    "local";
+  if (rateLimited(ip, auth ? 30 : 15)) {
+    return Response.json({ error: "Too many evaluations — wait a minute and try again." }, { status: 429 });
+  }
+
   let body: { mode?: Mode; prompt?: string; text?: string };
   try {
     body = await request.json();
@@ -202,19 +222,15 @@ export async function POST(request: NextRequest) {
     return Response.json({ error: "mode must be writing or speaking." }, { status: 400 });
   }
   if (!prompt) return Response.json({ error: "Missing task prompt." }, { status: 400 });
+  if (prompt.length > 4_000) {
+    return Response.json({ error: "Task prompt is too long." }, { status: 413 });
+  }
 
   const maxChars = mode === "writing" ? 12_000 : 15_000;
   if (text.length > maxChars) {
     return Response.json({ error: `Answer is too long for evaluation (max ${maxChars} characters).` }, { status: 413 });
   }
 
-  const ip =
-    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
-    request.headers.get("x-real-ip") ||
-    "local";
-  if (rateLimited(ip)) {
-    return Response.json({ error: "Too many evaluations — wait a minute and try again." }, { status: 429 });
-  }
   const minWords = mode === "writing" ? 30 : 15;
   if (words(text) < minWords) {
     return Response.json(
@@ -227,12 +243,32 @@ export async function POST(request: NextRequest) {
     return Response.json(heuristic(mode, text));
   }
 
+  if (auth) {
+    const dailyLimit = Number(process.env.AI_DAILY_LIMIT ?? 40) || 40;
+    const { data, error } = await supabaseForToken(auth.token).rpc("ielts_consume_ai_quota", {
+      p_limit: dailyLimit,
+    });
+    if (error) {
+      return Response.json(
+        { error: "AI quota is not configured yet. Apply the latest database migration." },
+        { status: 503 }
+      );
+    }
+    if (Number(data) < 0) {
+      return Response.json(
+        { error: `Daily AI limit reached (${dailyLimit} evaluations). Try again tomorrow.` },
+        { status: 429 }
+      );
+    }
+  }
+
   try {
     const evaluation = await evaluateWithAi(mode, prompt, text);
     return Response.json(evaluation);
   } catch (error) {
+    console.error("AI evaluation failed", error);
     const fallback = heuristic(mode, text);
-    fallback.summary = `AI evaluation failed (${(error as Error).message}); this is a local estimate.`;
+    fallback.summary = "The AI evaluator is unavailable right now; this is a local estimate.";
     return Response.json(fallback);
   }
 }

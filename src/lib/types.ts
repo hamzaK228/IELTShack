@@ -68,6 +68,8 @@ export type SkillScore = {
   correct: number;
   total: number;
   band: number;
+  /** Per-question-type accuracy, used for the weakness profile. */
+  byType?: Record<string, { correct: number; total: number }>;
 };
 
 export type Attempt = {

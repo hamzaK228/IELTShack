@@ -63,12 +63,23 @@ export default function SettingsPage() {
       return;
     }
     resetProgress();
-    window.alert("IELTShack data deleted. Your shared login remains active.");
-    router.push("/dashboard");
+    await signOutRemote();
+    window.alert("IELTShack data deleted. Your shared login remains active — sign in again to start fresh.");
+    router.push("/");
   }
 
   function exportData() {
-    const data = { profile: getProfile(), attempts: getAttempts() };
+    const local: Record<string, unknown> = {};
+    for (let index = 0; index < window.localStorage.length; index += 1) {
+      const key = window.localStorage.key(index);
+      if (!key?.startsWith("ieltshack:") || key === "ieltshack:profile" || key === "ieltshack:attempts") continue;
+      try {
+        local[key.replace("ieltshack:", "")] = JSON.parse(window.localStorage.getItem(key) ?? "null");
+      } catch {
+        local[key.replace("ieltshack:", "")] = window.localStorage.getItem(key);
+      }
+    }
+    const data = { profile: getProfile(), attempts: getAttempts(), local };
     const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");

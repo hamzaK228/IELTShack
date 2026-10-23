@@ -1,11 +1,13 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import SectionRunner, { type RunnerResults } from "./SectionRunner";
 import SpeakingPractice from "./SpeakingPractice";
 import type { SpeakingPrompt } from "@/lib/prompts";
-import type { Skill, Test } from "@/lib/types";
+import { overallBand } from "@/lib/bands";
+import { saveAttempt } from "@/lib/storage";
+import type { Answers, Skill, SkillScore, Test } from "@/lib/types";
 
 type Props = {
   listening: Test;
@@ -46,6 +48,11 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
   const [started, setStarted] = useState(false);
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState<Partial<Record<Skill, RunnerResults>>>({});
+  const [answers, setAnswers] = useState<Answers>({});
+  const [mockStartedAt, setMockStartedAt] = useState("");
+  const [saved, setSaved] = useState(false);
+  const [speakingDone, setSpeakingDone] = useState(false);
+  const mockId = useRef(`mock-${Date.now()}`);
 
   const phases = useMemo<Phase[]>(() => {
     return [
@@ -80,15 +87,81 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
 
   const phase = phases[index];
 
+  const summary = useMemo(() => {
+    const perSkill: Partial<Record<Skill, SkillScore>> = {};
+    const missed = new Set<string>();
+    let correct = 0;
+    let total = 0;
+    for (const value of Object.values(results)) {
+      if (!value) continue;
+      Object.assign(perSkill, value.perSkill);
+      value.missed.forEach((entry) => missed.add(entry.question.id));
+      correct += value.correct;
+      total += value.total;
+    }
+    return {
+      perSkill,
+      missed: Array.from(missed),
+      correct,
+      total,
+      overall: overallBand(Object.values(perSkill).map((score) => score.band)),
+    };
+  }, [results]);
+
+  useEffect(() => {
+    if (!started || saved || phase.kind !== "summary" || !mockStartedAt) return;
+    setSaved(true);
+    const finishedAt = new Date().toISOString();
+    saveAttempt({
+      id: `attempt-${Date.now()}`,
+      testId: mockId.current,
+      testTitle: "Full mock exam",
+      mode: "exam",
+      startedAt: mockStartedAt,
+      finishedAt,
+      durationSeconds: Math.max(
+        0,
+        Math.round((new Date(finishedAt).getTime() - new Date(mockStartedAt).getTime()) / 1000)
+      ),
+      answers,
+      perSkill: summary.perSkill,
+      overallBand: summary.overall,
+      correct: summary.correct,
+      total: summary.total,
+      missed: summary.missed,
+    });
+  }, [started, saved, phase.kind, mockStartedAt, answers, summary]);
+
+  useEffect(() => {
+    if (!started || phase.kind === "summary") return;
+    const warn = (event: BeforeUnloadEvent) => {
+      event.preventDefault();
+      event.returnValue = "";
+    };
+    window.addEventListener("beforeunload", warn);
+    return () => window.removeEventListener("beforeunload", warn);
+  }, [started, phase.kind]);
+
+  function begin() {
+    const now = new Date().toISOString();
+    mockId.current = `mock-${Date.now()}`;
+    setMockStartedAt(now);
+    setAnswers({});
+    setResults({});
+    setSaved(false);
+    setSpeakingDone(false);
+    setIndex(0);
+    setStarted(true);
+  }
+
   function next() {
+    if (phase.kind === "speaking") setSpeakingDone(true);
     setIndex((value) => Math.min(value + 1, phases.length - 1));
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   function restart() {
-    setResults({});
-    setIndex(0);
-    setStarted(true);
+    begin();
   }
 
   if (!started) {
@@ -111,10 +184,10 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
             <li><strong>Speaking</strong><span>One full cue card · prep, record, transcript and AI feedback</span></li>
           </ol>
           <p className="attempt-meta">
-            Breaks are included between sections. You can leave and return, but the phase timers keep running.
+            Breaks are included between sections. Leaving the page ends the mock; the attempt is saved when you reach the results screen.
           </p>
           <div className="mock-actions">
-            <button className="btn btn-primary" onClick={() => setStarted(true)}>Start mock exam →</button>
+            <button className="btn btn-primary" onClick={begin}>Start mock exam →</button>
             <Link className="btn btn-ghost" href="/dashboard">Dashboard</Link>
           </div>
         </div>
@@ -141,8 +214,8 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
           <div className="mock-result-grid">
             <div><span className="dash-stat-label">Listening</span><strong className="dash-stat-value">{listeningBand ?? "—"}</strong></div>
             <div><span className="dash-stat-label">Reading</span><strong className="dash-stat-value">{readingBand ?? "—"}</strong></div>
-            <div><span className="dash-stat-label">Writing</span><strong className="dash-stat-value">{results.writing ? "Done" : "—"}</strong></div>
-            <div><span className="dash-stat-label">Speaking</span><strong className="dash-stat-value">Done</strong></div>
+            <div><span className="dash-stat-label">Writing</span><strong className="dash-stat-value">{writing.sections.some((section) => section.questions.some((question) => String(answers[question.id] ?? "").trim().length > 0)) ? "Done" : "—"}</strong></div>
+            <div><span className="dash-stat-label">Speaking</span><strong className="dash-stat-value">{speakingDone ? "Done" : "—"}</strong></div>
           </div>
           <p className="attempt-meta">
             Listening + reading estimate: <strong>{academic ?? "—"}</strong>. Writing and speaking are assessed by the AI examiner inside their sections; read the band and next steps there.
@@ -166,7 +239,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
         </div>
         <div className="mock-topbar-actions">
           <span className="attempt-meta">{index + 1} / {phases.length}</span>
-          <Link className="btn btn-ghost" href="/dashboard">Exit</Link>
+          <Link className="btn btn-ghost" href="/dashboard" onClick={(event) => { if (!window.confirm("Leave the mock? Progress in this phase will be lost.")) event.preventDefault(); }}>Exit</Link>
         </div>
       </div>
 
@@ -184,6 +257,7 @@ export default function MockExam({ listening, reading, writing, speaking }: Prop
             embedded
             onFinished={(value) => {
               setResults((prev) => ({ ...prev, [phase.skill]: value }));
+              setAnswers((prev) => ({ ...prev, ...value.answers }));
               next();
             }}
           />

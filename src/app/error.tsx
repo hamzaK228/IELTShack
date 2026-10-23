@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect } from "react";
 
 export default function ErrorPage({
   error,
@@ -9,13 +10,17 @@ export default function ErrorPage({
   error: Error & { digest?: string };
   reset: () => void;
 }) {
+  useEffect(() => {
+    console.error("Unhandled app error", error);
+  }, [error]);
+
   return (
     <main className="auth-shell">
       <div className="auth-card" style={{ textAlign: "center" }}>
         <p className="onb-eyebrow">Something broke</p>
         <h1 className="auth-title">That didn&apos;t load.</h1>
         <p className="auth-sub">
-          {error.message || "An unexpected error occurred. Try again, or head back to the dashboard."}
+          An unexpected error occurred. Try again, or head back to the dashboard.
         </p>
         <div style={{ display: "flex", gap: ".7rem", justifyContent: "center", flexWrap: "wrap", marginTop: "1.2rem" }}>
           <button className="btn btn-primary" onClick={reset}>Try again →</button>

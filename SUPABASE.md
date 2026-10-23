@@ -26,7 +26,7 @@ by RLS.
 ## Tables
 
 All tables live in `public`, prefixed `ielts_`. Migration:
-`supabase/migrations/20261021000100_ieltshack_init.sql` (idempotent).
+`supabase/migrations/20261021000100_ieltshack_init.sql` plus the admin and account-deletion fixes (idempotent).
 
 | Table | Purpose | Access |
 | --- | --- | --- |
@@ -40,6 +40,9 @@ All tables live in `public`, prefixed `ielts_`. Migration:
 | `ielts_community_posts` | community feed | readable by all signed-in users, writable by author |
 | `ielts_post_likes` | one like per user per post | readable by all signed-in users, own writes |
 | `ielts_admins` | admin membership | own row readable; no write policy (SQL/service role only) |
+| `ielts_ai_usage` | per-user daily AI evaluation count | own row readable; writes only through `ielts_consume_ai_quota()` |
+| `ielts_review_items` | reviewed miss-queue questions | own rows only |
+| `ielts_content_reports` | learner-flagged question problems | owner inserts/reads; admin triage via RPC |
 
 A trigger `ielts_on_auth_user_created` creates the profile row on sign-up.
 A trigger `ielts_post_likes_sync` maintains the denormalised `likes` count.
@@ -49,6 +52,7 @@ Admin RPCs (all `security definer`, executable by authenticated users only):
 - `ielts_is_admin()` — boolean for the current user.
 - `ielts_admin_stats()` — platform counts; raises unless admin.
 - `ielts_admin_delete_post(uuid)` — moderation delete; raises unless admin.
+- `ielts_admin_reports()` / `ielts_admin_resolve_report(uuid)` — content-report triage; raise unless admin.
 - `ielts_delete_my_account()` — deletes only this app's rows for `auth.uid()`. It does
   **not** delete the shared `auth.users` identity, so SAThack access survives.
 

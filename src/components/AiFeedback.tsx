@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { authHeaders } from "@/lib/client-auth";
 
 type Evaluation = {
   overall: number;
@@ -39,9 +40,10 @@ export default function AiFeedback({
     setLoading(true);
     setError(null);
     try {
+      const authorization = await authHeaders();
       const res = await fetch("/api/ai/evaluate", {
         method: "POST",
-        headers: { "content-type": "application/json" },
+        headers: { "content-type": "application/json", ...authorization },
         body: JSON.stringify({ mode, prompt, text }),
       });
       const data = await res.json();

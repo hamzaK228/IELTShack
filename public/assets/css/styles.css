@@ -568,6 +568,11 @@ section[id], div[id] { scroll-margin-top: 92px; }
 .q-inline:focus { outline: none; border-color: var(--signal); }
 .q-inline.ok { border-color: var(--ok); color: var(--ok); }
 .q-inline.bad { border-color: var(--bad); color: var(--bad); }
+.q-inline-select {
+  width: auto; min-width: 120px; max-width: min(100%, 280px);
+  text-align: left; color: var(--ink);
+}
+.q-inline-static { color: var(--ink-faint); font-weight: 700; white-space: nowrap; }
 .form-answers {
   margin-top: 1rem; border-top: 1px dashed var(--border);
   padding-top: .8rem; font-size: .8rem; color: var(--ink-dim);

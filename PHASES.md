@@ -66,7 +66,7 @@ Legend: `[x]` done · `[~]` partial / working first pass · `[ ]` not started
 - [x] Analytics: band trend and accuracy by skill.
 - [x] Review queue (misses first), saved questions.
 - [x] Question bank browser with skill/type/search filters, server-side search and
-      pagination over 24,572 questions.
+      pagination over 26,402 questions.
 - [x] Practice-test library with search, kind/skill filters and pagination (816 tests).
 - [ ] Question-type heatmap and time-per-question analytics.
 - [ ] Spaced-repetition scheduling for the review queue.

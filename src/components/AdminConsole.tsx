@@ -14,6 +14,13 @@ type Stats = {
   plan_tasks: number;
 };
 type Post = { id: string; author: string; body: string; likes: number; created_at: string };
+type Report = {
+  id: string;
+  test_id: string;
+  question_id: string;
+  reason: string;
+  created_at: string;
+};
 
 export default function AdminConsole({
   tests,
@@ -26,22 +33,25 @@ export default function AdminConsole({
   const [authorized, setAuthorized] = useState(false);
   const [stats, setStats] = useState<Stats | null>(null);
   const [posts, setPosts] = useState<Post[]>([]);
+  const [reports, setReports] = useState<Report[]>([]);
   const [error, setError] = useState<string | null>(null);
 
   async function load() {
     const sb = createClient();
     if (!sb) return;
-    const [statsRes, postsRes] = await Promise.all([
+    const [statsRes, postsRes, reportsRes] = await Promise.all([
       sb.rpc("ielts_admin_stats"),
       sb
         .from("ielts_community_posts")
         .select("id, author, body, likes, created_at")
         .order("created_at", { ascending: false })
         .limit(20),
+      sb.rpc("ielts_admin_reports"),
     ]);
     if (statsRes.error) setError(statsRes.error.message);
     else setStats(statsRes.data as Stats);
     if (postsRes.data) setPosts(postsRes.data as Post[]);
+    if (Array.isArray(reportsRes.data)) setReports(reportsRes.data as Report[]);
   }
 
   useEffect(() => {
@@ -72,6 +82,17 @@ export default function AdminConsole({
       cancelled = true;
     };
   }, []);
+
+  async function resolveReport(id: string) {
+    const sb = createClient();
+    if (!sb) return;
+    const { error: rpcError } = await sb.rpc("ielts_admin_resolve_report", { target: id });
+    if (rpcError) {
+      setError(rpcError.message);
+      return;
+    }
+    await load();
+  }
 
   async function removePost(id: string) {
     if (!window.confirm("Delete this community post?")) return;
@@ -168,6 +189,29 @@ export default function AdminConsole({
             </li>
           ))}
         </ul>
+      </div>
+
+      <div className="dash-card">
+        <h2 className="dash-section-title">Content reports</h2>
+        {reports.length === 0 ? (
+          <p className="dash-empty">No open question reports.</p>
+        ) : (
+          <ul className="attempt-list">
+            {reports.map((report) => (
+              <li className="attempt-row" key={report.id}>
+                <div>
+                  <strong>{report.test_id} · {report.question_id}</strong>
+                  <span className="attempt-meta">
+                    {new Date(report.created_at).toLocaleString()} · {report.reason}
+                  </span>
+                </div>
+                <button className="btn btn-ghost" onClick={() => resolveReport(report.id)}>
+                  Resolve
+                </button>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
 
       <div className="dash-card">

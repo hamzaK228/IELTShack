@@ -7,7 +7,7 @@ no custom server is required.
 
 - Node 24 and npm.
 - The shared ecosystem Supabase project with the `ielts_*` tables already applied
-  (`supabase/migrations/20261021000100_ieltshack_init.sql` and the admin migration).
+  (`20261021000100_ieltshack_init.sql`, the admin migration, and `20261023000100_ieltshack_fix_account_delete.sql`, `20261023000200_ieltshack_security_hardening.sql`).
 - A Vercel account with the repository connected.
 
 ## 2. Environment variables
@@ -21,6 +21,7 @@ Set these in Vercel → Project → Settings → Environment Variables (Producti
 | `OPENAI_API_KEY` or `AI_API_KEY` | optional | enables real AI writing/speaking evaluation |
 | `AI_MODEL` | optional | default `gpt-4o-mini` |
 | `AI_BASE_URL` | optional | any OpenAI-compatible endpoint |
+| `AI_DAILY_LIMIT` | optional | per-user daily evaluations; default 40 |
 
 Locally these live in `.env.local` (git-ignored). See `.env.example`.
 
@@ -91,10 +92,11 @@ migrations are additive and idempotent; no rollback is needed for an app rollbac
 
 ## 8. Known limits before launch
 
-- 292 reading and 177 listening prompts are generic placeholders for image/table
-  tasks and need a visual QA pass.
-- 16 reading questions and 1 listening question are ungraded because the source key
-  is blank.
+- 16 listening prompts are blank, 274 letter-only option sets remain, and the
+  project audit reports 128 findings (including 13 answer-key mismatches). The
+  library quarantines the worst tests; the rest still need a content QA pass.
+- 19 reading questions, 294 writing prompts and 1 speaking prompt are ungraded by
+  design.
 - The shared ecosystem account means an IELTShack signup is also an authenticated
   SAThack user; data isolation depends on each app's RLS. Review SAThack policies.
 - One account is not one-click SSO across domains; that needs a shared parent domain

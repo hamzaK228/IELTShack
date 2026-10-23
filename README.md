@@ -40,17 +40,18 @@ npm run build && npm start
   form/note completion, shared heading banks, question navigator, count-up timer,
   submit per section, then an answer sheet with per-skill bands.
 - **Practice tests** at `/dashboard/test` — 816 tests, search/filter, pagination.
-- **Question bank** at `/dashboard/question-bank` — server-side search across 24,572
-  questions, filters, pagination, show answer, save.
-- **Review queue**, **Saved**, **full attempt review**.
+- **Review queue** — every missed question, with a clearable “Got it” state synced to
+  `ielts_review_items`; **full attempt review** from saved attempts.
+- **Saved** — bookmark state is still stored, but the Saved page was removed in the
+  2026-10-22 narrowing.
 - **Study plan** — weekly tasks, check-off persistence, priorities from weakest skill.
 - **Analytics** — band trend, accuracy by skill.
 - **Progress** — XP, level, streak, badges, demo leaderboard.
-- **Writing** — timed Task 1/2, live word count, band checklist, autosaved drafts,
-  model answers.
-- **Speaking** — 182-card cue bank, prep/speak timers, microphone recording with
-  in-browser transcription, playback, self-rating and AI examiner feedback.
-- **Duel** — five-question, 15-second battles against a simulated rival.
+- **Writing in practice/mock** — Task 1/2 prompts inside the section runner, live word
+  count and AI examiner feedback. The standalone Writing page was removed.
+- **Speaking in the mock** — 179 Part 2 cue cards, prep/speak timers, microphone
+  recording with in-browser transcription, playback, self-rating and AI feedback. The
+  standalone Speaking page was removed.
 - **Community** — feed with posting and likes persisted in Supabase; study-group directory.
 - **Vocabulary** — flashcard trainer with known/learning state.
 - **Tutor** — rule-based demo grounded in IELTS strategy.
@@ -61,8 +62,8 @@ npm run build && npm start
   (the shared ecosystem login remains).
 - **Password reset** — `/auth/forgot` and `/auth/reset`.
 - **Admin console** at `/dashboard/admin/console` — platform counts, content inventory,
-  post moderation (admin membership via the `ielts_admins` table).
-- **Content import** at `/dashboard/admin` — paste a test JSON, validate it, download the file.
+  post moderation and question-report triage (admin membership via `ielts_admins`).
+  The content-import page was removed; add JSON files to `content/tests` instead.
 - **Legal** — `/terms`, `/privacy`.
 
 ## Adding tests
@@ -87,11 +88,12 @@ No application code changes are required.
 ## Notes
 
 - Accounts and all practice data persist in Supabase and sync across devices; the
-  browser copy is a cache.
+  browser copy is a cache. Dashboard routes now require a server-validated session.
+- AI evaluation requires a session and is capped per user per day (`AI_DAILY_LIMIT`).
 - The tutor and leaderboard remain local/demo until their live providers land.
 - IELTShack is part of the AdmissionHack ecosystem, sharing one Supabase account
   pool with SAThack — see [ECOSYSTEM.md](./ECOSYSTEM.md) and
   [SUPABASE.md](./SUPABASE.md) for the isolation rules.
-- 816 imported tests / 24,572 questions are loaded from `content/tests` (audio URLs point
+- 816 imported tests / 26,402 questions are loaded from `content/tests` (audio URLs point
   at practicepteonline). They are study material, not verified official IELTS papers, and
   some carry extraction artifacts (odd prompts, cross-references). Review before launch.

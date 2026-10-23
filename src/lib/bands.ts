@@ -26,24 +26,34 @@ const LISTENING_40: Array<[number, number]> = [
   [18, 5.5], [16, 5], [13, 4.5], [10, 4], [8, 3.5], [6, 3], [4, 2.5],
 ];
 
-function fromTable(correct: number, table: Array<[number, number]>): number {
-  for (const [raw, band] of table) {
-    if (correct >= raw) return band;
-  }
-  return 1;
+function capForTotal(total: number) {
+  if (total < 10) return 8;
+  if (total < 20) return 8.5;
+  return 9;
 }
 
 export function bandForSkill(skill: Skill, correct: number, total: number): number {
   if (total <= 0) return 0;
-  if (total >= 38) {
-    if (skill === "reading") return fromTable(correct, READING_40);
-    if (skill === "listening") return fromTable(correct, LISTENING_40);
+  const safeCorrect = Math.min(total, Math.max(0, correct));
+
+  if (skill === "reading" || skill === "listening") {
+    // Scale short practice sets onto the 40-question table. This keeps the
+    // estimate monotonic across set sizes (9/9 and 10/10 no longer disagree)
+    // and removes the old floor of Band 4 for a blank answer sheet.
+    const scaled = Math.round((safeCorrect / total) * 40);
+    const table = skill === "reading" ? READING_40 : LISTENING_40;
+    let band = 0;
+    for (const [raw, value] of table) {
+      if (scaled >= raw) {
+        band = value;
+        break;
+      }
+    }
+    if (!band) band = scaled > 0 ? 1 : 0;
+    return Math.min(capForTotal(total), band);
   }
-  const ratio = correct / total;
-  // Short practice sets cannot honestly produce a band 9 estimate: cap the
-  // top of the scale until the section is long enough to behave like a real test.
-  if (total < 10) return roundBand(4 + ratio * 4.5);
-  return roundBand(ratio * 9);
+
+  return Math.min(capForTotal(total), roundBand((safeCorrect / total) * 9));
 }
 
 export function bandFromPercent(percent: number): number {

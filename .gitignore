@@ -13,3 +13,6 @@ scripts/.cache/
 test-results/
 playwright-report/
 blob-report/
+
+# Supabase CLI local state
+supabase/.temp/

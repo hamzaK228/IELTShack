@@ -60,6 +60,7 @@ export default function AiFeedback({
   }
 
   const words = text.trim() ? text.trim().split(/\s+/).length : 0;
+  const minWords = mode === "writing" ? 30 : 15;
 
   return (
     <div className={`ai-feedback${compact ? " compact" : ""}`}>
@@ -70,13 +71,13 @@ export default function AiFeedback({
             {mode === "writing" ? "Task response · coherence · vocabulary · grammar" : "Fluency · vocabulary · grammar · pronunciation"}
           </span>
         </div>
-        <button className="btn btn-ghost" onClick={evaluate} disabled={loading || words < 15} aria-busy={loading}>
+        <button className="btn btn-ghost" onClick={evaluate} disabled={loading || words < minWords} aria-busy={loading}>
           {loading ? "Evaluating…" : result ? "Re-check" : "Check with AI →"}
         </button>
       </div>
 
-      {words < 15 && (
-        <p className="attempt-meta">Write at least a few sentences (15+ words) to get feedback.</p>
+      {words < minWords && (
+        <p className="attempt-meta">Write at least {minWords} words to get feedback.</p>
       )}
       {error && <p className="field-error">{error}</p>}
 
